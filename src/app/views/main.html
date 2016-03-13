@@ -1,0 +1,13 @@
+<div class="container" *ngFor="#item of news">
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <h4>
+        <span class="label label-default" (click)="onHideItem(item)">Hide</span>
+        <span class="label label-success"  (click)="onOpenItem(item)">Open</span>
+        <span *ngIf="(item.votes > 5)" style="color:yellow" class="badge">{{item.votes}}</span>
+        {{item.topic}}
+        <small style="float:right;">Votes: {{item.votes}}, Posted: {{item.posted}}</small>
+      </h4>
+    </div>
+  </div>
+</div>
