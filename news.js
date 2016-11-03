@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12867634",
+    "timestamp": "Nov 3, 2016 9:43:38 PM",
+    "topic": "Yet another JVM language? Whiley takes a fresh approach",
+    "url": "http://www.javaworld.com/article/3137548/scripting-jvm-languages/yet-another-jvm-language-whiley-takes-a-fresh-approach.html",
+    "votes": 3,
+    "posted": "Nov 3, 2016 9:27:51 PM"
+  },
+  {
+    "id": "12867380",
+    "timestamp": "Nov 3, 2016 9:23:35 PM",
+    "topic": "Udacity the new ITT Tech?",
+    "url": "https://tech.masters3d.com/udacity-the-new-itt-tech-ce26018c3f2",
+    "votes": 4,
+    "posted": "Nov 3, 2016 8:55:27 PM"
+  },
+  {
+    "id": "12867356",
+    "timestamp": "Nov 3, 2016 9:23:35 PM",
+    "topic": "Why Are US Presidential Elections So Close?",
+    "url": "http://nautil.us/issue/42/fakes/why-are-us-presidential-elections-so-close",
+    "votes": 4,
+    "posted": "Nov 3, 2016 8:53:10 PM"
+  },
+  {
     "id": "12867221",
     "timestamp": "Nov 3, 2016 8:53:31 PM",
     "topic": "A Conductor of Evolution’s Subtle Symphony",
@@ -22,6 +46,22 @@ var newsArray = [
     "url": "http://fermatslibrary.com/s/using-neural-nets-to-recognize-handwritten-digits",
     "votes": 8,
     "posted": "Nov 3, 2016 8:24:23 PM"
+  },
+  {
+    "id": "12867109",
+    "timestamp": "Nov 3, 2016 9:43:38 PM",
+    "topic": "Instacart CEO: Some Workers Must Earn Less for the Company to Grow",
+    "url": "https://www.buzzfeed.com/carolineodonovan/instacart-ceo-some-workers-must-earn-less-for-the-company-to",
+    "votes": 4,
+    "posted": "Nov 3, 2016 8:22:34 PM"
+  },
+  {
+    "id": "12866974",
+    "timestamp": "Nov 3, 2016 9:23:35 PM",
+    "topic": "List of silicon valley startups that are about to grow fast",
+    "url": "http://www.yodas.com/hyper",
+    "votes": 7,
+    "posted": "Nov 3, 2016 8:07:24 PM"
   },
   {
     "id": "12866943",
@@ -103,12 +143,28 @@ var newsArray = [
     "posted": "Nov 3, 2016 6:41:45 PM"
   },
   {
+    "id": "12866033",
+    "timestamp": "Nov 3, 2016 9:13:34 PM",
+    "topic": "Introducing Operators: Putting Operational Knowledge into Software on Kubernetes",
+    "url": "https://coreos.com/blog/introducing-operators.html",
+    "votes": 5,
+    "posted": "Nov 3, 2016 6:29:37 PM"
+  },
+  {
     "id": "12865998",
     "timestamp": "Nov 3, 2016 7:13:21 PM",
     "topic": "Web fonts, boy, I don\u0027t know",
     "url": "http://meowni.ca/posts/web-fonts/",
     "votes": 3,
     "posted": "Nov 3, 2016 6:25:32 PM"
+  },
+  {
+    "id": "12865971",
+    "timestamp": "Nov 3, 2016 9:23:35 PM",
+    "topic": "New Research Points the Finger at Employers for the Widespread Talent Shortage",
+    "url": "https://www.fastcompany.com/3065019/new-research-points-the-finger-at-employers-for-the-widespread-talent-shortage",
+    "votes": 4,
+    "posted": "Nov 3, 2016 6:23:07 PM"
   },
   {
     "id": "12865922",
@@ -127,12 +183,44 @@ var newsArray = [
     "posted": "Nov 3, 2016 6:09:18 PM"
   },
   {
+    "id": "12865809",
+    "timestamp": "Nov 3, 2016 9:23:36 PM",
+    "topic": "Putin Grants Russian Citizenship to Steven Seagal",
+    "url": "http://www.foxnews.com/entertainment/2016/11/03/putin-grants-russian-citizenship-to-steven-seagal.html",
+    "votes": 3,
+    "posted": "Nov 3, 2016 6:06:24 PM"
+  },
+  {
     "id": "12865698",
     "timestamp": "Nov 3, 2016 6:03:12 PM",
     "topic": "Tech firms shell out to hire and hoard talent",
     "url": "http://www.economist.com/news/business/21709574-tech-firms-battle-hire-and-hoard-talented-employees-huge-pay-packages-silicon-valley?cid1\u003dcust/ednew/n/bl/n/2016113n/owned/n/n/nwl/n/n/NA/8027532/n",
     "votes": 3,
     "posted": "Nov 3, 2016 5:55:14 PM"
+  },
+  {
+    "id": "12865675",
+    "timestamp": "Nov 3, 2016 9:23:35 PM",
+    "topic": "The Biggest Supermoon in Nearly 70 Years",
+    "url": "http://sciencebulletin.org/archives/7310.html",
+    "votes": 4,
+    "posted": "Nov 3, 2016 5:53:12 PM"
+  },
+  {
+    "id": "12865628",
+    "timestamp": "Nov 3, 2016 9:03:32 PM",
+    "topic": "Tech firms shell out to hire and hoard talent",
+    "url": "http://www.economist.com/news/business/21709574-tech-firms-battle-hire-and-hoard-talented-employees-huge-pay-packages-silicon-valley",
+    "votes": 4,
+    "posted": "Nov 3, 2016 5:48:10 PM"
+  },
+  {
+    "id": "12865627",
+    "timestamp": "Nov 3, 2016 9:53:39 PM",
+    "topic": "Adobe Sensei – Unified artificial intelligence and machine learning",
+    "url": "http://www.adobe.com/sensei.html",
+    "votes": 5,
+    "posted": "Nov 3, 2016 5:48:00 PM"
   },
   {
     "id": "12865321",
@@ -7992,43 +8080,5 @@ var newsArray = [
     "url": "https://jobs.lever.co/verbling/7c1a06c1-cdc0-426a-998c-b2b64acd7dd8",
     "votes": 1,
     "posted": "Oct 27, 2016 9:59:52 PM"
-  },
-  {
-    "id": "12809141",
-    "timestamp": "Oct 28, 2016 3:29:28 PM",
-    "topic": "How to De-Risk a Startup",
-    "url": "https://codingvc.com/how-to-de-risk-a-startup/",
-    "votes": 4,
-    "posted": "Oct 27, 2016 9:49:57 PM"
-  },
-  {
-    "id": "12808926",
-    "timestamp": "Oct 27, 2016 9:57:57 PM",
-    "topic": "Apple, this time you made a mistake",
-    "url": "http://andhennie.tumblr.com/post/152390980989/apple-this-time-you-made-a-mistake",
-    "votes": 18,
-    "posted": "Oct 27, 2016 9:33:16 PM"
-  },
-  {
-    "id": "12808894",
-    "timestamp": "Oct 27, 2016 10:07:58 PM",
-    "topic": "Ask HN: Would You Upgrade to the New MacBook Pro?",
-    "votes": 4,
-    "posted": "Oct 27, 2016 9:31:30 PM"
-  },
-  {
-    "id": "12808657",
-    "timestamp": "Oct 27, 2016 10:48:04 PM",
-    "topic": "Hi-res photo of Europe’s lost Mars lander uncovers a new mystery",
-    "url": "http://arstechnica.com/science/2016/10/new-hi-rez-photo-of-europes-lost-mars-lander-uncovers-a-new-mystery/",
-    "votes": 4,
-    "posted": "Oct 27, 2016 9:13:55 PM"
-  },
-  {
-    "id": "12808429",
-    "timestamp": "Oct 27, 2016 9:07:48 PM",
-    "topic": "Ask HN: Do you get paid to contribute to a open source project?",
-    "votes": 5,
-    "posted": "Oct 27, 2016 8:59:02 PM"
   }
 ];
