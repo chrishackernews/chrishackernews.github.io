@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12865834",
+    "timestamp": "Nov 3, 2016 6:13:13 PM",
+    "topic": "Visual Studio Code October 2016 1.7.1",
+    "url": "http://code.visualstudio.com/updates/v1_7#_171-recovery-build",
+    "votes": 5,
+    "posted": "Nov 3, 2016 6:09:18 PM"
+  },
+  {
+    "id": "12865698",
+    "timestamp": "Nov 3, 2016 6:03:12 PM",
+    "topic": "Tech firms shell out to hire and hoard talent",
+    "url": "http://www.economist.com/news/business/21709574-tech-firms-battle-hire-and-hoard-talented-employees-huge-pay-packages-silicon-valley?cid1\u003dcust/ednew/n/bl/n/2016113n/owned/n/n/nwl/n/n/NA/8027532/n",
+    "votes": 3,
+    "posted": "Nov 3, 2016 5:55:14 PM"
+  },
+  {
     "id": "12865169",
     "timestamp": "Nov 3, 2016 5:53:11 PM",
     "topic": "Ubuntu Core 16 delivers foundation for secure IoT",
@@ -110,6 +126,14 @@ var newsArray = [
     "url": "http://www.hoover.org/research/coming-war-middle-east",
     "votes": 12,
     "posted": "Nov 3, 2016 2:50:03 PM"
+  },
+  {
+    "id": "12863779",
+    "timestamp": "Nov 3, 2016 6:23:15 PM",
+    "topic": "A.I. accurately predicted the full baseball post-season back in July",
+    "url": "http://www.marketwired.com/press-release/ai-makes-yet-another-remarkable-prediction-2172570.htm",
+    "votes": 9,
+    "posted": "Nov 3, 2016 2:35:11 PM"
   },
   {
     "id": "12863699",
@@ -8037,77 +8061,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/",
     "votes": 4,
     "posted": "Oct 27, 2016 6:56:07 PM"
-  },
-  {
-    "id": "12806616",
-    "timestamp": "Oct 27, 2016 6:47:31 PM",
-    "topic": "Facebook Releases Origami Studio",
-    "url": "http://origami.design/",
-    "votes": 10,
-    "posted": "Oct 27, 2016 6:34:31 PM"
-  },
-  {
-    "id": "12806590",
-    "timestamp": "Oct 27, 2016 6:37:30 PM",
-    "topic": "Mux is hiring a designer. Join the team behind Zencoder, Video.js, and Demuxed",
-    "url": "https://muxhq.workable.com/jobs/317511",
-    "votes": 1,
-    "posted": "Oct 27, 2016 6:32:03 PM"
-  },
-  {
-    "id": "12806568",
-    "timestamp": "Oct 27, 2016 6:47:31 PM",
-    "topic": "Vine is Shutting Down",
-    "url": "https://medium.com/@vine/important-news-about-vine-909c5f4ae7a7#.yts8n1tgy",
-    "votes": 4,
-    "posted": "Oct 27, 2016 6:30:26 PM"
-  },
-  {
-    "id": "12806559",
-    "timestamp": "Oct 27, 2016 8:27:43 PM",
-    "topic": "Twitter Axes Vine Video Service",
-    "url": "http://www.bbc.com/news/technology-37788052",
-    "votes": 4,
-    "posted": "Oct 27, 2016 6:29:52 PM"
-  },
-  {
-    "id": "12806533",
-    "timestamp": "Oct 27, 2016 6:37:30 PM",
-    "topic": "Twitter axes Vine video service",
-    "url": "http://www.bbc.co.uk/news/technology-37788052",
-    "votes": 10,
-    "posted": "Oct 27, 2016 6:27:27 PM"
-  },
-  {
-    "id": "12806461",
-    "timestamp": "Oct 27, 2016 6:27:29 PM",
-    "topic": "LCS-1 – Oldest spacecraft still in use",
-    "url": "https://en.wikipedia.org/wiki/Lincoln_Calibration_Sphere_1",
-    "votes": 5,
-    "posted": "Oct 27, 2016 6:21:05 PM"
-  },
-  {
-    "id": "12806409",
-    "timestamp": "Oct 27, 2016 6:57:33 PM",
-    "topic": "Important News about Vine",
-    "url": "https://medium.com/@vine/important-news-about-vine-909c5f4ae7a7",
-    "votes": 5,
-    "posted": "Oct 27, 2016 6:17:09 PM"
-  },
-  {
-    "id": "12806401",
-    "timestamp": "Oct 27, 2016 6:17:28 PM",
-    "topic": "Twitter closing Vine",
-    "url": "https://medium.com/@vine/important-news-about-vine-909c5f4ae7a7#.x5w73v2lv",
-    "votes": 3,
-    "posted": "Oct 27, 2016 6:15:52 PM"
-  },
-  {
-    "id": "12806324",
-    "timestamp": "Oct 27, 2016 6:17:28 PM",
-    "topic": "Twitter is killing Vine",
-    "url": "https://medium.com/@vine/important-news-about-vine-909c5f4ae7a7#.as5uverxh",
-    "votes": 9,
-    "posted": "Oct 27, 2016 6:08:48 PM"
   }
 ];
