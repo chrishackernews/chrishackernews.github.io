@@ -47,10 +47,18 @@ public onOpenItem(item: NewsEntry) {
   window.open(item.url, '_blank');
 }
 
-  public onHideItem(item: NewsEntry) {
-    this.hiddenNews[item.id] = item;
-    localStorage.setItem(item.id, JSON.stringify(item));
+hideItem(item: NewsEntry) {
+  this.hiddenNews[item.id] = item;
+  localStorage.setItem(item.id, JSON.stringify(item));
+}
 
+  public onHideItem(item: NewsEntry) {
+    this.hideItem(item);
+    this.update();
+  }
+
+  public onHideAllItem() {
+    newsArray.forEach(item => this.hideItem(item));
     this.update();
   }
 }

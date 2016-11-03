@@ -31,9 +31,17 @@ var AppComponent = (function () {
         this.onHideItem(item);
         window.open(item.url, '_blank');
     };
-    AppComponent.prototype.onHideItem = function (item) {
+    AppComponent.prototype.hideItem = function (item) {
         this.hiddenNews[item.id] = item;
         localStorage.setItem(item.id, JSON.stringify(item));
+    };
+    AppComponent.prototype.onHideItem = function (item) {
+        this.hideItem(item);
+        this.update();
+    };
+    AppComponent.prototype.onHideAllItem = function () {
+        var _this = this;
+        newsArray.forEach(function (item) { return _this.hideItem(item); });
         this.update();
     };
     AppComponent = __decorate([

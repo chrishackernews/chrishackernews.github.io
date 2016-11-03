@@ -1,3 +1,20 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">
+        <span>
+          <img alt="Brand" src="https://news.ycombinator.com/y18.gif">
+          Hacker News
+        </span>
+      </a>
+    </div>
+
+    <form class="navbar-form navbar-left" role="search">
+        <button type="submit" class="btn btn-default" (click)="onHideAllItem(item)">Clear</button>
+      </form>
+  </div>
+</nav>
+
 <div class="container" *ngFor="#item of news">
   <div class="panel panel-default">
     <div class="panel-body">
