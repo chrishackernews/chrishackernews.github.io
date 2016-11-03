@@ -1,11 +1,98 @@
 var newsArray = [
   {
+    "id": "12867221",
+    "timestamp": "Nov 3, 2016 8:53:31 PM",
+    "topic": "A Conductor of Evolution’s Subtle Symphony",
+    "url": "https://www.quantamagazine.org/20161103-richard-lenski-interview-evolution/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 8:36:24 PM"
+  },
+  {
+    "id": "12867199",
+    "timestamp": "Nov 3, 2016 8:33:29 PM",
+    "topic": "Tesorio (YC S15) Is Hiring Senior Back End and Full Stack Engineers",
+    "url": "https://www.tesorio.com/careers/",
+    "votes": 1,
+    "posted": "Nov 3, 2016 8:32:55 PM"
+  },
+  {
+    "id": "12867123",
+    "timestamp": "Nov 3, 2016 8:43:30 PM",
+    "topic": "Annotating Michael Nielsen\u0027s Book on Deep Learning: Chapter 1",
+    "url": "http://fermatslibrary.com/s/using-neural-nets-to-recognize-handwritten-digits",
+    "votes": 8,
+    "posted": "Nov 3, 2016 8:24:23 PM"
+  },
+  {
+    "id": "12866943",
+    "timestamp": "Nov 3, 2016 8:23:28 PM",
+    "topic": "Show HN: Sodaphonic – record and edit audio in the browser",
+    "url": "https://sodaphonic.com",
+    "votes": 4,
+    "posted": "Nov 3, 2016 8:04:14 PM"
+  },
+  {
     "id": "12866784",
     "timestamp": "Nov 3, 2016 7:53:25 PM",
     "topic": "Apple Kills the Best MacBook Pro in the World",
     "url": "http://www.forbes.com/sites/ewanspence/2016/10/27/apple-kills-best-macbook-pro/#58f2206b39bf",
     "votes": 3,
     "posted": "Nov 3, 2016 7:48:43 PM"
+  },
+  {
+    "id": "12866747",
+    "timestamp": "Nov 3, 2016 8:03:26 PM",
+    "topic": "Apollo Client 0.5",
+    "url": "https://dev-blog.apollodata.com/apollo-client-0-5-f1eb3f122ace",
+    "votes": 4,
+    "posted": "Nov 3, 2016 7:44:22 PM"
+  },
+  {
+    "id": "12866723",
+    "timestamp": "Nov 3, 2016 8:43:31 PM",
+    "topic": "Edward Snowden\u0027s Lecture at McGill University – Nov 2nd, 2016 – Start ±1:16:20",
+    "url": "https://www.youtube.com/watch?v\u003d4x8ZI0IaInE",
+    "votes": 5,
+    "posted": "Nov 3, 2016 7:41:53 PM"
+  },
+  {
+    "id": "12866695",
+    "timestamp": "Nov 3, 2016 8:33:29 PM",
+    "topic": "Ask HN: What is a “boring” web stack?",
+    "votes": 7,
+    "posted": "Nov 3, 2016 7:38:58 PM"
+  },
+  {
+    "id": "12866629",
+    "timestamp": "Nov 3, 2016 8:23:28 PM",
+    "topic": "New Macbook Pro can\u0027t walk and chew gum at same time (watch wifi and USB \u003d fail)",
+    "url": "https://www.youtube.com/watch?v\u003dNYVjIjBMx6o",
+    "votes": 4,
+    "posted": "Nov 3, 2016 7:33:31 PM"
+  },
+  {
+    "id": "12866553",
+    "timestamp": "Nov 3, 2016 8:43:30 PM",
+    "topic": "Curiosity Mars Rover Checks Odd-Looking Iron Meteorite",
+    "url": "http://www.jpl.nasa.gov/news/news.php?feature\u003d6667",
+    "votes": 4,
+    "posted": "Nov 3, 2016 7:25:17 PM"
+  },
+  {
+    "id": "12866538",
+    "timestamp": "Nov 3, 2016 8:33:29 PM",
+    "topic": "Show HN: Quick JavaScript Tetris – Based on Yesterday\u0027s Show HN",
+    "url": "https://github.com/sacert/Quick-Tetris",
+    "votes": 3,
+    "posted": "Nov 3, 2016 7:23:53 PM"
+  },
+  {
+    "id": "12866328",
+    "timestamp": "Nov 3, 2016 8:33:29 PM",
+    "topic": "46% of 2015 Tech IPOs Are Underwater, 62% Under Their First Day Closes",
+    "url": "https://mattermark.com/46-2015-tech-ipos-underwater-62-first-day-closes/",
+    "votes": 4,
+    "posted": "Nov 3, 2016 7:00:04 PM"
   },
   {
     "id": "12866156",
@@ -7943,84 +8030,5 @@ var newsArray = [
     "topic": "Ask HN: Do you get paid to contribute to a open source project?",
     "votes": 5,
     "posted": "Oct 27, 2016 8:59:02 PM"
-  },
-  {
-    "id": "12808164",
-    "timestamp": "Oct 28, 2016 12:49:15 PM",
-    "topic": "Ask HN: How should I dive back into Rails after a long haitus?",
-    "votes": 4,
-    "posted": "Oct 27, 2016 8:45:28 PM"
-  },
-  {
-    "id": "12807906",
-    "timestamp": "Oct 27, 2016 8:47:45 PM",
-    "topic": "Java 9 will support ahead-of-time compilation",
-    "url": "http://openjdk.java.net/jeps/295",
-    "votes": 6,
-    "posted": "Oct 27, 2016 8:30:15 PM"
-  },
-  {
-    "id": "12807863",
-    "timestamp": "Oct 28, 2016 7:39:52 PM",
-    "topic": "Show HN: CSS ICON animate, morph between any two icons",
-    "url": "http://cssicon.space/#/animate",
-    "votes": 29,
-    "posted": "Oct 27, 2016 8:27:29 PM"
-  },
-  {
-    "id": "12807847",
-    "timestamp": "Oct 27, 2016 11:58:11 PM",
-    "topic": "WordPerfect Touch Bar",
-    "url": "https://pbs.twimg.com/media/Cvy1gH6WIAAqBNQ.jpg:large",
-    "votes": 3,
-    "posted": "Oct 27, 2016 8:26:28 PM"
-  },
-  {
-    "id": "12807834",
-    "timestamp": "Oct 27, 2016 9:37:53 PM",
-    "topic": "Dozens Charged with Scamming 15,000 Victims Through Fake IRS Calls",
-    "url": "http://www.npr.org/sections/thetwo-way/2016/10/27/499585590/justice-department-charges-61-people-in-fake-irs-phone-call-conspiracy",
-    "votes": 3,
-    "posted": "Oct 27, 2016 8:25:46 PM"
-  },
-  {
-    "id": "12807826",
-    "timestamp": "Oct 27, 2016 8:37:44 PM",
-    "topic": "MacBook Pro",
-    "url": "http://www.apple.com/macbook-pro/",
-    "votes": 49,
-    "posted": "Oct 27, 2016 8:24:58 PM"
-  },
-  {
-    "id": "12807740",
-    "timestamp": "Oct 27, 2016 9:27:50 PM",
-    "topic": "Privilege escalation vulnerability in FreeBSD bhyve",
-    "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-16:32.bhyve.asc",
-    "votes": 6,
-    "posted": "Oct 27, 2016 8:15:59 PM"
-  },
-  {
-    "id": "12807736",
-    "timestamp": "Oct 27, 2016 8:57:47 PM",
-    "topic": "A Physical Description of Flight; Revisited [pdf]",
-    "url": "http://www.allstar.fiu.edu/aero/Flightrevisited.pdf",
-    "votes": 4,
-    "posted": "Oct 27, 2016 8:15:48 PM"
-  },
-  {
-    "id": "12807711",
-    "timestamp": "Oct 27, 2016 9:27:50 PM",
-    "topic": "American Children Are Drowning in Self-Esteem",
-    "url": "https://www.1843magazine.com/dispatches/the-daily/american-children-are-drowning-in-selfesteem",
-    "votes": 3,
-    "posted": "Oct 27, 2016 8:13:31 PM"
-  },
-  {
-    "id": "12807500",
-    "timestamp": "Oct 27, 2016 8:47:45 PM",
-    "topic": "Apple’s new TV app is its way of simplifying all your streaming content",
-    "url": "http://arstechnica.com/apple/2016/10/apples-new-tv-app-is-its-way-of-simplifying-all-your-streaming-content/",
-    "votes": 3,
-    "posted": "Oct 27, 2016 7:56:07 PM"
   }
 ];
