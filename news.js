@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12865922",
+    "timestamp": "Nov 3, 2016 6:53:19 PM",
+    "topic": "The Food Delivery Death Star",
+    "url": "https://medium.com/@review/the-food-delivery-death-star-85f9a121313",
+    "votes": 9,
+    "posted": "Nov 3, 2016 6:18:50 PM"
+  },
+  {
     "id": "12865834",
     "timestamp": "Nov 3, 2016 6:13:13 PM",
     "topic": "Visual Studio Code October 2016 1.7.1",
@@ -834,6 +842,14 @@ var newsArray = [
     "url": "http://www.eastbaytimes.com/2016/11/01/bart-janitor-grossed-270k-in-pay-and-benefits-last-year/",
     "votes": 6,
     "posted": "Nov 2, 2016 7:59:07 PM"
+  },
+  {
+    "id": "12857988",
+    "timestamp": "Nov 3, 2016 6:53:19 PM",
+    "topic": "An Artist Is Building a Parthenon of Banned Books",
+    "url": "http://www.smithsonianmag.com/smart-news/artist-building-parthenon-banned-books-180960923/?no-ist",
+    "votes": 3,
+    "posted": "Nov 2, 2016 7:47:27 PM"
   },
   {
     "id": "12857883",
