@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12866784",
+    "timestamp": "Nov 3, 2016 7:53:25 PM",
+    "topic": "Apple Kills the Best MacBook Pro in the World",
+    "url": "http://www.forbes.com/sites/ewanspence/2016/10/27/apple-kills-best-macbook-pro/#58f2206b39bf",
+    "votes": 3,
+    "posted": "Nov 3, 2016 7:48:43 PM"
+  },
+  {
+    "id": "12866156",
+    "timestamp": "Nov 3, 2016 7:33:22 PM",
+    "topic": "Introducing Unified Update Platform (UUP)",
+    "url": "https://blogs.windows.com/windowsexperience/2016/11/03/introducing-unified-update-platform-uup/",
+    "votes": 4,
+    "posted": "Nov 3, 2016 6:41:45 PM"
+  },
+  {
+    "id": "12865998",
+    "timestamp": "Nov 3, 2016 7:13:21 PM",
+    "topic": "Web fonts, boy, I don\u0027t know",
+    "url": "http://meowni.ca/posts/web-fonts/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 6:25:32 PM"
+  },
+  {
     "id": "12865922",
     "timestamp": "Nov 3, 2016 6:53:19 PM",
     "topic": "The Food Delivery Death Star",
@@ -24,6 +48,14 @@ var newsArray = [
     "posted": "Nov 3, 2016 5:55:14 PM"
   },
   {
+    "id": "12865321",
+    "timestamp": "Nov 3, 2016 7:03:20 PM",
+    "topic": "The YC Effect: Charting How YC Makes Your Company Better",
+    "url": "http://themacro.com/articles/2016/11/the-yc-effect/",
+    "votes": 4,
+    "posted": "Nov 3, 2016 5:19:39 PM"
+  },
+  {
     "id": "12865169",
     "timestamp": "Nov 3, 2016 5:53:11 PM",
     "topic": "Ubuntu Core 16 delivers foundation for secure IoT",
@@ -46,6 +78,14 @@ var newsArray = [
     "url": "http://www.imore.com/macbook-pro",
     "votes": 3,
     "posted": "Nov 3, 2016 5:02:31 PM"
+  },
+  {
+    "id": "12864862",
+    "timestamp": "Nov 3, 2016 7:13:21 PM",
+    "topic": "Show HN: HTMLComponent – Component-Based UIs Using Only ES6 and Custom Elements",
+    "url": "https://github.com/felipeccastro/html-component/",
+    "votes": 6,
+    "posted": "Nov 3, 2016 4:38:29 PM"
   },
   {
     "id": "12864806",
@@ -136,6 +176,14 @@ var newsArray = [
     "posted": "Nov 3, 2016 2:50:03 PM"
   },
   {
+    "id": "12863820",
+    "timestamp": "Nov 3, 2016 7:53:25 PM",
+    "topic": "Show HN: Browse dead and dying startups",
+    "url": "http://deathwatch.io/",
+    "votes": 6,
+    "posted": "Nov 3, 2016 2:40:02 PM"
+  },
+  {
     "id": "12863779",
     "timestamp": "Nov 3, 2016 6:23:15 PM",
     "topic": "A.I. accurately predicted the full baseball post-season back in July",
@@ -150,6 +198,14 @@ var newsArray = [
     "url": "https://bearssl.org/",
     "votes": 10,
     "posted": "Nov 3, 2016 2:23:29 PM"
+  },
+  {
+    "id": "12863565",
+    "timestamp": "Nov 3, 2016 7:33:22 PM",
+    "topic": "Browsers, not apps, are the future of mobile",
+    "url": "https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/",
+    "votes": 5,
+    "posted": "Nov 3, 2016 2:01:41 PM"
   },
   {
     "id": "12863455",
@@ -7966,116 +8022,5 @@ var newsArray = [
     "url": "http://arstechnica.com/apple/2016/10/apples-new-tv-app-is-its-way-of-simplifying-all-your-streaming-content/",
     "votes": 3,
     "posted": "Oct 27, 2016 7:56:07 PM"
-  },
-  {
-    "id": "12807451",
-    "timestamp": "Oct 27, 2016 8:17:42 PM",
-    "topic": "Apple introduces brand-new 13- and 15-inch MacBook Pros",
-    "url": "http://arstechnica.com/apple/2016/10/apple-introduces-brand-new-13-and-15-inch-macbook-pros/",
-    "votes": 5,
-    "posted": "Oct 27, 2016 7:52:23 PM"
-  },
-  {
-    "id": "12807376",
-    "timestamp": "Oct 27, 2016 8:47:45 PM",
-    "topic": "Google Chrome shipping with web bluetooth privacy disaster?",
-    "url": "https://it.slashdot.org/story/16/10/27/154229/web-bluetooth-opens-new-abusive-channels",
-    "votes": 3,
-    "posted": "Oct 27, 2016 7:47:32 PM"
-  },
-  {
-    "id": "12807354",
-    "timestamp": "Oct 27, 2016 8:07:41 PM",
-    "topic": "AT\u0026T requires police to hide Hemisphere phone spying",
-    "url": "https://www.eff.org/deeplinks/2016/10/att-requires-police-hide-hemisphere-phone-spying",
-    "votes": 4,
-    "posted": "Oct 27, 2016 7:46:15 PM"
-  },
-  {
-    "id": "12807287",
-    "timestamp": "Oct 27, 2016 8:57:47 PM",
-    "topic": "Uber Elevate: On-Demand Urban Air Transportation [pdf]",
-    "url": "https://www.uber.com/elevate.pdf",
-    "votes": 4,
-    "posted": "Oct 27, 2016 7:40:08 PM"
-  },
-  {
-    "id": "12807245",
-    "timestamp": "Oct 27, 2016 7:47:39 PM",
-    "topic": "Apple announces new MacBook Pro with touch strip",
-    "url": "http://www.theverge.com/2016/10/27/13436750/apple-macbook-pro-announced-laptop-price-release-date-specs",
-    "votes": 6,
-    "posted": "Oct 27, 2016 7:36:05 PM"
-  },
-  {
-    "id": "12807244",
-    "timestamp": "Oct 27, 2016 7:47:38 PM",
-    "topic": "The new MacBook Pro is here",
-    "url": "https://techcrunch.com/2016/10/27/return-of-the-mac/",
-    "votes": 12,
-    "posted": "Oct 27, 2016 7:35:51 PM"
-  },
-  {
-    "id": "12807107",
-    "timestamp": "Oct 27, 2016 7:37:36 PM",
-    "topic": "Evidence that birds sleep in mid-flight",
-    "url": "http://www.nature.com/articles/ncomms12468",
-    "votes": 3,
-    "posted": "Oct 27, 2016 7:22:07 PM"
-  },
-  {
-    "id": "12807106",
-    "timestamp": "Oct 27, 2016 10:07:59 PM",
-    "topic": "What is the intuition behind the Beta distribution?",
-    "url": "http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution",
-    "votes": 3,
-    "posted": "Oct 27, 2016 7:22:06 PM"
-  },
-  {
-    "id": "12807042",
-    "timestamp": "Oct 27, 2016 7:47:38 PM",
-    "topic": "Ask a Female Engineer: Employees with Kids and Relationships at Work",
-    "url": "http://themacro.com/articles/2016/10/ask-a-female-engineer-4/",
-    "votes": 11,
-    "posted": "Oct 27, 2016 7:16:16 PM"
-  },
-  {
-    "id": "12807038",
-    "timestamp": "Oct 28, 2016 6:28:44 AM",
-    "topic": "Ask HN: What are your best unusual parenting practices?",
-    "votes": 4,
-    "posted": "Oct 27, 2016 7:15:38 PM"
-  },
-  {
-    "id": "12806941",
-    "timestamp": "Oct 27, 2016 7:57:40 PM",
-    "topic": "DTrace for Linux 2016",
-    "url": "http://www.brendangregg.com/blog/2016-10-27/dtrace-for-linux-2016.html",
-    "votes": 7,
-    "posted": "Oct 27, 2016 7:06:42 PM"
-  },
-  {
-    "id": "12806940",
-    "timestamp": "Oct 27, 2016 9:27:50 PM",
-    "topic": "BASIC Interpreter Hidden in ESP32 Silicon",
-    "url": "http://hackaday.com/2016/10/27/basic-interpreter-hidden-in-esp32-silicon/",
-    "votes": 4,
-    "posted": "Oct 27, 2016 7:06:17 PM"
-  },
-  {
-    "id": "12806879",
-    "timestamp": "Oct 27, 2016 7:37:37 PM",
-    "topic": "How one little community helped us raise $8M",
-    "url": "https://www.imzy.com/dan/post/how_one_little_community_helped_us_raise_8",
-    "votes": 13,
-    "posted": "Oct 27, 2016 7:00:36 PM"
-  },
-  {
-    "id": "12806824",
-    "timestamp": "Oct 27, 2016 8:27:43 PM",
-    "topic": "The darker side of machine learning",
-    "url": "https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/",
-    "votes": 4,
-    "posted": "Oct 27, 2016 6:56:07 PM"
   }
 ];
