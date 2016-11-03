@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12868033",
+    "timestamp": "Nov 3, 2016 10:43:44 PM",
+    "topic": "Our Civic Duty as Techies",
+    "url": "https://medium.com/@USCTO/our-civic-duty-as-techies-fd2008df76e4#.f0ee1jqjf",
+    "votes": 5,
+    "posted": "Nov 3, 2016 10:17:02 PM"
+  },
+  {
+    "id": "12867843",
+    "timestamp": "Nov 3, 2016 10:23:42 PM",
+    "topic": "How Airbnb Makes It Hard to Sue for Discrimination",
+    "url": "http://www.newyorker.com/business/currency/how-airbnb-makes-it-hard-to-sue-for-discrimination",
+    "votes": 6,
+    "posted": "Nov 3, 2016 9:53:21 PM"
+  },
+  {
+    "id": "12867795",
+    "timestamp": "Nov 3, 2016 10:03:40 PM",
+    "topic": "GoPro trading halted as company misses revenue expectations by 23%",
+    "url": "https://techcrunch.com/2016/11/03/gopro-trading-halted-as-company-misses-revenue-expectations-by-23/",
+    "votes": 12,
+    "posted": "Nov 3, 2016 9:47:14 PM"
+  },
+  {
     "id": "12867634",
     "timestamp": "Nov 3, 2016 9:43:38 PM",
     "topic": "Yet another JVM language? Whiley takes a fresh approach",
@@ -8000,85 +8024,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003d9BnLbv6QYcA\u0026feature\u003dyoutu.be",
     "votes": 4,
     "posted": "Oct 27, 2016 10:56:57 PM"
-  },
-  {
-    "id": "12809857",
-    "timestamp": "Oct 29, 2016 9:02:08 PM",
-    "topic": "The Science of Eggs",
-    "url": "http://luckypeach.com/the-science-of-eggs/",
-    "votes": 4,
-    "posted": "Oct 27, 2016 10:42:32 PM"
-  },
-  {
-    "id": "12809850",
-    "timestamp": "Oct 28, 2016 3:39:28 PM",
-    "topic": "China leads in adoption of virtual realty, but not for games",
-    "url": "http://www.economist.com/news/business/21708715-china-leads-world-adoption-virtual-reality-insanely-virtual",
-    "votes": 4,
-    "posted": "Oct 27, 2016 10:42:23 PM"
-  },
-  {
-    "id": "12809804",
-    "timestamp": "Oct 27, 2016 10:48:04 PM",
-    "topic": "FCC Vote Means Internet Providers Need Permission to Share Your Data",
-    "url": "http://www.npr.org/sections/thetwo-way/2016/10/27/499606251/fcc-vote-means-internet-providers-need-permission-to-share-your-data",
-    "votes": 11,
-    "posted": "Oct 27, 2016 10:38:39 PM"
-  },
-  {
-    "id": "12809734",
-    "timestamp": "Oct 27, 2016 11:58:11 PM",
-    "topic": "The Cyberpunk Sensibility",
-    "url": "http://www.ribbonfarm.com/2016/10/27/the-cyberpunk-sensibility/",
-    "votes": 3,
-    "posted": "Oct 27, 2016 10:33:44 PM"
-  },
-  {
-    "id": "12809722",
-    "timestamp": "Oct 27, 2016 11:28:08 PM",
-    "topic": "Anti-Aging Startup Backed by Fidelity, Bezos Raises $116M",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-27/anti-aging-startup-backed-by-fidelity-bezos-raises-116-million",
-    "votes": 3,
-    "posted": "Oct 27, 2016 10:33:06 PM"
-  },
-  {
-    "id": "12809657",
-    "timestamp": "Oct 31, 2016 5:45:03 AM",
-    "topic": "Show HN: Google trends “macbook alternative” spike after MacBook Pro launch",
-    "url": "https://www.google.co.uk/trends/explore?date\u003dnow%201-d\u0026q\u003dmacbook%20alternative,macbook%20windows",
-    "votes": 3,
-    "posted": "Oct 27, 2016 10:28:20 PM"
-  },
-  {
-    "id": "12809561",
-    "timestamp": "Oct 27, 2016 10:58:05 PM",
-    "topic": "Alphabet Announces Third Quarter 2016 Results",
-    "url": "https://abc.xyz/investor/news/earnings/2016/Q3_alphabet_earnings/",
-    "votes": 5,
-    "posted": "Oct 27, 2016 10:20:44 PM"
-  },
-  {
-    "id": "12809486",
-    "timestamp": "Oct 28, 2016 6:58:47 AM",
-    "topic": "Show HN: Carrier – a full featured headless CMS publishing setup",
-    "url": "http://insights.burda-studios.de/carrier-headless-decoupled-cms-at-bunte/",
-    "votes": 4,
-    "posted": "Oct 27, 2016 10:15:22 PM"
-  },
-  {
-    "id": "12809465",
-    "timestamp": "Oct 28, 2016 5:09:39 PM",
-    "topic": "It’s Not a Startup Visa, but It’s Close",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-20/it-s-not-a-startup-visa-but-it-s-close",
-    "votes": 3,
-    "posted": "Oct 27, 2016 10:13:46 PM"
-  },
-  {
-    "id": "12809269",
-    "timestamp": "Oct 27, 2016 10:07:58 PM",
-    "topic": "Verbling seeks React Engineer to help people everywhere learn foreign languages",
-    "url": "https://jobs.lever.co/verbling/7c1a06c1-cdc0-426a-998c-b2b64acd7dd8",
-    "votes": 1,
-    "posted": "Oct 27, 2016 9:59:52 PM"
   }
 ];
