@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12868594",
+    "timestamp": "Nov 3, 2016 11:33:49 PM",
+    "topic": "The etcd Operator: cluster configuration and management on Kubernetes",
+    "url": "https://coreos.com/blog/introducing-the-etcd-operator.html",
+    "votes": 3,
+    "posted": "Nov 3, 2016 11:27:49 PM"
+  },
+  {
+    "id": "12868527",
+    "timestamp": "Nov 3, 2016 11:33:49 PM",
+    "topic": "ASML Buys Stake in Carl Zeiss Unit for $1.1B",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-03/asml-buys-stake-in-carl-zeiss-unit-for-1-1-billion-in-euv-step",
+    "votes": 3,
+    "posted": "Nov 3, 2016 11:18:34 PM"
+  },
+  {
+    "id": "12868494",
+    "timestamp": "Nov 3, 2016 11:23:48 PM",
+    "topic": "Why Are People Racist?",
+    "url": "https://billmei.net/blog/why-are-people-racist",
+    "votes": 6,
+    "posted": "Nov 3, 2016 11:13:10 PM"
+  },
+  {
+    "id": "12868439",
+    "timestamp": "Nov 3, 2016 11:43:51 PM",
+    "topic": "Fin: A Vibrator for Fingers",
+    "url": "https://www.kickstarter.com/projects/dameproducts/fin-a-vibrator-for-fingers",
+    "votes": 4,
+    "posted": "Nov 3, 2016 11:06:41 PM"
+  },
+  {
+    "id": "12868304",
+    "timestamp": "Nov 3, 2016 11:43:50 PM",
+    "topic": "Opus Audio Codec 1.2-alpha is out",
+    "url": "https://www.opus-codec.org/release/dev/2016/11/03/libopus-1_2_alpha.html",
+    "votes": 4,
+    "posted": "Nov 3, 2016 10:47:35 PM"
+  },
+  {
+    "id": "12868287",
+    "timestamp": "Nov 3, 2016 11:43:50 PM",
+    "topic": "Modern Linux service isolation",
+    "url": "https://defenceforstartups.com/posts/modern-linux-service-isolation.html",
+    "votes": 7,
+    "posted": "Nov 3, 2016 10:46:03 PM"
+  },
+  {
+    "id": "12868106",
+    "timestamp": "Nov 3, 2016 11:03:46 PM",
+    "topic": "Brexit needs to be approved by Parliament",
+    "url": "http://www.bbc.com/news/uk-politics-37857785",
+    "votes": 5,
+    "posted": "Nov 3, 2016 10:24:51 PM"
+  },
+  {
     "id": "12868033",
     "timestamp": "Nov 3, 2016 10:43:44 PM",
     "topic": "Our Civic Duty as Techies",
@@ -30,6 +86,22 @@ var newsArray = [
     "url": "http://www.javaworld.com/article/3137548/scripting-jvm-languages/yet-another-jvm-language-whiley-takes-a-fresh-approach.html",
     "votes": 3,
     "posted": "Nov 3, 2016 9:27:51 PM"
+  },
+  {
+    "id": "12867500",
+    "timestamp": "Nov 3, 2016 11:03:46 PM",
+    "topic": "Mirai botnet almost gets Liberia offline",
+    "url": "http://www.zdnet.com/article/mirai-botnet-attack-briefly-knocked-an-entire-country-offline/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 9:10:41 PM"
+  },
+  {
+    "id": "12867417",
+    "timestamp": "Nov 3, 2016 11:43:50 PM",
+    "topic": "Silicon Beach: Los Angeles booms as startup hub",
+    "url": "http://www.economist.com/news/business/21709564-cheaper-location-tech-companies-takes-los-angeles-booms-startup-hub",
+    "votes": 5,
+    "posted": "Nov 3, 2016 9:00:24 PM"
   },
   {
     "id": "12867380",
@@ -1329,6 +1401,14 @@ var newsArray = [
     "url": "http://www.nybooks.com/articles/2016/10/27/china-the-virtues-of-the-awful-convulsion/",
     "votes": 3,
     "posted": "Nov 2, 2016 5:24:48 PM"
+  },
+  {
+    "id": "12856287",
+    "timestamp": "Nov 3, 2016 11:43:50 PM",
+    "topic": "The Story of How McDonald’s First Got Its Start",
+    "url": "http://www.smithsonianmag.com/history/story-how-mcdonalds-first-got-its-start-180960931/?no-ist",
+    "votes": 4,
+    "posted": "Nov 2, 2016 5:08:24 PM"
   },
   {
     "id": "12856224",
@@ -3347,6 +3427,14 @@ var newsArray = [
     "url": "https://github.com/BrandonBielicki/dotconfigs",
     "votes": 3,
     "posted": "Nov 1, 2016 12:23:54 AM"
+  },
+  {
+    "id": "12841875",
+    "timestamp": "Nov 3, 2016 11:13:47 PM",
+    "topic": "Purses and foldouts – unexpected challenges of digitisation",
+    "url": "http://blog.wellcomelibrary.org/2016/10/purses-and-foldouts-unexpected-challenges-of-digitisation/",
+    "votes": 4,
+    "posted": "Nov 1, 2016 12:22:25 AM"
   },
   {
     "id": "12841860",
@@ -7954,75 +8042,5 @@ var newsArray = [
     "url": "http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/?utm_source\u003dwdfb\u0026mbid\u003dsocial_fb\u0026amp;single_page\u003dtrue",
     "votes": 6,
     "posted": "Oct 27, 2016 11:57:24 PM"
-  },
-  {
-    "id": "12810596",
-    "timestamp": "Oct 27, 2016 11:58:11 PM",
-    "topic": "WTF Is Apple Thinking with the New MacBook Pro and Touch Bar?",
-    "url": "https://medium.com/@trentlapinski/wtf-is-apple-thinking-with-the-new-macbook-pro-and-touch-bar-a9a094af1e0b#.xf3x89oxd",
-    "votes": 4,
-    "posted": "Oct 27, 2016 11:51:34 PM"
-  },
-  {
-    "id": "12810507",
-    "timestamp": "Oct 28, 2016 12:18:13 AM",
-    "topic": "Ask HN: What stretches or such I do to prevent long term damage from sitting?",
-    "votes": 4,
-    "posted": "Oct 27, 2016 11:41:29 PM"
-  },
-  {
-    "id": "12810445",
-    "timestamp": "Oct 28, 2016 12:58:16 AM",
-    "topic": "New Method Could Store Massive Amounts of Data in Diamond Defects",
-    "url": "http://www.smithsonianmag.com/smart-news/researchers-use-diamonds-store-data-180960932/?no-ist",
-    "votes": 4,
-    "posted": "Oct 27, 2016 11:34:50 PM"
-  },
-  {
-    "id": "12810435",
-    "timestamp": "Oct 28, 2016 2:48:26 AM",
-    "topic": "Folks at Harvard support labor unions… everywhere except at Harvard",
-    "url": "http://blogs.harvard.edu/philg/2016/10/27/folks-at-harvard-support-labor-unions-everywhere-except-at-harvard/",
-    "votes": 5,
-    "posted": "Oct 27, 2016 11:33:24 PM"
-  },
-  {
-    "id": "12810428",
-    "timestamp": "Oct 27, 2016 11:48:10 PM",
-    "topic": "Apple is killing off MagSafe, one of the MacBook’s best features",
-    "url": "http://www.theverge.com/2016/10/27/13441150/rip-magsafe-apple-macbook-pro-charging-cable-usb-c",
-    "votes": 4,
-    "posted": "Oct 27, 2016 11:32:57 PM"
-  },
-  {
-    "id": "12810210",
-    "timestamp": "Oct 28, 2016 2:48:26 AM",
-    "topic": "Apple to developers: there is no escape",
-    "url": "https://medium.freecodecamp.com/apple-to-developers-there-is-no-escape-298b63c2a1d8",
-    "votes": 5,
-    "posted": "Oct 27, 2016 11:12:35 PM"
-  },
-  {
-    "id": "12810156",
-    "timestamp": "Oct 28, 2016 12:58:16 AM",
-    "topic": "Bee Venom Destroys HIV and Spares Surrounding Cells",
-    "url": "http://www.medicalnewstoday.com/articles/257437.php",
-    "votes": 4,
-    "posted": "Oct 27, 2016 11:07:51 PM"
-  },
-  {
-    "id": "12810139",
-    "timestamp": "Oct 28, 2016 12:58:16 AM",
-    "topic": "Ask HN: Is there a reliable way to put Mac OS X on a non-Apple notebook computer?",
-    "votes": 4,
-    "posted": "Oct 27, 2016 11:06:34 PM"
-  },
-  {
-    "id": "12810037",
-    "timestamp": "Oct 28, 2016 12:58:17 AM",
-    "topic": "Apple Introduces Revolutionary New Laptop with No Keyboard [The Onion 2009]",
-    "url": "https://www.youtube.com/watch?v\u003d9BnLbv6QYcA\u0026feature\u003dyoutu.be",
-    "votes": 4,
-    "posted": "Oct 27, 2016 10:56:57 PM"
   }
 ];
