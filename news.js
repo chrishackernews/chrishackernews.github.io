@@ -1,10 +1,49 @@
 var newsArray = [
   {
+    "id": "12871242",
+    "timestamp": "Nov 4, 2016 10:24:44 AM",
+    "topic": "Flexport is hiring a VP of Marketing to start our marketing team",
+    "url": "https://flexport.com/careers",
+    "votes": 1,
+    "posted": "Nov 4, 2016 10:19:24 AM"
+  },
+  {
+    "id": "12871234",
+    "timestamp": "Nov 4, 2016 10:54:48 AM",
+    "topic": "6.851: Advanced Data Structures",
+    "url": "http://courses.csail.mit.edu/6.851/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 10:17:23 AM"
+  },
+  {
+    "id": "12871157",
+    "timestamp": "Nov 4, 2016 10:24:45 AM",
+    "topic": "Switching from MacOS: Developer Environment",
+    "url": "http://blog.elementary.io/post/152671475281/switching-from-macos-developer-environment",
+    "votes": 5,
+    "posted": "Nov 4, 2016 9:52:19 AM"
+  },
+  {
+    "id": "12871082",
+    "timestamp": "Nov 4, 2016 10:34:46 AM",
+    "topic": "Microsoft Doubles Down on Ethereum with New Blockchain Product",
+    "url": "http://www.coindesk.com/microsoft-launching-new-ethereum-blockchain-product/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 9:24:43 AM"
+  },
+  {
     "id": "12870953",
     "timestamp": "Nov 4, 2016 9:34:40 AM",
     "topic": "Mozilla stops distribution of WOT addon",
     "votes": 4,
     "posted": "Nov 4, 2016 8:46:33 AM"
+  },
+  {
+    "id": "12870908",
+    "timestamp": "Nov 4, 2016 10:44:47 AM",
+    "topic": "Ask HN: Lessons you wish you knew when you were Junior developer?",
+    "votes": 8,
+    "posted": "Nov 4, 2016 8:31:37 AM"
   },
   {
     "id": "12870899",
@@ -15,12 +54,28 @@ var newsArray = [
     "posted": "Nov 4, 2016 8:29:03 AM"
   },
   {
+    "id": "12870811",
+    "timestamp": "Nov 4, 2016 10:24:45 AM",
+    "topic": "How to block the ultrasonic signals you didn’t know were tracking you",
+    "url": "http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:56:08 AM"
+  },
+  {
     "id": "12870756",
     "timestamp": "Nov 4, 2016 7:54:32 AM",
     "topic": "What pro computing could be",
     "url": "https://al3x.net/2016/10/31/pro-computing.html",
     "votes": 4,
     "posted": "Nov 4, 2016 7:33:41 AM"
+  },
+  {
+    "id": "12870753",
+    "timestamp": "Nov 4, 2016 10:24:45 AM",
+    "topic": "Lynis – Security Auditing Tool for Linux, MacOS, and Unix-Based Systems",
+    "url": "https://github.com/CISOfy/lynis",
+    "votes": 5,
+    "posted": "Nov 4, 2016 7:32:52 AM"
   },
   {
     "id": "12870712",
@@ -63,6 +118,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 6:54:49 AM"
   },
   {
+    "id": "12870643",
+    "timestamp": "Nov 4, 2016 10:24:45 AM",
+    "topic": "Tesla batteries violently explode in fatal crash",
+    "url": "http://jalopnik.com/tesla-model-s-batteries-violently-explode-in-fatal-cras-1788561054",
+    "votes": 5,
+    "posted": "Nov 4, 2016 6:54:42 AM"
+  },
+  {
     "id": "12870628",
     "timestamp": "Nov 4, 2016 6:54:27 AM",
     "topic": "Smarking (YC W15) Is Hiring Sr. Software Engineers and Many More in SF",
@@ -77,6 +140,14 @@ var newsArray = [
     "url": "https://github.com/hashedin/jinjasql",
     "votes": 4,
     "posted": "Nov 4, 2016 6:26:13 AM"
+  },
+  {
+    "id": "12870410",
+    "timestamp": "Nov 4, 2016 10:14:44 AM",
+    "topic": "Move over Raspberry Pi, here is a $4, coin-sized, open-source Linux computer",
+    "url": "http://www.zdnet.com/article/move-over-raspberry-pi-here-is-a-4-coin-sized-open-source-linux-computer/",
+    "votes": 7,
+    "posted": "Nov 4, 2016 5:34:37 AM"
   },
   {
     "id": "12870387",
@@ -119,6 +190,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 4:54:28 AM"
   },
   {
+    "id": "12870221",
+    "timestamp": "Nov 4, 2016 10:34:46 AM",
+    "topic": "Huawei taking on Apple and Samsung with new phone",
+    "url": "http://www.theverge.com/2016/11/3/13477424/huawei-mate-9-unveiled-specs-pictures",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:48:51 AM"
+  },
+  {
     "id": "12870218",
     "timestamp": "Nov 4, 2016 5:04:18 AM",
     "topic": "​Ubuntu Core 16: Linux for a Secure Internet of Things",
@@ -149,6 +228,14 @@ var newsArray = [
     "url": "http://observer.com/2016/11/this-election-has-disgraced-the-entire-profession-of-journalism/#.WBpXGM-S-do.facebook",
     "votes": 3,
     "posted": "Nov 4, 2016 4:25:54 AM"
+  },
+  {
+    "id": "12870118",
+    "timestamp": "Nov 4, 2016 10:34:46 AM",
+    "topic": "Hatchit: An open source game engine",
+    "url": "https://opensource.com/life/16/10/hatchit",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:25:16 AM"
   },
   {
     "id": "12870081",
@@ -8116,44 +8203,5 @@ var newsArray = [
     "topic": "Ask HN: How much have you made from your side project in 2016 and what is it?",
     "votes": 7,
     "posted": "Oct 28, 2016 11:44:46 AM"
-  },
-  {
-    "id": "12814127",
-    "timestamp": "Oct 28, 2016 12:49:14 PM",
-    "topic": "How to Get Fired Using Switch Statements and Statement Expressions",
-    "url": "http://blog.robertelder.org/switch-statements-statement-expressions/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 10:51:07 AM"
-  },
-  {
-    "id": "12814124",
-    "timestamp": "Oct 28, 2016 12:29:12 PM",
-    "topic": "Ask HN: Is Bash for Windows good enough to replace a Linux/Mac terminal?",
-    "votes": 4,
-    "posted": "Oct 28, 2016 10:50:57 AM"
-  },
-  {
-    "id": "12813982",
-    "timestamp": "Oct 28, 2016 12:49:14 PM",
-    "topic": "10 pieces of advice to beginner data scientists",
-    "url": "https://shapescience.xyz/blog/10-pieces-of-advice-to-beginner-data-scientists/",
-    "votes": 5,
-    "posted": "Oct 28, 2016 10:21:44 AM"
-  },
-  {
-    "id": "12813922",
-    "timestamp": "Oct 28, 2016 12:39:13 PM",
-    "topic": "Web devs want to make the Internet of Shit worse. Much worse",
-    "url": "http://www.theregister.co.uk/2016/10/28/web_devs_want_to_make_the_internet_of_st_worse/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 10:07:11 AM"
-  },
-  {
-    "id": "12813874",
-    "timestamp": "Oct 28, 2016 10:19:03 AM",
-    "topic": "Apple: #esc { margin-left: -30px }",
-    "url": "https://twitter.com/rauchg/status/791694932587184128",
-    "votes": 11,
-    "posted": "Oct 28, 2016 9:55:21 AM"
   }
 ];
