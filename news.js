@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12871615",
+    "timestamp": "Nov 4, 2016 12:24:55 PM",
+    "topic": "MongoHQ/Compose: Sandbox Retirement",
+    "url": "http://us5.campaign-archive2.com/?u\u003dd30ac55f6b407ddc73ee53a5d\u0026id\u003da0d924b617\u0026e\u003dc1b837957f",
+    "votes": 3,
+    "posted": "Nov 4, 2016 11:54:16 AM"
+  },
+  {
+    "id": "12871403",
+    "timestamp": "Nov 4, 2016 12:14:54 PM",
+    "topic": "H.264 is Magic: A technical walkthrough of how video compression works",
+    "url": "https://sidbala.com/h-264-is-magic/",
+    "votes": 7,
+    "posted": "Nov 4, 2016 11:00:57 AM"
+  },
+  {
     "id": "12871242",
     "timestamp": "Nov 4, 2016 10:24:44 AM",
     "topic": "Flexport is hiring a VP of Marketing to start our marketing team",
@@ -24,12 +40,28 @@ var newsArray = [
     "posted": "Nov 4, 2016 9:52:19 AM"
   },
   {
+    "id": "12871156",
+    "timestamp": "Nov 4, 2016 12:44:56 PM",
+    "topic": "Fast Fibonacci Algorithms",
+    "url": "https://www.nayuki.io/page/fast-fibonacci-algorithms",
+    "votes": 5,
+    "posted": "Nov 4, 2016 9:52:08 AM"
+  },
+  {
     "id": "12871082",
     "timestamp": "Nov 4, 2016 10:34:46 AM",
     "topic": "Microsoft Doubles Down on Ethereum with New Blockchain Product",
     "url": "http://www.coindesk.com/microsoft-launching-new-ethereum-blockchain-product/",
     "votes": 3,
     "posted": "Nov 4, 2016 9:24:43 AM"
+  },
+  {
+    "id": "12870997",
+    "timestamp": "Nov 4, 2016 12:44:56 PM",
+    "topic": "New MacBook Pro not compatible with all Thunderbolt 3 devices",
+    "url": "http://www.macrumors.com/2016/11/03/new-macbook-pros-thunderbolt-3-compatibility/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 9:01:47 AM"
   },
   {
     "id": "12870953",
@@ -8124,61 +8156,5 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/code-dependencies-are-the-devil-35ed28b556d#.61nr09qp0",
     "votes": 3,
     "posted": "Oct 28, 2016 12:57:31 PM"
-  },
-  {
-    "id": "12814655",
-    "timestamp": "Oct 28, 2016 2:29:22 PM",
-    "topic": "Macbook Pro Touch Bar runs watchOS",
-    "url": "https://twitter.com/stroughtonsmith/status/791872723681239040",
-    "votes": 4,
-    "posted": "Oct 28, 2016 12:53:19 PM"
-  },
-  {
-    "id": "12814590",
-    "timestamp": "Oct 28, 2016 1:29:18 PM",
-    "topic": "They Live and the secret history of the Mozilla logo",
-    "url": "https://webcache.googleusercontent.com/search?q\u003dcache:_OntGpfw72kJ:https://www.jwz.org/blog/2016/10/they-live-and-the-secret-history-of-the-mozilla-logo/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:36:08 PM"
-  },
-  {
-    "id": "12814587",
-    "timestamp": "Oct 28, 2016 1:19:17 PM",
-    "topic": "IPv6 Performance – Revisited",
-    "url": "https://ripe73.ripe.net/archives/video/1539/",
-    "votes": 7,
-    "posted": "Oct 28, 2016 12:35:56 PM"
-  },
-  {
-    "id": "12814578",
-    "timestamp": "Oct 28, 2016 1:49:19 PM",
-    "topic": "Show HN: Bashcached – memcached built on bash and ncat with",
-    "url": "https://github.com/MakeNowJust/bashcached",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:33:39 PM"
-  },
-  {
-    "id": "12814523",
-    "timestamp": "Oct 28, 2016 1:09:16 PM",
-    "topic": "A Quantum Leap for the Web",
-    "url": "https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12#.wgcqrdq94",
-    "votes": 5,
-    "posted": "Oct 28, 2016 12:18:36 PM"
-  },
-  {
-    "id": "12814470",
-    "timestamp": "Oct 29, 2016 12:20:25 AM",
-    "topic": "Lenovo releases a BiOS update to make Yoga 900-13ISK2 compatible with Linux",
-    "url": "http://support.lenovo.com/us/en/products/Laptops-and-netbooks/Yoga-Series/yoga-900-13isk2/downloads/DS119354",
-    "votes": 6,
-    "posted": "Oct 28, 2016 12:06:09 PM"
-  },
-  {
-    "id": "12814467",
-    "timestamp": "Oct 28, 2016 4:39:36 PM",
-    "topic": "AlphaGo under a Magnifying Glass",
-    "url": "http://deeplearningskysthelimit.blogspot.com/2016/04/part-2-alphago-under-magnifying-glass.html",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:05:32 PM"
   }
 ];
