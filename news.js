@@ -8180,28 +8180,5 @@ var newsArray = [
     "url": "http://deeplearningskysthelimit.blogspot.com/2016/04/part-2-alphago-under-magnifying-glass.html",
     "votes": 3,
     "posted": "Oct 28, 2016 12:05:32 PM"
-  },
-  {
-    "id": "12814397",
-    "timestamp": "Oct 28, 2016 12:49:14 PM",
-    "topic": "Geoff Huston – A Speculation on DNS DDOS",
-    "url": "https://ripe73.ripe.net/archives/video/1536/",
-    "votes": 5,
-    "posted": "Oct 28, 2016 11:49:43 AM"
-  },
-  {
-    "id": "12814388",
-    "timestamp": "Oct 28, 2016 3:19:27 PM",
-    "topic": "India\u0027s Billion Digital Identities",
-    "url": "http://thefinanser.com/2016/09/indias-billion-people-digital-identities.html/",
-    "votes": 5,
-    "posted": "Oct 28, 2016 11:46:56 AM"
-  },
-  {
-    "id": "12814376",
-    "timestamp": "Oct 28, 2016 12:49:14 PM",
-    "topic": "Ask HN: How much have you made from your side project in 2016 and what is it?",
-    "votes": 7,
-    "posted": "Oct 28, 2016 11:44:46 AM"
   }
 ];
