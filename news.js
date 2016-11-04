@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12874280",
+    "timestamp": "Nov 4, 2016 6:35:27 PM",
+    "topic": "Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded",
+    "url": "http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html",
+    "votes": 5,
+    "posted": "Nov 4, 2016 6:25:29 PM"
+  },
+  {
+    "id": "12874158",
+    "timestamp": "Nov 4, 2016 6:35:27 PM",
+    "topic": "Voting Paradoxes [video]",
+    "url": "https://www.exploratorium.edu/blogs/tangents/voting-paradoxes",
+    "votes": 4,
+    "posted": "Nov 4, 2016 6:11:56 PM"
+  },
+  {
+    "id": "12874064",
+    "timestamp": "Nov 4, 2016 6:05:24 PM",
+    "topic": "Serverless Map/Reduce",
+    "url": "http://tothestars.io/blog/2016/11/2/serverless-mapreduce",
+    "votes": 3,
+    "posted": "Nov 4, 2016 6:01:20 PM"
+  },
+  {
+    "id": "12874001",
+    "timestamp": "Nov 4, 2016 6:15:25 PM",
+    "topic": "The Batman job offer",
+    "url": "https://raed.it/blog/batman-aint-got-shit-on-me/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 5:53:33 PM"
+  },
+  {
     "id": "12873879",
     "timestamp": "Nov 4, 2016 5:45:22 PM",
     "topic": "The secret world of microwave networks",
@@ -334,6 +366,13 @@ var newsArray = [
     "posted": "Nov 4, 2016 7:56:08 AM"
   },
   {
+    "id": "12870790",
+    "timestamp": "Nov 4, 2016 6:25:26 PM",
+    "topic": "Ask HN: What important truth do very few (informed) people agree with you on?",
+    "votes": 8,
+    "posted": "Nov 4, 2016 7:46:09 AM"
+  },
+  {
     "id": "12870756",
     "timestamp": "Nov 4, 2016 7:54:32 AM",
     "topic": "What pro computing could be",
@@ -436,6 +475,14 @@ var newsArray = [
     "url": "https://www.joyent.com/node-js/production/design/errors",
     "votes": 3,
     "posted": "Nov 4, 2016 5:27:18 AM"
+  },
+  {
+    "id": "12870359",
+    "timestamp": "Nov 4, 2016 6:45:29 PM",
+    "topic": "How Sociopathic Capitalism Came to Rule the World",
+    "url": "http://www.theatlantic.com/business/archive/2016/11/sociopathic-capitalism/506240/?single_page\u003dtrue",
+    "votes": 3,
+    "posted": "Nov 4, 2016 5:20:23 AM"
   },
   {
     "id": "12870287",
@@ -851,6 +898,14 @@ var newsArray = [
     "posted": "Nov 3, 2016 9:27:51 PM"
   },
   {
+    "id": "12867586",
+    "timestamp": "Nov 4, 2016 6:05:25 PM",
+    "topic": "Want to Know What Virtual Reality Might Become? Look to the Past",
+    "url": "http://www.nytimes.com/2016/11/06/magazine/want-to-know-what-virtual-reality-might-become-look-to-the-past.html",
+    "votes": 5,
+    "posted": "Nov 3, 2016 9:21:20 PM"
+  },
+  {
     "id": "12867500",
     "timestamp": "Nov 3, 2016 11:03:46 PM",
     "topic": "Mirai botnet almost gets Liberia offline",
@@ -1222,6 +1277,13 @@ var newsArray = [
     "url": "http://www.asymco.com/2016/11/02/wherefore-art-thou-macintosh/",
     "votes": 4,
     "posted": "Nov 3, 2016 4:19:11 PM"
+  },
+  {
+    "id": "12864592",
+    "timestamp": "Nov 4, 2016 6:35:27 PM",
+    "topic": "Ask HN: Have You Ever Hired Developers to Work on Your Personal Projects?",
+    "votes": 6,
+    "posted": "Nov 3, 2016 4:11:43 PM"
   },
   {
     "id": "12864475",
@@ -8174,68 +8236,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/10/28/13453260/no-mans-sky-hello-games-hacked",
     "votes": 3,
     "posted": "Oct 28, 2016 6:58:12 PM"
-  },
-  {
-    "id": "12818002",
-    "timestamp": "Oct 28, 2016 7:39:51 PM",
-    "topic": "Facebook lets advertisers exclude users by race",
-    "url": "http://arstechnica.com/information-technology/2016/10/facebook-lets-advertisers-exclude-users-by-race/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 6:49:55 PM"
-  },
-  {
-    "id": "12817736",
-    "timestamp": "Oct 28, 2016 6:59:48 PM",
-    "topic": "Apple\u0027s Fastest Growing Product Category",
-    "url": "https://twitter.com/dbreunig/status/792034409788518401",
-    "votes": 8,
-    "posted": "Oct 28, 2016 6:29:11 PM"
-  },
-  {
-    "id": "12817722",
-    "timestamp": "Oct 28, 2016 6:59:48 PM",
-    "topic": "Zcash begins",
-    "url": "https://z.cash/blog/zcash-begins.html",
-    "votes": 16,
-    "posted": "Oct 28, 2016 6:27:39 PM"
-  },
-  {
-    "id": "12817550",
-    "timestamp": "Oct 28, 2016 6:49:47 PM",
-    "topic": "Y Combinator Interview Advice and Live Practice Sessions",
-    "url": "https://medium.com/@kwindla/y-combinator-interview-advice-live-practice-sessions-87886a3cbf8a",
-    "votes": 5,
-    "posted": "Oct 28, 2016 6:12:50 PM"
-  },
-  {
-    "id": "12817537",
-    "timestamp": "Oct 28, 2016 6:19:44 PM",
-    "topic": "Customer Success Lead",
-    "url": "https://angel.co/l/V9Nkp",
-    "votes": 1,
-    "posted": "Oct 28, 2016 6:12:25 PM"
-  },
-  {
-    "id": "12817468",
-    "timestamp": "Oct 28, 2016 6:19:44 PM",
-    "topic": "Eve: Programming designed for humans",
-    "url": "http://programming.witheve.com/",
-    "votes": 9,
-    "posted": "Oct 28, 2016 6:05:32 PM"
-  },
-  {
-    "id": "12817426",
-    "timestamp": "Oct 28, 2016 6:19:44 PM",
-    "topic": "Ask HN: What is your goto resource for learning about big data, ML, AI etc?",
-    "votes": 7,
-    "posted": "Oct 28, 2016 6:01:45 PM"
-  },
-  {
-    "id": "12817404",
-    "timestamp": "Oct 28, 2016 6:49:47 PM",
-    "topic": "Microsoft, I forgive you",
-    "url": "https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c",
-    "votes": 3,
-    "posted": "Oct 28, 2016 6:00:17 PM"
   }
 ];
