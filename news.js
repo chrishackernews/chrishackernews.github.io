@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12873214",
+    "timestamp": "Nov 4, 2016 4:55:17 PM",
+    "topic": "Code.Gov – Share and reuse open source code from the Federal Government",
+    "url": "https://code.gov",
+    "votes": 4,
+    "posted": "Nov 4, 2016 4:17:24 PM"
+  },
+  {
+    "id": "12873089",
+    "timestamp": "Nov 4, 2016 4:15:14 PM",
+    "topic": "Hyper Is Docker Done the Right Way",
+    "url": "http://thenewstack.io/hyper-docker-done-right-way/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 4:00:13 PM"
+  },
+  {
     "id": "12872970",
     "timestamp": "Nov 4, 2016 3:55:12 PM",
     "topic": "@supports will change your life",
@@ -120,6 +136,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 1:17:15 PM"
   },
   {
+    "id": "12871966",
+    "timestamp": "Nov 4, 2016 4:35:16 PM",
+    "topic": "Getting Started with Webpack 2",
+    "url": "https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.fjs4xiv4v",
+    "votes": 6,
+    "posted": "Nov 4, 2016 1:16:40 PM"
+  },
+  {
     "id": "12871934",
     "timestamp": "Nov 4, 2016 1:45:01 PM",
     "topic": "Introduction to Cryptography – Christof Paar",
@@ -174,6 +198,14 @@ var newsArray = [
     "url": "https://sidbala.com/h-264-is-magic/",
     "votes": 7,
     "posted": "Nov 4, 2016 11:00:57 AM"
+  },
+  {
+    "id": "12871348",
+    "timestamp": "Nov 4, 2016 4:05:13 PM",
+    "topic": "Microsoft lost 300M browser users in 2016, tracking site shows",
+    "url": "http://www.businessinsider.com/300-million-users-ditched-microsoft-browsers-2016-11?utm_source\u003dfeedburner\u0026utm_medium\u003dreferral",
+    "votes": 4,
+    "posted": "Nov 4, 2016 10:49:51 AM"
   },
   {
     "id": "12871242",
@@ -739,6 +771,14 @@ var newsArray = [
     "posted": "Nov 3, 2016 10:17:02 PM"
   },
   {
+    "id": "12867991",
+    "timestamp": "Nov 4, 2016 4:25:15 PM",
+    "topic": "Steven Pinker on Language, Reason, and the Future of Violence",
+    "url": "https://medium.com/conversations-with-tyler/steven-pinker-language-instinct-evolutionary-psychology-darwin-chomsky-linguistics-b792d7cd2a05#.pr8d00o74",
+    "votes": 3,
+    "posted": "Nov 3, 2016 10:11:31 PM"
+  },
+  {
     "id": "12867843",
     "timestamp": "Nov 3, 2016 10:23:42 PM",
     "topic": "How Airbnb Makes It Hard to Sue for Discrimination",
@@ -1006,6 +1046,14 @@ var newsArray = [
     "topic": "Ask HN: Why do institutions choose buggy enterprise cms over open source ones",
     "votes": 5,
     "posted": "Nov 3, 2016 6:05:07 PM"
+  },
+  {
+    "id": "12865705",
+    "timestamp": "Nov 4, 2016 4:55:17 PM",
+    "topic": "How to get the wine you really want",
+    "url": "http://www.economist.com/news/science-and-technology/21709491-how-get-wine-you-really-want-war-terroir",
+    "votes": 3,
+    "posted": "Nov 3, 2016 5:56:07 PM"
   },
   {
     "id": "12865698",
@@ -8148,61 +8196,5 @@ var newsArray = [
     "url": "http://science.sciencemag.org/content/354/6311/477.full",
     "votes": 3,
     "posted": "Oct 28, 2016 5:09:22 PM"
-  },
-  {
-    "id": "12816474",
-    "timestamp": "Oct 28, 2016 5:09:39 PM",
-    "topic": "New MacBook Pro Is Not a Laptop for Developers Anymore",
-    "url": "https://blog.devteam.space/new-macbook-pro-is-not-a-laptop-for-developers-anymore-d0d4b1b8b7de#.tpt1vssco",
-    "votes": 54,
-    "posted": "Oct 28, 2016 4:54:26 PM"
-  },
-  {
-    "id": "12816346",
-    "timestamp": "Oct 28, 2016 5:09:39 PM",
-    "topic": "No GPS, no problem: Next-generation navigation",
-    "url": "http://robohub.org/no-gps-no-problem-next-generation-navigation/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 4:41:55 PM"
-  },
-  {
-    "id": "12816321",
-    "timestamp": "Oct 28, 2016 4:59:38 PM",
-    "topic": "George Hotz cancels Comma AI",
-    "url": "https://mobile.twitter.com/comma_ai/status/791958413345382400",
-    "votes": 7,
-    "posted": "Oct 28, 2016 4:39:38 PM"
-  },
-  {
-    "id": "12816193",
-    "timestamp": "Oct 28, 2016 10:30:14 PM",
-    "topic": "Google Brain creates its own encryption methodology [paper]",
-    "url": "https://arxiv.org/abs/1610.06918",
-    "votes": 3,
-    "posted": "Oct 28, 2016 4:30:02 PM"
-  },
-  {
-    "id": "12815948",
-    "timestamp": "Oct 28, 2016 4:49:37 PM",
-    "topic": "George Hotz cancels his Tesla Autopilot-like ‘comma one’",
-    "url": "https://electrek.co/2016/10/28/george-hotz-cancels-his-tesla-autopilot-like-comma-one-after-request-from-nhtsa/",
-    "votes": 6,
-    "posted": "Oct 28, 2016 4:06:53 PM"
-  },
-  {
-    "id": "12815920",
-    "timestamp": "Oct 28, 2016 4:29:35 PM",
-    "topic": "HP: the pros are moving from Mac to Z",
-    "url": "http://www8.hp.com/us/en/campaigns/workstations/mac-to-z.html",
-    "votes": 16,
-    "posted": "Oct 28, 2016 4:04:36 PM"
-  },
-  {
-    "id": "12815809",
-    "timestamp": "Oct 28, 2016 4:19:34 PM",
-    "topic": "Swiss Rail (SBB) to Sell Bitcoins via Its Ticket Machines",
-    "url": "http://www.reuters.com/article/us-swiss-rail-bitcoin-idUSKCN12S1KR",
-    "votes": 7,
-    "posted": "Oct 28, 2016 3:56:22 PM"
   }
 ];
