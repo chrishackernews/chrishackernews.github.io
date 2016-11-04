@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12869601",
+    "timestamp": "Nov 4, 2016 2:24:05 AM",
+    "topic": "The Peoples Code – Code.gov Launches",
+    "url": "https://code.gov/#/",
+    "votes": 14,
+    "posted": "Nov 4, 2016 2:08:24 AM"
+  },
+  {
     "id": "12869412",
     "timestamp": "Nov 4, 2016 1:44:02 AM",
     "topic": "Male Birth Control Study Killed After Men Complain About Side Effects",
     "url": "http://www.npr.org/sections/health-shots/2016/11/03/500549503/male-birth-control-study-killed-after-men-complain-about-side-effects",
     "votes": 6,
     "posted": "Nov 4, 2016 1:29:02 AM"
+  },
+  {
+    "id": "12869371",
+    "timestamp": "Nov 4, 2016 2:04:03 AM",
+    "topic": "A simple Metropolis-Hastings MCMC in R",
+    "url": "https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 1:18:16 AM"
   },
   {
     "id": "12869209",
@@ -7995,84 +8011,5 @@ var newsArray = [
     "topic": "Why didn\u0027t Apple use Lightening vs. USB 3.0-C on iPhone 7?",
     "votes": 4,
     "posted": "Oct 28, 2016 2:55:41 AM"
-  },
-  {
-    "id": "12811805",
-    "timestamp": "Oct 29, 2016 7:21:58 PM",
-    "topic": "Show HN: Geochat – You are your city. Speak to the world",
-    "url": "https://geochat.hackclub.com/",
-    "votes": 17,
-    "posted": "Oct 28, 2016 2:37:33 AM"
-  },
-  {
-    "id": "12811788",
-    "timestamp": "Oct 28, 2016 2:48:26 AM",
-    "topic": "Apple’s new MacBook Pro kills off most of the ports you probably need",
-    "url": "https://techcrunch.com/2016/10/27/apples-new-macbook-pro-just-killed-off-most-of-the-ports-you-probably-need/",
-    "votes": 12,
-    "posted": "Oct 28, 2016 2:33:45 AM"
-  },
-  {
-    "id": "12811737",
-    "timestamp": "Oct 28, 2016 2:38:25 AM",
-    "topic": "Developing for Apple Touch Bar",
-    "url": "https://developer.apple.com/reference/appkit/nstouchbar?language\u003dobjc",
-    "votes": 13,
-    "posted": "Oct 28, 2016 2:22:54 AM"
-  },
-  {
-    "id": "12811728",
-    "timestamp": "Oct 28, 2016 2:48:26 AM",
-    "topic": "Christ\u0027s Burial Place Exposed for First Time in Centuries",
-    "url": "http://news.nationalgeographic.com/2016/10/jesus-tomb-opened-church-holy-sepulchre/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 2:21:37 AM"
-  },
-  {
-    "id": "12811708",
-    "timestamp": "Oct 28, 2016 2:38:25 AM",
-    "topic": "The art of UX sketching and paper prototyping",
-    "url": "https://uxplanet.org/the-art-of-ux-sketching-and-paper-prototyping-5dae5a1efc7d",
-    "votes": 5,
-    "posted": "Oct 28, 2016 2:17:25 AM"
-  },
-  {
-    "id": "12811689",
-    "timestamp": "Oct 28, 2016 2:28:24 AM",
-    "topic": "Ask HN: Is Apple nuts for discontinuing 11“ MBA?",
-    "votes": 3,
-    "posted": "Oct 28, 2016 2:13:35 AM"
-  },
-  {
-    "id": "12811685",
-    "timestamp": "Oct 28, 2016 2:38:25 AM",
-    "topic": "How Bullets in Westworld Work",
-    "url": "https://www.reddit.com/r/westworld/comments/59h9ed/how_bullets_in_westworld_work/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 2:13:11 AM"
-  },
-  {
-    "id": "12811658",
-    "timestamp": "Oct 28, 2016 2:28:24 AM",
-    "topic": "Twitter Has an Old Media Problem. Here’s a Solution",
-    "url": "http://www.nytimes.com/2016/10/27/opinion/twitter-has-an-old-media-problem-heres-a-solution.html?ref\u003dopinion",
-    "votes": 3,
-    "posted": "Oct 28, 2016 2:09:11 AM"
-  },
-  {
-    "id": "12811619",
-    "timestamp": "Oct 29, 2016 8:02:03 PM",
-    "topic": "Turned down 18 times. Then Paul Beatty won the Booker",
-    "url": "https://www.theguardian.com/books/2016/oct/26/man-booker-prize-winner-paul-beatty-the-sellout-interview",
-    "votes": 4,
-    "posted": "Oct 28, 2016 2:03:25 AM"
-  },
-  {
-    "id": "12811597",
-    "timestamp": "Oct 28, 2016 4:28:34 AM",
-    "topic": "Facebook’s Free Basics Is an African Dictator’s Dream",
-    "url": "http://foreignpolicy.com/2016/10/27/facebooks-plan-to-wire-africa-is-a-dictators-dream-come-true-free-basics-internet/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 2:01:05 AM"
   }
 ];
