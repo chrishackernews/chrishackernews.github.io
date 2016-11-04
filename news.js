@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12876292",
+    "timestamp": "Nov 4, 2016 10:35:51 PM",
+    "topic": "Segment (YC S11) Is Hiring a Head of Solutions Enginering",
+    "url": "https://boards.greenhouse.io/segment/jobs/463624",
+    "votes": 1,
+    "posted": "Nov 4, 2016 10:28:56 PM"
+  },
+  {
+    "id": "12876194",
+    "timestamp": "Nov 4, 2016 10:55:53 PM",
+    "topic": "Visual Cryptography",
+    "url": "http://www.datagenetics.com/blog/november32013/index.html",
+    "votes": 3,
+    "posted": "Nov 4, 2016 10:17:23 PM"
+  },
+  {
+    "id": "12876017",
+    "timestamp": "Nov 4, 2016 10:35:51 PM",
+    "topic": "The Orange Pi Zero single-board computer ships for $6.99",
+    "url": "http://www.pcworld.com/article/3138886/computers/the-orange-pi-zero-single-board-computer-ships-for-699.html#tk.rss_all",
+    "votes": 3,
+    "posted": "Nov 4, 2016 9:53:18 PM"
+  },
+  {
+    "id": "12875950",
+    "timestamp": "Nov 4, 2016 10:15:49 PM",
+    "topic": "Mysterious \u0027ping\u0027 sound from sea floor baffles Igloolik",
+    "url": "http://www.cbc.ca/news/canada/north/ping-beep-hum-sound-arctic-ocean-igloolik-1.3831861",
+    "votes": 3,
+    "posted": "Nov 4, 2016 9:44:30 PM"
+  },
+  {
     "id": "12875593",
     "timestamp": "Nov 4, 2016 9:25:45 PM",
     "topic": "The Cognitive Upside to an Extended Adolescence",
@@ -38,6 +70,14 @@ var newsArray = [
     "url": "https://medium.com/@elliotjaystocks/one-week-with-the-google-pixel-f43e6647906f#.2l4udx8oo",
     "votes": 4,
     "posted": "Nov 4, 2016 8:34:43 PM"
+  },
+  {
+    "id": "12875263",
+    "timestamp": "Nov 4, 2016 10:15:49 PM",
+    "topic": "Is (React) Fiber ready yet?",
+    "url": "http://isfiberreadyyet.com/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 8:28:05 PM"
   },
   {
     "id": "12875211",
@@ -1316,6 +1356,14 @@ var newsArray = [
     "url": "https://coreos.com/blog/introducing-operators.html",
     "votes": 5,
     "posted": "Nov 3, 2016 6:29:37 PM"
+  },
+  {
+    "id": "12866023",
+    "timestamp": "Nov 4, 2016 10:45:52 PM",
+    "topic": "Google Home Review: Google\u0027s Take on Amazon\u0027s Echo",
+    "url": "http://arstechnica.com/gadgets/2016/11/google-home-review-a-step-forward-for-hotwords-a-step-backward-in-capability/",
+    "votes": 4,
+    "posted": "Nov 3, 2016 6:28:33 PM"
   },
   {
     "id": "12865998",
@@ -8030,77 +8078,5 @@ var newsArray = [
     "url": "https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html#//apple_ref/doc/uid/20000957-CH104-SW1",
     "votes": 4,
     "posted": "Oct 28, 2016 10:56:15 PM"
-  },
-  {
-    "id": "12820564",
-    "timestamp": "Oct 28, 2016 11:10:18 PM",
-    "topic": "The Wix Mobile App, a WordPress Joint",
-    "url": "https://ma.tt/2016/10/wix-and-the-gpl/",
-    "votes": 13,
-    "posted": "Oct 28, 2016 10:51:15 PM"
-  },
-  {
-    "id": "12820561",
-    "timestamp": "Oct 28, 2016 11:00:17 PM",
-    "topic": "Microsoft offers Apple users $650 off to trade a MacBook for a Surface",
-    "url": "https://techcrunch.com/2016/10/28/microsoft-apple/?ncid\u003drss\u0026utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+Techcrunch+%28TechCrunch%29\u0026utm_content\u003dFaceBook\u0026sr_share\u003dfacebook",
-    "votes": 22,
-    "posted": "Oct 28, 2016 10:51:00 PM"
-  },
-  {
-    "id": "12820421",
-    "timestamp": "Oct 28, 2016 11:40:21 PM",
-    "topic": "Why html thinks \u0027chucknorris\u0027 is a color",
-    "url": "http://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
-    "votes": 4,
-    "posted": "Oct 28, 2016 10:38:00 PM"
-  },
-  {
-    "id": "12820412",
-    "timestamp": "Oct 28, 2016 11:00:17 PM",
-    "topic": "Facebook Lets Advertisers Exclude Users by Race",
-    "url": "https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race",
-    "votes": 6,
-    "posted": "Oct 28, 2016 10:36:54 PM"
-  },
-  {
-    "id": "12820362",
-    "timestamp": "Oct 29, 2016 2:21:30 PM",
-    "topic": "Bonobos’ Andy Dunn shares his secrets on the future of retail",
-    "url": "http://coveteur.com/2016/10/27/bonobo-andy-dunn-interview/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 10:32:02 PM"
-  },
-  {
-    "id": "12820127",
-    "timestamp": "Oct 28, 2016 10:30:14 PM",
-    "topic": "These Bees Bore Through Rock to Make Nests",
-    "url": "http://blogs.discovermagazine.com/d-brief/2016/09/27/these-bees-bore-through-solid-rock-to-make-nests/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 10:06:04 PM"
-  },
-  {
-    "id": "12820107",
-    "timestamp": "Oct 28, 2016 10:30:14 PM",
-    "topic": "Apple Losing USB Is a Loss for Music",
-    "url": "http://pitchfork.com/thepitch/1346-apple-losing-usb-is-a-loss-for-music/?mbid\u003dsocial_facebook",
-    "votes": 3,
-    "posted": "Oct 28, 2016 10:03:37 PM"
-  },
-  {
-    "id": "12820106",
-    "timestamp": "Oct 30, 2016 2:03:39 PM",
-    "topic": "Show HN: Automate the creation of unique Vault tokens for Kubernetes Pods",
-    "url": "https://github.com/kelseyhightower/vault-controller",
-    "votes": 5,
-    "posted": "Oct 28, 2016 10:03:31 PM"
-  },
-  {
-    "id": "12820076",
-    "timestamp": "Oct 28, 2016 10:30:14 PM",
-    "topic": "Stan Ulam, John von Neumann, and the Monte Carlo Method (1987, Pdf)",
-    "url": "http://permalink.lanl.gov/object/tr?what\u003dinfo:lanl-repo/lareport/LA-UR-88-9068",
-    "votes": 3,
-    "posted": "Oct 28, 2016 9:59:46 PM"
   }
 ];
