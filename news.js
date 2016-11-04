@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12870756",
+    "timestamp": "Nov 4, 2016 7:54:32 AM",
+    "topic": "What pro computing could be",
+    "url": "https://al3x.net/2016/10/31/pro-computing.html",
+    "votes": 4,
+    "posted": "Nov 4, 2016 7:33:41 AM"
+  },
+  {
+    "id": "12870712",
+    "timestamp": "Nov 4, 2016 7:44:31 AM",
+    "topic": "Smoking \u0027causes hundreds of DNA changes",
+    "url": "http://www.bbc.com/news/health-37849000",
+    "votes": 6,
+    "posted": "Nov 4, 2016 7:18:56 AM"
+  },
+  {
+    "id": "12870701",
+    "timestamp": "Nov 4, 2016 7:44:31 AM",
+    "topic": "Inside the Classroom Where San Quentin Inmates Learn to Code",
+    "url": "https://www.wired.com/2016/11/san-quentin-inmates-learn-to-code/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:15:30 AM"
+  },
+  {
+    "id": "12870644",
+    "timestamp": "Nov 4, 2016 7:44:31 AM",
+    "topic": "Make Your Own Miniature Linux Laptop for Less Than $100",
+    "url": "http://lifehacker.com/make-your-own-miniature-linux-laptop-for-less-than-100-1788535462",
+    "votes": 4,
+    "posted": "Nov 4, 2016 6:54:49 AM"
+  },
+  {
     "id": "12870628",
     "timestamp": "Nov 4, 2016 6:54:27 AM",
     "topic": "Smarking (YC W15) Is Hiring Sr. Software Engineers and Many More in SF",
     "url": "http://www.smarking.org/",
     "votes": 1,
     "posted": "Nov 4, 2016 6:47:01 AM"
+  },
+  {
+    "id": "12870575",
+    "timestamp": "Nov 4, 2016 7:34:30 AM",
+    "topic": "Show HN: JinjaSQL",
+    "url": "https://github.com/hashedin/jinjasql",
+    "votes": 4,
+    "posted": "Nov 4, 2016 6:26:13 AM"
+  },
+  {
+    "id": "12870387",
+    "timestamp": "Nov 4, 2016 7:04:28 AM",
+    "topic": "The Median Level of Founder Ownership at Exit",
+    "url": "http://blossomstreetventures.com/blog_details.php?bcat_id\u003d106",
+    "votes": 4,
+    "posted": "Nov 4, 2016 5:28:40 AM"
   },
   {
     "id": "12870380",
@@ -22,6 +70,14 @@ var newsArray = [
     "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
     "votes": 3,
     "posted": "Nov 4, 2016 5:03:09 AM"
+  },
+  {
+    "id": "12870264",
+    "timestamp": "Nov 4, 2016 7:34:30 AM",
+    "topic": "Snapnator: Your MacBook Snap feature is back",
+    "url": "https://www.kickstarter.com/projects/436147229/snapnator-your-macbook-snap-feature-is-back",
+    "votes": 4,
+    "posted": "Nov 4, 2016 4:58:29 AM"
   },
   {
     "id": "12870249",
@@ -64,6 +120,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 4:25:54 AM"
   },
   {
+    "id": "12870081",
+    "timestamp": "Nov 4, 2016 7:14:28 AM",
+    "topic": "Before Capitalism, Medieval Peasants Got More Vacation Time Than You",
+    "url": "http://evonomics.com/capitalism-medieval-peasants-got-vacation-time-heres/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 4:14:28 AM"
+  },
+  {
     "id": "12870031",
     "timestamp": "Nov 4, 2016 4:34:15 AM",
     "topic": "Show HN: Keygen – a dead-simple product licensing API built for developers",
@@ -94,6 +158,14 @@ var newsArray = [
     "url": "http://jobs.impraise.com/o/ruby-developer",
     "votes": 1,
     "posted": "Nov 4, 2016 3:19:12 AM"
+  },
+  {
+    "id": "12869616",
+    "timestamp": "Nov 4, 2016 7:14:29 AM",
+    "topic": "How Airbnb has contributed to Vancouver\u0027s rental shortage",
+    "url": "http://www.straight.com/news/821031/masters-thesis-details-how-airbnb-has-become-problem-housing-supply-and-affordability",
+    "votes": 3,
+    "posted": "Nov 4, 2016 2:11:30 AM"
   },
   {
     "id": "12869601",
@@ -8076,13 +8148,5 @@ var newsArray = [
     "url": "https://blog.online.net/2016/10/27/scaleway-global-expansion-starts-in-amsterdam/",
     "votes": 11,
     "posted": "Oct 28, 2016 8:31:32 AM"
-  },
-  {
-    "id": "12813280",
-    "timestamp": "Oct 30, 2016 6:03:59 PM",
-    "topic": "Kierkegaard’s Rebellion",
-    "url": "http://www.nybooks.com/articles/2016/11/10/kierkegaards-rebellion/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 7:13:26 AM"
   }
 ];
