@@ -24,6 +24,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 7:15:30 AM"
   },
   {
+    "id": "12870684",
+    "timestamp": "Nov 4, 2016 8:54:37 AM",
+    "topic": "What happens when you run a rkt container?",
+    "url": "http://jvns.ca/blog/2016/11/03/what-happens-when-you-run-a-rkt-container/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:10:04 AM"
+  },
+  {
     "id": "12870644",
     "timestamp": "Nov 4, 2016 7:44:31 AM",
     "topic": "Make Your Own Miniature Linux Laptop for Less Than $100",
@@ -8116,37 +8124,5 @@ var newsArray = [
     "url": "https://twitter.com/rauchg/status/791694932587184128",
     "votes": 11,
     "posted": "Oct 28, 2016 9:55:21 AM"
-  },
-  {
-    "id": "12813653",
-    "timestamp": "Oct 28, 2016 12:39:13 PM",
-    "topic": "Angular2 core team will not provide ES6 docs",
-    "url": "https://github.com/angular/angular/issues/7600#issuecomment-196482829",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:53:54 AM"
-  },
-  {
-    "id": "12813633",
-    "timestamp": "Oct 28, 2016 10:19:02 AM",
-    "topic": "Pre-Safe Sound: Playing ‘pink noise’ in the split second before impact (2015)",
-    "url": "https://www.mercedes-benz.com/en/mercedes-benz/next/connectivity/pre-safe-sound-playing-pink-noise-in-the-split-second-before-impact/",
-    "votes": 8,
-    "posted": "Oct 28, 2016 8:46:27 AM"
-  },
-  {
-    "id": "12813600",
-    "timestamp": "Oct 28, 2016 8:38:54 AM",
-    "topic": "Protect 20M K-12 students\u0027 data as a security engineer at Clever (YC S12)",
-    "url": "https://clever.com/about/jobs#software-engineer-security",
-    "votes": 1,
-    "posted": "Oct 28, 2016 8:35:19 AM"
-  },
-  {
-    "id": "12813588",
-    "timestamp": "Oct 28, 2016 10:19:02 AM",
-    "topic": "Scaleway Global Expansion Starts in Amsterdam",
-    "url": "https://blog.online.net/2016/10/27/scaleway-global-expansion-starts-in-amsterdam/",
-    "votes": 11,
-    "posted": "Oct 28, 2016 8:31:32 AM"
   }
 ];
