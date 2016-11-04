@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12870123",
+    "timestamp": "Nov 4, 2016 4:44:16 AM",
+    "topic": "This Election Has Disgraced the Entire Profession of Journalism",
+    "url": "http://observer.com/2016/11/this-election-has-disgraced-the-entire-profession-of-journalism/#.WBpXGM-S-do.facebook",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:25:54 AM"
+  },
+  {
+    "id": "12870031",
+    "timestamp": "Nov 4, 2016 4:34:15 AM",
+    "topic": "Show HN: Keygen – a dead-simple product licensing API built for developers",
+    "url": "https://keygen.sh/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 3:57:12 AM"
+  },
+  {
     "id": "12869940",
     "timestamp": "Nov 4, 2016 3:44:11 AM",
     "topic": "After 20 Years, NASA Finally Finished Building the James Webb Space Telescope",
@@ -8005,20 +8021,5 @@ var newsArray = [
     "url": "http://www.latimes.com/business/technology/la-fi-tn-soylent-recall-20161027-story.html",
     "votes": 11,
     "posted": "Oct 28, 2016 5:11:28 AM"
-  },
-  {
-    "id": "12812659",
-    "timestamp": "Oct 28, 2016 4:58:37 AM",
-    "topic": "Apptimize hiring in sales development",
-    "url": "https://jobs.lever.co/apptimize/b47072d7-a69e-44db-9f44-015f29ebb081",
-    "votes": 1,
-    "posted": "Oct 28, 2016 4:53:43 AM"
-  },
-  {
-    "id": "12812373",
-    "timestamp": "Oct 28, 2016 4:08:33 AM",
-    "topic": "The Reddit front page is entirely /r/the_donald posts",
-    "votes": 20,
-    "posted": "Oct 28, 2016 3:56:58 AM"
   }
 ];
