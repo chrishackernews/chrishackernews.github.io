@@ -1,5 +1,109 @@
 var newsArray = [
   {
+    "id": "12872970",
+    "timestamp": "Nov 4, 2016 3:55:12 PM",
+    "topic": "@supports will change your life",
+    "url": "http://www.lottejackson.com/learning/supports-will-change-your-life",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:49:02 PM"
+  },
+  {
+    "id": "12872961",
+    "timestamp": "Nov 4, 2016 3:55:12 PM",
+    "topic": "Israel’s Zirra Raises $1.6M to ‘Analyze’ Other Startups",
+    "url": "http://jewishbusinessnews.com/2016/11/01/israels-zirra-raises-1-6-million-to-analyze-other-startups/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:47:36 PM"
+  },
+  {
+    "id": "12872868",
+    "timestamp": "Nov 4, 2016 3:45:11 PM",
+    "topic": "Dyson has launched a free engineering uni in Britain where you get paid to study",
+    "url": "http://www.thememo.com/2016/11/04/forget-fees-dyson-opens-britains-first-degree-where-students-get-paid/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 3:38:18 PM"
+  },
+  {
+    "id": "12872780",
+    "timestamp": "Nov 4, 2016 3:35:10 PM",
+    "topic": "Le Tote (YC S13) Is Hiring Full Stack Engineers Disrupt Fashion with Us",
+    "url": "http://grnh.se/5ybu4t1",
+    "votes": 1,
+    "posted": "Nov 4, 2016 3:28:45 PM"
+  },
+  {
+    "id": "12872752",
+    "timestamp": "Nov 4, 2016 3:45:11 PM",
+    "topic": "Samsung acquires Joyent",
+    "url": "https://www.joyent.com/blog/samsung-acquires-joyent",
+    "votes": 4,
+    "posted": "Nov 4, 2016 3:24:16 PM"
+  },
+  {
+    "id": "12872729",
+    "timestamp": "Nov 4, 2016 3:35:09 PM",
+    "topic": "Steve Ballmer Says Smartphones Broke His Relationship with Bill Gates",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-04/steve-ballmer-says-smartphones-broke-his-relationship-with-bill-gates",
+    "votes": 12,
+    "posted": "Nov 4, 2016 3:21:32 PM"
+  },
+  {
+    "id": "12872715",
+    "timestamp": "Nov 4, 2016 3:45:11 PM",
+    "topic": "Trump Rolling to Learn about APIs",
+    "url": "https://medium.com/api-corner/trump-rolling-to-make-apis-great-again-a80678766564#.hkt4y9atu",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:19:22 PM"
+  },
+  {
+    "id": "12872705",
+    "timestamp": "Nov 4, 2016 3:35:09 PM",
+    "topic": "Data and Machine Learning to Get Out the Vote",
+    "url": "http://www.civicinnovation.com/",
+    "votes": 14,
+    "posted": "Nov 4, 2016 3:17:35 PM"
+  },
+  {
+    "id": "12872664",
+    "timestamp": "Nov 4, 2016 3:45:11 PM",
+    "topic": "Stop Measuring Everything",
+    "url": "https://savagethoughts.com/stop-measuring-everything-8adb1118e0e5#.j0b6kqsfq",
+    "votes": 4,
+    "posted": "Nov 4, 2016 3:11:45 PM"
+  },
+  {
+    "id": "12872632",
+    "timestamp": "Nov 4, 2016 3:25:09 PM",
+    "topic": "Fatal Tesla crash and battery pack issues for First Responders [video]",
+    "url": "https://www.youtube.com/watch?v\u003dUrT5MA_iTXs",
+    "votes": 7,
+    "posted": "Nov 4, 2016 3:07:19 PM"
+  },
+  {
+    "id": "12872577",
+    "timestamp": "Nov 4, 2016 3:35:10 PM",
+    "topic": "Show HN: What happens if you disappear",
+    "url": "https://cronu.com",
+    "votes": 5,
+    "posted": "Nov 4, 2016 2:57:53 PM"
+  },
+  {
+    "id": "12872505",
+    "timestamp": "Nov 4, 2016 3:15:08 PM",
+    "topic": "The Competitive Landscape for Machine Intelligence",
+    "url": "https://hbr.org/2016/11/the-competitive-landscape-for-machine-intelligence",
+    "votes": 4,
+    "posted": "Nov 4, 2016 2:50:51 PM"
+  },
+  {
+    "id": "12872467",
+    "timestamp": "Nov 4, 2016 3:15:08 PM",
+    "topic": "India’s Telescope Detects Crack in the Earth’s Magnetic Shield",
+    "url": "http://www.natureworldnews.com/articles/31155/20161104/india-telescope-detects-crack-earth-magnetic-shield.htm",
+    "votes": 4,
+    "posted": "Nov 4, 2016 2:46:17 PM"
+  },
+  {
     "id": "12872304",
     "timestamp": "Nov 4, 2016 2:45:05 PM",
     "topic": "Docker in Production: An History of Failure",
@@ -46,6 +150,14 @@ var newsArray = [
     "url": "https://github.com/zeromq/libzmq/releases/tag/v4.2.0",
     "votes": 7,
     "posted": "Nov 4, 2016 12:41:22 PM"
+  },
+  {
+    "id": "12871752",
+    "timestamp": "Nov 4, 2016 3:55:12 PM",
+    "topic": "Quantum Honeybees (1997)",
+    "url": "http://discovermagazine.com/1997/nov/quantumhoneybees1263",
+    "votes": 3,
+    "posted": "Nov 4, 2016 12:32:18 PM"
   },
   {
     "id": "12871615",
@@ -8092,53 +8204,5 @@ var newsArray = [
     "url": "http://www.reuters.com/article/us-swiss-rail-bitcoin-idUSKCN12S1KR",
     "votes": 7,
     "posted": "Oct 28, 2016 3:56:22 PM"
-  },
-  {
-    "id": "12815526",
-    "timestamp": "Oct 28, 2016 5:29:40 PM",
-    "topic": "Wall Street\u0027s Frantic Push to Hire Coders",
-    "url": "http://www.bloomberg.com/news/articles/2016-10-28/wall-street-coders-wanted-elite-college-degrees-not-necessary",
-    "votes": 4,
-    "posted": "Oct 28, 2016 3:27:20 PM"
-  },
-  {
-    "id": "12815514",
-    "timestamp": "Oct 29, 2016 2:41:31 PM",
-    "topic": "Why It Took So Long to Invent the Wheel (2012)",
-    "url": "http://www.scientificamerican.com/article/why-it-took-so-long-to-inv/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 3:26:18 PM"
-  },
-  {
-    "id": "12815455",
-    "timestamp": "Oct 28, 2016 3:39:29 PM",
-    "topic": "Uber loses right to classify drivers as self-employed in UK",
-    "url": "https://www.theguardian.com/technology/2016/oct/28/uber-uk-tribunal-self-employed-status",
-    "votes": 4,
-    "posted": "Oct 28, 2016 3:21:41 PM"
-  },
-  {
-    "id": "12815441",
-    "timestamp": "Oct 28, 2016 3:29:27 PM",
-    "topic": "Uber drivers win employee rights case",
-    "url": "http://www.bbc.co.uk/news/business-37802386",
-    "votes": 7,
-    "posted": "Oct 28, 2016 3:20:25 PM"
-  },
-  {
-    "id": "12815425",
-    "timestamp": "Oct 28, 2016 5:39:41 PM",
-    "topic": "Uber UK drivers win employee rights case",
-    "url": "http://www.bbc.com/news/business-37802386",
-    "votes": 4,
-    "posted": "Oct 28, 2016 3:18:33 PM"
-  },
-  {
-    "id": "12815331",
-    "timestamp": "Oct 28, 2016 3:19:26 PM",
-    "topic": "MagicLeap opens new office in Finland",
-    "url": "https://techcrunch.com/2016/10/28/magic-leap-goes-to-finland-in-pursuit-of-nordic-vr-and-ar-talent/?ncid\u003drss",
-    "votes": 3,
-    "posted": "Oct 28, 2016 3:06:41 PM"
   }
 ];
