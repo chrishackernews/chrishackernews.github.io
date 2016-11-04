@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12870380",
+    "timestamp": "Nov 4, 2016 5:54:22 AM",
+    "topic": "Error handling that every programmer should know",
+    "url": "https://www.joyent.com/node-js/production/design/errors",
+    "votes": 3,
+    "posted": "Nov 4, 2016 5:27:18 AM"
+  },
+  {
+    "id": "12870249",
+    "timestamp": "Nov 4, 2016 5:34:20 AM",
+    "topic": "Why Fitbit Inc. Just Lost a Third of Its Value",
+    "url": "http://www.fool.com/investing/2016/11/03/why-fitbit-inc-just-lost-a-third-of-its-value.aspx",
+    "votes": 4,
+    "posted": "Nov 4, 2016 4:54:28 AM"
+  },
+  {
+    "id": "12870218",
+    "timestamp": "Nov 4, 2016 5:04:18 AM",
+    "topic": "​Ubuntu Core 16: Linux for a Secure Internet of Things",
+    "url": "http://www.zdnet.com/article/ubuntu-core-16-linux-for-a-secure-internet-of-things/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:47:41 AM"
+  },
+  {
+    "id": "12870150",
+    "timestamp": "Nov 4, 2016 5:14:18 AM",
+    "topic": "Tech workers at UCSF face layoff, training their low paid replacements",
+    "url": "http://www.mercurynews.com/2016/11/03/after-pink-slips-ucsf-tech-workers-train-their-foreign-replacements/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 4:31:01 AM"
+  },
+  {
     "id": "12870123",
     "timestamp": "Nov 4, 2016 4:44:16 AM",
     "topic": "This Election Has Disgraced the Entire Profession of Journalism",
@@ -110,6 +142,14 @@ var newsArray = [
     "url": "https://medium.com/code-like-a-girl/go-to-all-the-meetups-they-said-f4c52d41dc30#.6nr1x3wue",
     "votes": 3,
     "posted": "Nov 4, 2016 12:34:24 AM"
+  },
+  {
+    "id": "12869082",
+    "timestamp": "Nov 4, 2016 5:44:21 AM",
+    "topic": "Go Package Management Survey Results",
+    "url": "https://engineeredweb.com/blog/2016/go-pkg-mgmt-survey-results/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 12:33:31 AM"
   },
   {
     "id": "12868946",
@@ -324,6 +364,13 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/davidewalt/2016/11/02/inside-magic-leap-the-secretive-4-5-billion-startup-changing-computing-forever/#235ad204e83f",
     "votes": 4,
     "posted": "Nov 3, 2016 8:48:57 PM"
+  },
+  {
+    "id": "12867300",
+    "timestamp": "Nov 4, 2016 5:44:21 AM",
+    "topic": "Ask HN: How to structure sales compensation package at b2b startup?",
+    "votes": 3,
+    "posted": "Nov 3, 2016 8:45:44 PM"
   },
   {
     "id": "12867288",
@@ -8005,21 +8052,5 @@ var newsArray = [
     "url": "https://www.edge.org/conversation/judea_pearl-engines-of-evidence",
     "votes": 3,
     "posted": "Oct 28, 2016 6:22:01 AM"
-  },
-  {
-    "id": "12812815",
-    "timestamp": "Oct 28, 2016 3:09:25 PM",
-    "topic": "Remarks to Software Forum Dinner Meeting (1997)",
-    "url": "http://www.klhess.com/sef_spch.html",
-    "votes": 9,
-    "posted": "Oct 28, 2016 5:35:12 AM"
-  },
-  {
-    "id": "12812730",
-    "timestamp": "Oct 28, 2016 5:28:39 AM",
-    "topic": "Soylent halts sales of its powder as customers keep getting sick",
-    "url": "http://www.latimes.com/business/technology/la-fi-tn-soylent-recall-20161027-story.html",
-    "votes": 11,
-    "posted": "Oct 28, 2016 5:11:28 AM"
   }
 ];
