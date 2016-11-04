@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12875593",
+    "timestamp": "Nov 4, 2016 9:25:45 PM",
+    "topic": "The Cognitive Upside to an Extended Adolescence",
+    "url": "https://www.theatlantic.com/health/archive/2016/11/metaplasticity/506390/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 9:03:19 PM"
+  },
+  {
+    "id": "12875559",
+    "timestamp": "Nov 4, 2016 9:15:43 PM",
+    "topic": "2016 Rust Commercial User Survey Results",
+    "url": "https://internals.rust-lang.org/t/2016-rust-commercial-user-survey-results/4317",
+    "votes": 6,
+    "posted": "Nov 4, 2016 8:59:38 PM"
+  },
+  {
+    "id": "12875502",
+    "timestamp": "Nov 4, 2016 9:15:44 PM",
+    "topic": "Peter Thiel Speaks About Support for Trump",
+    "url": "https://www.youtube.com/watch?v\u003daswsnLvtEOA",
+    "votes": 6,
+    "posted": "Nov 4, 2016 8:53:39 PM"
+  },
+  {
     "id": "12875348",
     "timestamp": "Nov 4, 2016 8:55:42 PM",
     "topic": "I’m a Latino in Tech, and I Think the ‘Diversity’ Discussion Is Utterly Broken",
@@ -48,6 +72,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 8:11:54 PM"
   },
   {
+    "id": "12874979",
+    "timestamp": "Nov 4, 2016 9:35:46 PM",
+    "topic": "Elon Musk: Robots will take your jobs, government will have to pay your wage",
+    "url": "http://www.cnbc.com/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html",
+    "votes": 5,
+    "posted": "Nov 4, 2016 7:57:00 PM"
+  },
+  {
     "id": "12874835",
     "timestamp": "Nov 4, 2016 8:25:38 PM",
     "topic": "How “Black Mirror” Gets Its Barely Sci-Fi Tech Just Right",
@@ -86,6 +118,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/04/business/dealbook/ubs-bank-virtual-desktops-london.html",
     "votes": 3,
     "posted": "Nov 4, 2016 7:25:16 PM"
+  },
+  {
+    "id": "12874740",
+    "timestamp": "Nov 4, 2016 9:45:47 PM",
+    "topic": "Show HN: Best of Themes – The simplest way to browse thousands of website themes",
+    "url": "https://www.bestofthemes.com",
+    "votes": 4,
+    "posted": "Nov 4, 2016 7:25:04 PM"
   },
   {
     "id": "12874731",
@@ -342,6 +382,13 @@ var newsArray = [
     "url": "http://www.natureworldnews.com/articles/31155/20161104/india-telescope-detects-crack-earth-magnetic-shield.htm",
     "votes": 4,
     "posted": "Nov 4, 2016 2:46:17 PM"
+  },
+  {
+    "id": "12872311",
+    "timestamp": "Nov 4, 2016 9:15:44 PM",
+    "topic": "Ask HN: Meditaion Resources",
+    "votes": 4,
+    "posted": "Nov 4, 2016 2:23:42 PM"
   },
   {
     "id": "12872304",
@@ -8055,138 +8102,5 @@ var newsArray = [
     "url": "http://permalink.lanl.gov/object/tr?what\u003dinfo:lanl-repo/lareport/LA-UR-88-9068",
     "votes": 3,
     "posted": "Oct 28, 2016 9:59:46 PM"
-  },
-  {
-    "id": "12820038",
-    "timestamp": "Oct 28, 2016 11:10:18 PM",
-    "topic": "What comes after ‘iptables’? It’s successor, of course: `nftables`",
-    "url": "http://developers.redhat.com/blog/2016/10/28/what-comes-after-iptables-its-successor-of-course-nftables/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 9:55:04 PM"
-  },
-  {
-    "id": "12820012",
-    "timestamp": "Oct 29, 2016 12:10:24 AM",
-    "topic": "FBI reviewing new emails in Clinton classified information probe",
-    "url": "http://www.cnn.com/2016/10/28/politics/fbi-reviewing-new-emails-in-clinton-probe-director-tells-senate-judiciary-committee/index.html",
-    "votes": 5,
-    "posted": "Oct 28, 2016 9:52:10 PM"
-  },
-  {
-    "id": "12819900",
-    "timestamp": "Oct 28, 2016 10:00:12 PM",
-    "topic": "New Clinton emails found during Anthony Weiner sexting probe",
-    "url": "http://nypost.com/2016/10/28/new-clinton-emails-found-during-anthony-weiner-sexting-probe/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 9:39:24 PM"
-  },
-  {
-    "id": "12819890",
-    "timestamp": "Oct 28, 2016 10:00:11 PM",
-    "topic": "The bizarre role reversal of Apple and Microsoft",
-    "url": "https://backchannel.com/the-bizarre-role-reversal-of-apple-and-microsoft-25d8b391d5b0#.xw7qjxmyh",
-    "votes": 6,
-    "posted": "Oct 28, 2016 9:38:31 PM"
-  },
-  {
-    "id": "12819855",
-    "timestamp": "Oct 28, 2016 9:40:09 PM",
-    "topic": "FiveStars (YC W11) hiring experienced consumer PMs to make commerce human",
-    "votes": 1,
-    "posted": "Oct 28, 2016 9:35:34 PM"
-  },
-  {
-    "id": "12819813",
-    "timestamp": "Oct 28, 2016 9:50:10 PM",
-    "topic": "New Emails in Clinton Case Came from Anthony Weiner’s Electronic Devices",
-    "url": "http://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html",
-    "votes": 4,
-    "posted": "Oct 28, 2016 9:30:59 PM"
-  },
-  {
-    "id": "12819797",
-    "timestamp": "Oct 28, 2016 9:50:10 PM",
-    "topic": "Stocks tank on news that the FBI is reopening its investigation into Clinton\u0027s",
-    "url": "http://www.businessinsider.com/stocks-after-fbi-reopens-clinton-emails-investigation-2016-10",
-    "votes": 4,
-    "posted": "Oct 28, 2016 9:29:36 PM"
-  },
-  {
-    "id": "12819770",
-    "timestamp": "Oct 29, 2016 8:51:04 AM",
-    "topic": "Million Dollar Shack: Trapped in Silicon Valley\u0027s Housing Bubble",
-    "url": "https://www.youtube.com/watch?v\u003dSBjXUBMkkE8",
-    "votes": 3,
-    "posted": "Oct 28, 2016 9:26:45 PM"
-  },
-  {
-    "id": "12819706",
-    "timestamp": "Oct 30, 2016 4:42:55 AM",
-    "topic": "Ask HN: How to go from zero knowledge to employable as a junior developer?",
-    "votes": 4,
-    "posted": "Oct 28, 2016 9:18:51 PM"
-  },
-  {
-    "id": "12819672",
-    "timestamp": "Oct 28, 2016 9:50:10 PM",
-    "topic": "Today a greater percentage of Dutch people speak English than Canadians",
-    "url": "https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population",
-    "votes": 5,
-    "posted": "Oct 28, 2016 9:15:55 PM"
-  },
-  {
-    "id": "12819640",
-    "timestamp": "Oct 28, 2016 9:20:07 PM",
-    "topic": "Technique reveals the basis for machine-learning systems\u0027 decisions",
-    "url": "http://sciencebulletin.org/archives/7082.html",
-    "votes": 3,
-    "posted": "Oct 28, 2016 9:12:36 PM"
-  },
-  {
-    "id": "12819595",
-    "timestamp": "Oct 28, 2016 9:20:06 PM",
-    "topic": "Secret Management with Vault",
-    "url": "http://chairnerd.seatgeek.com/secret-management-with-vault/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 9:07:27 PM"
-  },
-  {
-    "id": "12819593",
-    "timestamp": "Oct 28, 2016 9:50:10 PM",
-    "topic": "Of course smart homes are targets for hackers",
-    "url": "https://mjg59.dreamwidth.org/45483.html",
-    "votes": 6,
-    "posted": "Oct 28, 2016 9:07:24 PM"
-  },
-  {
-    "id": "12819582",
-    "timestamp": "Oct 28, 2016 9:20:07 PM",
-    "topic": "Apple hikes prices in UK by 20pc in response to post-Brexit",
-    "url": "http://www.telegraph.co.uk/technology/2016/10/28/apple-hikes-macbook-and-imac-prices-by-20pc-in-response-to-brexi/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 9:06:11 PM"
-  },
-  {
-    "id": "12819542",
-    "timestamp": "Oct 28, 2016 9:20:07 PM",
-    "topic": "A very valuable vulnerability",
-    "url": "http://www.daemonology.net/blog/2016-10-28-A-very-valuable-vulnerability.html",
-    "votes": 4,
-    "posted": "Oct 28, 2016 9:03:11 PM"
-  },
-  {
-    "id": "12819504",
-    "timestamp": "Oct 28, 2016 9:30:08 PM",
-    "topic": "How did one contractor steal 50TB of NSA data? Easily, say former spies",
-    "url": "http://www.zdnet.com/article/how-did-one-contractor-steal-50tb-of-nsa-data-easily-say-former-spies/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:59:32 PM"
-  },
-  {
-    "id": "12819482",
-    "timestamp": "Oct 28, 2016 9:10:06 PM",
-    "topic": "Ask HN: Any other blind devs interested in working on dev tools for the blind?",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:57:16 PM"
   }
 ];
