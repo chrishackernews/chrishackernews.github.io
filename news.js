@@ -1,11 +1,105 @@
 var newsArray = [
   {
+    "id": "12869127",
+    "timestamp": "Nov 4, 2016 12:43:56 AM",
+    "topic": "Replace macOS with KDE on a rock-solid base",
+    "url": "https://neon.kde.org",
+    "votes": 3,
+    "posted": "Nov 4, 2016 12:40:04 AM"
+  },
+  {
+    "id": "12869093",
+    "timestamp": "Nov 4, 2016 12:53:57 AM",
+    "topic": "Go to All the Meetups, they said…",
+    "url": "https://medium.com/code-like-a-girl/go-to-all-the-meetups-they-said-f4c52d41dc30#.6nr1x3wue",
+    "votes": 3,
+    "posted": "Nov 4, 2016 12:34:24 AM"
+  },
+  {
+    "id": "12868946",
+    "timestamp": "Nov 4, 2016 12:33:55 AM",
+    "topic": "From stackoverflow import quick_sort",
+    "url": "https://github.com/drathier/stack-overflow-import",
+    "votes": 11,
+    "posted": "Nov 4, 2016 12:13:38 AM"
+  },
+  {
+    "id": "12868920",
+    "timestamp": "Nov 4, 2016 12:23:54 AM",
+    "topic": "3D Acceleration on PocketC.H.I.P. Alpha",
+    "url": "https://bbs.nextthing.co/t/c-h-i-p-pocketc-h-i-p-in-stock-for-the-holidays-3d-acceleration-alpha/11108/1",
+    "votes": 5,
+    "posted": "Nov 4, 2016 12:09:49 AM"
+  },
+  {
+    "id": "12868857",
+    "timestamp": "Nov 4, 2016 12:33:55 AM",
+    "topic": "John McAfee: The FBI Is Either Incompetent or Corrupt, Here\u0027s the Truth.",
+    "url": "https://medium.com/@robloggia/john-mcafee-the-fbi-is-either-incompetent-or-corrupt-in-dealing-with-hillarys-emails-76cbd00fd676#.55ktm1pb1",
+    "votes": 5,
+    "posted": "Nov 4, 2016 12:01:55 AM"
+  },
+  {
+    "id": "12868851",
+    "timestamp": "Nov 4, 2016 12:13:53 AM",
+    "topic": "Zapier is hiring a platform and partnerships engineer – remote welcome",
+    "url": "https://zapier.com/jobs/partnership-platform-engineer-fall-2016/",
+    "votes": 1,
+    "posted": "Nov 4, 2016 12:00:40 AM"
+  },
+  {
+    "id": "12868849",
+    "timestamp": "Nov 4, 2016 12:23:54 AM",
+    "topic": "Ask HN: Will you really move away from Apple hardware?",
+    "votes": 4,
+    "posted": "Nov 4, 2016 12:00:28 AM"
+  },
+  {
+    "id": "12868741",
+    "timestamp": "Nov 4, 2016 12:13:53 AM",
+    "topic": "Variational Inference for Machine Learning [pdf]",
+    "url": "http://shakirm.com/papers/VITutorial.pdf",
+    "votes": 4,
+    "posted": "Nov 3, 2016 11:44:27 PM"
+  },
+  {
+    "id": "12868641",
+    "timestamp": "Nov 4, 2016 12:13:53 AM",
+    "topic": "Software Sales for Hackers",
+    "url": "http://tapes.scalevp.com/software-sales-for-hackers/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 11:32:29 PM"
+  },
+  {
+    "id": "12868619",
+    "timestamp": "Nov 4, 2016 12:13:53 AM",
+    "topic": "ECommerce Platform Market Share",
+    "url": "https://www.engadget.com/2016/11/03/ecommerce-platform-market-share-looking-at-the-companies-that-d/",
+    "votes": 6,
+    "posted": "Nov 3, 2016 11:30:10 PM"
+  },
+  {
+    "id": "12868607",
+    "timestamp": "Nov 4, 2016 12:13:53 AM",
+    "topic": "Ask HN: What does a C++ fullstack mean to you?",
+    "votes": 6,
+    "posted": "Nov 3, 2016 11:29:01 PM"
+  },
+  {
     "id": "12868594",
     "timestamp": "Nov 3, 2016 11:33:49 PM",
     "topic": "The etcd Operator: cluster configuration and management on Kubernetes",
     "url": "https://coreos.com/blog/introducing-the-etcd-operator.html",
     "votes": 3,
     "posted": "Nov 3, 2016 11:27:49 PM"
+  },
+  {
+    "id": "12868550",
+    "timestamp": "Nov 4, 2016 12:43:56 AM",
+    "topic": "Adventures in Aurelia: Creating a Custom PDF Viewer",
+    "url": "https://www.sitepoint.com/aurelia-custom-pdf-viewer-component/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 11:22:27 PM"
   },
   {
     "id": "12868527",
@@ -38,6 +132,14 @@ var newsArray = [
     "url": "https://www.opus-codec.org/release/dev/2016/11/03/libopus-1_2_alpha.html",
     "votes": 4,
     "posted": "Nov 3, 2016 10:47:35 PM"
+  },
+  {
+    "id": "12868303",
+    "timestamp": "Nov 4, 2016 12:33:55 AM",
+    "topic": "What happened when I challenged the PC campus culture at NYU",
+    "url": "https://www.washingtonpost.com/posteverything/wp/2016/11/03/campus-pc-culture-is-so-rampant-that-nyu-is-paying-to-silence-me/",
+    "votes": 21,
+    "posted": "Nov 3, 2016 10:47:33 PM"
   },
   {
     "id": "12868287",
@@ -221,6 +323,14 @@ var newsArray = [
     "url": "https://github.com/sacert/Quick-Tetris",
     "votes": 3,
     "posted": "Nov 3, 2016 7:23:53 PM"
+  },
+  {
+    "id": "12866532",
+    "timestamp": "Nov 4, 2016 12:23:54 AM",
+    "topic": "Show HN: Building a Deep Learning Powered GIF Search Engine",
+    "url": "https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525#.q6sm3hobp",
+    "votes": 11,
+    "posted": "Nov 3, 2016 7:22:58 PM"
   },
   {
     "id": "12866328",
@@ -7956,91 +8066,5 @@ var newsArray = [
     "url": "http://arstechnica.com/tech-policy/2016/02/judge-confirms-what-many-suspected-feds-hired-cmu-to-break-tor/",
     "votes": 4,
     "posted": "Oct 28, 2016 1:28:50 AM"
-  },
-  {
-    "id": "12811071",
-    "timestamp": "Oct 28, 2016 2:38:25 AM",
-    "topic": "3 frameworks you can use to design your business",
-    "url": "http://wedistill.com/3-frameworks-to-design-your-business/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:49:11 AM"
-  },
-  {
-    "id": "12811043",
-    "timestamp": "Oct 28, 2016 1:28:19 AM",
-    "topic": "Ask HN: What to do about key supplier TRIPLING their prices at short notice?",
-    "votes": 5,
-    "posted": "Oct 28, 2016 12:45:27 AM"
-  },
-  {
-    "id": "12810987",
-    "timestamp": "Oct 28, 2016 1:28:19 AM",
-    "topic": "Hacksplaining: Comprehensive security training for developers",
-    "url": "https://www.hacksplaining.com/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 12:39:51 AM"
-  },
-  {
-    "id": "12810978",
-    "timestamp": "Oct 28, 2016 12:48:15 AM",
-    "topic": "Dear Microsoft, let\u0027s open source Age of Empires II",
-    "url": "https://medium.com/p/dear-microsoft-lets-open-source-age-of-empires-ii-e660c741ec11",
-    "votes": 5,
-    "posted": "Oct 28, 2016 12:38:33 AM"
-  },
-  {
-    "id": "12810948",
-    "timestamp": "Oct 28, 2016 3:18:29 AM",
-    "topic": "Uber releases 98 page white paper on the future of urban transit [pdf]",
-    "url": "http://uber.com/elevate.pdf",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:34:07 AM"
-  },
-  {
-    "id": "12810922",
-    "timestamp": "Oct 28, 2016 1:38:20 AM",
-    "topic": "7 Design Principles to Make Great Software",
-    "url": "https://blog.hive.com/hives-7-design-principles-c59d593ae58b#.33d6mc9n6",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:31:07 AM"
-  },
-  {
-    "id": "12810832",
-    "timestamp": "Oct 28, 2016 4:08:33 AM",
-    "topic": "Embedded FPGAs Going Mainstream?",
-    "url": "http://semiengineering.com/will-efpgas-go-mainstream/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:21:14 AM"
-  },
-  {
-    "id": "12810826",
-    "timestamp": "Oct 28, 2016 1:18:18 AM",
-    "topic": "Common Swift bird can spend up to 10 months in the air without landing",
-    "url": "http://www.nytimes.com/2016/10/28/science/common-swifts.html",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:20:53 AM"
-  },
-  {
-    "id": "12810799",
-    "timestamp": "Oct 28, 2016 12:58:16 AM",
-    "topic": "Ask HN: Helpful methods for debugging JavaScript / websites?",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:17:00 AM"
-  },
-  {
-    "id": "12810724",
-    "timestamp": "Oct 29, 2016 8:32:06 PM",
-    "topic": "Enlightenment Scholarship by the Numbers (2014) [pdf]",
-    "url": "http://arcade.stanford.edu/sites/default/files/article_pdfs/ROFL_v5_Edelstein_final.pdf",
-    "votes": 4,
-    "posted": "Oct 28, 2016 12:06:36 AM"
-  },
-  {
-    "id": "12810647",
-    "timestamp": "Oct 28, 2016 12:28:14 AM",
-    "topic": "Addicted to your phone? This guy is trying to make it stop",
-    "url": "http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/?utm_source\u003dwdfb\u0026mbid\u003dsocial_fb\u0026amp;single_page\u003dtrue",
-    "votes": 6,
-    "posted": "Oct 27, 2016 11:57:24 PM"
   }
 ];
