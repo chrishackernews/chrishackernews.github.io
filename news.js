@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12873879",
+    "timestamp": "Nov 4, 2016 5:45:22 PM",
+    "topic": "The secret world of microwave networks",
+    "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 5:40:32 PM"
+  },
+  {
+    "id": "12873679",
+    "timestamp": "Nov 4, 2016 5:35:21 PM",
+    "topic": "LLVM moves to GitHub",
+    "url": "https://twitter.com/chandlerc1024/status/794318137445359616?ref_src\u003dtwsrc%5Etfw",
+    "votes": 4,
+    "posted": "Nov 4, 2016 5:15:41 PM"
+  },
+  {
+    "id": "12873443",
+    "timestamp": "Nov 4, 2016 5:25:20 PM",
+    "topic": "ArangoDB 3.1 – A Solid Ground to Scale Part II",
+    "url": "https://www.arangodb.com/2016/11/arangodb-3-1-solid-ground-scale-part-ii/",
+    "votes": 26,
+    "posted": "Nov 4, 2016 4:43:05 PM"
+  },
+  {
     "id": "12873214",
     "timestamp": "Nov 4, 2016 4:55:17 PM",
     "topic": "Code.Gov – Share and reuse open source code from the Federal Government",
     "url": "https://code.gov",
     "votes": 4,
     "posted": "Nov 4, 2016 4:17:24 PM"
+  },
+  {
+    "id": "12873187",
+    "timestamp": "Nov 4, 2016 5:05:18 PM",
+    "topic": "Samsung just recalled 3M washing machines because they might explode",
+    "url": "http://www.businessinsider.com/r-samsung-to-recall-28-mln-washing-machines-in-the-united-states-2016-11",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:13:34 PM"
+  },
+  {
+    "id": "12873156",
+    "timestamp": "Nov 4, 2016 5:15:19 PM",
+    "topic": "The Mega Rich Have Found an Unlikely New Refuge – New Zealand",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-02/the-rich-have-found-a-place-to-escape-the-horrors-of-the-world",
+    "votes": 12,
+    "posted": "Nov 4, 2016 4:09:33 PM"
   },
   {
     "id": "12873089",
@@ -30,6 +70,14 @@ var newsArray = [
     "url": "http://jewishbusinessnews.com/2016/11/01/israels-zirra-raises-1-6-million-to-analyze-other-startups/",
     "votes": 3,
     "posted": "Nov 4, 2016 3:47:36 PM"
+  },
+  {
+    "id": "12872912",
+    "timestamp": "Nov 4, 2016 5:55:23 PM",
+    "topic": "Microsoft was working on its own MacBook Touch Bar – The Verge",
+    "url": "http://www.theverge.com/2016/11/4/13518278/microsoft-adaptive-keyboard-concept-macbook-pro-touch-bar",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:42:19 PM"
   },
   {
     "id": "12872868",
@@ -975,6 +1023,14 @@ var newsArray = [
     "url": "https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525#.q6sm3hobp",
     "votes": 11,
     "posted": "Nov 3, 2016 7:22:58 PM"
+  },
+  {
+    "id": "12866393",
+    "timestamp": "Nov 4, 2016 5:25:20 PM",
+    "topic": "Natural Selection: How a New Age Hustler Sold the Sound of the World",
+    "url": "http://pitchfork.com/features/cover-story/9971-natural-selection-how-a-new-age-hustler-sold-the-sound-of-the-world/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 7:06:57 PM"
   },
   {
     "id": "12866328",
@@ -2607,6 +2663,14 @@ var newsArray = [
     "url": "http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/?_r\u003d0\u0026pagewanted\u003dall",
     "votes": 4,
     "posted": "Nov 2, 2016 6:22:15 AM"
+  },
+  {
+    "id": "12852435",
+    "timestamp": "Nov 4, 2016 5:25:20 PM",
+    "topic": "Pratt Parsing and Precedence Climbing Are the Same Algorithm",
+    "url": "http://www.oilshell.org/blog/2016/11/01.html",
+    "votes": 3,
+    "posted": "Nov 2, 2016 6:17:51 AM"
   },
   {
     "id": "12852379",
@@ -8173,28 +8237,5 @@ var newsArray = [
     "url": "https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c",
     "votes": 3,
     "posted": "Oct 28, 2016 6:00:17 PM"
-  },
-  {
-    "id": "12817332",
-    "timestamp": "Oct 28, 2016 6:19:45 PM",
-    "topic": "Apple just told the world it has no idea who the Mac is for",
-    "url": "https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b#.3mb5olie9",
-    "votes": 9,
-    "posted": "Oct 28, 2016 5:54:33 PM"
-  },
-  {
-    "id": "12817204",
-    "timestamp": "Oct 28, 2016 7:19:50 PM",
-    "topic": "Ask HN: T-shirt gift idea for a friendly sysadmin?",
-    "votes": 3,
-    "posted": "Oct 28, 2016 5:44:58 PM"
-  },
-  {
-    "id": "12816618",
-    "timestamp": "Oct 28, 2016 5:29:41 PM",
-    "topic": "Chimpanzee genomic diversity reveals ancient admixture with bonobos",
-    "url": "http://science.sciencemag.org/content/354/6311/477.full",
-    "votes": 3,
-    "posted": "Oct 28, 2016 5:09:22 PM"
   }
 ];
