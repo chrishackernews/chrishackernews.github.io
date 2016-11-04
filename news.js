@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12869940",
+    "timestamp": "Nov 4, 2016 3:44:11 AM",
+    "topic": "After 20 Years, NASA Finally Finished Building the James Webb Space Telescope",
+    "url": "http://www.popsci.com/james-webb-space-telescope-is-now-ready-for-final-tests-before-launch",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:32:31 AM"
+  },
+  {
+    "id": "12869934",
+    "timestamp": "Nov 4, 2016 3:44:11 AM",
+    "topic": "DOJ Sues DirecTV, Calling It a \u0027Ringleader\u0027 of Collusion Over Sports Programming",
+    "url": "https://www.techdirt.com/articles/20161103/06460835951/doj-sues-directv-calling-it-ringleader-collusion-over-regional-sports-programming.shtml",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:31:26 AM"
+  },
+  {
+    "id": "12869870",
+    "timestamp": "Nov 4, 2016 3:24:09 AM",
+    "topic": "Impraise (YC S14) Hiring a Ruby Developer in Beautiful Amsterdam",
+    "url": "http://jobs.impraise.com/o/ruby-developer",
+    "votes": 1,
+    "posted": "Nov 4, 2016 3:19:12 AM"
+  },
+  {
     "id": "12869601",
     "timestamp": "Nov 4, 2016 2:24:05 AM",
     "topic": "The Peoples Code – Code.gov Launches",
     "url": "https://code.gov/#/",
     "votes": 14,
     "posted": "Nov 4, 2016 2:08:24 AM"
+  },
+  {
+    "id": "12869522",
+    "timestamp": "Nov 4, 2016 3:44:11 AM",
+    "topic": "How to be an artist – Howard Hodgkin",
+    "url": "http://iainmait.land/posts/howard-hodgkin-how-to-be-an-artist",
+    "votes": 4,
+    "posted": "Nov 4, 2016 1:50:45 AM"
+  },
+  {
+    "id": "12869443",
+    "timestamp": "Nov 4, 2016 3:24:09 AM",
+    "topic": "Regular meditation more beneficial than vacation",
+    "url": "http://www.health.harvard.edu/blog/relaxation-benefits-meditation-stronger-relaxation-benefits-taking-vacation-2016102710532",
+    "votes": 3,
+    "posted": "Nov 4, 2016 1:35:59 AM"
   },
   {
     "id": "12869412",
@@ -260,6 +300,30 @@ var newsArray = [
     "url": "http://nautil.us/issue/42/fakes/why-are-us-presidential-elections-so-close",
     "votes": 4,
     "posted": "Nov 3, 2016 8:53:10 PM"
+  },
+  {
+    "id": "12867325",
+    "timestamp": "Nov 4, 2016 3:14:08 AM",
+    "topic": "Inside Magic Leap, the Secretive $4.5B Startup Changing Computing Forever",
+    "url": "http://www.forbes.com/sites/davidewalt/2016/11/02/inside-magic-leap-the-secretive-4-5-billion-startup-changing-computing-forever/#235ad204e83f",
+    "votes": 4,
+    "posted": "Nov 3, 2016 8:48:57 PM"
+  },
+  {
+    "id": "12867288",
+    "timestamp": "Nov 4, 2016 3:24:10 AM",
+    "topic": "How to block the ultrasonic signals you didn’t know were tracking you",
+    "url": "http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/",
+    "votes": 5,
+    "posted": "Nov 3, 2016 8:44:28 PM"
+  },
+  {
+    "id": "12867273",
+    "timestamp": "Nov 4, 2016 3:14:08 AM",
+    "topic": "Our units of measurement are finally about to get an upgrade",
+    "url": "http://www.sciencealert.com/our-units-of-measurement-are-finally-getting-an-upgrade",
+    "votes": 3,
+    "posted": "Nov 3, 2016 8:41:44 PM"
   },
   {
     "id": "12867221",
@@ -7956,60 +8020,5 @@ var newsArray = [
     "topic": "The Reddit front page is entirely /r/the_donald posts",
     "votes": 20,
     "posted": "Oct 28, 2016 3:56:58 AM"
-  },
-  {
-    "id": "12812297",
-    "timestamp": "Oct 28, 2016 4:38:35 AM",
-    "topic": "For crying out loud, Apple, just build a touchscreen Mac already",
-    "url": "http://www.businessinsider.com/apple-macbook-pro-touch-bar-makes-no-sense-2016-10",
-    "votes": 3,
-    "posted": "Oct 28, 2016 3:42:10 AM"
-  },
-  {
-    "id": "12812181",
-    "timestamp": "Oct 28, 2016 6:18:44 AM",
-    "topic": "The Red Cross Blood Service: Australia\u0027s largest ever leak of personal data",
-    "url": "https://www.troyhunt.com/the-red-cross-blood-service-australias-largest-ever-leak-of-personal-data/",
-    "votes": 5,
-    "posted": "Oct 28, 2016 3:22:44 AM"
-  },
-  {
-    "id": "12812126",
-    "timestamp": "Oct 28, 2016 3:38:30 AM",
-    "topic": "Tiny beads can deliver oxygen straight to the blood stream",
-    "url": "http://arstechnica.com/science/2016/10/tiny-beads-can-deliver-oxygen-straight-to-the-blood-stream/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 3:16:54 AM"
-  },
-  {
-    "id": "12812124",
-    "timestamp": "Oct 28, 2016 3:28:29 AM",
-    "topic": "MacOS: Strolling into Ring-0 via I/O Kit Drivers",
-    "url": "https://speakerdeck.com/patrickwardle/o-kit-drivers",
-    "votes": 3,
-    "posted": "Oct 28, 2016 3:16:49 AM"
-  },
-  {
-    "id": "12812095",
-    "timestamp": "Oct 28, 2016 3:48:31 AM",
-    "topic": "Why Do Americans Stink at Math?",
-    "url": "http://www.nytimes.com/2014/07/27/magazine/why-do-americans-stink-at-math.html",
-    "votes": 3,
-    "posted": "Oct 28, 2016 3:13:19 AM"
-  },
-  {
-    "id": "12811946",
-    "timestamp": "Oct 28, 2016 3:48:31 AM",
-    "topic": "These Are the Charts That Scare Wall Street",
-    "url": "http://www.bloomberg.com/news/articles/2016-10-27/these-are-the-charts-that-scare-wall-street?cmpid\u003dBBD102716_BIZ",
-    "votes": 5,
-    "posted": "Oct 28, 2016 2:57:41 AM"
-  },
-  {
-    "id": "12811929",
-    "timestamp": "Oct 28, 2016 4:38:35 AM",
-    "topic": "Why didn\u0027t Apple use Lightening vs. USB 3.0-C on iPhone 7?",
-    "votes": 4,
-    "posted": "Oct 28, 2016 2:55:41 AM"
   }
 ];
