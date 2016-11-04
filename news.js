@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12870628",
+    "timestamp": "Nov 4, 2016 6:54:27 AM",
+    "topic": "Smarking (YC W15) Is Hiring Sr. Software Engineers and Many More in SF",
+    "url": "http://www.smarking.org/",
+    "votes": 1,
+    "posted": "Nov 4, 2016 6:47:01 AM"
+  },
+  {
     "id": "12870380",
     "timestamp": "Nov 4, 2016 5:54:22 AM",
     "topic": "Error handling that every programmer should know",
     "url": "https://www.joyent.com/node-js/production/design/errors",
     "votes": 3,
     "posted": "Nov 4, 2016 5:27:18 AM"
+  },
+  {
+    "id": "12870287",
+    "timestamp": "Nov 4, 2016 6:04:23 AM",
+    "topic": "The secret world of microwave networks",
+    "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 5:03:09 AM"
   },
   {
     "id": "12870249",
@@ -22,6 +38,14 @@ var newsArray = [
     "url": "http://www.zdnet.com/article/ubuntu-core-16-linux-for-a-secure-internet-of-things/",
     "votes": 3,
     "posted": "Nov 4, 2016 4:47:41 AM"
+  },
+  {
+    "id": "12870152",
+    "timestamp": "Nov 4, 2016 6:14:23 AM",
+    "topic": "US Broken Arrow Possibly Found in Canada (2016)",
+    "url": "http://vancouversun.com/news/local-news/canadian-army-interested-in-old-nuke-that-may-have-been-found-off-haida-gwaii",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:32:02 AM"
   },
   {
     "id": "12870150",
@@ -189,6 +213,14 @@ var newsArray = [
     "topic": "Ask HN: Will you really move away from Apple hardware?",
     "votes": 4,
     "posted": "Nov 4, 2016 12:00:28 AM"
+  },
+  {
+    "id": "12868778",
+    "timestamp": "Nov 4, 2016 6:14:23 AM",
+    "topic": "Is the Australian government agile and innovative? Not to those in startups",
+    "url": "http://www.smh.com.au/national/public-service/agile-and-innovativemen-not-in-the-real-world-20161026-gsas78.html",
+    "votes": 3,
+    "posted": "Nov 3, 2016 11:49:11 PM"
   },
   {
     "id": "12868741",
@@ -705,6 +737,14 @@ var newsArray = [
     "url": "http://thebuild.com/presentations/pgconfeu-2016-securing-postgresql.pdf",
     "votes": 5,
     "posted": "Nov 3, 2016 3:50:46 PM"
+  },
+  {
+    "id": "12864303",
+    "timestamp": "Nov 4, 2016 6:24:24 AM",
+    "topic": "Fourier Transform as Feature Extraction for Malware Classification [pdf]",
+    "url": "http://worldcomp-proceedings.com/proc/p2014/SAM9743.pdf",
+    "votes": 4,
+    "posted": "Nov 3, 2016 3:42:28 PM"
   },
   {
     "id": "12864151",
@@ -8044,13 +8084,5 @@ var newsArray = [
     "url": "http://www.nybooks.com/articles/2016/11/10/kierkegaards-rebellion/",
     "votes": 3,
     "posted": "Oct 28, 2016 7:13:26 AM"
-  },
-  {
-    "id": "12813069",
-    "timestamp": "Oct 28, 2016 6:38:45 AM",
-    "topic": "Engines of Evidence – A Conversation with Judea Pearl",
-    "url": "https://www.edge.org/conversation/judea_pearl-engines-of-evidence",
-    "votes": 3,
-    "posted": "Oct 28, 2016 6:22:01 AM"
   }
 ];
