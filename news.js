@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12874798",
+    "timestamp": "Nov 4, 2016 7:45:34 PM",
+    "topic": "DeepMind and Blizzard to Open Up StarCraft II to AI",
+    "url": "https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/",
+    "votes": 9,
+    "posted": "Nov 4, 2016 7:32:53 PM"
+  },
+  {
+    "id": "12874587",
+    "timestamp": "Nov 4, 2016 7:15:32 PM",
+    "topic": "How junk science put a woman behind bars for 25 years",
+    "url": "https://theintercept.com/2016/11/04/25-years-after-junk-science-conviction-texas-finally-admits-sonia-cacys-innocence/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:06:16 PM"
+  },
+  {
+    "id": "12874580",
+    "timestamp": "Nov 4, 2016 7:15:31 PM",
+    "topic": "Seneca Systems (S16) hiring smart, resourceful full-stack engineers",
+    "url": "http://seneca.systems/careers/product/full-stack-engineer",
+    "votes": 1,
+    "posted": "Nov 4, 2016 7:05:46 PM"
+  },
+  {
+    "id": "12874521",
+    "timestamp": "Nov 4, 2016 7:25:33 PM",
+    "topic": "Jury finds Rolling Stone responsible for defaming UVA dean with rape story",
+    "url": "https://www.washingtonpost.com/local/education/jury-finds-reporter-rolling-stone-responsible-for-defaming-u-va-dean-with-gang-rape-story/2016/11/04/aaf407fa-a1e8-11e6-a44d-cc2898cfab06_story.html",
+    "votes": 7,
+    "posted": "Nov 4, 2016 6:58:57 PM"
+  },
+  {
+    "id": "12874403",
+    "timestamp": "Nov 4, 2016 7:05:30 PM",
+    "topic": "Turkey blocks social media again to stall protests – here’s how to access them",
+    "url": "https://techcrunch.com/2016/11/04/turkey-blocks-social-media-again-to-stall-protests-heres-how-to-access-them/",
+    "votes": 5,
+    "posted": "Nov 4, 2016 6:43:42 PM"
+  },
+  {
     "id": "12874280",
     "timestamp": "Nov 4, 2016 6:35:27 PM",
     "topic": "Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded",
@@ -22,6 +62,14 @@ var newsArray = [
     "url": "http://tothestars.io/blog/2016/11/2/serverless-mapreduce",
     "votes": 3,
     "posted": "Nov 4, 2016 6:01:20 PM"
+  },
+  {
+    "id": "12874034",
+    "timestamp": "Nov 4, 2016 7:45:34 PM",
+    "topic": "Introducing Google Home",
+    "url": "https://madeby.google.com/home/",
+    "votes": 6,
+    "posted": "Nov 4, 2016 5:57:37 PM"
   },
   {
     "id": "12874001",
@@ -176,6 +224,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 3:07:19 PM"
   },
   {
+    "id": "12872595",
+    "timestamp": "Nov 4, 2016 7:45:34 PM",
+    "topic": "Sparsity",
+    "url": "http://kevinlawler.com/sparse",
+    "votes": 5,
+    "posted": "Nov 4, 2016 3:01:20 PM"
+  },
+  {
     "id": "12872577",
     "timestamp": "Nov 4, 2016 3:35:10 PM",
     "topic": "Show HN: What happens if you disappear",
@@ -206,6 +262,14 @@ var newsArray = [
     "url": "https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/",
     "votes": 5,
     "posted": "Nov 4, 2016 2:23:07 PM"
+  },
+  {
+    "id": "12872074",
+    "timestamp": "Nov 4, 2016 7:05:31 PM",
+    "topic": "Apple Takes 104% of All Smartphone Profits Following Galaxy Note 7 Recall",
+    "url": "http://www.macrumors.com/2016/11/04/apple-smartphone-profit-q3-samsung-recall/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 1:42:05 PM"
   },
   {
     "id": "12871969",
@@ -254,6 +318,13 @@ var newsArray = [
     "url": "https://github.com/zeromq/libzmq/releases/tag/v4.2.0",
     "votes": 7,
     "posted": "Nov 4, 2016 12:41:22 PM"
+  },
+  {
+    "id": "12871783",
+    "timestamp": "Nov 4, 2016 7:45:34 PM",
+    "topic": "Ask HN: I know a few high-level languages. Is it still worth learning C++?",
+    "votes": 4,
+    "posted": "Nov 4, 2016 12:38:59 PM"
   },
   {
     "id": "12871752",
@@ -8164,77 +8235,5 @@ var newsArray = [
     "url": "http://time.com/4545407/lee-hsien-loong-singapore-globalization/",
     "votes": 3,
     "posted": "Oct 28, 2016 8:02:05 PM"
-  },
-  {
-    "id": "12818756",
-    "timestamp": "Oct 28, 2016 8:29:59 PM",
-    "topic": "New MacBook Pros Max Out at 16GB RAM Due to Battery Life Concerns",
-    "url": "http://www.macrumors.com/2016/10/28/new-macbook-pros-no-32gb-ram-battery-life/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 7:54:07 PM"
-  },
-  {
-    "id": "12818732",
-    "timestamp": "Oct 28, 2016 8:50:02 PM",
-    "topic": "Apple Sucks Now, Here’s a ThinkPad Buyer’s Guide",
-    "url": "http://hackaday.com/2016/10/28/apple-sucks-now-heres-a-thinkpad-buyers-guide/",
-    "votes": 5,
-    "posted": "Oct 28, 2016 7:52:19 PM"
-  },
-  {
-    "id": "12818617",
-    "timestamp": "Oct 28, 2016 7:59:57 PM",
-    "topic": "Incident Report: Inadvertent Private Repository Disclosure",
-    "url": "https://github.com/blog/2273-incident-report-inadvertent-private-repository-disclosure",
-    "votes": 9,
-    "posted": "Oct 28, 2016 7:42:38 PM"
-  },
-  {
-    "id": "12818537",
-    "timestamp": "Oct 28, 2016 8:40:00 PM",
-    "topic": "Continuous MySQL Backup Validation at Facebook",
-    "url": "https://code.facebook.com/posts/1007323976059780/continuous-mysql-backup-validation-restoring-backups",
-    "votes": 5,
-    "posted": "Oct 28, 2016 7:35:31 PM"
-  },
-  {
-    "id": "12818528",
-    "timestamp": "Oct 28, 2016 7:49:53 PM",
-    "topic": "FBI reopens investigation of emails from Clinton’s private server",
-    "url": "https://www.washingtonpost.com/politics/fbi-to-conduct-new-investigation-of-emails-from-clintons-private-server/2016/10/28/0b1e9468-9d31-11e6-9980-50913d68eacb_story.html?hpid\u003dhp_no-name_no-name%3Apage%2Fbreaking-news-bar\u0026tid\u003da_breakingnews",
-    "votes": 18,
-    "posted": "Oct 28, 2016 7:35:02 PM"
-  },
-  {
-    "id": "12818487",
-    "timestamp": "Oct 28, 2016 7:49:53 PM",
-    "topic": "FBI reopens investigation into Clinton email use",
-    "url": "http://www.foxnews.com/politics/2016/10/28/fbi-reopens-investigation-into-clinton-email-use.html",
-    "votes": 4,
-    "posted": "Oct 28, 2016 7:30:44 PM"
-  },
-  {
-    "id": "12818459",
-    "timestamp": "Oct 28, 2016 7:39:51 PM",
-    "topic": "FBI Is Re-Opening Clinton E-Mail Investigation, Chaffetz Says",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-28/fbi-is-re-opening-clinton-e-mail-investigation-chaffetz-says",
-    "votes": 8,
-    "posted": "Oct 28, 2016 7:27:22 PM"
-  },
-  {
-    "id": "12818392",
-    "timestamp": "Oct 28, 2016 8:09:58 PM",
-    "topic": "Machine Learning 101: An Intro to Utilizing Decision Trees",
-    "url": "http://fr.talend.com/blog/2016/09/29/machine-learning-made-easy-with-talend-%E2%80%93-decision-trees",
-    "votes": 3,
-    "posted": "Oct 28, 2016 7:22:30 PM"
-  },
-  {
-    "id": "12818103",
-    "timestamp": "Oct 29, 2016 1:50:33 AM",
-    "topic": "Hacker Tweets ‘No Man’s Sky Was a Mistake’ from Hello Games Account",
-    "url": "http://www.theverge.com/2016/10/28/13453260/no-mans-sky-hello-games-hacked",
-    "votes": 3,
-    "posted": "Oct 28, 2016 6:58:12 PM"
   }
 ];
