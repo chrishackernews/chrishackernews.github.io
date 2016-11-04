@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12871969",
+    "timestamp": "Nov 4, 2016 1:24:59 PM",
+    "topic": "The NYT Released an Oregon Trail Style Game about Voter Suppression",
+    "url": "http://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html?ref\u003dopinion",
+    "votes": 4,
+    "posted": "Nov 4, 2016 1:17:15 PM"
+  },
+  {
+    "id": "12871934",
+    "timestamp": "Nov 4, 2016 1:45:01 PM",
+    "topic": "Introduction to Cryptography – Christof Paar",
+    "url": "https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos",
+    "votes": 4,
+    "posted": "Nov 4, 2016 1:09:24 PM"
+  },
+  {
+    "id": "12871893",
+    "timestamp": "Nov 4, 2016 1:24:59 PM",
+    "topic": "Ghost soldiers: the Russians secretly dying for the Kremlin in Syria",
+    "url": "http://www.reuters.com/article/us-mideast-crisis-syria-russia-insight-idUSKBN12Y0M6",
+    "votes": 3,
+    "posted": "Nov 4, 2016 1:01:39 PM"
+  },
+  {
+    "id": "12871809",
+    "timestamp": "Nov 4, 2016 1:04:58 PM",
+    "topic": "Here’s to more HTTPS on the web",
+    "url": "https://developers.googleblog.com/2016/11/heres-to-more-https-on-the-web.html",
+    "votes": 3,
+    "posted": "Nov 4, 2016 12:43:23 PM"
+  },
+  {
+    "id": "12871794",
+    "timestamp": "Nov 4, 2016 1:24:59 PM",
+    "topic": "ZeroMQ 4.2.0",
+    "url": "https://github.com/zeromq/libzmq/releases/tag/v4.2.0",
+    "votes": 7,
+    "posted": "Nov 4, 2016 12:41:22 PM"
+  },
+  {
     "id": "12871615",
     "timestamp": "Nov 4, 2016 12:24:55 PM",
     "topic": "MongoHQ/Compose: Sandbox Retirement",
@@ -356,6 +396,14 @@ var newsArray = [
     "url": "http://www.npr.org/sections/health-shots/2016/11/03/500549503/male-birth-control-study-killed-after-men-complain-about-side-effects",
     "votes": 6,
     "posted": "Nov 4, 2016 1:29:02 AM"
+  },
+  {
+    "id": "12869389",
+    "timestamp": "Nov 4, 2016 1:45:01 PM",
+    "topic": "The audacious plan to bring back supersonic flight",
+    "url": "http://www.vox.com/energy-and-environment/2016/11/2/13409324/supersonic-flight-concorde",
+    "votes": 4,
+    "posted": "Nov 4, 2016 1:21:33 AM"
   },
   {
     "id": "12869371",
@@ -8124,37 +8172,5 @@ var newsArray = [
     "url": "https://www.theguardian.com/commentisfree/2016/oct/28/nissan-deal-hard-brexit-britain-trade-europe",
     "votes": 5,
     "posted": "Oct 28, 2016 2:09:17 PM"
-  },
-  {
-    "id": "12814848",
-    "timestamp": "Oct 28, 2016 7:39:52 PM",
-    "topic": "Show HN: WSGI pure Python non-blocking HTTP2 server",
-    "url": "https://github.com/hivesolutions/netius",
-    "votes": 5,
-    "posted": "Oct 28, 2016 1:39:31 PM"
-  },
-  {
-    "id": "12814742",
-    "timestamp": "Oct 28, 2016 1:49:19 PM",
-    "topic": "Show HN: Sorting 50K Array, HTML5 Web Worker Demo",
-    "url": "http://afshinm.github.io/50k/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 1:12:50 PM"
-  },
-  {
-    "id": "12814723",
-    "timestamp": "Oct 28, 2016 1:09:16 PM",
-    "topic": "Segment (YC S11) Is Hiring a Head of Solutions Enginering",
-    "url": "https://boards.greenhouse.io/segment/jobs/463624",
-    "votes": 1,
-    "posted": "Oct 28, 2016 1:07:43 PM"
-  },
-  {
-    "id": "12814676",
-    "timestamp": "Oct 28, 2016 2:29:23 PM",
-    "topic": "Code dependencies are the devil",
-    "url": "https://medium.freecodecamp.com/code-dependencies-are-the-devil-35ed28b556d#.61nr09qp0",
-    "votes": 3,
-    "posted": "Oct 28, 2016 12:57:31 PM"
   }
 ];
