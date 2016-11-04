@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12869412",
+    "timestamp": "Nov 4, 2016 1:44:02 AM",
+    "topic": "Male Birth Control Study Killed After Men Complain About Side Effects",
+    "url": "http://www.npr.org/sections/health-shots/2016/11/03/500549503/male-birth-control-study-killed-after-men-complain-about-side-effects",
+    "votes": 6,
+    "posted": "Nov 4, 2016 1:29:02 AM"
+  },
+  {
+    "id": "12869209",
+    "timestamp": "Nov 4, 2016 1:44:02 AM",
+    "topic": "\u0027The FBI is Trumpland\u0027: anti-Clinton atmosphere spurred leaks, sources say",
+    "url": "https://www.theguardian.com/us-news/2016/nov/03/fbi-leaks-hillary-clinton-james-comey-donald-trump",
+    "votes": 3,
+    "posted": "Nov 4, 2016 12:51:12 AM"
+  },
+  {
+    "id": "12869142",
+    "timestamp": "Nov 4, 2016 1:13:59 AM",
+    "topic": "Social media shutdown in Turkey",
+    "url": "https://turkeyblocks.org/2016/11/04/social-media-shutdown-turkey/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 12:42:36 AM"
+  },
+  {
     "id": "12869127",
     "timestamp": "Nov 4, 2016 12:43:56 AM",
     "topic": "Replace macOS with KDE on a rock-solid base",
@@ -395,6 +419,13 @@ var newsArray = [
     "url": "http://www.foxnews.com/entertainment/2016/11/03/putin-grants-russian-citizenship-to-steven-seagal.html",
     "votes": 3,
     "posted": "Nov 3, 2016 6:06:24 PM"
+  },
+  {
+    "id": "12865798",
+    "timestamp": "Nov 4, 2016 1:24:00 AM",
+    "topic": "Ask HN: Why do institutions choose buggy enterprise cms over open source ones",
+    "votes": 5,
+    "posted": "Nov 3, 2016 6:05:07 PM"
   },
   {
     "id": "12865698",
@@ -8043,28 +8074,5 @@ var newsArray = [
     "url": "http://foreignpolicy.com/2016/10/27/facebooks-plan-to-wire-africa-is-a-dictators-dream-come-true-free-basics-internet/",
     "votes": 3,
     "posted": "Oct 28, 2016 2:01:05 AM"
-  },
-  {
-    "id": "12811520",
-    "timestamp": "Oct 28, 2016 12:49:14 PM",
-    "topic": "Ask HN: What\u0027s the point of distinguishing lambda, block and proc in Ruby?",
-    "votes": 6,
-    "posted": "Oct 28, 2016 1:47:52 AM"
-  },
-  {
-    "id": "12811438",
-    "timestamp": "Oct 28, 2016 1:38:20 AM",
-    "topic": "Le Tote (YC S13) Is Hiring Full Stack Engineers Disrupt Fashion with Us",
-    "url": "http://grnh.se/ia126p1",
-    "votes": 1,
-    "posted": "Oct 28, 2016 1:35:11 AM"
-  },
-  {
-    "id": "12811397",
-    "timestamp": "Oct 28, 2016 2:08:22 AM",
-    "topic": "Judge confirms what many suspected: Feds hired CMU to break Tor",
-    "url": "http://arstechnica.com/tech-policy/2016/02/judge-confirms-what-many-suspected-feds-hired-cmu-to-break-tor/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 1:28:50 AM"
   }
 ];
