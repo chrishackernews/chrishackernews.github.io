@@ -1,11 +1,99 @@
 var newsArray = [
   {
+    "id": "12875348",
+    "timestamp": "Nov 4, 2016 8:55:42 PM",
+    "topic": "I’m a Latino in Tech, and I Think the ‘Diversity’ Discussion Is Utterly Broken",
+    "url": "http://observer.com/2016/10/lets-be-honest-we-have-no-idea-what-diversity-means/",
+    "votes": 5,
+    "posted": "Nov 4, 2016 8:37:30 PM"
+  },
+  {
+    "id": "12875330",
+    "timestamp": "Nov 4, 2016 8:55:42 PM",
+    "topic": "One week with the Google Pixel",
+    "url": "https://medium.com/@elliotjaystocks/one-week-with-the-google-pixel-f43e6647906f#.2l4udx8oo",
+    "votes": 4,
+    "posted": "Nov 4, 2016 8:34:43 PM"
+  },
+  {
+    "id": "12875211",
+    "timestamp": "Nov 4, 2016 8:55:41 PM",
+    "topic": "Apple cuts USB-C adapter prices in response to MacBook Pro complaints",
+    "url": "http://www.theverge.com/2016/11/4/13524272/apple-cutting-usb-c-adaptor-prices-macbook-pro",
+    "votes": 7,
+    "posted": "Nov 4, 2016 8:22:54 PM"
+  },
+  {
+    "id": "12875191",
+    "timestamp": "Nov 4, 2016 8:55:41 PM",
+    "topic": "Introducing Aurelia UX",
+    "url": "http://blog.aurelia.io/2016/11/04/introducing-aurelia-ux/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 8:21:26 PM"
+  },
+  {
+    "id": "12875168",
+    "timestamp": "Nov 4, 2016 8:45:40 PM",
+    "topic": "Putting Sugary Soda Out of Reach",
+    "url": "http://www.nytimes.com/2016/11/08/well/eat/putting-sugary-soda-out-of-reach.html?emc\u003dedit_ca_20161104\u0026nl\u003dcalifornia-today\u0026nlid\u003d4617603\u0026te\u003d1\u0026_r\u003d0",
+    "votes": 3,
+    "posted": "Nov 4, 2016 8:19:05 PM"
+  },
+  {
+    "id": "12875092",
+    "timestamp": "Nov 4, 2016 8:45:40 PM",
+    "topic": "Rolling Stone Found Liable in Defamation Trial Over ‘Rape on Campus’ Article",
+    "url": "http://www.wsj.com/articles/rolling-stone-found-liable-in-defamation-trial-over-rape-on-campus-article-1478284464",
+    "votes": 6,
+    "posted": "Nov 4, 2016 8:11:54 PM"
+  },
+  {
+    "id": "12874835",
+    "timestamp": "Nov 4, 2016 8:25:38 PM",
+    "topic": "How “Black Mirror” Gets Its Barely Sci-Fi Tech Just Right",
+    "url": "https://magenta.as/how-black-mirror-gets-its-barely-sci-fi-tech-just-right-4809e500085e#.3mxzdk2x8",
+    "votes": 8,
+    "posted": "Nov 4, 2016 7:37:59 PM"
+  },
+  {
+    "id": "12874808",
+    "timestamp": "Nov 4, 2016 8:15:37 PM",
+    "topic": "Programming is boring",
+    "url": "http://dividebyze.ro/2016/11/04/programming-is-boring.html",
+    "votes": 8,
+    "posted": "Nov 4, 2016 7:34:04 PM"
+  },
+  {
     "id": "12874798",
     "timestamp": "Nov 4, 2016 7:45:34 PM",
     "topic": "DeepMind and Blizzard to Open Up StarCraft II to AI",
     "url": "https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/",
     "votes": 9,
     "posted": "Nov 4, 2016 7:32:53 PM"
+  },
+  {
+    "id": "12874756",
+    "timestamp": "Nov 4, 2016 8:25:38 PM",
+    "topic": "Harvard Cancels Men’s Soccer Season After Finding Sexually Explicit \u0027Reports\u0027",
+    "url": "https://www.thecrimson.com/article/2016/11/4/soccer-suspended-scouting-report-harvard/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:26:32 PM"
+  },
+  {
+    "id": "12874743",
+    "timestamp": "Nov 4, 2016 8:05:36 PM",
+    "topic": "No Laptop, No Phone, No Desk: UBS Reinvents the Work Space",
+    "url": "http://www.nytimes.com/2016/11/04/business/dealbook/ubs-bank-virtual-desktops-london.html",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:25:16 PM"
+  },
+  {
+    "id": "12874731",
+    "timestamp": "Nov 4, 2016 8:45:40 PM",
+    "topic": "New sandbox features in systemd",
+    "url": "https://endocode.com/blog/2016/11/04/new-sandbox-features-in-systemd/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:23:40 PM"
   },
   {
     "id": "12874587",
@@ -8100,140 +8188,5 @@ var newsArray = [
     "topic": "Ask HN: Any other blind devs interested in working on dev tools for the blind?",
     "votes": 4,
     "posted": "Oct 28, 2016 8:57:16 PM"
-  },
-  {
-    "id": "12819434",
-    "timestamp": "Oct 28, 2016 9:10:05 PM",
-    "topic": "Looking Back on the Largest DDoS in History",
-    "url": "http://blog.statuspage.io/looking-back-on-the-largest-ddos-in-history",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:50:54 PM"
-  },
-  {
-    "id": "12819358",
-    "timestamp": "Oct 28, 2016 9:50:10 PM",
-    "topic": "Kickstarter Campaign to Reissue Newton\u0027s Principia Gains Momentum",
-    "url": "http://physicsbuzz.physicscentral.com/2016/10/everything-old-is-new-kickstarter.html",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:43:55 PM"
-  },
-  {
-    "id": "12819322",
-    "timestamp": "Oct 28, 2016 8:50:03 PM",
-    "topic": "Imzy, a social network based on kindness, opens its doors to the public",
-    "url": "http://www.theverge.com/2016/10/27/13416716/imzy-social-network-ex-reddit-launch-funding",
-    "votes": 5,
-    "posted": "Oct 28, 2016 8:40:24 PM"
-  },
-  {
-    "id": "12819288",
-    "timestamp": "Oct 28, 2016 8:50:03 PM",
-    "topic": "George Hotz, Comma AI shuts down driverless car project",
-    "url": "http://www.businessinsider.com/george-hotz-comma-ai-shuts-down-driverless-car-project-2016-10",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:36:23 PM"
-  },
-  {
-    "id": "12819244",
-    "timestamp": "Oct 28, 2016 8:50:03 PM",
-    "topic": "Ex-Palantir Employees Are Struggling to Sell Their Shares",
-    "url": "https://www.buzzfeed.com/williamalden/ex-palantir-employees-are-struggling-to-sell-their-shares",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:32:25 PM"
-  },
-  {
-    "id": "12819195",
-    "timestamp": "Oct 29, 2016 12:30:26 AM",
-    "topic": "Elasticsearch 5.0.0 released",
-    "url": "https://www.elastic.co/blog/elasticsearch-5-0-0-released",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:27:13 PM"
-  },
-  {
-    "id": "12819190",
-    "timestamp": "Oct 28, 2016 8:50:03 PM",
-    "topic": "The End of Public Transit?",
-    "url": "https://www.theatlantic.com/business/archive/2016/10/public-transportation-uber-chariot/505658/?single_page\u003dtrue",
-    "votes": 5,
-    "posted": "Oct 28, 2016 8:26:45 PM"
-  },
-  {
-    "id": "12819156",
-    "timestamp": "Oct 28, 2016 9:30:08 PM",
-    "topic": "Datadog introduces anomaly detection",
-    "url": "https://www.datadoghq.com/blog/introducing-anomaly-detection-datadog",
-    "votes": 7,
-    "posted": "Oct 28, 2016 8:23:51 PM"
-  },
-  {
-    "id": "12819134",
-    "timestamp": "Oct 28, 2016 8:50:02 PM",
-    "topic": "Allan J. Lichtman\u0027s election prediction system",
-    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/10/28/professor-whos-predicted-30-years-of-presidential-elections-correctly-is-doubling-down-on-a-trump-win/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:22:30 PM"
-  },
-  {
-    "id": "12819113",
-    "timestamp": "Oct 28, 2016 8:50:02 PM",
-    "topic": "Let researchers try new paths",
-    "url": "http://www.nature.com/news/let-researchers-try-new-paths-1.20857",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:20:49 PM"
-  },
-  {
-    "id": "12819074",
-    "timestamp": "Oct 28, 2016 8:50:02 PM",
-    "topic": "DDoS Letter to Chairman Wheeler",
-    "url": "https://www.scribd.com/document/328854049/DDoS-Letter-to-Chairman-Wheeler#download",
-    "votes": 5,
-    "posted": "Oct 28, 2016 8:18:02 PM"
-  },
-  {
-    "id": "12819049",
-    "timestamp": "Oct 28, 2016 8:50:03 PM",
-    "topic": "Ask HN: Help me pick out a weekend project.",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:15:59 PM"
-  },
-  {
-    "id": "12819043",
-    "timestamp": "Oct 28, 2016 8:40:00 PM",
-    "topic": "Audio Emerges of Hillary Clinton Proposing Rigging Palestine Election",
-    "url": "http://observer.com/2016/10/2006-audio-emerges-of-hillary-clinton-proposing-rigging-palestine-election/",
-    "votes": 4,
-    "posted": "Oct 28, 2016 8:15:37 PM"
-  },
-  {
-    "id": "12818954",
-    "timestamp": "Oct 28, 2016 8:50:03 PM",
-    "topic": "About Leadership",
-    "url": "http://blog.dilbert.com/post/152427079266/about-leadership",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:08:42 PM"
-  },
-  {
-    "id": "12818912",
-    "timestamp": "Oct 28, 2016 8:50:04 PM",
-    "topic": "MacBook Pro vs. Surface Book: How 2016\u0027s Models Compare",
-    "url": "http://www.laptopmag.com/articles/2016-macbook-pro-vs-surface-book",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:05:35 PM"
-  },
-  {
-    "id": "12818905",
-    "timestamp": "Oct 28, 2016 8:50:02 PM",
-    "topic": "Newly Redesigned Boston.gov Just Went Open Source",
-    "url": "http://www.routefifty.com/2016/10/boston-open-source-website/132720/?oref\u003dRouteFiftyTCO",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:05:08 PM"
-  },
-  {
-    "id": "12818869",
-    "timestamp": "Oct 28, 2016 8:50:04 PM",
-    "topic": "Singapore’s Lee Hsien Loong on the U.S. Election, Free Trade",
-    "url": "http://time.com/4545407/lee-hsien-loong-singapore-globalization/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 8:02:05 PM"
   }
 ];
