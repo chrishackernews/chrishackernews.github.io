@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12872304",
+    "timestamp": "Nov 4, 2016 2:45:05 PM",
+    "topic": "Docker in Production: An History of Failure",
+    "url": "https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/",
+    "votes": 5,
+    "posted": "Nov 4, 2016 2:23:07 PM"
+  },
+  {
     "id": "12871969",
     "timestamp": "Nov 4, 2016 1:24:59 PM",
     "topic": "The NYT Released an Oregon Trail Style Game about Voter Suppression",
@@ -554,6 +562,13 @@ var newsArray = [
     "url": "https://www.bloomberg.com/news/articles/2016-11-03/asml-buys-stake-in-carl-zeiss-unit-for-1-1-billion-in-euv-step",
     "votes": 3,
     "posted": "Nov 3, 2016 11:18:34 PM"
+  },
+  {
+    "id": "12868508",
+    "timestamp": "Nov 4, 2016 2:05:03 PM",
+    "topic": "Ask HN: How do I learn php or Web development?",
+    "votes": 8,
+    "posted": "Nov 3, 2016 11:15:22 PM"
   },
   {
     "id": "12868494",
@@ -8125,52 +8140,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/10/28/magic-leap-goes-to-finland-in-pursuit-of-nordic-vr-and-ar-talent/?ncid\u003drss",
     "votes": 3,
     "posted": "Oct 28, 2016 3:06:41 PM"
-  },
-  {
-    "id": "12815231",
-    "timestamp": "Oct 28, 2016 3:19:26 PM",
-    "topic": "Google AI invents its own cryptographic algorithm; no one knows how it works",
-    "url": "http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/",
-    "votes": 20,
-    "posted": "Oct 28, 2016 2:54:43 PM"
-  },
-  {
-    "id": "12815183",
-    "timestamp": "Oct 28, 2016 4:19:34 PM",
-    "topic": "Ask HN: What laptop should I get instead of a Macbook Pro?",
-    "votes": 9,
-    "posted": "Oct 28, 2016 2:47:54 PM"
-  },
-  {
-    "id": "12815080",
-    "timestamp": "Oct 28, 2016 6:39:46 PM",
-    "topic": "Facebook Lets Advertisers Exclude Users by Race",
-    "url": "https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race",
-    "votes": 8,
-    "posted": "Oct 28, 2016 2:31:05 PM"
-  },
-  {
-    "id": "12815068",
-    "timestamp": "Oct 28, 2016 4:39:36 PM",
-    "topic": "Bird Audio Detection: baseline tests – and the problem of generalisation",
-    "url": "http://machine-listening.eecs.qmul.ac.uk/2016/10/bird-audio-detection-baseline-generalisation/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 2:28:28 PM"
-  },
-  {
-    "id": "12814997",
-    "timestamp": "Oct 28, 2016 2:49:24 PM",
-    "topic": "Apple Increases Prices of Macs in U.K. By 20 Percent",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-28/apple-increases-prices-of-macs-in-u-k-by-20-percent",
-    "votes": 34,
-    "posted": "Oct 28, 2016 2:13:18 PM"
-  },
-  {
-    "id": "12814975",
-    "timestamp": "Oct 28, 2016 2:19:22 PM",
-    "topic": "Nissan got a sweetheart deal. Under hard Brexit, everyone will want one",
-    "url": "https://www.theguardian.com/commentisfree/2016/oct/28/nissan-deal-hard-brexit-britain-trade-europe",
-    "votes": 5,
-    "posted": "Oct 28, 2016 2:09:17 PM"
   }
 ];
