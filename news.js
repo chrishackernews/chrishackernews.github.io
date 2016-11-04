@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "12870953",
+    "timestamp": "Nov 4, 2016 9:34:40 AM",
+    "topic": "Mozilla stops distribution of WOT addon",
+    "votes": 4,
+    "posted": "Nov 4, 2016 8:46:33 AM"
+  },
+  {
+    "id": "12870899",
+    "timestamp": "Nov 4, 2016 9:54:42 AM",
+    "topic": "The Power of Ten – Rules for Writing Safety Critical Code",
+    "url": "http://spinroot.com/p10/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 8:29:03 AM"
+  },
+  {
     "id": "12870756",
     "timestamp": "Nov 4, 2016 7:54:32 AM",
     "topic": "What pro computing could be",
@@ -22,6 +37,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/san-quentin-inmates-learn-to-code/",
     "votes": 3,
     "posted": "Nov 4, 2016 7:15:30 AM"
+  },
+  {
+    "id": "12870699",
+    "timestamp": "Nov 4, 2016 9:34:40 AM",
+    "topic": "Somleng – An Open Source Twilio Clone",
+    "url": "https://medium.com/@dwilkie_34546/somleng-an-open-source-twilio-clone-a297062b340d#.w95usvrqb",
+    "votes": 3,
+    "posted": "Nov 4, 2016 7:14:33 AM"
   },
   {
     "id": "12870684",
@@ -142,6 +165,14 @@ var newsArray = [
     "url": "https://keygen.sh/",
     "votes": 4,
     "posted": "Nov 4, 2016 3:57:12 AM"
+  },
+  {
+    "id": "12870014",
+    "timestamp": "Nov 4, 2016 9:24:39 AM",
+    "topic": "Why I became a software engineer",
+    "url": "https://dev.to/edemkumodzi/why-i-became-a-software-engineer",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:53:05 AM"
   },
   {
     "id": "12869940",
