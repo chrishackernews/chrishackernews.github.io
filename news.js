@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "12876814",
+    "timestamp": "Nov 4, 2016 11:56:01 PM",
+    "topic": "Thoughts on the Pro Debacle",
+    "url": "http://taoofmac.com/space/blog/2016/11/04/2230",
+    "votes": 2,
+    "posted": "Nov 4, 2016 11:42:20 PM"
+  },
+  {
+    "id": "12876602",
+    "timestamp": "Nov 4, 2016 11:56:01 PM",
+    "topic": "ZCash not anonymous due to a bug",
+    "url": "https://www.cryptocoinsnews.com/zcash-bug-prevents-private-transactions-soon-after-launch/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 11:13:42 PM"
+  },
+  {
+    "id": "12876537",
+    "timestamp": "Nov 4, 2016 11:15:57 PM",
+    "topic": "Y Combinator\u0027s Hardware Guy Leaves After 14 Months",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-04/y-combinator-s-hardware-guy-leaves-after-14-months",
+    "votes": 17,
+    "posted": "Nov 4, 2016 11:02:29 PM"
+  },
+  {
+    "id": "12876533",
+    "timestamp": "Nov 4, 2016 11:45:59 PM",
+    "topic": "Simultaneous “nirvana” JavaScript Debugging for Chrome and Node.js in VS Code",
+    "url": "https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.6mb86aaj3",
+    "votes": 3,
+    "posted": "Nov 4, 2016 11:02:19 PM"
+  },
+  {
+    "id": "12876458",
+    "timestamp": "Nov 4, 2016 11:05:54 PM",
+    "topic": "Can We Put the 16GB “Pro” Myth to Rest?",
+    "url": "https://www.zdziarski.com/blog/?p\u003d6355",
+    "votes": 4,
+    "posted": "Nov 4, 2016 10:51:16 PM"
+  },
+  {
+    "id": "12876417",
+    "timestamp": "Nov 4, 2016 11:15:57 PM",
+    "topic": "OCaml 4.04.0 released",
+    "url": "https://sympa.inria.fr/sympa/arc/caml-list/2016-11/msg00010.html",
+    "votes": 19,
+    "posted": "Nov 4, 2016 10:43:28 PM"
+  },
+  {
+    "id": "12876411",
+    "timestamp": "Nov 4, 2016 11:56:00 PM",
+    "topic": "Cholera 101: Why an Ancient Disease Keeps on Haunting Us",
+    "url": "http://www.npr.org/sections/goatsandsoda/2016/11/04/500664156/cholera-101-why-an-ancient-disease-keeps-on-haunting-us",
+    "votes": 2,
+    "posted": "Nov 4, 2016 10:42:34 PM"
+  },
+  {
     "id": "12876292",
     "timestamp": "Nov 4, 2016 10:35:51 PM",
     "topic": "Segment (YC S11) Is Hiring a Head of Solutions Enginering",
     "url": "https://boards.greenhouse.io/segment/jobs/463624",
     "votes": 1,
     "posted": "Nov 4, 2016 10:28:56 PM"
+  },
+  {
+    "id": "12876214",
+    "timestamp": "Nov 4, 2016 11:15:57 PM",
+    "topic": "Samsung Recalls 2.8M Top-Load Washing Machines",
+    "url": "http://www.npr.org/sections/thetwo-way/2016/11/04/500685316/samsung-recalls-2-8-million-top-load-washers-over-disloding-lids",
+    "votes": 6,
+    "posted": "Nov 4, 2016 10:19:41 PM"
   },
   {
     "id": "12876194",
@@ -334,6 +398,14 @@ var newsArray = [
     "url": "http://www.thememo.com/2016/11/04/forget-fees-dyson-opens-britains-first-degree-where-students-get-paid/",
     "votes": 4,
     "posted": "Nov 4, 2016 3:38:18 PM"
+  },
+  {
+    "id": "12872826",
+    "timestamp": "Nov 4, 2016 11:05:55 PM",
+    "topic": "Why UK Brexit Talk Baffles Germany",
+    "url": "http://www.bbc.com/news/uk-politics-37799805",
+    "votes": 3,
+    "posted": "Nov 4, 2016 3:33:21 PM"
   },
   {
     "id": "12872780",
@@ -8016,67 +8088,5 @@ var newsArray = [
     "url": "http://jugad2.blogspot.com/2016/10/red-lang-live-coding-of-clock-demo-eve.html",
     "votes": 3,
     "posted": "Oct 28, 2016 11:57:39 PM"
-  },
-  {
-    "id": "12821019",
-    "timestamp": "Oct 29, 2016 12:40:27 AM",
-    "topic": "Defending against Rowhammer in the Linux kernel",
-    "url": "https://lwn.net/SubscriberLink/704920/7be829926c94cd9f/",
-    "votes": 6,
-    "posted": "Oct 28, 2016 11:44:55 PM"
-  },
-  {
-    "id": "12820957",
-    "timestamp": "Oct 29, 2016 12:30:26 AM",
-    "topic": "You Don\u0027t Need JQuery Ajax Requests",
-    "url": "http://blog.garstasio.com/you-dont-need-jquery/ajax/",
-    "votes": 5,
-    "posted": "Oct 28, 2016 11:37:35 PM"
-  },
-  {
-    "id": "12820906",
-    "timestamp": "Oct 28, 2016 11:50:22 PM",
-    "topic": "How to make e-mail encrypted for everyone",
-    "url": "https://friendlybit.com/security/how-to-make-e-mail-encrypted-for-everyone/",
-    "votes": 3,
-    "posted": "Oct 28, 2016 11:28:50 PM"
-  },
-  {
-    "id": "12820834",
-    "timestamp": "Oct 29, 2016 12:10:24 AM",
-    "topic": "Font Awesome 5 has raised $350 000 in 4 days",
-    "url": "https://www.kickstarter.com/projects/232193852/font-awesome-5",
-    "votes": 3,
-    "posted": "Oct 28, 2016 11:22:35 PM"
-  },
-  {
-    "id": "12820832",
-    "timestamp": "Oct 28, 2016 11:30:20 PM",
-    "topic": "Joomla Exploits in the Wild Against CVE-2016-8870 and CVE-2016-8869",
-    "url": "https://blog.sucuri.net/2016/10/joomla-mass-exploits-privilege-vulnerability.html",
-    "votes": 6,
-    "posted": "Oct 28, 2016 11:22:24 PM"
-  },
-  {
-    "id": "12820778",
-    "timestamp": "Oct 28, 2016 11:30:20 PM",
-    "topic": "Ask HN: Is Dell XPS Developer Edition a Good Replacement of Macbook Pro?",
-    "votes": 6,
-    "posted": "Oct 28, 2016 11:14:19 PM"
-  },
-  {
-    "id": "12820711",
-    "timestamp": "Nov 1, 2016 5:57:41 AM",
-    "topic": "Ask HN: How would hiring react to high profile/notorious company on resume?",
-    "votes": 6,
-    "posted": "Oct 28, 2016 11:06:35 PM"
-  },
-  {
-    "id": "12820608",
-    "timestamp": "Oct 29, 2016 3:10:40 AM",
-    "topic": "About the Touch Bar – MacOS Human Interface Guidelines",
-    "url": "https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/AbouttheTouchBar.html#//apple_ref/doc/uid/20000957-CH104-SW1",
-    "votes": 4,
-    "posted": "Oct 28, 2016 10:56:15 PM"
   }
 ];
