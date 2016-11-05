@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12880203",
+    "timestamp": "Nov 5, 2016 5:07:26 PM",
+    "topic": "A world without the Mac Pro",
+    "url": "https://marco.org/2016/11/05/world-without-mac-pro",
+    "votes": 12,
+    "posted": "Nov 5, 2016 4:43:10 PM"
+  },
+  {
     "id": "12879959",
     "timestamp": "Nov 5, 2016 4:27:22 PM",
     "topic": "Samsung recalls 2.8m washing machines after reports of explosions",
@@ -125,6 +133,13 @@ var newsArray = [
     "topic": "Ask HN: Do you still use UML?",
     "votes": 4,
     "posted": "Nov 5, 2016 11:23:08 AM"
+  },
+  {
+    "id": "12879043",
+    "timestamp": "Nov 5, 2016 5:48:09 PM",
+    "topic": "Ask HN: Predict the future",
+    "votes": 5,
+    "posted": "Nov 5, 2016 11:17:37 AM"
   },
   {
     "id": "12879015",
@@ -7964,109 +7979,5 @@ var newsArray = [
     "url": "http://www.routefifty.com/2016/10/boston-open-source-website/132720/",
     "votes": 3,
     "posted": "Oct 29, 2016 6:05:36 PM"
-  },
-  {
-    "id": "12824478",
-    "timestamp": "Oct 29, 2016 6:21:53 PM",
-    "topic": "Intel driven MacBook Pros have secondary ARM processor for Touch ID and security",
-    "url": "https://techcrunch.com/2016/10/28/apples-new-intel-driven-macbooks-have-a-secondary-arm-processor-that-runs-touch-id-and-security/",
-    "votes": 5,
-    "posted": "Oct 29, 2016 5:54:37 PM"
-  },
-  {
-    "id": "12824421",
-    "timestamp": "Oct 29, 2016 6:11:52 PM",
-    "topic": "Academia, Love Me Back",
-    "url": "https://vivatiffany.wordpress.com/2016/10/27/academia-love-me-back/",
-    "votes": 10,
-    "posted": "Oct 29, 2016 5:44:25 PM"
-  },
-  {
-    "id": "12824380",
-    "timestamp": "Oct 29, 2016 6:11:52 PM",
-    "topic": "Universal adversarial perturbations",
-    "url": "https://arxiv.org/abs/1610.08401",
-    "votes": 4,
-    "posted": "Oct 29, 2016 5:35:03 PM"
-  },
-  {
-    "id": "12824367",
-    "timestamp": "Oct 29, 2016 5:41:49 PM",
-    "topic": "AtomBombing: A Code Injection That Bypasses Current Security Solutions",
-    "url": "http://blog.ensilo.com/atombombing-a-code-injection-that-bypasses-current-security-solutions",
-    "votes": 3,
-    "posted": "Oct 29, 2016 5:32:30 PM"
-  },
-  {
-    "id": "12824366",
-    "timestamp": "Oct 29, 2016 5:41:49 PM",
-    "topic": "Total Nightmare: USB-C and Thunderbolt 3",
-    "url": "http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/",
-    "votes": 16,
-    "posted": "Oct 29, 2016 5:32:09 PM"
-  },
-  {
-    "id": "12824355",
-    "timestamp": "Oct 29, 2016 5:41:49 PM",
-    "topic": "WordPress creator slams Wix: ‘Your app editor is built with stolen code’",
-    "url": "http://venturebeat.com/2016/10/28/wordpress-creator-matt-mullenweg-slams-wix-your-app-editor-is-built-with-stolen-code/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 5:29:27 PM"
-  },
-  {
-    "id": "12824349",
-    "timestamp": "Oct 29, 2016 5:31:48 PM",
-    "topic": "ESPN Loses 621,000 Subscribers; Worst Month in Company History",
-    "url": "http://www.outkickthecoverage.com/espn-loses-621-000-subscribers-worst-month-in-company-history-102916",
-    "votes": 3,
-    "posted": "Oct 29, 2016 5:28:21 PM"
-  },
-  {
-    "id": "12824335",
-    "timestamp": "Oct 29, 2016 5:41:50 PM",
-    "topic": "15 Hours with the 13” MacBook Pro, and How Apple’s T1 Bridges ARM and Intel",
-    "url": "http://arstechnica.com/apple/2016/10/15-hours-with-the-13-macbook-pro-and-how-apples-t1-bridges-arm-and-intel/?comments\u003d1",
-    "votes": 3,
-    "posted": "Oct 29, 2016 5:25:35 PM"
-  },
-  {
-    "id": "12824323",
-    "timestamp": "Oct 29, 2016 6:11:52 PM",
-    "topic": "Show HN: RethinkDB change feeds for indexing Algolia",
-    "url": "https://github.com/rlancer/AlgoliaRethinkDB",
-    "votes": 4,
-    "posted": "Oct 29, 2016 5:24:18 PM"
-  },
-  {
-    "id": "12824292",
-    "timestamp": "Oct 29, 2016 5:31:48 PM",
-    "topic": "Star-Shaped Structures Could Mean Longer Lasting Dental Fillings, Circuit Boards",
-    "url": "http://www.sciencemag.org/news/2016/10/new-star-shaped-structures-could-mean-longer-lasting-dental-fillings-and-circuit-boards",
-    "votes": 3,
-    "posted": "Oct 29, 2016 5:17:43 PM"
-  },
-  {
-    "id": "12824263",
-    "timestamp": "Oct 29, 2016 6:31:54 PM",
-    "topic": "The WhatsApp suicide",
-    "url": "http://www.bbc.com/news/magazine-37735370",
-    "votes": 4,
-    "posted": "Oct 29, 2016 5:11:48 PM"
-  },
-  {
-    "id": "12824222",
-    "timestamp": "Oct 29, 2016 5:21:47 PM",
-    "topic": "Watch thousands of books being re-shelved in a two minute time-lapse",
-    "url": "https://www.dpreview.com/news/4686813680/watch-thousands-of-books-being-re-shelved-in-two-minute-time-lapse",
-    "votes": 4,
-    "posted": "Oct 29, 2016 5:02:23 PM"
-  },
-  {
-    "id": "12824212",
-    "timestamp": "Oct 29, 2016 5:21:47 PM",
-    "topic": "Thomas Piketty\u0027s Capital in the 21st Century, in 20 minutes",
-    "url": "http://boingboing.net/2014/10/23/thomas-pikettys-capital-in-t-2.html",
-    "votes": 3,
-    "posted": "Oct 29, 2016 4:59:51 PM"
   }
 ];
