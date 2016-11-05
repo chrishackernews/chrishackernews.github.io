@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12880598",
+    "timestamp": "Nov 5, 2016 6:08:11 PM",
+    "topic": "A Country Is Not a Company (1996)",
+    "url": "https://hbr.org/1996/01/a-country-is-not-a-company\u0026cm_sp\u003dArticle-_-Links-_-Top%20of%20Page%20Recirculation",
+    "votes": 3,
+    "posted": "Nov 5, 2016 5:57:29 PM"
+  },
+  {
+    "id": "12880570",
+    "timestamp": "Nov 5, 2016 6:08:11 PM",
+    "topic": "Foreign students targeted by UK anti-migrant policies",
+    "url": "http://www.aljazeera.com/indepth/features/2016/11/foreign-students-targeted-uk-anti-migrant-policies-161102130654314.html",
+    "votes": 3,
+    "posted": "Nov 5, 2016 5:51:45 PM"
+  },
+  {
+    "id": "12880520",
+    "timestamp": "Nov 5, 2016 6:08:11 PM",
+    "topic": "Why I won\u0027t recommend Signal anymore",
+    "url": "https://sandervenema.ch/2016/11/why-i-wont-recommend-signal-anymore/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 5:43:53 PM"
+  },
+  {
+    "id": "12880453",
+    "timestamp": "Nov 5, 2016 6:08:11 PM",
+    "topic": "How Bureaucrats and Spies Turned Canada into a Surveillance State",
+    "url": "http://motherboard.vice.com/read/how-bureaucrats-and-spies-turned-canada-into-a-surveillance-state-csis",
+    "votes": 4,
+    "posted": "Nov 5, 2016 5:34:26 PM"
+  },
+  {
+    "id": "12880393",
+    "timestamp": "Nov 5, 2016 6:38:15 PM",
+    "topic": "Alzheimer’s treatment fully restores memory function",
+    "url": "http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function",
+    "votes": 6,
+    "posted": "Nov 5, 2016 5:23:44 PM"
+  },
+  {
+    "id": "12880382",
+    "timestamp": "Nov 5, 2016 6:28:14 PM",
+    "topic": "Lyft to offer 45 percent discount during presidential election",
+    "url": "https://thetechgraph.com/2016/11/05/lyft-offer-45-percent-discount-presidential-election/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 5:19:32 PM"
+  },
+  {
+    "id": "12880381",
+    "timestamp": "Nov 5, 2016 6:58:17 PM",
+    "topic": "Man hacked his Alexa to speak out of a singing fish, and it\u0027s horrifying",
+    "url": "http://mashable.com/2016/11/04/big-mouth-billy-bass-alexa-/#mrpCYng7piq4",
+    "votes": 7,
+    "posted": "Nov 5, 2016 5:19:26 PM"
+  },
+  {
     "id": "12880203",
     "timestamp": "Nov 5, 2016 5:07:26 PM",
     "topic": "A world without the Mac Pro",
@@ -126,6 +182,14 @@ var newsArray = [
     "url": "https://davmac.wordpress.com/2016/11/05/bus1-is-the-new-kdbus/",
     "votes": 5,
     "posted": "Nov 5, 2016 11:44:04 AM"
+  },
+  {
+    "id": "12879065",
+    "timestamp": "Nov 5, 2016 6:38:15 PM",
+    "topic": "Notching floppy disks to double their capacity",
+    "url": "https://en.wikipedia.org/w/index.php?title\u003dDouble-sided_disk\u0026oldid\u003d713168494",
+    "votes": 3,
+    "posted": "Nov 5, 2016 11:27:44 AM"
   },
   {
     "id": "12879056",
@@ -7931,53 +7995,5 @@ var newsArray = [
     "topic": "Ask HN: What did you make in Django?",
     "votes": 5,
     "posted": "Oct 29, 2016 7:05:43 PM"
-  },
-  {
-    "id": "12824812",
-    "timestamp": "Oct 31, 2016 9:56:49 PM",
-    "topic": "Inside the Frozen Zoo That Could Bring Extinct Animals Back to Life",
-    "url": "http://www.gq.com/story/inside-the-frozen-zoo-that-could-bring-extinct-animals-back-to-life",
-    "votes": 4,
-    "posted": "Oct 29, 2016 6:50:19 PM"
-  },
-  {
-    "id": "12824789",
-    "timestamp": "Oct 29, 2016 7:31:59 PM",
-    "topic": "Strategies of Human Mating (2006) [pdf]",
-    "url": "http://www.weimag.ch/micha/dc/05_Buss_Strategies%20of%20Human%20Mating.pdf",
-    "votes": 3,
-    "posted": "Oct 29, 2016 6:46:29 PM"
-  },
-  {
-    "id": "12824654",
-    "timestamp": "Oct 29, 2016 7:52:02 PM",
-    "topic": "Apple Says It\u0027s Out of the Standalone Display Business",
-    "url": "http://www.macrumors.com/2016/10/28/apple-out-of-display-business/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 6:22:41 PM"
-  },
-  {
-    "id": "12824631",
-    "timestamp": "Oct 29, 2016 6:31:54 PM",
-    "topic": "WEB Is ICANN’s First Test of Accountability",
-    "url": "https://afilias.info/blogs/web-icanns-first-test-accountability",
-    "votes": 3,
-    "posted": "Oct 29, 2016 6:18:25 PM"
-  },
-  {
-    "id": "12824616",
-    "timestamp": "Oct 29, 2016 6:51:56 PM",
-    "topic": "Wickr Inc – When Honesty Disappears Behind the VCP Mountain",
-    "url": "https://www.vulnerability-db.com/?q\u003darticles/2016/10/27/wickr-inc-when-honesty-disappears-behind-vcp-mountain",
-    "votes": 4,
-    "posted": "Oct 29, 2016 6:16:24 PM"
-  },
-  {
-    "id": "12824559",
-    "timestamp": "Oct 29, 2016 6:21:53 PM",
-    "topic": "Boston is first major U.S. city to open source its website",
-    "url": "http://www.routefifty.com/2016/10/boston-open-source-website/132720/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 6:05:36 PM"
   }
 ];
