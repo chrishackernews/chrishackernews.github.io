@@ -1,11 +1,67 @@
 var newsArray = [
   {
+    "id": "12877945",
+    "timestamp": "Nov 5, 2016 4:46:25 AM",
+    "topic": "Building a Deep Learning Powered GIF Search Engine",
+    "url": "https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525",
+    "votes": 4,
+    "posted": "Nov 5, 2016 4:12:37 AM"
+  },
+  {
+    "id": "12877916",
+    "timestamp": "Nov 5, 2016 4:56:27 AM",
+    "topic": "Watch a drone hack a room full of smart lightbulbs from outside the window",
+    "url": "http://www.theverge.com/2016/11/3/13507126/iot-drone-hack",
+    "votes": 3,
+    "posted": "Nov 5, 2016 3:59:07 AM"
+  },
+  {
+    "id": "12877875",
+    "timestamp": "Nov 5, 2016 4:56:27 AM",
+    "topic": "Switching from macOS: Hardware",
+    "url": "http://blog.elementary.io/post/152750962276/switching-from-macos-hardware",
+    "votes": 3,
+    "posted": "Nov 5, 2016 3:43:23 AM"
+  },
+  {
+    "id": "12877687",
+    "timestamp": "Nov 5, 2016 4:36:24 AM",
+    "topic": "Fuck you, Debian",
+    "url": "https://medium.com/broken-window/fuck-you-debian-ebe8cede37ed#.9d317qa1x",
+    "votes": 4,
+    "posted": "Nov 5, 2016 2:47:40 AM"
+  },
+  {
+    "id": "12877649",
+    "timestamp": "Nov 5, 2016 4:46:26 AM",
+    "topic": "Regex that only matches itself",
+    "url": "http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself/31863?stw\u003d2#31863",
+    "votes": 5,
+    "posted": "Nov 5, 2016 2:38:33 AM"
+  },
+  {
+    "id": "12877630",
+    "timestamp": "Nov 5, 2016 4:36:24 AM",
+    "topic": "Asking People If They Need a Cellphone in 1999",
+    "url": "https://www.youtube.com/watch?v\u003dmDx4UXcAFC8",
+    "votes": 3,
+    "posted": "Nov 5, 2016 2:32:54 AM"
+  },
+  {
     "id": "12877576",
     "timestamp": "Nov 5, 2016 2:26:13 AM",
     "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
     "url": "https://lob.com/careers/48029",
     "votes": 1,
     "posted": "Nov 5, 2016 2:19:48 AM"
+  },
+  {
+    "id": "12877568",
+    "timestamp": "Nov 5, 2016 4:56:27 AM",
+    "topic": "Introducing FlyWeb from Mozilla - Local Area Web Servers",
+    "url": "https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html",
+    "votes": 7,
+    "posted": "Nov 5, 2016 2:15:53 AM"
   },
   {
     "id": "12877562",
@@ -48,6 +104,13 @@ var newsArray = [
     "posted": "Nov 5, 2016 12:46:06 AM"
   },
   {
+    "id": "12877164",
+    "timestamp": "Nov 5, 2016 4:46:26 AM",
+    "topic": "Ask HN: Do You OK Google or Hey Siri in Public?",
+    "votes": 4,
+    "posted": "Nov 5, 2016 12:45:04 AM"
+  },
+  {
     "id": "12877071",
     "timestamp": "Nov 5, 2016 1:26:08 AM",
     "topic": "Kickstarter Campaign Produces Large Affordable CNC Cutting Machine",
@@ -72,12 +135,36 @@ var newsArray = [
     "posted": "Nov 5, 2016 12:19:27 AM"
   },
   {
+    "id": "12876892",
+    "timestamp": "Nov 5, 2016 4:16:22 AM",
+    "topic": "Turbo.js – Dead Simple GPGPU for the Web",
+    "url": "https://turbo.github.io/",
+    "votes": 9,
+    "posted": "Nov 4, 2016 11:55:15 PM"
+  },
+  {
+    "id": "12876822",
+    "timestamp": "Nov 5, 2016 4:16:22 AM",
+    "topic": "The Lost Civilization of Dial-Up Bulletin Board Systems",
+    "url": "http://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/?single_page\u003dtrue",
+    "votes": 4,
+    "posted": "Nov 4, 2016 11:43:31 PM"
+  },
+  {
     "id": "12876814",
     "timestamp": "Nov 4, 2016 11:56:01 PM",
     "topic": "Thoughts on the Pro Debacle",
     "url": "http://taoofmac.com/space/blog/2016/11/04/2230",
     "votes": 2,
     "posted": "Nov 4, 2016 11:42:20 PM"
+  },
+  {
+    "id": "12876729",
+    "timestamp": "Nov 5, 2016 4:46:26 AM",
+    "topic": "The State of Machine Intelligence, 2016 [pdf]",
+    "url": "https://hbr.org/resources/pdfs/hbr-articles/2016/11/the_state_of_machine_intelligence.pdf",
+    "votes": 6,
+    "posted": "Nov 4, 2016 11:31:10 PM"
   },
   {
     "id": "12876646",
@@ -104,12 +191,28 @@ var newsArray = [
     "posted": "Nov 4, 2016 11:02:29 PM"
   },
   {
+    "id": "12876536",
+    "timestamp": "Nov 5, 2016 4:46:25 AM",
+    "topic": "An Introduction to Deep Learning",
+    "url": "http://blog.algorithmia.com/introduction-to-deep-learning-2016/",
+    "votes": 5,
+    "posted": "Nov 4, 2016 11:02:24 PM"
+  },
+  {
     "id": "12876533",
     "timestamp": "Nov 4, 2016 11:45:59 PM",
     "topic": "Simultaneous “nirvana” JavaScript Debugging for Chrome and Node.js in VS Code",
     "url": "https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.6mb86aaj3",
     "votes": 3,
     "posted": "Nov 4, 2016 11:02:19 PM"
+  },
+  {
+    "id": "12876491",
+    "timestamp": "Nov 5, 2016 4:26:23 AM",
+    "topic": "Pure Ancient Greek lesson",
+    "url": "https://www.youtube.com/watch?v\u003djlyWn_U1xHs",
+    "votes": 3,
+    "posted": "Nov 4, 2016 10:56:23 PM"
   },
   {
     "id": "12876458",
@@ -136,6 +239,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 10:42:34 PM"
   },
   {
+    "id": "12876370",
+    "timestamp": "Nov 5, 2016 4:26:23 AM",
+    "topic": "Open Source Storage founder accused of fraud by former 49ers star Patrick Willis",
+    "url": "http://www.inc.com/salvador-rodriguez/patrick-willis-alleges-fraud-in-lawsuit.html",
+    "votes": 5,
+    "posted": "Nov 4, 2016 10:38:03 PM"
+  },
+  {
     "id": "12876292",
     "timestamp": "Nov 4, 2016 10:35:51 PM",
     "topic": "Segment (YC S11) Is Hiring a Head of Solutions Enginering",
@@ -158,6 +269,14 @@ var newsArray = [
     "url": "http://www.npr.org/sections/thetwo-way/2016/11/04/500685316/samsung-recalls-2-8-million-top-load-washers-over-disloding-lids",
     "votes": 6,
     "posted": "Nov 4, 2016 10:19:41 PM"
+  },
+  {
+    "id": "12876203",
+    "timestamp": "Nov 5, 2016 4:46:25 AM",
+    "topic": "Adobe’s Project VoCo lets you edit speech as easily as text",
+    "url": "https://techcrunch.com/2016/11/03/adobes-project-voco-lets-you-edit-speech-as-easily-as-text/",
+    "votes": 4,
+    "posted": "Nov 4, 2016 10:18:40 PM"
   },
   {
     "id": "12876194",
@@ -1043,6 +1162,13 @@ var newsArray = [
     "posted": "Nov 4, 2016 3:19:12 AM"
   },
   {
+    "id": "12869807",
+    "timestamp": "Nov 5, 2016 4:26:23 AM",
+    "topic": "Ask HN: How Do You Share HN?",
+    "votes": 4,
+    "posted": "Nov 4, 2016 3:01:27 AM"
+  },
+  {
     "id": "12869616",
     "timestamp": "Nov 4, 2016 7:14:29 AM",
     "topic": "How Airbnb has contributed to Vancouver\u0027s rental shortage",
@@ -1540,6 +1666,13 @@ var newsArray = [
     "url": "https://mattermark.com/46-2015-tech-ipos-underwater-62-first-day-closes/",
     "votes": 4,
     "posted": "Nov 3, 2016 7:00:04 PM"
+  },
+  {
+    "id": "12866160",
+    "timestamp": "Nov 5, 2016 4:26:23 AM",
+    "topic": "Ask HN: How do I turn a major SV job offer to an offer elsewhere?",
+    "votes": 7,
+    "posted": "Nov 3, 2016 6:42:03 PM"
   },
   {
     "id": "12866156",
@@ -8001,21 +8134,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003ddRqSkR4ENAg",
     "votes": 4,
     "posted": "Oct 29, 2016 4:56:34 AM"
-  },
-  {
-    "id": "12822376",
-    "timestamp": "Oct 29, 2016 6:10:53 AM",
-    "topic": "NYC Passes First Freelancer Wage Theft Protections in the Nation",
-    "url": "http://gothamist.com/2016/10/27/freelance_protection_nyc.php",
-    "votes": 4,
-    "posted": "Oct 29, 2016 4:50:43 AM"
-  },
-  {
-    "id": "12822220",
-    "timestamp": "Oct 29, 2016 5:40:51 AM",
-    "topic": "Introducing the Robert Elder Software Linux Operating System",
-    "url": "http://blog.robertelder.org/robert-elder-software-linux-operating-system/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 3:58:45 AM"
   }
 ];
