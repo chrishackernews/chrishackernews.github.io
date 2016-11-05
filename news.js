@@ -80,6 +80,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 11:42:20 PM"
   },
   {
+    "id": "12876646",
+    "timestamp": "Nov 5, 2016 3:46:20 AM",
+    "topic": "Primitive Technology – Shrimp Trap",
+    "url": "https://primitivetechnology.wordpress.com/2016/11/04/shrimp-trap/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 11:20:02 PM"
+  },
+  {
     "id": "12876602",
     "timestamp": "Nov 4, 2016 11:56:01 PM",
     "topic": "ZCash not anonymous due to a bug",
@@ -8009,61 +8017,5 @@ var newsArray = [
     "url": "http://blog.robertelder.org/robert-elder-software-linux-operating-system/",
     "votes": 4,
     "posted": "Oct 29, 2016 3:58:45 AM"
-  },
-  {
-    "id": "12822154",
-    "timestamp": "Oct 29, 2016 6:10:53 AM",
-    "topic": "Introducing the World\u0027s Most Advanced Chatbot Lawyer",
-    "url": "https://www.lawbot.info/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 3:38:56 AM"
-  },
-  {
-    "id": "12822148",
-    "timestamp": "Oct 29, 2016 4:50:47 AM",
-    "topic": "NeuralEnhance image super resolution from the creator of NeuralDoodle",
-    "url": "https://github.com/alexjc/neural-enhance",
-    "votes": 5,
-    "posted": "Oct 29, 2016 3:37:13 AM"
-  },
-  {
-    "id": "12822145",
-    "timestamp": "Oct 29, 2016 2:11:29 PM",
-    "topic": "Reasons carriers are building new cell networks for the Internet of Things",
-    "url": "https://techcrunch.com/2016/10/28/three-reasons-carriers-are-building-new-cell-networks-for-the-internet-of-things/",
-    "votes": 5,
-    "posted": "Oct 29, 2016 3:36:30 AM"
-  },
-  {
-    "id": "12822124",
-    "timestamp": "Oct 29, 2016 2:21:30 PM",
-    "topic": "Photographers of 1870s London Documented Their Disappearing City",
-    "url": "http://hyperallergic.com/299912/the-photographers-of-1870s-london-who-documented-their-disappearing-city/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 3:29:44 AM"
-  },
-  {
-    "id": "12822120",
-    "timestamp": "Oct 29, 2016 4:00:43 AM",
-    "topic": "Show HN: Put “gifs.com/save” in front of any Vine link",
-    "url": "http://gifs.com/gif/66YY8R",
-    "votes": 6,
-    "posted": "Oct 29, 2016 3:27:34 AM"
-  },
-  {
-    "id": "12822032",
-    "timestamp": "Oct 29, 2016 4:50:47 AM",
-    "topic": "Clinton\u0027s emails visualized by MIT",
-    "url": "http://clinton.media.mit.edu",
-    "votes": 7,
-    "posted": "Oct 29, 2016 3:05:58 AM"
-  },
-  {
-    "id": "12822018",
-    "timestamp": "Oct 29, 2016 3:10:39 AM",
-    "topic": "Powerwall 2 and Integrated Solar",
-    "url": "https://powerwall.tesla.com/?powerwall2",
-    "votes": 13,
-    "posted": "Oct 29, 2016 3:01:45 AM"
   }
 ];
