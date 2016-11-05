@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12881569",
+    "timestamp": "Nov 5, 2016 9:18:32 PM",
+    "topic": "Tech Jobs, Cheaper Housing: The New Silicon Cities",
+    "url": "http://www.wsj.com/articles/tech-jobs-cheaper-housing-the-new-silicon-cities-1478181842",
+    "votes": 3,
+    "posted": "Nov 5, 2016 8:57:06 PM"
+  },
+  {
+    "id": "12881432",
+    "timestamp": "Nov 5, 2016 9:58:36 PM",
+    "topic": "You Don’t Need a Master Plan You Just Need to Start",
+    "url": "https://medium.com/@bryce/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#---0-123.6aya1lb3c",
+    "votes": 3,
+    "posted": "Nov 5, 2016 8:26:17 PM"
+  },
+  {
     "id": "12881420",
     "timestamp": "Nov 5, 2016 8:28:27 PM",
     "topic": "Build a Legacy: The Muse (YC W12) Is Hiring a PM for Data and Analytics",
@@ -14,6 +30,14 @@ var newsArray = [
     "url": "http://futurism.com/elon-musk-the-model-3-will-incorporate-teslas-solar-roof-technology/",
     "votes": 3,
     "posted": "Nov 5, 2016 8:22:19 PM"
+  },
+  {
+    "id": "12881407",
+    "timestamp": "Nov 5, 2016 9:48:35 PM",
+    "topic": "Procedural Dungeon Generation: A Drunkard\u0027s Walk in ClojureScript",
+    "url": "http://blog.jrheard.com/procedural-dungeon-generation-drunkards-walk-in-clojurescript",
+    "votes": 4,
+    "posted": "Nov 5, 2016 8:22:06 PM"
   },
   {
     "id": "12881395",
@@ -8004,52 +8028,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/10/28/13452084/microsoft-apple-new-pc-surface-macbook-prices-expensive-exclusive",
     "votes": 4,
     "posted": "Oct 29, 2016 10:01:24 PM"
-  },
-  {
-    "id": "12825996",
-    "timestamp": "Oct 29, 2016 10:32:17 PM",
-    "topic": "Don’t go to art school (2013)",
-    "url": "https://medium.com/i-m-h-o/dont-go-to-art-school-138c5efd45e9#.87guodhbv",
-    "votes": 5,
-    "posted": "Oct 29, 2016 9:56:36 PM"
-  },
-  {
-    "id": "12825953",
-    "timestamp": "Oct 29, 2016 10:02:14 PM",
-    "topic": "How I Became HackerRank 1 in Two Hours",
-    "url": "http://williampross.com/became-hackerrank-1-two-hours?ref\u003dyc",
-    "votes": 6,
-    "posted": "Oct 29, 2016 9:48:41 PM"
-  },
-  {
-    "id": "12825849",
-    "timestamp": "Oct 30, 2016 2:12:37 AM",
-    "topic": "End of the line for MacBook Pro",
-    "votes": 7,
-    "posted": "Oct 29, 2016 9:29:28 PM"
-  },
-  {
-    "id": "12825808",
-    "timestamp": "Oct 29, 2016 9:32:12 PM",
-    "topic": "It\u0027s a Data Engineering Party Join the Muse (YC W12) as a Data Engineer",
-    "url": "https://www.themuse.com/jobs/themuse/data-engineer-bea745",
-    "votes": 1,
-    "posted": "Oct 29, 2016 9:22:27 PM"
-  },
-  {
-    "id": "12825735",
-    "timestamp": "Oct 29, 2016 9:42:13 PM",
-    "topic": "Gab Supports Your Right to Choose",
-    "url": "https://medium.com/@Torbahax/gab-supports-your-right-to-choose-a57f157c77b9#.5ek1pe2px",
-    "votes": 4,
-    "posted": "Oct 29, 2016 9:11:15 PM"
-  },
-  {
-    "id": "12825719",
-    "timestamp": "Oct 29, 2016 9:22:11 PM",
-    "topic": "Image hoster pushes 1.8 PB per month through Cloudflare CDN",
-    "url": "http://postimage.org",
-    "votes": 3,
-    "posted": "Oct 29, 2016 9:07:46 PM"
   }
 ];
