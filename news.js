@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12880931",
+    "timestamp": "Nov 5, 2016 7:18:20 PM",
+    "topic": "The Most Expensive Anti-Pattern",
+    "url": "http://m1el.github.io/printf-antipattern",
+    "votes": 4,
+    "posted": "Nov 5, 2016 6:57:38 PM"
+  },
+  {
+    "id": "12880917",
+    "timestamp": "Nov 5, 2016 7:48:23 PM",
+    "topic": "Docker in Production: A retort",
+    "url": "http://patrobinson.github.io/2016/11/05/docker-in-production/",
+    "votes": 8,
+    "posted": "Nov 5, 2016 6:55:29 PM"
+  },
+  {
+    "id": "12880804",
+    "timestamp": "Nov 5, 2016 7:08:18 PM",
+    "topic": "Developing a Functional Android Application in Under 5 Minutes",
+    "url": "https://medium.com/sketchware/what-is-sketchware-e19aa55b4c7c#.o870ugxi8",
+    "votes": 3,
+    "posted": "Nov 5, 2016 6:36:03 PM"
+  },
+  {
+    "id": "12880792",
+    "timestamp": "Nov 5, 2016 7:08:18 PM",
+    "topic": "How to contribute to an open source project on GitHub – a step-by-step guide",
+    "url": "http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/",
+    "votes": 13,
+    "posted": "Nov 5, 2016 6:33:10 PM"
+  },
+  {
+    "id": "12880778",
+    "timestamp": "Nov 5, 2016 7:38:22 PM",
+    "topic": "Ask HN: What is encapsulation in Python?",
+    "votes": 3,
+    "posted": "Nov 5, 2016 6:30:04 PM"
+  },
+  {
     "id": "12880598",
     "timestamp": "Nov 5, 2016 6:08:11 PM",
     "topic": "A Country Is Not a Company (1996)",
@@ -56,12 +95,52 @@ var newsArray = [
     "posted": "Nov 5, 2016 5:19:26 PM"
   },
   {
+    "id": "12880372",
+    "timestamp": "Nov 5, 2016 7:08:18 PM",
+    "topic": "Emotional, behavioral and social difficulties among high-IQ children [pdf]",
+    "url": "http://www.lscp.net/persons/ramus/docs/PAID16.pdf",
+    "votes": 5,
+    "posted": "Nov 5, 2016 5:17:45 PM"
+  },
+  {
     "id": "12880203",
     "timestamp": "Nov 5, 2016 5:07:26 PM",
     "topic": "A world without the Mac Pro",
     "url": "https://marco.org/2016/11/05/world-without-mac-pro",
     "votes": 12,
     "posted": "Nov 5, 2016 4:43:10 PM"
+  },
+  {
+    "id": "12880176",
+    "timestamp": "Nov 5, 2016 7:28:21 PM",
+    "topic": "Dongle dilemma provokes Apple price cut",
+    "url": "http://www.bbc.co.uk/news/technology-37880723",
+    "votes": 5,
+    "posted": "Nov 5, 2016 4:38:05 PM"
+  },
+  {
+    "id": "12880153",
+    "timestamp": "Nov 5, 2016 7:08:18 PM",
+    "topic": "My first product launches and how they succeeded and failed",
+    "url": "http://jeremyaboyd.com/my-first-product-launches/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 4:33:03 PM"
+  },
+  {
+    "id": "12880050",
+    "timestamp": "Nov 5, 2016 7:08:18 PM",
+    "topic": "Jigsaw",
+    "url": "https://jigsaw.google.com/vision/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 4:09:37 PM"
+  },
+  {
+    "id": "12880013",
+    "timestamp": "Nov 5, 2016 7:08:19 PM",
+    "topic": "Developing a RESTful API with Node and TypeScript",
+    "url": "http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript#.WB30Vf5cA2A.hackernews",
+    "votes": 3,
+    "posted": "Nov 5, 2016 4:01:49 PM"
   },
   {
     "id": "12879959",
@@ -96,6 +175,14 @@ var newsArray = [
     "posted": "Nov 5, 2016 3:15:03 PM"
   },
   {
+    "id": "12879826",
+    "timestamp": "Nov 5, 2016 7:08:19 PM",
+    "topic": "Turkey Bans Facebook, Twitter and WhatsApp",
+    "url": "https://thetechgraph.com/2016/11/05/turkey-bans-facebook-twitter-whatsapp/",
+    "votes": 3,
+    "posted": "Nov 5, 2016 3:08:35 PM"
+  },
+  {
     "id": "12879803",
     "timestamp": "Nov 5, 2016 3:17:14 PM",
     "topic": "The real Clinton email scandal is that a bullshit story has dominated campaign",
@@ -110,6 +197,22 @@ var newsArray = [
     "url": "http://r-exercises.com/2016/11/04/r-course-finder-update-2/",
     "votes": 5,
     "posted": "Nov 5, 2016 2:42:06 PM"
+  },
+  {
+    "id": "12879661",
+    "timestamp": "Nov 5, 2016 7:48:23 PM",
+    "topic": "New visual identity and branding for North Korea",
+    "url": "http://www.love-is-korea.com/#love-korea",
+    "votes": 4,
+    "posted": "Nov 5, 2016 2:22:55 PM"
+  },
+  {
+    "id": "12879510",
+    "timestamp": "Nov 5, 2016 7:08:19 PM",
+    "topic": "You Don’t Need Big Data – You Need the Right Data",
+    "url": "https://hbr.org/2016/11/you-dont-need-big-data-you-need-the-right-data",
+    "votes": 3,
+    "posted": "Nov 5, 2016 1:40:49 PM"
   },
   {
     "id": "12879470",
@@ -284,6 +387,14 @@ var newsArray = [
     "url": "https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525",
     "votes": 4,
     "posted": "Nov 5, 2016 4:12:37 AM"
+  },
+  {
+    "id": "12877931",
+    "timestamp": "Nov 5, 2016 7:58:24 PM",
+    "topic": "Why Is Washington Still Pushing the Trans-Pacific Partnership?",
+    "url": "https://www.thenation.com/article/why-is-washington-still-pushing-the-trans-pacific-partnership/",
+    "votes": 6,
+    "posted": "Nov 5, 2016 4:09:03 AM"
   },
   {
     "id": "12877916",
@@ -7972,28 +8083,5 @@ var newsArray = [
     "url": "https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c#.vryllhupx",
     "votes": 3,
     "posted": "Oct 29, 2016 8:06:51 PM"
-  },
-  {
-    "id": "12825111",
-    "timestamp": "Oct 29, 2016 8:12:04 PM",
-    "topic": "Why Alphabet’s stock repurchase is $7,019,340,976.83",
-    "url": "http://www.marketwatch.com/story/why-alphabets-stock-repurchase-is-701934097683-2016-10-28?siteid\u003dyhoof2",
-    "votes": 3,
-    "posted": "Oct 29, 2016 7:32:29 PM"
-  },
-  {
-    "id": "12825087",
-    "timestamp": "Oct 29, 2016 8:12:04 PM",
-    "topic": "AMD 2013 APUs to Include ARM Cortex-A5 Processor for TrustZone Capabilities",
-    "url": "http://www.anandtech.com/show/6007/amd-2013-apus-to-include-arm-cortexa5-processor-for-trustzone-capabilities",
-    "votes": 4,
-    "posted": "Oct 29, 2016 7:29:06 PM"
-  },
-  {
-    "id": "12824927",
-    "timestamp": "Oct 29, 2016 8:02:03 PM",
-    "topic": "Ask HN: What did you make in Django?",
-    "votes": 5,
-    "posted": "Oct 29, 2016 7:05:43 PM"
   }
 ];
