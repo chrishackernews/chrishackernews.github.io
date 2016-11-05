@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12879216",
+    "timestamp": "Nov 5, 2016 12:37:01 PM",
+    "topic": "Man hacks Alexa into singing fish robot, terror ensues",
+    "url": "http://www.theverge.com/2016/11/4/13525172/amazon-alexa-big-mouth-billy-bass-hack-api",
+    "votes": 3,
+    "posted": "Nov 5, 2016 12:15:06 PM"
+  },
+  {
     "id": "12879103",
     "timestamp": "Nov 5, 2016 11:56:58 AM",
     "topic": "Bus1 is the new Kdbus",
