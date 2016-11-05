@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12878706",
+    "timestamp": "Nov 5, 2016 10:06:50 AM",
+    "topic": "I don’t like computers",
+    "url": "https://www.happyassassin.net/2016/11/04/i-dont-like-computers/",
+    "votes": 8,
+    "posted": "Nov 5, 2016 9:07:24 AM"
+  },
+  {
     "id": "12878496",
     "timestamp": "Nov 5, 2016 8:36:43 AM",
     "topic": "Three New Scandals Show How Pervasive Mass Surveillance Is in the West",
@@ -8,12 +16,28 @@ var newsArray = [
     "posted": "Nov 5, 2016 7:45:26 AM"
   },
   {
+    "id": "12878488",
+    "timestamp": "Nov 5, 2016 10:06:50 AM",
+    "topic": "Software Freedom Conservancy Publishes Agreements for Linux Compliance Program",
+    "url": "https://sfconservancy.org/news/2016/nov/03/linux-compliance-agreements/",
+    "votes": 3,
+    "posted": "Nov 5, 2016 7:38:36 AM"
+  },
+  {
     "id": "12878337",
     "timestamp": "Nov 5, 2016 7:16:37 AM",
     "topic": "Is democracy a failure? (1861, NYTimes)",
     "url": "http://www.nytimes.com/1861/03/14/news/is-democracy-a-failure.html",
     "votes": 3,
     "posted": "Nov 5, 2016 6:28:50 AM"
+  },
+  {
+    "id": "12878336",
+    "timestamp": "Nov 5, 2016 10:26:51 AM",
+    "topic": "Show HN: Hot or not for yachts called Yacht or Knot",
+    "url": "http://www.yacht-or-knot.com",
+    "votes": 4,
+    "posted": "Nov 5, 2016 6:28:47 AM"
   },
   {
     "id": "12878135",
@@ -86,6 +110,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dmDx4UXcAFC8",
     "votes": 3,
     "posted": "Nov 5, 2016 2:32:54 AM"
+  },
+  {
+    "id": "12877622",
+    "timestamp": "Nov 5, 2016 10:26:52 AM",
+    "topic": "Germany probes Mark Zuckerberg over Facebook\u0027s failure to remove content",
+    "url": "http://www.telegraph.co.uk/news/2016/11/04/germany-probes-mark-zuckerberg-over-facebooks-failure-to-remove/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 2:31:32 AM"
   },
   {
     "id": "12877576",
@@ -8054,45 +8086,5 @@ var newsArray = [
     "url": "https://www.wired.com/2016/10/ai-pioneer-yoshua-bengio-launching-element-ai-deep-learning-incubator/",
     "votes": 4,
     "posted": "Oct 29, 2016 11:11:54 AM"
-  },
-  {
-    "id": "12823206",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "Belgian court fines Skype for failing to intercept criminals\u0027 calls in 2012",
-    "url": "http://www.theregister.co.uk/2016/10/27/belgian_court_fines_skype_intercept_criminals_calls/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 10:50:04 AM"
-  },
-  {
-    "id": "12823184",
-    "timestamp": "Oct 29, 2016 6:01:51 PM",
-    "topic": "Dirty COW Was Livepatched in Ubuntu Within Hours of Publication",
-    "url": "http://blog.dustinkirkland.com/2016/10/dirty-cow-livepatched-in-ubuntu.html",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:39:18 AM"
-  },
-  {
-    "id": "12823146",
-    "timestamp": "Oct 29, 2016 4:11:40 PM",
-    "topic": "Maxwell\u0027s demon",
-    "url": "https://en.wikipedia.org/wiki/Maxwell%27s_demon",
-    "votes": 5,
-    "posted": "Oct 29, 2016 10:20:16 AM"
-  },
-  {
-    "id": "12823126",
-    "timestamp": "Oct 29, 2016 4:11:40 PM",
-    "topic": "Scala 2.12.0 released",
-    "url": "https://github.com/scala/scala/releases/tag/v2.12.0",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:12:56 AM"
-  },
-  {
-    "id": "12823105",
-    "timestamp": "Oct 29, 2016 11:51:18 AM",
-    "topic": "The TPP\u0027s Last Stand",
-    "url": "http://www.huffingtonpost.com/david-singh-grewal/the-tpps-last-stand_b_12657380.html",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:03:05 AM"
   }
 ];
