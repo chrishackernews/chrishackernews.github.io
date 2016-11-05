@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12882097",
+    "timestamp": "Nov 5, 2016 11:58:48 PM",
+    "topic": "The Principles Behind Voting Systems",
+    "url": "https://medium.com/@tunesmith/the-principles-behind-voting-systems-65ee7d85f93#.164j5sh0n",
+    "votes": 3,
+    "posted": "Nov 5, 2016 10:51:35 PM"
+  },
+  {
+    "id": "12881980",
+    "timestamp": "Nov 5, 2016 11:28:45 PM",
+    "topic": "How Rom-Coms Undermine Women",
+    "url": "http://www.theatlantic.com/entertainment/archive/2016/11/its-rom-coms-fault-too/505928/?single_page\u003dtrue",
+    "votes": 6,
+    "posted": "Nov 5, 2016 10:27:31 PM"
+  },
+  {
     "id": "12881961",
     "timestamp": "Nov 5, 2016 10:38:40 PM",
     "topic": "The secret world of microwave networks",
@@ -2093,6 +2109,14 @@ var newsArray = [
     "url": "http://www.sciencealert.com/our-units-of-measurement-are-finally-getting-an-upgrade",
     "votes": 3,
     "posted": "Nov 3, 2016 8:41:44 PM"
+  },
+  {
+    "id": "12867243",
+    "timestamp": "Nov 5, 2016 11:28:45 PM",
+    "topic": "Mars Opportunity Rover: Driving the Jet Propulsion Lab\u0027s Mars Rover. Again",
+    "url": "http://www.caranddriver.com/reviews/we-drive-the-mars-opportunity-rover-review",
+    "votes": 3,
+    "posted": "Nov 3, 2016 8:39:10 PM"
   },
   {
     "id": "12867221",
@@ -7996,29 +8020,5 @@ var newsArray = [
     "url": "http://www.theatlantic.com/technology/archive/2016/10/we-built-a-fake-web-toaster-and-it-was-hacked-in-an-hour/505571/?single_page\u003dtrue",
     "votes": 4,
     "posted": "Oct 30, 2016 12:01:30 AM"
-  },
-  {
-    "id": "12826536",
-    "timestamp": "Oct 30, 2016 3:23:46 PM",
-    "topic": "The Strange Inevitability of Evolution",
-    "url": "http://nautil.us/issue/41/selection/the-strange-inevitability-of-evolution-rp",
-    "votes": 3,
-    "posted": "Oct 29, 2016 11:37:16 PM"
-  },
-  {
-    "id": "12826521",
-    "timestamp": "Oct 30, 2016 12:32:28 AM",
-    "topic": "Microsoft Adaptive Keyboards Concepts",
-    "url": "https://www.microsoft.com/appliedsciences/content/projects/AdaptiveHardware.aspx",
-    "votes": 8,
-    "posted": "Oct 29, 2016 11:33:17 PM"
-  },
-  {
-    "id": "12826383",
-    "timestamp": "Oct 29, 2016 11:32:22 PM",
-    "topic": "Icelandic parliamentary election",
-    "url": "http://icelandmonitor.mbl.is/elections2016/",
-    "votes": 6,
-    "posted": "Oct 29, 2016 11:07:58 PM"
   }
 ];
