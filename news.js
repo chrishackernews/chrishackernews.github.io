@@ -8078,13 +8078,5 @@ var newsArray = [
     "url": "http://arstechnica.com/science/2016/10/spacex-says-it-remains-on-track-to-return-to-flight-by-years-end/",
     "votes": 3,
     "posted": "Oct 29, 2016 3:06:21 PM"
-  },
-  {
-    "id": "12823717",
-    "timestamp": "Oct 29, 2016 4:11:38 PM",
-    "topic": "CRISPR hacks expand uses of gene-editing toolbox",
-    "url": "https://spectrumnews.org/news/toolbox/crispr-hacks-expand-uses-gene-editing-toolbox/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 2:50:01 PM"
   }
 ];
