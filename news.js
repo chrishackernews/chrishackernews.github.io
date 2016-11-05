@@ -1,11 +1,67 @@
 var newsArray = [
   {
+    "id": "12877576",
+    "timestamp": "Nov 5, 2016 2:26:13 AM",
+    "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
+    "url": "https://lob.com/careers/48029",
+    "votes": 1,
+    "posted": "Nov 5, 2016 2:19:48 AM"
+  },
+  {
+    "id": "12877562",
+    "timestamp": "Nov 5, 2016 2:36:14 AM",
+    "topic": "Isaac Newton\u0027s Principia Mathematica Reissued",
+    "url": "https://www.kickstarter.com/projects/1174653512/isaac-newtons-principia-mathematica-reissue",
+    "votes": 3,
+    "posted": "Nov 5, 2016 2:14:02 AM"
+  },
+  {
+    "id": "12877451",
+    "timestamp": "Nov 5, 2016 2:36:14 AM",
+    "topic": "Rolling Stone Loses Defamation Case Over Rape Article",
+    "url": "http://www.nytimes.com/2016/11/05/business/media/rolling-stone-rape-story-case-guilty.html",
+    "votes": 6,
+    "posted": "Nov 5, 2016 1:43:02 AM"
+  },
+  {
+    "id": "12877381",
+    "timestamp": "Nov 5, 2016 2:16:12 AM",
+    "topic": "Dongle dilemma provokes Apple price cut",
+    "url": "http://www.bbc.com/news/technology-37880723",
+    "votes": 4,
+    "posted": "Nov 5, 2016 1:27:25 AM"
+  },
+  {
+    "id": "12877378",
+    "timestamp": "Nov 5, 2016 2:36:14 AM",
+    "topic": "Systemd and the crashing tweet",
+    "url": "https://tim.siosm.fr/blog/2016/10/02/tweet-systemd/",
+    "votes": 5,
+    "posted": "Nov 5, 2016 1:27:03 AM"
+  },
+  {
+    "id": "12877169",
+    "timestamp": "Nov 5, 2016 2:26:13 AM",
+    "topic": "An online Jinja2 template renderer",
+    "url": "http://jinja2test.tk/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 12:46:06 AM"
+  },
+  {
     "id": "12877071",
     "timestamp": "Nov 5, 2016 1:26:08 AM",
     "topic": "Kickstarter Campaign Produces Large Affordable CNC Cutting Machine",
     "url": "http://www.archdaily.com/798562/kickstarter-campaign-produces-large-affordable-cnc-cutting-machine",
     "votes": 3,
     "posted": "Nov 5, 2016 12:25:01 AM"
+  },
+  {
+    "id": "12877068",
+    "timestamp": "Nov 5, 2016 2:16:12 AM",
+    "topic": "What Modern Democracies Didn’t Copy from Ancient Greece",
+    "url": "http://news.nationalgeographic.com/2016/11/greek-ancient-origins-modern-politics/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 12:24:28 AM"
   },
   {
     "id": "12877045",
@@ -126,6 +182,14 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1610.01634",
     "votes": 6,
     "posted": "Nov 4, 2016 9:34:38 PM"
+  },
+  {
+    "id": "12875794",
+    "timestamp": "Nov 5, 2016 2:56:16 AM",
+    "topic": "The Prophet of Cyberspace",
+    "url": "http://www.filfre.net/2016/11/the-prophet-of-cyberspace/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 9:26:24 PM"
   },
   {
     "id": "12875720",
@@ -8001,37 +8065,5 @@ var newsArray = [
     "url": "https://powerwall.tesla.com/?powerwall2",
     "votes": 13,
     "posted": "Oct 29, 2016 3:01:45 AM"
-  },
-  {
-    "id": "12821909",
-    "timestamp": "Oct 29, 2016 4:41:42 PM",
-    "topic": "Fewer numbers, better science",
-    "url": "http://www.nature.com/news/fewer-numbers-better-science-1.20858",
-    "votes": 3,
-    "posted": "Oct 29, 2016 2:31:04 AM"
-  },
-  {
-    "id": "12821908",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "The American Cloud",
-    "url": "https://aeon.co/essays/america-still-has-a-heartland-it-s-just-an-artificial-one",
-    "votes": 5,
-    "posted": "Oct 29, 2016 2:30:21 AM"
-  },
-  {
-    "id": "12821885",
-    "timestamp": "Oct 29, 2016 3:00:38 AM",
-    "topic": "Tesla Powerwall 2.0",
-    "url": "https://powerwall.tesla.com/",
-    "votes": 8,
-    "posted": "Oct 29, 2016 2:25:57 AM"
-  },
-  {
-    "id": "12821768",
-    "timestamp": "Oct 29, 2016 2:30:36 AM",
-    "topic": "New Emails in Clinton Case Came from Anthony Weiner’s Computer",
-    "url": "http://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dspan-ab-top-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
-    "votes": 7,
-    "posted": "Oct 29, 2016 1:56:35 AM"
   }
 ];
