@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12881420",
+    "timestamp": "Nov 5, 2016 8:28:27 PM",
+    "topic": "Build a Legacy: The Muse (YC W12) Is Hiring a PM for Data and Analytics",
+    "url": "https://www.themuse.com/jobs/themuse/product-manager-data-analytics-8b97af",
+    "votes": 1,
+    "posted": "Nov 5, 2016 8:25:00 PM"
+  },
+  {
+    "id": "12881408",
+    "timestamp": "Nov 5, 2016 8:48:29 PM",
+    "topic": "The Model 3 Will Incorporate Tesla’s Solar Roof Technology: Elon Musk",
+    "url": "http://futurism.com/elon-musk-the-model-3-will-incorporate-teslas-solar-roof-technology/",
+    "votes": 3,
+    "posted": "Nov 5, 2016 8:22:19 PM"
+  },
+  {
+    "id": "12881395",
+    "timestamp": "Nov 5, 2016 8:58:30 PM",
+    "topic": "Why 2016 is such a terrible year for the Mac",
+    "url": "http://www.macworld.com/article/3138087/macs/why-2016-is-such-a-terrible-year-for-the-mac.html",
+    "votes": 4,
+    "posted": "Nov 5, 2016 8:20:14 PM"
+  },
+  {
+    "id": "12881119",
+    "timestamp": "Nov 5, 2016 8:08:25 PM",
+    "topic": "Chelsea Manning Tried Committing Suicide a Second Time in October",
+    "url": "http://www.nytimes.com/2016/11/05/us/chelsea-manning-tried-committing-suicide-a-second-time-in-october.html",
+    "votes": 10,
+    "posted": "Nov 5, 2016 7:28:14 PM"
+  },
+  {
     "id": "12880931",
     "timestamp": "Nov 5, 2016 7:18:20 PM",
     "topic": "The Most Expensive Anti-Pattern",
@@ -101,6 +133,13 @@ var newsArray = [
     "url": "http://www.lscp.net/persons/ramus/docs/PAID16.pdf",
     "votes": 5,
     "posted": "Nov 5, 2016 5:17:45 PM"
+  },
+  {
+    "id": "12880274",
+    "timestamp": "Nov 5, 2016 8:38:28 PM",
+    "topic": "Ask HN: How is Windows for developers nowadays?",
+    "votes": 5,
+    "posted": "Nov 5, 2016 4:57:40 PM"
   },
   {
     "id": "12880203",
@@ -8012,76 +8051,5 @@ var newsArray = [
     "url": "http://postimage.org",
     "votes": 3,
     "posted": "Oct 29, 2016 9:07:46 PM"
-  },
-  {
-    "id": "12825655",
-    "timestamp": "Oct 29, 2016 9:02:08 PM",
-    "topic": "Peter Thiel Defends His Most Contrarian Move Yet: Supporting Trump",
-    "url": "http://www.nytimes.com/2016/10/31/technology/peter-thiel-defends-his-most-contrarian-move-yet-supporting-trump.html",
-    "votes": 5,
-    "posted": "Oct 29, 2016 8:54:59 PM"
-  },
-  {
-    "id": "12825643",
-    "timestamp": "Oct 29, 2016 9:12:10 PM",
-    "topic": "ClintonCircle / DNC",
-    "url": "https://clinton.media.mit.edu/dnc",
-    "votes": 8,
-    "posted": "Oct 29, 2016 8:52:37 PM"
-  },
-  {
-    "id": "12825568",
-    "timestamp": "Oct 30, 2016 4:02:51 AM",
-    "topic": "Show HN: Journally – A simple journal, a daily personal organizer",
-    "url": "http://journally.net",
-    "votes": 6,
-    "posted": "Oct 29, 2016 8:38:21 PM"
-  },
-  {
-    "id": "12825501",
-    "timestamp": "Oct 29, 2016 9:52:13 PM",
-    "topic": "These are Tesla’s stunning new solar roof tiles for homes",
-    "url": "https://techcrunch.com/2016/10/28/these-are-teslas-stunning-new-solar-roof-tiles-for-homes/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 8:25:00 PM"
-  },
-  {
-    "id": "12825479",
-    "timestamp": "Oct 31, 2016 11:07:00 PM",
-    "topic": "What’s a Woggin? A Bird, a Word, and a Linguistic Mystery",
-    "url": "http://www.atlasobscura.com/articles/whats-a-woggin-a-bird-a-word-and-a-linguistic-mystery",
-    "votes": 4,
-    "posted": "Oct 29, 2016 8:21:37 PM"
-  },
-  {
-    "id": "12825478",
-    "timestamp": "Oct 30, 2016 12:22:27 AM",
-    "topic": "Ask HN: How do you deal with grief?",
-    "votes": 3,
-    "posted": "Oct 29, 2016 8:21:18 PM"
-  },
-  {
-    "id": "12825475",
-    "timestamp": "Oct 29, 2016 8:32:06 PM",
-    "topic": "Being a woman on the internet",
-    "url": "http://micheleincalifornia.blogspot.com/2016/10/being-woman-on-internet_29.html",
-    "votes": 3,
-    "posted": "Oct 29, 2016 8:20:35 PM"
-  },
-  {
-    "id": "12825366",
-    "timestamp": "Oct 29, 2016 8:22:05 PM",
-    "topic": "Frink",
-    "url": "https://frinklang.org",
-    "votes": 3,
-    "posted": "Oct 29, 2016 8:07:15 PM"
-  },
-  {
-    "id": "12825359",
-    "timestamp": "Oct 29, 2016 10:32:18 PM",
-    "topic": "Theory that income inequality is actually about housing",
-    "url": "https://medium.com/the-ferenstein-wire/a-26-year-old-mit-graduate-is-turning-heads-over-his-theory-that-income-inequality-is-actually-2a3b423e0c#.vryllhupx",
-    "votes": 3,
-    "posted": "Oct 29, 2016 8:06:51 PM"
   }
 ];
