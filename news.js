@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12878135",
+    "timestamp": "Nov 5, 2016 5:26:29 AM",
+    "topic": "A High Schooler\u0027s Re-Design of the Education System",
+    "url": "https://medium.com/@zachcmiel/a-high-schoolers-view-on-the-education-system-9fc85517c8fe#.4p2a9hmde",
+    "votes": 3,
+    "posted": "Nov 5, 2016 5:14:59 AM"
+  },
+  {
     "id": "12877945",
     "timestamp": "Nov 5, 2016 4:46:25 AM",
     "topic": "Building a Deep Learning Powered GIF Search Engine",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/3/13507126/iot-drone-hack",
     "votes": 3,
     "posted": "Nov 5, 2016 3:59:07 AM"
+  },
+  {
+    "id": "12877902",
+    "timestamp": "Nov 5, 2016 5:26:30 AM",
+    "topic": "Vim celebrates 25 years",
+    "url": "https://opensource.com/life/16/11/happy-birthday-vim-25",
+    "votes": 4,
+    "posted": "Nov 5, 2016 3:50:36 AM"
   },
   {
     "id": "12877875",
@@ -94,6 +110,14 @@ var newsArray = [
     "url": "https://tim.siosm.fr/blog/2016/10/02/tweet-systemd/",
     "votes": 5,
     "posted": "Nov 5, 2016 1:27:03 AM"
+  },
+  {
+    "id": "12877235",
+    "timestamp": "Nov 5, 2016 5:26:29 AM",
+    "topic": "Nasa\u0027s open source projects on GitHub",
+    "url": "https://github.com/nasa",
+    "votes": 6,
+    "posted": "Nov 5, 2016 1:00:04 AM"
   },
   {
     "id": "12877169",
@@ -373,6 +397,14 @@ var newsArray = [
     "url": "http://isfiberreadyyet.com/",
     "votes": 3,
     "posted": "Nov 4, 2016 8:28:05 PM"
+  },
+  {
+    "id": "12875238",
+    "timestamp": "Nov 5, 2016 5:06:28 AM",
+    "topic": "Why Docker and PaaS might not be useful anymore – Serverless Architecture",
+    "url": "https://specify.io/concepts/serverless-baas-faas",
+    "votes": 5,
+    "posted": "Nov 4, 2016 8:25:47 PM"
   },
   {
     "id": "12875211",
@@ -8110,29 +8142,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/10/28/these-are-teslas-stunning-new-solar-roof-tiles-for-homes/",
     "votes": 4,
     "posted": "Oct 29, 2016 6:08:16 AM"
-  },
-  {
-    "id": "12822533",
-    "timestamp": "Oct 29, 2016 3:51:37 PM",
-    "topic": "How 2K Killed Irrational Games – By Anonymous",
-    "url": "https://hackernoon.com/how-2k-killed-irrational-games-a09d8865fd8b#.n17gpload",
-    "votes": 5,
-    "posted": "Oct 29, 2016 5:43:18 AM"
-  },
-  {
-    "id": "12822483",
-    "timestamp": "Oct 29, 2016 8:11:01 AM",
-    "topic": "A Moment of Silence for the Black and Brown Talent That Grew on Vine",
-    "url": "http://www.npr.org/sections/codeswitch/2016/10/28/499681576/vine-ending-grew-black-brown-talent",
-    "votes": 3,
-    "posted": "Oct 29, 2016 5:26:41 AM"
-  },
-  {
-    "id": "12822388",
-    "timestamp": "Oct 29, 2016 6:30:54 AM",
-    "topic": "Tesla solar roof tiles video",
-    "url": "https://www.youtube.com/watch?v\u003ddRqSkR4ENAg",
-    "votes": 4,
-    "posted": "Oct 29, 2016 4:56:34 AM"
   }
 ];
