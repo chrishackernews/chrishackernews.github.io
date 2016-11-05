@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "12879103",
+    "timestamp": "Nov 5, 2016 11:56:58 AM",
+    "topic": "Bus1 is the new Kdbus",
+    "url": "https://davmac.wordpress.com/2016/11/05/bus1-is-the-new-kdbus/",
+    "votes": 5,
+    "posted": "Nov 5, 2016 11:44:04 AM"
+  },
+  {
+    "id": "12879056",
+    "timestamp": "Nov 5, 2016 11:56:58 AM",
+    "topic": "Ask HN: Do you still use UML?",
+    "votes": 4,
+    "posted": "Nov 5, 2016 11:23:08 AM"
+  },
+  {
+    "id": "12879015",
+    "timestamp": "Nov 5, 2016 11:56:58 AM",
+    "topic": "Ring, officially a GNU package",
+    "url": "https://blog.savoirfairelinux.com/en-ca/2016/ring-official-gnu-package/",
+    "votes": 6,
+    "posted": "Nov 5, 2016 11:04:45 AM"
+  },
+  {
+    "id": "12878956",
+    "timestamp": "Nov 5, 2016 11:06:54 AM",
+    "topic": "Show HN: Alienslike.us – vote on what an alien society might be like",
+    "url": "https://alienslike.us/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 10:40:53 AM"
+  },
+  {
     "id": "12878706",
     "timestamp": "Nov 5, 2016 10:06:50 AM",
     "topic": "I don’t like computers",
@@ -8062,29 +8093,5 @@ var newsArray = [
     "url": "http://rstb.royalsocietypublishing.org/content/370/1666/20140344",
     "votes": 3,
     "posted": "Oct 29, 2016 12:59:18 PM"
-  },
-  {
-    "id": "12823293",
-    "timestamp": "Oct 29, 2016 1:21:25 PM",
-    "topic": "Difference between CSS variables and preprocessor variables",
-    "url": "https://css-tricks.com/difference-between-types-of-css-variables/?cez",
-    "votes": 3,
-    "posted": "Oct 29, 2016 11:30:45 AM"
-  },
-  {
-    "id": "12823271",
-    "timestamp": "Oct 29, 2016 2:11:28 PM",
-    "topic": "Casual Introduction to Low-Level Graphics Programming",
-    "url": "http://stephaniehurlburt.com/blog/2016/10/28/casual-introduction-to-low-level-graphics-programming",
-    "votes": 4,
-    "posted": "Oct 29, 2016 11:25:39 AM"
-  },
-  {
-    "id": "12823240",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "AI Pioneer Yoshua Bengio Is Launching Element AI, a Deep-Learning Incubator",
-    "url": "https://www.wired.com/2016/10/ai-pioneer-yoshua-bengio-launching-element-ai-deep-learning-incubator/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 11:11:54 AM"
   }
 ];
