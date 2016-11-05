@@ -8094,13 +8094,5 @@ var newsArray = [
     "url": "http://www.huffingtonpost.com/david-singh-grewal/the-tpps-last-stand_b_12657380.html",
     "votes": 4,
     "posted": "Oct 29, 2016 10:03:05 AM"
-  },
-  {
-    "id": "12823024",
-    "timestamp": "Oct 29, 2016 10:31:12 AM",
-    "topic": "Was Joomla Sabotaged?",
-    "url": "http://www.fionacoulter.com/blog/was-joomla-deliberately-sabotaged/",
-    "votes": 6,
-    "posted": "Oct 29, 2016 9:30:31 AM"
   }
 ];
