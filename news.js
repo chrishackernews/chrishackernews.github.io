@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12879959",
+    "timestamp": "Nov 5, 2016 4:27:22 PM",
+    "topic": "Samsung recalls 2.8m washing machines after reports of explosions",
+    "url": "https://www.theguardian.com/technology/2016/nov/04/samsung-washing-machine-recall-explosion-risk",
+    "votes": 3,
+    "posted": "Nov 5, 2016 3:48:51 PM"
+  },
+  {
     "id": "12879882",
     "timestamp": "Nov 5, 2016 3:57:19 PM",
     "topic": "Wherefore art thou Macintosh?",
@@ -8060,85 +8068,5 @@ var newsArray = [
     "url": "http://boingboing.net/2014/10/23/thomas-pikettys-capital-in-t-2.html",
     "votes": 3,
     "posted": "Oct 29, 2016 4:59:51 PM"
-  },
-  {
-    "id": "12824186",
-    "timestamp": "Oct 29, 2016 5:21:47 PM",
-    "topic": "A Learned Representation for Artistic Style",
-    "url": "https://arxiv.org/abs/1610.07629",
-    "votes": 4,
-    "posted": "Oct 29, 2016 4:53:29 PM"
-  },
-  {
-    "id": "12824162",
-    "timestamp": "Oct 29, 2016 9:52:14 PM",
-    "topic": "How I Became HackerRank #1 in Two Hours",
-    "url": "http://williampross.com/became-hackerrank-1-two-hours/",
-    "votes": 10,
-    "posted": "Oct 29, 2016 4:47:12 PM"
-  },
-  {
-    "id": "12824112",
-    "timestamp": "Oct 31, 2016 10:36:55 PM",
-    "topic": "The Atlas of Early Printing",
-    "url": "https://atlas.lib.uiowa.edu",
-    "votes": 5,
-    "posted": "Oct 29, 2016 4:35:26 PM"
-  },
-  {
-    "id": "12824106",
-    "timestamp": "Oct 29, 2016 4:41:42 PM",
-    "topic": "VirtualBox 5.1.8",
-    "url": "https://www.virtualbox.org/wiki/Changelog#v8",
-    "votes": 3,
-    "posted": "Oct 29, 2016 4:33:22 PM"
-  },
-  {
-    "id": "12824098",
-    "timestamp": "Oct 29, 2016 5:21:47 PM",
-    "topic": "Debounce and Throttle in React.Component – react-decoration1.3.0",
-    "url": "https://github.com/mbasso/react-decoration/releases/tag/1.3.0",
-    "votes": 3,
-    "posted": "Oct 29, 2016 4:31:32 PM"
-  },
-  {
-    "id": "12824092",
-    "timestamp": "Oct 29, 2016 4:41:42 PM",
-    "topic": "EasyMVP – Android library with annotation processing and bytecode weaving",
-    "url": "https://github.com/6thsolution/EasyMVP",
-    "votes": 6,
-    "posted": "Oct 29, 2016 4:30:10 PM"
-  },
-  {
-    "id": "12824052",
-    "timestamp": "Oct 29, 2016 5:21:47 PM",
-    "topic": "Immutables in Java",
-    "url": "https://www.youtube.com/watch?v\u003d-Tydziij7s4",
-    "votes": 4,
-    "posted": "Oct 29, 2016 4:20:24 PM"
-  },
-  {
-    "id": "12824050",
-    "timestamp": "Oct 29, 2016 4:41:42 PM",
-    "topic": "GraphicsMagick Image Processing System",
-    "url": "http://www.graphicsmagick.org/index.html",
-    "votes": 4,
-    "posted": "Oct 29, 2016 4:19:31 PM"
-  },
-  {
-    "id": "12823955",
-    "timestamp": "Oct 29, 2016 5:51:50 PM",
-    "topic": "A Quantum Leap for the Web ( Firefox with Servo Components by End of 2017 )",
-    "url": "https://medium.com/mozilla-tech/a-quantum-leap-for-the-web-a3b7174b3c12#.nax3zxwzp",
-    "votes": 4,
-    "posted": "Oct 29, 2016 3:59:14 PM"
-  },
-  {
-    "id": "12823952",
-    "timestamp": "Oct 29, 2016 5:21:47 PM",
-    "topic": "Lisp\u0027s Revenge",
-    "url": "https://www.youtube.com/watch?v\u003dMTawgp3SKy8",
-    "votes": 3,
-    "posted": "Oct 29, 2016 3:58:36 PM"
   }
 ];
