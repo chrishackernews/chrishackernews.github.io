@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12878496",
+    "timestamp": "Nov 5, 2016 8:36:43 AM",
+    "topic": "Three New Scandals Show How Pervasive Mass Surveillance Is in the West",
+    "url": "https://theintercept.com/2016/11/04/three-new-scandals-show-how-pervasive-and-dangerous-mass-surveillance-is-in-the-west-vindicating-snowden/",
+    "votes": 3,
+    "posted": "Nov 5, 2016 7:45:26 AM"
+  },
+  {
     "id": "12878337",
     "timestamp": "Nov 5, 2016 7:16:37 AM",
     "topic": "Is democracy a failure? (1861, NYTimes)",
@@ -8094,37 +8102,5 @@ var newsArray = [
     "url": "http://www.fionacoulter.com/blog/was-joomla-deliberately-sabotaged/",
     "votes": 6,
     "posted": "Oct 29, 2016 9:30:31 AM"
-  },
-  {
-    "id": "12822946",
-    "timestamp": "Oct 29, 2016 10:11:10 AM",
-    "topic": "GC Pauses and Safe Points in the CLR",
-    "url": "http://www.mattwarren.org/2016/08/08/GC-Pauses-and-Safe-Points/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 8:54:31 AM"
-  },
-  {
-    "id": "12822923",
-    "timestamp": "Oct 29, 2016 10:01:10 AM",
-    "topic": "The Photographer\u0027s Ephemeris: TPE for Desktop",
-    "url": "http://photoephemeris.com/tpe-for-desktop",
-    "votes": 4,
-    "posted": "Oct 29, 2016 8:45:48 AM"
-  },
-  {
-    "id": "12822833",
-    "timestamp": "Oct 29, 2016 8:21:02 AM",
-    "topic": "Airbnb Will Require Users to Agree to Nondiscrimination",
-    "url": "https://www.airbnb.com/help/article/1523/general-questions-about-the-airbnb-community-commitment?topic\u003d533",
-    "votes": 7,
-    "posted": "Oct 29, 2016 8:08:28 AM"
-  },
-  {
-    "id": "12822809",
-    "timestamp": "Oct 29, 2016 10:51:13 AM",
-    "topic": "5th RISC-V Workshop Preliminary Agenda",
-    "url": "https://riscv.org/2016/10/5th-risc-v-workshop-agenda/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 7:57:25 AM"
   }
 ];
