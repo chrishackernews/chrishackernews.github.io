@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 5, 2016 5:14:59 AM"
   },
   {
+    "id": "12878020",
+    "timestamp": "Nov 5, 2016 6:16:33 AM",
+    "topic": "Google’s Chrome Hackers Are About to Upend Your Idea of Web Security",
+    "url": "https://www.wired.com/2016/11/googles-chrome-hackers-flip-webs-security-model/all/1#slide-1",
+    "votes": 3,
+    "posted": "Nov 5, 2016 4:40:08 AM"
+  },
+  {
     "id": "12877945",
     "timestamp": "Nov 5, 2016 4:46:25 AM",
     "topic": "Building a Deep Learning Powered GIF Search Engine",
@@ -8118,29 +8126,5 @@ var newsArray = [
     "url": "http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/",
     "votes": 4,
     "posted": "Oct 29, 2016 7:19:05 AM"
-  },
-  {
-    "id": "12822602",
-    "timestamp": "Oct 29, 2016 12:11:19 PM",
-    "topic": "Welcome to the Linux Kernel’s documentation",
-    "url": "https://kernel.org/doc/html/latest/",
-    "votes": 5,
-    "posted": "Oct 29, 2016 6:09:49 AM"
-  },
-  {
-    "id": "12822598",
-    "timestamp": "Oct 29, 2016 6:20:54 AM",
-    "topic": "Tesla Unveils Its New Line of Camouflaged Solar Panels",
-    "url": "https://www.wired.com/2016/10/tesla-unveils-new-line-camouflaged-solar-panels/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 6:08:38 AM"
-  },
-  {
-    "id": "12822597",
-    "timestamp": "Oct 29, 2016 10:21:11 AM",
-    "topic": "These are Tesla’s stunning new solar roof tiles for homes",
-    "url": "https://techcrunch.com/2016/10/28/these-are-teslas-stunning-new-solar-roof-tiles-for-homes/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 6:08:16 AM"
   }
 ];
