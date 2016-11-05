@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12877071",
+    "timestamp": "Nov 5, 2016 1:26:08 AM",
+    "topic": "Kickstarter Campaign Produces Large Affordable CNC Cutting Machine",
+    "url": "http://www.archdaily.com/798562/kickstarter-campaign-produces-large-affordable-cnc-cutting-machine",
+    "votes": 3,
+    "posted": "Nov 5, 2016 12:25:01 AM"
+  },
+  {
     "id": "12877045",
     "timestamp": "Nov 5, 2016 12:36:04 AM",
     "topic": "Elementary Blog – Switching from MacOS: Developer Environment",
@@ -72,6 +80,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 10:28:56 PM"
   },
   {
+    "id": "12876256",
+    "timestamp": "Nov 5, 2016 1:16:07 AM",
+    "topic": "Autovacuum is Not the Enemy",
+    "url": "https://www.citusdata.com/blog/2016/11/04/autovacuum-not-the-enemy/",
+    "votes": 8,
+    "posted": "Nov 4, 2016 10:24:54 PM"
+  },
+  {
     "id": "12876214",
     "timestamp": "Nov 4, 2016 11:15:57 PM",
     "topic": "Samsung Recalls 2.8M Top-Load Washing Machines",
@@ -110,6 +126,14 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1610.01634",
     "votes": 6,
     "posted": "Nov 4, 2016 9:34:38 PM"
+  },
+  {
+    "id": "12875720",
+    "timestamp": "Nov 5, 2016 1:16:07 AM",
+    "topic": "Novelty Talking Fish Integrated with Alexa API",
+    "url": "http://www.theverge.com/2016/11/4/13525172/amazon-alexa-big-mouth-billy-bass-hack-api",
+    "votes": 3,
+    "posted": "Nov 4, 2016 9:18:30 PM"
   },
   {
     "id": "12875593",
@@ -1286,6 +1310,14 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/davidewalt/2016/11/02/inside-magic-leap-the-secretive-4-5-billion-startup-changing-computing-forever/#235ad204e83f",
     "votes": 4,
     "posted": "Nov 3, 2016 8:48:57 PM"
+  },
+  {
+    "id": "12867306",
+    "timestamp": "Nov 5, 2016 1:36:09 AM",
+    "topic": "The curious case  of the disappearing Polish S (2015)",
+    "url": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
+    "votes": 3,
+    "posted": "Nov 3, 2016 8:46:31 PM"
   },
   {
     "id": "12867300",
@@ -8001,45 +8033,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/10/29/us/politics/fbi-hillary-clinton-email.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dspan-ab-top-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
     "votes": 7,
     "posted": "Oct 29, 2016 1:56:35 AM"
-  },
-  {
-    "id": "12821750",
-    "timestamp": "Oct 29, 2016 2:20:35 AM",
-    "topic": "Are You an Angry Programmer?",
-    "url": "https://medium.com/@fagnerbrack/the-angry-programmer-52a93bfcbc3c",
-    "votes": 3,
-    "posted": "Oct 29, 2016 1:51:26 AM"
-  },
-  {
-    "id": "12821637",
-    "timestamp": "Oct 29, 2016 3:41:36 PM",
-    "topic": "A Map of the World Won Japan’s Prestigious Design Award",
-    "url": "http://www.spoon-tamago.com/2016/10/28/hajime-narukawa-authagraph/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 1:27:04 AM"
-  },
-  {
-    "id": "12821586",
-    "timestamp": "Oct 29, 2016 3:00:39 AM",
-    "topic": "Sub-millisecond GC pauses in Go 1.8",
-    "url": "https://groups.google.com/forum/?fromgroups#!topic/golang-dev/Ab1sFeoZg_8",
-    "votes": 4,
-    "posted": "Oct 29, 2016 1:15:34 AM"
-  },
-  {
-    "id": "12821584",
-    "timestamp": "Oct 29, 2016 2:50:38 AM",
-    "topic": "The dawn of 3D games",
-    "url": "http://grenouille-bouillie.blogspot.com/2007/10/dawn-of-3d-games.html",
-    "votes": 4,
-    "posted": "Oct 29, 2016 1:15:17 AM"
-  },
-  {
-    "id": "12821541",
-    "timestamp": "Oct 29, 2016 5:00:48 AM",
-    "topic": "Facebook draws criticism for ‘ethnic affinity’ ad targeting",
-    "url": "https://techcrunch.com/2016/10/28/facebook-ethnic-affinity/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 1:07:18 AM"
   }
 ];
