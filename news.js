@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12881961",
+    "timestamp": "Nov 5, 2016 10:38:40 PM",
+    "topic": "The secret world of microwave networks",
+    "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
+    "votes": 3,
+    "posted": "Nov 5, 2016 10:23:55 PM"
+  },
+  {
+    "id": "12881947",
+    "timestamp": "Nov 5, 2016 10:48:41 PM",
+    "topic": "Inside NORAD\u0027s Cheyenne Mountain Combat Center",
+    "url": "http://thememoryhole2.org/blog/inside-norad",
+    "votes": 4,
+    "posted": "Nov 5, 2016 10:18:28 PM"
+  },
+  {
+    "id": "12881703",
+    "timestamp": "Nov 5, 2016 10:08:37 PM",
+    "topic": "Contact lenses with infrared vision",
+    "url": "http://spectrum.ieee.org/nanoclast/semiconductors/optoelectronics/graphene-gives-you-infrared-vision-in-a-contact-lens",
+    "votes": 3,
+    "posted": "Nov 5, 2016 9:25:22 PM"
+  },
+  {
+    "id": "12881584",
+    "timestamp": "Nov 5, 2016 10:18:38 PM",
+    "topic": "How (some of) your professors see you (2009)",
+    "url": "http://edwardfeser.blogspot.com/2009/03/how-some-of-your-professors-see-you.html",
+    "votes": 3,
+    "posted": "Nov 5, 2016 9:00:55 PM"
+  },
+  {
     "id": "12881569",
     "timestamp": "Nov 5, 2016 9:18:32 PM",
     "topic": "Tech Jobs, Cheaper Housing: The New Silicon Cities",
     "url": "http://www.wsj.com/articles/tech-jobs-cheaper-housing-the-new-silicon-cities-1478181842",
     "votes": 3,
     "posted": "Nov 5, 2016 8:57:06 PM"
+  },
+  {
+    "id": "12881537",
+    "timestamp": "Nov 5, 2016 10:18:38 PM",
+    "topic": "The end of the operating systen",
+    "url": "http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/",
+    "votes": 6,
+    "posted": "Nov 5, 2016 8:49:47 PM"
   },
   {
     "id": "12881432",
@@ -624,6 +664,14 @@ var newsArray = [
     "url": "https://turbo.github.io/",
     "votes": 9,
     "posted": "Nov 4, 2016 11:55:15 PM"
+  },
+  {
+    "id": "12876866",
+    "timestamp": "Nov 5, 2016 10:28:39 PM",
+    "topic": "In the Joints of Their Toes: A ruse that gave rise to the spiritualist movement",
+    "url": "http://www.theparisreview.org/blog/2016/11/04/in-the-joints-of-their-toes/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 11:50:56 PM"
   },
   {
     "id": "12876822",
@@ -2871,6 +2919,14 @@ var newsArray = [
     "url": "https://github.com/skatejs/skatejs",
     "votes": 4,
     "posted": "Nov 3, 2016 1:23:27 AM"
+  },
+  {
+    "id": "12860504",
+    "timestamp": "Nov 5, 2016 10:58:42 PM",
+    "topic": "Deep in New Zealand",
+    "url": "http://www.nybooks.com/daily/2016/10/27/deep-in-new-zealand-going-bush/",
+    "votes": 3,
+    "posted": "Nov 3, 2016 1:02:28 AM"
   },
   {
     "id": "12860427",
@@ -7964,69 +8020,5 @@ var newsArray = [
     "url": "http://icelandmonitor.mbl.is/elections2016/",
     "votes": 6,
     "posted": "Oct 29, 2016 11:07:58 PM"
-  },
-  {
-    "id": "12826329",
-    "timestamp": "Oct 29, 2016 11:32:23 PM",
-    "topic": "Seattle: Highest Minimum Wage, Lowest Unemployment Rate",
-    "url": "http://ritholtz.com/2016/10/seattle-highest-minimum-wage/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:56:50 PM"
-  },
-  {
-    "id": "12826185",
-    "timestamp": "Oct 29, 2016 10:52:20 PM",
-    "topic": "How I Found Myself Accused of Stealing Code from WordPress",
-    "url": "https://medium.com/@talkol/how-i-found-myself-accused-of-stealing-code-from-wordpress-a7350da9f9f2#.5bypmvbbe",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:32:13 PM"
-  },
-  {
-    "id": "12826136",
-    "timestamp": "Oct 29, 2016 11:32:23 PM",
-    "topic": "How One Man’s Bad Math Helped Ruin Decades of English Soccer",
-    "url": "http://fivethirtyeight.com/features/how-one-mans-bad-math-helped-ruin-decades-of-english-soccer/",
-    "votes": 6,
-    "posted": "Oct 29, 2016 10:23:18 PM"
-  },
-  {
-    "id": "12826126",
-    "timestamp": "Oct 29, 2016 10:32:18 PM",
-    "topic": "Blue Bottle, the Company That Won\u0027t Grind Your Coffee, Now Sells Ground Coffee",
-    "url": "https://www.fastcodesign.com/3064283/wanted/blue-bottle-the-company-that-wont-grind-your-coffee-now-sells-ground-coffee",
-    "votes": 3,
-    "posted": "Oct 29, 2016 10:19:28 PM"
-  },
-  {
-    "id": "12826095",
-    "timestamp": "Nov 1, 2016 10:19:15 PM",
-    "topic": "Philosophy Beyond the Academy",
-    "url": "http://www.chronicle.com/article/Philosophy-Beyond-the-Academy/238052",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:13:21 PM"
-  },
-  {
-    "id": "12826088",
-    "timestamp": "Oct 30, 2016 12:12:26 AM",
-    "topic": "Dear Matt Mullenweg: An Open Letter from Wix.com’s CEO Avishai Abrahami",
-    "url": "http://www.wix.com/blog/2016/10/dear-matt-mullenweg-an-open-letter-from-wix-coms-ceo-avishai-abrahami/",
-    "votes": 8,
-    "posted": "Oct 29, 2016 10:11:56 PM"
-  },
-  {
-    "id": "12826025",
-    "timestamp": "Oct 29, 2016 10:12:16 PM",
-    "topic": "How I Found Myself Accused of Stealing Code from WordPress",
-    "url": "https://medium.com/@talkol/how-i-found-myself-accused-of-stealing-code-from-wordpress-a7350da9f9f2#.g8h9b4eql",
-    "votes": 8,
-    "posted": "Oct 29, 2016 10:02:04 PM"
-  },
-  {
-    "id": "12826022",
-    "timestamp": "Oct 29, 2016 10:22:16 PM",
-    "topic": "The future of PCs and Macs looks expensive",
-    "url": "http://www.theverge.com/2016/10/28/13452084/microsoft-apple-new-pc-surface-macbook-prices-expensive-exclusive",
-    "votes": 4,
-    "posted": "Oct 29, 2016 10:01:24 PM"
   }
 ];
