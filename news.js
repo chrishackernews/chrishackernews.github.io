@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12879882",
+    "timestamp": "Nov 5, 2016 3:57:19 PM",
+    "topic": "Wherefore art thou Macintosh?",
+    "url": "http://www.asymco.com/2016/11/02/wherefore-art-thou-macintosh/",
+    "votes": 5,
+    "posted": "Nov 5, 2016 3:26:17 PM"
+  },
+  {
+    "id": "12879852",
+    "timestamp": "Nov 5, 2016 3:57:18 PM",
+    "topic": "Physicists demonstrate existence of new subatomic structure",
+    "url": "http://sciencebulletin.org/archives/7339.html",
+    "votes": 4,
+    "posted": "Nov 5, 2016 3:16:32 PM"
+  },
+  {
+    "id": "12879850",
+    "timestamp": "Nov 5, 2016 3:47:18 PM",
+    "topic": "H265: Technical Overview",
+    "url": "https://sonnati.wordpress.com/2014/06/20/h265-part-i-technical-overview/",
+    "votes": 5,
+    "posted": "Nov 5, 2016 3:15:03 PM"
+  },
+  {
+    "id": "12879803",
+    "timestamp": "Nov 5, 2016 3:17:14 PM",
+    "topic": "The real Clinton email scandal is that a bullshit story has dominated campaign",
+    "url": "http://www.vox.com/policy-and-politics/2016/11/4/13500018/clinton-email-scandal-bullshit",
+    "votes": 4,
+    "posted": "Nov 5, 2016 3:00:45 PM"
+  },
+  {
+    "id": "12879732",
+    "timestamp": "Nov 5, 2016 3:37:16 PM",
+    "topic": "R Course Finder grows steadily, now includes 118 R courses",
+    "url": "http://r-exercises.com/2016/11/04/r-course-finder-update-2/",
+    "votes": 5,
+    "posted": "Nov 5, 2016 2:42:06 PM"
+  },
+  {
+    "id": "12879470",
+    "timestamp": "Nov 5, 2016 3:37:16 PM",
+    "topic": "Cartoon Laws of Physics",
+    "url": "http://www.dgp.toronto.edu/~karan/courses/csc2529/cartoonlaw.htm",
+    "votes": 5,
+    "posted": "Nov 5, 2016 1:27:50 PM"
+  },
+  {
     "id": "12879464",
     "timestamp": "Nov 5, 2016 1:57:08 PM",
     "topic": "Show HN: Cloud Commander orthodox web file manager with console and editor",
@@ -8,12 +56,28 @@ var newsArray = [
     "posted": "Nov 5, 2016 1:26:03 PM"
   },
   {
+    "id": "12879419",
+    "timestamp": "Nov 5, 2016 3:17:14 PM",
+    "topic": "Watching Larry Ellison Become Larry Ellison",
+    "url": "https://steveblank.com/2014/09/25/watching-larry-ellison-become-larry-ellison-the-dna-of-a-winner/",
+    "votes": 7,
+    "posted": "Nov 5, 2016 1:11:58 PM"
+  },
+  {
     "id": "12879232",
     "timestamp": "Nov 5, 2016 1:07:03 PM",
     "topic": "Be careful about what you dislike",
     "url": "http://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/",
     "votes": 7,
     "posted": "Nov 5, 2016 12:19:57 PM"
+  },
+  {
+    "id": "12879224",
+    "timestamp": "Nov 5, 2016 3:37:16 PM",
+    "topic": "Visual Cryptography",
+    "url": "http://www.datagenetics.com/blog/november32013/index.html",
+    "votes": 4,
+    "posted": "Nov 5, 2016 12:17:38 PM"
   },
   {
     "id": "12879216",
@@ -30,6 +94,14 @@ var newsArray = [
     "url": "https://github.com/Jasonette/JASONETTE-iOS?hn",
     "votes": 5,
     "posted": "Nov 5, 2016 12:03:15 PM"
+  },
+  {
+    "id": "12879117",
+    "timestamp": "Nov 5, 2016 3:27:15 PM",
+    "topic": "Paris agreement on climate change has come into force",
+    "url": "http://www.bbc.com/news/science-environment-37872111",
+    "votes": 4,
+    "posted": "Nov 5, 2016 11:49:26 AM"
   },
   {
     "id": "12879103",
@@ -149,6 +221,13 @@ var newsArray = [
     "url": "http://blog.elementary.io/post/152750962276/switching-from-macos-hardware",
     "votes": 3,
     "posted": "Nov 5, 2016 3:43:23 AM"
+  },
+  {
+    "id": "12877784",
+    "timestamp": "Nov 5, 2016 3:17:14 PM",
+    "topic": "Ask HN: What are you thinking about your personal goals in 2017?",
+    "votes": 5,
+    "posted": "Nov 5, 2016 3:19:40 AM"
   },
   {
     "id": "12877687",
@@ -901,6 +980,14 @@ var newsArray = [
     "posted": "Nov 4, 2016 2:23:07 PM"
   },
   {
+    "id": "12872170",
+    "timestamp": "Nov 5, 2016 3:57:19 PM",
+    "topic": "Show HN: Formpost.co – Send forms from your static site",
+    "url": "https://formpost.co/",
+    "votes": 14,
+    "posted": "Nov 4, 2016 1:57:17 PM"
+  },
+  {
     "id": "12872074",
     "timestamp": "Nov 4, 2016 7:05:31 PM",
     "topic": "Apple Takes 104% of All Smartphone Profits Following Galaxy Note 7 Recall",
@@ -1287,6 +1374,13 @@ var newsArray = [
     "url": "https://dev.to/edemkumodzi/why-i-became-a-software-engineer",
     "votes": 3,
     "posted": "Nov 4, 2016 3:53:05 AM"
+  },
+  {
+    "id": "12870001",
+    "timestamp": "Nov 5, 2016 3:27:15 PM",
+    "topic": "Request for product: Ask me ~100 questions, and then tell me how to vote",
+    "votes": 5,
+    "posted": "Nov 4, 2016 3:50:20 AM"
   },
   {
     "id": "12869940",
@@ -8046,37 +8140,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dMTawgp3SKy8",
     "votes": 3,
     "posted": "Oct 29, 2016 3:58:36 PM"
-  },
-  {
-    "id": "12823943",
-    "timestamp": "Oct 29, 2016 4:51:43 PM",
-    "topic": "Big-O notation explained by a self-taught programmer",
-    "url": "https://justin.abrah.ms/computer-science/big-o-notation-explained.html",
-    "votes": 4,
-    "posted": "Oct 29, 2016 3:55:41 PM"
-  },
-  {
-    "id": "12823937",
-    "timestamp": "Oct 29, 2016 5:31:48 PM",
-    "topic": "Step-by-step tutorial to build a modern JavaScript stack from scratch",
-    "url": "https://github.com/verekia/js-stack-from-scratch",
-    "votes": 7,
-    "posted": "Oct 29, 2016 3:54:55 PM"
-  },
-  {
-    "id": "12823849",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "No Escape? Microsoft Is About to Eat Apple for Lunch",
-    "url": "https://medium.com/javascript-scene/no-escape-microsoft-is-about-to-eat-apple-for-lunch-1fbef5048086",
-    "votes": 5,
-    "posted": "Oct 29, 2016 3:30:36 PM"
-  },
-  {
-    "id": "12823760",
-    "timestamp": "Oct 29, 2016 4:01:38 PM",
-    "topic": "SpaceX says helium loading issue caused accident, seeks 2016 return to flight",
-    "url": "http://arstechnica.com/science/2016/10/spacex-says-it-remains-on-track-to-return-to-flight-by-years-end/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 3:06:21 PM"
   }
 ];
