@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12878337",
+    "timestamp": "Nov 5, 2016 7:16:37 AM",
+    "topic": "Is democracy a failure? (1861, NYTimes)",
+    "url": "http://www.nytimes.com/1861/03/14/news/is-democracy-a-failure.html",
+    "votes": 3,
+    "posted": "Nov 5, 2016 6:28:50 AM"
+  },
+  {
     "id": "12878135",
     "timestamp": "Nov 5, 2016 5:26:29 AM",
     "topic": "A High Schooler\u0027s Re-Design of the Education System",
@@ -8118,13 +8126,5 @@ var newsArray = [
     "url": "https://riscv.org/2016/10/5th-risc-v-workshop-agenda/",
     "votes": 3,
     "posted": "Oct 29, 2016 7:57:25 AM"
-  },
-  {
-    "id": "12822742",
-    "timestamp": "Oct 29, 2016 9:41:08 AM",
-    "topic": "Liskov\u0027s Reading List for Computer Scientists",
-    "url": "http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/",
-    "votes": 4,
-    "posted": "Oct 29, 2016 7:19:05 AM"
   }
 ];
