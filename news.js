@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12877045",
+    "timestamp": "Nov 5, 2016 12:36:04 AM",
+    "topic": "Elementary Blog – Switching from MacOS: Developer Environment",
+    "url": "http://blog.elementary.io/post/152671475281/switching-from-macos-developer-environment",
+    "votes": 5,
+    "posted": "Nov 5, 2016 12:19:27 AM"
+  },
+  {
     "id": "12876814",
     "timestamp": "Nov 4, 2016 11:56:01 PM",
     "topic": "Thoughts on the Pro Debacle",
@@ -94,6 +102,14 @@ var newsArray = [
     "url": "http://www.cbc.ca/news/canada/north/ping-beep-hum-sound-arctic-ocean-igloolik-1.3831861",
     "votes": 3,
     "posted": "Nov 4, 2016 9:44:30 PM"
+  },
+  {
+    "id": "12875868",
+    "timestamp": "Nov 5, 2016 12:46:05 AM",
+    "topic": "Solid metallic hydrogen has been produced in the laboratory",
+    "url": "https://arxiv.org/abs/1610.01634",
+    "votes": 6,
+    "posted": "Nov 4, 2016 9:34:38 PM"
   },
   {
     "id": "12875593",
@@ -334,6 +350,14 @@ var newsArray = [
     "url": "https://www.arangodb.com/2016/11/arangodb-3-1-solid-ground-scale-part-ii/",
     "votes": 26,
     "posted": "Nov 4, 2016 4:43:05 PM"
+  },
+  {
+    "id": "12873337",
+    "timestamp": "Nov 5, 2016 12:16:03 AM",
+    "topic": "Sprint now supports RCS with default Messenger app",
+    "url": "https://blog.google/products/android/partnering-global-carriers-upgrade-sms/",
+    "votes": 3,
+    "posted": "Nov 4, 2016 4:29:41 PM"
   },
   {
     "id": "12873214",
@@ -2884,6 +2908,14 @@ var newsArray = [
     "url": "http://mobile.nytimes.com/2016/11/02/opinion/in-greece-property-is-debt.html?em_pos\u003dsmall\u0026emc\u003dedit_dk_20161102\u0026nl\u003ddealbook\u0026nl_art\u003d17\u0026nlid\u003d65508833\u0026ref\u003dheadline\u0026te\u003d1\u0026referer\u003d",
     "votes": 3,
     "posted": "Nov 2, 2016 1:17:22 PM"
+  },
+  {
+    "id": "12853846",
+    "timestamp": "Nov 5, 2016 12:46:05 AM",
+    "topic": "Show HN: A better way to organize rails apps so that not everything is silo\u0027d",
+    "url": "https://github.com/NullVoxPopuli/rails_module_unification",
+    "votes": 5,
+    "posted": "Nov 2, 2016 1:06:23 PM"
   },
   {
     "id": "12853706",
@@ -8009,84 +8041,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/10/28/facebook-ethnic-affinity/",
     "votes": 4,
     "posted": "Oct 29, 2016 1:07:18 AM"
-  },
-  {
-    "id": "12821454",
-    "timestamp": "Oct 29, 2016 1:00:29 AM",
-    "topic": "Lever is hiring an engineering manager in SF – Join a 50/50 men and women team",
-    "url": "https://www.lever.co/jobs?site\u003dHacker%20News\u0026instance\u003d30\u0026copy\u003dL",
-    "votes": 1,
-    "posted": "Oct 29, 2016 12:54:05 AM"
-  },
-  {
-    "id": "12821413",
-    "timestamp": "Oct 29, 2016 9:41:08 AM",
-    "topic": "Show HN: New type of job board for teams and projects gt $50,000",
-    "url": "http://45.55.223.60",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:46:52 AM"
-  },
-  {
-    "id": "12821406",
-    "timestamp": "Oct 29, 2016 1:40:32 AM",
-    "topic": "Aks HN: How did you improve the quality of your code base?",
-    "votes": 4,
-    "posted": "Oct 29, 2016 12:46:18 AM"
-  },
-  {
-    "id": "12821351",
-    "timestamp": "Oct 29, 2016 7:51:00 AM",
-    "topic": "Comma.ai cancels the Comma One following NHTSA letter",
-    "url": "https://techcrunch.com/2016/10/28/comma-ai-cancels-the-comma-one-following-nhtsa-letter/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:35:23 AM"
-  },
-  {
-    "id": "12821247",
-    "timestamp": "Oct 29, 2016 12:30:26 AM",
-    "topic": "Emacs: Why You Should Not Swap CapsLock and Control",
-    "url": "http://ergoemacs.org/emacs/swap_CapsLock_Ctrl.html",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:18:35 AM"
-  },
-  {
-    "id": "12821188",
-    "timestamp": "Oct 29, 2016 12:50:28 AM",
-    "topic": "Leaked Pentagon video is science fiction about the future of cities",
-    "url": "http://arstechnica.com/tech-policy/2016/10/bizarre-leaked-pentagon-video-is-a-science-fiction-story-about-the-future-of-cities/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:08:56 AM"
-  },
-  {
-    "id": "12821177",
-    "timestamp": "Oct 29, 2016 12:20:24 AM",
-    "topic": "Lenovo backs down, releases BiOS fix with AHCI, unblocking Linux on laptops",
-    "url": "http://support.lenovo.com/us/en/products/Laptops-and-netbooks/Yoga-Series/yoga-900-13isk2/downloads/DS119354",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:07:35 AM"
-  },
-  {
-    "id": "12821161",
-    "timestamp": "Oct 29, 2016 12:20:25 AM",
-    "topic": "(Linux Only) BiOS Update for Windows 10 (64-bit) – Yoga 900",
-    "url": "http://support.lenovo.com/gb/en/products/Laptops-and-netbooks/Yoga-Series/yoga-900-13isk2/downloads/DS119354",
-    "votes": 5,
-    "posted": "Oct 29, 2016 12:05:09 AM"
-  },
-  {
-    "id": "12821156",
-    "timestamp": "Oct 29, 2016 12:30:26 AM",
-    "topic": "The Cell’s Backup Genetic Instructions",
-    "url": "https://www.quantamagazine.org/20161028-the-cells-backup-genetic-instructions/",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:04:17 AM"
-  },
-  {
-    "id": "12821112",
-    "timestamp": "Oct 29, 2016 3:30:41 AM",
-    "topic": "Red-Lang: Live-coding of a clock demo, EVE-style",
-    "url": "http://jugad2.blogspot.com/2016/10/red-lang-live-coding-of-clock-demo-eve.html",
-    "votes": 3,
-    "posted": "Oct 28, 2016 11:57:39 PM"
   }
 ];
