@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12879464",
+    "timestamp": "Nov 5, 2016 1:57:08 PM",
+    "topic": "Show HN: Cloud Commander orthodox web file manager with console and editor",
+    "url": "https://cloudcmd.io",
+    "votes": 3,
+    "posted": "Nov 5, 2016 1:26:03 PM"
+  },
+  {
+    "id": "12879232",
+    "timestamp": "Nov 5, 2016 1:07:03 PM",
+    "topic": "Be careful about what you dislike",
+    "url": "http://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/",
+    "votes": 7,
+    "posted": "Nov 5, 2016 12:19:57 PM"
+  },
+  {
     "id": "12879216",
     "timestamp": "Nov 5, 2016 12:37:01 PM",
     "topic": "Man hacks Alexa into singing fish robot, terror ensues",
     "url": "http://www.theverge.com/2016/11/4/13525172/amazon-alexa-big-mouth-billy-bass-hack-api",
     "votes": 3,
     "posted": "Nov 5, 2016 12:15:06 PM"
+  },
+  {
+    "id": "12879179",
+    "timestamp": "Nov 5, 2016 1:17:04 PM",
+    "topic": "Show HN: Make an app by adding JSON to this app",
+    "url": "https://github.com/Jasonette/JASONETTE-iOS?hn",
+    "votes": 5,
+    "posted": "Nov 5, 2016 12:03:15 PM"
   },
   {
     "id": "12879103",
@@ -8062,44 +8086,5 @@ var newsArray = [
     "url": "https://spectrumnews.org/news/toolbox/crispr-hacks-expand-uses-gene-editing-toolbox/",
     "votes": 3,
     "posted": "Oct 29, 2016 2:50:01 PM"
-  },
-  {
-    "id": "12823592",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "Apple just told the world it has no idea who the Mac is for",
-    "url": "https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b",
-    "votes": 4,
-    "posted": "Oct 29, 2016 1:55:25 PM"
-  },
-  {
-    "id": "12823548",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "WikiWikiWeb is back online",
-    "url": "http://wiki.c2.com/",
-    "votes": 9,
-    "posted": "Oct 29, 2016 1:36:47 PM"
-  },
-  {
-    "id": "12823519",
-    "timestamp": "Oct 29, 2016 4:11:39 PM",
-    "topic": "Brutal workaround for FF SVG path pattern issue on history.pushState",
-    "url": "https://github.com/NeXTs/FF-SVG-path-pushState-workaround",
-    "votes": 3,
-    "posted": "Oct 29, 2016 1:27:35 PM"
-  },
-  {
-    "id": "12823492",
-    "timestamp": "Oct 29, 2016 1:51:27 PM",
-    "topic": "Enigmail 2.0 (or Enigmail/p≡p) to automatically encrypt e-mails",
-    "votes": 3,
-    "posted": "Oct 29, 2016 1:13:59 PM"
-  },
-  {
-    "id": "12823459",
-    "timestamp": "Oct 29, 2016 3:01:33 PM",
-    "topic": "On Leeuwenhoek (1677) ‘Concerning little animals’ (2015)",
-    "url": "http://rstb.royalsocietypublishing.org/content/370/1666/20140344",
-    "votes": 3,
-    "posted": "Oct 29, 2016 12:59:18 PM"
   }
 ];
