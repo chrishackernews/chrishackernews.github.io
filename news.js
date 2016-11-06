@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "12882847",
+    "timestamp": "Nov 6, 2016 2:19:00 AM",
+    "topic": "The Geek Keep: Synthesize Speech in Any Voice",
+    "url": "http://geekkeep.blogspot.com/2016/11/synthesize-speech-in-any-voicenew.html#.WB6AoATmhTs.hackernews",
+    "votes": 3,
+    "posted": "Nov 6, 2016 2:03:06 AM"
+  },
+  {
+    "id": "12882837",
+    "timestamp": "Nov 6, 2016 2:29:01 AM",
+    "topic": "Tensorflow and Deep Learning, Without a PhD, Martin Gorner, Google [video]",
+    "url": "https://www.youtube.com/watch?v\u003dsEciSlAClL8",
+    "votes": 3,
+    "posted": "Nov 6, 2016 2:00:53 AM"
+  },
+  {
+    "id": "12882816",
+    "timestamp": "Nov 6, 2016 2:59:03 AM",
+    "topic": "Ask HN: Overwhelmed with learning front-end, how do I proceed?",
+    "votes": 6,
+    "posted": "Nov 6, 2016 1:52:02 AM"
+  },
+  {
+    "id": "12882697",
+    "timestamp": "Nov 6, 2016 2:08:59 AM",
+    "topic": "Harvard researchers created solid metallic hydrogen in the lab",
+    "url": "http://www.nextbigfuture.com/2016/11/harvard-researchers-created-solid.html",
+    "votes": 5,
+    "posted": "Nov 6, 2016 1:24:57 AM"
+  },
+  {
     "id": "12882696",
     "timestamp": "Nov 6, 2016 1:38:57 AM",
     "topic": "Every version of Voxel Quest released (in crude, raw, glory)",
@@ -16,12 +47,28 @@ var newsArray = [
     "posted": "Nov 6, 2016 1:14:57 AM"
   },
   {
+    "id": "12882648",
+    "timestamp": "Nov 6, 2016 2:29:01 AM",
+    "topic": "Verifying the Substitution Cipher Folklore",
+    "url": "http://www.spinellis.gr/blog/20160318/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 1:11:44 AM"
+  },
+  {
     "id": "12882621",
     "timestamp": "Nov 6, 2016 1:48:57 AM",
     "topic": "Don’t Get Attached, It’s Just Luck. My Interviewing Advice and Tips",
     "url": "https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30#.5j2hjaj2e",
     "votes": 3,
     "posted": "Nov 6, 2016 1:05:06 AM"
+  },
+  {
+    "id": "12882615",
+    "timestamp": "Nov 6, 2016 2:08:59 AM",
+    "topic": "Venezuela’s currency is dying",
+    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/04/venezuelas-currency-is-dying/",
+    "votes": 8,
+    "posted": "Nov 6, 2016 1:03:33 AM"
   },
   {
     "id": "12882472",
@@ -61,6 +108,14 @@ var newsArray = [
     "url": "https://medium.com/@tunesmith/the-principles-behind-voting-systems-65ee7d85f93#.164j5sh0n",
     "votes": 3,
     "posted": "Nov 5, 2016 10:51:35 PM"
+  },
+  {
+    "id": "12882062",
+    "timestamp": "Nov 6, 2016 2:59:03 AM",
+    "topic": "The Pact Smart-Contract Language [pdf]",
+    "url": "http://kadena.io/docs/Kadena-PactWhitepaper-Oct2016.pdf",
+    "votes": 5,
+    "posted": "Nov 5, 2016 10:44:53 PM"
   },
   {
     "id": "12881980",
@@ -189,6 +244,14 @@ var newsArray = [
     "url": "http://patrobinson.github.io/2016/11/05/docker-in-production/",
     "votes": 8,
     "posted": "Nov 5, 2016 6:55:29 PM"
+  },
+  {
+    "id": "12880880",
+    "timestamp": "Nov 6, 2016 2:29:01 AM",
+    "topic": "Apple fans have click-signed more than 100,000 words of legal contracts",
+    "url": "http://qz.com/797928/apple-fans-have-click-signed-more-than-100000-words-of-legal-contracts/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 6:50:32 PM"
   },
   {
     "id": "12880804",
@@ -7902,44 +7965,5 @@ var newsArray = [
     "url": "https://twitter.com/mwichary/status/791709895083102209",
     "votes": 3,
     "posted": "Oct 30, 2016 3:01:03 AM"
-  },
-  {
-    "id": "12827528",
-    "timestamp": "Oct 30, 2016 5:53:00 AM",
-    "topic": "Apple Losing USB Is a Loss for Music",
-    "url": "http://pitchfork.com/thepitch/1346-apple-losing-usb-is-a-loss-for-music/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 2:16:43 AM"
-  },
-  {
-    "id": "12827515",
-    "timestamp": "Oct 30, 2016 9:33:17 AM",
-    "topic": "Facebook Peering",
-    "url": "https://www.facebook.com/peering",
-    "votes": 5,
-    "posted": "Oct 30, 2016 2:13:13 AM"
-  },
-  {
-    "id": "12827492",
-    "timestamp": "Oct 30, 2016 3:12:46 AM",
-    "topic": "Ask HN: Good email host?",
-    "votes": 5,
-    "posted": "Oct 30, 2016 2:08:56 AM"
-  },
-  {
-    "id": "12827441",
-    "timestamp": "Oct 30, 2016 9:23:16 AM",
-    "topic": "Mozilla Quantum",
-    "url": "https://wiki.mozilla.org/Quantum",
-    "votes": 6,
-    "posted": "Oct 30, 2016 2:52:33 AM"
-  },
-  {
-    "id": "12827412",
-    "timestamp": "Oct 30, 2016 2:52:45 AM",
-    "topic": "How I Found Myself Accused of Stealing Code from WordPress",
-    "url": "https://medium.com/@talkol/how-i-found-myself-accused-of-stealing-code-from-wordpress-a7350da9f9f2#.x6g706ram",
-    "votes": 4,
-    "posted": "Oct 30, 2016 2:45:35 AM"
   }
 ];
