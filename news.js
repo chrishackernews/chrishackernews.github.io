@@ -7973,21 +7973,5 @@ var newsArray = [
     "topic": "Ask HN: Why are SIM cards still a thing?",
     "votes": 15,
     "posted": "Oct 30, 2016 10:40:16 AM"
-  },
-  {
-    "id": "12828746",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "Pirate Party gets 14.5% of votes in Iceland election",
-    "url": "http://icelandmonitor.mbl.is/elections2016/",
-    "votes": 8,
-    "posted": "Oct 30, 2016 9:46:07 AM"
-  },
-  {
-    "id": "12828702",
-    "timestamp": "Oct 30, 2016 1:13:33 PM",
-    "topic": "Building a CustoMac: Buyer\u0027s Guide October 2016",
-    "url": "https://www.tonymacx86.com/buyersguide/october/2016",
-    "votes": 4,
-    "posted": "Oct 30, 2016 9:26:05 AM"
   }
 ];
