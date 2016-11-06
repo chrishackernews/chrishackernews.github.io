@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 6:48:11 PM"
   },
   {
+    "id": "12886175",
+    "timestamp": "Nov 6, 2016 8:10:36 PM",
+    "topic": "Yitang Zhang proves bounded gaps prime conjecture",
+    "url": "http://www.slate.com/articles/health_and_science/do_the_math/2013/05/yitang_zhang_twin_primes_conjecture_a_huge_discovery_about_prime_numbers.html",
+    "votes": 4,
+    "posted": "Nov 6, 2016 6:47:25 PM"
+  },
+  {
     "id": "12886067",
     "timestamp": "Nov 6, 2016 7:20:30 PM",
     "topic": ":syntax off",
@@ -62,6 +70,14 @@ var newsArray = [
     "url": "http://www.powerlineblog.com/archives/2016/11/imagine-theres-no-media-bias-2.php",
     "votes": 3,
     "posted": "Nov 6, 2016 4:55:13 PM"
+  },
+  {
+    "id": "12885585",
+    "timestamp": "Nov 6, 2016 8:00:34 PM",
+    "topic": "Show HN: LosslessCut – Cross-platform GUI tool for fast, lossless video cutting",
+    "url": "https://github.com/mifi/lossless-cut",
+    "votes": 4,
+    "posted": "Nov 6, 2016 4:53:56 PM"
   },
   {
     "id": "12885549",
@@ -278,6 +294,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 11:19:06 AM"
   },
   {
+    "id": "12884413",
+    "timestamp": "Nov 6, 2016 8:00:35 PM",
+    "topic": "What Is Peter Thiel\u0027s Grand Trumpian Plan?",
+    "url": "http://www.vanityfair.com/news/2016/11/what-is-peter-thiel-grand-trumpian-plan",
+    "votes": 5,
+    "posted": "Nov 6, 2016 11:18:17 AM"
+  },
+  {
     "id": "12884393",
     "timestamp": "Nov 6, 2016 2:09:58 PM",
     "topic": "How a Gift from Schoolchildren Let the Soviets Spy on the U.S. For 7 Years",
@@ -412,6 +436,14 @@ var newsArray = [
     "url": "https://www.linux.com/news/eben-moglen-gpl-compliance-and-building-communities-what-works",
     "votes": 4,
     "posted": "Nov 6, 2016 5:17:01 AM"
+  },
+  {
+    "id": "12883464",
+    "timestamp": "Nov 6, 2016 8:00:34 PM",
+    "topic": "When the FBI Has a Phone It Can\u0027t Crack, It Calls These Israeli Hackers",
+    "url": "https://theintercept.com/2016/10/31/fbis-go-hackers/",
+    "votes": 4,
+    "posted": "Nov 6, 2016 5:10:55 AM"
   },
   {
     "id": "12883368",
@@ -7981,44 +8013,5 @@ var newsArray = [
     "url": "https://www.psychologytoday.com/blog/wired-success/201407/anti-intellectualism-and-the-dumbing-down-america",
     "votes": 5,
     "posted": "Oct 30, 2016 8:52:51 PM"
-  },
-  {
-    "id": "12831808",
-    "timestamp": "Oct 30, 2016 9:34:20 PM",
-    "topic": "Ask HN: How to make secure email convenient?",
-    "votes": 4,
-    "posted": "Oct 30, 2016 8:42:46 PM"
-  },
-  {
-    "id": "12831767",
-    "timestamp": "Oct 31, 2016 1:04:39 AM",
-    "topic": "Everything about the state of the Mac",
-    "url": "http://mjtsai.com/blog/2016/10/27/new-macbook-pros-and-the-state-of-the-mac/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 8:38:40 PM"
-  },
-  {
-    "id": "12831764",
-    "timestamp": "Oct 30, 2016 9:24:19 PM",
-    "topic": "Family sues Amazon after hoverboard fire destroys $1M house",
-    "url": "http://www.usatoday.com/story/money/nation-now/2016/10/27/family-sues-amazon-after-hoverboard-fire-destroys-1m-house/92866460/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 8:38:11 PM"
-  },
-  {
-    "id": "12831549",
-    "timestamp": "Oct 31, 2016 12:54:38 AM",
-    "topic": "Show HN: RPG MO, HTML5 MMORPG with Websockets",
-    "url": "https://data.mo.ee/index2.html",
-    "votes": 5,
-    "posted": "Oct 30, 2016 7:56:25 PM"
-  },
-  {
-    "id": "12831545",
-    "timestamp": "Oct 31, 2016 1:14:40 AM",
-    "topic": "Open Letter to Tim Cook",
-    "url": "https://petersphilo.org/2016/10/29/open-letter-to-tim-cook/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:55:41 PM"
   }
 ];
