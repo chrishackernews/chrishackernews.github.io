@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12882696",
+    "timestamp": "Nov 6, 2016 1:38:57 AM",
+    "topic": "Every version of Voxel Quest released (in crude, raw, glory)",
+    "url": "http://www.voxelquest.com/news/every-version-of-voxel-quest-ever",
+    "votes": 6,
+    "posted": "Nov 6, 2016 1:24:25 AM"
+  },
+  {
+    "id": "12882666",
+    "timestamp": "Nov 6, 2016 1:18:55 AM",
+    "topic": "The ruthlessly effective rebranding of Europe’s new far right",
+    "url": "https://www.theguardian.com/world/2016/nov/01/the-ruthlessly-effective-rebranding-of-europes-new-far-right",
+    "votes": 3,
+    "posted": "Nov 6, 2016 1:14:57 AM"
+  },
+  {
+    "id": "12882621",
+    "timestamp": "Nov 6, 2016 1:48:57 AM",
+    "topic": "Don’t Get Attached, It’s Just Luck. My Interviewing Advice and Tips",
+    "url": "https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30#.5j2hjaj2e",
+    "votes": 3,
+    "posted": "Nov 6, 2016 1:05:06 AM"
+  },
+  {
     "id": "12882472",
     "timestamp": "Nov 6, 2016 12:28:51 AM",
     "topic": "Mattermark Is Hiring a Principal Product Designer",
@@ -133,6 +157,14 @@ var newsArray = [
     "url": "http://www.macworld.com/article/3138087/macs/why-2016-is-such-a-terrible-year-for-the-mac.html",
     "votes": 4,
     "posted": "Nov 5, 2016 8:20:14 PM"
+  },
+  {
+    "id": "12881353",
+    "timestamp": "Nov 6, 2016 1:48:58 AM",
+    "topic": "Revisiting why incompetents think they’re awesome",
+    "url": "http://arstechnica.com/science/2016/11/revisiting-why-incompetents-think-theyre-awesome/",
+    "votes": 4,
+    "posted": "Nov 5, 2016 8:12:05 PM"
   },
   {
     "id": "12881119",
@@ -7909,75 +7941,5 @@ var newsArray = [
     "url": "https://medium.com/@talkol/how-i-found-myself-accused-of-stealing-code-from-wordpress-a7350da9f9f2#.x6g706ram",
     "votes": 4,
     "posted": "Oct 30, 2016 2:45:35 AM"
-  },
-  {
-    "id": "12827196",
-    "timestamp": "Oct 30, 2016 2:02:41 AM",
-    "topic": "Ask HN: How to challenge a patent?",
-    "votes": 6,
-    "posted": "Oct 30, 2016 1:50:16 AM"
-  },
-  {
-    "id": "12827173",
-    "timestamp": "Oct 30, 2016 8:03:09 AM",
-    "topic": "The new MacBook Pro looks and feels so good it\u0027s unreal",
-    "url": "http://www.theverge.com/2016/10/27/13419182/apple-new-macbook-pro-video-photos-hands-on",
-    "votes": 4,
-    "posted": "Oct 30, 2016 1:45:52 AM"
-  },
-  {
-    "id": "12827135",
-    "timestamp": "Oct 30, 2016 3:32:49 AM",
-    "topic": "The End of Adolescence",
-    "url": "https://aeon.co/essays/adolescence-is-no-longer-a-bridge-between-childhood-and-adult-life",
-    "votes": 4,
-    "posted": "Oct 30, 2016 1:38:44 AM"
-  },
-  {
-    "id": "12827078",
-    "timestamp": "Oct 30, 2016 1:42:34 AM",
-    "topic": "Microsoft is doing a better Apple impression than Apple",
-    "url": "http://www.theverge.com/2016/10/28/13451832/microsoft-apple-hardware-videos-comparison",
-    "votes": 3,
-    "posted": "Oct 30, 2016 1:26:46 AM"
-  },
-  {
-    "id": "12827064",
-    "timestamp": "Oct 30, 2016 2:32:39 AM",
-    "topic": "Doubts About the Promised Bounty of Genetically Modified Crops",
-    "url": "http://www.nytimes.com/2016/10/30/business/gmo-promise-falls-short.html",
-    "votes": 3,
-    "posted": "Oct 30, 2016 1:24:19 AM"
-  },
-  {
-    "id": "12827057",
-    "timestamp": "Oct 30, 2016 1:32:33 AM",
-    "topic": "GiveCampus (YC S15) is hiring Ruby engineers and biz dev for educational software",
-    "votes": 1,
-    "posted": "Oct 30, 2016 1:22:33 AM"
-  },
-  {
-    "id": "12827000",
-    "timestamp": "Nov 1, 2016 9:49:12 PM",
-    "topic": "Rock-Smashing Monkeys Unintentionally Make Sharp Stone Tools",
-    "url": "http://www.theatlantic.com/science/archive/2016/10/monkeys-unintentionally-make-sharp-edged-stone-tools/504602/?single_page\u003dtrue",
-    "votes": 5,
-    "posted": "Oct 30, 2016 1:08:47 AM"
-  },
-  {
-    "id": "12826972",
-    "timestamp": "Oct 30, 2016 2:22:37 AM",
-    "topic": "What Tim Draper Thinks Elon Musk Got Right and Elizabeth Holmes Got Wrong",
-    "url": "http://www.bizjournals.com/sanjose/news/2016/10/28/heres-what-tim-draper-thinks-elon-musk-got-right.html",
-    "votes": 3,
-    "posted": "Oct 30, 2016 1:03:07 AM"
-  },
-  {
-    "id": "12826946",
-    "timestamp": "Oct 30, 2016 1:12:32 AM",
-    "topic": "Good News Fixing Your Car Isn’t Illegal Anymore",
-    "url": "http://ifixit.org/blog/8510/car-repair-illegal-dmca/",
-    "votes": 6,
-    "posted": "Oct 30, 2016 12:59:29 AM"
   }
 ];
