@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12885686",
+    "timestamp": "Nov 6, 2016 5:40:19 PM",
+    "topic": "Elon Musk: Robots will take your jobs, government will have to pay your wage?",
+    "url": "http://finance.yahoo.com/news/elon-musk-robots-jobs-government-181956572.html?.gg_invalid\u003dtrue",
+    "votes": 4,
+    "posted": "Nov 6, 2016 5:11:00 PM"
+  },
+  {
     "id": "12885549",
     "timestamp": "Nov 6, 2016 4:50:14 PM",
     "topic": "FindBugs project in its current form  is dead",
     "url": "https://mailman.cs.umd.edu/pipermail/findbugs-discuss/2016-November/004321.html",
     "votes": 3,
     "posted": "Nov 6, 2016 4:45:08 PM"
+  },
+  {
+    "id": "12885435",
+    "timestamp": "Nov 6, 2016 5:20:17 PM",
+    "topic": "Doing Business in Japan",
+    "url": "http://www.kalzumeus.com/2014/11/07/doing-business-in-japan/",
+    "votes": 5,
+    "posted": "Nov 6, 2016 4:21:55 PM"
   },
   {
     "id": "12885416",
@@ -37,6 +53,14 @@ var newsArray = [
     "topic": "GiveCampus is hiring full stack engineers and biz dev roles in DC and SF",
     "votes": 1,
     "posted": "Nov 6, 2016 4:07:15 PM"
+  },
+  {
+    "id": "12885356",
+    "timestamp": "Nov 6, 2016 5:00:15 PM",
+    "topic": "Acknowledging the complexity of life may be a fruitful path to well-being",
+    "url": "https://www.scientificamerican.com/article/negative-emotions-key-well-being/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 4:03:40 PM"
   },
   {
     "id": "12885235",
@@ -350,6 +374,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 4:01:00 AM"
   },
   {
+    "id": "12883206",
+    "timestamp": "Nov 6, 2016 5:30:18 PM",
+    "topic": "Robert Conquest’s muses",
+    "url": "http://www.the-tls.co.uk/articles/public/a-sensual-muse/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 3:54:34 AM"
+  },
+  {
     "id": "12883173",
     "timestamp": "Nov 6, 2016 7:59:27 AM",
     "topic": "The X3DH Key Agreement Protocol",
@@ -617,6 +649,14 @@ var newsArray = [
     "url": "http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/",
     "votes": 6,
     "posted": "Nov 5, 2016 8:49:47 PM"
+  },
+  {
+    "id": "12881448",
+    "timestamp": "Nov 6, 2016 5:00:15 PM",
+    "topic": "The Cinematic Traumas of Kenneth Lonergan",
+    "url": "http://www.newyorker.com/magazine/2016/11/07/the-cinematic-traumas-of-kenneth-lonergan",
+    "votes": 4,
+    "posted": "Nov 5, 2016 8:29:46 PM"
   },
   {
     "id": "12881447",
@@ -8020,109 +8060,5 @@ var newsArray = [
     "url": "http://m.indiatoday.in/story/world-fastest-cashier-woman-viral-video-truth-about-her/1/798849.html",
     "votes": 3,
     "posted": "Oct 30, 2016 5:58:35 PM"
-  },
-  {
-    "id": "12830766",
-    "timestamp": "Oct 30, 2016 5:53:58 PM",
-    "topic": "Iceland’s Prime Minister Resigns, After Pirate Party Makes Strong Gains",
-    "url": "http://www.nytimes.com/2016/10/31/world/europe/icelands-prime-minister-resigns-after-pirate-party-makes-strong-gains.html",
-    "votes": 3,
-    "posted": "Oct 30, 2016 5:50:05 PM"
-  },
-  {
-    "id": "12830763",
-    "timestamp": "Oct 30, 2016 6:14:01 PM",
-    "topic": "Show HN: Concurrently Logging HTTP Requests",
-    "url": "https://github.com/PabloSichert/concurrency-logger",
-    "votes": 3,
-    "posted": "Oct 30, 2016 5:49:58 PM"
-  },
-  {
-    "id": "12830761",
-    "timestamp": "Oct 30, 2016 6:04:00 PM",
-    "topic": "Elementary, my Dear Siri",
-    "url": "http://taoofmac.com/space/blog/2016/10/29/2240",
-    "votes": 4,
-    "posted": "Oct 30, 2016 5:49:13 PM"
-  },
-  {
-    "id": "12830746",
-    "timestamp": "Oct 30, 2016 6:03:59 PM",
-    "topic": "Show HN: Testing web applications, the easy way",
-    "url": "https://github.com/nenadg/traquer/",
-    "votes": 7,
-    "posted": "Oct 30, 2016 5:47:13 PM"
-  },
-  {
-    "id": "12830722",
-    "timestamp": "Oct 31, 2016 8:55:17 AM",
-    "topic": "Of Course Westworld’s Costumes Are 3D-Printed, Too",
-    "url": "http://www.racked.com/2016/10/27/13408436/westworld-costumes",
-    "votes": 4,
-    "posted": "Oct 30, 2016 5:42:28 PM"
-  },
-  {
-    "id": "12830719",
-    "timestamp": "Oct 30, 2016 6:34:03 PM",
-    "topic": "Functional Programs Are Imperative Pumpkins",
-    "url": "https://blog.eventsourcing.com/your-functional-programs-are-imperative-pumpkins-d722ec1358b7",
-    "votes": 5,
-    "posted": "Oct 30, 2016 5:42:12 PM"
-  },
-  {
-    "id": "12830685",
-    "timestamp": "Oct 30, 2016 10:34:27 PM",
-    "topic": "New MacBook Pro limited to 16GB of RAM, to save battery life",
-    "url": "http://www.theverge.com/2016/10/28/13460496/apple-macbook-pro-16gb-ram-battery-life-phil-schiller",
-    "votes": 5,
-    "posted": "Oct 30, 2016 5:37:06 PM"
-  },
-  {
-    "id": "12830650",
-    "timestamp": "Oct 30, 2016 5:43:58 PM",
-    "topic": "Why the Industrial Revolution Didn’t Happen in China",
-    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/10/28/why-the-industrial-revolution-didnt-happen-in-china/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 5:29:42 PM"
-  },
-  {
-    "id": "12830645",
-    "timestamp": "Oct 30, 2016 6:14:01 PM",
-    "topic": "Be angry with yourself, not Apple",
-    "url": "https://blog.germano.io/macbook/",
-    "votes": 12,
-    "posted": "Oct 30, 2016 5:29:03 PM"
-  },
-  {
-    "id": "12830592",
-    "timestamp": "Oct 30, 2016 5:23:56 PM",
-    "topic": "Apple Says Goodbye to the Startup Chime with the New MacBook Pro",
-    "url": "https://pingie.com/2016/10/28/apple-says-goodbye-to-the-startup-chime-with-the-new-macbook-pro/?q",
-    "votes": 4,
-    "posted": "Oct 30, 2016 5:20:04 PM"
-  },
-  {
-    "id": "12830585",
-    "timestamp": "Oct 30, 2016 5:53:58 PM",
-    "topic": "Iceland election: Pirate Party triples seats",
-    "url": "http://www.bbc.co.uk/news/world-europe-37813564",
-    "votes": 4,
-    "posted": "Oct 30, 2016 5:19:26 PM"
-  },
-  {
-    "id": "12830503",
-    "timestamp": "Oct 30, 2016 7:34:09 PM",
-    "topic": "The Mac Platform Decline",
-    "url": "https://milen.me/writings/mac-platform-decline/",
-    "votes": 4,
-    "posted": "Oct 30, 2016 5:03:13 PM"
-  },
-  {
-    "id": "12830458",
-    "timestamp": "Oct 30, 2016 6:14:01 PM",
-    "topic": "Show HN: Huge list of React.js projects",
-    "url": "https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114",
-    "votes": 6,
-    "posted": "Oct 30, 2016 4:56:32 PM"
   }
 ];
