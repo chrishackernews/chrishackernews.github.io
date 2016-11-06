@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 11:36:27 AM"
   },
   {
+    "id": "12884453",
+    "timestamp": "Nov 6, 2016 12:39:49 PM",
+    "topic": "Chevy starts manufacturing the Bolt",
+    "url": "https://www.engadget.com/2016/11/05/chevy-starts-manufacturing-bolt/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:29:15 AM"
+  },
+  {
     "id": "12884391",
     "timestamp": "Nov 6, 2016 11:29:44 AM",
     "topic": "Why you should avoid LastPass",
@@ -7966,37 +7974,5 @@ var newsArray = [
     "url": "https://medium.com/@saola/how-i-keep-track-of-my-to-dos-using-plain-text-68b09b026d8d#.6vfvf2kmx",
     "votes": 7,
     "posted": "Oct 30, 2016 1:26:05 PM"
-  },
-  {
-    "id": "12829271",
-    "timestamp": "Oct 30, 2016 1:53:37 PM",
-    "topic": "EA Games and Origin quietly bans an entire country",
-    "url": "https://www.reddit.com/r/gaming/comments/5a51e2/ea_games_and_origin_quietly_bans_an_entire/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 12:46:46 PM"
-  },
-  {
-    "id": "12829196",
-    "timestamp": "Oct 30, 2016 1:53:37 PM",
-    "topic": "Sun, surf and low rents: why Lisbon could be the next tech capital",
-    "url": "https://www.theguardian.com/world/2016/oct/29/lisbon-web-summit-sun-surf-cheap-rents-tech-capital",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:22:43 PM"
-  },
-  {
-    "id": "12829183",
-    "timestamp": "Oct 30, 2016 1:53:36 PM",
-    "topic": "Qualcomm’s NXP Deal Is $47B Wager on Computers You Drive",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-27/qualcomm-s-nxp-deal-is-47-billion-wager-on-computers-you-drive",
-    "votes": 3,
-    "posted": "Oct 30, 2016 12:18:19 PM"
-  },
-  {
-    "id": "12829178",
-    "timestamp": "Oct 30, 2016 1:53:36 PM",
-    "topic": "Python and Machine Learning in Astronomy [audio]",
-    "url": "https://talkpython.fm/episodes/show/81/python-and-machine-learning-in-astronomy",
-    "votes": 6,
-    "posted": "Oct 30, 2016 12:14:53 PM"
   }
 ];
