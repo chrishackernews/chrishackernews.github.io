@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12887079",
+    "timestamp": "Nov 6, 2016 10:40:52 PM",
+    "topic": "Getting started in open source as a non-programmer",
+    "url": "http://micheleincalifornia.blogspot.com/2016/11/getting-started-in-open-source-as-non.html",
+    "votes": 3,
+    "posted": "Nov 6, 2016 10:17:32 PM"
+  },
+  {
+    "id": "12887066",
+    "timestamp": "Nov 6, 2016 10:30:51 PM",
+    "topic": "Learn Vim Progressively",
+    "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 10:13:03 PM"
+  },
+  {
+    "id": "12887060",
+    "timestamp": "Nov 6, 2016 10:30:51 PM",
+    "topic": "Ask HN: Who are the other Elon Musk\u0027s?",
+    "votes": 7,
+    "posted": "Nov 6, 2016 10:11:57 PM"
+  },
+  {
+    "id": "12887022",
+    "timestamp": "Nov 6, 2016 10:20:49 PM",
+    "topic": "Design Principles for Reducing Cognitive Load",
+    "url": "https://blog.marvelapp.com/design-principles-reducing-cognitive-load/",
+    "votes": 4,
+    "posted": "Nov 6, 2016 10:04:33 PM"
+  },
+  {
+    "id": "12887007",
+    "timestamp": "Nov 6, 2016 10:20:49 PM",
+    "topic": "Time to Dump Time Zones",
+    "url": "http://www.nytimes.com/2016/11/06/opinion/sunday/time-to-dump-time-zones.html?_r\u003d0",
+    "votes": 7,
+    "posted": "Nov 6, 2016 10:01:22 PM"
+  },
+  {
     "id": "12886894",
     "timestamp": "Nov 6, 2016 9:50:46 PM",
     "topic": "On the road with the 13-inch MacBook Pro",
@@ -30,6 +69,14 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/what-i-learned-from-writing-six-functions-that-all-did-the-same-thing-b38fd48f0d55",
     "votes": 3,
     "posted": "Nov 6, 2016 8:34:18 PM"
+  },
+  {
+    "id": "12886590",
+    "timestamp": "Nov 6, 2016 10:10:48 PM",
+    "topic": "Slack is falling into a tough cycle every hot startup goes through",
+    "url": "http://www.businessinsider.com/slack-falling-into-tough-cycle-all-hot-startups-go-through-2016-11",
+    "votes": 8,
+    "posted": "Nov 6, 2016 8:22:26 PM"
   },
   {
     "id": "12886441",
@@ -228,6 +275,14 @@ var newsArray = [
     "url": "http://www.telegraph.co.uk/finance/businessclub/8527500/Daniel-H-Pink-employees-are-faster-and-more-creative-when-solving-other-peoples-problems.html",
     "votes": 8,
     "posted": "Nov 6, 2016 1:25:57 PM"
+  },
+  {
+    "id": "12884776",
+    "timestamp": "Nov 6, 2016 10:20:50 PM",
+    "topic": "Show HN: A Cheatsheet for funcy sequence, collections and functional stuff",
+    "url": "http://funcy.readthedocs.io/en/latest/cheatsheet.html",
+    "votes": 7,
+    "posted": "Nov 6, 2016 1:19:27 PM"
   },
   {
     "id": "12884762",
@@ -7981,45 +8036,5 @@ var newsArray = [
     "url": "https://github.com/GoogleChrome/lighthouse",
     "votes": 4,
     "posted": "Oct 30, 2016 10:59:49 PM"
-  },
-  {
-    "id": "12832512",
-    "timestamp": "Oct 30, 2016 10:54:28 PM",
-    "topic": "Foolish and Backward Nation (2012)",
-    "url": "http://www.theatlantic.com/international/archive/2012/09/foolish-and-backward-nation-a-self-effacing-chinese-satire-of-america/261946/?single_page\u003dtrue",
-    "votes": 3,
-    "posted": "Oct 30, 2016 10:42:14 PM"
-  },
-  {
-    "id": "12832510",
-    "timestamp": "Oct 30, 2016 11:14:30 PM",
-    "topic": "Price Optimisation Using Decision Tree (Regression Tree) – Machine Learning",
-    "url": "http://www.datasciencecentral.com/profiles/blogs/price-optimisation-using-decision-tree-regression-tree",
-    "votes": 3,
-    "posted": "Oct 30, 2016 10:41:53 PM"
-  },
-  {
-    "id": "12832509",
-    "timestamp": "Oct 31, 2016 1:54:44 AM",
-    "topic": "Pre-Socratics: A Painless Introduction",
-    "url": "http://lukemuehlhauser.com/pre-socratics-a-painless-introduction/",
-    "votes": 4,
-    "posted": "Oct 30, 2016 10:41:49 PM"
-  },
-  {
-    "id": "12832426",
-    "timestamp": "Oct 30, 2016 10:34:26 PM",
-    "topic": "Hyperloop Freight is a Joke",
-    "url": "https://pedestrianobservations.wordpress.com/2016/10/29/hyperloop-freight-is-a-joke/",
-    "votes": 5,
-    "posted": "Oct 30, 2016 10:23:58 PM"
-  },
-  {
-    "id": "12832382",
-    "timestamp": "Oct 31, 2016 1:54:44 AM",
-    "topic": "Silicon Valley’s corporate culture is ageist",
-    "url": "https://www.ft.com/content/244d22b4-9c47-11e6-a6e4-8b8e77dd083a",
-    "votes": 3,
-    "posted": "Oct 30, 2016 10:18:06 PM"
   }
 ];
