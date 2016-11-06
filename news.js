@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12885235",
+    "timestamp": "Nov 6, 2016 3:40:07 PM",
+    "topic": "Minnesota Taxes the Rich, Pays Workers More, And–Shocking–The Economy Improves",
+    "url": "https://www.fastcoexist.com/3065280/minnesota-taxes-the-rich-pays-workers-more-and-shocking-the-economy-improves",
+    "votes": 4,
+    "posted": "Nov 6, 2016 3:37:15 PM"
+  },
+  {
+    "id": "12885220",
+    "timestamp": "Nov 6, 2016 3:40:07 PM",
+    "topic": "Best Android Libraries for Developers",
+    "url": "https://cloudrail.com/best-android-libraries-for-developers/",
+    "votes": 6,
+    "posted": "Nov 6, 2016 3:31:57 PM"
+  },
+  {
+    "id": "12884928",
+    "timestamp": "Nov 6, 2016 3:20:05 PM",
+    "topic": "SpaceX finally knows what caused the latest rocket failure",
+    "url": "http://www.theverge.com/2016/11/5/13533900/elon-musk-spacex-falcon-9-failure-cause-solved",
+    "votes": 5,
+    "posted": "Nov 6, 2016 2:18:21 PM"
+  },
+  {
     "id": "12884859",
     "timestamp": "Nov 6, 2016 2:30:00 PM",
     "topic": "How Does the Electoral College Work and Is It Fair",
@@ -30,6 +54,13 @@ var newsArray = [
     "url": "https://github.com/aserg-ufmg/JSCity/wiki/JSCITY",
     "votes": 3,
     "posted": "Nov 6, 2016 12:52:20 PM"
+  },
+  {
+    "id": "12884532",
+    "timestamp": "Nov 6, 2016 3:40:07 PM",
+    "topic": "Ask HN: Should I open source PropertyWebBuilder?",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:54:06 AM"
   },
   {
     "id": "12884502",
@@ -359,6 +390,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 1:03:33 AM"
   },
   {
+    "id": "12882505",
+    "timestamp": "Nov 6, 2016 3:10:04 PM",
+    "topic": "Anti-Piracy Group Uses ‘Pirated’ Code on Its Website",
+    "url": "https://torrentfreak.com/anti-piracy-group-uses-pirated-code-on-its-website-161105/",
+    "votes": 4,
+    "posted": "Nov 6, 2016 12:33:47 AM"
+  },
+  {
     "id": "12882472",
     "timestamp": "Nov 6, 2016 12:28:51 AM",
     "topic": "Mattermark Is Hiring a Principal Product Designer",
@@ -563,6 +602,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/05/us/chelsea-manning-tried-committing-suicide-a-second-time-in-october.html",
     "votes": 10,
     "posted": "Nov 5, 2016 7:28:14 PM"
+  },
+  {
+    "id": "12880979",
+    "timestamp": "Nov 6, 2016 3:20:05 PM",
+    "topic": "22 years in, Magic: The Gathering is the brainiest it’s ever been (2015)",
+    "url": "http://www.avclub.com/article/22-years-magic-gathering-brainiest-its-ever-been-224197",
+    "votes": 3,
+    "posted": "Nov 5, 2016 7:05:45 PM"
   },
   {
     "id": "12880931",
@@ -841,6 +888,14 @@ var newsArray = [
     "url": "https://steveblank.com/2014/09/25/watching-larry-ellison-become-larry-ellison-the-dna-of-a-winner/",
     "votes": 7,
     "posted": "Nov 5, 2016 1:11:58 PM"
+  },
+  {
+    "id": "12879398",
+    "timestamp": "Nov 6, 2016 3:50:08 PM",
+    "topic": "The Pac-Man Dossier",
+    "url": "http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print\u003d1",
+    "votes": 4,
+    "posted": "Nov 5, 2016 1:05:49 PM"
   },
   {
     "id": "12879232",
@@ -7998,45 +8053,5 @@ var newsArray = [
     "url": "https://www.facebook.com/notes/daniel-colascione/buttery-smooth-emacs/10155313440066102/",
     "votes": 3,
     "posted": "Oct 30, 2016 4:12:24 PM"
-  },
-  {
-    "id": "12829997",
-    "timestamp": "Oct 30, 2016 4:23:51 PM",
-    "topic": "Veertu Leaves Mac App Store, Open Sourced",
-    "url": "https://veertu.com/usb-bridged-networking-support/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 3:34:33 PM"
-  },
-  {
-    "id": "12829799",
-    "timestamp": "Oct 30, 2016 3:13:45 PM",
-    "topic": "Master LATEX in minutes",
-    "url": "https://github.com/VoLuong/Master-Latex-in-minutes",
-    "votes": 9,
-    "posted": "Oct 30, 2016 2:56:24 PM"
-  },
-  {
-    "id": "12829797",
-    "timestamp": "Oct 30, 2016 3:13:45 PM",
-    "topic": "Gaming’s rarest systems and games can be found at this huge museum in Texas",
-    "url": "http://arstechnica.com/gaming/2016/10/americas-largest-gaming-museum-rare-games-crazy-prototypes-and-giant-pong/",
-    "votes": 4,
-    "posted": "Oct 30, 2016 2:55:55 PM"
-  },
-  {
-    "id": "12829792",
-    "timestamp": "Oct 30, 2016 3:13:45 PM",
-    "topic": "PM2.5 exposure possibly leads to 1.37M people’s premature death in China",
-    "url": "http://english.pku.edu.cn/news_events/news/research/5076.htm",
-    "votes": 4,
-    "posted": "Oct 30, 2016 2:54:52 PM"
-  },
-  {
-    "id": "12829781",
-    "timestamp": "Oct 30, 2016 3:13:45 PM",
-    "topic": "How liars create the ‘illusion of truth’",
-    "url": "http://www.bbc.com/future/story/20161026-how-liars-create-the-illusion-of-truth",
-    "votes": 9,
-    "posted": "Oct 30, 2016 2:52:02 PM"
   }
 ];
