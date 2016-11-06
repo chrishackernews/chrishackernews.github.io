@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12883872",
+    "timestamp": "Nov 6, 2016 8:19:29 AM",
+    "topic": "Tensions Flare in Silicon Valley Over Growth",
+    "url": "http://www.nytimes.com/2016/11/05/technology/silicon-valley-california-growth.html",
+    "votes": 4,
+    "posted": "Nov 6, 2016 7:36:53 AM"
+  },
+  {
+    "id": "12883805",
+    "timestamp": "Nov 6, 2016 8:29:30 AM",
+    "topic": "Nightmare Machine by MIT Media Lab",
+    "url": "http://nightmare.mit.edu/#.WB7JfwRXkFc.hackernews",
+    "votes": 4,
+    "posted": "Nov 6, 2016 7:11:21 AM"
+  },
+  {
     "id": "12883645",
     "timestamp": "Nov 6, 2016 7:59:27 AM",
     "topic": "Daiwa to adopt blockchain for Myanmar stock trading",
@@ -117,6 +133,14 @@ var newsArray = [
     "topic": "Ask HN: Overwhelmed with learning front-end, how do I proceed?",
     "votes": 6,
     "posted": "Nov 6, 2016 1:52:02 AM"
+  },
+  {
+    "id": "12882790",
+    "timestamp": "Nov 6, 2016 8:09:28 AM",
+    "topic": "I2P: The Invisible Internet Project",
+    "url": "https://geti2p.net/en/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 1:46:55 AM"
   },
   {
     "id": "12882697",
@@ -291,6 +315,14 @@ var newsArray = [
     "url": "http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/",
     "votes": 6,
     "posted": "Nov 5, 2016 8:49:47 PM"
+  },
+  {
+    "id": "12881447",
+    "timestamp": "Nov 6, 2016 8:59:32 AM",
+    "topic": "The NES Classic Edition Is Everything You Want It to Be",
+    "url": "http://gizmodo.com/the-nes-classic-edition-is-everything-you-want-it-to-be-1788571481?utm_campaign\u003dsocialflow_gizmodo_twitter\u0026utm_source\u003dgizmodo_twitter\u0026utm_medium\u003dsocialflow",
+    "votes": 3,
+    "posted": "Nov 5, 2016 8:29:40 PM"
   },
   {
     "id": "12881432",
@@ -7957,13 +7989,5 @@ var newsArray = [
     "url": "https://www.tonymacx86.com/buyersguide/october/2016",
     "votes": 4,
     "posted": "Oct 30, 2016 9:26:05 AM"
-  },
-  {
-    "id": "12828565",
-    "timestamp": "Oct 30, 2016 10:53:23 AM",
-    "topic": "giteveryday(7)",
-    "url": "https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html",
-    "votes": 4,
-    "posted": "Oct 30, 2016 8:13:26 AM"
   }
 ];
