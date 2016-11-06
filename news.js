@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12884477",
+    "timestamp": "Nov 6, 2016 11:49:45 AM",
+    "topic": "Elon Musk thinks universal income is answer to automation taking human jobs",
+    "url": "http://mashable.com/2016/11/05/elon-musk-universal-basic-income/?utm_cid\u003dmash-com-fb-main-link#VfVfptagSmqG",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:36:27 AM"
+  },
+  {
+    "id": "12884391",
+    "timestamp": "Nov 6, 2016 11:29:44 AM",
+    "topic": "Why you should avoid LastPass",
+    "url": "https://medium.com/@gempir/why-you-should-avoid-lastpass-f698761421b8#.xy3akp31p",
+    "votes": 6,
+    "posted": "Nov 6, 2016 11:12:24 AM"
+  },
+  {
     "id": "12884144",
     "timestamp": "Nov 6, 2016 10:39:40 AM",
     "topic": "Berlin Is Bringing Back Subway Trains from the 1950s",
@@ -7982,13 +7998,5 @@ var newsArray = [
     "url": "https://talkpython.fm/episodes/show/81/python-and-machine-learning-in-astronomy",
     "votes": 6,
     "posted": "Oct 30, 2016 12:14:53 PM"
-  },
-  {
-    "id": "12828963",
-    "timestamp": "Oct 30, 2016 11:23:25 AM",
-    "topic": "Gender Equality Is Making Men Feel Discriminated Against [video]",
-    "url": "https://hbr.org/video/5187346357001/gender-equality-is-making-men-feel-discriminated-against",
-    "votes": 3,
-    "posted": "Oct 30, 2016 11:05:01 AM"
   }
 ];
