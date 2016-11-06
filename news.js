@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12885549",
+    "timestamp": "Nov 6, 2016 4:50:14 PM",
+    "topic": "FindBugs project in its current form  is dead",
+    "url": "https://mailman.cs.umd.edu/pipermail/findbugs-discuss/2016-November/004321.html",
+    "votes": 3,
+    "posted": "Nov 6, 2016 4:45:08 PM"
+  },
+  {
+    "id": "12885416",
+    "timestamp": "Nov 6, 2016 4:30:12 PM",
+    "topic": "U.S. regulator found another cheat device in Audi car",
+    "url": "http://www.reuters.com/article/us-volkswagen-emissions-audi-idUSKBN1300V7",
+    "votes": 23,
+    "posted": "Nov 6, 2016 4:17:24 PM"
+  },
+  {
+    "id": "12885396",
+    "timestamp": "Nov 6, 2016 4:30:12 PM",
+    "topic": "Maryland will audit all votes cast in general election",
+    "url": "http://www.baltimoresun.com/news/maryland/politics/bs-md-sun-investigates-election-audit-20161105-story.html",
+    "votes": 3,
+    "posted": "Nov 6, 2016 4:11:51 PM"
+  },
+  {
+    "id": "12885393",
+    "timestamp": "Nov 6, 2016 4:30:12 PM",
+    "topic": "Retrotechtacular: FAX as a Service in 1984",
+    "url": "http://hackaday.com/2016/11/04/retrotechtacular-fax-as-a-service-in-1984/",
+    "votes": 5,
+    "posted": "Nov 6, 2016 4:11:37 PM"
+  },
+  {
+    "id": "12885369",
+    "timestamp": "Nov 6, 2016 4:10:09 PM",
+    "topic": "GiveCampus is hiring full stack engineers and biz dev roles in DC and SF",
+    "votes": 1,
+    "posted": "Nov 6, 2016 4:07:15 PM"
+  },
+  {
     "id": "12885235",
     "timestamp": "Nov 6, 2016 3:40:07 PM",
     "topic": "Minnesota Taxes the Rich, Pays Workers More, And–Shocking–The Economy Improves",
@@ -48,6 +87,30 @@ var newsArray = [
     "posted": "Nov 6, 2016 1:25:57 PM"
   },
   {
+    "id": "12884762",
+    "timestamp": "Nov 6, 2016 4:20:10 PM",
+    "topic": "Nvidia  adds telemetry to latest drivers",
+    "url": "http://www.majorgeeks.com/news/story/nvidia_adds_telemetry_to_latest_drivers_heres_how_to_disable_it.html",
+    "votes": 10,
+    "posted": "Nov 6, 2016 1:15:53 PM"
+  },
+  {
+    "id": "12884756",
+    "timestamp": "Nov 6, 2016 4:20:11 PM",
+    "topic": "LinkedIn SEC filing tells exactly how its acqusition was negotiated",
+    "url": "https://www.sec.gov/Archives/edgar/data/1271024/000110465916130837/a16-14187_1prem14a.htm#BackgroundoftheMerger_090652",
+    "votes": 5,
+    "posted": "Nov 6, 2016 1:13:47 PM"
+  },
+  {
+    "id": "12884737",
+    "timestamp": "Nov 6, 2016 4:20:11 PM",
+    "topic": "China’s ‘citizen scores’ gets people barred from flights – like Black Mirror",
+    "url": "https://www.techinasia.com/china-citizens-scores-barred-from-flights",
+    "votes": 4,
+    "posted": "Nov 6, 2016 1:07:24 PM"
+  },
+  {
     "id": "12884694",
     "timestamp": "Nov 6, 2016 2:30:00 PM",
     "topic": "JSCity: source code visualization for (and by) JavaScript",
@@ -56,11 +119,27 @@ var newsArray = [
     "posted": "Nov 6, 2016 12:52:20 PM"
   },
   {
+    "id": "12884633",
+    "timestamp": "Nov 6, 2016 4:20:11 PM",
+    "topic": "Whatsapp extremely popular among diplomats",
+    "url": "https://www.theguardian.com/technology/2016/nov/04/why-do-diplomats-use-this-alien-whatsapp-emoji-for-vladimir-putin",
+    "votes": 5,
+    "posted": "Nov 6, 2016 12:32:22 PM"
+  },
+  {
     "id": "12884532",
     "timestamp": "Nov 6, 2016 3:40:07 PM",
     "topic": "Ask HN: Should I open source PropertyWebBuilder?",
     "votes": 3,
     "posted": "Nov 6, 2016 11:54:06 AM"
+  },
+  {
+    "id": "12884526",
+    "timestamp": "Nov 6, 2016 4:20:11 PM",
+    "topic": "Alex, Tibet and Didier quit their jobs to cross South America on dirt bikes",
+    "url": "https://medium.com/the-long-way-out",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:52:33 AM"
   },
   {
     "id": "12884502",
@@ -77,6 +156,14 @@ var newsArray = [
     "url": "http://mashable.com/2016/11/05/elon-musk-universal-basic-income/?utm_cid\u003dmash-com-fb-main-link#VfVfptagSmqG",
     "votes": 3,
     "posted": "Nov 6, 2016 11:36:27 AM"
+  },
+  {
+    "id": "12884467",
+    "timestamp": "Nov 6, 2016 4:30:13 PM",
+    "topic": "Reinforcement Learning Designed NNs Equal Human Performance",
+    "url": "http://openreview.net/forum?id\u003dr1Ue8Hcxg",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:34:26 AM"
   },
   {
     "id": "12884453",
@@ -896,6 +983,14 @@ var newsArray = [
     "url": "http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print\u003d1",
     "votes": 4,
     "posted": "Nov 5, 2016 1:05:49 PM"
+  },
+  {
+    "id": "12879330",
+    "timestamp": "Nov 6, 2016 4:20:10 PM",
+    "topic": "Newborn sleep patterns a survival guide for the science-minded parent",
+    "url": "http://www.parentingscience.com/newborn-sleep.html",
+    "votes": 3,
+    "posted": "Nov 5, 2016 12:47:31 PM"
   },
   {
     "id": "12879232",
@@ -8029,29 +8124,5 @@ var newsArray = [
     "url": "https://gist.github.com/sAbakumoff/7b8510adcb16bded189d747e34f5e114",
     "votes": 6,
     "posted": "Oct 30, 2016 4:56:32 PM"
-  },
-  {
-    "id": "12830307",
-    "timestamp": "Oct 30, 2016 4:43:52 PM",
-    "topic": "Sonder E-Ink Keyboard",
-    "url": "https://sonderdesign.com/",
-    "votes": 6,
-    "posted": "Oct 30, 2016 4:30:10 PM"
-  },
-  {
-    "id": "12830233",
-    "timestamp": "Oct 30, 2016 4:53:53 PM",
-    "topic": "Barcelona Supercomputing Center",
-    "url": "http://www.atlasobscura.com/places/barcelona-supercomputing-center",
-    "votes": 3,
-    "posted": "Oct 30, 2016 4:16:51 PM"
-  },
-  {
-    "id": "12830206",
-    "timestamp": "Oct 30, 2016 4:33:52 PM",
-    "topic": "Buttery Smooth Emacs",
-    "url": "https://www.facebook.com/notes/daniel-colascione/buttery-smooth-emacs/10155313440066102/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 4:12:24 PM"
   }
 ];
