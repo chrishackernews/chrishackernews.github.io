@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12883616",
+    "timestamp": "Nov 6, 2016 6:39:20 AM",
+    "topic": "New NASA Emdrive paper shows force of 1.2 millinewtons per kilowatt in a Vacuum",
+    "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
+    "votes": 8,
+    "posted": "Nov 6, 2016 6:02:45 AM"
+  },
+  {
+    "id": "12883481",
+    "timestamp": "Nov 6, 2016 6:39:20 AM",
+    "topic": "Eben Moglen on GPL Compliance and Building Communities: What Works",
+    "url": "https://www.linux.com/news/eben-moglen-gpl-compliance-and-building-communities-what-works",
+    "votes": 4,
+    "posted": "Nov 6, 2016 5:17:01 AM"
+  },
+  {
     "id": "12883368",
     "timestamp": "Nov 6, 2016 5:19:14 AM",
     "topic": "There’s Big Money to Be Made in Asteroid Mining",
@@ -7941,37 +7957,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003do8NPllzkFhE",
     "votes": 3,
     "posted": "Oct 30, 2016 7:00:40 AM"
-  },
-  {
-    "id": "12828375",
-    "timestamp": "Oct 30, 2016 9:33:17 AM",
-    "topic": "The Feds Won’t Buy This $19M Stealth Boat–or Let It Be Sold Abroad",
-    "url": "http://www.bloomberg.com/news/articles/2016-10-19/the-feds-won-t-buy-this-19-million-stealth-boat-or-let-it-be-sold-abroad?utm_content\u003dbusiness\u0026cmpid\u003dsocialflow-twitter-business\u0026utm_campaign\u003dsocialflow-organic\u0026utm_source\u003dtwitter\u0026utm_medium\u003dsocial",
-    "votes": 4,
-    "posted": "Oct 30, 2016 6:57:44 AM"
-  },
-  {
-    "id": "12828360",
-    "timestamp": "Oct 30, 2016 2:33:41 PM",
-    "topic": "What does the post-MacOS future look like?",
-    "url": "https://www.tbray.org/ongoing/When/201x/2016/10/29/Post-Mac",
-    "votes": 3,
-    "posted": "Oct 30, 2016 6:54:19 AM"
-  },
-  {
-    "id": "12828255",
-    "timestamp": "Oct 30, 2016 1:03:32 PM",
-    "topic": "Show HN: MFile.io",
-    "url": "https://mfile.io/76Zn0q",
-    "votes": 6,
-    "posted": "Oct 30, 2016 6:03:34 AM"
-  },
-  {
-    "id": "12828249",
-    "timestamp": "Oct 31, 2016 1:44:43 AM",
-    "topic": "Mr. Money Mustache Donated His First $100,000 and Plans to Give Away More",
-    "url": "http://www.mrmoneymustache.com/2016/10/26/notes-on-giving-away-100000/",
-    "votes": 6,
-    "posted": "Oct 30, 2016 6:01:26 AM"
   }
 ];
