@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12883231",
+    "timestamp": "Nov 6, 2016 4:39:11 AM",
+    "topic": "Fighting Loneliness with Public Living Rooms",
+    "url": "http://www.citylab.com/navigator/2016/11/fighting-loneliness-with-public-living-rooms/506360/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 4:01:00 AM"
+  },
+  {
     "id": "12883084",
     "timestamp": "Nov 6, 2016 3:59:08 AM",
     "topic": "Tower – The most powerful Git client for Mac and Windows",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "https://github.com/avatsaev/touchbar_nyancat",
     "votes": 4,
     "posted": "Nov 6, 2016 3:02:41 AM"
+  },
+  {
+    "id": "12882957",
+    "timestamp": "Nov 6, 2016 4:29:10 AM",
+    "topic": "What programming language should you learn first? (Answer: JavaScript)",
+    "url": "https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.wd4cjsynu",
+    "votes": 3,
+    "posted": "Nov 6, 2016 2:34:34 AM"
   },
   {
     "id": "12882847",
@@ -95,6 +111,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 12:25:07 AM"
   },
   {
+    "id": "12882434",
+    "timestamp": "Nov 6, 2016 4:59:13 AM",
+    "topic": "Creating linked open data for 5000 works of art",
+    "url": "https://blog.wikimedia.org/2016/11/05/wikidata-visiting-scholar-art-dataset/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 12:14:34 AM"
+  },
+  {
     "id": "12882349",
     "timestamp": "Nov 6, 2016 12:38:52 AM",
     "topic": "Ask HN: You\u0027ve got one month, what\u0027s your challenge?",
@@ -124,6 +148,14 @@ var newsArray = [
     "url": "https://medium.com/@tunesmith/the-principles-behind-voting-systems-65ee7d85f93#.164j5sh0n",
     "votes": 3,
     "posted": "Nov 5, 2016 10:51:35 PM"
+  },
+  {
+    "id": "12882084",
+    "timestamp": "Nov 6, 2016 4:49:12 AM",
+    "topic": "Decrypt all authorization tokens on macOS without user authentication",
+    "url": "https://github.com/manwhoami/MMeTokenDecrypt",
+    "votes": 6,
+    "posted": "Nov 5, 2016 10:49:33 PM"
   },
   {
     "id": "12882062",
@@ -7910,53 +7942,5 @@ var newsArray = [
     "url": "http://www.mrmoneymustache.com/2016/10/26/notes-on-giving-away-100000/",
     "votes": 6,
     "posted": "Oct 30, 2016 6:01:26 AM"
-  },
-  {
-    "id": "12828073",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "Dagger: decompilation framework based on LLVM",
-    "url": "http://dagger.repzret.org/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 4:54:34 AM"
-  },
-  {
-    "id": "12828070",
-    "timestamp": "Oct 30, 2016 7:53:09 AM",
-    "topic": "Silicon Valley Is Coming for Your Lunch",
-    "url": "https://theringer.com/silicon-valley-is-coming-for-your-lunch-d08a2650e5d6#.652auqzdo",
-    "votes": 3,
-    "posted": "Oct 30, 2016 4:53:14 AM"
-  },
-  {
-    "id": "12828003",
-    "timestamp": "Oct 30, 2016 5:12:57 AM",
-    "topic": "Is Vue.js easier for a beginner to learn than jQuery?",
-    "url": "https://medium.com/js-dojo/vue-js-is-easier-to-learn-than-jquery-abbbb9c12cf8#.9cwt60spf",
-    "votes": 4,
-    "posted": "Oct 30, 2016 4:25:02 AM"
-  },
-  {
-    "id": "12828001",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "Tesla Unveils Its New Line of Camouflaged Solar Panels",
-    "url": "https://www.wired.com/2016/10/tesla-unveils-new-line-camouflaged-solar-panels/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 4:24:39 AM"
-  },
-  {
-    "id": "12827946",
-    "timestamp": "Oct 30, 2016 5:53:00 AM",
-    "topic": "Steve Jobs on sales/marketing vs. product/engineering driven companies",
-    "url": "https://twitter.com/ow/status/792284416286523392",
-    "votes": 5,
-    "posted": "Oct 30, 2016 4:11:32 AM"
-  },
-  {
-    "id": "12827911",
-    "timestamp": "Oct 30, 2016 6:23:02 AM",
-    "topic": "My Mechanical Keyboard",
-    "url": "http://joeposnanski.com/my-mechanical-keyboard/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 4:00:33 AM"
   }
 ];
