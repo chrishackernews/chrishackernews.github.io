@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12886894",
+    "timestamp": "Nov 6, 2016 9:50:46 PM",
+    "topic": "On the road with the 13-inch MacBook Pro",
+    "url": "https://sixcolors.com/post/2016/11/review-traveling-with-the-13-inch-macbook-pro/",
+    "votes": 6,
+    "posted": "Nov 6, 2016 9:29:59 PM"
+  },
+  {
+    "id": "12886820",
+    "timestamp": "Nov 6, 2016 9:40:45 PM",
+    "topic": "Windows 10 Store Refunds ‘Call of Duty’ Player Because Nobody\u0027s Playing It",
+    "url": "http://motherboard.vice.com/read/windows-10-store-refunds-call-of-duty-player-because-nobodys-playing-it",
+    "votes": 4,
+    "posted": "Nov 6, 2016 9:13:25 PM"
+  },
+  {
+    "id": "12886672",
+    "timestamp": "Nov 6, 2016 9:30:43 PM",
+    "topic": "Delhi’s air is so toxic that schools are closing, expats are fleeing",
+    "url": "http://qz.com/828754/india-pollution-schools-shut-down-expats-flee-and-the-visiting-uk-pm-theresa-may-risks-losing-hours-from-her-life-as-delhi-chokes/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 8:38:35 PM"
+  },
+  {
+    "id": "12886648",
+    "timestamp": "Nov 6, 2016 9:30:44 PM",
+    "topic": "What I learned from writing six functions that all did the same thing",
+    "url": "https://medium.freecodecamp.com/what-i-learned-from-writing-six-functions-that-all-did-the-same-thing-b38fd48f0d55",
+    "votes": 3,
+    "posted": "Nov 6, 2016 8:34:18 PM"
+  },
+  {
+    "id": "12886441",
+    "timestamp": "Nov 6, 2016 9:10:41 PM",
+    "topic": "Ask HN: Any tips on debugging Linux hibernate issues?",
+    "votes": 3,
+    "posted": "Nov 6, 2016 7:48:30 PM"
+  },
+  {
     "id": "12886178",
     "timestamp": "Nov 6, 2016 7:10:28 PM",
     "topic": "Google\u0027s investment arm has quietly invested in Snapchat",
@@ -7982,36 +8021,5 @@ var newsArray = [
     "url": "https://www.ft.com/content/244d22b4-9c47-11e6-a6e4-8b8e77dd083a",
     "votes": 3,
     "posted": "Oct 30, 2016 10:18:06 PM"
-  },
-  {
-    "id": "12832085",
-    "timestamp": "Oct 30, 2016 9:44:22 PM",
-    "topic": "San Francisco: Office space data says tech bubble is not popping",
-    "url": "http://venturebeat.com/2016/10/30/dear-san-francisco-office-space-data-says-your-tech-bubble-is-not-popping-and-probably-never-will/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 9:33:53 PM"
-  },
-  {
-    "id": "12832027",
-    "timestamp": "Oct 30, 2016 9:44:21 PM",
-    "topic": "Ask HN: At 91, My Grandfather\u0027s Only Regret Is Never Skateboarding. Best VR Rig?",
-    "votes": 9,
-    "posted": "Oct 30, 2016 9:23:47 PM"
-  },
-  {
-    "id": "12831992",
-    "timestamp": "Oct 30, 2016 11:44:32 PM",
-    "topic": "Apple Says It\u0027s Out of the Standalone Display Business",
-    "url": "http://www.macrumors.com/2016/10/28/apple-out-of-display-business/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 9:17:01 PM"
-  },
-  {
-    "id": "12831867",
-    "timestamp": "Oct 30, 2016 9:44:22 PM",
-    "topic": "Anti-Intellectualism and the “Dumbing Down” of America",
-    "url": "https://www.psychologytoday.com/blog/wired-success/201407/anti-intellectualism-and-the-dumbing-down-america",
-    "votes": 5,
-    "posted": "Oct 30, 2016 8:52:51 PM"
   }
 ];
