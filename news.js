@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12884144",
+    "timestamp": "Nov 6, 2016 10:39:40 AM",
+    "topic": "Berlin Is Bringing Back Subway Trains from the 1950s",
+    "url": "http://www.citylab.com/commute/2016/11/the-berlin-subway-is-bringing-back-1950s-trains/506450/?utm_source\u003dSFFB",
+    "votes": 6,
+    "posted": "Nov 6, 2016 9:23:20 AM"
+  },
+  {
+    "id": "12884141",
+    "timestamp": "Nov 6, 2016 10:29:39 AM",
+    "topic": "Elon Musk thinks we need a \u0027popular uprising\u0027 against the fossil fuel industry",
+    "url": "http://uk.businessinsider.com/elon-musk-popular-uprising-climate-change-fossil-fuels-2016-11?r\u003dUS\u0026IR\u003dT",
+    "votes": 7,
+    "posted": "Nov 6, 2016 9:22:16 AM"
+  },
+  {
+    "id": "12884055",
+    "timestamp": "Nov 6, 2016 10:29:39 AM",
+    "topic": "In scathing ruling, Federal Court says CSIS bulk data collection illegal",
+    "url": "http://www.theglobeandmail.com/news/national/in-scathing-ruling-federal-court-says-csis-bulk-data-collection-illegal/article32669448/",
+    "votes": 6,
+    "posted": "Nov 6, 2016 8:49:24 AM"
+  },
+  {
+    "id": "12884030",
+    "timestamp": "Nov 6, 2016 10:29:39 AM",
+    "topic": "Reservoirs are contributing 1.5% of global greenhouse gas emissions",
+    "url": "http://reflectionsonwater.org/blog/2016/10/7/damwho-knew",
+    "votes": 3,
+    "posted": "Nov 6, 2016 8:39:51 AM"
+  },
+  {
     "id": "12883872",
     "timestamp": "Nov 6, 2016 8:19:29 AM",
     "topic": "Tensions Flare in Silicon Valley Over Growth",
@@ -7958,20 +7990,5 @@ var newsArray = [
     "url": "https://hbr.org/video/5187346357001/gender-equality-is-making-men-feel-discriminated-against",
     "votes": 3,
     "posted": "Oct 30, 2016 11:05:01 AM"
-  },
-  {
-    "id": "12828904",
-    "timestamp": "Oct 30, 2016 1:53:36 PM",
-    "topic": "AtomicBombing – brand new code injection form windows",
-    "url": "https://breakingmalware.com/injection-techniques/atombombing-brand-new-code-injection-for-windows/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 10:45:40 AM"
-  },
-  {
-    "id": "12828887",
-    "timestamp": "Oct 30, 2016 11:13:24 AM",
-    "topic": "Ask HN: Why are SIM cards still a thing?",
-    "votes": 15,
-    "posted": "Oct 30, 2016 10:40:16 AM"
   }
 ];
