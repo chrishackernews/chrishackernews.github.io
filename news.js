@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12886178",
+    "timestamp": "Nov 6, 2016 7:10:28 PM",
+    "topic": "Google\u0027s investment arm has quietly invested in Snapchat",
+    "url": "http://www.businessinsider.com/alphabet-google-capitalg-invested-in-snapchat-snap-inc-2016-11",
+    "votes": 3,
+    "posted": "Nov 6, 2016 6:48:11 PM"
+  },
+  {
+    "id": "12886067",
+    "timestamp": "Nov 6, 2016 7:20:30 PM",
+    "topic": ":syntax off",
+    "url": "http://dudzik.co/digress-into-development/syntax-off",
+    "votes": 14,
+    "posted": "Nov 6, 2016 6:22:33 PM"
+  },
+  {
     "id": "12885980",
     "timestamp": "Nov 6, 2016 6:40:25 PM",
     "topic": "Intercooler.js – Making AJAX as easy as anchor tags",
@@ -24,6 +40,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 5:38:49 PM"
   },
   {
+    "id": "12885739",
+    "timestamp": "Nov 6, 2016 7:40:32 PM",
+    "topic": "Gmail Account Hijacking Vulnerability",
+    "url": "http://blog.securityfuse.com/2016/11/gmail-account-hijacking-vulnerability.html",
+    "votes": 5,
+    "posted": "Nov 6, 2016 5:19:54 PM"
+  },
+  {
     "id": "12885686",
     "timestamp": "Nov 6, 2016 5:40:19 PM",
     "topic": "Elon Musk: Robots will take your jobs, government will have to pay your wage?",
@@ -32,12 +56,28 @@ var newsArray = [
     "posted": "Nov 6, 2016 5:11:00 PM"
   },
   {
+    "id": "12885594",
+    "timestamp": "Nov 6, 2016 7:00:27 PM",
+    "topic": "Imagine there is no media bias",
+    "url": "http://www.powerlineblog.com/archives/2016/11/imagine-theres-no-media-bias-2.php",
+    "votes": 3,
+    "posted": "Nov 6, 2016 4:55:13 PM"
+  },
+  {
     "id": "12885549",
     "timestamp": "Nov 6, 2016 4:50:14 PM",
     "topic": "FindBugs project in its current form  is dead",
     "url": "https://mailman.cs.umd.edu/pipermail/findbugs-discuss/2016-November/004321.html",
     "votes": 3,
     "posted": "Nov 6, 2016 4:45:08 PM"
+  },
+  {
+    "id": "12885500",
+    "timestamp": "Nov 6, 2016 7:30:31 PM",
+    "topic": "Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages",
+    "url": "http://muratbuffalo.blogspot.com/2016/11/why-does-cloud-stop-computing-lessons.html",
+    "votes": 7,
+    "posted": "Nov 6, 2016 4:34:35 PM"
   },
   {
     "id": "12885435",
@@ -348,6 +388,14 @@ var newsArray = [
     "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
     "votes": 8,
     "posted": "Nov 6, 2016 6:02:45 AM"
+  },
+  {
+    "id": "12883534",
+    "timestamp": "Nov 6, 2016 7:00:27 PM",
+    "topic": "When Science Went Modern",
+    "url": "http://www.iasc-culture.org/THR/THR_article_2016_Fall_Daston.php",
+    "votes": 3,
+    "posted": "Nov 6, 2016 5:38:11 AM"
   },
   {
     "id": "12883513",
@@ -7972,77 +8020,5 @@ var newsArray = [
     "url": "https://petersphilo.org/2016/10/29/open-letter-to-tim-cook/",
     "votes": 3,
     "posted": "Oct 30, 2016 7:55:41 PM"
-  },
-  {
-    "id": "12831519",
-    "timestamp": "Oct 30, 2016 8:34:15 PM",
-    "topic": "PYNQ: Python Productivity for Zynq",
-    "url": "http://www.pynq.io/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:50:27 PM"
-  },
-  {
-    "id": "12831508",
-    "timestamp": "Oct 31, 2016 10:45:26 AM",
-    "topic": "Payback? Russia Gets Hacked, Revealing Putin Aide\u0027s Secrets",
-    "url": "https://yro.slashdot.org/story/16/10/29/0025244/payback-russia-gets-hacked-revealing-putin-aides-secrets",
-    "votes": 7,
-    "posted": "Oct 30, 2016 7:48:44 PM"
-  },
-  {
-    "id": "12831452",
-    "timestamp": "Oct 30, 2016 9:24:19 PM",
-    "topic": "What are we getting very wrong about programming languages?",
-    "url": "http://danghica.blogspot.com/2016/09/what-else-are-we-getting-wrong.html",
-    "votes": 4,
-    "posted": "Oct 30, 2016 7:39:15 PM"
-  },
-  {
-    "id": "12831430",
-    "timestamp": "Oct 30, 2016 8:14:13 PM",
-    "topic": "No more ransom",
-    "url": "https://www.nomoreransom.org/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:34:35 PM"
-  },
-  {
-    "id": "12831393",
-    "timestamp": "Oct 30, 2016 8:04:12 PM",
-    "topic": "Finnish startup has a solution to provide internet anywhere",
-    "url": "http://nordic.businessinsider.com/this-finnish-startup-has-a-solution-to-internet-get-anywhere-and-just-raised-more-than-$10-million-in-series-a-funding-2016-10",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:29:17 PM"
-  },
-  {
-    "id": "12831375",
-    "timestamp": "Oct 30, 2016 7:44:10 PM",
-    "topic": "What to do and eat in Tokyo, Japan",
-    "url": "https://www.youcouldtravel.com/travel-blog/the-best-50-things-to-do-in-tokyo",
-    "votes": 7,
-    "posted": "Oct 30, 2016 7:27:15 PM"
-  },
-  {
-    "id": "12831322",
-    "timestamp": "Oct 30, 2016 8:04:12 PM",
-    "topic": "Jeff Bezos proposes putting space colonists inside O\u0027Neill cylinders",
-    "url": "http://www.geekwire.com/2016/jeff-bezos-space-colonies-oneill/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:20:08 PM"
-  },
-  {
-    "id": "12831273",
-    "timestamp": "Oct 30, 2016 8:04:12 PM",
-    "topic": "Fusuma: Multitouch gestures with libinput dirver on X11, Linux",
-    "url": "https://github.com/iberianpig/fusuma",
-    "votes": 6,
-    "posted": "Oct 30, 2016 7:13:22 PM"
-  },
-  {
-    "id": "12831228",
-    "timestamp": "Oct 30, 2016 8:04:12 PM",
-    "topic": "IoT Growing Faster Than the Ability to Defend It",
-    "url": "https://www.scientificamerican.com/article/iot-growing-faster-than-the-ability-to-defend-it/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:06:25 PM"
   }
 ];
