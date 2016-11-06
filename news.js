@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12885980",
+    "timestamp": "Nov 6, 2016 6:40:25 PM",
+    "topic": "Intercooler.js – Making AJAX as easy as anchor tags",
+    "url": "https://github.com/LeadDyno/intercooler-js",
+    "votes": 5,
+    "posted": "Nov 6, 2016 6:04:46 PM"
+  },
+  {
+    "id": "12885843",
+    "timestamp": "Nov 6, 2016 6:00:21 PM",
+    "topic": "Books Warren Buffett thinks you should read",
+    "url": "http://www.smh.com.au/business/markets/21-books-warren-buffett-thinks-you-should-read-20161103-gshv25.html",
+    "votes": 3,
+    "posted": "Nov 6, 2016 5:39:41 PM"
+  },
+  {
+    "id": "12885840",
+    "timestamp": "Nov 6, 2016 6:20:23 PM",
+    "topic": "Getting Started with MobX: An Easy Example",
+    "url": "https://medium.com/@carsoncgibbons/getting-started-with-mobx-an-easy-example-99850d13dbd7#.loxel4et0",
+    "votes": 3,
+    "posted": "Nov 6, 2016 5:38:49 PM"
+  },
+  {
     "id": "12885686",
     "timestamp": "Nov 6, 2016 5:40:19 PM",
     "topic": "Elon Musk: Robots will take your jobs, government will have to pay your wage?",
@@ -713,6 +737,14 @@ var newsArray = [
     "url": "http://arstechnica.com/science/2016/11/revisiting-why-incompetents-think-theyre-awesome/",
     "votes": 4,
     "posted": "Nov 5, 2016 8:12:05 PM"
+  },
+  {
+    "id": "12881288",
+    "timestamp": "Nov 6, 2016 6:30:24 PM",
+    "topic": "Crocker\u0027s rules",
+    "url": "https://wiki.lesswrong.com/wiki/Crocker%27s_rules",
+    "votes": 3,
+    "posted": "Nov 5, 2016 7:57:52 PM"
   },
   {
     "id": "12881283",
@@ -8012,53 +8044,5 @@ var newsArray = [
     "url": "https://www.scientificamerican.com/article/iot-growing-faster-than-the-ability-to-defend-it/",
     "votes": 3,
     "posted": "Oct 30, 2016 7:06:25 PM"
-  },
-  {
-    "id": "12831109",
-    "timestamp": "Oct 30, 2016 7:14:06 PM",
-    "topic": "Turning Jupyter Notebooks into Data Applications",
-    "url": "https://www.youtube.com/watch?v\u003dV3VxQGevHCU\u0026feature\u003dyoutu.be",
-    "votes": 3,
-    "posted": "Oct 30, 2016 6:48:24 PM"
-  },
-  {
-    "id": "12831075",
-    "timestamp": "Oct 30, 2016 7:14:06 PM",
-    "topic": "Open Game Art",
-    "url": "http://opengameart.org/",
-    "votes": 4,
-    "posted": "Oct 30, 2016 6:42:17 PM"
-  },
-  {
-    "id": "12831052",
-    "timestamp": "Oct 31, 2016 1:04:39 AM",
-    "topic": "Why object literals in JavaScript are cool",
-    "url": "https://rainsoft.io/why-object-literals-in-javascript-are-cool/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 6:39:09 PM"
-  },
-  {
-    "id": "12831007",
-    "timestamp": "Oct 30, 2016 10:34:26 PM",
-    "topic": "BDX: A cross-platform game engine for Blender 3D",
-    "url": "https://github.com/GoranM/bdx",
-    "votes": 3,
-    "posted": "Oct 30, 2016 6:30:40 PM"
-  },
-  {
-    "id": "12830993",
-    "timestamp": "Oct 31, 2016 1:14:40 AM",
-    "topic": "Serializability and Distributed Software Transactional Memory with Etcd3",
-    "url": "https://coreos.com/blog/transactional-memory-with-etcd3.html",
-    "votes": 4,
-    "posted": "Oct 30, 2016 6:27:33 PM"
-  },
-  {
-    "id": "12830813",
-    "timestamp": "Oct 30, 2016 7:04:05 PM",
-    "topic": "Be sensitive: the truth about the worlds fastest cashier woman",
-    "url": "http://m.indiatoday.in/story/world-fastest-cashier-woman-viral-video-truth-about-her/1/798849.html",
-    "votes": 3,
-    "posted": "Oct 30, 2016 5:58:35 PM"
   }
 ];
