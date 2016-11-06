@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12883645",
+    "timestamp": "Nov 6, 2016 7:59:27 AM",
+    "topic": "Daiwa to adopt blockchain for Myanmar stock trading",
+    "url": "http://asia.nikkei.com/Business/Companies/Daiwa-to-adopt-blockchain-for-Myanmar-stock-trading",
+    "votes": 5,
+    "posted": "Nov 6, 2016 6:12:24 AM"
+  },
+  {
     "id": "12883616",
     "timestamp": "Nov 6, 2016 6:39:20 AM",
     "topic": "New NASA Emdrive paper shows force of 1.2 millinewtons per kilowatt in a Vacuum",
     "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
     "votes": 8,
     "posted": "Nov 6, 2016 6:02:45 AM"
+  },
+  {
+    "id": "12883513",
+    "timestamp": "Nov 6, 2016 7:19:24 AM",
+    "topic": "Adobe is working on an audio app that lets you add words someone never said",
+    "url": "http://www.theverge.com/2016/11/3/13514088/adobe-photoshop-audio-project-voco",
+    "votes": 4,
+    "posted": "Nov 6, 2016 5:29:32 AM"
   },
   {
     "id": "12883481",
@@ -32,12 +48,28 @@ var newsArray = [
     "posted": "Nov 6, 2016 4:31:59 AM"
   },
   {
+    "id": "12883264",
+    "timestamp": "Nov 6, 2016 7:59:27 AM",
+    "topic": "Online PHP Coding Standards Fixer",
+    "url": "http://phpio.net/tools/csfixer",
+    "votes": 4,
+    "posted": "Nov 6, 2016 4:08:31 AM"
+  },
+  {
     "id": "12883231",
     "timestamp": "Nov 6, 2016 4:39:11 AM",
     "topic": "Fighting Loneliness with Public Living Rooms",
     "url": "http://www.citylab.com/navigator/2016/11/fighting-loneliness-with-public-living-rooms/506360/",
     "votes": 3,
     "posted": "Nov 6, 2016 4:01:00 AM"
+  },
+  {
+    "id": "12883173",
+    "timestamp": "Nov 6, 2016 7:59:27 AM",
+    "topic": "The X3DH Key Agreement Protocol",
+    "url": "https://whispersystems.org/docs/specifications/x3dh/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 3:43:28 AM"
   },
   {
     "id": "12883084",
@@ -7933,29 +7965,5 @@ var newsArray = [
     "url": "https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html",
     "votes": 4,
     "posted": "Oct 30, 2016 8:13:26 AM"
-  },
-  {
-    "id": "12828456",
-    "timestamp": "Oct 30, 2016 9:23:16 AM",
-    "topic": "UX Myths",
-    "url": "http://uxmyths.com/",
-    "votes": 5,
-    "posted": "Oct 30, 2016 7:23:06 AM"
-  },
-  {
-    "id": "12828400",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "ZeroCash: Trustless Bitcoin Tumbling",
-    "url": "http://www.alexkyte.me/2016/10/zerocash-bitcoin-with-privacy.html",
-    "votes": 4,
-    "posted": "Oct 30, 2016 7:05:26 AM"
-  },
-  {
-    "id": "12828386",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "Watch HN: The Mind Behind Linux – Linus Torvalds",
-    "url": "https://www.youtube.com/watch?v\u003do8NPllzkFhE",
-    "votes": 3,
-    "posted": "Oct 30, 2016 7:00:40 AM"
   }
 ];
