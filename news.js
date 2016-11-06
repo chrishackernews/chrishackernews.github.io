@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12883368",
+    "timestamp": "Nov 6, 2016 5:19:14 AM",
+    "topic": "There’s Big Money to Be Made in Asteroid Mining",
+    "url": "http://www.visualcapitalist.com/theres-big-money-made-asteroid-mining/?utm_content\u003dbuffer38745\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook.com\u0026utm_campaign\u003dbuffer",
+    "votes": 4,
+    "posted": "Nov 6, 2016 4:35:13 AM"
+  },
+  {
+    "id": "12883356",
+    "timestamp": "Nov 6, 2016 5:09:13 AM",
+    "topic": "Cylance Discloses Voting Machine Vulnerability 4 Days Before Election",
+    "url": "https://blog.cylance.com/cylance-discloses-voting-machine-vulnerability",
+    "votes": 4,
+    "posted": "Nov 6, 2016 4:31:59 AM"
+  },
+  {
     "id": "12883231",
     "timestamp": "Nov 6, 2016 4:39:11 AM",
     "topic": "Fighting Loneliness with Public Living Rooms",
@@ -140,6 +156,13 @@ var newsArray = [
     "url": "http://gizmodo.com/internet-pioneers-slam-750-000-settlement-for-the-man-1788503950",
     "votes": 5,
     "posted": "Nov 5, 2016 11:39:23 PM"
+  },
+  {
+    "id": "12882269",
+    "timestamp": "Nov 6, 2016 5:09:14 AM",
+    "topic": "Ask HN: How to escape front end development?",
+    "votes": 8,
+    "posted": "Nov 5, 2016 11:27:30 PM"
   },
   {
     "id": "12882097",
@@ -1190,6 +1213,14 @@ var newsArray = [
     "url": "https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/",
     "votes": 9,
     "posted": "Nov 4, 2016 7:32:53 PM"
+  },
+  {
+    "id": "12874770",
+    "timestamp": "Nov 6, 2016 5:19:15 AM",
+    "topic": "Show HN: Offensive Computer Security (Open Course, Video Lectures)",
+    "url": "https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html",
+    "votes": 7,
+    "posted": "Nov 4, 2016 7:29:09 PM"
   },
   {
     "id": "12874756",
