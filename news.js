@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12887422",
+    "timestamp": "Nov 6, 2016 11:51:01 PM",
+    "topic": "Facebook is harming our democracy",
+    "url": "http://www.vox.com/new-money/2016/11/6/13509854/facebook-politics-news-bad",
+    "votes": 5,
+    "posted": "Nov 6, 2016 11:20:02 PM"
+  },
+  {
+    "id": "12887229",
+    "timestamp": "Nov 6, 2016 11:30:59 PM",
+    "topic": "First 64-bit Orange Pi slips in under $20",
+    "url": "http://hackerboards.com/first-64-bit-orange-pi-slips-in-under-20/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 10:45:18 PM"
+  },
+  {
+    "id": "12887211",
+    "timestamp": "Nov 6, 2016 11:51:00 PM",
+    "topic": "How I Freed My Android Tablet: A Journey in Reverse Engineering",
+    "url": "https://www.thanassis.space/android.html",
+    "votes": 7,
+    "posted": "Nov 6, 2016 10:41:47 PM"
+  },
+  {
+    "id": "12887117",
+    "timestamp": "Nov 6, 2016 11:40:59 PM",
+    "topic": "10 principles for smooth web animations",
+    "url": "https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.ra51rwso4",
+    "votes": 5,
+    "posted": "Nov 6, 2016 10:26:13 PM"
+  },
+  {
     "id": "12887079",
     "timestamp": "Nov 6, 2016 10:40:52 PM",
     "topic": "Getting started in open source as a non-programmer",
@@ -69,6 +101,14 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/what-i-learned-from-writing-six-functions-that-all-did-the-same-thing-b38fd48f0d55",
     "votes": 3,
     "posted": "Nov 6, 2016 8:34:18 PM"
+  },
+  {
+    "id": "12886614",
+    "timestamp": "Nov 6, 2016 11:41:00 PM",
+    "topic": "Show HN: Bash Script to generate static responsive image web galleries",
+    "url": "https://github.com/Cyclenerd/gallery_shell",
+    "votes": 5,
+    "posted": "Nov 6, 2016 8:27:15 PM"
   },
   {
     "id": "12886590",
@@ -7996,45 +8036,5 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/ISmell",
     "votes": 5,
     "posted": "Oct 30, 2016 11:54:04 PM"
-  },
-  {
-    "id": "12832939",
-    "timestamp": "Oct 31, 2016 1:54:44 AM",
-    "topic": "Vlany: Linux LD_PRELOAD rootkit",
-    "url": "https://github.com/mempodippy/vlany",
-    "votes": 4,
-    "posted": "Oct 30, 2016 11:45:42 PM"
-  },
-  {
-    "id": "12832848",
-    "timestamp": "Oct 31, 2016 2:14:46 AM",
-    "topic": "Mind-Boggling Painted Hands Illusions",
-    "url": "http://www.mymodernmet.com/profiles/blogs/ray-massey-youre-in-good-hands",
-    "votes": 4,
-    "posted": "Oct 30, 2016 11:32:08 PM"
-  },
-  {
-    "id": "12832834",
-    "timestamp": "Oct 31, 2016 12:24:36 AM",
-    "topic": "Are You an Angry Programmer? How to Be Competent and Incompetent Simultaneously",
-    "url": "https://medium.com/@fagnerbrack/the-angry-programmer-52a93bfcbc3c",
-    "votes": 4,
-    "posted": "Oct 30, 2016 11:30:11 PM"
-  },
-  {
-    "id": "12832832",
-    "timestamp": "Oct 31, 2016 1:04:39 AM",
-    "topic": "Inside Uber\u0027s plans to take over the skies with flying cars",
-    "url": "https://www.wired.com/2016/10/uber-flying-cars-elevate-plan/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 11:30:01 PM"
-  },
-  {
-    "id": "12832628",
-    "timestamp": "Oct 31, 2016 12:34:36 AM",
-    "topic": "Lighthouse: Auditing and Performance Metrics for Progressive Web Apps",
-    "url": "https://github.com/GoogleChrome/lighthouse",
-    "votes": 4,
-    "posted": "Oct 30, 2016 10:59:49 PM"
   }
 ];
