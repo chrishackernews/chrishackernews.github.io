@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12884793",
+    "timestamp": "Nov 6, 2016 1:59:57 PM",
+    "topic": "Employees are faster and more creative when solving other people\u0027s problems",
+    "url": "http://www.telegraph.co.uk/finance/businessclub/8527500/Daniel-H-Pink-employees-are-faster-and-more-creative-when-solving-other-peoples-problems.html",
+    "votes": 8,
+    "posted": "Nov 6, 2016 1:25:57 PM"
+  },
+  {
     "id": "12884477",
     "timestamp": "Nov 6, 2016 11:49:45 AM",
     "topic": "Elon Musk thinks universal income is answer to automation taking human jobs",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "https://www.engadget.com/2016/11/05/chevy-starts-manufacturing-bolt/",
     "votes": 3,
     "posted": "Nov 6, 2016 11:29:15 AM"
+  },
+  {
+    "id": "12884451",
+    "timestamp": "Nov 6, 2016 1:19:52 PM",
+    "topic": "Sleep and creativity",
+    "url": "https://en.wikipedia.org/wiki/Sleep_and_creativity",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:28:37 AM"
   },
   {
     "id": "12884391",
@@ -38,6 +54,14 @@ var newsArray = [
     "url": "http://uk.businessinsider.com/elon-musk-popular-uprising-climate-change-fossil-fuels-2016-11?r\u003dUS\u0026IR\u003dT",
     "votes": 7,
     "posted": "Nov 6, 2016 9:22:16 AM"
+  },
+  {
+    "id": "12884110",
+    "timestamp": "Nov 6, 2016 1:49:54 PM",
+    "topic": "Scientists Can Publish Their Best Work at Any Age",
+    "url": "http://www.nature.com/news/scientists-can-publish-their-best-work-at-any-age-1.20926",
+    "votes": 4,
+    "posted": "Nov 6, 2016 9:08:10 AM"
   },
   {
     "id": "12884055",
@@ -7950,29 +7974,5 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1609.00037",
     "votes": 3,
     "posted": "Oct 30, 2016 2:03:09 PM"
-  },
-  {
-    "id": "12829526",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "MITM on sync+emerge \u003d root almost any gentoo system",
-    "url": "https://bugs.gentoo.org/show_bug.cgi?id\u003d597804",
-    "votes": 3,
-    "posted": "Oct 30, 2016 1:55:32 PM"
-  },
-  {
-    "id": "12829474",
-    "timestamp": "Oct 30, 2016 2:03:38 PM",
-    "topic": "In Germany, Syrians find mosques too conservative",
-    "url": "http://www.reuters.com/article/us-europe-migrants-germany-mosques-insig-idUSKCN12S0HE",
-    "votes": 6,
-    "posted": "Oct 30, 2016 1:45:38 PM"
-  },
-  {
-    "id": "12829411",
-    "timestamp": "Oct 30, 2016 7:14:07 PM",
-    "topic": "How I keep track of my to-dos using plain text",
-    "url": "https://medium.com/@saola/how-i-keep-track-of-my-to-dos-using-plain-text-68b09b026d8d#.6vfvf2kmx",
-    "votes": 7,
-    "posted": "Oct 30, 2016 1:26:05 PM"
   }
 ];
