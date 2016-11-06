@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12884859",
+    "timestamp": "Nov 6, 2016 2:30:00 PM",
+    "topic": "How Does the Electoral College Work and Is It Fair",
+    "url": "http://www.npr.org/2016/11/06/500660424/how-the-electoral-college-works-and-why-you-don-t-want-to-think-about-it",
+    "votes": 4,
+    "posted": "Nov 6, 2016 1:51:18 PM"
+  },
+  {
+    "id": "12884843",
+    "timestamp": "Nov 6, 2016 2:40:02 PM",
+    "topic": "ZType – typing game",
+    "url": "http://zty.pe",
+    "votes": 4,
+    "posted": "Nov 6, 2016 1:44:51 PM"
+  },
+  {
     "id": "12884793",
     "timestamp": "Nov 6, 2016 1:59:57 PM",
     "topic": "Employees are faster and more creative when solving other people\u0027s problems",
     "url": "http://www.telegraph.co.uk/finance/businessclub/8527500/Daniel-H-Pink-employees-are-faster-and-more-creative-when-solving-other-peoples-problems.html",
     "votes": 8,
     "posted": "Nov 6, 2016 1:25:57 PM"
+  },
+  {
+    "id": "12884694",
+    "timestamp": "Nov 6, 2016 2:30:00 PM",
+    "topic": "JSCity: source code visualization for (and by) JavaScript",
+    "url": "https://github.com/aserg-ufmg/JSCity/wiki/JSCITY",
+    "votes": 3,
+    "posted": "Nov 6, 2016 12:52:20 PM"
+  },
+  {
+    "id": "12884502",
+    "timestamp": "Nov 6, 2016 2:30:00 PM",
+    "topic": "Verified Voting",
+    "url": "https://www.verifiedvoting.org/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:44:08 AM"
   },
   {
     "id": "12884477",
@@ -32,12 +64,44 @@ var newsArray = [
     "posted": "Nov 6, 2016 11:28:37 AM"
   },
   {
+    "id": "12884417",
+    "timestamp": "Nov 6, 2016 2:30:00 PM",
+    "topic": "Automatic Security Updates for Developers",
+    "url": "https://paragonie.com/blog/2016/10/guide-automatic-security-updates-for-php-developers",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:19:06 AM"
+  },
+  {
+    "id": "12884393",
+    "timestamp": "Nov 6, 2016 2:09:58 PM",
+    "topic": "How a Gift from Schoolchildren Let the Soviets Spy on the U.S. For 7 Years",
+    "url": "http://www.atlasobscura.com/articles/how-a-gift-from-schoolchildren-let-the-soviets-spy-on-the-us-for-7-years",
+    "votes": 5,
+    "posted": "Nov 6, 2016 11:13:05 AM"
+  },
+  {
     "id": "12884391",
     "timestamp": "Nov 6, 2016 11:29:44 AM",
     "topic": "Why you should avoid LastPass",
     "url": "https://medium.com/@gempir/why-you-should-avoid-lastpass-f698761421b8#.xy3akp31p",
     "votes": 6,
     "posted": "Nov 6, 2016 11:12:24 AM"
+  },
+  {
+    "id": "12884352",
+    "timestamp": "Nov 6, 2016 2:30:00 PM",
+    "topic": "Do-Sshuttle: Transparent Proxying via Your DigitalOcean Droplets",
+    "url": "https://github.com/f/do-sshuttle",
+    "votes": 5,
+    "posted": "Nov 6, 2016 10:57:50 AM"
+  },
+  {
+    "id": "12884153",
+    "timestamp": "Nov 6, 2016 2:30:01 PM",
+    "topic": "A Decentralized Content Registry for the Decentralized Web: CoalaIP and IPDB +IPFS",
+    "url": "https://medium.com/ipdb-blog/a-decentralized-content-registry-for-the-decentralized-web-99cf1335291f#.frtz7vo79",
+    "votes": 3,
+    "posted": "Nov 6, 2016 9:26:31 AM"
   },
   {
     "id": "12884144",
@@ -86,6 +150,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/05/technology/silicon-valley-california-growth.html",
     "votes": 4,
     "posted": "Nov 6, 2016 7:36:53 AM"
+  },
+  {
+    "id": "12883836",
+    "timestamp": "Nov 6, 2016 2:30:00 PM",
+    "topic": "U.S. Chief Information Officer Seeks to Upgrade Government\u0027s Computers",
+    "url": "http://www.npr.org/2016/10/31/500115472/u-s-chief-information-officer-seeks-to-upgrade-governments-computers",
+    "votes": 3,
+    "posted": "Nov 6, 2016 7:21:49 AM"
   },
   {
     "id": "12883805",
@@ -184,6 +256,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 3:02:41 AM"
   },
   {
+    "id": "12883035",
+    "timestamp": "Nov 6, 2016 2:30:01 PM",
+    "topic": "Super-cavitating ship: hull friction to 1/900th that of conventional",
+    "url": "https://en.wikipedia.org/wiki/Juliet_Marine_Systems_Ghost",
+    "votes": 3,
+    "posted": "Nov 6, 2016 2:58:35 AM"
+  },
+  {
     "id": "12882957",
     "timestamp": "Nov 6, 2016 4:29:10 AM",
     "topic": "What programming language should you learn first? (Answer: JavaScript)",
@@ -221,6 +301,14 @@ var newsArray = [
     "url": "https://geti2p.net/en/",
     "votes": 3,
     "posted": "Nov 6, 2016 1:46:55 AM"
+  },
+  {
+    "id": "12882719",
+    "timestamp": "Nov 6, 2016 2:19:59 PM",
+    "topic": "The Story of “How About Never” (2014)",
+    "url": "http://www.newyorker.com/cartoons/bob-mankoff/the-story-of-how-about-never",
+    "votes": 5,
+    "posted": "Nov 6, 2016 1:30:54 AM"
   },
   {
     "id": "12882697",
@@ -379,6 +467,14 @@ var newsArray = [
     "url": "http://edwardfeser.blogspot.com/2009/03/how-some-of-your-professors-see-you.html",
     "votes": 3,
     "posted": "Nov 5, 2016 9:00:55 PM"
+  },
+  {
+    "id": "12881575",
+    "timestamp": "Nov 6, 2016 2:50:03 PM",
+    "topic": "Raising the Dead (2005)",
+    "url": "http://www.outsideonline.com/1922711/raising-dead",
+    "votes": 3,
+    "posted": "Nov 5, 2016 8:58:06 PM"
   },
   {
     "id": "12881569",
@@ -578,6 +674,14 @@ var newsArray = [
     "url": "http://www.lscp.net/persons/ramus/docs/PAID16.pdf",
     "votes": 5,
     "posted": "Nov 5, 2016 5:17:45 PM"
+  },
+  {
+    "id": "12880290",
+    "timestamp": "Nov 6, 2016 2:30:01 PM",
+    "topic": "Show HN: Tea- a User\u0027s Guide",
+    "url": "https://www.worldoftea.org/book",
+    "votes": 5,
+    "posted": "Nov 5, 2016 5:01:04 PM"
   },
   {
     "id": "12880274",
@@ -958,6 +1062,14 @@ var newsArray = [
     "url": "http://www.telegraph.co.uk/news/2016/11/04/germany-probes-mark-zuckerberg-over-facebooks-failure-to-remove/",
     "votes": 4,
     "posted": "Nov 5, 2016 2:31:32 AM"
+  },
+  {
+    "id": "12877607",
+    "timestamp": "Nov 6, 2016 2:19:59 PM",
+    "topic": "Design legend Milton Glaser: “Design has nothing to do with art”",
+    "url": "http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/",
+    "votes": 5,
+    "posted": "Nov 5, 2016 2:26:30 AM"
   },
   {
     "id": "12877576",
@@ -7926,53 +8038,5 @@ var newsArray = [
     "url": "http://www.bbc.com/future/story/20161026-how-liars-create-the-illusion-of-truth",
     "votes": 9,
     "posted": "Oct 30, 2016 2:52:02 PM"
-  },
-  {
-    "id": "12829759",
-    "timestamp": "Oct 30, 2016 3:53:49 PM",
-    "topic": "I don\u0027t understand Python\u0027s Asyncio",
-    "url": "http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/",
-    "votes": 7,
-    "posted": "Oct 30, 2016 2:46:32 PM"
-  },
-  {
-    "id": "12829702",
-    "timestamp": "Oct 30, 2016 3:03:44 PM",
-    "topic": "Horrible Things I Found Out When I Made A Video Game",
-    "url": "http://www.cracked.com/blog/5-things-you-learn-when-making-modern-video-game/",
-    "votes": 3,
-    "posted": "Oct 30, 2016 2:36:34 PM"
-  },
-  {
-    "id": "12829658",
-    "timestamp": "Oct 30, 2016 2:43:42 PM",
-    "topic": "Mono TLS 1.2 hits Mono/master",
-    "url": "http://tirania.org/blog/archive/2016/Sep-30.html",
-    "votes": 4,
-    "posted": "Oct 30, 2016 2:26:44 PM"
-  },
-  {
-    "id": "12829644",
-    "timestamp": "Oct 30, 2016 7:14:07 PM",
-    "topic": "How Podesta\u0027s Gmail Account Was Breached",
-    "url": "http://www.thesmokinggun.com/documents/crime/how-john-podesta-got-hacked-839125",
-    "votes": 3,
-    "posted": "Oct 30, 2016 2:24:59 PM"
-  },
-  {
-    "id": "12829598",
-    "timestamp": "Oct 30, 2016 2:53:43 PM",
-    "topic": "Windows Server 2016 persistent memory support supercharges storage IO",
-    "url": "http://www.theregister.co.uk/2016/10/28/windows_server_2016_persistent_memory_support_supercharges_storage_io/",
-    "votes": 4,
-    "posted": "Oct 30, 2016 2:14:24 PM"
-  },
-  {
-    "id": "12829561",
-    "timestamp": "Oct 30, 2016 2:53:43 PM",
-    "topic": "Good Enough Practices in Scientific Computing",
-    "url": "https://arxiv.org/abs/1609.00037",
-    "votes": 3,
-    "posted": "Oct 30, 2016 2:03:09 PM"
   }
 ];
