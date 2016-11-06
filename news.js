@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12883084",
+    "timestamp": "Nov 6, 2016 3:59:08 AM",
+    "topic": "Tower – The most powerful Git client for Mac and Windows",
+    "url": "https://www.git-tower.com/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 3:16:06 AM"
+  },
+  {
+    "id": "12883047",
+    "timestamp": "Nov 6, 2016 3:29:06 AM",
+    "topic": "Nyancat on the touchbar",
+    "url": "https://github.com/avatsaev/touchbar_nyancat",
+    "votes": 4,
+    "posted": "Nov 6, 2016 3:02:41 AM"
+  },
+  {
     "id": "12882847",
     "timestamp": "Nov 6, 2016 2:19:00 AM",
     "topic": "The Geek Keep: Synthesize Speech in Any Voice",
@@ -222,6 +238,14 @@ var newsArray = [
     "posted": "Nov 5, 2016 8:12:05 PM"
   },
   {
+    "id": "12881283",
+    "timestamp": "Nov 6, 2016 3:49:07 AM",
+    "topic": "Giant snowballs appear on Russian beach in Siberia",
+    "url": "http://www.bbc.com/news/world-europe-37883003",
+    "votes": 3,
+    "posted": "Nov 5, 2016 7:56:53 PM"
+  },
+  {
     "id": "12881119",
     "timestamp": "Nov 5, 2016 8:08:25 PM",
     "topic": "Chelsea Manning Tried Committing Suicide a Second Time in October",
@@ -394,6 +418,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/04/samsung-washing-machine-recall-explosion-risk",
     "votes": 3,
     "posted": "Nov 5, 2016 3:48:51 PM"
+  },
+  {
+    "id": "12879942",
+    "timestamp": "Nov 6, 2016 3:09:04 AM",
+    "topic": "1965 Science advisory report on climate-environment [pdf]",
+    "url": "http://dge.stanford.edu/labs/caldeiralab/Caldeira%20downloads/PSAC,%201965,%20Restoring%20the%20Quality%20of%20Our%20Environment.pdf",
+    "votes": 4,
+    "posted": "Nov 5, 2016 3:43:46 PM"
   },
   {
     "id": "12879937",
@@ -7926,44 +7958,5 @@ var newsArray = [
     "url": "http://joeposnanski.com/my-mechanical-keyboard/",
     "votes": 3,
     "posted": "Oct 30, 2016 4:00:33 AM"
-  },
-  {
-    "id": "12827887",
-    "timestamp": "Oct 30, 2016 4:12:52 AM",
-    "topic": "Ask HN: How to deal with Indian people?",
-    "votes": 6,
-    "posted": "Oct 30, 2016 3:53:02 AM"
-  },
-  {
-    "id": "12827868",
-    "timestamp": "Oct 30, 2016 2:03:39 PM",
-    "topic": "A Practical Lesson in XSS",
-    "url": "http://technopy.com/xss-by-example.html",
-    "votes": 4,
-    "posted": "Oct 30, 2016 3:46:42 AM"
-  },
-  {
-    "id": "12827802",
-    "timestamp": "Oct 30, 2016 5:53:00 AM",
-    "topic": "3Blue1Brown is creating animated math videos",
-    "url": "https://www.patreon.com/3blue1brown",
-    "votes": 5,
-    "posted": "Oct 30, 2016 3:28:45 AM"
-  },
-  {
-    "id": "12827753",
-    "timestamp": "Oct 30, 2016 2:03:39 PM",
-    "topic": "Prove you’re not Saddam Hussein, Apple tells customer",
-    "url": "http://www.timesofisrael.com/prove-youre-not-saddam-hussein-apple-tells-customer/",
-    "votes": 4,
-    "posted": "Oct 30, 2016 3:17:49 AM"
-  },
-  {
-    "id": "12827691",
-    "timestamp": "Oct 30, 2016 3:32:49 AM",
-    "topic": "Something magical happened to me today, and I wanted to tell you all about it",
-    "url": "https://twitter.com/mwichary/status/791709895083102209",
-    "votes": 3,
-    "posted": "Oct 30, 2016 3:01:03 AM"
   }
 ];
