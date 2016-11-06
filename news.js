@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "12882472",
+    "timestamp": "Nov 6, 2016 12:28:51 AM",
+    "topic": "Mattermark Is Hiring a Principal Product Designer",
+    "url": "https://jobs.lever.co/mattermark/f2b6dae3-e184-4022-b34b-658fd1eb1deb",
+    "votes": 1,
+    "posted": "Nov 6, 2016 12:25:07 AM"
+  },
+  {
+    "id": "12882349",
+    "timestamp": "Nov 6, 2016 12:38:52 AM",
+    "topic": "Ask HN: You\u0027ve got one month, what\u0027s your challenge?",
+    "votes": 6,
+    "posted": "Nov 5, 2016 11:52:58 PM"
+  },
+  {
+    "id": "12882320",
+    "timestamp": "Nov 6, 2016 12:08:49 AM",
+    "topic": "PaperNIC – Open Source Document Management and Collaboration System",
+    "url": "https://github.com/murat-cileli/papernic",
+    "votes": 5,
+    "posted": "Nov 5, 2016 11:43:46 PM"
+  },
+  {
+    "id": "12882311",
+    "timestamp": "Nov 6, 2016 12:08:49 AM",
+    "topic": "Internet Pioneers Slam $750,000 Settlement for the \u0027Man Who Invented Email\u0027",
+    "url": "http://gizmodo.com/internet-pioneers-slam-750-000-settlement-for-the-man-1788503950",
+    "votes": 5,
+    "posted": "Nov 5, 2016 11:39:23 PM"
+  },
+  {
     "id": "12882097",
     "timestamp": "Nov 5, 2016 11:58:48 PM",
     "topic": "The Principles Behind Voting Systems",
@@ -268,6 +299,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/04/samsung-washing-machine-recall-explosion-risk",
     "votes": 3,
     "posted": "Nov 5, 2016 3:48:51 PM"
+  },
+  {
+    "id": "12879937",
+    "timestamp": "Nov 6, 2016 12:58:53 AM",
+    "topic": "Lossy Image Compression with Compressive Autoencoders",
+    "url": "http://openreview.net/forum?id\u003drJiNwv9gg",
+    "votes": 3,
+    "posted": "Nov 5, 2016 3:42:56 PM"
   },
   {
     "id": "12879882",
@@ -7940,85 +7979,5 @@ var newsArray = [
     "url": "http://ifixit.org/blog/8510/car-repair-illegal-dmca/",
     "votes": 6,
     "posted": "Oct 30, 2016 12:59:29 AM"
-  },
-  {
-    "id": "12826886",
-    "timestamp": "Oct 30, 2016 1:32:33 AM",
-    "topic": "Doubts About the Promised Bounty of Genetically Modified Crops",
-    "url": "http://www.nytimes.com/2016/10/30/business/gmo-promise-falls-short.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dimage\u0026module\u003dphoto-spot-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news\u0026_r\u003d1\u0026login\u003dfacebook",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:43:42 AM"
-  },
-  {
-    "id": "12826863",
-    "timestamp": "Oct 30, 2016 2:52:45 AM",
-    "topic": "Yasha Levine: Interview about Tor, spies and the cult of crypto",
-    "url": "https://surveillancevalley.net/blog/interview-in-german-magazine-konkret-about-tor-and-the-cult-of-crypto",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:40:49 AM"
-  },
-  {
-    "id": "12826862",
-    "timestamp": "Oct 30, 2016 1:03:32 PM",
-    "topic": "Show HN: End-to-End encrypted chat using Firebase and WebCrypto API",
-    "url": "https://chat-a9892.firebaseapp.com",
-    "votes": 5,
-    "posted": "Oct 30, 2016 12:40:48 AM"
-  },
-  {
-    "id": "12826833",
-    "timestamp": "Oct 30, 2016 1:42:34 AM",
-    "topic": "Update on the HydraDock situation",
-    "url": "https://www.kickstarter.com/projects/kickshark/hydradock-11-port-usb-c-dock-for-apple-macbook/posts/1722716",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:33:18 AM"
-  },
-  {
-    "id": "12826829",
-    "timestamp": "Oct 30, 2016 12:52:30 AM",
-    "topic": "Elon Musk Unveils Solar Roof",
-    "url": "https://www.youtube.com/watch?v\u003ddRqSkR4ENAg",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:31:52 AM"
-  },
-  {
-    "id": "12826811",
-    "timestamp": "Oct 30, 2016 3:23:46 PM",
-    "topic": "The Tunnel Vision Fallacy",
-    "url": "https://hackernoon.com/the-tunnel-vision-fallacy-4847fc16fb9d#.clkdpy3eb?yc-news",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:28:05 AM"
-  },
-  {
-    "id": "12826739",
-    "timestamp": "Oct 30, 2016 12:52:30 AM",
-    "topic": "Casual Sexism Fridays",
-    "url": "https://www.mcsweeneys.net/articles/casual-sexism-fridays",
-    "votes": 3,
-    "posted": "Oct 30, 2016 12:17:08 AM"
-  },
-  {
-    "id": "12826712",
-    "timestamp": "Oct 30, 2016 8:03:10 AM",
-    "topic": "Bret Victor – The Future of Programming",
-    "url": "https://vimeo.com/71278954",
-    "votes": 3,
-    "posted": "Oct 30, 2016 12:11:59 AM"
-  },
-  {
-    "id": "12826684",
-    "timestamp": "Oct 30, 2016 1:42:34 AM",
-    "topic": "Microsoft Cognition Toolkit",
-    "url": "https://github.com/Microsoft/CNTK",
-    "votes": 5,
-    "posted": "Oct 30, 2016 12:06:58 AM"
-  },
-  {
-    "id": "12826653",
-    "timestamp": "Oct 30, 2016 12:32:28 AM",
-    "topic": "We built a fake web toaster, and it was compromised in an hour",
-    "url": "http://www.theatlantic.com/technology/archive/2016/10/we-built-a-fake-web-toaster-and-it-was-hacked-in-an-hour/505571/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Oct 30, 2016 12:01:30 AM"
   }
 ];
