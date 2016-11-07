@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12888382",
+    "timestamp": "Nov 7, 2016 3:51:21 AM",
+    "topic": "Python: Some thoughts on asynchronous API design in a post-async/await world",
+    "url": "https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 3:30:11 AM"
+  },
+  {
+    "id": "12888181",
+    "timestamp": "Nov 7, 2016 3:11:17 AM",
+    "topic": "Face electrodes let you taste and chew in virtual reality",
+    "url": "https://www.newscientist.com/article/2111371-face-electrodes-let-you-taste-and-chew-in-virtual-reality/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 2:27:54 AM"
+  },
+  {
+    "id": "12888162",
+    "timestamp": "Nov 7, 2016 3:11:17 AM",
+    "topic": "Web of Trust caught selling private browsing history of millions",
+    "url": "http://www.pcmag.com/news/349328/web-of-trust-browser-extension-cannot-be-trusted",
+    "votes": 4,
+    "posted": "Nov 7, 2016 2:22:13 AM"
+  },
+  {
+    "id": "12888112",
+    "timestamp": "Nov 7, 2016 3:11:17 AM",
+    "topic": "iOS App Store flooded with fake retail apps",
+    "url": "http://www.nytimes.com/2016/11/07/technology/more-iphone-fake-retail-apps-before-holidays.html",
+    "votes": 3,
+    "posted": "Nov 7, 2016 2:09:14 AM"
+  },
+  {
     "id": "12888071",
     "timestamp": "Nov 7, 2016 2:21:13 AM",
     "topic": "What does Unsplash cost to run?",
     "url": "https://crew.co/backstage/dispatch/what-does-unsplash-cost/",
     "votes": 14,
     "posted": "Nov 7, 2016 1:57:19 AM"
+  },
+  {
+    "id": "12887967",
+    "timestamp": "Nov 7, 2016 3:41:20 AM",
+    "topic": "A Bad Carver: Musings on why technology often seems to challenge the sacred",
+    "url": "http://www.ribbonfarm.com/2016/11/03/a-bad-carver/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 1:31:37 AM"
   },
   {
     "id": "12887959",
@@ -30,6 +70,30 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/5/13523372/usb-c-macbook-adapter-donglelife-problems-thunderbolt",
     "votes": 5,
     "posted": "Nov 7, 2016 1:17:02 AM"
+  },
+  {
+    "id": "12887805",
+    "timestamp": "Nov 7, 2016 3:21:18 AM",
+    "topic": "Switchers – Irony and Operating Systems",
+    "url": "https://brianketelsen.com/blog/switchers/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 12:47:33 AM"
+  },
+  {
+    "id": "12887795",
+    "timestamp": "Nov 7, 2016 3:41:20 AM",
+    "topic": "Whatever happened to Japanese laptops?",
+    "url": "http://jamielittle.org/2016/11/06/japan-laptops.html",
+    "votes": 5,
+    "posted": "Nov 7, 2016 12:45:03 AM"
+  },
+  {
+    "id": "12887729",
+    "timestamp": "Nov 7, 2016 3:31:19 AM",
+    "topic": "Show HN: Chrome extension that replaces words into a different language",
+    "url": "http://alpharabi.us",
+    "votes": 3,
+    "posted": "Nov 7, 2016 12:28:47 AM"
   },
   {
     "id": "12887659",
@@ -1694,6 +1758,14 @@ var newsArray = [
     "url": "http://blog.elementary.io/post/152671475281/switching-from-macos-developer-environment",
     "votes": 5,
     "posted": "Nov 5, 2016 12:19:27 AM"
+  },
+  {
+    "id": "12877012",
+    "timestamp": "Nov 7, 2016 3:21:18 AM",
+    "topic": "Forget self-driving car anxiety: In the early days human drivers were the fear",
+    "url": "https://timeline.com/forget-self-driving-car-anxiety-in-the-early-days-human-drivers-were-the-fear-55a770262c10#.vf6ekg4kz",
+    "votes": 3,
+    "posted": "Nov 5, 2016 12:13:58 AM"
   },
   {
     "id": "12876892",
@@ -7987,13 +8059,5 @@ var newsArray = [
     "url": "https://medium.com/matter/heres-why-public-wifi-is-a-public-health-hazard-dd5b8dcb55e6#.td5883tsl",
     "votes": 4,
     "posted": "Oct 31, 2016 5:14:17 AM"
-  },
-  {
-    "id": "12833797",
-    "timestamp": "Oct 31, 2016 3:44:53 AM",
-    "topic": "How 2K Killed Irrational Games",
-    "url": "https://hackernoon.com/how-2k-killed-irrational-games-a09d8865fd8b#.68bjzkfxw",
-    "votes": 4,
-    "posted": "Oct 31, 2016 3:02:02 AM"
   }
 ];
