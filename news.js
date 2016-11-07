@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12889680",
+    "timestamp": "Nov 7, 2016 10:01:51 AM",
+    "topic": "Supercapacitors Now Carbon-Free, More Powerful",
+    "url": "https://edgylabs.com/2016/11/06/supercapacitors-now-carbon-free/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 9:45:08 AM"
+  },
+  {
     "id": "12889302",
     "timestamp": "Nov 7, 2016 7:51:41 AM",
     "topic": "Go’s alias proposal and all my concerns of Google controlling Go",
@@ -246,6 +254,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 12:14:22 AM"
   },
   {
+    "id": "12887569",
+    "timestamp": "Nov 7, 2016 10:41:54 AM",
+    "topic": "Shyness: small acts of heroism",
+    "url": "http://www.the-tls.co.uk/articles/public/a-feature-not-a-bug/",
+    "votes": 5,
+    "posted": "Nov 6, 2016 11:55:22 PM"
+  },
+  {
     "id": "12887434",
     "timestamp": "Nov 7, 2016 12:01:02 AM",
     "topic": "Common Lisp Using LLVM and C++ for Molecular Metaprogramming",
@@ -408,6 +424,14 @@ var newsArray = [
     "topic": "Ask HN: Any tips on debugging Linux hibernate issues?",
     "votes": 3,
     "posted": "Nov 6, 2016 7:48:30 PM"
+  },
+  {
+    "id": "12886381",
+    "timestamp": "Nov 7, 2016 10:41:54 AM",
+    "topic": "Freud’s Discontents",
+    "url": "https://www.thenation.com/article/freuds-discontents/",
+    "votes": 2,
+    "posted": "Nov 6, 2016 7:35:44 PM"
   },
   {
     "id": "12886178",
@@ -8011,37 +8035,5 @@ var newsArray = [
     "url": "https://stratechery.com/2016/apple-should-buy-netflix/",
     "votes": 6,
     "posted": "Oct 31, 2016 11:29:41 AM"
-  },
-  {
-    "id": "12835211",
-    "timestamp": "Oct 31, 2016 11:15:28 AM",
-    "topic": "Apple just told the world it has no idea who the Mac is for",
-    "url": "https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b#.r94fbs5g3",
-    "votes": 6,
-    "posted": "Oct 31, 2016 10:13:32 AM"
-  },
-  {
-    "id": "12835182",
-    "timestamp": "Oct 31, 2016 3:35:49 PM",
-    "topic": "Show HN: A Facebook Messenger Bot for Hacker News",
-    "url": "https://m.me/324020827971424",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:05:53 AM"
-  },
-  {
-    "id": "12835145",
-    "timestamp": "Oct 31, 2016 10:55:26 AM",
-    "topic": "Show HN: A curated list of open source applications built with Node.js",
-    "url": "https://github.com/sqreen/awesome-nodejs-projects",
-    "votes": 7,
-    "posted": "Oct 31, 2016 9:59:40 AM"
-  },
-  {
-    "id": "12835123",
-    "timestamp": "Oct 31, 2016 10:35:25 AM",
-    "topic": "Wikileaks tweets: Google boss Eric Schmidt on secret project",
-    "url": "https://twitter.com/wikileaks/status/792858025212121088",
-    "votes": 7,
-    "posted": "Oct 31, 2016 9:55:48 AM"
   }
 ];
