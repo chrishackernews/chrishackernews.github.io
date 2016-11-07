@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12891889",
+    "timestamp": "Nov 7, 2016 4:52:26 PM",
+    "topic": "Homebrew 1.1.0",
+    "url": "http://brew.sh/2016/11/07/homebrew-1.1.0/",
+    "votes": 21,
+    "posted": "Nov 7, 2016 4:43:04 PM"
+  },
+  {
+    "id": "12891685",
+    "timestamp": "Nov 7, 2016 4:22:24 PM",
+    "topic": "Lever is hiring an engineering manager in SF – Join a 50/50 men and women team",
+    "url": "https://www.lever.co/jobs?site\u003dHacker%20News\u0026instance\u003d31\u0026copy\u003dL",
+    "votes": 1,
+    "posted": "Nov 7, 2016 4:17:41 PM"
+  },
+  {
+    "id": "12891584",
+    "timestamp": "Nov 7, 2016 4:32:25 PM",
+    "topic": "Hyper.sh – Effortless Docker Hosting",
+    "url": "https://hyper.sh/",
+    "votes": 10,
+    "posted": "Nov 7, 2016 4:08:24 PM"
+  },
+  {
     "id": "12891169",
     "timestamp": "Nov 7, 2016 3:52:21 PM",
     "topic": "An Update to Our Supercharging Program",
     "url": "https://www.tesla.com/blog/update-our-supercharging-program",
     "votes": 5,
     "posted": "Nov 7, 2016 3:25:26 PM"
+  },
+  {
+    "id": "12891158",
+    "timestamp": "Nov 7, 2016 4:52:26 PM",
+    "topic": "Show HN: DeepRhyme (D-Prime) – generating dope rhymes with machine learning",
+    "url": "https://swarbrickjones.wordpress.com/2016/11/07/deeprhyme-d-prime-generating-dope-rhymes-with-deep-learning/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 3:23:54 PM"
   },
   {
     "id": "12891068",
@@ -38,6 +70,22 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/7/13548052/the-macbook-pro-lie",
     "votes": 7,
     "posted": "Nov 7, 2016 2:32:10 PM"
+  },
+  {
+    "id": "12890585",
+    "timestamp": "Nov 7, 2016 4:42:25 PM",
+    "topic": "Does P\u003dNP? Results of a poll taken among academics [2002][pdf]",
+    "url": "http://www.cs.umd.edu/~gasarch/papers/poll.pdf",
+    "votes": 5,
+    "posted": "Nov 7, 2016 1:44:01 PM"
+  },
+  {
+    "id": "12890412",
+    "timestamp": "Nov 7, 2016 4:12:23 PM",
+    "topic": "FCC ushers in a troublesome new world for online privacy",
+    "url": "https://techcrunch.com/2016/11/07/fcc-ushers-in-a-troublesome-new-world-for-online-privacy/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 1:00:30 PM"
   },
   {
     "id": "12890118",
@@ -7861,131 +7909,5 @@ var newsArray = [
     "url": "http://www.businessinsider.com/peter-thiel-trump-speech-national-press-club-2016-10",
     "votes": 4,
     "posted": "Oct 31, 2016 5:02:22 PM"
-  },
-  {
-    "id": "12837794",
-    "timestamp": "Oct 31, 2016 11:27:03 PM",
-    "topic": "Ask HN: Which Mac do Apple employees use?",
-    "votes": 8,
-    "posted": "Oct 31, 2016 4:43:09 PM"
-  },
-  {
-    "id": "12837766",
-    "timestamp": "Oct 31, 2016 4:55:57 PM",
-    "topic": "Peter Thiel: \u0027What Trump represents isn\u0027t crazy and it\u0027s not going away\u0027",
-    "url": "http://www.cnbc.com/2016/10/31/peter-thiel-what-donald-trump-represents-isnt-crazy-and-its-not-going-away.html",
-    "votes": 6,
-    "posted": "Oct 31, 2016 4:41:07 PM"
-  },
-  {
-    "id": "12837746",
-    "timestamp": "Oct 31, 2016 4:45:55 PM",
-    "topic": "Apple just told the world it has no idea who the Mac is for",
-    "url": "https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b#.8j5koelrj",
-    "votes": 5,
-    "posted": "Oct 31, 2016 4:39:05 PM"
-  },
-  {
-    "id": "12837726",
-    "timestamp": "Oct 31, 2016 5:05:57 PM",
-    "topic": "Hacker News Dataset Update October 2016",
-    "url": "http://aaron-hoffman.blogspot.com/2016/10/hacker-news-dataset-october-2016.html",
-    "votes": 5,
-    "posted": "Oct 31, 2016 4:37:21 PM"
-  },
-  {
-    "id": "12837669",
-    "timestamp": "Oct 31, 2016 6:06:03 PM",
-    "topic": "Portier, a spiritual successor to Mozilla Persona",
-    "url": "https://portier.github.io/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 4:31:39 PM"
-  },
-  {
-    "id": "12837659",
-    "timestamp": "Oct 31, 2016 4:55:56 PM",
-    "topic": "Steve Jobs would probably very upset with what Apple has become",
-    "url": "http://qz.com/822818/steve-jobs-would-probably-very-upset-with-what-apple-aapl-has-become/",
-    "votes": 7,
-    "posted": "Oct 31, 2016 4:30:46 PM"
-  },
-  {
-    "id": "12837641",
-    "timestamp": "Oct 31, 2016 10:46:58 PM",
-    "topic": "The entire US-Mexico border visualized in 200,000 satellite images",
-    "url": "https://theintercept.com/2016/10/26/best-of-luck-with-the-wall/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 4:28:35 PM"
-  },
-  {
-    "id": "12837621",
-    "timestamp": "Oct 31, 2016 10:46:58 PM",
-    "topic": "Microsoft Edge in progress for WebAssembly browser preview",
-    "url": "https://blogs.windows.com/msedgedev/2016/10/31/webassembly-browser-preview/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 4:26:46 PM"
-  },
-  {
-    "id": "12837569",
-    "timestamp": "Oct 31, 2016 5:05:58 PM",
-    "topic": "Japan’s Disposable Workers: “Dumping Ground”",
-    "url": "https://vimeo.com/129833921",
-    "votes": 4,
-    "posted": "Oct 31, 2016 4:23:17 PM"
-  },
-  {
-    "id": "12837444",
-    "timestamp": "Oct 31, 2016 10:56:59 PM",
-    "topic": "WebAssembly Browser Preview",
-    "url": "https://hacks.mozilla.org/2016/10/webassembly-browser-preview/",
-    "votes": 14,
-    "posted": "Oct 31, 2016 4:11:35 PM"
-  },
-  {
-    "id": "12837385",
-    "timestamp": "Oct 31, 2016 10:56:59 PM",
-    "topic": "Theshadowbrokers: Message#5 – Trick or Treat?",
-    "url": "https://medium.com/@shadowbrokerss/message-5-trick-or-treat-e43f946f93e6#.72baoaiov",
-    "votes": 3,
-    "posted": "Oct 31, 2016 4:06:03 PM"
-  },
-  {
-    "id": "12837381",
-    "timestamp": "Oct 31, 2016 4:45:55 PM",
-    "topic": "The 40 Books That Saved My Life",
-    "url": "http://www.jamesaltucher.com/2016/10/books-saved-life/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 4:05:39 PM"
-  },
-  {
-    "id": "12837368",
-    "timestamp": "Nov 1, 2016 12:17:10 AM",
-    "topic": "Show HN: Portier, a spiritual successor to Mozilla Persona",
-    "url": "http://portier.io",
-    "votes": 15,
-    "posted": "Oct 31, 2016 4:04:17 PM"
-  },
-  {
-    "id": "12837357",
-    "timestamp": "Oct 31, 2016 4:55:56 PM",
-    "topic": "Ask HN: What is the best Hackintosh laptop for ios app developers?",
-    "votes": 8,
-    "posted": "Oct 31, 2016 4:03:38 PM"
-  },
-  {
-    "id": "12837350",
-    "timestamp": "Oct 31, 2016 4:15:52 PM",
-    "topic": "Peter Thiel Speaks at the National Press Club – Live Stream",
-    "url": "https://www.youtube.com/watch?v\u003dob-LJqPQEJ4",
-    "votes": 6,
-    "posted": "Oct 31, 2016 4:02:08 PM"
-  },
-  {
-    "id": "12837296",
-    "timestamp": "Oct 31, 2016 4:55:56 PM",
-    "topic": "Shadow brokers dump more NSA data",
-    "url": "https://medium.com/@shadowbrokerss/message-5-trick-or-treat-e43f946f93e6#.hj0bgclwv",
-    "votes": 3,
-    "posted": "Oct 31, 2016 3:57:47 PM"
   }
 ];
