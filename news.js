@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12892257",
+    "timestamp": "Nov 7, 2016 5:52:32 PM",
+    "topic": "Inside Magic Leap, the Secretive $4.5B Startup Changing Computing Forever",
+    "url": "http://www.forbes.com/sites/davidewalt/2016/11/02/inside-magic-leap-the-secretive-4-5-billion-startup-changing-computing-forever/#7e4ba0c9e83f",
+    "votes": 5,
+    "posted": "Nov 7, 2016 5:26:07 PM"
+  },
+  {
+    "id": "12892207",
+    "timestamp": "Nov 7, 2016 5:32:30 PM",
+    "topic": "HumanPredictions – bootstrapping a SaaS app to $18k/mo in under a year",
+    "url": "https://www.indiehackers.com/businesses/humanpredictions?utm_source\u003dhacker-news\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003dsocial",
+    "votes": 9,
+    "posted": "Nov 7, 2016 5:19:51 PM"
+  },
+  {
+    "id": "12892172",
+    "timestamp": "Nov 7, 2016 5:22:29 PM",
+    "topic": "Ceasefires Don’t Work: We Have the Numbers to Prove It",
+    "url": "http://isnblog.ethz.ch/conflict/ceasefires-dont-work-we-have-the-numbers-to-prove-it",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:16:01 PM"
+  },
+  {
+    "id": "12892063",
+    "timestamp": "Nov 7, 2016 5:32:30 PM",
+    "topic": "Adobe demos “photoshop for audio,” lets you edit speech as easily as text",
+    "url": "http://arstechnica.com/information-technology/2016/11/adobe-voco-photoshop-for-audio-speech-editing/",
+    "votes": 5,
+    "posted": "Nov 7, 2016 5:03:07 PM"
+  },
+  {
     "id": "12891889",
     "timestamp": "Nov 7, 2016 4:52:26 PM",
     "topic": "Homebrew 1.1.0",
     "url": "http://brew.sh/2016/11/07/homebrew-1.1.0/",
     "votes": 21,
     "posted": "Nov 7, 2016 4:43:04 PM"
+  },
+  {
+    "id": "12891765",
+    "timestamp": "Nov 7, 2016 5:02:27 PM",
+    "topic": "Private Porn Shoots Brilliant? No",
+    "url": "https://popehat.com/2016/11/06/private-porn-shoots-brilliant-no/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+Popehat+%28Popehat%29",
+    "votes": 3,
+    "posted": "Nov 7, 2016 4:26:32 PM"
+  },
+  {
+    "id": "12891727",
+    "timestamp": "Nov 7, 2016 5:02:27 PM",
+    "topic": "Tesla just killed one of the biggest benefits for customers",
+    "url": "http://www.businessinsider.com/tesla-to-begin-charging-for-superchargers-2016-11",
+    "votes": 7,
+    "posted": "Nov 7, 2016 4:20:58 PM"
   },
   {
     "id": "12891685",
@@ -22,6 +70,22 @@ var newsArray = [
     "url": "https://hyper.sh/",
     "votes": 10,
     "posted": "Nov 7, 2016 4:08:24 PM"
+  },
+  {
+    "id": "12891582",
+    "timestamp": "Nov 7, 2016 5:52:32 PM",
+    "topic": "Samsung is building its own AI assistant for the Galaxy S8",
+    "url": "https://techcrunch.com/2016/11/07/samsung-ai/",
+    "votes": 5,
+    "posted": "Nov 7, 2016 4:08:18 PM"
+  },
+  {
+    "id": "12891453",
+    "timestamp": "Nov 7, 2016 5:22:29 PM",
+    "topic": "Motivational Quotes for Realistic People",
+    "url": "https://medium.com/art-marketing/motivational-quotes-for-realistic-people-556f9bc5af9c#.7ulfiwuvs",
+    "votes": 6,
+    "posted": "Nov 7, 2016 3:55:41 PM"
   },
   {
     "id": "12891169",
@@ -86,6 +150,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/07/fcc-ushers-in-a-troublesome-new-world-for-online-privacy/",
     "votes": 3,
     "posted": "Nov 7, 2016 1:00:30 PM"
+  },
+  {
+    "id": "12890376",
+    "timestamp": "Nov 7, 2016 5:12:28 PM",
+    "topic": "Musk: We need universal basic income because robots will take all the jobs",
+    "url": "http://arstechnica.co.uk/business/2016/11/elon-musk-universal-income-survive-robot-workers/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 12:52:29 PM"
   },
   {
     "id": "12890118",
@@ -7813,101 +7885,5 @@ var newsArray = [
     "url": "http://arstechnica.com/tech-policy/2016/10/uber-drivers-employees-uk-court-ruling/",
     "votes": 3,
     "posted": "Oct 31, 2016 5:54:19 PM"
-  },
-  {
-    "id": "12838547",
-    "timestamp": "Oct 31, 2016 6:06:03 PM",
-    "topic": "The budget explained in simple English",
-    "url": "http://imgur.com/a/UBIXe",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:49:24 PM"
-  },
-  {
-    "id": "12838463",
-    "timestamp": "Oct 31, 2016 11:37:05 PM",
-    "topic": "Palantir Wins Legal Battle Over Army Combat Data System",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-31/palantir-wins-legal-battle-over-army-combat-data-system",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:41:15 PM"
-  },
-  {
-    "id": "12838335",
-    "timestamp": "Oct 31, 2016 5:56:02 PM",
-    "topic": "V8 JavaScript Engine: WebAssembly Browser Preview",
-    "url": "http://v8project.blogspot.com/2016/10/webassembly-browser-preview.html",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:28:18 PM"
-  },
-  {
-    "id": "12838301",
-    "timestamp": "Oct 31, 2016 10:46:57 PM",
-    "topic": "Beyond 10,000 Lines – Lessons Learned from a Large Phoenix Project",
-    "url": "https://shift.infinite.red/beyond-10-000-lines-ba1adc17cc7b#.nm2rcl956",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:25:37 PM"
-  },
-  {
-    "id": "12838203",
-    "timestamp": "Oct 31, 2016 5:46:01 PM",
-    "topic": "TWINKLE is a hypothetical integer factorization device circa 1999 by Adi Shamir",
-    "url": "https://en.wikipedia.org/wiki/TWINKLE",
-    "votes": 6,
-    "posted": "Oct 31, 2016 5:16:13 PM"
-  },
-  {
-    "id": "12838170",
-    "timestamp": "Oct 31, 2016 5:25:59 PM",
-    "topic": "WikiLeaks: Zuckerberg Got His Sheryl Sandberg-Arranged \u0027Play Date\u0027 with Podesta",
-    "url": "https://slashdot.org/submission/6437683/wikileaks-zuckerberg-got-his-sheryl-sandberg-arranged-play-date-with-podesta",
-    "votes": 12,
-    "posted": "Oct 31, 2016 5:13:07 PM"
-  },
-  {
-    "id": "12838152",
-    "timestamp": "Oct 31, 2016 5:46:01 PM",
-    "topic": "Show HN: Fast Style Transfer in TensorFlow",
-    "url": "https://github.com/lengstrom/fast-style-transfer/",
-    "votes": 11,
-    "posted": "Oct 31, 2016 5:11:49 PM"
-  },
-  {
-    "id": "12838134",
-    "timestamp": "Oct 31, 2016 5:15:58 PM",
-    "topic": "EasyPost is hiring back end engineers",
-    "url": "https://www.easypost.com/jobs",
-    "votes": 1,
-    "posted": "Oct 31, 2016 5:10:17 PM"
-  },
-  {
-    "id": "12838130",
-    "timestamp": "Nov 1, 2016 3:57:31 AM",
-    "topic": "Getting the Best Performance Out of NumPy",
-    "url": "http://ipython-books.github.io/featured-01/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:10:02 PM"
-  },
-  {
-    "id": "12838109",
-    "timestamp": "Nov 1, 2016 3:57:31 AM",
-    "topic": "BSD Socket API Revamp",
-    "url": "https://raw.githubusercontent.com/sustrik/dsock/master/rfc/sock-api-revamp-01.txt",
-    "votes": 5,
-    "posted": "Oct 31, 2016 5:08:15 PM"
-  },
-  {
-    "id": "12838079",
-    "timestamp": "Oct 31, 2016 10:46:57 PM",
-    "topic": "Apple\u0027s desensitisation of the human race to fundamental security practices",
-    "url": "https://www.troyhunt.com/apples-desensitisation-of-the-human-race-to-fundamental-security-practices/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+TroyHunt+%28Troy+Hunt%29",
-    "votes": 5,
-    "posted": "Oct 31, 2016 5:06:35 PM"
-  },
-  {
-    "id": "12838034",
-    "timestamp": "Oct 31, 2016 6:56:09 PM",
-    "topic": "Peter Thiel: I’m voting for Trump because",
-    "url": "http://www.businessinsider.com/peter-thiel-trump-speech-national-press-club-2016-10",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:02:22 PM"
   }
 ];
