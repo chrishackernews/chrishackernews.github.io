@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 11:18:40 AM"
   },
   {
+    "id": "12889956",
+    "timestamp": "Nov 7, 2016 1:22:10 PM",
+    "topic": "NASA: EM Drive really does work",
+    "url": "http://www.sciencealert.com/leaked-nasa-paper-shows-the-impossible-em-drive-really-does-work",
+    "votes": 3,
+    "posted": "Nov 7, 2016 11:02:36 AM"
+  },
+  {
     "id": "12889907",
     "timestamp": "Nov 7, 2016 11:01:56 AM",
     "topic": "How I went from being a stranger to having a network in Silicon Valley",
@@ -38,6 +46,14 @@ var newsArray = [
     "url": "https://lesspass.com/#/",
     "votes": 4,
     "posted": "Nov 7, 2016 10:22:44 AM"
+  },
+  {
+    "id": "12889719",
+    "timestamp": "Nov 7, 2016 1:02:07 PM",
+    "topic": "Tesco Bank: 20,000 customers lose money",
+    "url": "http://www.bbc.co.uk/news/business-37891742",
+    "votes": 4,
+    "posted": "Nov 7, 2016 9:55:47 AM"
   },
   {
     "id": "12889680",
@@ -8051,29 +8067,5 @@ var newsArray = [
     "url": "http://ashn.uk/survey-tooling-2016",
     "votes": 4,
     "posted": "Oct 31, 2016 1:52:13 PM"
-  },
-  {
-    "id": "12836184",
-    "timestamp": "Oct 31, 2016 1:55:40 PM",
-    "topic": "Wssdl: A lua DSL for describing custom protocols in wireshark",
-    "url": "https://github.com/diacritic/wssdl",
-    "votes": 3,
-    "posted": "Oct 31, 2016 1:44:08 PM"
-  },
-  {
-    "id": "12836038",
-    "timestamp": "Oct 31, 2016 2:25:42 PM",
-    "topic": "What the Heck Is Happening at Apple?",
-    "url": "http://www.cringely.com/2016/10/31/heck-happened-apple/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 1:16:40 PM"
-  },
-  {
-    "id": "12836015",
-    "timestamp": "Oct 31, 2016 5:15:59 PM",
-    "topic": "A Silent Cause of Bad Business Decisions",
-    "url": "https://medium.dave-bailey.com/the-silent-cause-of-bad-business-decisions-b95d977b5ca7#.1jckdefsh",
-    "votes": 4,
-    "posted": "Oct 31, 2016 1:12:29 PM"
   }
 ];
