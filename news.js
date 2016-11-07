@@ -8043,35 +8043,5 @@ var newsArray = [
     "url": "https://twitter.com/wikileaks/status/792858025212121088",
     "votes": 7,
     "posted": "Oct 31, 2016 9:55:48 AM"
-  },
-  {
-    "id": "12835094",
-    "timestamp": "Oct 31, 2016 10:05:22 AM",
-    "topic": "Ask HN: Disappointed by the new Macbook, what alternatives do we have?",
-    "votes": 21,
-    "posted": "Oct 31, 2016 9:49:38 AM"
-  },
-  {
-    "id": "12835044",
-    "timestamp": "Oct 31, 2016 1:35:38 PM",
-    "topic": "Show HN: Spongedown – markdown renderer with ascii diagram support",
-    "url": "https://ivanceras.github.io/spongedown/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 9:36:59 AM"
-  },
-  {
-    "id": "12835000",
-    "timestamp": "Oct 31, 2016 7:36:15 PM",
-    "topic": "Ask HN: What to do while compiling?",
-    "votes": 8,
-    "posted": "Oct 31, 2016 9:24:19 AM"
-  },
-  {
-    "id": "12834907",
-    "timestamp": "Oct 31, 2016 9:05:18 AM",
-    "topic": "Admit it: Microsoft is now a braver, more innovative company than Apple",
-    "url": "http://mashable.com/2016/10/27/microsoft-better-apple/#gGEqKo9ceqqw",
-    "votes": 4,
-    "posted": "Oct 31, 2016 8:51:51 AM"
   }
 ];
