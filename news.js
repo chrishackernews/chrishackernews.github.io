@@ -24,12 +24,27 @@ var newsArray = [
     "posted": "Nov 7, 2016 6:57:07 AM"
   },
   {
+    "id": "12889053",
+    "timestamp": "Nov 7, 2016 8:41:45 AM",
+    "topic": "Pencil: open-source GUI prototyping tool",
+    "url": "http://pencil.evolus.vn/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 6:42:29 AM"
+  },
+  {
     "id": "12888997",
     "timestamp": "Nov 7, 2016 6:41:35 AM",
     "topic": "The US Airline that breaks down mid-air 4x more often than other airlines",
     "url": "http://www.tampabay.com/projects/2016/investigations/allegiant-air/mechanical-breakdowns/",
     "votes": 3,
     "posted": "Nov 7, 2016 6:25:49 AM"
+  },
+  {
+    "id": "12888993",
+    "timestamp": "Nov 7, 2016 8:41:45 AM",
+    "topic": "Ask HN: If MS spun off Windows, would it be forgiven?",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:25:17 AM"
   },
   {
     "id": "12888877",
@@ -53,6 +68,22 @@ var newsArray = [
     "url": "https://www.zdziarski.com/blog/?p\u003d6335",
     "votes": 3,
     "posted": "Nov 7, 2016 4:52:07 AM"
+  },
+  {
+    "id": "12888645",
+    "timestamp": "Nov 7, 2016 8:21:43 AM",
+    "topic": "Postmates investors changed their preferred stock to common stock",
+    "url": "http://www.recode.net/2016/11/2/13481456/postmates-investors-preferred-stock-converted-common",
+    "votes": 4,
+    "posted": "Nov 7, 2016 4:40:52 AM"
+  },
+  {
+    "id": "12888556",
+    "timestamp": "Nov 7, 2016 8:41:45 AM",
+    "topic": "Microsoft is moving 30% of its New York workers to WeWork offices",
+    "url": "http://www.businessinsider.com/microsoft-new-york-workers-wework-2016-11",
+    "votes": 3,
+    "posted": "Nov 7, 2016 4:20:50 AM"
   },
   {
     "id": "12888547",
@@ -8042,45 +8073,5 @@ var newsArray = [
     "url": "http://mashable.com/2016/10/27/microsoft-better-apple/#gGEqKo9ceqqw",
     "votes": 4,
     "posted": "Oct 31, 2016 8:51:51 AM"
-  },
-  {
-    "id": "12834902",
-    "timestamp": "Oct 31, 2016 9:05:18 AM",
-    "topic": "Benjamin Button Reviews the New MacBook Pro",
-    "url": "https://blog.pinboard.in/2016/10/benjamin_button_reviews_the_new_macbook_pro/",
-    "votes": 6,
-    "posted": "Oct 31, 2016 8:51:16 AM"
-  },
-  {
-    "id": "12834899",
-    "timestamp": "Oct 31, 2016 12:35:34 PM",
-    "topic": "Apple is ditching its iconic startup chime with the new MacBook Pro",
-    "url": "http://www.theverge.com/2016/10/31/13472920/apple-macbook-pro-chime-gone",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:51:04 AM"
-  },
-  {
-    "id": "12834857",
-    "timestamp": "Oct 31, 2016 9:25:19 AM",
-    "topic": "How Does Recent AI Progress Affect the Bostromian Paradigm?",
-    "url": "http://slatestarcodex.com/2016/10/30/how-does-recent-ai-progress-affect-the-bostromian-paradigm/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:38:42 AM"
-  },
-  {
-    "id": "12834815",
-    "timestamp": "Oct 31, 2016 9:55:21 AM",
-    "topic": "JetBrains (Intellij IDEA, PHPStorm) offers all of their IDE\u0027s free to students",
-    "url": "https://www.jetbrains.com/student/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:24:09 AM"
-  },
-  {
-    "id": "12834804",
-    "timestamp": "Oct 31, 2016 8:55:17 AM",
-    "topic": "Things I will tell my kids if they become entrepreneurs",
-    "url": "http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:19:00 AM"
   }
 ];
