@@ -1,5 +1,76 @@
 var newsArray = [
   {
+    "id": "12892643",
+    "timestamp": "Nov 7, 2016 6:22:35 PM",
+    "topic": "We’re Scientists. We’re Moms. And We Avoid Non-GMO Products",
+    "url": "https://medium.com/@BioChicaGMO/were-scientists-we-re-moms-and-we-avoid-non-gmo-products-33bc0aa351a3#.x8kywi7v5",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:06:45 PM"
+  },
+  {
+    "id": "12892620",
+    "timestamp": "Nov 7, 2016 6:12:33 PM",
+    "topic": "Microsoft Azure Container Service Supports Kubernetes",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-container-service-the-cloud-s-most-open-option-for-containers/",
+    "votes": 11,
+    "posted": "Nov 7, 2016 6:04:11 PM"
+  },
+  {
+    "id": "12892550",
+    "timestamp": "Nov 7, 2016 6:22:35 PM",
+    "topic": "Power-touch a touchbar for linux and windows using your phone",
+    "url": "https://github.com/rokyed/power-touch",
+    "votes": 5,
+    "posted": "Nov 7, 2016 5:56:47 PM"
+  },
+  {
+    "id": "12892547",
+    "timestamp": "Nov 7, 2016 6:32:37 PM",
+    "topic": "Gorgeous native apps with Java",
+    "url": "https://www.codenameone.com/index.html",
+    "votes": 5,
+    "posted": "Nov 7, 2016 5:56:33 PM"
+  },
+  {
+    "id": "12892502",
+    "timestamp": "Nov 7, 2016 6:42:37 PM",
+    "topic": "Quick fix for the internet sketched on 3 napkins in 1989 is still in place today",
+    "url": "http://www.washingtonpost.com/sf/business/2015/05/31/net-of-insecurity-part-2/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 5:51:57 PM"
+  },
+  {
+    "id": "12892473",
+    "timestamp": "Nov 7, 2016 6:52:38 PM",
+    "topic": "Ask HN: Do you have a side project you want to sell? (November 2016)",
+    "votes": 5,
+    "posted": "Nov 7, 2016 5:48:59 PM"
+  },
+  {
+    "id": "12892412",
+    "timestamp": "Nov 7, 2016 6:12:33 PM",
+    "topic": "Soylent Thinks It Found What Was Making People Sick: Algae",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-07/soylent-thinks-it-found-what-was-making-people-sick-algae",
+    "votes": 12,
+    "posted": "Nov 7, 2016 5:43:42 PM"
+  },
+  {
+    "id": "12892333",
+    "timestamp": "Nov 7, 2016 6:32:36 PM",
+    "topic": "Android Auto: now available in every car",
+    "url": "https://blog.google/products/android/android-auto-available-in-every-car/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 5:34:48 PM"
+  },
+  {
+    "id": "12892268",
+    "timestamp": "Nov 7, 2016 6:32:36 PM",
+    "topic": "Show HN: UThreads-concurrent M:N fibers in C++",
+    "url": "http://samanbarghi.com/uThreads/v0.3.0/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:27:49 PM"
+  },
+  {
     "id": "12892257",
     "timestamp": "Nov 7, 2016 5:52:32 PM",
     "topic": "Inside Magic Leap, the Secretive $4.5B Startup Changing Computing Forever",
@@ -24,12 +95,28 @@ var newsArray = [
     "posted": "Nov 7, 2016 5:16:01 PM"
   },
   {
+    "id": "12892117",
+    "timestamp": "Nov 7, 2016 6:12:34 PM",
+    "topic": "MacBook Pro 2016 Dongles: Wifi Stops Working with Dongles",
+    "url": "http://www.techplz.com/macbook-pro-2016-dongles-wifi-stops-working-dongles-apple-cuts-prices-due-incompatibilities/174136/",
+    "votes": 12,
+    "posted": "Nov 7, 2016 5:09:19 PM"
+  },
+  {
     "id": "12892063",
     "timestamp": "Nov 7, 2016 5:32:30 PM",
     "topic": "Adobe demos “photoshop for audio,” lets you edit speech as easily as text",
     "url": "http://arstechnica.com/information-technology/2016/11/adobe-voco-photoshop-for-audio-speech-editing/",
     "votes": 5,
     "posted": "Nov 7, 2016 5:03:07 PM"
+  },
+  {
+    "id": "12892058",
+    "timestamp": "Nov 7, 2016 6:12:34 PM",
+    "topic": "Why Red Hat Chose Kubernetes for OpenShift",
+    "url": "https://blog.openshift.com/red-hat-chose-kubernetes-openshift/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 5:02:25 PM"
   },
   {
     "id": "12891889",
@@ -102,6 +189,14 @@ var newsArray = [
     "url": "https://swarbrickjones.wordpress.com/2016/11/07/deeprhyme-d-prime-generating-dope-rhymes-with-deep-learning/",
     "votes": 4,
     "posted": "Nov 7, 2016 3:23:54 PM"
+  },
+  {
+    "id": "12891095",
+    "timestamp": "Nov 7, 2016 6:52:38 PM",
+    "topic": "UThreads: concurrent M:N fibers in C++",
+    "url": "https://github.com/samanbarghi/uThreads",
+    "votes": 5,
+    "posted": "Nov 7, 2016 3:15:10 PM"
   },
   {
     "id": "12891068",
@@ -7726,164 +7821,5 @@ var newsArray = [
     "url": "https://oded.ninja/2016/10/30/optimizing-your-linux-distro-ninja-level/",
     "votes": 5,
     "posted": "Oct 31, 2016 7:03:49 PM"
-  },
-  {
-    "id": "12839118",
-    "timestamp": "Nov 1, 2016 12:17:10 AM",
-    "topic": "Hacking diet the middle path way",
-    "url": "https://www.wired.com/2016/10/dan-zigmond-buddhas-diet/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:46:20 PM"
-  },
-  {
-    "id": "12839107",
-    "timestamp": "Oct 31, 2016 9:06:25 PM",
-    "topic": "Go See Ghostbusters Because It Matters",
-    "url": "https://medium.com/code-like-a-girl/go-see-ghostbusters-because-it-matters-451d2fa28ef2#.px8erdp1k",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:45:39 PM"
-  },
-  {
-    "id": "12839054",
-    "timestamp": "Oct 31, 2016 6:46:08 PM",
-    "topic": "LinkedIn is working on a project that should terrify the $175B hardware industry",
-    "url": "http://www.businessinsider.com/how-linkedin-is-shrugging-off-the-175-billion-hardware-industry-2016-10",
-    "votes": 4,
-    "posted": "Oct 31, 2016 6:41:04 PM"
-  },
-  {
-    "id": "12839037",
-    "timestamp": "Oct 31, 2016 7:26:14 PM",
-    "topic": "Peter Thiel Trump Speech",
-    "url": "https://www.youtube.com/watch?v\u003dAfYLEPRiIyE",
-    "votes": 9,
-    "posted": "Oct 31, 2016 6:39:42 PM"
-  },
-  {
-    "id": "12838987",
-    "timestamp": "Oct 31, 2016 9:06:24 PM",
-    "topic": "The Death of Transit?",
-    "url": "https://labs.ripe.net/Members/gih/the-death-of-transit",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:35:18 PM"
-  },
-  {
-    "id": "12838983",
-    "timestamp": "Oct 31, 2016 10:36:55 PM",
-    "topic": "A survey of attacks on Ethereum smart contracts",
-    "url": "https://eprint.iacr.org/2016/1007",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:34:43 PM"
-  },
-  {
-    "id": "12838934",
-    "timestamp": "Oct 31, 2016 6:36:06 PM",
-    "topic": "How Facebook, Instagram, and Twitter helped police target black activists",
-    "url": "http://fusion.net/story/356808/facebook-twitter-instagram-geofeedia-tracking/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:29:52 PM"
-  },
-  {
-    "id": "12838908",
-    "timestamp": "Oct 31, 2016 6:56:09 PM",
-    "topic": "I Fooled the World into Thinking I Was a Successful EDM DJ–For an Art Project",
-    "url": "http://thump.vice.com/en_us/article/i-fooled-the-world-into-thinking-i-was-a-successful-edm-djfor-an-art-project?utm_source\u003dthumpfbus",
-    "votes": 5,
-    "posted": "Oct 31, 2016 6:27:45 PM"
-  },
-  {
-    "id": "12838904",
-    "timestamp": "Oct 31, 2016 7:06:10 PM",
-    "topic": "Minoca OS: A new open source operating system",
-    "url": "https://blog.minocacorp.com/minoca-os-a-new-open-source-operating-system-4bb7998df3a7",
-    "votes": 21,
-    "posted": "Oct 31, 2016 6:27:17 PM"
-  },
-  {
-    "id": "12838897",
-    "timestamp": "Nov 1, 2016 3:47:30 AM",
-    "topic": "The Challenge of Computer Mathematics [pdf]",
-    "url": "http://www.cs.ru.nl/~freek/notes/RSpaper.pdf",
-    "votes": 4,
-    "posted": "Oct 31, 2016 6:26:37 PM"
-  },
-  {
-    "id": "12838891",
-    "timestamp": "Oct 31, 2016 6:36:06 PM",
-    "topic": "Show HN: A 3D-printed turret so you can shoot aliens for Halloween",
-    "url": "https://sidigital.co/alien-invasion",
-    "votes": 8,
-    "posted": "Oct 31, 2016 6:26:09 PM"
-  },
-  {
-    "id": "12838890",
-    "timestamp": "Oct 31, 2016 6:36:06 PM",
-    "topic": "GIF Site Giphy Is Valued at $600M",
-    "url": "http://www.wsj.com/articles/gif-site-giphy-is-valued-at-600-million-1477906202?",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:25:45 PM"
-  },
-  {
-    "id": "12838858",
-    "timestamp": "Oct 31, 2016 6:46:08 PM",
-    "topic": "How Vine Overlooked the People of Color Who Made It Amazing",
-    "url": "https://backchannel.com/how-vine-overlooked-the-people-of-color-who-made-it-amazing-2d80d4cde651#.ta510hwc1",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:23:03 PM"
-  },
-  {
-    "id": "12838826",
-    "timestamp": "Oct 31, 2016 6:46:08 PM",
-    "topic": "Where to Go from Here",
-    "url": "https://owensd.io/2016/10/31/where-to-go-from-here-2/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:20:20 PM"
-  },
-  {
-    "id": "12838782",
-    "timestamp": "Oct 31, 2016 6:36:06 PM",
-    "topic": "Microsoft open sources its next-gen cloud hardware design",
-    "url": "https://techcrunch.com/2016/10/31/microsoft-open-sources-its-next-gen-cloud-hardware-design/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 6:17:04 PM"
-  },
-  {
-    "id": "12838754",
-    "timestamp": "Oct 31, 2016 10:36:55 PM",
-    "topic": "4K KVMs: Frustration with Terrible Hardware",
-    "url": "http://penguindreams.org/blog/4k-uhd-kvm-switches-the-startech-sv231mdpu2-and-the-iogear-GCS62DP/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 6:14:00 PM"
-  },
-  {
-    "id": "12838751",
-    "timestamp": "Oct 31, 2016 6:26:05 PM",
-    "topic": "Making what people want isn’t enough. You have to share it.",
-    "url": "https://blog.oldgeekjobs.com/be-a-prolific-sharer-31bfdfb50a40",
-    "votes": 7,
-    "posted": "Oct 31, 2016 6:13:47 PM"
-  },
-  {
-    "id": "12838716",
-    "timestamp": "Oct 31, 2016 6:16:04 PM",
-    "topic": "Debian drops support for PowerPC",
-    "url": "https://lists.debian.org/debian-devel-announce/2016/10/msg00008.html",
-    "votes": 7,
-    "posted": "Oct 31, 2016 6:10:35 PM"
-  },
-  {
-    "id": "12838690",
-    "timestamp": "Nov 1, 2016 3:18:29 PM",
-    "topic": "Ask HN: Standing desks – still using over the long term?",
-    "votes": 4,
-    "posted": "Oct 31, 2016 6:08:26 PM"
-  },
-  {
-    "id": "12838583",
-    "timestamp": "Oct 31, 2016 10:46:57 PM",
-    "topic": "Court: Uber drivers are company employees not self-employed contractors",
-    "url": "http://arstechnica.com/tech-policy/2016/10/uber-drivers-employees-uk-court-ruling/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 5:54:19 PM"
   }
 ];
