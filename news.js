@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12891169",
+    "timestamp": "Nov 7, 2016 3:52:21 PM",
+    "topic": "An Update to Our Supercharging Program",
+    "url": "https://www.tesla.com/blog/update-our-supercharging-program",
+    "votes": 5,
+    "posted": "Nov 7, 2016 3:25:26 PM"
+  },
+  {
+    "id": "12891068",
+    "timestamp": "Nov 7, 2016 3:12:18 PM",
+    "topic": "Inspiring Startup Lessons from Issac Lidsky\u0027s TEDTalk",
+    "url": "https://www.youtube.com/watch?v\u003d3fGuzchHXAU",
+    "votes": 3,
+    "posted": "Nov 7, 2016 3:09:56 PM"
+  },
+  {
+    "id": "12890921",
+    "timestamp": "Nov 7, 2016 3:22:19 PM",
+    "topic": "Artificial intelligence: An IT Crucial",
+    "url": "https://medium.com/@shifatbd/artificial-intelligence-an-it-crucial-36ec2d2d696f",
+    "votes": 3,
+    "posted": "Nov 7, 2016 2:45:06 PM"
+  },
+  {
     "id": "12890856",
     "timestamp": "Nov 7, 2016 2:52:16 PM",
     "topic": "Video Games Are Boring",
     "url": "http://www.gamesindustry.biz/articles/2016-11-07-video-games-are-boring",
     "votes": 5,
     "posted": "Nov 7, 2016 2:35:36 PM"
+  },
+  {
+    "id": "12890831",
+    "timestamp": "Nov 7, 2016 3:12:18 PM",
+    "topic": "MacBook Pro is a lie",
+    "url": "http://www.theverge.com/2016/11/7/13548052/the-macbook-pro-lie",
+    "votes": 7,
+    "posted": "Nov 7, 2016 2:32:10 PM"
   },
   {
     "id": "12890118",
@@ -7955,61 +7987,5 @@ var newsArray = [
     "url": "https://medium.com/@shadowbrokerss/message-5-trick-or-treat-e43f946f93e6#.hj0bgclwv",
     "votes": 3,
     "posted": "Oct 31, 2016 3:57:47 PM"
-  },
-  {
-    "id": "12837074",
-    "timestamp": "Oct 31, 2016 11:17:02 PM",
-    "topic": "Tesla Unveils Its New Line of Camouflaged Solar Panels",
-    "url": "https://www.wired.com/2016/10/tesla-unveils-new-line-camouflaged-solar-panels/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 3:36:56 PM"
-  },
-  {
-    "id": "12837067",
-    "timestamp": "Oct 31, 2016 4:35:54 PM",
-    "topic": "Typing Chinese like English",
-    "url": "https://tedclancy.wordpress.com/2016/10/31/typing-chinese",
-    "votes": 6,
-    "posted": "Oct 31, 2016 3:36:18 PM"
-  },
-  {
-    "id": "12837036",
-    "timestamp": "Oct 31, 2016 11:17:01 PM",
-    "topic": "Tesla Solar",
-    "url": "https://www.tesla.com/solar",
-    "votes": 3,
-    "posted": "Oct 31, 2016 3:33:09 PM"
-  },
-  {
-    "id": "12837007",
-    "timestamp": "Oct 31, 2016 11:17:02 PM",
-    "topic": "Solar Storms Can Weaken Earth’s Magnetic Field",
-    "url": "http://www.sciencemag.org/news/2016/10/solar-storms-can-weaken-earth-s-magnetic-field",
-    "votes": 3,
-    "posted": "Oct 31, 2016 3:30:50 PM"
-  },
-  {
-    "id": "12836821",
-    "timestamp": "Oct 31, 2016 11:17:01 PM",
-    "topic": "UBlock/Adblock filters for known NSA exploit servers",
-    "url": "https://github.com/gasull/adblock-nsa",
-    "votes": 3,
-    "posted": "Oct 31, 2016 3:12:20 PM"
-  },
-  {
-    "id": "12836812",
-    "timestamp": "Oct 31, 2016 4:05:51 PM",
-    "topic": "2017 Chevrolet Bolt Tested: It’s a Real, Useful Car That Happens to Be an EV",
-    "url": "http://www.caranddriver.com/reviews/2017-chevrolet-bolt-ev-test-review",
-    "votes": 4,
-    "posted": "Oct 31, 2016 3:11:25 PM"
-  },
-  {
-    "id": "12836779",
-    "timestamp": "Oct 31, 2016 11:17:01 PM",
-    "topic": "Pragmatic Software Project Management Trifecta",
-    "url": "http://peopleovertools.com/2016/07/03/pragmatic-project-management-trifecta.html",
-    "votes": 4,
-    "posted": "Oct 31, 2016 3:07:04 PM"
   }
 ];
