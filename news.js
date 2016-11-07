@@ -1,11 +1,65 @@
 var newsArray = [
   {
+    "id": "12894248",
+    "timestamp": "Nov 7, 2016 8:42:50 PM",
+    "topic": "BuildZoom (a better way to remodel) is hiring in product, growth and engineering",
+    "url": "https://jobs.lever.co/buildzoom",
+    "votes": 1,
+    "posted": "Nov 7, 2016 8:40:52 PM"
+  },
+  {
+    "id": "12894209",
+    "timestamp": "Nov 7, 2016 8:52:58 PM",
+    "topic": "Ask HN: How much do you earn on average through software freelancing?",
+    "votes": 8,
+    "posted": "Nov 7, 2016 8:36:33 PM"
+  },
+  {
+    "id": "12893793",
+    "timestamp": "Nov 7, 2016 8:22:48 PM",
+    "topic": "ZigBee Light Link War-Driving",
+    "url": "http://iotworm.eyalro.net/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 7:58:31 PM"
+  },
+  {
+    "id": "12893789",
+    "timestamp": "Nov 7, 2016 8:22:47 PM",
+    "topic": "The Macintosh GUI in 1984",
+    "url": "http://toastytech.com/guis/macos1.html",
+    "votes": 8,
+    "posted": "Nov 7, 2016 7:58:22 PM"
+  },
+  {
+    "id": "12893703",
+    "timestamp": "Nov 7, 2016 8:12:46 PM",
+    "topic": "Hy",
+    "url": "https://en.wikipedia.org/wiki/Hy",
+    "votes": 3,
+    "posted": "Nov 7, 2016 7:50:07 PM"
+  },
+  {
+    "id": "12893206",
+    "timestamp": "Nov 7, 2016 8:42:50 PM",
+    "topic": "Huffington Post\u0027s criticism of 538\u0027s election forecast",
+    "url": "http://www.huffingtonpost.com/entry/whats-wrong-with-538_us_581ffe18e4b0334571e09e74",
+    "votes": 5,
+    "posted": "Nov 7, 2016 6:59:27 PM"
+  },
+  {
     "id": "12893123",
     "timestamp": "Nov 7, 2016 7:12:40 PM",
     "topic": "Butterfly Effects: Good Ballot Design Is Critical for Democracy",
     "url": "http://99percentinvisible.org/episode/butterfly-effects/",
     "votes": 3,
     "posted": "Nov 7, 2016 6:51:08 PM"
+  },
+  {
+    "id": "12893118",
+    "timestamp": "Nov 7, 2016 8:12:46 PM",
+    "topic": "Ask HN: Why is “advice in Effective Java considered inappropriate for Android”?",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:50:33 PM"
   },
   {
     "id": "12893040",
@@ -143,6 +197,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 5:02:25 PM"
   },
   {
+    "id": "12891912",
+    "timestamp": "Nov 7, 2016 8:22:48 PM",
+    "topic": "Google and YouTube can help keep you informed on Election Day",
+    "url": "https://blog.google/products/search/google-and-youtube-can-help-keep-you-informed-election-day/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 4:45:56 PM"
+  },
+  {
     "id": "12891889",
     "timestamp": "Nov 7, 2016 4:52:26 PM",
     "topic": "Homebrew 1.1.0",
@@ -157,6 +219,13 @@ var newsArray = [
     "url": "https://popehat.com/2016/11/06/private-porn-shoots-brilliant-no/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+Popehat+%28Popehat%29",
     "votes": 3,
     "posted": "Nov 7, 2016 4:26:32 PM"
+  },
+  {
+    "id": "12891741",
+    "timestamp": "Nov 7, 2016 8:12:46 PM",
+    "topic": "Ask HN: Which are the countries where I can convert Bitcoin to local currency?",
+    "votes": 3,
+    "posted": "Nov 7, 2016 4:23:04 PM"
   },
   {
     "id": "12891727",
@@ -437,6 +506,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 5:20:50 AM"
   },
   {
+    "id": "12888739",
+    "timestamp": "Nov 7, 2016 8:02:45 PM",
+    "topic": "Revolting Mind: Jonathan Swift – The Reluctant Rebel",
+    "url": "https://literaryreview.co.uk/revolting-mind",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:08:07 AM"
+  },
+  {
     "id": "12888718",
     "timestamp": "Nov 7, 2016 2:22:14 PM",
     "topic": "A Brief History of RTS AI Research",
@@ -627,6 +704,14 @@ var newsArray = [
     "url": "http://alpharabi.us",
     "votes": 3,
     "posted": "Nov 7, 2016 12:28:47 AM"
+  },
+  {
+    "id": "12887669",
+    "timestamp": "Nov 7, 2016 8:02:45 PM",
+    "topic": "Scottish witchcraft book published online",
+    "url": "http://www.bbc.com/news/uk-scotland-37789413",
+    "votes": 3,
+    "posted": "Nov 7, 2016 12:17:26 AM"
   },
   {
     "id": "12887659",
@@ -929,6 +1014,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 4:53:56 PM"
   },
   {
+    "id": "12885564",
+    "timestamp": "Nov 7, 2016 8:02:45 PM",
+    "topic": "The Oppressive Gospel of ‘Minimalism’",
+    "url": "http://www.nytimes.com/2016/07/31/magazine/the-oppressive-gospel-of-minimalism.html?_r\u003d1",
+    "votes": 4,
+    "posted": "Nov 6, 2016 4:48:21 PM"
+  },
+  {
     "id": "12885558",
     "timestamp": "Nov 7, 2016 12:22:03 PM",
     "topic": "Ask HN: How common is illegal web scraping?",
@@ -1162,6 +1255,14 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/Sleep_and_creativity",
     "votes": 3,
     "posted": "Nov 6, 2016 11:28:37 AM"
+  },
+  {
+    "id": "12884421",
+    "timestamp": "Nov 7, 2016 8:42:50 PM",
+    "topic": "TV series Planet Earth II: The natural world from a new angle",
+    "url": "http://www.bbc.co.uk/news/in-pictures-37872131",
+    "votes": 4,
+    "posted": "Nov 6, 2016 11:22:13 AM"
   },
   {
     "id": "12884417",
@@ -7647,164 +7748,5 @@ var newsArray = [
     "url": "http://falkvinge.net/2012/07/12/in-the-uk-you-will-go-to-jail-not-just-for-encryption-but-for-astronomical-noise-too/",
     "votes": 3,
     "posted": "Oct 31, 2016 8:57:04 PM"
-  },
-  {
-    "id": "12840286",
-    "timestamp": "Nov 1, 2016 10:48:06 AM",
-    "topic": "Show HN: A simple front-end to Jekyll to create and publish academic websites",
-    "url": "http://my.academic.bio",
-    "votes": 4,
-    "posted": "Oct 31, 2016 8:52:33 PM"
-  },
-  {
-    "id": "12840284",
-    "timestamp": "Oct 31, 2016 9:26:38 PM",
-    "topic": "Ask HN: Is discussion of wikileaks not allowed?",
-    "votes": 15,
-    "posted": "Oct 31, 2016 8:52:02 PM"
-  },
-  {
-    "id": "12840267",
-    "timestamp": "Oct 31, 2016 10:36:56 PM",
-    "topic": "Show HN: Load-Balanced LED Cluster Demo with Raspberry Pis",
-    "url": "https://www.youtube.com/watch?v\u003dIaKRqBRq6CE",
-    "votes": 4,
-    "posted": "Oct 31, 2016 8:49:38 PM"
-  },
-  {
-    "id": "12840262",
-    "timestamp": "Oct 31, 2016 8:56:23 PM",
-    "topic": "Apple says no fun allowed on the Touch Bar",
-    "url": "https://techcrunch.com/2016/10/27/apple-says-no-fun-allowed-on-the-touch-bar/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:48:40 PM"
-  },
-  {
-    "id": "12840254",
-    "timestamp": "Oct 31, 2016 8:56:23 PM",
-    "topic": "How Florida\u0027s electricity utilities are manipulating voters to oppose solar",
-    "url": "https://electrek.co/2016/10/30/how-the-electricity-utilities-use-a-little-bit-of-political-jiu-jitsu-to-steal-the-sun/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:48:01 PM"
-  },
-  {
-    "id": "12840251",
-    "timestamp": "Oct 31, 2016 8:56:22 PM",
-    "topic": "Clinton got previews of some debate questions",
-    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/10/31/hacked-emails-suggest-trump-was-right-after-all-clinton-got-previews-of-some-debate-questions/?tid\u003dsm_tw",
-    "votes": 7,
-    "posted": "Oct 31, 2016 8:47:40 PM"
-  },
-  {
-    "id": "12840118",
-    "timestamp": "Oct 31, 2016 8:46:21 PM",
-    "topic": "Peter Thiel Speaks at the National Press Club",
-    "url": "https://www.youtube.com/watch?v\u003dob-LJqPQEJ4\u0026utm\u003demail",
-    "votes": 5,
-    "posted": "Oct 31, 2016 8:32:14 PM"
-  },
-  {
-    "id": "12840116",
-    "timestamp": "Oct 31, 2016 8:56:23 PM",
-    "topic": "Warren wing wants Clinton to crack down on Apple, Google and Amazon",
-    "url": "http://www.politico.com/story/2016/10/warren-clinton-google-apple-amazon-230274",
-    "votes": 6,
-    "posted": "Oct 31, 2016 8:32:05 PM"
-  },
-  {
-    "id": "12840105",
-    "timestamp": "Oct 31, 2016 8:56:23 PM",
-    "topic": "We\u0027re bad at tracking deadly storms, but NY has a new way to see them coming",
-    "url": "http://www.theverge.com/2016/10/31/13440952/extreme-weather-forecasting-new-york-mesonet-warning-system",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:30:39 PM"
-  },
-  {
-    "id": "12840057",
-    "timestamp": "Oct 31, 2016 8:46:21 PM",
-    "topic": "Apple\u0027s October TV Surprise",
-    "url": "http://joe-steel.com/2016-10-28-Apples-October-TV-Surprise.html",
-    "votes": 10,
-    "posted": "Oct 31, 2016 8:23:54 PM"
-  },
-  {
-    "id": "12840012",
-    "timestamp": "Oct 31, 2016 8:56:23 PM",
-    "topic": "This Machine Was Built to Give You Nightmares",
-    "url": "http://fivethirtyeight.com/features/this-machine-was-built-to-give-you-nightmares/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:18:48 PM"
-  },
-  {
-    "id": "12840009",
-    "timestamp": "Oct 31, 2016 10:26:53 PM",
-    "topic": "Disclosing vulnerabilities to protect users",
-    "url": "https://security.googleblog.com/2016/10/disclosing-vulnerabilities-to-protect.html",
-    "votes": 4,
-    "posted": "Oct 31, 2016 8:18:40 PM"
-  },
-  {
-    "id": "12840008",
-    "timestamp": "Oct 31, 2016 8:46:21 PM",
-    "topic": "Racial and Gender Discrimination in Transportation Network Companies",
-    "url": "http://www.nber.org/papers/w22776",
-    "votes": 4,
-    "posted": "Oct 31, 2016 8:18:33 PM"
-  },
-  {
-    "id": "12839971",
-    "timestamp": "Nov 1, 2016 1:07:15 AM",
-    "topic": "Show HN: Node-Lepton – Node.js Library for Dropbox Lepton",
-    "url": "https://github.com/whitef0x0/node-lepton",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:13:49 PM"
-  },
-  {
-    "id": "12839952",
-    "timestamp": "Nov 1, 2016 2:18:24 PM",
-    "topic": "The Lost Virtue of Cursive",
-    "url": "http://www.newyorker.com/books/page-turner/the-lost-virtue-of-cursive",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:11:58 PM"
-  },
-  {
-    "id": "12839901",
-    "timestamp": "Oct 31, 2016 9:36:39 PM",
-    "topic": "6 Foolproof Ways to Deal with Trolls on Medium",
-    "url": "https://medium.com/@avalot/6-foolproof-ways-to-deal-with-trolls-on-medium-546865fdaed9#.f9is8nbuz",
-    "votes": 4,
-    "posted": "Oct 31, 2016 8:06:37 PM"
-  },
-  {
-    "id": "12839861",
-    "timestamp": "Oct 31, 2016 9:36:40 PM",
-    "topic": "The Why: A Better Git Commit Message",
-    "url": "https://8thlight.com/blog/dariusz-pasciak/2016/10/31/the-why-a-better-git-commit-message.html",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:01:46 PM"
-  },
-  {
-    "id": "12839858",
-    "timestamp": "Nov 1, 2016 2:18:24 PM",
-    "topic": "C code for breaking the enigma cipher",
-    "url": "http://practicalcryptography.com/cryptanalysis/breaking-machine-ciphers/cryptanalysis-enigma/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:01:40 PM"
-  },
-  {
-    "id": "12839838",
-    "timestamp": "Nov 1, 2016 1:07:16 AM",
-    "topic": "PPP found that 19% of 985 surveyed believe Hillary to be an “actual demon” [pdf]",
-    "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_FL_104161.pdf",
-    "votes": 5,
-    "posted": "Oct 31, 2016 7:59:07 PM"
-  },
-  {
-    "id": "12839827",
-    "timestamp": "Oct 31, 2016 11:37:05 PM",
-    "topic": "Avoiding being bitten by Python: Common Python pitfalls",
-    "url": "https://medium.com/rmotr-com/avoiding-being-bitten-by-python-161b063e7da2#.cw10qn76i",
-    "votes": 4,
-    "posted": "Oct 31, 2016 7:57:30 PM"
   }
 ];
