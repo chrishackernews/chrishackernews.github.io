@@ -1,11 +1,26 @@
 var newsArray = [
   {
+    "id": "12894940",
+    "timestamp": "Nov 7, 2016 10:13:07 PM",
+    "topic": "Software Developers: Here’s how to get a raise without changing jobs",
+    "url": "https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/",
+    "votes": 11,
+    "posted": "Nov 7, 2016 9:52:08 PM"
+  },
+  {
     "id": "12894721",
     "timestamp": "Nov 7, 2016 9:43:04 PM",
     "topic": "Apple\u0027s Great GPL Purge (2014)",
     "url": "http://meta.ath0.com/2012/02/05/apples-great-gpl-purge",
     "votes": 4,
     "posted": "Nov 7, 2016 9:28:10 PM"
+  },
+  {
+    "id": "12894615",
+    "timestamp": "Nov 7, 2016 10:13:07 PM",
+    "topic": "Have any companies on here used Triplebyte?",
+    "votes": 3,
+    "posted": "Nov 7, 2016 9:15:56 PM"
   },
   {
     "id": "12894588",
@@ -7532,85 +7547,5 @@ var newsArray = [
     "url": "http://www.slate.com/articles/news_and_politics/cover_story/2016/10/was_a_server_registered_to_the_trump_organization_communicating_with_russia.html",
     "votes": 11,
     "posted": "Oct 31, 2016 10:53:29 PM"
-  },
-  {
-    "id": "12841278",
-    "timestamp": "Oct 31, 2016 11:27:03 PM",
-    "topic": "Intel, TSMC and other chipmakers weigh extreme ultraviolet lithography",
-    "url": "http://spectrum.ieee.org/semiconductors/devices/leading-chipmakers-eye-euv-lithography-to-save-moores-law",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:51:53 PM"
-  },
-  {
-    "id": "12841261",
-    "timestamp": "Nov 1, 2016 3:07:26 AM",
-    "topic": "Want more startups? Build a better safety net",
-    "url": "https://www.bloomberg.com/view/articles/2016-10-28/want-more-startups-build-a-better-safety-net",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:50:15 PM"
-  },
-  {
-    "id": "12841252",
-    "timestamp": "Nov 1, 2016 1:17:17 AM",
-    "topic": "Machines That Learn to Code and Take Your Job",
-    "url": "https://dev.to/ben/machines-that-learn-to-code-and-take-your-job",
-    "votes": 5,
-    "posted": "Oct 31, 2016 10:48:30 PM"
-  },
-  {
-    "id": "12841178",
-    "timestamp": "Oct 31, 2016 11:57:07 PM",
-    "topic": "Votes are being counted as fractions instead of as whole numbers",
-    "url": "http://blackboxvoting.org/fraction-magic-1/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 10:40:33 PM"
-  },
-  {
-    "id": "12841149",
-    "timestamp": "Oct 31, 2016 10:56:59 PM",
-    "topic": "Why Mac apps never get “closed”",
-    "url": "http://unix.stackexchange.com/a/5160/111087",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:37:00 PM"
-  },
-  {
-    "id": "12841082",
-    "timestamp": "Oct 31, 2016 10:46:57 PM",
-    "topic": "Academics Write Papers Arguing Over How Many People Read (And Cite) Their Papers",
-    "url": "http://www.smithsonianmag.com/smart-news/half-academic-studies-are-never-read-more-three-people-180950222/?no-ist",
-    "votes": 7,
-    "posted": "Oct 31, 2016 10:30:11 PM"
-  },
-  {
-    "id": "12840940",
-    "timestamp": "Nov 1, 2016 12:07:08 AM",
-    "topic": "Touch Bar Everywhere",
-    "url": "http://bitsplitting.org/2016/10/31/touch-bar-everywhere/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:08:48 PM"
-  },
-  {
-    "id": "12840938",
-    "timestamp": "Oct 31, 2016 10:26:53 PM",
-    "topic": "Google discloses Windows vulnerability just 10 days after reporting it to MSFT",
-    "url": "http://venturebeat.com/2016/10/31/google-discloses-actively-exploited-windows-vulnerability-just-10-days-after-reporting-it-to-microsoft/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 10:08:31 PM"
-  },
-  {
-    "id": "12840903",
-    "timestamp": "Oct 31, 2016 10:36:55 PM",
-    "topic": "The death of transit? – APNIC Blog",
-    "url": "https://blog.apnic.net/2016/10/28/the-death-of-transit/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:03:05 PM"
-  },
-  {
-    "id": "12840882",
-    "timestamp": "Oct 31, 2016 11:17:01 PM",
-    "topic": "Disappointment with 2016 Macbook Pro pushes Apple loyalists to alternatives",
-    "url": "http://betanews.com/2016/10/30/macbook-pro-2016-disappointment-pushes-some-apple-loyalists-to-ubuntu-linux/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 10:00:35 PM"
   }
 ];
