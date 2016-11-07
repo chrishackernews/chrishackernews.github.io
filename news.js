@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12888997",
+    "timestamp": "Nov 7, 2016 6:41:35 AM",
+    "topic": "The US Airline that breaks down mid-air 4x more often than other airlines",
+    "url": "http://www.tampabay.com/projects/2016/investigations/allegiant-air/mechanical-breakdowns/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:25:49 AM"
+  },
+  {
+    "id": "12888877",
+    "timestamp": "Nov 7, 2016 6:21:34 AM",
+    "topic": "Show HN: NetIn – Shorten job interviews by answering the questions only once",
+    "url": "https://netin.co/candidates",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:46:50 AM"
+  },
+  {
     "id": "12888784",
     "timestamp": "Nov 7, 2016 5:51:31 AM",
     "topic": "Ask HN: Why hasn\u0027t Perl 6 taken off yet?",
@@ -8050,20 +8066,5 @@ var newsArray = [
     "url": "http://angiejones.tech/representation-matters-us2020-rtp-gaming-expo/",
     "votes": 4,
     "posted": "Oct 31, 2016 6:56:01 AM"
-  },
-  {
-    "id": "12834402",
-    "timestamp": "Oct 31, 2016 3:45:49 PM",
-    "topic": "The Dark Energy of a Theoretical Physicist",
-    "url": "http://www.newyorker.com/culture/persons-of-interest/the-dark-energy-of-a-theoretical-physicist?mbid\u003dsocial_facebook",
-    "votes": 4,
-    "posted": "Oct 31, 2016 6:02:49 AM"
-  },
-  {
-    "id": "12834401",
-    "timestamp": "Nov 1, 2016 3:27:28 AM",
-    "topic": "Ask HN: Surface book performance base swapping?",
-    "votes": 4,
-    "posted": "Oct 31, 2016 6:02:45 AM"
   }
 ];
