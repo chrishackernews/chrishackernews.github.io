@@ -1,5 +1,12 @@
 var newsArray = [
   {
+    "id": "12888784",
+    "timestamp": "Nov 7, 2016 5:51:31 AM",
+    "topic": "Ask HN: Why hasn\u0027t Perl 6 taken off yet?",
+    "votes": 7,
+    "posted": "Nov 7, 2016 5:20:50 AM"
+  },
+  {
     "id": "12888547",
     "timestamp": "Nov 7, 2016 4:41:26 AM",
     "topic": "Freeline: A fast build tool and a replacement for Android Instant Run",
@@ -8058,69 +8065,5 @@ var newsArray = [
     "topic": "Ask HN: Surface book performance base swapping?",
     "votes": 4,
     "posted": "Oct 31, 2016 6:02:45 AM"
-  },
-  {
-    "id": "12834346",
-    "timestamp": "Oct 31, 2016 7:35:11 AM",
-    "topic": "Django SQL Explorer",
-    "url": "https://github.com/groveco/django-sql-explorer",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:39:24 AM"
-  },
-  {
-    "id": "12834330",
-    "timestamp": "Oct 31, 2016 6:15:05 AM",
-    "topic": "Eric Holder: FBI Director James Comey Made a Serious Mistake",
-    "url": "https://www.washingtonpost.com/opinions/eric-holder-james-comey-is-a-good-man-but-he-made-a-serious-mistake/2016/10/30/08e7208e-9f07-11e6-8832-23a007c77bb4_story.html",
-    "votes": 3,
-    "posted": "Oct 31, 2016 5:34:19 AM"
-  },
-  {
-    "id": "12834327",
-    "timestamp": "Oct 31, 2016 6:35:06 AM",
-    "topic": "Show HN: Touch ID Support for `sudo` in MacOS Terminal",
-    "url": "https://github.com/mattrajca/sudo-touchid",
-    "votes": 5,
-    "posted": "Oct 31, 2016 5:33:18 AM"
-  },
-  {
-    "id": "12834311",
-    "timestamp": "Oct 31, 2016 2:45:45 PM",
-    "topic": "The Benjamin Franklin Method: How to Be a Better Writer",
-    "url": "http://marketmeditations.com/benjamin-franklin-learn-to-write/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 5:27:53 AM"
-  },
-  {
-    "id": "12834300",
-    "timestamp": "Oct 31, 2016 4:45:55 PM",
-    "topic": "The Checklist (2007)",
-    "url": "http://www.newyorker.com/magazine/2007/12/10/the-checklist",
-    "votes": 3,
-    "posted": "Oct 31, 2016 5:25:48 AM"
-  },
-  {
-    "id": "12834293",
-    "timestamp": "Oct 31, 2016 8:45:16 AM",
-    "topic": "A Gamer Spent 200 Hours Building an Incredibly Detailed Digital San Francisco",
-    "url": "http://www.citylab.com/design/2016/10/san-francisco-cities-skylines-mod/505265/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:23:38 AM"
-  },
-  {
-    "id": "12834274",
-    "timestamp": "Oct 31, 2016 4:15:52 PM",
-    "topic": "Istanbul\u0027s Wandering Songbirds",
-    "url": "https://www.guernicamag.com/features/istanbuls-wandering-songbirds/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 5:19:38 AM"
-  },
-  {
-    "id": "12834254",
-    "timestamp": "Nov 1, 2016 4:27:33 AM",
-    "topic": "Here’s Why Public Wifi Is a Public Health Hazard",
-    "url": "https://medium.com/matter/heres-why-public-wifi-is-a-public-health-hazard-dd5b8dcb55e6#.td5883tsl",
-    "votes": 4,
-    "posted": "Oct 31, 2016 5:14:17 AM"
   }
 ];
