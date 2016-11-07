@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12888071",
+    "timestamp": "Nov 7, 2016 2:21:13 AM",
+    "topic": "What does Unsplash cost to run?",
+    "url": "https://crew.co/backstage/dispatch/what-does-unsplash-cost/",
+    "votes": 14,
+    "posted": "Nov 7, 2016 1:57:19 AM"
+  },
+  {
+    "id": "12887959",
+    "timestamp": "Nov 7, 2016 2:21:13 AM",
+    "topic": "First look at Tesla’s new self-driving Autopilot hardware in the wild",
+    "url": "https://electrek.co/2016/11/06/first-look-tesla-new-self-driving-autopilot-hardware-in-the-wild/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 1:28:56 AM"
+  },
+  {
+    "id": "12887925",
+    "timestamp": "Nov 7, 2016 2:41:15 AM",
+    "topic": "Perl and the birth of the dynamic web",
+    "url": "https://opensource.com/life/16/11/perl-and-birth-dynamic-web",
+    "votes": 4,
+    "posted": "Nov 7, 2016 1:20:40 AM"
+  },
+  {
+    "id": "12887910",
+    "timestamp": "Nov 7, 2016 2:31:14 AM",
+    "topic": "I have lived the USB-C #donglelife. Here’s what you’re in for – The Verge",
+    "url": "http://www.theverge.com/2016/11/5/13523372/usb-c-macbook-adapter-donglelife-problems-thunderbolt",
+    "votes": 5,
+    "posted": "Nov 7, 2016 1:17:02 AM"
+  },
+  {
     "id": "12887659",
     "timestamp": "Nov 7, 2016 12:41:05 AM",
     "topic": "Energy Giant Shell Says Oil Demand Could Peak in Just Five Years",
@@ -30,6 +62,14 @@ var newsArray = [
     "url": "https://unsplash.com/collections",
     "votes": 4,
     "posted": "Nov 6, 2016 11:19:02 PM"
+  },
+  {
+    "id": "12887383",
+    "timestamp": "Nov 7, 2016 2:01:12 AM",
+    "topic": "Rust Collections Case Study: BTreeMap",
+    "url": "http://cglab.ca/~abeinges/blah/rust-btree-case/",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:11:33 PM"
   },
   {
     "id": "12887229",
@@ -996,6 +1036,14 @@ var newsArray = [
     "url": "http://arstechnica.com/science/2016/11/revisiting-why-incompetents-think-theyre-awesome/",
     "votes": 4,
     "posted": "Nov 5, 2016 8:12:05 PM"
+  },
+  {
+    "id": "12881313",
+    "timestamp": "Nov 7, 2016 2:51:16 AM",
+    "topic": "\u0027We are all Thomas More’s children’ – 500 years of Utopia",
+    "url": "https://www.theguardian.com/books/2016/nov/04/thomas-more-utopia-500-years-china-mieville-ursula-le-guin",
+    "votes": 3,
+    "posted": "Nov 5, 2016 8:02:42 PM"
   },
   {
     "id": "12881288",
@@ -7947,61 +7995,5 @@ var newsArray = [
     "url": "https://hackernoon.com/how-2k-killed-irrational-games-a09d8865fd8b#.68bjzkfxw",
     "votes": 4,
     "posted": "Oct 31, 2016 3:02:02 AM"
-  },
-  {
-    "id": "12833709",
-    "timestamp": "Oct 31, 2016 3:15:47 PM",
-    "topic": "John Berger: ‘If I’m a storyteller it’s because I listen’",
-    "url": "https://www.theguardian.com/books/2016/oct/30/john-berger-at-90-interview-storyteller",
-    "votes": 4,
-    "posted": "Oct 31, 2016 2:41:47 AM"
-  },
-  {
-    "id": "12833660",
-    "timestamp": "Oct 31, 2016 7:25:10 AM",
-    "topic": "Show HN: Async/await alternative",
-    "url": "https://github.com/ujc/wait-for-stuff",
-    "votes": 5,
-    "posted": "Oct 31, 2016 2:32:03 AM"
-  },
-  {
-    "id": "12833648",
-    "timestamp": "Oct 31, 2016 3:14:50 AM",
-    "topic": "Leaked Pentagon video is a science fiction story about the future of cities",
-    "url": "http://arstechnica.com/tech-policy/2016/10/bizarre-leaked-pentagon-video-is-a-science-fiction-story-about-the-future-of-cities/?comments\u003d1",
-    "votes": 3,
-    "posted": "Oct 31, 2016 2:27:13 AM"
-  },
-  {
-    "id": "12833647",
-    "timestamp": "Oct 31, 2016 3:44:54 AM",
-    "topic": "Spotify might be killing SSDs by design errors?",
-    "url": "https://community.spotify.com/t5/Desktop-Linux-Windows-Web-Player/Spotify-killing-my-SSD/td-p/1365378",
-    "votes": 3,
-    "posted": "Oct 31, 2016 2:26:58 AM"
-  },
-  {
-    "id": "12833624",
-    "timestamp": "Oct 31, 2016 3:44:54 AM",
-    "topic": "Tesla Solar Roof",
-    "url": "https://www.tesla.com/solar",
-    "votes": 5,
-    "posted": "Oct 31, 2016 2:21:25 AM"
-  },
-  {
-    "id": "12833618",
-    "timestamp": "Oct 31, 2016 2:44:48 AM",
-    "topic": "Publishers Are Rethinking Those ‘Around the Web’ Ads",
-    "url": "http://www.nytimes.com/2016/10/31/business/media/publishers-rethink-outbrain-taboola-ads.html?_r\u003d0",
-    "votes": 4,
-    "posted": "Oct 31, 2016 2:19:52 AM"
-  },
-  {
-    "id": "12833539",
-    "timestamp": "Oct 31, 2016 5:45:02 AM",
-    "topic": "Eric Schmidt to John Podesta: DC Lacked Talent in Software Arena for Clinton HQ",
-    "url": "https://wikileaks.org/podesta-emails/emailid/37197",
-    "votes": 5,
-    "posted": "Oct 31, 2016 1:57:26 AM"
   }
 ];
