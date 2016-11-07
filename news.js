@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12895663",
+    "timestamp": "Nov 7, 2016 11:53:15 PM",
+    "topic": "19 things I learnt reading the Node.js docs",
+    "url": "https://medium.com/@david.gilbertson/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.bzx75cpkv",
+    "votes": 4,
+    "posted": "Nov 7, 2016 11:07:24 PM"
+  },
+  {
     "id": "12894940",
     "timestamp": "Nov 7, 2016 10:13:07 PM",
     "topic": "Software Developers: Here’s how to get a raise without changing jobs",
@@ -7428,124 +7436,5 @@ var newsArray = [
     "url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/status/",
     "votes": 5,
     "posted": "Oct 31, 2016 11:58:21 PM"
-  },
-  {
-    "id": "12841672",
-    "timestamp": "Nov 1, 2016 12:07:08 AM",
-    "topic": "Disclosing vulnerabilities before a patch is available to protect users",
-    "url": "https://security.googleblog.com/2016/10/disclosing-vulnerabilities-to-protect.html?m\u003d1",
-    "votes": 5,
-    "posted": "Oct 31, 2016 11:50:34 PM"
-  },
-  {
-    "id": "12841641",
-    "timestamp": "Nov 1, 2016 12:17:09 AM",
-    "topic": "This CNET page weighs 131 MB",
-    "url": "https://twitter.com/addyosmani/status/793197147713773568",
-    "votes": 5,
-    "posted": "Oct 31, 2016 11:45:33 PM"
-  },
-  {
-    "id": "12841628",
-    "timestamp": "Oct 31, 2016 11:57:07 PM",
-    "topic": "FBI\u0027s Comey opposed naming Russians, citing election timing",
-    "url": "http://www.cnbc.com/2016/10/31/fbis-comey-opposed-naming-russians-citing-election-timing-source.html",
-    "votes": 4,
-    "posted": "Oct 31, 2016 11:43:12 PM"
-  },
-  {
-    "id": "12841611",
-    "timestamp": "Nov 1, 2016 12:17:10 AM",
-    "topic": "CQRS increases consistency",
-    "url": "https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html",
-    "votes": 3,
-    "posted": "Oct 31, 2016 11:40:38 PM"
-  },
-  {
-    "id": "12841599",
-    "timestamp": "Oct 31, 2016 11:57:07 PM",
-    "topic": "VIM – Avoid the escape key",
-    "url": "http://vim.wikia.com/wiki/Avoid_the_escape_key",
-    "votes": 3,
-    "posted": "Oct 31, 2016 11:38:16 PM"
-  },
-  {
-    "id": "12841581",
-    "timestamp": "Nov 1, 2016 12:27:11 AM",
-    "topic": "The future of video… 5 steps between now and the VR/AR world",
-    "url": "https://medium.com/@Nicquinn/the-future-of-video-5-steps-between-now-and-the-vr-ar-world-4f7b9a38a4bb#.crpk7l8gf",
-    "votes": 3,
-    "posted": "Oct 31, 2016 11:35:13 PM"
-  },
-  {
-    "id": "12841552",
-    "timestamp": "Oct 31, 2016 11:47:06 PM",
-    "topic": "Google issues warning of critical Windows vulnerability in wild",
-    "url": "http://arstechnica.com/security/2016/10/trick-or-treat-google-issues-warning-of-critical-windows-vulnerability/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 11:30:51 PM"
-  },
-  {
-    "id": "12841531",
-    "timestamp": "Oct 31, 2016 11:37:04 PM",
-    "topic": "Help Your Users Vote",
-    "url": "https://medium.com/voteplz/help-your-users-vote-6ee61dcf224d#.l9us594st",
-    "votes": 12,
-    "posted": "Oct 31, 2016 11:26:30 PM"
-  },
-  {
-    "id": "12841489",
-    "timestamp": "Oct 31, 2016 11:27:03 PM",
-    "topic": "Nitrous Service Shutdown – November 14th",
-    "url": "https://community.nitrous.io/posts/nitrous-service-shutdown-november-14th",
-    "votes": 7,
-    "posted": "Oct 31, 2016 11:20:35 PM"
-  },
-  {
-    "id": "12841444",
-    "timestamp": "Oct 31, 2016 11:37:04 PM",
-    "topic": "Notes on the upcoming release of Scala 2.12 (Java 8)",
-    "url": "http://get-scala.org/2.12",
-    "votes": 6,
-    "posted": "Oct 31, 2016 11:14:56 PM"
-  },
-  {
-    "id": "12841407",
-    "timestamp": "Nov 1, 2016 12:57:14 AM",
-    "topic": "Ask HN: Can the location of a company help avoid patent disputes?",
-    "votes": 3,
-    "posted": "Oct 31, 2016 11:10:06 PM"
-  },
-  {
-    "id": "12841389",
-    "timestamp": "Oct 31, 2016 11:47:06 PM",
-    "topic": "I Put Ads in My App – This Is What Losing Looks Like",
-    "url": "https://medium.com/@sisedi/i-put-ads-in-my-app-this-is-what-losing-looks-like-3249d34364f8",
-    "votes": 3,
-    "posted": "Oct 31, 2016 11:07:27 PM"
-  },
-  {
-    "id": "12841323",
-    "timestamp": "Oct 31, 2016 11:27:03 PM",
-    "topic": "Nitrous.io is shutting down",
-    "url": "http://us4.campaign-archive1.com/?u\u003d40aef44b6df80a146dc4163c7\u0026id\u003d99995282f8\u0026e\u003d952a866202",
-    "votes": 13,
-    "posted": "Oct 31, 2016 10:59:02 PM"
-  },
-  {
-    "id": "12841299",
-    "timestamp": "Nov 1, 2016 5:48:44 PM",
-    "topic": "Simple Lane Detection – My Road to Self Drive Cars",
-    "url": "http://sdc.autojazari.com/lane-detection/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 10:54:55 PM"
-  },
-  {
-    "id": "12841288",
-    "timestamp": "Oct 31, 2016 11:17:02 PM",
-    "topic": "A Trump Server May Have Been Communicating with a Russian Bank",
-    "url": "http://www.slate.com/articles/news_and_politics/cover_story/2016/10/was_a_server_registered_to_the_trump_organization_communicating_with_russia.html",
-    "votes": 11,
-    "posted": "Oct 31, 2016 10:53:29 PM"
   }
 ];
