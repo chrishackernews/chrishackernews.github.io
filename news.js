@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12889302",
+    "timestamp": "Nov 7, 2016 7:51:41 AM",
+    "topic": "Go’s alias proposal and all my concerns of Google controlling Go",
+    "url": "https://hackernoon.com/gos-alias-proposal-and-all-my-concerns-of-google-controlling-go-a39f6c6046aa#.79iuuucic",
+    "votes": 10,
+    "posted": "Nov 7, 2016 7:32:02 AM"
+  },
+  {
+    "id": "12889115",
+    "timestamp": "Nov 7, 2016 7:11:37 AM",
+    "topic": "Twitter appears to be down",
+    "url": "http://downdetector.com/status/twitter",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:58:51 AM"
+  },
+  {
+    "id": "12889104",
+    "timestamp": "Nov 7, 2016 7:01:37 AM",
+    "topic": "Twitter is down",
+    "url": "http://downforeveryoneorjustme.com/twitter.com",
+    "votes": 10,
+    "posted": "Nov 7, 2016 6:57:07 AM"
+  },
+  {
     "id": "12888997",
     "timestamp": "Nov 7, 2016 6:41:35 AM",
     "topic": "The US Airline that breaks down mid-air 4x more often than other airlines",
@@ -21,6 +45,14 @@ var newsArray = [
     "topic": "Ask HN: Why hasn\u0027t Perl 6 taken off yet?",
     "votes": 7,
     "posted": "Nov 7, 2016 5:20:50 AM"
+  },
+  {
+    "id": "12888682",
+    "timestamp": "Nov 7, 2016 7:41:40 AM",
+    "topic": "San Bernardino: Behind the Scenes",
+    "url": "https://www.zdziarski.com/blog/?p\u003d6335",
+    "votes": 3,
+    "posted": "Nov 7, 2016 4:52:07 AM"
   },
   {
     "id": "12888547",
@@ -8050,21 +8082,5 @@ var newsArray = [
     "url": "http://www.slideshare.net/laurenthaug/things-i-will-tell-my-kids-if-they-become-entrepreneurs",
     "votes": 3,
     "posted": "Oct 31, 2016 8:19:00 AM"
-  },
-  {
-    "id": "12834628",
-    "timestamp": "Oct 31, 2016 7:25:10 AM",
-    "topic": "Remix (YC W15) is hiring engineers to build the first transit planning platform",
-    "url": "https://www.remix.com/jobs",
-    "votes": 1,
-    "posted": "Oct 31, 2016 7:14:43 AM"
-  },
-  {
-    "id": "12834569",
-    "timestamp": "Oct 31, 2016 8:45:16 AM",
-    "topic": "Gamers – This is what a programmer looks like",
-    "url": "http://angiejones.tech/representation-matters-us2020-rtp-gaming-expo/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 6:56:01 AM"
   }
 ];
