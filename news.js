@@ -95,6 +95,20 @@ var newsArray = [
     "posted": "Nov 6, 2016 10:01:22 PM"
   },
   {
+    "id": "12886968",
+    "timestamp": "Nov 7, 2016 1:11:08 AM",
+    "topic": "Ask HN: Tired of trying to catch the JavaScript train",
+    "votes": 5,
+    "posted": "Nov 6, 2016 9:52:05 PM"
+  },
+  {
+    "id": "12886957",
+    "timestamp": "Nov 7, 2016 1:11:08 AM",
+    "topic": "Poll: How often do you check Ask HN or ShowHN posts?",
+    "votes": 3,
+    "posted": "Nov 6, 2016 9:50:59 PM"
+  },
+  {
     "id": "12886894",
     "timestamp": "Nov 6, 2016 9:50:46 PM",
     "topic": "On the road with the 13-inch MacBook Pro",
@@ -434,6 +448,13 @@ var newsArray = [
     "url": "https://www.engadget.com/2016/11/05/chevy-starts-manufacturing-bolt/",
     "votes": 3,
     "posted": "Nov 6, 2016 11:29:15 AM"
+  },
+  {
+    "id": "12884452",
+    "timestamp": "Nov 7, 2016 1:21:09 AM",
+    "topic": "Ask HN: Overwhelmed with learning machine learning, how do I proceed?",
+    "votes": 11,
+    "posted": "Nov 6, 2016 11:28:42 AM"
   },
   {
     "id": "12884451",
@@ -2896,6 +2917,14 @@ var newsArray = [
     "url": "https://www.bloomberg.com/news/articles/2016-11-03/asml-buys-stake-in-carl-zeiss-unit-for-1-1-billion-in-euv-step",
     "votes": 3,
     "posted": "Nov 3, 2016 11:18:34 PM"
+  },
+  {
+    "id": "12868518",
+    "timestamp": "Nov 7, 2016 1:01:07 AM",
+    "topic": "Neural-enhance – Super Resolution for images using deep learning",
+    "url": "https://github.com/alexjc/neural-enhance/blob/master/README.rst",
+    "votes": 3,
+    "posted": "Nov 3, 2016 11:16:55 PM"
   },
   {
     "id": "12868508",
@@ -7974,35 +8003,5 @@ var newsArray = [
     "url": "https://wikileaks.org/podesta-emails/emailid/37197",
     "votes": 5,
     "posted": "Oct 31, 2016 1:57:26 AM"
-  },
-  {
-    "id": "12833481",
-    "timestamp": "Oct 31, 2016 2:04:45 AM",
-    "topic": "CTO Mentor Network – a virtual peer-to-peer network of CTOs",
-    "url": "https://ctomentor.network/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 1:38:18 AM"
-  },
-  {
-    "id": "12833470",
-    "timestamp": "Oct 31, 2016 3:24:52 AM",
-    "topic": "Banks adopt blockchain for mortgage valuation system",
-    "url": "https://www.ft.com/content/c856787c-9523-11e6-a1dc-bdf38d484582",
-    "votes": 4,
-    "posted": "Oct 31, 2016 1:35:35 AM"
-  },
-  {
-    "id": "12833427",
-    "timestamp": "Oct 31, 2016 8:55:17 AM",
-    "topic": "Question: What do you use to keep your work and freelance calendars in sync?",
-    "votes": 3,
-    "posted": "Oct 31, 2016 1:26:28 AM"
-  },
-  {
-    "id": "12833415",
-    "timestamp": "Nov 1, 2016 6:07:42 AM",
-    "topic": "Ask HN: Mechanical keyboards for programming",
-    "votes": 9,
-    "posted": "Oct 31, 2016 1:23:22 AM"
   }
 ];
