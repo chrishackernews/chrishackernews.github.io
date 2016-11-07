@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12890856",
+    "timestamp": "Nov 7, 2016 2:52:16 PM",
+    "topic": "Video Games Are Boring",
+    "url": "http://www.gamesindustry.biz/articles/2016-11-07-video-games-are-boring",
+    "votes": 5,
+    "posted": "Nov 7, 2016 2:35:36 PM"
+  },
+  {
     "id": "12890118",
     "timestamp": "Nov 7, 2016 12:22:03 PM",
     "topic": "Tesco Bank freezes transactions after cash taken from 20,000 accounts",
@@ -72,6 +80,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 9:01:08 AM"
   },
   {
+    "id": "12889502",
+    "timestamp": "Nov 7, 2016 2:22:14 PM",
+    "topic": "Cybathlon 2016: No cyborgs yet, but we\u0027re getting there",
+    "url": "http://arstechnica.co.uk/information-technology/2016/11/cybathlon-2016-no-cyborgs-yet-but-were-getting-there/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 8:38:52 AM"
+  },
+  {
     "id": "12889469",
     "timestamp": "Nov 7, 2016 11:11:57 AM",
     "topic": "Apache Spark: A Unified Engine for Big Data Processing",
@@ -140,6 +156,14 @@ var newsArray = [
     "topic": "Ask HN: Why hasn\u0027t Perl 6 taken off yet?",
     "votes": 7,
     "posted": "Nov 7, 2016 5:20:50 AM"
+  },
+  {
+    "id": "12888718",
+    "timestamp": "Nov 7, 2016 2:22:14 PM",
+    "topic": "A Brief History of RTS AI Research",
+    "url": "http://www.gamasutra.com/blogs/BenWeber/20161106/284970/A_Brief_History_of_RTS_AI_Research.php",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:01:35 AM"
   },
   {
     "id": "12888682",
@@ -513,6 +537,14 @@ var newsArray = [
     "url": "http://www.businessinsider.com/slack-falling-into-tough-cycle-all-hot-startups-go-through-2016-11",
     "votes": 8,
     "posted": "Nov 6, 2016 8:22:26 PM"
+  },
+  {
+    "id": "12886525",
+    "timestamp": "Nov 7, 2016 2:32:15 PM",
+    "topic": "Electron is flash for the desktop",
+    "url": "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
+    "votes": 7,
+    "posted": "Nov 6, 2016 8:07:17 PM"
   },
   {
     "id": "12886441",
@@ -7979,93 +8011,5 @@ var newsArray = [
     "url": "http://peopleovertools.com/2016/07/03/pragmatic-project-management-trifecta.html",
     "votes": 4,
     "posted": "Oct 31, 2016 3:07:04 PM"
-  },
-  {
-    "id": "12836646",
-    "timestamp": "Oct 31, 2016 11:17:01 PM",
-    "topic": "6 of the Most Exciting ES6 Features in Node.js v6 LTS",
-    "url": "https://nodesource.com/blog/six-of-the-most-exciting-es6-features-in-node-js-v6-lts",
-    "votes": 4,
-    "posted": "Oct 31, 2016 2:50:11 PM"
-  },
-  {
-    "id": "12836611",
-    "timestamp": "Nov 1, 2016 9:27:59 AM",
-    "topic": "Notes for a 2016 Democratic Campaign Eric Schmidt April 2014",
-    "url": "https://wikileaks.org/podesta-emails/emailid/37262",
-    "votes": 7,
-    "posted": "Oct 31, 2016 2:46:02 PM"
-  },
-  {
-    "id": "12836465",
-    "timestamp": "Oct 31, 2016 3:15:47 PM",
-    "topic": "Radeon R9 M370X (MacBook Pro 2015) vs. Radeon Pro 460 (MacBook Pro 2016)",
-    "url": "http://gpuboss.com/gpus/Radeon-R9-M370X-Mac-vs-Radeon-Pro-460",
-    "votes": 7,
-    "posted": "Oct 31, 2016 2:26:16 PM"
-  },
-  {
-    "id": "12836438",
-    "timestamp": "Oct 31, 2016 2:35:43 PM",
-    "topic": "Before the Flood [video]",
-    "url": "https://www.youtube.com/watch?v\u003d90CkXVF-Q8M",
-    "votes": 3,
-    "posted": "Oct 31, 2016 2:22:36 PM"
-  },
-  {
-    "id": "12836370",
-    "timestamp": "Oct 31, 2016 2:45:44 PM",
-    "topic": "Twitter is testing a new @reply",
-    "url": "https://techcrunch.com/2016/10/28/complaining-about-twitter-on-twitter/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 2:13:04 PM"
-  },
-  {
-    "id": "12836367",
-    "timestamp": "Oct 31, 2016 2:45:44 PM",
-    "topic": "The $100M U.S. Government Fish Farm Nobody Wants",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-28/the-100-million-u-s-government-fish-farm-nobody-wants",
-    "votes": 4,
-    "posted": "Oct 31, 2016 2:12:50 PM"
-  },
-  {
-    "id": "12836361",
-    "timestamp": "Oct 31, 2016 3:15:47 PM",
-    "topic": "MacBookPro vs. Surface Book",
-    "url": "http://codeclimber.net.nz/archive/2016/10/28/MacBookPro-vs-Surface-Book.aspx",
-    "votes": 8,
-    "posted": "Oct 31, 2016 2:11:28 PM"
-  },
-  {
-    "id": "12836355",
-    "timestamp": "Oct 31, 2016 4:05:51 PM",
-    "topic": "Jeff Bezos dismisses idea of a backup plan, says we must protect Earth",
-    "url": "http://arstechnica.com/science/2016/10/jeff-bezos-dismisses-idea-of-a-backup-plan-says-we-must-protect-earth/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 2:10:46 PM"
-  },
-  {
-    "id": "12836337",
-    "timestamp": "Oct 31, 2016 2:25:42 PM",
-    "topic": "This Intel backed Finnish startup has turned laptop design upside down",
-    "url": "http://nordic.businessinsider.com/eve-tech-crowdsourcing-2016-10/",
-    "votes": 7,
-    "posted": "Oct 31, 2016 2:08:16 PM"
-  },
-  {
-    "id": "12836288",
-    "timestamp": "Nov 1, 2016 9:27:59 AM",
-    "topic": "Pirated CDs on Web Deal Another Blow to Music Industry",
-    "url": "http://www.wsj.com/articles/boost-in-online-pirated-cd-sales-deal-another-blow-to-music-industry-1477867243",
-    "votes": 3,
-    "posted": "Oct 31, 2016 2:00:12 PM"
-  },
-  {
-    "id": "12836243",
-    "timestamp": "Oct 31, 2016 4:35:54 PM",
-    "topic": "Front-End Tooling Survey – 2016",
-    "url": "http://ashn.uk/survey-tooling-2016",
-    "votes": 4,
-    "posted": "Oct 31, 2016 1:52:13 PM"
   }
 ];
