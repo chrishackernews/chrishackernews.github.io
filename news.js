@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12893123",
+    "timestamp": "Nov 7, 2016 7:12:40 PM",
+    "topic": "Butterfly Effects: Good Ballot Design Is Critical for Democracy",
+    "url": "http://99percentinvisible.org/episode/butterfly-effects/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:51:08 PM"
+  },
+  {
+    "id": "12893040",
+    "timestamp": "Nov 7, 2016 7:02:39 PM",
+    "topic": "Open-Source 3D Graphics Design: Where to Begin",
+    "url": "http://media.bemyapp.com/guide-open-source-3d-graphics-design/?utm_source\u003dbma\u0026utm_medium\u003dycombin\u0026utm_content\u003d\u0026utm_campaign\u003dmedia",
+    "votes": 4,
+    "posted": "Nov 7, 2016 6:44:08 PM"
+  },
+  {
+    "id": "12892975",
+    "timestamp": "Nov 7, 2016 7:02:39 PM",
+    "topic": "You Don’t Need a Master Plan You Just Need to Start",
+    "url": "http://bryce.vc/post/152734313405/you-dont-need-a-master-plan-you-just-need-to",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:38:08 PM"
+  },
+  {
     "id": "12892643",
     "timestamp": "Nov 7, 2016 6:22:35 PM",
     "topic": "We’re Scientists. We’re Moms. And We Avoid Non-GMO Products",
@@ -213,6 +237,14 @@ var newsArray = [
     "url": "https://medium.com/@shifatbd/artificial-intelligence-an-it-crucial-36ec2d2d696f",
     "votes": 3,
     "posted": "Nov 7, 2016 2:45:06 PM"
+  },
+  {
+    "id": "12890919",
+    "timestamp": "Nov 7, 2016 7:42:43 PM",
+    "topic": "Show HN: Email hasn\u0027t changed in 20 years, I\u0027ve coded something new for 9 months",
+    "url": "http://ivelope.com/invite/InvitedByViktor",
+    "votes": 8,
+    "posted": "Nov 7, 2016 2:44:57 PM"
   },
   {
     "id": "12890856",
@@ -799,6 +831,14 @@ var newsArray = [
     "topic": "Ask HN: Any tips on debugging Linux hibernate issues?",
     "votes": 3,
     "posted": "Nov 6, 2016 7:48:30 PM"
+  },
+  {
+    "id": "12886384",
+    "timestamp": "Nov 7, 2016 7:22:41 PM",
+    "topic": "Bytenet in Tensorflow – Neural Machine Translation in Linear Time",
+    "url": "https://github.com/paarthneekhara/byteNet-tensorflow",
+    "votes": 7,
+    "posted": "Nov 6, 2016 7:35:54 PM"
   },
   {
     "id": "12886381",
@@ -7766,60 +7806,5 @@ var newsArray = [
     "url": "https://medium.com/rmotr-com/avoiding-being-bitten-by-python-161b063e7da2#.cw10qn76i",
     "votes": 4,
     "posted": "Oct 31, 2016 7:57:30 PM"
-  },
-  {
-    "id": "12839757",
-    "timestamp": "Oct 31, 2016 8:16:18 PM",
-    "topic": "Ycombinator.com Blacklisted by Norton",
-    "votes": 5,
-    "posted": "Oct 31, 2016 7:49:28 PM"
-  },
-  {
-    "id": "12839743",
-    "timestamp": "Oct 31, 2016 7:56:16 PM",
-    "topic": "Microsoft\u0027s CoreRT turns C# into cross-platform C++",
-    "url": "http://www.infoworld.com/article/3131551/open-source-tools/microsofts-corert-turns-c-into-cross-platform-c.html",
-    "votes": 7,
-    "posted": "Oct 31, 2016 7:47:12 PM"
-  },
-  {
-    "id": "12839652",
-    "timestamp": "Oct 31, 2016 8:16:18 PM",
-    "topic": "My Quest for the Perfect Roast Chicken",
-    "url": "https://medium.com/@mizzao/my-quest-for-the-perfect-roast-chicken-474418ea3051",
-    "votes": 3,
-    "posted": "Oct 31, 2016 7:35:44 PM"
-  },
-  {
-    "id": "12839612",
-    "timestamp": "Oct 31, 2016 11:17:01 PM",
-    "topic": "Show HN: Sales for Nerds podcast (get some free Sandler Sales tips)",
-    "url": "https://www.salesfornerds.io/episode-3-adam-boyd/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 7:31:48 PM"
-  },
-  {
-    "id": "12839426",
-    "timestamp": "Oct 31, 2016 9:46:41 PM",
-    "topic": "Teen hacker \u0027accidentally\u0027 causes 911 attack",
-    "url": "http://www.bbc.com/news/technology-37821862",
-    "votes": 3,
-    "posted": "Oct 31, 2016 7:14:13 PM"
-  },
-  {
-    "id": "12839364",
-    "timestamp": "Oct 31, 2016 7:26:14 PM",
-    "topic": "There Are No Such Things as Introversion or Extroversion",
-    "url": "http://www.inc.com/joshua-spodek/there-are-no-such-things-as-introversion-or-extroversion.html",
-    "votes": 3,
-    "posted": "Oct 31, 2016 7:08:11 PM"
-  },
-  {
-    "id": "12839315",
-    "timestamp": "Oct 31, 2016 10:36:55 PM",
-    "topic": "Linux Desktop Performance Tuning – Ninja Level",
-    "url": "https://oded.ninja/2016/10/30/optimizing-your-linux-distro-ninja-level/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 7:03:49 PM"
   }
 ];
