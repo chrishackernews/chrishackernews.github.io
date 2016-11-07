@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12894721",
+    "timestamp": "Nov 7, 2016 9:43:04 PM",
+    "topic": "Apple\u0027s Great GPL Purge (2014)",
+    "url": "http://meta.ath0.com/2012/02/05/apples-great-gpl-purge",
+    "votes": 4,
+    "posted": "Nov 7, 2016 9:28:10 PM"
+  },
+  {
+    "id": "12894588",
+    "timestamp": "Nov 7, 2016 9:53:05 PM",
+    "topic": "Firebase gets better analytics, crash reporting and more",
+    "url": "https://techcrunch.com/2016/11/07/googles-firebase-developer-platform-gets-better-analytics-crash-reports-and-more?1",
+    "votes": 9,
+    "posted": "Nov 7, 2016 9:12:54 PM"
+  },
+  {
+    "id": "12894455",
+    "timestamp": "Nov 7, 2016 9:23:01 PM",
+    "topic": "Close to absolute zero, the particles exhibit their quantum nature",
+    "url": "http://sciencebulletin.org/archives/7440.html",
+    "votes": 3,
+    "posted": "Nov 7, 2016 8:59:55 PM"
+  },
+  {
+    "id": "12894349",
+    "timestamp": "Nov 7, 2016 9:43:04 PM",
+    "topic": "Single Mother Facing Prison for Selling Homemade Mexican Dish to Undercover Cop",
+    "url": "http://reason.com/blog/2016/11/06/single-mother-facing-prison-for-selling",
+    "votes": 4,
+    "posted": "Nov 7, 2016 8:50:13 PM"
+  },
+  {
     "id": "12894248",
     "timestamp": "Nov 7, 2016 8:42:50 PM",
     "topic": "BuildZoom (a better way to remodel) is hiring in product, growth and engineering",
@@ -8,11 +40,35 @@ var newsArray = [
     "posted": "Nov 7, 2016 8:40:52 PM"
   },
   {
+    "id": "12894215",
+    "timestamp": "Nov 7, 2016 9:23:02 PM",
+    "topic": "Are Chinese Websites Too Complex?",
+    "url": "https://www.nngroup.com/articles/china-website-complexity/?utm_source\u003dAlertbox\u0026utm_campaign\u003d43da43b3f9-Cards_UI_Component_Chinese+Complex_2016_11_07\u0026utm_medium\u003demail\u0026utm_term\u003d0_7f29a2b335-43da43b3f9-40308009",
+    "votes": 3,
+    "posted": "Nov 7, 2016 8:37:08 PM"
+  },
+  {
     "id": "12894209",
     "timestamp": "Nov 7, 2016 8:52:58 PM",
     "topic": "Ask HN: How much do you earn on average through software freelancing?",
     "votes": 8,
     "posted": "Nov 7, 2016 8:36:33 PM"
+  },
+  {
+    "id": "12893956",
+    "timestamp": "Nov 7, 2016 9:23:01 PM",
+    "topic": "C for Python programmers",
+    "url": "http://www.toves.org/books/cpy/",
+    "votes": 6,
+    "posted": "Nov 7, 2016 8:13:48 PM"
+  },
+  {
+    "id": "12893801",
+    "timestamp": "Nov 7, 2016 9:23:02 PM",
+    "topic": "Microsoft Azure Container Registry (preview)",
+    "url": "https://azure.microsoft.com/campaigns/container-registry/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 7:59:24 PM"
   },
   {
     "id": "12893793",
@@ -7556,197 +7612,5 @@ var newsArray = [
     "url": "http://betanews.com/2016/10/30/macbook-pro-2016-disappointment-pushes-some-apple-loyalists-to-ubuntu-linux/",
     "votes": 5,
     "posted": "Oct 31, 2016 10:00:35 PM"
-  },
-  {
-    "id": "12840803",
-    "timestamp": "Oct 31, 2016 11:57:07 PM",
-    "topic": "Service discovery at Stripe",
-    "url": "https://stri.pe/blog/service-discovery-at-stripe",
-    "votes": 10,
-    "posted": "Oct 31, 2016 9:50:06 PM"
-  },
-  {
-    "id": "12840787",
-    "timestamp": "Oct 31, 2016 9:56:49 PM",
-    "topic": "MacBook Pro: Take on some of the criticisms being levelled at the new models",
-    "url": "https://9to5mac.com/2016/10/31/macbook-pro-diary-opinion-criticisms/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 9:48:11 PM"
-  },
-  {
-    "id": "12840778",
-    "timestamp": "Oct 31, 2016 10:36:54 PM",
-    "topic": "Keith Ohlfs, NeXTSTEP Designer, has passed away",
-    "url": "https://techcrunch.com/2016/10/31/keith-ohlfs/",
-    "votes": 7,
-    "posted": "Oct 31, 2016 9:46:01 PM"
-  },
-  {
-    "id": "12840766",
-    "timestamp": "Nov 1, 2016 3:07:26 AM",
-    "topic": "Recording Police Is Protected by the First Amendment, EFF Tells Court",
-    "url": "https://www.eff.org/press/releases/recording-police-protected-first-amendment-eff-tells-court",
-    "votes": 5,
-    "posted": "Oct 31, 2016 9:44:16 PM"
-  },
-  {
-    "id": "12840754",
-    "timestamp": "Oct 31, 2016 10:36:55 PM",
-    "topic": "How ReadMe Went from SaaS to On-Premises in Less Than One Week",
-    "url": "http://stackshare.io/readme-io/how-readme-went-from-saas-to-on-premises-in-less-than-one-week",
-    "votes": 19,
-    "posted": "Oct 31, 2016 9:42:43 PM"
-  },
-  {
-    "id": "12840690",
-    "timestamp": "Oct 31, 2016 9:36:39 PM",
-    "topic": "ReadMe (YC W15) is looking for a remote part-time developer blogger",
-    "url": "http://readme.io/careers/#job-developer-blogger",
-    "votes": 1,
-    "posted": "Oct 31, 2016 9:33:26 PM"
-  },
-  {
-    "id": "12840685",
-    "timestamp": "Oct 31, 2016 9:46:41 PM",
-    "topic": "How the Presidential Transition Works in the Social Media Age",
-    "url": "https://www.whitehouse.gov/blog/2016/10/31/digital-transition-how-presidential-transition-works-social-media-age",
-    "votes": 3,
-    "posted": "Oct 31, 2016 9:33:01 PM"
-  },
-  {
-    "id": "12840677",
-    "timestamp": "Oct 31, 2016 9:56:49 PM",
-    "topic": "New leak may show if you were hacked by the NSA",
-    "url": "http://arstechnica.co.uk/security/2016/10/new-leak-may-show-if-you-were-hacked-by-the-nsa/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:31:55 PM"
-  },
-  {
-    "id": "12840645",
-    "timestamp": "Nov 1, 2016 5:17:37 AM",
-    "topic": "Gnome and Rust",
-    "url": "https://siliconislandblog.wordpress.com/2016/10/31/thoughts-on-dx-gnome-and-rust/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 9:27:57 PM"
-  },
-  {
-    "id": "12840644",
-    "timestamp": "Oct 31, 2016 9:46:42 PM",
-    "topic": "Redux is Overhyped",
-    "url": "https://medium.com/@shakiba/redux-is-overhyped-3ad6e42b7730#.qjcq7xtc5",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:27:54 PM"
-  },
-  {
-    "id": "12840567",
-    "timestamp": "Oct 31, 2016 10:36:56 PM",
-    "topic": "Solving the Linux kernel code reviewer shortage",
-    "url": "https://opensource.com/business/16/10/linux-kernel-review",
-    "votes": 3,
-    "posted": "Oct 31, 2016 9:19:20 PM"
-  },
-  {
-    "id": "12840560",
-    "timestamp": "Nov 1, 2016 1:07:16 AM",
-    "topic": "Eight Atom Editor Packages for Easier Web Development",
-    "url": "https://spin.atomicobject.com/2016/10/27/129088/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:18:38 PM"
-  },
-  {
-    "id": "12840555",
-    "timestamp": "Oct 31, 2016 9:46:41 PM",
-    "topic": "No One Saw Tesla’s Solar Roof Coming",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-31/no-one-saw-tesla-s-solar-roof-coming",
-    "votes": 12,
-    "posted": "Oct 31, 2016 9:18:08 PM"
-  },
-  {
-    "id": "12840499",
-    "timestamp": "Oct 31, 2016 9:36:39 PM",
-    "topic": "Peter Thiel defends $1.25M donation to pro-Trump campaign",
-    "url": "http://www.theverge.com/2016/10/31/13476734/investor-peter-thiel-donald-trump-donation-defense-speech",
-    "votes": 6,
-    "posted": "Oct 31, 2016 9:13:37 PM"
-  },
-  {
-    "id": "12840492",
-    "timestamp": "Nov 1, 2016 1:07:15 AM",
-    "topic": "Sanos Operating System for Win32, Server Appliances",
-    "url": "http://www.jbox.dk/sanos/",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:13:15 PM"
-  },
-  {
-    "id": "12840476",
-    "timestamp": "Nov 1, 2016 1:07:15 AM",
-    "topic": "New documentation for spaCy NLP 1.0",
-    "url": "https://spacy.io/docs",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:11:49 PM"
-  },
-  {
-    "id": "12840473",
-    "timestamp": "Oct 31, 2016 11:27:03 PM",
-    "topic": "Maybe Peter Thiel Is Just a Crank",
-    "url": "http://nymag.com/selectall/2016/10/maybe-peter-thiel-is-just-a-crank.html",
-    "votes": 3,
-    "posted": "Oct 31, 2016 9:11:29 PM"
-  },
-  {
-    "id": "12840414",
-    "timestamp": "Oct 31, 2016 9:46:42 PM",
-    "topic": "Year 2038 problem",
-    "url": "https://en.wikipedia.org/wiki/Year_2038_problem",
-    "votes": 5,
-    "posted": "Oct 31, 2016 9:05:10 PM"
-  },
-  {
-    "id": "12840411",
-    "timestamp": "Nov 3, 2016 12:31:42 AM",
-    "topic": "Bringing the Drugstore Home: An Interview with Deanna Day",
-    "url": "http://www.cabinetmagazine.org/issues/60/kastner_day.php",
-    "votes": 3,
-    "posted": "Oct 31, 2016 9:04:53 PM"
-  },
-  {
-    "id": "12840397",
-    "timestamp": "Oct 31, 2016 9:36:39 PM",
-    "topic": "Is Finishing Side Projects Hard for You Too",
-    "url": "https://medium.com/@jtwebman/is-finishing-side-projects-hard-5c3f03e131d8",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:03:27 PM"
-  },
-  {
-    "id": "12840368",
-    "timestamp": "Oct 31, 2016 10:06:50 PM",
-    "topic": "The Cancelled Comma One Would Have Embarrassed the Car Industry",
-    "url": "http://www.thedrive.com/tech/5772/the-cancelled-comma-one-would-have-embarrassed-the-car-industry",
-    "votes": 4,
-    "posted": "Oct 31, 2016 9:01:13 PM"
-  },
-  {
-    "id": "12840335",
-    "timestamp": "Nov 1, 2016 10:48:06 AM",
-    "topic": "Show HN: How to train your brain with the Peg System",
-    "url": "https://dacobots.com/#The_Peg_System",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:58:27 PM"
-  },
-  {
-    "id": "12840329",
-    "timestamp": "Oct 31, 2016 9:16:25 PM",
-    "topic": "Making Chrome on Windows Faster with PGO",
-    "url": "https://blog.chromium.org/2016/10/making-chrome-on-windows-faster-with-pgo.html",
-    "votes": 7,
-    "posted": "Oct 31, 2016 8:57:13 PM"
-  },
-  {
-    "id": "12840326",
-    "timestamp": "Oct 31, 2016 9:16:26 PM",
-    "topic": "In the UK, You Will Go to Jail Not Just for Encryption, but for Noise, Too",
-    "url": "http://falkvinge.net/2012/07/12/in-the-uk-you-will-go-to-jail-not-just-for-encryption-but-for-astronomical-noise-too/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 8:57:04 PM"
   }
 ];
