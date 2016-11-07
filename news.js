@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12888547",
+    "timestamp": "Nov 7, 2016 4:41:26 AM",
+    "topic": "Freeline: A fast build tool and a replacement for Android Instant Run",
+    "url": "https://github.com/alibaba/freeline",
+    "votes": 4,
+    "posted": "Nov 7, 2016 4:18:50 AM"
+  },
+  {
+    "id": "12888499",
+    "timestamp": "Nov 7, 2016 4:11:23 AM",
+    "topic": "Gawker Pays $750,000 to That Guy Who Didn\u0027t Invent Email",
+    "url": "https://news.slashdot.org/story/16/11/07/022246/gawker-pays-750000-to-that-guy-who-didnt-invent-email",
+    "votes": 6,
+    "posted": "Nov 7, 2016 4:04:45 AM"
+  },
+  {
+    "id": "12888389",
+    "timestamp": "Nov 7, 2016 4:41:26 AM",
+    "topic": "Arctic farming: Town defies icy conditions with hydroponics",
+    "url": "http://hosted.ap.org/dynamic/stories/U/US_ARCTIC_FARMING?SITE\u003dAP\u0026SECTION\u003dHOME\u0026TEMPLATE\u003dDEFAULT\u0026CTIME\u003d2016-11-04-14-31-47",
+    "votes": 4,
+    "posted": "Nov 7, 2016 3:32:18 AM"
+  },
+  {
     "id": "12888382",
     "timestamp": "Nov 7, 2016 3:51:21 AM",
     "topic": "Python: Some thoughts on asynchronous API design in a post-async/await world",
     "url": "https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/",
     "votes": 4,
     "posted": "Nov 7, 2016 3:30:11 AM"
+  },
+  {
+    "id": "12888370",
+    "timestamp": "Nov 7, 2016 4:31:24 AM",
+    "topic": "Brain-Like Machine Learning Regulatory Feedback Networks One-Shot Learning",
+    "url": "http://www.naiss.io/blog/2016/5/29/m76bvhww07z0algjbjmnl8gobjuakz",
+    "votes": 3,
+    "posted": "Nov 7, 2016 3:26:13 AM"
+  },
+  {
+    "id": "12888313",
+    "timestamp": "Nov 7, 2016 4:31:24 AM",
+    "topic": "How to Get Beyond Tribal Politics",
+    "url": "http://www.wsj.com/articles/how-to-get-beyond-our-tribal-politics-1478271810",
+    "votes": 3,
+    "posted": "Nov 7, 2016 3:08:43 AM"
+  },
+  {
+    "id": "12888287",
+    "timestamp": "Nov 7, 2016 4:11:23 AM",
+    "topic": "Twitter Could Have Become a Protocol",
+    "url": "http://blog.austingardnersmith.me/how-twitter-could-have-been-a-protocol/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 3:00:21 AM"
   },
   {
     "id": "12888181",
@@ -54,6 +102,14 @@ var newsArray = [
     "url": "https://electrek.co/2016/11/06/first-look-tesla-new-self-driving-autopilot-hardware-in-the-wild/",
     "votes": 3,
     "posted": "Nov 7, 2016 1:28:56 AM"
+  },
+  {
+    "id": "12887927",
+    "timestamp": "Nov 7, 2016 4:31:25 AM",
+    "topic": "NYC Bike Stats",
+    "url": "https://sirpthatch.github.io/post/NYC-General-Bike-Stats/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 1:21:02 AM"
   },
   {
     "id": "12887925",
@@ -362,6 +418,13 @@ var newsArray = [
     "url": "http://muratbuffalo.blogspot.com/2016/11/why-does-cloud-stop-computing-lessons.html",
     "votes": 7,
     "posted": "Nov 6, 2016 4:34:35 PM"
+  },
+  {
+    "id": "12885482",
+    "timestamp": "Nov 7, 2016 4:31:25 AM",
+    "topic": "Ask HN: Tips for reading HN on mobile for older eyes?",
+    "votes": 4,
+    "posted": "Nov 6, 2016 4:31:19 PM"
   },
   {
     "id": "12885435",
