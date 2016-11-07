@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12890005",
+    "timestamp": "Nov 7, 2016 11:41:59 AM",
+    "topic": "Orange Pi, a Quad Core Computer for $20",
+    "url": "https://techcrunch.com/2016/11/06/the-new-64-bit-orange-pi-is-a-quad-core-computer-for-20/",
+    "votes": 10,
+    "posted": "Nov 7, 2016 11:18:40 AM"
+  },
+  {
+    "id": "12889907",
+    "timestamp": "Nov 7, 2016 11:01:56 AM",
+    "topic": "How I went from being a stranger to having a network in Silicon Valley",
+    "url": "https://medium.com/startup-grind/how-i-went-from-being-a-stranger-to-having-a-network-in-silicon-valley-8cf7ac5fed",
+    "votes": 3,
+    "posted": "Nov 7, 2016 10:51:52 AM"
+  },
+  {
+    "id": "12889855",
+    "timestamp": "Nov 7, 2016 11:42:00 AM",
+    "topic": "A bug story: data alignment on x86",
+    "url": "http://pzemtsov.github.io/2016/11/06/bug-story-alignment-on-x86.html",
+    "votes": 4,
+    "posted": "Nov 7, 2016 10:38:02 AM"
+  },
+  {
+    "id": "12889807",
+    "timestamp": "Nov 7, 2016 11:01:56 AM",
+    "topic": "LessPass: sync-less open source password manager",
+    "url": "https://lesspass.com/#/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 10:22:44 AM"
+  },
+  {
     "id": "12889680",
     "timestamp": "Nov 7, 2016 10:01:51 AM",
     "topic": "Supercapacitors Now Carbon-Free, More Powerful",
     "url": "https://edgylabs.com/2016/11/06/supercapacitors-now-carbon-free/",
     "votes": 4,
     "posted": "Nov 7, 2016 9:45:08 AM"
+  },
+  {
+    "id": "12889469",
+    "timestamp": "Nov 7, 2016 11:11:57 AM",
+    "topic": "Apache Spark: A Unified Engine for Big Data Processing",
+    "url": "http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext",
+    "votes": 5,
+    "posted": "Nov 7, 2016 8:27:02 AM"
   },
   {
     "id": "12889302",
@@ -84,6 +124,14 @@ var newsArray = [
     "url": "http://www.recode.net/2016/11/2/13481456/postmates-investors-preferred-stock-converted-common",
     "votes": 4,
     "posted": "Nov 7, 2016 4:40:52 AM"
+  },
+  {
+    "id": "12888567",
+    "timestamp": "Nov 7, 2016 11:42:00 AM",
+    "topic": "How Economic Gobbledygook Divides Us",
+    "url": "http://www.nytimes.com/2016/11/06/magazine/how-economic-gobbledygook-divides-us.html",
+    "votes": 3,
+    "posted": "Nov 7, 2016 4:23:49 AM"
   },
   {
     "id": "12888556",
@@ -294,6 +342,14 @@ var newsArray = [
     "posted": "Nov 6, 2016 11:11:33 PM"
   },
   {
+    "id": "12887290",
+    "timestamp": "Nov 7, 2016 11:11:57 AM",
+    "topic": "Show HN: Soundbox – Keep track what you\u0027ve listened to in your Soundcloud feed",
+    "url": "http://www.soundbox.fyi",
+    "votes": 5,
+    "posted": "Nov 6, 2016 10:55:55 PM"
+  },
+  {
     "id": "12887229",
     "timestamp": "Nov 6, 2016 11:30:59 PM",
     "topic": "First 64-bit Orange Pi slips in under $20",
@@ -401,6 +457,14 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/what-i-learned-from-writing-six-functions-that-all-did-the-same-thing-b38fd48f0d55",
     "votes": 3,
     "posted": "Nov 6, 2016 8:34:18 PM"
+  },
+  {
+    "id": "12886632",
+    "timestamp": "Nov 7, 2016 11:11:57 AM",
+    "topic": "When Crowds Try to Flee for Their Lives",
+    "url": "http://www.atlasobscura.com/articles/what-happens-when-crowds-try-to-flee-for-their-lives",
+    "votes": 3,
+    "posted": "Nov 6, 2016 8:30:53 PM"
   },
   {
     "id": "12886614",
@@ -8019,21 +8083,5 @@ var newsArray = [
     "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
     "votes": 1,
     "posted": "Oct 31, 2016 12:00:57 PM"
-  },
-  {
-    "id": "12835637",
-    "timestamp": "Oct 31, 2016 11:55:31 AM",
-    "topic": "Peter Thiel Defends His Most Contrarian Move Yet: Supporting Trump",
-    "url": "http://www.nytimes.com/2016/10/31/technology/peter-thiel-defends-his-most-contrarian-move-yet-supporting-trump.html?src\u003dme",
-    "votes": 4,
-    "posted": "Oct 31, 2016 11:43:47 AM"
-  },
-  {
-    "id": "12835588",
-    "timestamp": "Oct 31, 2016 4:25:53 PM",
-    "topic": "Apple Should Buy Netflix",
-    "url": "https://stratechery.com/2016/apple-should-buy-netflix/",
-    "votes": 6,
-    "posted": "Oct 31, 2016 11:29:41 AM"
   }
 ];
