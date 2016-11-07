@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12890118",
+    "timestamp": "Nov 7, 2016 12:22:03 PM",
+    "topic": "Tesco Bank freezes transactions after cash taken from 20,000 accounts",
+    "url": "https://www.theguardian.com/business/2016/nov/07/tesco-bank-freezes-transactions-online-attack",
+    "votes": 6,
+    "posted": "Nov 7, 2016 11:43:41 AM"
+  },
+  {
     "id": "12890005",
     "timestamp": "Nov 7, 2016 11:41:59 AM",
     "topic": "Orange Pi, a Quad Core Computer for $20",
@@ -38,6 +46,14 @@ var newsArray = [
     "url": "https://edgylabs.com/2016/11/06/supercapacitors-now-carbon-free/",
     "votes": 4,
     "posted": "Nov 7, 2016 9:45:08 AM"
+  },
+  {
+    "id": "12889574",
+    "timestamp": "Nov 7, 2016 12:02:02 PM",
+    "topic": "Mistakes I made (as a developer)",
+    "url": "https://dev.to/miqubel/mistakes-i-made-as-a-developer",
+    "votes": 6,
+    "posted": "Nov 7, 2016 9:01:08 AM"
   },
   {
     "id": "12889469",
@@ -576,6 +592,13 @@ var newsArray = [
     "url": "https://github.com/mifi/lossless-cut",
     "votes": 4,
     "posted": "Nov 6, 2016 4:53:56 PM"
+  },
+  {
+    "id": "12885558",
+    "timestamp": "Nov 7, 2016 12:22:03 PM",
+    "topic": "Ask HN: How common is illegal web scraping?",
+    "votes": 6,
+    "posted": "Nov 6, 2016 4:47:36 PM"
   },
   {
     "id": "12885549",
@@ -8052,36 +8075,5 @@ var newsArray = [
     "url": "https://medium.dave-bailey.com/the-silent-cause-of-bad-business-decisions-b95d977b5ca7#.1jckdefsh",
     "votes": 4,
     "posted": "Oct 31, 2016 1:12:29 PM"
-  },
-  {
-    "id": "12835898",
-    "timestamp": "Oct 31, 2016 1:25:37 PM",
-    "topic": "Ask HN: What do you regret in life?",
-    "votes": 4,
-    "posted": "Oct 31, 2016 12:47:03 PM"
-  },
-  {
-    "id": "12835826",
-    "timestamp": "Oct 31, 2016 12:45:35 PM",
-    "topic": "CenturyLink to Buy Level 3 for $34B",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-31/centurylink-agrees-to-buy-level-3-for-34-billion-in-cash-stock",
-    "votes": 5,
-    "posted": "Oct 31, 2016 12:29:07 PM"
-  },
-  {
-    "id": "12835771",
-    "timestamp": "Oct 31, 2016 1:15:37 PM",
-    "topic": "Create Dense 3D Point Clouds with OpenSfM",
-    "url": "http://blog.mapillary.com/update/2016/10/31/denser-3d-point-clouds-in-opensfm.html",
-    "votes": 7,
-    "posted": "Oct 31, 2016 12:16:28 PM"
-  },
-  {
-    "id": "12835701",
-    "timestamp": "Oct 31, 2016 12:05:32 PM",
-    "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
-    "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
-    "votes": 1,
-    "posted": "Oct 31, 2016 12:00:57 PM"
   }
 ];
