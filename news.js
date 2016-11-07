@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12887659",
+    "timestamp": "Nov 7, 2016 12:41:05 AM",
+    "topic": "Energy Giant Shell Says Oil Demand Could Peak in Just Five Years",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-02/europe-s-biggest-oil-company-thinks-demand-may-peak-in-5-years",
+    "votes": 6,
+    "posted": "Nov 7, 2016 12:14:22 AM"
+  },
+  {
+    "id": "12887434",
+    "timestamp": "Nov 7, 2016 12:01:02 AM",
+    "topic": "Common Lisp Using LLVM and C++ for Molecular Metaprogramming",
+    "url": "https://www.youtube.com/watch?v\u003d8X69_42Mj-g",
+    "votes": 3,
+    "posted": "Nov 6, 2016 11:23:18 PM"
+  },
+  {
     "id": "12887422",
     "timestamp": "Nov 6, 2016 11:51:01 PM",
     "topic": "Facebook is harming our democracy",
     "url": "http://www.vox.com/new-money/2016/11/6/13509854/facebook-politics-news-bad",
     "votes": 5,
     "posted": "Nov 6, 2016 11:20:02 PM"
+  },
+  {
+    "id": "12887416",
+    "timestamp": "Nov 7, 2016 12:01:01 AM",
+    "topic": "Unsplash: royalty free HD images",
+    "url": "https://unsplash.com/collections",
+    "votes": 4,
+    "posted": "Nov 6, 2016 11:19:02 PM"
   },
   {
     "id": "12887229",
@@ -7980,61 +8004,5 @@ var newsArray = [
     "topic": "Ask HN: Mechanical keyboards for programming",
     "votes": 9,
     "posted": "Oct 31, 2016 1:23:22 AM"
-  },
-  {
-    "id": "12833228",
-    "timestamp": "Oct 31, 2016 1:24:41 AM",
-    "topic": "Automatic extraction of relevant features from time series",
-    "url": "https://github.com/blue-yonder/tsfresh",
-    "votes": 3,
-    "posted": "Oct 31, 2016 12:41:46 AM"
-  },
-  {
-    "id": "12833201",
-    "timestamp": "Oct 31, 2016 1:54:44 AM",
-    "topic": "Apple demolished by Microsoft at PC events",
-    "url": "http://www.marketwatch.com/story/apple-demolished-by-microsoft-at-their-respective-pc-events-2016-10-27",
-    "votes": 3,
-    "posted": "Oct 31, 2016 12:36:54 AM"
-  },
-  {
-    "id": "12833189",
-    "timestamp": "Nov 2, 2016 8:41:15 PM",
-    "topic": "Zadie Smith: dance lessons for writers",
-    "url": "https://www.theguardian.com/books/2016/oct/29/zadie-smith-what-beyonce-taught-me",
-    "votes": 4,
-    "posted": "Oct 31, 2016 12:34:38 AM"
-  },
-  {
-    "id": "12833111",
-    "timestamp": "Oct 31, 2016 1:34:42 AM",
-    "topic": "The Psychology of Writing and the Cognitive Science of the Perfect Daily Routine",
-    "url": "https://www.brainpickings.org/2014/08/25/the-psychology-of-writing-daily-routine/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 12:17:47 AM"
-  },
-  {
-    "id": "12833059",
-    "timestamp": "Oct 31, 2016 12:24:35 AM",
-    "topic": "Shorpy: A massive archive of old photographs",
-    "url": "http://www.shorpy.com/",
-    "votes": 3,
-    "posted": "Oct 31, 2016 12:05:35 AM"
-  },
-  {
-    "id": "12833014",
-    "timestamp": "Oct 31, 2016 12:24:35 AM",
-    "topic": "NASA Scientists Suggest We’ve Been Underestimating Sea Level Rise",
-    "url": "http://motherboard.vice.com/read/nasa-scientists-suggest-weve-been-underestimating-sea-level-rise",
-    "votes": 3,
-    "posted": "Oct 30, 2016 11:57:29 PM"
-  },
-  {
-    "id": "12832989",
-    "timestamp": "Oct 31, 2016 12:14:34 AM",
-    "topic": "iSmell (2001)",
-    "url": "https://en.wikipedia.org/wiki/ISmell",
-    "votes": 5,
-    "posted": "Oct 30, 2016 11:54:04 PM"
   }
 ];
