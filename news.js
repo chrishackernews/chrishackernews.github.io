@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 1:00:41 AM"
   },
   {
+    "id": "12896353",
+    "timestamp": "Nov 8, 2016 2:43:29 AM",
+    "topic": "Explaining Thunderbolt 3, USB-C, and Everything in Between",
+    "url": "http://tidbits.com/article/16870",
+    "votes": 5,
+    "posted": "Nov 8, 2016 12:45:33 AM"
+  },
+  {
     "id": "12896323",
     "timestamp": "Nov 8, 2016 12:43:19 AM",
     "topic": "Next Caller Is Hiring a Technical Product Manager",
@@ -40,12 +48,28 @@ var newsArray = [
     "posted": "Nov 8, 2016 12:14:39 AM"
   },
   {
+    "id": "12895890",
+    "timestamp": "Nov 8, 2016 2:53:30 AM",
+    "topic": "Actor library for Rust: first intro post",
+    "url": "http://dbeck.github.io/Rust-Actor-Library-First-assorted-thoughts/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 11:39:00 PM"
+  },
+  {
     "id": "12895864",
     "timestamp": "Nov 8, 2016 12:43:19 AM",
     "topic": "A Simple Request: VLC.js",
     "url": "http://ascii.textfiles.com/archives/5084",
     "votes": 9,
     "posted": "Nov 7, 2016 11:36:25 PM"
+  },
+  {
+    "id": "12895728",
+    "timestamp": "Nov 8, 2016 2:43:30 AM",
+    "topic": "Schneider blog: Firefox is removing Battery API",
+    "url": "https://www.schneier.com/blog/archives/2016/11/firefox_removin.html?nc\u003d3",
+    "votes": 4,
+    "posted": "Nov 7, 2016 11:16:31 PM"
   },
   {
     "id": "12895663",
@@ -7340,21 +7364,5 @@ var newsArray = [
     "url": "https://github.com/joowani/kq",
     "votes": 7,
     "posted": "Nov 1, 2016 2:58:47 AM"
-  },
-  {
-    "id": "12842684",
-    "timestamp": "Nov 1, 2016 5:18:41 PM",
-    "topic": "Firms envision ways for New York to absorb 9M residents",
-    "url": "http://www.crainsnewyork.com/article/20161030/REAL_ESTATE/161029841/12-firms-envision-ways-for-new-york-to-absorb-9-million-residents",
-    "votes": 5,
-    "posted": "Nov 1, 2016 2:35:17 AM"
-  },
-  {
-    "id": "12842616",
-    "timestamp": "Nov 1, 2016 3:27:28 AM",
-    "topic": "Breaking the Multicore Bottleneck",
-    "url": "http://spectrum.ieee.org/semiconductors/processors/breaking-the-multicore-bottleneck",
-    "votes": 4,
-    "posted": "Nov 1, 2016 2:22:54 AM"
   }
 ];
