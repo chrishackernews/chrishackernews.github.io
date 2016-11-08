@@ -24,6 +24,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 10:31:49 AM"
   },
   {
+    "id": "12898718",
+    "timestamp": "Nov 8, 2016 12:04:14 PM",
+    "topic": "Machine Learning for Software Engineers",
+    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
+    "votes": 4,
+    "posted": "Nov 8, 2016 10:06:02 AM"
+  },
+  {
     "id": "12898684",
     "timestamp": "Nov 8, 2016 11:54:13 AM",
     "topic": "WhatsApp won’t share UK user data with Facebook anymore",
@@ -111,6 +119,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 6:08:10 AM"
   },
   {
+    "id": "12897739",
+    "timestamp": "Nov 8, 2016 12:04:14 PM",
+    "topic": "Google really does collect lots of info about us",
+    "url": "https://www.google.com/policies/privacy/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 5:47:58 AM"
+  },
+  {
     "id": "12897545",
     "timestamp": "Nov 8, 2016 7:23:52 AM",
     "topic": "Backlash against Apple’s new MacBook Pro from its core users is unprecedented",
@@ -125,6 +141,13 @@ var newsArray = [
     "url": "https://datastudio.google.com",
     "votes": 6,
     "posted": "Nov 8, 2016 4:39:47 AM"
+  },
+  {
+    "id": "12897411",
+    "timestamp": "Nov 8, 2016 12:04:15 PM",
+    "topic": "Ask HN: I need advice, Mid-life crisis",
+    "votes": 7,
+    "posted": "Nov 8, 2016 4:39:18 AM"
   },
   {
     "id": "12897398",
@@ -7213,21 +7236,5 @@ var newsArray = [
     "url": "https://medium.com/@zackbloom/i-have-a-unicode-email-address-fbecd630ec12#.bbdifln65",
     "votes": 5,
     "posted": "Nov 1, 2016 1:06:55 PM"
-  },
-  {
-    "id": "12844683",
-    "timestamp": "Nov 1, 2016 2:08:23 PM",
-    "topic": "Nanobionic spinach plants can detect explosives",
-    "url": "http://phys.org/news/2016-10-nanobionic-spinach-explosives.html",
-    "votes": 8,
-    "posted": "Nov 1, 2016 12:13:48 PM"
-  },
-  {
-    "id": "12844629",
-    "timestamp": "Nov 1, 2016 1:28:19 PM",
-    "topic": "Physicists induce superconductivity in non-superconducting materials",
-    "url": "http://phys.org/news/2016-10-physicists-superconductivity-non-superconducting-materials.html",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:56:44 AM"
   }
 ];
