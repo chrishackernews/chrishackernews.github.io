@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12898927",
+    "timestamp": "Nov 8, 2016 11:44:13 AM",
+    "topic": "A list of headless browsers and related automation tools",
+    "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
+    "votes": 7,
+    "posted": "Nov 8, 2016 10:51:52 AM"
+  },
+  {
+    "id": "12898857",
+    "timestamp": "Nov 8, 2016 11:14:10 AM",
+    "topic": "Smog Chokes Delhi, Leaving Residents ‘Cowering by Our Air Purifiers’",
+    "url": "http://www.nytimes.com/2016/11/08/world/asia/india-delhi-smog.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dimage\u0026module\u003dphoto-spot-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
+    "votes": 8,
+    "posted": "Nov 8, 2016 10:32:56 AM"
+  },
+  {
     "id": "12898854",
     "timestamp": "Nov 8, 2016 10:54:09 AM",
     "topic": "The Irrational Downfall of South Korean President Park Geun-Hye",
     "url": "https://askakorean.blogspot.com/2016/10/the-irrational-downfall-of-park-geun-hye.html",
     "votes": 4,
     "posted": "Nov 8, 2016 10:31:49 AM"
+  },
+  {
+    "id": "12898684",
+    "timestamp": "Nov 8, 2016 11:54:13 AM",
+    "topic": "WhatsApp won’t share UK user data with Facebook anymore",
+    "url": "http://thenextweb.com/facebook/2016/11/08/whatsapp-wont-share-uk-user-data-with-facebook-anymore/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 9:57:35 AM"
   },
   {
     "id": "12898534",
@@ -7205,61 +7229,5 @@ var newsArray = [
     "url": "http://phys.org/news/2016-10-physicists-superconductivity-non-superconducting-materials.html",
     "votes": 3,
     "posted": "Nov 1, 2016 11:56:44 AM"
-  },
-  {
-    "id": "12844600",
-    "timestamp": "Nov 1, 2016 12:38:16 PM",
-    "topic": "How Apple could have avoided much of the controversy",
-    "url": "https://chuqui.com/2016/10/how-apple-could-have-avoided-much-of-the-controversy/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 11:49:54 AM"
-  },
-  {
-    "id": "12844560",
-    "timestamp": "Nov 1, 2016 11:38:11 AM",
-    "topic": "Sift Science (YC S11) is hiring a Software Eng who has built scalable data infra",
-    "url": "https://boards.greenhouse.io/siftscience/jobs/43188#.WBd60JMrIUE",
-    "votes": 1,
-    "posted": "Nov 1, 2016 11:36:22 AM"
-  },
-  {
-    "id": "12844543",
-    "timestamp": "Nov 1, 2016 12:08:13 PM",
-    "topic": "MacOS Sierra Server",
-    "url": "http://www.apple.com/macos/server/",
-    "votes": 13,
-    "posted": "Nov 1, 2016 11:29:45 AM"
-  },
-  {
-    "id": "12844539",
-    "timestamp": "Nov 1, 2016 12:08:14 PM",
-    "topic": "This Summer in Redox: A Complete Rewrite of the Kernel",
-    "url": "https://www.redox-os.org/news/this-summer-in-redox-15/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 11:29:05 AM"
-  },
-  {
-    "id": "12844526",
-    "timestamp": "Nov 1, 2016 11:28:10 AM",
-    "topic": "Goodbye selling ads, welcome branded content",
-    "url": "https://www.techinasia.com/talk/goodbye-selling-ads-branded-content",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:23:35 AM"
-  },
-  {
-    "id": "12844477",
-    "timestamp": "Nov 1, 2016 11:48:12 AM",
-    "topic": "Forget the FBI cache; the Podesta emails show how America is run",
-    "url": "https://www.theguardian.com/commentisfree/2016/oct/31/the-podesta-emails-show-who-runs-america-and-how-they-do-it",
-    "votes": 5,
-    "posted": "Nov 1, 2016 11:06:33 AM"
-  },
-  {
-    "id": "12844461",
-    "timestamp": "Nov 1, 2016 11:28:10 AM",
-    "topic": "UK government to spend extra £1.9bn fighting cyber-attacks",
-    "url": "https://www.theguardian.com/technology/2016/nov/01/philp-hammond-to-spend-extra-19bn-fighting-cyber-attacks",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:02:54 AM"
   }
 ];
