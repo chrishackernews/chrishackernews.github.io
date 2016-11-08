@@ -1,11 +1,170 @@
 var newsArray = [
   {
+    "id": "12900965",
+    "timestamp": "Nov 8, 2016 4:34:39 PM",
+    "topic": "India declares 500 and 1000 rupees notes illegal",
+    "url": "http://newsite.thehindu.com/news/national/500-1000-rupee-notes-cease-to-be-legal-tender-from-midnight-tonight-PM/article16225089.ece",
+    "votes": 4,
+    "posted": "Nov 8, 2016 4:28:35 PM"
+  },
+  {
+    "id": "12900886",
+    "timestamp": "Nov 8, 2016 4:34:39 PM",
+    "topic": "Why the Midwest Is About to Become America\u0027s Next Silicon Valley",
+    "url": "http://www.forbes.com/sites/petertaylor/2016/11/07/why-the-midwest-is-about-to-become-americas-next-silicon-valley/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 4:18:58 PM"
+  },
+  {
+    "id": "12900701",
+    "timestamp": "Nov 8, 2016 4:14:35 PM",
+    "topic": "“The whole world ought to be concerned”: HK lawyers on Beijing’s “clarification”",
+    "url": "http://qz.com/830533/the-whole-world-ought-to-be-concerned-hong-kong-lawyers-react-to-beijings-clarification-on-oaths/",
+    "votes": 9,
+    "posted": "Nov 8, 2016 3:58:00 PM"
+  },
+  {
+    "id": "12900571",
+    "timestamp": "Nov 8, 2016 4:04:34 PM",
+    "topic": "Microsoft Is Now \u0027Open by Default\u0027, Says Xamarin Founder Miguel de Icaza",
+    "url": "http://www.forbes.com/sites/adrianbridgwater/2016/11/08/microsoft-is-now-open-by-default-says-xamarin-founder-miguel-de-icaza/#5ed2c7b520e7",
+    "votes": 4,
+    "posted": "Nov 8, 2016 3:41:40 PM"
+  },
+  {
+    "id": "12900548",
+    "timestamp": "Nov 8, 2016 4:14:35 PM",
+    "topic": "Hyperloop may become reality in Dubai",
+    "url": "http://www.bbc.com/news/technology-37908915",
+    "votes": 6,
+    "posted": "Nov 8, 2016 3:39:15 PM"
+  },
+  {
+    "id": "12900537",
+    "timestamp": "Nov 8, 2016 4:04:34 PM",
+    "topic": "Startups are overdosing on ambition these days",
+    "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:38:16 PM"
+  },
+  {
+    "id": "12900515",
+    "timestamp": "Nov 8, 2016 4:14:35 PM",
+    "topic": "Ask HN: How do I protect my parents from the internet?",
+    "votes": 12,
+    "posted": "Nov 8, 2016 3:35:44 PM"
+  },
+  {
     "id": "12900479",
     "timestamp": "Nov 8, 2016 3:34:31 PM",
     "topic": "Canopy Labs (YC S12) Is Hiring for BDR / Account Executive Roles",
     "url": "https://canopylabs.com/careers#openings",
     "votes": 1,
     "posted": "Nov 8, 2016 3:32:02 PM"
+  },
+  {
+    "id": "12900458",
+    "timestamp": "Nov 8, 2016 4:14:37 PM",
+    "topic": "Elon Musk says ppl should receive a universal income once robots take their jobs",
+    "url": "http://www.independent.co.uk/news/people/elon-musk-universal-income-robots-ai-tesla-spacex-a7402556.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:30:01 PM"
+  },
+  {
+    "id": "12900432",
+    "timestamp": "Nov 8, 2016 4:14:35 PM",
+    "topic": "Exit polls aren\u0027t what you think they are",
+    "url": "https://nuttersandnuttier.com/exit-polls-arent-what-you-think-they-are-e93d031726fb#.z8cow174n",
+    "votes": 7,
+    "posted": "Nov 8, 2016 3:26:46 PM"
+  },
+  {
+    "id": "12900429",
+    "timestamp": "Nov 8, 2016 4:14:36 PM",
+    "topic": "Islamophobia killed my brother. Let\u0027s end the hate",
+    "url": "https://www.ted.com/talks/suzanne_barakat_islamophobia_killed_my_brother_let_s_end_the_hate",
+    "votes": 5,
+    "posted": "Nov 8, 2016 3:26:19 PM"
+  },
+  {
+    "id": "12900412",
+    "timestamp": "Nov 8, 2016 4:34:39 PM",
+    "topic": "Google Trends Electionland",
+    "url": "http://electionlandtrends.appspot.com/",
+    "votes": 5,
+    "posted": "Nov 8, 2016 3:24:24 PM"
+  },
+  {
+    "id": "12900357",
+    "timestamp": "Nov 8, 2016 4:14:35 PM",
+    "topic": "China’s Internet Controls Will Get Stricter, to Dismay of Foreign Business",
+    "url": "http://www.nytimes.com/2016/11/08/business/international/china-cyber-security-regulations.html?ref\u003dtechnology",
+    "votes": 7,
+    "posted": "Nov 8, 2016 3:18:06 PM"
+  },
+  {
+    "id": "12900349",
+    "timestamp": "Nov 8, 2016 4:14:36 PM",
+    "topic": "Google accused of burying webmail service on search results",
+    "url": "https://www.theguardian.com/technology/2016/nov/07/google-burying-webmail-service-search-results-protonmail",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:16:58 PM"
+  },
+  {
+    "id": "12900304",
+    "timestamp": "Nov 8, 2016 4:14:36 PM",
+    "topic": "Former-gang members get their tattoos digitally removed",
+    "url": "http://www.thememo.com/2016/11/08/skin-deep-gang-photos-skin-deep-kickstarter-skin-deep-tattoo-project/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 3:09:41 PM"
+  },
+  {
+    "id": "12900279",
+    "timestamp": "Nov 8, 2016 4:14:37 PM",
+    "topic": "So you think you know C?",
+    "url": "https://medium.com/@okaleniuk/so-you-think-you-know-c-8d4e2cd6f6a6#.eogq49y4a",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:07:08 PM"
+  },
+  {
+    "id": "12900257",
+    "timestamp": "Nov 8, 2016 4:24:38 PM",
+    "topic": "Your market size is only a fraction of what you think it is",
+    "url": "https://medium.com/startup-grind/your-market-size-is-only-a-fraction-of-what-you-think-it-is-f31f79cd1e95#.yu8lso655",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:02:34 PM"
+  },
+  {
+    "id": "12900226",
+    "timestamp": "Nov 8, 2016 4:34:40 PM",
+    "topic": "Trade votes with voters from swing states",
+    "url": "http://www.pbs.org/newshour/bb/apps-trade-votes-clinton-swing-states/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 2:58:20 PM"
+  },
+  {
+    "id": "12900127",
+    "timestamp": "Nov 8, 2016 4:14:37 PM",
+    "topic": "ThoughtWorks Technology Radar November 2016",
+    "url": "https://www.thoughtworks.com/radar",
+    "votes": 5,
+    "posted": "Nov 8, 2016 2:43:32 PM"
+  },
+  {
+    "id": "12900046",
+    "timestamp": "Nov 8, 2016 4:14:35 PM",
+    "topic": "An Interview with Eric Douglas of the Open Source Society",
+    "url": "https://theinitialcommit.com/2016/11/08/eric-douglas/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 2:33:41 PM"
+  },
+  {
+    "id": "12899982",
+    "timestamp": "Nov 8, 2016 4:14:37 PM",
+    "topic": "Hillary Clinton and Donald Trump don\u0027t know how to use a personal computer",
+    "url": "http://qz.com/829647/donald-trump-and-hillary-clinton-dont-know-how-to-use-computers/",
+    "votes": 5,
+    "posted": "Nov 8, 2016 2:23:43 PM"
   },
   {
     "id": "12899838",
@@ -291,6 +450,14 @@ var newsArray = [
     "topic": "Ask HN: Have you ever thought of leaving programming for something else?",
     "votes": 10,
     "posted": "Nov 8, 2016 4:05:54 AM"
+  },
+  {
+    "id": "12897216",
+    "timestamp": "Nov 8, 2016 4:34:40 PM",
+    "topic": "A keyboard for your back",
+    "url": "https://medium.com/@tartavull/thor-your-next-keyboard-20b9ce7dd2b1#.831esf3y0",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:52:21 AM"
   },
   {
     "id": "12897169",
@@ -765,6 +932,14 @@ var newsArray = [
     "url": "https://thinkfaster.co/2016/10/one-road-out-of-depression/",
     "votes": 5,
     "posted": "Nov 7, 2016 5:01:15 PM"
+  },
+  {
+    "id": "12892032",
+    "timestamp": "Nov 8, 2016 4:24:38 PM",
+    "topic": "The Chopped Cheese’s Sharp Rise to Fame",
+    "url": "http://www.nytimes.com/2016/11/08/nyregion/chopped-cheese-sandwich-harlem.html",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:00:11 PM"
   },
   {
     "id": "12891912",
@@ -7096,90 +7271,5 @@ var newsArray = [
     "topic": "Browser extension creators selling users\u0027 browsing history [German source]",
     "votes": 6,
     "posted": "Nov 1, 2016 5:00:00 PM"
-  },
-  {
-    "id": "12846785",
-    "timestamp": "Nov 1, 2016 4:58:40 PM",
-    "topic": "Let\u0027s Encrypt Crowdfunding Campaign",
-    "url": "https://letsencrypt.org/2016/11/01/launching-our-crowdfunding-campaign.html",
-    "votes": 2,
-    "posted": "Nov 1, 2016 4:45:05 PM"
-  },
-  {
-    "id": "12846742",
-    "timestamp": "Nov 1, 2016 4:48:39 PM",
-    "topic": "OneSignal is hiring full stack, mobile, and back end developers in Mountain View",
-    "url": "http://jobs.onesignal.com/",
-    "votes": 1,
-    "posted": "Nov 1, 2016 4:41:05 PM"
-  },
-  {
-    "id": "12846723",
-    "timestamp": "Nov 1, 2016 7:08:55 PM",
-    "topic": "A Provably Secure Proof-Of-Stake Blockchain Protocol [pdf]",
-    "url": "http://eprint.iacr.org/2016/889.pdf",
-    "votes": 3,
-    "posted": "Nov 1, 2016 4:39:04 PM"
-  },
-  {
-    "id": "12846722",
-    "timestamp": "Nov 1, 2016 6:58:53 PM",
-    "topic": "Django security releases issued: 1.10.3, 1.9.11 and 1.8.16",
-    "url": "https://www.djangoproject.com/weblog/2016/nov/01/security-releases/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 4:38:57 PM"
-  },
-  {
-    "id": "12846716",
-    "timestamp": "Nov 1, 2016 7:08:55 PM",
-    "topic": "Pinterest Adds Three New Types of Promoted Pins",
-    "url": "http://www.adweek.com/socialtimes/one-tap-pins-video-pins-app-pins/646764",
-    "votes": 3,
-    "posted": "Nov 1, 2016 4:38:30 PM"
-  },
-  {
-    "id": "12846516",
-    "timestamp": "Nov 1, 2016 4:38:38 PM",
-    "topic": "Realistic alternatives to Apple computers",
-    "url": "http://www.onebigfluke.com/2016/10/alternatives-to-apple-computers.html",
-    "votes": 8,
-    "posted": "Nov 1, 2016 4:24:01 PM"
-  },
-  {
-    "id": "12846432",
-    "timestamp": "Nov 2, 2016 1:20:32 PM",
-    "topic": "Antirez/Bigdis (2010)",
-    "url": "https://github.com/antirez/Bigdis",
-    "votes": 4,
-    "posted": "Nov 1, 2016 4:19:05 PM"
-  },
-  {
-    "id": "12846216",
-    "timestamp": "Nov 1, 2016 4:08:33 PM",
-    "topic": "Ask HN: Who is hiring? (November 2016)",
-    "votes": 3,
-    "posted": "Nov 1, 2016 4:04:46 PM"
-  },
-  {
-    "id": "12846146",
-    "timestamp": "Nov 1, 2016 4:28:37 PM",
-    "topic": "Ask HN: Who wants to be hired? (November 2016)",
-    "votes": 9,
-    "posted": "Nov 1, 2016 4:00:19 PM"
-  },
-  {
-    "id": "12846145",
-    "timestamp": "Nov 1, 2016 4:28:37 PM",
-    "topic": "Ask HN: Freelancer? Seeking freelancer? (November 2016)",
-    "votes": 11,
-    "posted": "Nov 1, 2016 4:00:19 PM"
-  },
-  {
-    "id": "12846104",
-    "timestamp": "Nov 1, 2016 4:08:33 PM",
-    "topic": "Windows file system compression had to be dumbed down",
-    "url": "https://blogs.msdn.microsoft.com/oldnewthing/20161101-00/?p\u003d94615",
-    "votes": 5,
-    "posted": "Nov 1, 2016 3:54:39 PM"
   }
 ];
