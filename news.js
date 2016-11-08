@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12903032",
+    "timestamp": "Nov 8, 2016 8:25:02 PM",
+    "topic": "Kotlin 1.0.5 is here",
+    "url": "https://blog.jetbrains.com/kotlin/2016/11/kotlin-1-0-5-is-here/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 8:09:48 PM"
+  },
+  {
+    "id": "12903005",
+    "timestamp": "Nov 8, 2016 8:35:03 PM",
+    "topic": "Self Driving Car Engineer Deep Dive…",
+    "url": "https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04#.wl9u5ihhm",
+    "votes": 5,
+    "posted": "Nov 8, 2016 8:06:42 PM"
+  },
+  {
+    "id": "12902887",
+    "timestamp": "Nov 8, 2016 8:55:05 PM",
+    "topic": "Benefits of using tmux – streamlining your development environment",
+    "url": "https://blog.bugsnag.com/benefits-of-using-tmux/",
+    "votes": 6,
+    "posted": "Nov 8, 2016 7:52:57 PM"
+  },
+  {
     "id": "12902620",
     "timestamp": "Nov 8, 2016 7:44:59 PM",
     "topic": "Review: The NES Classic Edition and all 30 games on it",
@@ -47,12 +71,28 @@ var newsArray = [
     "posted": "Nov 8, 2016 6:07:15 PM"
   },
   {
+    "id": "12901921",
+    "timestamp": "Nov 8, 2016 8:55:05 PM",
+    "topic": "Show HN: Browse YC Pitches and Pitch to Potential Hires",
+    "url": "https://humblerise.com?keyword\u003dhackernews",
+    "votes": 5,
+    "posted": "Nov 8, 2016 6:05:56 PM"
+  },
+  {
     "id": "12901905",
     "timestamp": "Nov 8, 2016 6:14:49 PM",
     "topic": "How the Chinese Great Firewall fights off services like Tor",
     "url": "http://fermatslibrary.com/s/examining-how-the-great-firewall-discovers-hidden-circumvention-servers",
     "votes": 7,
     "posted": "Nov 8, 2016 6:04:10 PM"
+  },
+  {
+    "id": "12901899",
+    "timestamp": "Nov 8, 2016 8:45:04 PM",
+    "topic": "Introducing Bloaty McBloatface: a size profiler for binaries",
+    "url": "http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 6:03:47 PM"
   },
   {
     "id": "12901849",
@@ -7314,61 +7354,5 @@ var newsArray = [
     "url": "https://code.facebook.com/posts/1977308282496021/an-open-approach-for-switching-routing-and-transport/",
     "votes": 5,
     "posted": "Nov 1, 2016 9:06:05 PM"
-  },
-  {
-    "id": "12849447",
-    "timestamp": "Nov 1, 2016 9:29:09 PM",
-    "topic": "Telescoping Linear Actuator [video]",
-    "url": "https://www.youtube.com/watch?v\u003dxT3xcY1s1kQ\u0026t\u003d8s",
-    "votes": 3,
-    "posted": "Nov 1, 2016 8:48:01 PM"
-  },
-  {
-    "id": "12849419",
-    "timestamp": "Nov 1, 2016 9:39:10 PM",
-    "topic": "After Apple\u0027s Disappointing MacBook Pro Refresh, What\u0027s an Engineer to Do?",
-    "url": "https://www.linkedin.com/pulse/after-apples-disappointing-macbook-pro-refresh-whats-engineer-greg?trk\u003dhn",
-    "votes": 6,
-    "posted": "Nov 1, 2016 8:45:07 PM"
-  },
-  {
-    "id": "12849294",
-    "timestamp": "Nov 1, 2016 9:09:07 PM",
-    "topic": "New MacBook Pros are unsurprisingly difficult to repair and upgrade",
-    "url": "http://arstechnica.com/apple/2016/11/ifixit-new-macbook-pros-are-unsurprisingly-difficult-to-repair-and-upgrade/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 8:29:15 PM"
-  },
-  {
-    "id": "12849237",
-    "timestamp": "Nov 1, 2016 8:29:02 PM",
-    "topic": "Build the infrastructure to feed 10B middle class people (TerrAvion W14)",
-    "url": "http://www.terravion.com/careers.html",
-    "votes": 1,
-    "posted": "Nov 1, 2016 8:22:42 PM"
-  },
-  {
-    "id": "12849096",
-    "timestamp": "Nov 1, 2016 8:29:02 PM",
-    "topic": "YouTube\u0027s seven-year stand-off ends",
-    "url": "http://www.bbc.com/news/technology-37839038",
-    "votes": 3,
-    "posted": "Nov 1, 2016 8:03:47 PM"
-  },
-  {
-    "id": "12849079",
-    "timestamp": "Nov 1, 2016 8:19:01 PM",
-    "topic": "Keep Ruby Weird Again [video]",
-    "url": "http://blog.testdouble.com/posts/2016-10-31-keep-ruby-weird-again.html",
-    "votes": 3,
-    "posted": "Nov 1, 2016 8:01:25 PM"
-  },
-  {
-    "id": "12849072",
-    "timestamp": "Nov 2, 2016 12:59:32 AM",
-    "topic": "Firefox removes part of functionality due to privacy risks",
-    "url": "https://www.theguardian.com/technology/2016/nov/01/firefox-disable-battery-status-api-tracking",
-    "votes": 3,
-    "posted": "Nov 1, 2016 8:00:33 PM"
   }
 ];
