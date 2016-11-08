@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12901660",
+    "timestamp": "Nov 8, 2016 5:54:47 PM",
+    "topic": "Emergent Gravity and the Dark Universe",
+    "url": "https://arxiv.org/abs/1611.02269",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:40:45 PM"
+  },
+  {
+    "id": "12901506",
+    "timestamp": "Nov 8, 2016 5:54:47 PM",
+    "topic": "Micro web-framework for COBOL",
+    "url": "https://github.com/azac/cobol-on-wheelchair",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:25:06 PM"
+  },
+  {
+    "id": "12901364",
+    "timestamp": "Nov 8, 2016 5:44:46 PM",
+    "topic": "Why Nate Silver and Sam Wang Are Wrong",
+    "url": "https://www.quantamagazine.org/20161108-why-nate-silver-and-sam-wang-are-wrong/",
+    "votes": 14,
+    "posted": "Nov 8, 2016 5:10:41 PM"
+  },
+  {
+    "id": "12901145",
+    "timestamp": "Nov 8, 2016 5:34:45 PM",
+    "topic": "Snowden shows how easy it is to hack into a US voting machine with a memory card",
+    "url": "https://www.thesun.co.uk/news/2138902/cyber-experts-show-how-easy-it-is-to-hack-into-a-us-voting-machine-with-a-24-memory-card/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 4:48:49 PM"
+  },
+  {
+    "id": "12901139",
+    "timestamp": "Nov 8, 2016 5:04:42 PM",
+    "topic": "Julia is the hottest new language on Wall Street",
+    "url": "http://waterstechnology.com/waters/feature/2476518/the-infancy-of-julia-an-inside-look-at-how-traders-and-economists-are-using-the-julia-programming-language",
+    "votes": 14,
+    "posted": "Nov 8, 2016 4:48:28 PM"
+  },
+  {
+    "id": "12901123",
+    "timestamp": "Nov 8, 2016 5:34:45 PM",
+    "topic": "How LinkedIn Drove a Wedge Between Microsoft and Salesforce",
+    "url": "http://www.nytimes.com/2016/11/06/technology/how-linkedin-drove-a-wedge-between-microsoft-and-salesforce.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 4:46:21 PM"
+  },
+  {
+    "id": "12900975",
+    "timestamp": "Nov 8, 2016 5:34:45 PM",
+    "topic": "China Develops High-Speed Intelligent Unmanned Sea Vessel",
+    "url": "http://www.defense-aerospace.com/articles-view/release/3/178544/china-testing-composite_built-unmanned-surface-vessel.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 4:29:36 PM"
+  },
+  {
     "id": "12900965",
     "timestamp": "Nov 8, 2016 4:34:39 PM",
     "topic": "India declares 500 and 1000 rupees notes illegal",
@@ -239,6 +295,38 @@ var newsArray = [
     "posted": "Nov 8, 2016 12:07:13 PM"
   },
   {
+    "id": "12899245",
+    "timestamp": "Nov 8, 2016 5:34:45 PM",
+    "topic": "The secret sauce to managing our backlog and TODO lists",
+    "url": "https://blogs.msdn.microsoft.com/visualstudioalmrangers/2016/11/04/the-secret-sauce-to-managing-our-backlog-and-todo-lists/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 12:03:21 PM"
+  },
+  {
+    "id": "12899237",
+    "timestamp": "Nov 8, 2016 5:34:45 PM",
+    "topic": "Worthwhile Testing: What to test in a React app (and why)",
+    "url": "https://daveceddia.com/what-to-test-in-react-app/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 12:02:05 PM"
+  },
+  {
+    "id": "12899219",
+    "timestamp": "Nov 8, 2016 5:04:42 PM",
+    "topic": "Parkinson\u0027s Law: work expands to fill the time available (1955)",
+    "url": "http://www.economist.com/node/14116121",
+    "votes": 3,
+    "posted": "Nov 8, 2016 11:58:02 AM"
+  },
+  {
+    "id": "12899019",
+    "timestamp": "Nov 8, 2016 5:14:43 PM",
+    "topic": "Semiconductor-free microelectronics are now possible, thanks to metamaterials",
+    "url": "http://phys.org/news/2016-11-semiconductor-free-microelectronics-metamaterials.html",
+    "votes": 4,
+    "posted": "Nov 8, 2016 11:16:17 AM"
+  },
+  {
     "id": "12898927",
     "timestamp": "Nov 8, 2016 11:44:13 AM",
     "topic": "A list of headless browsers and related automation tools",
@@ -285,6 +373,14 @@ var newsArray = [
     "url": "http://thenextweb.com/facebook/2016/11/08/whatsapp-wont-share-uk-user-data-with-facebook-anymore/",
     "votes": 4,
     "posted": "Nov 8, 2016 9:57:35 AM"
+  },
+  {
+    "id": "12898626",
+    "timestamp": "Nov 8, 2016 5:14:43 PM",
+    "topic": "Introducing Bloaty McBloatface: a size profiler for binaries",
+    "url": "http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html",
+    "votes": 4,
+    "posted": "Nov 8, 2016 9:47:17 AM"
   },
   {
     "id": "12898534",
@@ -626,6 +722,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 10:23:15 PM"
   },
   {
+    "id": "12895226",
+    "timestamp": "Nov 8, 2016 5:34:45 PM",
+    "topic": "The Emperor\u0027s New Museum",
+    "url": "http://www.newyorker.com/magazine/2016/11/07/the-emperors-new-museum",
+    "votes": 3,
+    "posted": "Nov 7, 2016 10:19:12 PM"
+  },
+  {
     "id": "12894984",
     "timestamp": "Nov 8, 2016 12:13:17 AM",
     "topic": "They Used to Last 50 Years (2015)",
@@ -640,6 +744,14 @@ var newsArray = [
     "url": "https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/",
     "votes": 11,
     "posted": "Nov 7, 2016 9:52:08 PM"
+  },
+  {
+    "id": "12894897",
+    "timestamp": "Nov 8, 2016 5:04:42 PM",
+    "topic": "How to pick startup ideas",
+    "url": "http://www.defmacro.org/2015/02/25/startup-ideas.html",
+    "votes": 8,
+    "posted": "Nov 7, 2016 9:48:34 PM"
   },
   {
     "id": "12894721",
@@ -7217,59 +7329,5 @@ var newsArray = [
     "url": "https://julianoliver.com/output/stealth-cell-tower",
     "votes": 3,
     "posted": "Nov 1, 2016 6:01:48 PM"
-  },
-  {
-    "id": "12847611",
-    "timestamp": "Nov 1, 2016 5:58:47 PM",
-    "topic": "This year we can end the death penalty in California",
-    "url": "http://paulgraham.com/prop62.html",
-    "votes": 14,
-    "posted": "Nov 1, 2016 5:48:01 PM"
-  },
-  {
-    "id": "12847576",
-    "timestamp": "Nov 1, 2016 6:28:50 PM",
-    "topic": "WebAssembly Stack Machine",
-    "url": "https://docs.google.com/document/d/1CieRxPy3Fp62LQdtWfhymikb_veZI7S9MnuCZw7biII/edit",
-    "votes": 8,
-    "posted": "Nov 1, 2016 5:45:15 PM"
-  },
-  {
-    "id": "12847537",
-    "timestamp": "Nov 1, 2016 6:08:48 PM",
-    "topic": "U.S. Supreme Court Wants Government\u0027s Take on Case Over Prince and \u0027Dancing Baby\u0027",
-    "url": "http://www.billboard.com/biz/articles/news/legal-and-management/7557867/us-supreme-court-wants-governments-take-on-case-over",
-    "votes": 3,
-    "posted": "Nov 1, 2016 5:42:40 PM"
-  },
-  {
-    "id": "12847287",
-    "timestamp": "Nov 1, 2016 5:48:44 PM",
-    "topic": "Instapaper Premium is now free for everyone",
-    "url": "http://blog.instapaper.com/post/152600596211",
-    "votes": 17,
-    "posted": "Nov 1, 2016 5:23:08 PM"
-  },
-  {
-    "id": "12847172",
-    "timestamp": "Nov 1, 2016 5:38:43 PM",
-    "topic": "RStudio releases v1.0",
-    "url": "https://blog.rstudio.org/2016/11/01/announcing-rstudio-v1-0/",
-    "votes": 6,
-    "posted": "Nov 1, 2016 5:13:02 PM"
-  },
-  {
-    "id": "12847045",
-    "timestamp": "Nov 1, 2016 5:48:44 PM",
-    "topic": "Ask HN: Who needs contributors? (November 2016)",
-    "votes": 12,
-    "posted": "Nov 1, 2016 5:03:39 PM"
-  },
-  {
-    "id": "12846994",
-    "timestamp": "Nov 1, 2016 8:29:03 PM",
-    "topic": "Browser extension creators selling users\u0027 browsing history [German source]",
-    "votes": 6,
-    "posted": "Nov 1, 2016 5:00:00 PM"
   }
 ];
