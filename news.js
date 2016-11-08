@@ -1,11 +1,67 @@
 var newsArray = [
   {
+    "id": "12899782",
+    "timestamp": "Nov 8, 2016 1:54:24 PM",
+    "topic": "EasyPost is still hiring more developers",
+    "url": "https://www.easypost.com/jobs",
+    "votes": 1,
+    "posted": "Nov 8, 2016 1:50:27 PM"
+  },
+  {
+    "id": "12899535",
+    "timestamp": "Nov 8, 2016 1:14:20 PM",
+    "topic": "Almost one in ten people set to quit the internet in the UK",
+    "url": "http://superfast-it.com/internet/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 1:01:47 PM"
+  },
+  {
+    "id": "12899422",
+    "timestamp": "Nov 8, 2016 1:14:20 PM",
+    "topic": "Uber rival Karhoo shuts down",
+    "url": "https://techcrunch.com/2016/11/08/uber-competitor-karhoo-shuts-down-after-blowing-through-250m/",
+    "votes": 11,
+    "posted": "Nov 8, 2016 12:40:27 PM"
+  },
+  {
+    "id": "12899419",
+    "timestamp": "Nov 8, 2016 1:04:19 PM",
+    "topic": "Formation of Tesla Advanced Automation Germany",
+    "url": "https://www.tesla.com/blog/formation-of-tesla-advanced-automation-germany",
+    "votes": 19,
+    "posted": "Nov 8, 2016 12:39:43 PM"
+  },
+  {
+    "id": "12899412",
+    "timestamp": "Nov 8, 2016 1:04:19 PM",
+    "topic": "A Formal Security Analysis of the Signal Messaging Protocol [pdf]",
+    "url": "https://eprint.iacr.org/2016/1013.pdf",
+    "votes": 3,
+    "posted": "Nov 8, 2016 12:37:57 PM"
+  },
+  {
+    "id": "12899398",
+    "timestamp": "Nov 8, 2016 1:24:21 PM",
+    "topic": "\u0027Trust it\u0027: Results of Signal\u0027s first formal crypto analysis are in",
+    "url": "http://www.theregister.co.uk/2016/11/08/trust_it_results_of_signals_first_formal_crypto_analysis_are_in/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 12:35:52 PM"
+  },
+  {
     "id": "12898927",
     "timestamp": "Nov 8, 2016 11:44:13 AM",
     "topic": "A list of headless browsers and related automation tools",
     "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
     "votes": 7,
     "posted": "Nov 8, 2016 10:51:52 AM"
+  },
+  {
+    "id": "12898862",
+    "timestamp": "Nov 8, 2016 1:04:19 PM",
+    "topic": "A Conversation with Alan Kay",
+    "url": "http://queue.acm.org/detail.cfm?id\u003d1039523",
+    "votes": 5,
+    "posted": "Nov 8, 2016 10:35:03 AM"
   },
   {
     "id": "12898857",
@@ -125,6 +181,14 @@ var newsArray = [
     "url": "https://www.google.com/policies/privacy/",
     "votes": 4,
     "posted": "Nov 8, 2016 5:47:58 AM"
+  },
+  {
+    "id": "12897729",
+    "timestamp": "Nov 8, 2016 1:04:19 PM",
+    "topic": "D3-Cloud: Create Word Clouds in JavaScript and D3.js",
+    "url": "https://github.com/jasondavies/d3-cloud",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:44:32 AM"
   },
   {
     "id": "12897545",
@@ -7196,45 +7260,5 @@ var newsArray = [
     "url": "https://wikileaks.org/podesta-emails/emailid/37262",
     "votes": 7,
     "posted": "Nov 1, 2016 2:05:20 PM"
-  },
-  {
-    "id": "12845174",
-    "timestamp": "Nov 1, 2016 2:08:23 PM",
-    "topic": "Dijkstra? Which flight from A to B requires the most hops, worldwide?",
-    "url": "http://travel.stackexchange.com/questions/81783/what-commercial-flight-route-has-the-biggest-number-of-minimum-possible-stops",
-    "votes": 3,
-    "posted": "Nov 1, 2016 1:44:52 PM"
-  },
-  {
-    "id": "12845035",
-    "timestamp": "Nov 1, 2016 6:38:51 PM",
-    "topic": "Stuck between a rock and a hard place",
-    "url": "http://macdaddy.io/apples-new-macbook-pros/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 1:23:21 PM"
-  },
-  {
-    "id": "12844976",
-    "timestamp": "Nov 1, 2016 1:38:20 PM",
-    "topic": "Remote-First vs. Remote-Friendly",
-    "url": "https://zachholman.com/posts/remote-first/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 1:09:25 PM"
-  },
-  {
-    "id": "12844973",
-    "timestamp": "Nov 1, 2016 1:38:20 PM",
-    "topic": "The Ultimate Guide to Remote Work – Zapier",
-    "url": "https://zapier.com/learn/the-ultimate-guide-to-remote-working/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 1:09:09 PM"
-  },
-  {
-    "id": "12844964",
-    "timestamp": "Nov 1, 2016 3:18:29 PM",
-    "topic": "I Have a Unicode Email Address",
-    "url": "https://medium.com/@zackbloom/i-have-a-unicode-email-address-fbecd630ec12#.bbdifln65",
-    "votes": 5,
-    "posted": "Nov 1, 2016 1:06:55 PM"
   }
 ];
