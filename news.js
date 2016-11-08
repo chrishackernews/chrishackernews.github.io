@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12897415",
+    "timestamp": "Nov 8, 2016 5:03:41 AM",
+    "topic": "Google Data Studio",
+    "url": "https://datastudio.google.com",
+    "votes": 6,
+    "posted": "Nov 8, 2016 4:39:47 AM"
+  },
+  {
+    "id": "12897398",
+    "timestamp": "Nov 8, 2016 5:53:45 AM",
+    "topic": "Founder Dilution",
+    "url": "http://avc.com/2016/11/founder-dilution/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 4:34:47 AM"
+  },
+  {
     "id": "12897324",
     "timestamp": "Nov 8, 2016 4:23:38 AM",
     "topic": "InfluxData (YC W13) Is Hiring a Senior JavaScript Developer in SF",
     "url": "https://boards.greenhouse.io/influxdb",
     "votes": 1,
     "posted": "Nov 8, 2016 4:17:56 AM"
+  },
+  {
+    "id": "12897316",
+    "timestamp": "Nov 8, 2016 5:13:42 AM",
+    "topic": "What is the most absurd code you\u0027ve ever seen?",
+    "url": "https://www.quora.com/What-is-the-most-absurd-code-youve-ever-seen?share\u003d1",
+    "votes": 5,
+    "posted": "Nov 8, 2016 4:16:17 AM"
   },
   {
     "id": "12897284",
@@ -7309,51 +7333,5 @@ var newsArray = [
     "url": "http://www.slate.com/blogs/the_vault/2016/09/16/modernist_british_safety_posters_from_the_middle_of_the_twentieth_century.html",
     "votes": 3,
     "posted": "Nov 1, 2016 5:54:48 AM"
-  },
-  {
-    "id": "12843466",
-    "timestamp": "Nov 1, 2016 6:07:42 AM",
-    "topic": "Show HN: My first web app",
-    "url": "http://www.createamemo.com",
-    "votes": 7,
-    "posted": "Nov 1, 2016 5:39:48 AM"
-  },
-  {
-    "id": "12843442",
-    "timestamp": "Nov 1, 2016 2:18:24 PM",
-    "topic": "Meet the Man Bringing Chinese Science Fiction to the West",
-    "url": "http://www.newsweek.com/man-bringing-chinese-science-fiction-west-514893",
-    "votes": 3,
-    "posted": "Nov 1, 2016 5:33:23 AM"
-  },
-  {
-    "id": "12843440",
-    "timestamp": "Nov 1, 2016 8:17:52 AM",
-    "topic": "Ask HN: What tools do you use to prototype web UI?",
-    "votes": 6,
-    "posted": "Nov 1, 2016 5:32:26 AM"
-  },
-  {
-    "id": "12843397",
-    "timestamp": "Nov 1, 2016 10:29:16 PM",
-    "topic": "Ask HN: What\u0027s the best way to learn frontend development nowadays?",
-    "votes": 6,
-    "posted": "Nov 1, 2016 5:17:53 AM"
-  },
-  {
-    "id": "12843369",
-    "timestamp": "Nov 1, 2016 8:17:52 AM",
-    "topic": "FreeDOS 1.2 RC1",
-    "url": "http://opensource-usability.blogspot.com/2016/10/freedos-12-rc1.html",
-    "votes": 4,
-    "posted": "Nov 1, 2016 5:11:06 AM"
-  },
-  {
-    "id": "12843344",
-    "timestamp": "Nov 1, 2016 10:48:06 AM",
-    "topic": "Show HN: Coffee Break, Mini Games on FB Messenger",
-    "url": "https://coffeebreak.games",
-    "votes": 5,
-    "posted": "Nov 1, 2016 5:07:14 AM"
   }
 ];
