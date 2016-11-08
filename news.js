@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12904437",
+    "timestamp": "Nov 8, 2016 11:15:28 PM",
+    "topic": "Be the First Product Designer at Close.io",
+    "url": "https://jobs.lever.co/close.io/040dbdb1-66c5-4f34-bd20-9eedc48c89f8?lever-source\u003dHN",
+    "votes": 1,
+    "posted": "Nov 8, 2016 11:13:45 PM"
+  },
+  {
+    "id": "12904344",
+    "timestamp": "Nov 8, 2016 11:35:30 PM",
+    "topic": "Walgreens Seeks to Recover $140M Investment from Theranos",
+    "url": "http://www.wsj.com/articles/walgreens-seeks-to-recover-140-million-investment-from-theranos-1478642410",
+    "votes": 5,
+    "posted": "Nov 8, 2016 11:01:49 PM"
+  },
+  {
+    "id": "12904216",
+    "timestamp": "Nov 8, 2016 11:15:28 PM",
+    "topic": "Why Twitter Must Be Saved",
+    "url": "https://stratechery.com/2016/why-twitter-must-be-saved/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 10:42:59 PM"
+  },
+  {
     "id": "12903966",
     "timestamp": "Nov 8, 2016 10:25:17 PM",
     "topic": "What\u0027s the best aha moment you\u0027ve had?",
@@ -61,6 +85,14 @@ var newsArray = [
     "url": "https://blog.bugsnag.com/benefits-of-using-tmux/",
     "votes": 6,
     "posted": "Nov 8, 2016 7:52:57 PM"
+  },
+  {
+    "id": "12902659",
+    "timestamp": "Nov 8, 2016 11:55:32 PM",
+    "topic": "“The Will of the People” Is a Myth",
+    "url": "https://mises.org/blog/will-people-myth",
+    "votes": 4,
+    "posted": "Nov 8, 2016 7:27:28 PM"
   },
   {
     "id": "12902620",
@@ -7170,108 +7202,5 @@ var newsArray = [
     "url": "http://www.ribbonfarm.com/2016/11/01/ribbonfarm-longform-blogging-course-nov-10-22/",
     "votes": 3,
     "posted": "Nov 1, 2016 11:56:12 PM"
-  },
-  {
-    "id": "12850861",
-    "timestamp": "Nov 2, 2016 6:29:59 AM",
-    "topic": "Ask HN: Best website to get a custom logo?",
-    "votes": 6,
-    "posted": "Nov 1, 2016 11:54:40 PM"
-  },
-  {
-    "id": "12850836",
-    "timestamp": "Nov 1, 2016 11:59:26 PM",
-    "topic": "BackerKit (YC W13) Is Hiring a Growth Intern",
-    "url": "https://angel.co/backerkit/jobs/142199-growth-internship",
-    "votes": 1,
-    "posted": "Nov 1, 2016 11:50:27 PM"
-  },
-  {
-    "id": "12850817",
-    "timestamp": "Nov 2, 2016 12:39:30 AM",
-    "topic": "Why People Love Going to Fancy Gyms",
-    "url": "http://qz.com/816740/boutique-gyms-like-crossfit-and-pure-barre-are-raking-in-billions-by-making-fancy-fitness-a-status-symbol/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:47:37 PM"
-  },
-  {
-    "id": "12850708",
-    "timestamp": "Nov 2, 2016 4:49:50 AM",
-    "topic": "Our commitment to our customer’s security",
-    "url": "https://blogs.technet.microsoft.com/mmpc/2016/11/01/our-commitment-to-our-customers-security/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 11:32:35 PM"
-  },
-  {
-    "id": "12850646",
-    "timestamp": "Nov 1, 2016 11:59:26 PM",
-    "topic": "The Story of XMLHTTP (2008)",
-    "url": "http://www.alexhopmann.com/story-of-xmlhttp/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:25:18 PM"
-  },
-  {
-    "id": "12850641",
-    "timestamp": "Nov 1, 2016 11:59:26 PM",
-    "topic": "VERGE 3.0",
-    "url": "http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016",
-    "votes": 5,
-    "posted": "Nov 1, 2016 11:24:02 PM"
-  },
-  {
-    "id": "12850572",
-    "timestamp": "Nov 2, 2016 12:09:27 AM",
-    "topic": "Lenovo Phab 2 Pro – The World\u0027s First Tango-Enabled Smartphone",
-    "url": "http://shop.lenovo.com/us/en/tango/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 11:13:59 PM"
-  },
-  {
-    "id": "12850544",
-    "timestamp": "Nov 2, 2016 12:19:28 AM",
-    "topic": "How Apple could have avoided much of the controversy",
-    "url": "https://chuqui.com/2016/10/how-apple-could-have-avoided-much-of-the-controversy/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 11:10:24 PM"
-  },
-  {
-    "id": "12850537",
-    "timestamp": "Nov 1, 2016 11:29:23 PM",
-    "topic": "Chinese Yuan Becomes Official Currency in Zimbabwe",
-    "url": "http://howafrica.com/breaking-the-chinese-yuan-becomes-official-currency-in-zimbabwe/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 11:09:50 PM"
-  },
-  {
-    "id": "12850502",
-    "timestamp": "Nov 1, 2016 11:59:26 PM",
-    "topic": "The Late 2016 entry-level 13″ MacBook Pro has a ridiculously fast SSD",
-    "url": "https://9to5mac.com/2016/11/01/the-late-2016-entry-level-13-macbook-pro-has-a-ridiculously-fast-ssd/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:06:23 PM"
-  },
-  {
-    "id": "12850497",
-    "timestamp": "Nov 1, 2016 11:19:22 PM",
-    "topic": "This Year We Can End the Death Penalty in California",
-    "url": "http://www.paulgraham.com/prop62.html",
-    "votes": 15,
-    "posted": "Nov 1, 2016 11:06:01 PM"
-  },
-  {
-    "id": "12850453",
-    "timestamp": "Nov 2, 2016 3:49:45 AM",
-    "topic": "Young scientists ditch postdocs for biotech startups",
-    "url": "http://www.nature.com/news/young-scientists-ditch-postdocs-for-biotech-start-ups-1.20912",
-    "votes": 4,
-    "posted": "Nov 1, 2016 11:00:58 PM"
-  },
-  {
-    "id": "12850446",
-    "timestamp": "Nov 1, 2016 11:39:24 PM",
-    "topic": "50 Things I Pretend to Know Now That I Am Nearing 50",
-    "url": "http://www.jamesaltucher.com/2016/07/50-things-pretend-know-now-nearing-50/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 11:00:26 PM"
   }
 ];
