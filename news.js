@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12896323",
+    "timestamp": "Nov 8, 2016 12:43:19 AM",
+    "topic": "Next Caller Is Hiring a Technical Product Manager",
+    "url": "https://jobs.lever.co/nextcaller/619a158e-015b-4075-a626-afdc936b17f0",
+    "votes": 1,
+    "posted": "Nov 8, 2016 12:40:57 AM"
+  },
+  {
+    "id": "12895864",
+    "timestamp": "Nov 8, 2016 12:43:19 AM",
+    "topic": "A Simple Request: VLC.js",
+    "url": "http://ascii.textfiles.com/archives/5084",
+    "votes": 9,
+    "posted": "Nov 7, 2016 11:36:25 PM"
+  },
+  {
     "id": "12895663",
     "timestamp": "Nov 7, 2016 11:53:15 PM",
     "topic": "19 things I learnt reading the Node.js docs",
     "url": "https://medium.com/@david.gilbertson/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.bzx75cpkv",
     "votes": 4,
     "posted": "Nov 7, 2016 11:07:24 PM"
+  },
+  {
+    "id": "12894984",
+    "timestamp": "Nov 8, 2016 12:13:17 AM",
+    "topic": "They Used to Last 50 Years (2015)",
+    "url": "http://recraigslist.com/2015/10/they-used-to-last-50-years/",
+    "votes": 4,
+    "posted": "Nov 7, 2016 9:55:35 PM"
   },
   {
     "id": "12894940",
@@ -1011,6 +1035,13 @@ var newsArray = [
     "url": "https://www.thenation.com/article/freuds-discontents/",
     "votes": 2,
     "posted": "Nov 6, 2016 7:35:44 PM"
+  },
+  {
+    "id": "12886225",
+    "timestamp": "Nov 8, 2016 12:03:16 AM",
+    "topic": "Ask HN: What are you reading this weekend?",
+    "votes": 7,
+    "posted": "Nov 6, 2016 6:59:09 PM"
   },
   {
     "id": "12886178",
@@ -7341,100 +7372,5 @@ var newsArray = [
     "url": "http://time.com/4551521/uber-lyft-black-discrimination/",
     "votes": 5,
     "posted": "Nov 1, 2016 12:57:03 AM"
-  },
-  {
-    "id": "12842050",
-    "timestamp": "Nov 1, 2016 12:57:14 AM",
-    "topic": "Canopy Labs (YC S12) Is Hiring a SysOps Engineer",
-    "votes": 1,
-    "posted": "Nov 1, 2016 12:51:59 AM"
-  },
-  {
-    "id": "12842018",
-    "timestamp": "Nov 1, 2016 1:17:16 AM",
-    "topic": "Peter Thiel Backing Trump Suggests Silicon Valley Is Out of Touch",
-    "url": "http://www.nytimes.com/2016/11/01/technology/peter-thiel-on-donald-trump-media-silicon-valley.html",
-    "votes": 5,
-    "posted": "Nov 1, 2016 12:47:30 AM"
-  },
-  {
-    "id": "12842015",
-    "timestamp": "Nov 1, 2016 1:07:15 AM",
-    "topic": "How a Fake British Accent Took Old Hollywood by Storm",
-    "url": "http://www.atlasobscura.com/articles/how-a-fake-british-accent-took-old-hollywood-by-storm",
-    "votes": 3,
-    "posted": "Nov 1, 2016 12:46:33 AM"
-  },
-  {
-    "id": "12842006",
-    "timestamp": "Nov 1, 2016 12:57:14 AM",
-    "topic": "Barack Obama: Now Is the Greatest Time to Be Alive",
-    "url": "https://www.wired.com/2016/10/president-obama-guest-edits-wired-essay?mbid\u003dsocial_twitter",
-    "votes": 12,
-    "posted": "Nov 1, 2016 12:44:00 AM"
-  },
-  {
-    "id": "12841993",
-    "timestamp": "Nov 1, 2016 12:57:14 AM",
-    "topic": "Google Is Not What It Seems",
-    "url": "https://wikileaks.org/google-is-not-what-it-seems/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 12:42:29 AM"
-  },
-  {
-    "id": "12841981",
-    "timestamp": "Nov 1, 2016 10:49:19 PM",
-    "topic": "‘Post-Fire London was a magnificent, beautiful compromise’",
-    "url": "http://www.apollo-magazine.com/post-fire-london-magnificent-beautiful-compromise/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 12:40:45 AM"
-  },
-  {
-    "id": "12841884",
-    "timestamp": "Nov 1, 2016 10:48:06 AM",
-    "topic": "Show HN: DotConfigs- Framework to auto-configure and sync between linux machines",
-    "url": "https://github.com/BrandonBielicki/dotconfigs",
-    "votes": 3,
-    "posted": "Nov 1, 2016 12:23:54 AM"
-  },
-  {
-    "id": "12841875",
-    "timestamp": "Nov 3, 2016 11:13:47 PM",
-    "topic": "Purses and foldouts – unexpected challenges of digitisation",
-    "url": "http://blog.wellcomelibrary.org/2016/10/purses-and-foldouts-unexpected-challenges-of-digitisation/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 12:22:25 AM"
-  },
-  {
-    "id": "12841860",
-    "timestamp": "Nov 1, 2016 12:47:13 AM",
-    "topic": "Distrusting WoSign and StartCom Certificates",
-    "url": "https://security.googleblog.com/2016/10/distrusting-wosign-and-startcom.html",
-    "votes": 7,
-    "posted": "Nov 1, 2016 12:20:57 AM"
-  },
-  {
-    "id": "12841803",
-    "timestamp": "Nov 1, 2016 7:17:47 AM",
-    "topic": "Microsoft reimagines open source cloud hardware",
-    "url": "https://azure.microsoft.com/en-us/blog/microsoft-reimagines-open-source-cloud-hardware/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 12:11:01 AM"
-  },
-  {
-    "id": "12841766",
-    "timestamp": "Nov 1, 2016 2:57:25 AM",
-    "topic": "Study says women better coders than men – but only if they hide their gender [pdf]",
-    "url": "https://peerj.com/preprints/1733v1.pdf",
-    "votes": 3,
-    "posted": "Nov 1, 2016 12:05:13 AM"
-  },
-  {
-    "id": "12841718",
-    "timestamp": "Nov 1, 2016 12:17:09 AM",
-    "topic": "Edge web platform status",
-    "url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/status/",
-    "votes": 5,
-    "posted": "Oct 31, 2016 11:58:21 PM"
   }
 ];
