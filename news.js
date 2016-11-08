@@ -1,11 +1,65 @@
 var newsArray = [
   {
+    "id": "12902620",
+    "timestamp": "Nov 8, 2016 7:44:59 PM",
+    "topic": "Review: The NES Classic Edition and all 30 games on it",
+    "url": "https://techcrunch.com/2016/11/07/review-the-nes-classic-edition-and-all-30-games-on-it/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 7:22:36 PM"
+  },
+  {
+    "id": "12902582",
+    "timestamp": "Nov 8, 2016 7:24:55 PM",
+    "topic": "Zoomer (YC S14) is hiring DevOps engineers for our globally distributed team",
+    "url": "https://jobs.lever.co/zoomer?lever-source\u003dhackernews",
+    "votes": 1,
+    "posted": "Nov 8, 2016 7:18:16 PM"
+  },
+  {
+    "id": "12902530",
+    "timestamp": "Nov 8, 2016 7:24:55 PM",
+    "topic": "Webscraping with Rvest",
+    "url": "http://www.programmingr.com/content/webscraping-rvest-easy-mba-can/",
+    "votes": 6,
+    "posted": "Nov 8, 2016 7:10:59 PM"
+  },
+  {
+    "id": "12902514",
+    "timestamp": "Nov 8, 2016 7:34:56 PM",
+    "topic": "Ask HN: List of frequently used UI notifications texts",
+    "votes": 4,
+    "posted": "Nov 8, 2016 7:09:20 PM"
+  },
+  {
+    "id": "12902304",
+    "timestamp": "Nov 8, 2016 7:54:59 PM",
+    "topic": "So you think you know C?",
+    "url": "https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6",
+    "votes": 4,
+    "posted": "Nov 8, 2016 6:45:22 PM"
+  },
+  {
+    "id": "12901933",
+    "timestamp": "Nov 8, 2016 7:24:55 PM",
+    "topic": "Ben Silbermann at Startup School [video]",
+    "url": "http://themacro.com/articles/2016/11/ben-silbermann-at-startup-school/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 6:07:15 PM"
+  },
+  {
     "id": "12901905",
     "timestamp": "Nov 8, 2016 6:14:49 PM",
     "topic": "How the Chinese Great Firewall fights off services like Tor",
     "url": "http://fermatslibrary.com/s/examining-how-the-great-firewall-discovers-hidden-circumvention-servers",
     "votes": 7,
     "posted": "Nov 8, 2016 6:04:10 PM"
+  },
+  {
+    "id": "12901849",
+    "timestamp": "Nov 8, 2016 7:34:56 PM",
+    "topic": "Ask HN: When did you feel to resign/leave your last job?",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:59:34 PM"
   },
   {
     "id": "12901724",
@@ -64,6 +118,13 @@ var newsArray = [
     "posted": "Nov 8, 2016 5:10:41 PM"
   },
   {
+    "id": "12901355",
+    "timestamp": "Nov 8, 2016 7:34:57 PM",
+    "topic": "Ask HN: Am I right there\u0027s no place for C++ developers in the startup world?",
+    "votes": 4,
+    "posted": "Nov 8, 2016 5:09:56 PM"
+  },
+  {
     "id": "12901145",
     "timestamp": "Nov 8, 2016 5:34:45 PM",
     "topic": "Snowden shows how easy it is to hack into a US voting machine with a memory card",
@@ -80,6 +141,13 @@ var newsArray = [
     "posted": "Nov 8, 2016 4:48:28 PM"
   },
   {
+    "id": "12901132",
+    "timestamp": "Nov 8, 2016 7:34:57 PM",
+    "topic": "Ask HN: How to actually start freelancing?",
+    "votes": 5,
+    "posted": "Nov 8, 2016 4:47:29 PM"
+  },
+  {
     "id": "12901123",
     "timestamp": "Nov 8, 2016 5:34:45 PM",
     "topic": "How LinkedIn Drove a Wedge Between Microsoft and Salesforce",
@@ -93,6 +161,14 @@ var newsArray = [
     "topic": "Ask HN: How much productivity have you lost because of this election?",
     "votes": 3,
     "posted": "Nov 8, 2016 4:37:43 PM"
+  },
+  {
+    "id": "12901012",
+    "timestamp": "Nov 8, 2016 7:04:53 PM",
+    "topic": "India PM Modi Abolishes 500 and 1,000 Rupee Notes to Fight Corruption",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-08/india-abolishes-inr500-1-000-rupee-notes-to-fight-corruption",
+    "votes": 7,
+    "posted": "Nov 8, 2016 4:35:07 PM"
   },
   {
     "id": "12900975",
@@ -246,6 +322,13 @@ var newsArray = [
     "posted": "Nov 8, 2016 2:58:20 PM"
   },
   {
+    "id": "12900153",
+    "timestamp": "Nov 8, 2016 7:34:57 PM",
+    "topic": "Ask HN: What would happen if Apple open-sourced OS X?",
+    "votes": 3,
+    "posted": "Nov 8, 2016 2:47:28 PM"
+  },
+  {
     "id": "12900127",
     "timestamp": "Nov 8, 2016 4:14:37 PM",
     "topic": "ThoughtWorks Technology Radar November 2016",
@@ -276,6 +359,14 @@ var newsArray = [
     "url": "https://medium.com/@boxed/a-small-dive-into-and-rejection-of-elm-8217fd5da235#.kkt82zm3y",
     "votes": 4,
     "posted": "Nov 8, 2016 2:01:52 PM"
+  },
+  {
+    "id": "12899814",
+    "timestamp": "Nov 8, 2016 7:34:57 PM",
+    "topic": "Show HN: Slik Prospector – Find Anyone\u0027s Email",
+    "url": "https://slik.ai/#/",
+    "votes": 24,
+    "posted": "Nov 8, 2016 1:57:10 PM"
   },
   {
     "id": "12899782",
@@ -737,6 +828,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 12:14:39 AM"
   },
   {
+    "id": "12895947",
+    "timestamp": "Nov 8, 2016 7:34:57 PM",
+    "topic": "Show HN: Cut unwanted parts from videos directly on YouTube",
+    "url": "https://eclips.io/#_\u003d_",
+    "votes": 3,
+    "posted": "Nov 7, 2016 11:46:56 PM"
+  },
+  {
     "id": "12895890",
     "timestamp": "Nov 8, 2016 2:53:30 AM",
     "topic": "Actor library for Rust: first intro post",
@@ -940,6 +1039,13 @@ var newsArray = [
     "topic": "Ask HN: Why is “advice in Effective Java considered inappropriate for Android”?",
     "votes": 3,
     "posted": "Nov 7, 2016 6:50:33 PM"
+  },
+  {
+    "id": "12893062",
+    "timestamp": "Nov 8, 2016 7:34:58 PM",
+    "topic": "Ask HN: How to prepare for a technical interview?",
+    "votes": 6,
+    "posted": "Nov 7, 2016 6:46:21 PM"
   },
   {
     "id": "12893040",
@@ -1346,6 +1452,14 @@ var newsArray = [
     "url": "http://www.bbc.co.uk/news/business-37891742",
     "votes": 4,
     "posted": "Nov 7, 2016 9:55:47 AM"
+  },
+  {
+    "id": "12889713",
+    "timestamp": "Nov 8, 2016 7:34:57 PM",
+    "topic": "Show HN: An Extremely Simple Election Forecast in Scala",
+    "url": "https://github.com/rcoh/electorate",
+    "votes": 4,
+    "posted": "Nov 7, 2016 9:54:40 AM"
   },
   {
     "id": "12889680",
@@ -7256,53 +7370,5 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/01/firefox-disable-battery-status-api-tracking",
     "votes": 3,
     "posted": "Nov 1, 2016 8:00:33 PM"
-  },
-  {
-    "id": "12848943",
-    "timestamp": "Nov 1, 2016 11:29:23 PM",
-    "topic": "Flow: Not All It\u0027s Cracked Up to Be",
-    "url": "https://medium.com/myplanet-musings/flow-not-all-its-cracked-up-to-be-459207631ed9#.ivgkjd5tc",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:43:51 PM"
-  },
-  {
-    "id": "12848917",
-    "timestamp": "Nov 1, 2016 10:39:17 PM",
-    "topic": "Show HN: vpnns – Per-app VPN using Linux namespaces",
-    "url": "https://github.com/cernekee/ocproxy#vpnns-experimental",
-    "votes": 3,
-    "posted": "Nov 1, 2016 7:40:46 PM"
-  },
-  {
-    "id": "12848698",
-    "timestamp": "Nov 1, 2016 8:59:06 PM",
-    "topic": "Signal and GIPHY",
-    "url": "https://whispersystems.org/blog/giphy-experiment/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:18:34 PM"
-  },
-  {
-    "id": "12848656",
-    "timestamp": "Nov 1, 2016 7:48:59 PM",
-    "topic": "Show HN: academic.bio, a simple static site generator for academic webpages",
-    "url": "http://my.academic.bio",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:14:02 PM"
-  },
-  {
-    "id": "12848648",
-    "timestamp": "Nov 1, 2016 7:38:58 PM",
-    "topic": "Bones Found 76 Years Ago Could Actually Be Amelia Earhart’s",
-    "url": "http://www.huffingtonpost.com/entry/amelia-earhart-skeleton_us_581883dde4b064e1b4b49b74",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:13:38 PM"
-  },
-  {
-    "id": "12848444",
-    "timestamp": "Nov 2, 2016 12:09:27 AM",
-    "topic": "Show HN: A Curated List of Rabbit Holes on the Internet",
-    "url": "https://github.com/torchhound/warren",
-    "votes": 7,
-    "posted": "Nov 1, 2016 6:55:43 PM"
   }
 ];
