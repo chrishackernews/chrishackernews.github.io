@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12897022",
+    "timestamp": "Nov 8, 2016 3:13:32 AM",
+    "topic": "The New York Times to Offer Open Access on Web and Apps for the Election",
+    "url": "http://mobile.nytimes.com/2016/11/04/homepage/new-york-times-open-access-election-2016.html?_r\u003d0\u0026referer\u003d",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:05:05 AM"
+  },
+  {
+    "id": "12896987",
+    "timestamp": "Nov 8, 2016 3:13:32 AM",
+    "topic": "Ralph J. Cicerone, scientist who worked to protect the ozone layer, dies at 73",
+    "url": "https://www.washingtonpost.com/local/obituaries/ralph-j-cicerone-scientist-who-worked-to-protect-the-ozone-layer-dies-at-73/2016/11/06/2b2ec0aa-a427-11e6-8fc0-7be8f848c492_story.html",
+    "votes": 5,
+    "posted": "Nov 8, 2016 2:57:25 AM"
+  },
+  {
+    "id": "12896981",
+    "timestamp": "Nov 8, 2016 3:13:32 AM",
+    "topic": "Unofficial Stories: Conversation with Svetlana Alexievich",
+    "url": "http://harpers.org/blog/2016/10/unofficial-stories/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 2:55:18 AM"
+  },
+  {
+    "id": "12896859",
+    "timestamp": "Nov 8, 2016 3:23:33 AM",
+    "topic": "Google – My Activity",
+    "url": "https://myactivity.google.com/myactivity?utm\u003demail",
+    "votes": 7,
+    "posted": "Nov 8, 2016 2:25:16 AM"
+  },
+  {
+    "id": "12896841",
+    "timestamp": "Nov 8, 2016 3:23:33 AM",
+    "topic": "iRobot says 20 percent of the world’s vacuums are now robots",
+    "url": "https://techcrunch.com/2016/11/07/irobot-says-20-percent-of-the-worlds-vacuums-are-now-robots/",
+    "votes": 8,
+    "posted": "Nov 8, 2016 2:22:05 AM"
+  },
+  {
+    "id": "12896731",
+    "timestamp": "Nov 8, 2016 3:33:34 AM",
+    "topic": "How to get subtraction wrong",
+    "url": "http://geocar.sdf1.org/numbers.html",
+    "votes": 5,
+    "posted": "Nov 8, 2016 1:58:59 AM"
+  },
+  {
     "id": "12896432",
     "timestamp": "Nov 8, 2016 1:23:22 AM",
     "topic": "The Sega Genesis Is Officially Back in Production",
@@ -235,6 +283,14 @@ var newsArray = [
     "url": "http://media.bemyapp.com/guide-open-source-3d-graphics-design/?utm_source\u003dbma\u0026utm_medium\u003dycombin\u0026utm_content\u003d\u0026utm_campaign\u003dmedia",
     "votes": 4,
     "posted": "Nov 7, 2016 6:44:08 PM"
+  },
+  {
+    "id": "12892986",
+    "timestamp": "Nov 8, 2016 3:53:36 AM",
+    "topic": "Single mother of 6 ensnared by undercover sting for selling ceviche via Facebook",
+    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/07/undercover-sting-nabs-california-mother-selling-ceviche-through-facebook-group/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 6:39:09 PM"
   },
   {
     "id": "12892975",
@@ -497,6 +553,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/7/13548052/the-macbook-pro-lie",
     "votes": 7,
     "posted": "Nov 7, 2016 2:32:10 PM"
+  },
+  {
+    "id": "12890760",
+    "timestamp": "Nov 8, 2016 3:13:32 AM",
+    "topic": "Show HN: Sport stats UI components",
+    "url": "https://github.com/alexadam/sport-stats",
+    "votes": 5,
+    "posted": "Nov 7, 2016 2:19:24 PM"
   },
   {
     "id": "12890585",
@@ -7316,53 +7380,5 @@ var newsArray = [
     "url": "https://flow.microsoft.com",
     "votes": 4,
     "posted": "Nov 1, 2016 3:55:34 AM"
-  },
-  {
-    "id": "12842915",
-    "timestamp": "Nov 1, 2016 3:47:30 AM",
-    "topic": "Who\u0027s to Blame for the 16 GB RAM Limit on the New MacBook Pros: Apple or Intel?",
-    "url": "http://daringfireball.net/linked/2016/10/31/intel-mbp-ram",
-    "votes": 5,
-    "posted": "Nov 1, 2016 3:29:18 AM"
-  },
-  {
-    "id": "12842908",
-    "timestamp": "Nov 1, 2016 3:57:31 AM",
-    "topic": "IntelliJ IDEA 2016.3 EAP Is Open",
-    "url": "https://blog.jetbrains.com/idea/2016/08/intellij-idea-2016-3-eap-is-open/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 3:27:31 AM"
-  },
-  {
-    "id": "12842875",
-    "timestamp": "Nov 1, 2016 3:27:28 AM",
-    "topic": "Trump shown to have used legally dubious tax evasion schemes",
-    "url": "http://www.nytimes.com/2016/11/01/us/politics/donald-trump-tax.html?_r\u003d1\u0026register\u003dgoogle",
-    "votes": 3,
-    "posted": "Nov 1, 2016 3:19:11 AM"
-  },
-  {
-    "id": "12842854",
-    "timestamp": "Nov 1, 2016 5:27:38 AM",
-    "topic": "JavaScript: A Horror Story",
-    "url": "https://eev.ee/blog/2016/10/31/javascript-a-horror-story/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 3:14:11 AM"
-  },
-  {
-    "id": "12842802",
-    "timestamp": "Nov 1, 2016 3:07:26 AM",
-    "topic": "A Spy Has Given the FBI Information Alleging Russians Cultivate Donald Trump",
-    "url": "http://www.motherjones.com/politics/2016/10/veteran-spy-gave-fbi-info-alleging-russian-operation-cultivate-donald-trump",
-    "votes": 4,
-    "posted": "Nov 1, 2016 3:00:05 AM"
-  },
-  {
-    "id": "12842797",
-    "timestamp": "Nov 1, 2016 3:17:27 AM",
-    "topic": "KQ: Simple Job Queue for Python Using Kafka",
-    "url": "https://github.com/joowani/kq",
-    "votes": 7,
-    "posted": "Nov 1, 2016 2:58:47 AM"
   }
 ];
