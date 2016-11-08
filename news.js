@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "12903966",
+    "timestamp": "Nov 8, 2016 10:25:17 PM",
+    "topic": "What\u0027s the best aha moment you\u0027ve had?",
+    "votes": 6,
+    "posted": "Nov 8, 2016 10:10:07 PM"
+  },
+  {
+    "id": "12903912",
+    "timestamp": "Nov 8, 2016 10:35:18 PM",
+    "topic": "CBC threatens podcast app makers, argues that RSS readers violate copyright",
+    "url": "http://boingboing.net/2016/11/08/cbc-threatens-podcast-app-make.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 10:03:30 PM"
+  },
+  {
+    "id": "12903801",
+    "timestamp": "Nov 8, 2016 10:25:17 PM",
+    "topic": "3DNES just officially dropped",
+    "url": "http://helpmebro.com/posts/wbcyQqFeqa",
+    "votes": 6,
+    "posted": "Nov 8, 2016 9:49:42 PM"
+  },
+  {
+    "id": "12903533",
+    "timestamp": "Nov 8, 2016 10:45:20 PM",
+    "topic": "Can deep learning help solve lip reading?",
+    "url": "http://www.theverge.com/2016/11/7/13551210/ai-deep-learning-lip-reading-accuracy-oxford",
+    "votes": 3,
+    "posted": "Nov 8, 2016 9:13:18 PM"
+  },
+  {
     "id": "12903359",
     "timestamp": "Nov 8, 2016 9:15:07 PM",
     "topic": "Apple Engineer Talks About New 2016 Macbook Pro",
@@ -7242,53 +7273,5 @@ var newsArray = [
     "url": "http://www.jamesaltucher.com/2016/07/50-things-pretend-know-now-nearing-50/",
     "votes": 4,
     "posted": "Nov 1, 2016 11:00:26 PM"
-  },
-  {
-    "id": "12850379",
-    "timestamp": "Nov 1, 2016 11:29:23 PM",
-    "topic": "What Happens to the Markets If Donald Trump Wins?",
-    "url": "http://www.nytimes.com/2016/11/01/business/dealbook/what-happens-to-the-markets-if-donald-trump-wins.html",
-    "votes": 4,
-    "posted": "Nov 1, 2016 10:54:10 PM"
-  },
-  {
-    "id": "12850247",
-    "timestamp": "Nov 1, 2016 10:49:19 PM",
-    "topic": "Return of the Mac",
-    "url": "http://www.paulgraham.com/mac.html",
-    "votes": 20,
-    "posted": "Nov 1, 2016 10:36:53 PM"
-  },
-  {
-    "id": "12850227",
-    "timestamp": "Nov 1, 2016 11:19:22 PM",
-    "topic": "Extreme imaging using cell phones: SeeInTheDark [pdf]",
-    "url": "http://graphics.stanford.edu/talks/seeinthedark-public-15sep16.key.pdf",
-    "votes": 4,
-    "posted": "Nov 1, 2016 10:32:39 PM"
-  },
-  {
-    "id": "12850185",
-    "timestamp": "Nov 1, 2016 11:19:22 PM",
-    "topic": "The Problem with the Story Connecting Russia to Donald Trump’s Email Server",
-    "url": "https://theintercept.com/2016/11/01/heres-the-problem-with-the-story-connecting-russia-to-donald-trumps-email-server/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 10:27:48 PM"
-  },
-  {
-    "id": "12850101",
-    "timestamp": "Nov 1, 2016 10:29:16 PM",
-    "topic": "Google Brain\u0027s Magenta: Multi-Style Image Transfer with Code",
-    "url": "https://magenta.tensorflow.org/2016/11/01/multistyle-pastiche-generator/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 10:17:46 PM"
-  },
-  {
-    "id": "12850035",
-    "timestamp": "Nov 1, 2016 11:19:22 PM",
-    "topic": "A Visual Guide to State in React",
-    "url": "https://daveceddia.com/visual-guide-to-state-in-react/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 10:10:51 PM"
   }
 ];
