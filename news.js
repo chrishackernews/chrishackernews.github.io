@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12899838",
+    "timestamp": "Nov 8, 2016 2:14:25 PM",
+    "topic": "A small dive into, and rejection of, Elm",
+    "url": "https://medium.com/@boxed/a-small-dive-into-and-rejection-of-elm-8217fd5da235#.kkt82zm3y",
+    "votes": 4,
+    "posted": "Nov 8, 2016 2:01:52 PM"
+  },
+  {
     "id": "12899782",
     "timestamp": "Nov 8, 2016 1:54:24 PM",
     "topic": "EasyPost is still hiring more developers",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "http://superfast-it.com/internet/",
     "votes": 3,
     "posted": "Nov 8, 2016 1:01:47 PM"
+  },
+  {
+    "id": "12899427",
+    "timestamp": "Nov 8, 2016 2:14:25 PM",
+    "topic": "Google foobar",
+    "url": "https://www.google.com/foobar",
+    "votes": 3,
+    "posted": "Nov 8, 2016 12:41:16 PM"
   },
   {
     "id": "12899422",
@@ -46,6 +62,14 @@ var newsArray = [
     "url": "http://www.theregister.co.uk/2016/11/08/trust_it_results_of_signals_first_formal_crypto_analysis_are_in/",
     "votes": 4,
     "posted": "Nov 8, 2016 12:35:52 PM"
+  },
+  {
+    "id": "12899261",
+    "timestamp": "Nov 8, 2016 2:24:26 PM",
+    "topic": "Emotions You Don’t Feel",
+    "url": "http://nautil.us/blog/you-can-have-emotions-you-dont-feel",
+    "votes": 5,
+    "posted": "Nov 8, 2016 12:07:13 PM"
   },
   {
     "id": "12898927",
@@ -173,6 +197,14 @@ var newsArray = [
     "url": "https://drive.google.com/file/d/0B7kgKijo-p0ibm94VUY0TVktQlU/view",
     "votes": 3,
     "posted": "Nov 8, 2016 6:08:10 AM"
+  },
+  {
+    "id": "12897784",
+    "timestamp": "Nov 8, 2016 2:04:24 PM",
+    "topic": "Show HN: Super DOM, manipulate the DOM like it\u0027s 2016",
+    "url": "https://superdom.site/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 5:58:52 AM"
   },
   {
     "id": "12897739",
@@ -489,6 +521,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 8:36:33 PM"
   },
   {
+    "id": "12894192",
+    "timestamp": "Nov 8, 2016 2:54:28 PM",
+    "topic": "Why is electricity so hard to understand? (1989)",
+    "url": "http://amasci.com/miscon/whyhard2.html",
+    "votes": 4,
+    "posted": "Nov 7, 2016 8:34:51 PM"
+  },
+  {
     "id": "12893956",
     "timestamp": "Nov 7, 2016 9:23:01 PM",
     "topic": "C for Python programmers",
@@ -693,6 +733,14 @@ var newsArray = [
     "url": "https://blog.openshift.com/red-hat-chose-kubernetes-openshift/",
     "votes": 4,
     "posted": "Nov 7, 2016 5:02:25 PM"
+  },
+  {
+    "id": "12892043",
+    "timestamp": "Nov 8, 2016 2:34:27 PM",
+    "topic": "One Road Out of Depression",
+    "url": "https://thinkfaster.co/2016/10/one-road-out-of-depression/",
+    "votes": 5,
+    "posted": "Nov 7, 2016 5:01:15 PM"
   },
   {
     "id": "12891912",
@@ -7197,68 +7245,5 @@ var newsArray = [
     "url": "http://blog.erratasec.com/2016/11/debunking-trumps-secret-server.html#.WBie7-ErLyJ",
     "votes": 4,
     "posted": "Nov 1, 2016 2:56:10 PM"
-  },
-  {
-    "id": "12845681",
-    "timestamp": "Nov 2, 2016 4:49:50 AM",
-    "topic": "Any Developer, Any App, Any Platform (Visual Studio and .NET)",
-    "url": "https://msdn.microsoft.com/magazine/mt788617",
-    "votes": 6,
-    "posted": "Nov 1, 2016 2:51:21 PM"
-  },
-  {
-    "id": "12845642",
-    "timestamp": "Nov 1, 2016 6:28:50 PM",
-    "topic": "Ask HN: Remote US employees \u003d tax nightmare?",
-    "votes": 5,
-    "posted": "Nov 1, 2016 2:47:08 PM"
-  },
-  {
-    "id": "12845572",
-    "timestamp": "Nov 1, 2016 7:08:55 PM",
-    "topic": "R 3.3.2 is released",
-    "url": "https://www.r-statistics.com/2016/11/r-3-3-2-is-released/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 2:37:43 PM"
-  },
-  {
-    "id": "12845533",
-    "timestamp": "Nov 1, 2016 5:38:43 PM",
-    "topic": "Apple tried and failed to reestablish trust in the Mac",
-    "url": "https://medium.com/@NoisyNarrowBandDevice/apple-tried-and-failed-to-reestablish-trust-in-the-mac-5af3e363f8f4#.q0v331qfx",
-    "votes": 4,
-    "posted": "Nov 1, 2016 2:32:06 PM"
-  },
-  {
-    "id": "12845475",
-    "timestamp": "Nov 1, 2016 5:28:42 PM",
-    "topic": "Libraries.io Joins Brave New Software",
-    "url": "https://medium.com/@teabass/libraries-io-joins-brave-new-software-c8cb7bba93bf",
-    "votes": 3,
-    "posted": "Nov 1, 2016 2:26:19 PM"
-  },
-  {
-    "id": "12845457",
-    "timestamp": "Nov 1, 2016 2:38:26 PM",
-    "topic": "Apple’s new MacBook Pro may be the world’s fastest stock laptop",
-    "url": "http://www.computerworld.com/article/3136714/data-storage/apples-new-macbook-pro-may-be-the-worlds-fastest-stock-laptop.html",
-    "votes": 7,
-    "posted": "Nov 1, 2016 2:23:57 PM"
-  },
-  {
-    "id": "12845400",
-    "timestamp": "Nov 1, 2016 6:48:52 PM",
-    "topic": "Show HN: App for receiving notifications from the command line",
-    "url": "https://simplepush.io/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 2:16:43 PM"
-  },
-  {
-    "id": "12845321",
-    "timestamp": "Nov 1, 2016 4:08:34 PM",
-    "topic": "Eric Schmidt\u0027s 2014 plan for Hillary\u0027s campaign via Wikileaks",
-    "url": "https://wikileaks.org/podesta-emails/emailid/37262",
-    "votes": 7,
-    "posted": "Nov 1, 2016 2:05:20 PM"
   }
 ];
