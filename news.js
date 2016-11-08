@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12898406",
+    "timestamp": "Nov 8, 2016 9:54:04 AM",
+    "topic": "IAB: IETF to stop requiring IPv4 compat. – will optimize for and depend on IPv6",
+    "url": "https://www.iab.org/documents/correspondence-reports-documents/2016-2/iab-statement-on-ipv6/",
+    "votes": 5,
+    "posted": "Nov 8, 2016 8:46:28 AM"
+  },
+  {
     "id": "12898316",
     "timestamp": "Nov 8, 2016 8:23:57 AM",
     "topic": "PlanGrid (YC W12) Is Hiring Full Stack, Front End and iOS Engineers and More",
@@ -29,6 +37,22 @@ var newsArray = [
     "url": "https://haydenjames.io/disable-htaccess-apache-performance/",
     "votes": 9,
     "posted": "Nov 8, 2016 6:36:55 AM"
+  },
+  {
+    "id": "12897877",
+    "timestamp": "Nov 8, 2016 9:14:00 AM",
+    "topic": "France plans to compile personal data of 60M people",
+    "url": "http://www.dailymail.co.uk/news/article-3907908/Outcry-French-plans-compile-personal-data-60-million-people.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 6:21:50 AM"
+  },
+  {
+    "id": "12897859",
+    "timestamp": "Nov 8, 2016 9:14:00 AM",
+    "topic": "Machine learning is up to 85% accurate in identifying a person who is suicidal",
+    "url": "http://onlinelibrary.wiley.com/doi/10.1111/sltb.12312/full",
+    "votes": 6,
+    "posted": "Nov 8, 2016 6:15:10 AM"
   },
   {
     "id": "12897826",
@@ -670,6 +694,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/7/13548052/the-macbook-pro-lie",
     "votes": 7,
     "posted": "Nov 7, 2016 2:32:10 PM"
+  },
+  {
+    "id": "12890824",
+    "timestamp": "Nov 8, 2016 9:34:02 AM",
+    "topic": "Show HN: A Chrome desktop app for Google Calendar with a nice interface",
+    "url": "https://chrome.google.com/webstore/detail/clean-google-calendar/magodclodecbbnbdfpmoehfdddkhlfmm",
+    "votes": 7,
+    "posted": "Nov 7, 2016 2:30:52 PM"
   },
   {
     "id": "12890760",
@@ -7245,45 +7277,5 @@ var newsArray = [
     "url": "http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/",
     "votes": 4,
     "posted": "Nov 1, 2016 9:56:59 AM"
-  },
-  {
-    "id": "12844227",
-    "timestamp": "Nov 1, 2016 10:18:03 AM",
-    "topic": "MacBook Pro (2016) disappointment pushes some Apple loyalists to Ubuntu Linux",
-    "url": "http://betanews.com/2016/10/30/macbook-pro-2016-disappointment-pushes-some-apple-loyalists-to-ubuntu-linux/",
-    "votes": 23,
-    "posted": "Nov 1, 2016 9:52:42 AM"
-  },
-  {
-    "id": "12844222",
-    "timestamp": "Nov 1, 2016 11:38:11 AM",
-    "topic": "Show HN: Corrode – A batteries-included js-library for reading binary data",
-    "url": "https://github.com/screeny05/corrode",
-    "votes": 4,
-    "posted": "Nov 1, 2016 9:51:39 AM"
-  },
-  {
-    "id": "12844186",
-    "timestamp": "Nov 1, 2016 10:18:03 AM",
-    "topic": "Why we send our friends investor updates",
-    "url": "https://blog.yalabot.com/why-we-send-our-friends-investor-updates-about-our-startup-a96fd012f453#.idcbma52t",
-    "votes": 4,
-    "posted": "Nov 1, 2016 9:39:58 AM"
-  },
-  {
-    "id": "12844173",
-    "timestamp": "Nov 1, 2016 11:48:12 AM",
-    "topic": "Wordpress on AWS: smooth and pain free",
-    "url": "https://cloudonaut.io/wordpress-on-aws-smooth-and-pain-free/",
-    "votes": 6,
-    "posted": "Nov 1, 2016 9:35:18 AM"
-  },
-  {
-    "id": "12844061",
-    "timestamp": "Nov 1, 2016 4:48:39 PM",
-    "topic": "A Study Plan to Cure JavaScript Fatigue",
-    "url": "https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.jp3y84emz",
-    "votes": 4,
-    "posted": "Nov 1, 2016 8:54:23 AM"
   }
 ];
