@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12896432",
+    "timestamp": "Nov 8, 2016 1:23:22 AM",
+    "topic": "The Sega Genesis Is Officially Back in Production",
+    "url": "http://www.dailydot.com/debug/sega-genesis-preorder-details/?fb\u003ddd",
+    "votes": 3,
+    "posted": "Nov 8, 2016 1:00:41 AM"
+  },
+  {
     "id": "12896323",
     "timestamp": "Nov 8, 2016 12:43:19 AM",
     "topic": "Next Caller Is Hiring a Technical Product Manager",
     "url": "https://jobs.lever.co/nextcaller/619a158e-015b-4075-a626-afdc936b17f0",
     "votes": 1,
     "posted": "Nov 8, 2016 12:40:57 AM"
+  },
+  {
+    "id": "12896304",
+    "timestamp": "Nov 8, 2016 1:53:26 AM",
+    "topic": "Tools of Titans Foreword – Arnold Schwarzenegger “I Am Not a Self-Made Man”",
+    "url": "http://fourhourworkweek.com/2016/11/07/tools-of-titans-foreword-arnold-schwarzenegger-i-am-not-a-self-made-man/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+timferriss+%28The+Blog+of+Author+Tim+Ferriss%29",
+    "votes": 4,
+    "posted": "Nov 8, 2016 12:37:39 AM"
+  },
+  {
+    "id": "12896182",
+    "timestamp": "Nov 8, 2016 1:03:21 AM",
+    "topic": "Tensorflow Deepmath: Experiments towards neural network theorem proving",
+    "url": "https://github.com/tensorflow/deepmath",
+    "votes": 4,
+    "posted": "Nov 8, 2016 12:20:46 AM"
+  },
+  {
+    "id": "12896148",
+    "timestamp": "Nov 8, 2016 1:03:21 AM",
+    "topic": "New Warship’s Big Guns Have No Bullets (Zumwalt-Class)",
+    "url": "http://www.defensenews.com/articles/new-warships-big-guns-have-no-bullets",
+    "votes": 6,
+    "posted": "Nov 8, 2016 12:14:39 AM"
   },
   {
     "id": "12895864",
@@ -22,6 +54,14 @@ var newsArray = [
     "url": "https://medium.com/@david.gilbertson/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.bzx75cpkv",
     "votes": 4,
     "posted": "Nov 7, 2016 11:07:24 PM"
+  },
+  {
+    "id": "12895262",
+    "timestamp": "Nov 8, 2016 1:33:23 AM",
+    "topic": "Mozilla on Enabling the Open Metaverse with WebVR, A-Frame, and Servo",
+    "url": "http://www.roadtovr.com/mozilla-enabling-open-metaverse-webvr-frame-servo/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 10:23:15 PM"
   },
   {
     "id": "12894984",
@@ -7316,61 +7356,5 @@ var newsArray = [
     "url": "http://spectrum.ieee.org/semiconductors/processors/breaking-the-multicore-bottleneck",
     "votes": 4,
     "posted": "Nov 1, 2016 2:22:54 AM"
-  },
-  {
-    "id": "12842406",
-    "timestamp": "Nov 1, 2016 4:07:32 AM",
-    "topic": "Show HN: Django-traffic, a Middleware for traffic visualizations in Kibana",
-    "url": "https://koslib.com/2016/10/29/django-traffic-a-middleware-for-traffic-visualizations-in-kibana/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 1:40:25 AM"
-  },
-  {
-    "id": "12842270",
-    "timestamp": "Nov 1, 2016 2:27:23 AM",
-    "topic": "How Apple could have avoided much of the controversy",
-    "url": "https://chuqui.com/2016/10/how-apple-could-have-avoided-much-of-the-controversy/",
-    "votes": 7,
-    "posted": "Nov 1, 2016 1:20:06 AM"
-  },
-  {
-    "id": "12842249",
-    "timestamp": "Nov 1, 2016 7:37:49 AM",
-    "topic": "New leak may show if you were hacked by the NSA",
-    "url": "http://arstechnica.com/security/2016/10/new-leak-may-show-if-you-were-hacked-by-the-nsa/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 1:18:24 AM"
-  },
-  {
-    "id": "12842204",
-    "timestamp": "Nov 1, 2016 1:27:18 AM",
-    "topic": "Walmart Will Manage Distribution Centers with OneOps, Jenkins, and Kubernetes",
-    "url": "http://www.techbetter.com/walmart-will-manage-200-distribution-centers-oneops-jenkins-nexus-kubernetes/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 1:12:57 AM"
-  },
-  {
-    "id": "12842189",
-    "timestamp": "Nov 1, 2016 5:37:39 AM",
-    "topic": "Japan\u0027s purple machine [pdf]",
-    "url": "http://ovid.cs.depaul.edu/Classes/CS233-W04/Papers/PurpleMagic.pdf",
-    "votes": 3,
-    "posted": "Nov 1, 2016 1:11:18 AM"
-  },
-  {
-    "id": "12842090",
-    "timestamp": "Nov 1, 2016 2:17:22 AM",
-    "topic": "Eric Schmidt on how to identify, meet and update profiles on voter (real id.)",
-    "url": "https://wikileaks.org/podesta-emails/emailid/37262",
-    "votes": 8,
-    "posted": "Nov 1, 2016 12:58:08 AM"
-  },
-  {
-    "id": "12842080",
-    "timestamp": "Nov 1, 2016 1:27:18 AM",
-    "topic": "It\u0027s Harder to Get an Uber or Lyft If You\u0027re Black, Study Says",
-    "url": "http://time.com/4551521/uber-lyft-black-discrimination/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 12:57:03 AM"
   }
 ];
