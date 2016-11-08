@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12901905",
+    "timestamp": "Nov 8, 2016 6:14:49 PM",
+    "topic": "How the Chinese Great Firewall fights off services like Tor",
+    "url": "http://fermatslibrary.com/s/examining-how-the-great-firewall-discovers-hidden-circumvention-servers",
+    "votes": 7,
+    "posted": "Nov 8, 2016 6:04:10 PM"
+  },
+  {
+    "id": "12901724",
+    "timestamp": "Nov 8, 2016 6:04:48 PM",
+    "topic": "How settling Mars could create a new human species",
+    "url": "http://nautil.us/issue/41/selection/the-martians-are-comingand-theyre-human",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:47:08 PM"
+  },
+  {
     "id": "12901660",
     "timestamp": "Nov 8, 2016 5:54:47 PM",
     "topic": "Emergent Gravity and the Dark Universe",
@@ -8,12 +24,36 @@ var newsArray = [
     "posted": "Nov 8, 2016 5:40:45 PM"
   },
   {
+    "id": "12901570",
+    "timestamp": "Nov 8, 2016 6:24:50 PM",
+    "topic": "A keyboard for your back",
+    "url": "https://medium.com/@tartavull/thor-your-next-keyboard-20b9ce7dd2b1#.8740gcgm7",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:31:39 PM"
+  },
+  {
     "id": "12901506",
     "timestamp": "Nov 8, 2016 5:54:47 PM",
     "topic": "Micro web-framework for COBOL",
     "url": "https://github.com/azac/cobol-on-wheelchair",
     "votes": 3,
     "posted": "Nov 8, 2016 5:25:06 PM"
+  },
+  {
+    "id": "12901501",
+    "timestamp": "Nov 8, 2016 6:44:52 PM",
+    "topic": "The moment of truth arrives for the USC/L.A. Times tracking poll",
+    "url": "http://www.latimes.com/politics/la-na-pol-usc-latimes-poll-20161108-story.html",
+    "votes": 3,
+    "posted": "Nov 8, 2016 5:24:40 PM"
+  },
+  {
+    "id": "12901407",
+    "timestamp": "Nov 8, 2016 6:04:48 PM",
+    "topic": "Assange Statement on the US-Election",
+    "url": "https://wikileaks.org/Assange-Statement-on-the-US-Election.html",
+    "votes": 5,
+    "posted": "Nov 8, 2016 5:15:15 PM"
   },
   {
     "id": "12901364",
@@ -46,6 +86,13 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/06/technology/how-linkedin-drove-a-wedge-between-microsoft-and-salesforce.html",
     "votes": 3,
     "posted": "Nov 8, 2016 4:46:21 PM"
+  },
+  {
+    "id": "12901039",
+    "timestamp": "Nov 8, 2016 6:14:49 PM",
+    "topic": "Ask HN: How much productivity have you lost because of this election?",
+    "votes": 3,
+    "posted": "Nov 8, 2016 4:37:43 PM"
   },
   {
     "id": "12900975",
@@ -317,6 +364,14 @@ var newsArray = [
     "url": "http://www.economist.com/node/14116121",
     "votes": 3,
     "posted": "Nov 8, 2016 11:58:02 AM"
+  },
+  {
+    "id": "12899187",
+    "timestamp": "Nov 8, 2016 6:34:51 PM",
+    "topic": "D.T. is the embodiment of everything Singapore taught me to fear about democracy",
+    "url": "http://qz.com/830136/election-2016-donald-trump-is-the-embodiment-of-everything-singapore-taught-me-to-fear-about-democracy/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 11:49:56 AM"
   },
   {
     "id": "12899019",
@@ -7249,85 +7304,5 @@ var newsArray = [
     "url": "https://github.com/torchhound/warren",
     "votes": 7,
     "posted": "Nov 1, 2016 6:55:43 PM"
-  },
-  {
-    "id": "12848419",
-    "timestamp": "Nov 1, 2016 7:08:54 PM",
-    "topic": "HTML 5.1 is a W3C Recommendation",
-    "url": "https://www.w3.org/blog/news/archives/5932",
-    "votes": 6,
-    "posted": "Nov 1, 2016 6:53:25 PM"
-  },
-  {
-    "id": "12848400",
-    "timestamp": "Nov 1, 2016 7:08:54 PM",
-    "topic": "Last minute tips for YC Interviewees",
-    "url": "http://initialized.com/last-minute-tips-for-yc-interviewees",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:52:31 PM"
-  },
-  {
-    "id": "12848362",
-    "timestamp": "Nov 1, 2016 7:08:55 PM",
-    "topic": "X86 Register Encoding",
-    "url": "https://eklitzke.org/x86-register-encoding",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:49:35 PM"
-  },
-  {
-    "id": "12848353",
-    "timestamp": "Nov 1, 2016 7:28:57 PM",
-    "topic": "The Ontology2 Edition of DBpedia 2016-04",
-    "url": "http://ontology2.com/the-book/dbpedia-2016-04.html",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:48:26 PM"
-  },
-  {
-    "id": "12848253",
-    "timestamp": "Nov 1, 2016 7:48:59 PM",
-    "topic": "Sense’s gorgeous new sleep tracker has voice control for the perfect alarm clock",
-    "url": "http://thenextweb.com/insider/2016/11/01/senses-gorgeous-new-sleep-tracker-adds-voice-control-get-way/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:40:57 PM"
-  },
-  {
-    "id": "12848153",
-    "timestamp": "Nov 1, 2016 7:28:57 PM",
-    "topic": "Show HN: Dockopotamus, a naive honeypot that uses docker",
-    "url": "https://github.com/esell/dockopotamus",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:32:30 PM"
-  },
-  {
-    "id": "12848053",
-    "timestamp": "Nov 1, 2016 8:19:01 PM",
-    "topic": "Google\u0027s Schmidt drew up draft plan for Clinton in 2014",
-    "url": "http://www.itwire.com/government-tech-policy/75531-google-s-schmidt-drew-up-draft-plan-for-clinton-in-2014.html",
-    "votes": 4,
-    "posted": "Nov 1, 2016 6:25:23 PM"
-  },
-  {
-    "id": "12847916",
-    "timestamp": "Nov 1, 2016 10:19:15 PM",
-    "topic": "Show HN: Bamboo – The freelance marketplace that wants you to stop using it",
-    "url": "https://www.workwithbamboo.com/",
-    "votes": 8,
-    "posted": "Nov 1, 2016 6:13:39 PM"
-  },
-  {
-    "id": "12847866",
-    "timestamp": "Nov 1, 2016 6:28:50 PM",
-    "topic": "Initial patches to add an MC layer for RISC-V",
-    "url": "http://llvm.org/viewvc/llvm-project?view\u003drevision\u0026revision\u003d285707",
-    "votes": 5,
-    "posted": "Nov 1, 2016 6:09:05 PM"
-  },
-  {
-    "id": "12847787",
-    "timestamp": "Nov 1, 2016 6:08:48 PM",
-    "topic": "Stealth Cell Tower Disguised as Printer",
-    "url": "https://julianoliver.com/output/stealth-cell-tower",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:01:48 PM"
   }
 ];
