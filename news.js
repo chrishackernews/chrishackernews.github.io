@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12897324",
+    "timestamp": "Nov 8, 2016 4:23:38 AM",
+    "topic": "InfluxData (YC W13) Is Hiring a Senior JavaScript Developer in SF",
+    "url": "https://boards.greenhouse.io/influxdb",
+    "votes": 1,
+    "posted": "Nov 8, 2016 4:17:56 AM"
+  },
+  {
+    "id": "12897284",
+    "timestamp": "Nov 8, 2016 4:23:38 AM",
+    "topic": "Ask HN: Have you ever thought of leaving programming for something else?",
+    "votes": 10,
+    "posted": "Nov 8, 2016 4:05:54 AM"
+  },
+  {
+    "id": "12897125",
+    "timestamp": "Nov 8, 2016 4:13:37 AM",
+    "topic": "Edward Snowden Explains How FBI Could Review Clinton Emails So Fast",
+    "url": "http://www.sfgate.com/business/article/Edward-Snowden-Explains-How-FBI-Could-Review-10598233.php",
+    "votes": 3,
+    "posted": "Nov 8, 2016 3:28:31 AM"
+  },
+  {
     "id": "12897022",
     "timestamp": "Nov 8, 2016 3:13:32 AM",
     "topic": "The New York Times to Offer Open Access on Web and Apps for the Election",
@@ -46,6 +69,13 @@ var newsArray = [
     "url": "http://geocar.sdf1.org/numbers.html",
     "votes": 5,
     "posted": "Nov 8, 2016 1:58:59 AM"
+  },
+  {
+    "id": "12896577",
+    "timestamp": "Nov 8, 2016 4:33:39 AM",
+    "topic": "Ask HN: Most overhyped technology of 2016?",
+    "votes": 8,
+    "posted": "Nov 8, 2016 1:28:04 AM"
   },
   {
     "id": "12896432",
@@ -505,6 +535,14 @@ var newsArray = [
     "url": "https://swarbrickjones.wordpress.com/2016/11/07/deeprhyme-d-prime-generating-dope-rhymes-with-deep-learning/",
     "votes": 4,
     "posted": "Nov 7, 2016 3:23:54 PM"
+  },
+  {
+    "id": "12891157",
+    "timestamp": "Nov 8, 2016 4:33:39 AM",
+    "topic": "Show HN: Using Z3 to Find Clock Configuration Values for ARM UCs",
+    "url": "http://cwoodall.com/blog/2016/11/06/using-z3-to-find-clock-configurations.html",
+    "votes": 4,
+    "posted": "Nov 7, 2016 3:23:38 PM"
   },
   {
     "id": "12891095",
@@ -7317,68 +7355,5 @@ var newsArray = [
     "url": "https://coffeebreak.games",
     "votes": 5,
     "posted": "Nov 1, 2016 5:07:14 AM"
-  },
-  {
-    "id": "12843253",
-    "timestamp": "Nov 1, 2016 6:27:43 AM",
-    "topic": "Is Dark Silicon Useful? (2012) [pdf]",
-    "url": "http://cseweb.ucsd.edu/~mbtaylor/papers/taylor_dark_silicon_horsemen_dac_2012.pdf",
-    "votes": 4,
-    "posted": "Nov 1, 2016 4:51:02 AM"
-  },
-  {
-    "id": "12843244",
-    "timestamp": "Nov 1, 2016 5:57:41 AM",
-    "topic": "Postmates Secures $141M in a ‘Super, Super Difficult’ Fundraising Effort",
-    "url": "https://www.bloomberg.com/news/articles/2016-10-31/postmates-secures-141-million-in-a-super-super-difficult-fundraising-effort",
-    "votes": 6,
-    "posted": "Nov 1, 2016 4:48:57 AM"
-  },
-  {
-    "id": "12843221",
-    "timestamp": "Nov 1, 2016 5:47:40 AM",
-    "topic": "Show HN: Physics-based CAD",
-    "url": "http://www.prandtl.design/",
-    "votes": 6,
-    "posted": "Nov 1, 2016 4:45:50 AM"
-  },
-  {
-    "id": "12843145",
-    "timestamp": "Nov 1, 2016 4:57:36 AM",
-    "topic": "Freelance Isn\u0027t Free Act Passes in NYC",
-    "url": "https://blog.freelancersunion.org/2016/10/27/freelanceisntfreepassed/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 4:31:55 AM"
-  },
-  {
-    "id": "12843118",
-    "timestamp": "Nov 1, 2016 5:17:37 AM",
-    "topic": "Ask HN: what tool do you use to manage your todo list?",
-    "votes": 4,
-    "posted": "Nov 1, 2016 4:26:18 AM"
-  },
-  {
-    "id": "12843094",
-    "timestamp": "Nov 1, 2016 4:27:33 AM",
-    "topic": "Checkr (YC S14) is hiring back end engineers to build the future of online trust",
-    "url": "http://grnh.se/1nm6k8",
-    "votes": 1,
-    "posted": "Nov 1, 2016 4:17:46 AM"
-  },
-  {
-    "id": "12843082",
-    "timestamp": "Nov 1, 2016 10:38:04 AM",
-    "topic": "JTAGing Mobile Phones",
-    "url": "https://sysforensics.org/2016/08/jtaging-mobile-phones/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 4:13:46 AM"
-  },
-  {
-    "id": "12843009",
-    "timestamp": "Nov 1, 2016 4:17:32 AM",
-    "topic": "Microsoft Flow",
-    "url": "https://flow.microsoft.com",
-    "votes": 4,
-    "posted": "Nov 1, 2016 3:55:34 AM"
   }
 ];
