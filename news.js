@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12897941",
+    "timestamp": "Nov 8, 2016 7:03:50 AM",
+    "topic": "Apache Performance: Disable .htaccess here\u0027s why",
+    "url": "https://haydenjames.io/disable-htaccess-apache-performance/",
+    "votes": 9,
+    "posted": "Nov 8, 2016 6:36:55 AM"
+  },
+  {
     "id": "12897826",
     "timestamp": "Nov 8, 2016 6:13:46 AM",
     "topic": "Leaked NASA documents suggest EM drive actually works",
     "url": "https://drive.google.com/file/d/0B7kgKijo-p0ibm94VUY0TVktQlU/view",
     "votes": 3,
     "posted": "Nov 8, 2016 6:08:10 AM"
+  },
+  {
+    "id": "12897545",
+    "timestamp": "Nov 8, 2016 7:23:52 AM",
+    "topic": "Backlash against Apple’s new MacBook Pro from its core users is unprecedented",
+    "url": "http://www.recode.net/2016/11/7/13512322/apple-macbook-pro-backlash-power-users",
+    "votes": 6,
+    "posted": "Nov 8, 2016 5:02:35 AM"
   },
   {
     "id": "12897415",
@@ -22,6 +38,14 @@ var newsArray = [
     "url": "http://avc.com/2016/11/founder-dilution/",
     "votes": 4,
     "posted": "Nov 8, 2016 4:34:47 AM"
+  },
+  {
+    "id": "12897390",
+    "timestamp": "Nov 8, 2016 7:13:51 AM",
+    "topic": "Consistency should be more consistent",
+    "url": "https://irenezhang.net/blog/2015/02/01/consistency.html",
+    "votes": 8,
+    "posted": "Nov 8, 2016 4:33:28 AM"
   },
   {
     "id": "12897324",
@@ -7254,61 +7278,5 @@ var newsArray = [
     "url": "http://docstore.mik.ua/orelly/networking_2ndEd/ssh/index.htm",
     "votes": 4,
     "posted": "Nov 1, 2016 8:24:39 AM"
-  },
-  {
-    "id": "12843897",
-    "timestamp": "Nov 1, 2016 6:18:49 PM",
-    "topic": "The Historical Significance of Fortune-Telling",
-    "url": "http://daily.jstor.org/surprising-historical-significance-fortune-telling",
-    "votes": 3,
-    "posted": "Nov 1, 2016 7:53:14 AM"
-  },
-  {
-    "id": "12843880",
-    "timestamp": "Nov 1, 2016 7:47:50 AM",
-    "topic": "You’re engiNEARer to your dream job. Join the team at BloomThat (YC S13)",
-    "url": "https://jobs.lever.co/bloomthat",
-    "votes": 1,
-    "posted": "Nov 1, 2016 7:45:31 AM"
-  },
-  {
-    "id": "12843790",
-    "timestamp": "Nov 1, 2016 2:38:26 PM",
-    "topic": "Transcontinental anaesthesia: a pilot study (2013)",
-    "url": "http://bja.oxfordjournals.org/content/110/5/758.full",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:16:24 AM"
-  },
-  {
-    "id": "12843782",
-    "timestamp": "Nov 1, 2016 12:48:17 PM",
-    "topic": "Show HN: My first Rails app",
-    "url": "https://www.westoq.com/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 7:14:44 AM"
-  },
-  {
-    "id": "12843775",
-    "timestamp": "Nov 1, 2016 10:38:04 AM",
-    "topic": "Asus to surpass Apple in notebook sales: TrendForce",
-    "url": "http://www.taipeitimes.com/News/biz/archives/2016/10/31/2003658243",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:13:02 AM"
-  },
-  {
-    "id": "12843742",
-    "timestamp": "Nov 1, 2016 7:57:51 AM",
-    "topic": "How this pioneer built a SaaS hub in Chennai from scratch without VC money",
-    "url": "https://www.techinasia.com/pioneer-who-built-saas-hub-from-scratch",
-    "votes": 4,
-    "posted": "Nov 1, 2016 7:02:31 AM"
-  },
-  {
-    "id": "12843725",
-    "timestamp": "Nov 1, 2016 7:37:49 AM",
-    "topic": "Debunking a presidential candidate\u0027s “secret server”",
-    "url": "http://blog.erratasec.com/2016/11/debunking-trumps-secret-server.html",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:57:02 AM"
   }
 ];
