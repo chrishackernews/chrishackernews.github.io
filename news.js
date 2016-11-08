@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12897826",
+    "timestamp": "Nov 8, 2016 6:13:46 AM",
+    "topic": "Leaked NASA documents suggest EM drive actually works",
+    "url": "https://drive.google.com/file/d/0B7kgKijo-p0ibm94VUY0TVktQlU/view",
+    "votes": 3,
+    "posted": "Nov 8, 2016 6:08:10 AM"
+  },
+  {
     "id": "12897415",
     "timestamp": "Nov 8, 2016 5:03:41 AM",
     "topic": "Google Data Studio",
@@ -7302,36 +7310,5 @@ var newsArray = [
     "url": "http://blog.erratasec.com/2016/11/debunking-trumps-secret-server.html",
     "votes": 3,
     "posted": "Nov 1, 2016 6:57:02 AM"
-  },
-  {
-    "id": "12843667",
-    "timestamp": "Nov 1, 2016 11:28:10 AM",
-    "topic": "Aboriginal Australians might carry DNA of unknown human species",
-    "url": "http://www.abc.net.au/news/2016-10-26/dna-of-extinct-human-species-pacific-islanders-analysis-suggests/7968950",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:43:32 AM"
-  },
-  {
-    "id": "12843597",
-    "timestamp": "Nov 1, 2016 6:37:44 AM",
-    "topic": "Math and Physics Taught by Robin Williams and Steve Martin",
-    "url": "https://www.youtube.com/watch?v\u003dFHW45zw23gU",
-    "votes": 3,
-    "posted": "Nov 1, 2016 6:18:10 AM"
-  },
-  {
-    "id": "12843590",
-    "timestamp": "Nov 1, 2016 6:57:46 AM",
-    "topic": "Ask HN: How to make a career working remotely?",
-    "votes": 4,
-    "posted": "Nov 1, 2016 6:15:48 AM"
-  },
-  {
-    "id": "12843517",
-    "timestamp": "Nov 1, 2016 4:38:38 PM",
-    "topic": "Stark, Spare, Beautiful Midcentury British Safety Posters",
-    "url": "http://www.slate.com/blogs/the_vault/2016/09/16/modernist_british_safety_posters_from_the_middle_of_the_twentieth_century.html",
-    "votes": 3,
-    "posted": "Nov 1, 2016 5:54:48 AM"
   }
 ];
