@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12900479",
+    "timestamp": "Nov 8, 2016 3:34:31 PM",
+    "topic": "Canopy Labs (YC S12) Is Hiring for BDR / Account Executive Roles",
+    "url": "https://canopylabs.com/careers#openings",
+    "votes": 1,
+    "posted": "Nov 8, 2016 3:32:02 PM"
+  },
+  {
     "id": "12899838",
     "timestamp": "Nov 8, 2016 2:14:25 PM",
     "topic": "A small dive into, and rejection of, Elm",
@@ -283,6 +291,14 @@ var newsArray = [
     "topic": "Ask HN: Have you ever thought of leaving programming for something else?",
     "votes": 10,
     "posted": "Nov 8, 2016 4:05:54 AM"
+  },
+  {
+    "id": "12897169",
+    "timestamp": "Nov 8, 2016 3:34:31 PM",
+    "topic": "2016’s Election Data Hero Isn’t Nate Silver. It’s Sam Wang",
+    "url": "https://www.wired.com/2016/11/2016s-election-data-hero-isnt-nate-silver-sam-wang/",
+    "votes": 5,
+    "posted": "Nov 8, 2016 3:40:39 AM"
   },
   {
     "id": "12897125",
@@ -661,6 +677,14 @@ var newsArray = [
     "topic": "Ask HN: Do you have a side project you want to sell? (November 2016)",
     "votes": 5,
     "posted": "Nov 7, 2016 5:48:59 PM"
+  },
+  {
+    "id": "12892450",
+    "timestamp": "Nov 8, 2016 3:54:33 PM",
+    "topic": "In 1961, Roald Dahl Hosted His Own Version of \u0027The Twilight Zone\u0027",
+    "url": "http://www.atlasobscura.com/articles/in-1961-roald-dahl-hosted-his-own-version-of-the-twilight-zone",
+    "votes": 3,
+    "posted": "Nov 7, 2016 5:46:49 PM"
   },
   {
     "id": "12892412",
@@ -7157,93 +7181,5 @@ var newsArray = [
     "url": "https://blogs.msdn.microsoft.com/oldnewthing/20161101-00/?p\u003d94615",
     "votes": 5,
     "posted": "Nov 1, 2016 3:54:39 PM"
-  },
-  {
-    "id": "12846092",
-    "timestamp": "Nov 1, 2016 7:08:55 PM",
-    "topic": "AWS has 45% share of public cloud infrastructure market",
-    "url": "http://www.geekwire.com/2016/study-aws-45-share-public-cloud-infrastructure-market-microsoft-google-ibm-combined/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 3:51:55 PM"
-  },
-  {
-    "id": "12846089",
-    "timestamp": "Nov 1, 2016 4:08:34 PM",
-    "topic": "Let\u0027s Automate Let\u0027s Encrypt",
-    "url": "https://www.linuxjournal.com/content/lets-automate-lets-encrypt",
-    "votes": 4,
-    "posted": "Nov 1, 2016 3:51:46 PM"
-  },
-  {
-    "id": "12846048",
-    "timestamp": "Nov 1, 2016 4:08:34 PM",
-    "topic": "It’s Finally Legal to Hack Your Own Devices (Even Your Car)",
-    "url": "https://www.wired.com/2016/10/hacking-car-pacemaker-toaster-just-became-legal",
-    "votes": 8,
-    "posted": "Nov 1, 2016 3:47:15 PM"
-  },
-  {
-    "id": "12845995",
-    "timestamp": "Nov 1, 2016 3:58:32 PM",
-    "topic": "Argonne researchers posit way to locally circumvent Second Law of Thermodynamics",
-    "url": "https://www.anl.gov/articles/argonne-researchers-posit-way-locally-circumvent-second-law-thermodynamics",
-    "votes": 3,
-    "posted": "Nov 1, 2016 3:37:56 PM"
-  },
-  {
-    "id": "12845954",
-    "timestamp": "Nov 1, 2016 6:58:53 PM",
-    "topic": "A new portion of bugs in LLVM",
-    "url": "http://www.viva64.com/en/b/0446/",
-    "votes": 17,
-    "posted": "Nov 1, 2016 3:31:28 PM"
-  },
-  {
-    "id": "12845945",
-    "timestamp": "Nov 1, 2016 3:48:31 PM",
-    "topic": "Life is Short",
-    "url": "http://www.paulgraham.com/vb.html",
-    "votes": 13,
-    "posted": "Nov 1, 2016 3:29:28 PM"
-  },
-  {
-    "id": "12845915",
-    "timestamp": "Nov 1, 2016 3:38:30 PM",
-    "topic": "Social Log-In Implementations – Security Risks and How to Do It Right",
-    "url": "https://cloudrail.com/social-login-setups-good-bad-ugly/",
-    "votes": 7,
-    "posted": "Nov 1, 2016 3:24:25 PM"
-  },
-  {
-    "id": "12845914",
-    "timestamp": "Nov 2, 2016 5:20:54 PM",
-    "topic": "Wikileaks: Google\u0027s “Strategic Plan”: Help Democrats Win Election, Track Voters",
-    "url": "http://www.zerohedge.com/news/2016-11-01/wikileaks-reveals-googles-strategic-plan-help-democrats-win-election",
-    "votes": 4,
-    "posted": "Nov 1, 2016 3:24:23 PM"
-  },
-  {
-    "id": "12845855",
-    "timestamp": "Nov 1, 2016 3:48:31 PM",
-    "topic": "The Mirai Botnet Is Proof the Security Industry Is Broken",
-    "url": "https://blog.appcanary.com/2016/mirai-botnet-security-broken.html",
-    "votes": 12,
-    "posted": "Nov 1, 2016 3:13:57 PM"
-  },
-  {
-    "id": "12845823",
-    "timestamp": "Nov 1, 2016 4:18:35 PM",
-    "topic": "Google’s Tango Team Has ‘Solved’ Inside-Out Positional Tracking for Wireless VR",
-    "url": "http://uploadvr.com/inside-out-google-solve-tracking/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 3:08:48 PM"
-  },
-  {
-    "id": "12845714",
-    "timestamp": "Nov 1, 2016 3:58:32 PM",
-    "topic": "Debunking Trump\u0027s “secret server”",
-    "url": "http://blog.erratasec.com/2016/11/debunking-trumps-secret-server.html#.WBie7-ErLyJ",
-    "votes": 4,
-    "posted": "Nov 1, 2016 2:56:10 PM"
   }
 ];
