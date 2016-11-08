@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12898316",
+    "timestamp": "Nov 8, 2016 8:23:57 AM",
+    "topic": "PlanGrid (YC W12) Is Hiring Full Stack, Front End and iOS Engineers and More",
+    "url": "https://www.plangrid.com/jobs/",
+    "votes": 1,
+    "posted": "Nov 8, 2016 8:18:01 AM"
+  },
+  {
+    "id": "12898257",
+    "timestamp": "Nov 8, 2016 8:23:56 AM",
+    "topic": "America has never had so much TV, and even Hollywood is overwhelmed",
+    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/07/america-has-never-had-so-much-tv-and-even-hollywood-is-overwhelmed/#comments",
+    "votes": 6,
+    "posted": "Nov 8, 2016 7:59:13 AM"
+  },
+  {
+    "id": "12898236",
+    "timestamp": "Nov 8, 2016 8:13:56 AM",
+    "topic": "Normal for recruiters to ask for last 4 of your social / dob on first call?",
+    "votes": 5,
+    "posted": "Nov 8, 2016 7:52:39 AM"
+  },
+  {
     "id": "12897941",
     "timestamp": "Nov 8, 2016 7:03:50 AM",
     "topic": "Apache Performance: Disable .htaccess here\u0027s why",
@@ -7262,21 +7285,5 @@ var newsArray = [
     "url": "https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.jp3y84emz",
     "votes": 4,
     "posted": "Nov 1, 2016 8:54:23 AM"
-  },
-  {
-    "id": "12844057",
-    "timestamp": "Nov 1, 2016 9:38:00 AM",
-    "topic": "GNU Terry Pratchett",
-    "url": "http://www.gnuterrypratchett.com/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 8:53:10 AM"
-  },
-  {
-    "id": "12843980",
-    "timestamp": "Nov 1, 2016 4:58:40 PM",
-    "topic": "SSH, the Secure Shell: The Definitive Guide(2001)",
-    "url": "http://docstore.mik.ua/orelly/networking_2ndEd/ssh/index.htm",
-    "votes": 4,
-    "posted": "Nov 1, 2016 8:24:39 AM"
   }
 ];
