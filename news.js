@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12898854",
+    "timestamp": "Nov 8, 2016 10:54:09 AM",
+    "topic": "The Irrational Downfall of South Korean President Park Geun-Hye",
+    "url": "https://askakorean.blogspot.com/2016/10/the-irrational-downfall-of-park-geun-hye.html",
+    "votes": 4,
+    "posted": "Nov 8, 2016 10:31:49 AM"
+  },
+  {
+    "id": "12898534",
+    "timestamp": "Nov 8, 2016 10:44:08 AM",
+    "topic": "\u0027Big Bang Theory\u0027 Sheldon Prequel Series in the Works at CBS",
+    "url": "http://www.hollywoodreporter.com/live-feed/big-bang-theory-sheldon-prequel-series-works-at-cbs-944826",
+    "votes": 3,
+    "posted": "Nov 8, 2016 9:18:55 AM"
+  },
+  {
     "id": "12898406",
     "timestamp": "Nov 8, 2016 9:54:04 AM",
     "topic": "IAB: IETF to stop requiring IPv4 compat. – will optimize for and depend on IPv6",
     "url": "https://www.iab.org/documents/correspondence-reports-documents/2016-2/iab-statement-on-ipv6/",
     "votes": 5,
     "posted": "Nov 8, 2016 8:46:28 AM"
+  },
+  {
+    "id": "12898366",
+    "timestamp": "Nov 8, 2016 10:44:07 AM",
+    "topic": "Show HN: Embed HN comments in your website (alpha)",
+    "url": "https://comments.network/",
+    "votes": 6,
+    "posted": "Nov 8, 2016 8:35:17 AM"
   },
   {
     "id": "12898316",
@@ -148,6 +172,13 @@ var newsArray = [
     "url": "http://harpers.org/blog/2016/10/unofficial-stories/",
     "votes": 4,
     "posted": "Nov 8, 2016 2:55:18 AM"
+  },
+  {
+    "id": "12896969",
+    "timestamp": "Nov 8, 2016 10:04:05 AM",
+    "topic": "Can you give me feedback on my website?",
+    "votes": 5,
+    "posted": "Nov 8, 2016 2:51:35 AM"
   },
   {
     "id": "12896859",
@@ -7230,52 +7261,5 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/01/philp-hammond-to-spend-extra-19bn-fighting-cyber-attacks",
     "votes": 3,
     "posted": "Nov 1, 2016 11:02:54 AM"
-  },
-  {
-    "id": "12844434",
-    "timestamp": "Nov 1, 2016 11:38:11 AM",
-    "topic": "musicForProgramming();",
-    "url": "http://musicforprogramming.net/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 10:53:51 AM"
-  },
-  {
-    "id": "12844349",
-    "timestamp": "Nov 1, 2016 10:58:07 AM",
-    "topic": "The YANG 1.1 Data Modeling Language",
-    "url": "http://www.rfc-editor.org/rfc/rfc7950.txt",
-    "votes": 3,
-    "posted": "Nov 1, 2016 10:31:25 AM"
-  },
-  {
-    "id": "12844342",
-    "timestamp": "Nov 1, 2016 10:48:06 AM",
-    "topic": "Show HN: Algolia for Shopify – instant search for 300K+ store owners",
-    "url": "https://community.algolia.com/shopify/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 10:30:08 AM"
-  },
-  {
-    "id": "12844317",
-    "timestamp": "Nov 1, 2016 10:48:06 AM",
-    "topic": "Show HN: Extract HTTP info from integration tests to create Swagger docs",
-    "votes": 3,
-    "posted": "Nov 1, 2016 10:23:19 AM"
-  },
-  {
-    "id": "12844267",
-    "timestamp": "Nov 1, 2016 11:38:11 AM",
-    "topic": "Show HN: IMAP based message broker client written in Go",
-    "url": "https://github.com/mikaa123/imapmq",
-    "votes": 3,
-    "posted": "Nov 1, 2016 10:06:14 AM"
-  },
-  {
-    "id": "12844240",
-    "timestamp": "Nov 1, 2016 11:08:08 AM",
-    "topic": "Bottled Water: Real-Time Integration of PostgreSQL and Kafka",
-    "url": "http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 9:56:59 AM"
   }
 ];
