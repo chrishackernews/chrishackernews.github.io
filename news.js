@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12903359",
+    "timestamp": "Nov 8, 2016 9:15:07 PM",
+    "topic": "Apple Engineer Talks About New 2016 Macbook Pro",
+    "url": "https://www.youtube.com/watch?v\u003dQNHGDmbbzUU",
+    "votes": 4,
+    "posted": "Nov 8, 2016 8:47:55 PM"
+  },
+  {
     "id": "12903032",
     "timestamp": "Nov 8, 2016 8:25:02 PM",
     "topic": "Kotlin 1.0.5 is here",
@@ -61,6 +69,14 @@ var newsArray = [
     "url": "https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6",
     "votes": 4,
     "posted": "Nov 8, 2016 6:45:22 PM"
+  },
+  {
+    "id": "12902197",
+    "timestamp": "Nov 8, 2016 9:05:06 PM",
+    "topic": "Announcing TypeScript 2.1 RC: Better Inference, Async Functions, and More",
+    "url": "https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more",
+    "votes": 3,
+    "posted": "Nov 8, 2016 6:34:03 PM"
   },
   {
     "id": "12901933",
@@ -7274,85 +7290,5 @@ var newsArray = [
     "url": "https://daveceddia.com/visual-guide-to-state-in-react/",
     "votes": 3,
     "posted": "Nov 1, 2016 10:10:51 PM"
-  },
-  {
-    "id": "12849828",
-    "timestamp": "Nov 1, 2016 9:59:13 PM",
-    "topic": "Gameroom",
-    "url": "https://www.facebook.com/gameroom/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 9:40:07 PM"
-  },
-  {
-    "id": "12849798",
-    "timestamp": "Nov 2, 2016 3:30:44 PM",
-    "topic": "Randomness Requirements for Security (2005)",
-    "url": "http://tools.ietf.org/html/rfc4086",
-    "votes": 5,
-    "posted": "Nov 1, 2016 9:35:08 PM"
-  },
-  {
-    "id": "12849757",
-    "timestamp": "Nov 1, 2016 9:49:11 PM",
-    "topic": "“Design Patterns” Aren\u0027t",
-    "url": "http://perl.plover.com/yak/design/",
-    "votes": 9,
-    "posted": "Nov 1, 2016 9:28:59 PM"
-  },
-  {
-    "id": "12849721",
-    "timestamp": "Nov 1, 2016 10:09:14 PM",
-    "topic": "Mass Surveillance at Public Gatherings Is Why We Need Oversight Policies",
-    "url": "https://www.eff.org/deeplinks/2016/10/mass-surveillance-public-gatherings-why-we-need-oversight-policies",
-    "votes": 7,
-    "posted": "Nov 1, 2016 9:23:56 PM"
-  },
-  {
-    "id": "12849689",
-    "timestamp": "Nov 1, 2016 9:29:09 PM",
-    "topic": "Foursquare’s CEO says Yelp is shaking down local businesses",
-    "url": "http://www.recode.net/2016/10/31/13479782/foursquare-jeff-glueck-yelp-local-businesses-robin-hood-recode-podcast",
-    "votes": 9,
-    "posted": "Nov 1, 2016 9:18:17 PM"
-  },
-  {
-    "id": "12849688",
-    "timestamp": "Nov 1, 2016 11:09:21 PM",
-    "topic": "Microsoft’s IFTTT-like Flow is now out of beta",
-    "url": "http://arstechnica.com/information-technology/2016/11/microsofts-ifttt-like-flow-is-now-out-of-beta/",
-    "votes": 4,
-    "posted": "Nov 1, 2016 9:17:29 PM"
-  },
-  {
-    "id": "12849679",
-    "timestamp": "Nov 1, 2016 9:39:10 PM",
-    "topic": "Tesla and SolarCity",
-    "url": "https://www.tesla.com/blog/tesla-and-solarcity",
-    "votes": 3,
-    "posted": "Nov 1, 2016 9:16:21 PM"
-  },
-  {
-    "id": "12849656",
-    "timestamp": "Nov 2, 2016 3:29:43 AM",
-    "topic": "The Surprisingly Simple Advice You Will Never Follow: How to Predict the Future",
-    "url": "https://medium.com/@irinatsumarava/the-surprisingly-simple-advice-you-will-never-follow-or-how-to-predict-the-future-58f8b25f1c6c#.logmgnmat",
-    "votes": 3,
-    "posted": "Nov 1, 2016 9:12:33 PM"
-  },
-  {
-    "id": "12849622",
-    "timestamp": "Nov 2, 2016 12:29:29 AM",
-    "topic": "Too Smug to Jail",
-    "url": "http://www.rollingstone.com/politics/features/too-smug-to-jail-w447825",
-    "votes": 5,
-    "posted": "Nov 1, 2016 9:06:22 PM"
-  },
-  {
-    "id": "12849617",
-    "timestamp": "Nov 2, 2016 4:29:48 AM",
-    "topic": "An open approach for routing, switching, and transport",
-    "url": "https://code.facebook.com/posts/1977308282496021/an-open-approach-for-switching-routing-and-transport/",
-    "votes": 5,
-    "posted": "Nov 1, 2016 9:06:05 PM"
   }
 ];
