@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12910917",
+    "timestamp": "Nov 9, 2016 4:57:00 PM",
+    "topic": "It\u0027s Going to Be Okay",
+    "url": "http://waitbutwhy.com/2016/11/its-going-to-be-okay.html",
+    "votes": 6,
+    "posted": "Nov 9, 2016 4:35:24 PM"
+  },
+  {
     "id": "12910384",
     "timestamp": "Nov 9, 2016 3:16:50 PM",
     "topic": "Is SQL Your Second Language? Sift Science (YC S11) Is Hiring a Full Stack Eng",
     "url": "https://boards.greenhouse.io/siftscience/jobs/239993#.WCDAa5MrIUE",
     "votes": 1,
     "posted": "Nov 9, 2016 3:14:09 PM"
+  },
+  {
+    "id": "12910158",
+    "timestamp": "Nov 9, 2016 4:26:58 PM",
+    "topic": "Neural Networks for the Prediction of Organic Chemistry Reactions",
+    "url": "http://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00219",
+    "votes": 5,
+    "posted": "Nov 9, 2016 2:44:27 PM"
   },
   {
     "id": "12909969",
@@ -24,6 +40,13 @@ var newsArray = [
     "posted": "Nov 9, 2016 2:11:42 PM"
   },
   {
+    "id": "12909935",
+    "timestamp": "Nov 9, 2016 4:46:59 PM",
+    "topic": "Ask HN: How many of you are truly considering moving to Canada?",
+    "votes": 5,
+    "posted": "Nov 9, 2016 2:06:23 PM"
+  },
+  {
     "id": "12909906",
     "timestamp": "Nov 9, 2016 3:56:55 PM",
     "topic": "Practical advice for analysis of large, complex data sets",
@@ -38,6 +61,14 @@ var newsArray = [
     "url": "https://www.lawfareblog.com/coalition-all-democratic-forces-part-iii-what-if-trump-wins",
     "votes": 3,
     "posted": "Nov 9, 2016 1:49:58 PM"
+  },
+  {
+    "id": "12909752",
+    "timestamp": "Nov 9, 2016 4:57:00 PM",
+    "topic": "Donald Trump Is Elected President",
+    "url": "http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html",
+    "votes": 28,
+    "posted": "Nov 9, 2016 1:37:41 PM"
   },
   {
     "id": "12909598",
@@ -7130,68 +7161,5 @@ var newsArray = [
     "url": "https://nplusonemag.com/online-only/online-only/the-kingdom-of-the-dead/",
     "votes": 3,
     "posted": "Nov 2, 2016 5:03:21 PM"
-  },
-  {
-    "id": "12856003",
-    "timestamp": "Nov 2, 2016 5:00:52 PM",
-    "topic": "Microsoft Introduces Slack Competitor, Microsoft Teams",
-    "url": "https://blogs.office.com/2016/11/02/introducing-microsoft-teams-the-chat-based-workspace-in-office-365/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 4:46:34 PM"
-  },
-  {
-    "id": "12855834",
-    "timestamp": "Nov 2, 2016 5:30:55 PM",
-    "topic": "MoMA makes most exhibition catalogs since 1929 available on the internet",
-    "url": "https://www.moma.org/calendar/exhibitions/history",
-    "votes": 4,
-    "posted": "Nov 2, 2016 4:35:14 PM"
-  },
-  {
-    "id": "12855741",
-    "timestamp": "Nov 2, 2016 4:30:49 PM",
-    "topic": "Captain401 (YC S15) is hiring full stack and UI engineers to reinvent the 401(k)",
-    "url": "https://captain401.com/careers",
-    "votes": 1,
-    "posted": "Nov 2, 2016 4:27:44 PM"
-  },
-  {
-    "id": "12855722",
-    "timestamp": "Nov 2, 2016 4:40:50 PM",
-    "topic": "Containerising Legacy Applications – The Clean and the Dirty Approach",
-    "url": "http://blog.contino.io/blog/containerising-legacy-applications-the-clean-the-dirty-approach",
-    "votes": 4,
-    "posted": "Nov 2, 2016 4:26:13 PM"
-  },
-  {
-    "id": "12855684",
-    "timestamp": "Nov 2, 2016 4:40:51 PM",
-    "topic": "Microsoft Teams (Slack Competitor)",
-    "url": "https://products.office.com/en-US/microsoft-teams/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 4:23:08 PM"
-  },
-  {
-    "id": "12855636",
-    "timestamp": "Nov 2, 2016 4:30:49 PM",
-    "topic": "Ask HN: Experience vs. Education?",
-    "votes": 5,
-    "posted": "Nov 2, 2016 4:18:10 PM"
-  },
-  {
-    "id": "12855535",
-    "timestamp": "Nov 3, 2016 4:23:03 PM",
-    "topic": "How pure is the beer in Germany?",
-    "url": "http://www.bbc.com/travel/story/20161027-how-pure-is-the-beer-in-germany",
-    "votes": 4,
-    "posted": "Nov 2, 2016 4:09:56 PM"
-  },
-  {
-    "id": "12855409",
-    "timestamp": "Nov 2, 2016 9:11:19 PM",
-    "topic": "New MacBook Pro Received Most Online Orders",
-    "url": "http://www.macrumors.com/2016/11/02/phil-schiller-new-macbook-pro-interview/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 3:58:22 PM"
   }
 ];
