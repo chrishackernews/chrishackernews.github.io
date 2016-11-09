@@ -1,11 +1,83 @@
 var newsArray = [
   {
+    "id": "12915515",
+    "timestamp": "Nov 9, 2016 11:47:39 PM",
+    "topic": "The SSD Endurance Experiment: They\u0027re All Dead",
+    "url": "http://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead",
+    "votes": 3,
+    "posted": "Nov 9, 2016 11:42:28 PM"
+  },
+  {
+    "id": "12915505",
+    "timestamp": "Nov 9, 2016 11:47:40 PM",
+    "topic": "Donald Trump in 1987: \u0027I don\u0027t want to be president\u0027",
+    "url": "http://www.cnn.com/videos/tv/2016/05/09/donald-trump-1987-interview-larry-king-live.cnn/video/playlists/look-back-at-donald-trump/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 11:40:45 PM"
+  },
+  {
+    "id": "12915497",
+    "timestamp": "Nov 9, 2016 11:47:39 PM",
+    "topic": "Beyond 10,000 Lines – Elixir and Phoeniz",
+    "url": "https://shift.infinite.red/beyond-10-000-lines-ba1adc17cc7b",
+    "votes": 3,
+    "posted": "Nov 9, 2016 11:40:11 PM"
+  },
+  {
+    "id": "12915443",
+    "timestamp": "Nov 9, 2016 11:47:39 PM",
+    "topic": "Trump won because of Facebook",
+    "url": "http://nymag.com/selectall/2016/11/donald-trump-won-because-of-facebook.html?mid\u003dtwitter_nymag",
+    "votes": 4,
+    "posted": "Nov 9, 2016 11:34:22 PM"
+  },
+  {
+    "id": "12915428",
+    "timestamp": "Nov 9, 2016 11:47:39 PM",
+    "topic": "Trump, our next president, promised to block AT\u0026T/Time Warner merger",
+    "url": "http://arstechnica.com/tech-policy/2016/11/president-trump-may-be-trouble-for-atttime-warner-merger-and-comcast/",
+    "votes": 8,
+    "posted": "Nov 9, 2016 11:32:53 PM"
+  },
+  {
+    "id": "12915345",
+    "timestamp": "Nov 9, 2016 11:47:39 PM",
+    "topic": "Peter Thiel’s Bet on Donald Trump Wins Big",
+    "url": "http://www.nytimes.com/2016/11/10/technology/peter-thiel-bet-donald-trump-wins-big.html?hpw\u0026rref\u003dtechnology\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026module\u003dwell-region\u0026region\u003dbottom-well\u0026WT.nav\u003dbottom-well",
+    "votes": 8,
+    "posted": "Nov 9, 2016 11:24:41 PM"
+  },
+  {
+    "id": "12915294",
+    "timestamp": "Nov 9, 2016 11:37:38 PM",
+    "topic": "Imgix – Image Processing as a Service Reviewed",
+    "url": "https://medium.com/@nparsons08/imgix-image-processing-as-a-service-reviewed-5195b7efe757#.jh82vyn32",
+    "votes": 3,
+    "posted": "Nov 9, 2016 11:19:00 PM"
+  },
+  {
+    "id": "12915233",
+    "timestamp": "Nov 9, 2016 11:57:41 PM",
+    "topic": "Adam Bain to Leave Twitter, Company Appoints Anthony Noto as COO",
+    "url": "https://www.sec.gov/Archives/edgar/data/1418091/000156459016028706/twtr-ex991_6.htm",
+    "votes": 5,
+    "posted": "Nov 9, 2016 11:12:50 PM"
+  },
+  {
     "id": "12914828",
     "timestamp": "Nov 9, 2016 10:37:34 PM",
     "topic": "Trump Picks Top Climate Skeptic to Lead EPA Transition",
     "url": "https://www.scientificamerican.com/article/trump-picks-top-climate-skeptic-to-lead-epa-transition/",
     "votes": 8,
     "posted": "Nov 9, 2016 10:26:22 PM"
+  },
+  {
+    "id": "12914825",
+    "timestamp": "Nov 9, 2016 11:57:41 PM",
+    "topic": "Deep Learning Papers Ordered by Task",
+    "url": "https://github.com/sbrugman/deep-learning-papers/blob/master/README.md",
+    "votes": 3,
+    "posted": "Nov 9, 2016 10:25:52 PM"
   },
   {
     "id": "12914510",
@@ -102,6 +174,13 @@ var newsArray = [
     "url": "http://www.gamasutra.com/view/news/285149/Epic_Games_chief_pays_15M_to_protect_7000_acres_of_North_Carolina_wilderness.php",
     "votes": 14,
     "posted": "Nov 9, 2016 7:28:25 PM"
+  },
+  {
+    "id": "12912887",
+    "timestamp": "Nov 9, 2016 11:47:40 PM",
+    "topic": "Ask HN: Where can I analyze exit poll dataset?",
+    "votes": 5,
+    "posted": "Nov 9, 2016 7:11:37 PM"
   },
   {
     "id": "12912846",
@@ -7035,44 +7114,5 @@ var newsArray = [
     "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html",
     "votes": 3,
     "posted": "Nov 2, 2016 11:58:54 PM"
-  },
-  {
-    "id": "12860083",
-    "timestamp": "Nov 2, 2016 11:51:38 PM",
-    "topic": "AptDeco Is Hiring Full Stack Engineers and General Manager in NYC and DC",
-    "url": "http://www.aptdeco.com/jobs",
-    "votes": 1,
-    "posted": "Nov 2, 2016 11:46:19 PM"
-  },
-  {
-    "id": "12859989",
-    "timestamp": "Nov 3, 2016 12:51:44 AM",
-    "topic": "How This Poster in a Women\u0027s Restroom at a Bar Cleverly Combats Sexual Assault",
-    "url": "http://www.adweek.com/adfreak/how-poster-womens-restroom-bar-cleverly-combats-sexual-assault-174370",
-    "votes": 3,
-    "posted": "Nov 2, 2016 11:31:01 PM"
-  },
-  {
-    "id": "12859896",
-    "timestamp": "Nov 3, 2016 1:31:47 AM",
-    "topic": "How YC-Backed Vote.org Could Change Our Flawed Election System",
-    "url": "https://backchannel.com/the-simple-secret-weapon-that-could-change-elections-9e51f95038df#.uyl8q5weq",
-    "votes": 6,
-    "posted": "Nov 2, 2016 11:14:46 PM"
-  },
-  {
-    "id": "12859867",
-    "timestamp": "Nov 3, 2016 12:01:39 AM",
-    "topic": "Ask HN: How does unlimited vacation policy work in your company?",
-    "votes": 3,
-    "posted": "Nov 2, 2016 11:09:39 PM"
-  },
-  {
-    "id": "12859806",
-    "timestamp": "Nov 3, 2016 4:32:02 AM",
-    "topic": "India’s digital payments industry will grow to $500.0B by 2020 [pdf]",
-    "url": "http://image-src.bcg.com/BCG_COM/BCG-Google%20Digital%20Payments%202020-July%202016_tcm21-39245.pdf",
-    "votes": 5,
-    "posted": "Nov 2, 2016 11:03:52 PM"
   }
 ];
