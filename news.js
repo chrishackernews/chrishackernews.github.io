@@ -1,11 +1,99 @@
 var newsArray = [
   {
+    "id": "12913366",
+    "timestamp": "Nov 9, 2016 7:57:18 PM",
+    "topic": "Captain401 (YC S15) is hiring a UI Engineer to help people save for retirement",
+    "url": "https://captain401.com/careers",
+    "votes": 1,
+    "posted": "Nov 9, 2016 7:53:32 PM"
+  },
+  {
+    "id": "12913112",
+    "timestamp": "Nov 9, 2016 7:57:18 PM",
+    "topic": "Epic Games chief pays $15M to protect 7,000 acres of North Carolina wilderness",
+    "url": "http://www.gamasutra.com/view/news/285149/Epic_Games_chief_pays_15M_to_protect_7000_acres_of_North_Carolina_wilderness.php",
+    "votes": 14,
+    "posted": "Nov 9, 2016 7:28:25 PM"
+  },
+  {
+    "id": "12912846",
+    "timestamp": "Nov 9, 2016 7:57:19 PM",
+    "topic": "Crowdfunding to Package Browserify for Debian",
+    "url": "https://www.indiegogo.com/projects/package-browserify-node-module-for-debian#/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 7:08:35 PM"
+  },
+  {
+    "id": "12912788",
+    "timestamp": "Nov 9, 2016 7:37:16 PM",
+    "topic": "So Much Denial About Workflow Among Camera Companies",
+    "url": "http://www.dslrbodies.com/newsviews/so-much-denial-about-workfl.html",
+    "votes": 3,
+    "posted": "Nov 9, 2016 7:03:59 PM"
+  },
+  {
+    "id": "12912781",
+    "timestamp": "Nov 9, 2016 7:17:14 PM",
+    "topic": "Global Markets, Initially Shaken, Edge Higher After Trump Victory",
+    "url": "http://www.nytimes.com/2016/11/10/business/dealbook/stock-markets-election.html",
+    "votes": 5,
+    "posted": "Nov 9, 2016 7:03:14 PM"
+  },
+  {
+    "id": "12912608",
+    "timestamp": "Nov 9, 2016 7:57:18 PM",
+    "topic": "Silicon Valley Investor Peter Thiel Wins Bet on Trump",
+    "url": "http://www.wsj.com/articles/silicon-valley-investor-peter-thiel-wins-bet-on-trump-1478708226",
+    "votes": 15,
+    "posted": "Nov 9, 2016 6:48:55 PM"
+  },
+  {
+    "id": "12912489",
+    "timestamp": "Nov 9, 2016 7:07:12 PM",
+    "topic": "The State of the Art in iOS 10 Test Automation",
+    "url": "http://bitbar.com/the-state-of-the-art-in-ios-10-test-automation-frameworks/",
+    "votes": 4,
+    "posted": "Nov 9, 2016 6:38:42 PM"
+  },
+  {
+    "id": "12912450",
+    "timestamp": "Nov 9, 2016 7:07:12 PM",
+    "topic": "Political Polarization in the American Public (2014)",
+    "url": "http://www.people-press.org/2014/06/12/political-polarization-in-the-american-public/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:35:25 PM"
+  },
+  {
+    "id": "12912443",
+    "timestamp": "Nov 9, 2016 7:17:14 PM",
+    "topic": "Under Trump the future of Net Neutrality and broadband is uncertain",
+    "url": "https://www.engadget.com/2016/11/09/under-trump-the-future-of-net-neutrality-and-broadband-is-uncert/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:34:37 PM"
+  },
+  {
     "id": "12912366",
     "timestamp": "Nov 9, 2016 6:57:12 PM",
     "topic": "Donald Trump is moving to the White House, and liberals put him there",
     "url": "https://www.theguardian.com/commentisfree/2016/nov/09/donald-trump-white-house-hillary-clinton-liberals",
     "votes": 3,
     "posted": "Nov 9, 2016 6:29:48 PM"
+  },
+  {
+    "id": "12912217",
+    "timestamp": "Nov 9, 2016 7:07:13 PM",
+    "topic": "How our dumb bot attracted 1M users without even trying",
+    "url": "http://venturebeat.com/2016/11/07/how-our-dumb-bot-attracted-1-million-users-without-even-trying/",
+    "votes": 5,
+    "posted": "Nov 9, 2016 6:18:22 PM"
+  },
+  {
+    "id": "12912133",
+    "timestamp": "Nov 9, 2016 7:07:13 PM",
+    "topic": "MIT is raising $150M for a new VC fund",
+    "url": "https://www.bostonglobe.com/business/2016/10/26/mit-starts-venture-fund/GzWKqD9DLOZDYvSDrUPN3L/story.html",
+    "votes": 4,
+    "posted": "Nov 9, 2016 6:12:13 PM"
   },
   {
     "id": "12911985",
@@ -30,6 +118,14 @@ var newsArray = [
     "url": "http://www.reuters.com/article/airbnb-sanfrancisco-ruling-idUSL1N1D923N?em_pos\u003dsmall\u0026ref\u003dheadline\u0026nl_art\u003d16",
     "votes": 9,
     "posted": "Nov 9, 2016 5:49:04 PM"
+  },
+  {
+    "id": "12911809",
+    "timestamp": "Nov 9, 2016 7:07:13 PM",
+    "topic": "China \u0026 Pakistan are rebuilding the Silk Road at $51B investment",
+    "url": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
+    "votes": 3,
+    "posted": "Nov 9, 2016 5:48:38 PM"
   },
   {
     "id": "12911310",
@@ -80,12 +176,44 @@ var newsArray = [
     "posted": "Nov 9, 2016 5:01:28 PM"
   },
   {
+    "id": "12911152",
+    "timestamp": "Nov 9, 2016 7:07:13 PM",
+    "topic": "EBay fires product and tech team in India, except 15 moving to the US",
+    "url": "https://www.techinasia.com/ebay-fires-entire-india-team",
+    "votes": 5,
+    "posted": "Nov 9, 2016 5:00:07 PM"
+  },
+  {
+    "id": "12911128",
+    "timestamp": "Nov 9, 2016 7:17:14 PM",
+    "topic": "4G Cellular Networks at Risk of DoS Attacks",
+    "url": "https://www.cyberscoop.com/4g-lte-protocols-used-smarthphones-can-hacked-researchers-found/",
+    "votes": 4,
+    "posted": "Nov 9, 2016 4:58:34 PM"
+  },
+  {
+    "id": "12911070",
+    "timestamp": "Nov 9, 2016 7:17:14 PM",
+    "topic": "I developed a 3D browser game with Bullet Physics. Thanks to this repo",
+    "url": "https://github.com/WhitestormJS/whitestorm.js",
+    "votes": 8,
+    "posted": "Nov 9, 2016 4:53:45 PM"
+  },
+  {
     "id": "12910917",
     "timestamp": "Nov 9, 2016 4:57:00 PM",
     "topic": "It\u0027s Going to Be Okay",
     "url": "http://waitbutwhy.com/2016/11/its-going-to-be-okay.html",
     "votes": 6,
     "posted": "Nov 9, 2016 4:35:24 PM"
+  },
+  {
+    "id": "12910882",
+    "timestamp": "Nov 9, 2016 7:17:14 PM",
+    "topic": "Developer Book Club",
+    "url": "https://henrikwarne.com/2016/11/08/developer-book-club/",
+    "votes": 4,
+    "posted": "Nov 9, 2016 4:29:13 PM"
   },
   {
     "id": "12910863",
@@ -7041,93 +7169,5 @@ var newsArray = [
     "url": "http://www.eastbaytimes.com/2016/11/01/bart-janitor-grossed-270k-in-pay-and-benefits-last-year/",
     "votes": 6,
     "posted": "Nov 2, 2016 7:59:07 PM"
-  },
-  {
-    "id": "12857988",
-    "timestamp": "Nov 3, 2016 6:53:19 PM",
-    "topic": "An Artist Is Building a Parthenon of Banned Books",
-    "url": "http://www.smithsonianmag.com/smart-news/artist-building-parthenon-banned-books-180960923/?no-ist",
-    "votes": 3,
-    "posted": "Nov 2, 2016 7:47:27 PM"
-  },
-  {
-    "id": "12857883",
-    "timestamp": "Nov 2, 2016 10:01:25 PM",
-    "topic": "The New Uber Rider App",
-    "url": "http://www.theverge.com/2016/11/2/13490142/uber-app-redesign-streamline-shortcut-snapchat-filter",
-    "votes": 5,
-    "posted": "Nov 2, 2016 7:36:47 PM"
-  },
-  {
-    "id": "12857869",
-    "timestamp": "Nov 2, 2016 7:41:09 PM",
-    "topic": "Real and Stealthy Attacks on State-Of-the-Art Face Recognition [pdf]",
-    "url": "https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf",
-    "votes": 3,
-    "posted": "Nov 2, 2016 7:34:51 PM"
-  },
-  {
-    "id": "12857792",
-    "timestamp": "Nov 2, 2016 7:51:10 PM",
-    "topic": "Our hiring process at Argo",
-    "url": "https://dev.to/argo/our-hiring-process",
-    "votes": 5,
-    "posted": "Nov 2, 2016 7:27:00 PM"
-  },
-  {
-    "id": "12857751",
-    "timestamp": "Nov 2, 2016 7:41:08 PM",
-    "topic": "Surface Book – It’s Easy to Switch from Mac to Surface",
-    "url": "https://www.microsoft.com/en-us/surface/devices/surface-book/compare-to-mac",
-    "votes": 5,
-    "posted": "Nov 2, 2016 7:22:38 PM"
-  },
-  {
-    "id": "12857738",
-    "timestamp": "Nov 2, 2016 8:51:16 PM",
-    "topic": "The new IFTTT is here",
-    "url": "https://ifttt.com/blog/2016/11/the-new-ifttt-is-here",
-    "votes": 5,
-    "posted": "Nov 2, 2016 7:20:59 PM"
-  },
-  {
-    "id": "12857736",
-    "timestamp": "Nov 2, 2016 8:31:14 PM",
-    "topic": "Robot consumes organic matter for power",
-    "url": "http://www.dailymail.co.uk/sciencetech/article-3894132/amp/Scavenger-robot-EATS-organic-matter-Soft-bodied-foraging-droid-used-clean-contaminated-water.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 7:20:40 PM"
-  },
-  {
-    "id": "12857607",
-    "timestamp": "Nov 2, 2016 8:11:12 PM",
-    "topic": "The Culture of Childhood: We’ve Almost Destroyed It",
-    "url": "https://www.psychologytoday.com/blog/freedom-learn/201610/the-culture-childhood-we-ve-almost-destroyed-it",
-    "votes": 5,
-    "posted": "Nov 2, 2016 7:05:53 PM"
-  },
-  {
-    "id": "12857592",
-    "timestamp": "Nov 2, 2016 11:31:36 PM",
-    "topic": "Alzheimer\u0027s treatment within reach after successful drug trial",
-    "url": "https://www.theguardian.com/society/2016/nov/02/alzheimers-treatment-within-reach-after-successful-drug-trial-amyloid-plaques-bace1",
-    "votes": 8,
-    "posted": "Nov 2, 2016 7:04:06 PM"
-  },
-  {
-    "id": "12857585",
-    "timestamp": "Nov 3, 2016 3:22:58 PM",
-    "topic": "Tangled Up in Spacetime",
-    "url": "https://www.scientificamerican.com/article/tangled-up-in-spacetime/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 7:03:41 PM"
-  },
-  {
-    "id": "12857549",
-    "timestamp": "Nov 3, 2016 12:51:44 AM",
-    "topic": "Shepherding Random Numbers",
-    "url": "http://inconvergent.net/shepherding-random-numbers/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 7:00:14 PM"
   }
 ];
