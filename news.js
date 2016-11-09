@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12904962",
+    "timestamp": "Nov 9, 2016 12:45:35 AM",
+    "topic": "Leaked Paper Suggests That the EmDrive Actually Works",
+    "url": "http://www.iflscience.com/space/leaked-paper-suggests-that-the-emdrive-actually-works/",
+    "votes": 5,
+    "posted": "Nov 9, 2016 12:35:54 AM"
+  },
+  {
+    "id": "12904890",
+    "timestamp": "Nov 9, 2016 12:55:36 AM",
+    "topic": "Making Videos on Linux",
+    "url": "http://blog.system76.com/post/152896823413/making-videos-on-linux-linux-gamer",
+    "votes": 3,
+    "posted": "Nov 9, 2016 12:23:59 AM"
+  },
+  {
+    "id": "12904845",
+    "timestamp": "Nov 9, 2016 12:35:35 AM",
+    "topic": "Presidential Election Results",
+    "url": "http://www.nytimes.com/elections/results/president?action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dspan-abc-region\u0026region\u003dspan-abc-region\u0026WT.nav\u003dspan-abc-region",
+    "votes": 8,
+    "posted": "Nov 9, 2016 12:17:50 AM"
+  },
+  {
+    "id": "12904757",
+    "timestamp": "Nov 9, 2016 12:45:36 AM",
+    "topic": "We\u0027re Probably Imagining Aliens Wrong",
+    "url": "http://www.theatlantic.com/video/index/506846/were-probably-imagining-aliens-wrong/?single_page\u003dtrue",
+    "votes": 6,
+    "posted": "Nov 9, 2016 12:06:15 AM"
+  },
+  {
+    "id": "12904691",
+    "timestamp": "Nov 9, 2016 12:25:34 AM",
+    "topic": "Charge Revelas New Electric Truck Wich Looks Just Like a Box",
+    "url": "http://pluginfuture.com/charge-revelas-new-electric-truck/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 11:56:12 PM"
+  },
+  {
     "id": "12904437",
     "timestamp": "Nov 8, 2016 11:15:28 PM",
     "topic": "Be the First Product Designer at Close.io",
@@ -7122,85 +7162,5 @@ var newsArray = [
     "topic": "Ask HN: Where can I find a simple (open source) Rogue-like to modify?",
     "votes": 8,
     "posted": "Nov 2, 2016 12:58:51 AM"
-  },
-  {
-    "id": "12851177",
-    "timestamp": "Nov 2, 2016 5:59:55 AM",
-    "topic": "The Real Amount of Energy Used to Power the Internet",
-    "url": "http://www.electronicsilentspring.com/real-amount-energy-power-internet/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 12:47:37 AM"
-  },
-  {
-    "id": "12851127",
-    "timestamp": "Nov 2, 2016 1:09:33 AM",
-    "topic": "Google Is Not What It Seems",
-    "url": "https://wikileaks.org/google-is-not-what-it-seems/?utm\u003demail",
-    "votes": 4,
-    "posted": "Nov 2, 2016 12:38:54 AM"
-  },
-  {
-    "id": "12851080",
-    "timestamp": "Nov 2, 2016 1:09:33 AM",
-    "topic": "System76 brings Ubuntu to $699 laptop with Kaby Lake chips",
-    "url": "http://www.cio.com/article/3136394/laptop-computers/system76-brings-ubuntu-to-699-laptop-with-kaby-lake-chips.html",
-    "votes": 5,
-    "posted": "Nov 2, 2016 12:31:37 AM"
-  },
-  {
-    "id": "12851070",
-    "timestamp": "Nov 2, 2016 1:09:33 AM",
-    "topic": "Does your mind jump around, stay on task or get stuck?",
-    "url": "http://news.berkeley.edu/2016/10/31/wanderingmind/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 12:28:48 AM"
-  },
-  {
-    "id": "12851018",
-    "timestamp": "Nov 2, 2016 4:09:46 AM",
-    "topic": "The downside of believing in Apple",
-    "url": "https://www.baldurbjarnason.com/notes/the-less-pro-apple/",
-    "votes": 5,
-    "posted": "Nov 2, 2016 12:20:04 AM"
-  },
-  {
-    "id": "12850959",
-    "timestamp": "Nov 2, 2016 12:39:30 AM",
-    "topic": "Political Showdown: Peter Thiel vs. Google’s Eric Schmidt",
-    "url": "https://medium.com/@trentlapinski/political-showdown-peter-thiel-vs-googles-eric-schmidt-1d1484636aa4#",
-    "votes": 3,
-    "posted": "Nov 2, 2016 12:08:14 AM"
-  },
-  {
-    "id": "12850928",
-    "timestamp": "Nov 2, 2016 12:39:30 AM",
-    "topic": "Webcam spying without turning on the LED",
-    "url": "https://www.grahamcluley.com/webcam-spying-without-turning-led-researchers-prove-possible/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 12:03:37 AM"
-  },
-  {
-    "id": "12850919",
-    "timestamp": "Nov 2, 2016 12:09:27 AM",
-    "topic": "A Random Walk Through Ada",
-    "url": "http://cowlark.com/2014-04-27-ada/index.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 12:02:07 AM"
-  },
-  {
-    "id": "12850918",
-    "timestamp": "Nov 2, 2016 12:29:29 AM",
-    "topic": "Async/await support landed in Firefox Nightly",
-    "url": "https://blog.nightly.mozilla.org/2016/11/01/async-await-support-in-firefox/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 12:01:51 AM"
-  },
-  {
-    "id": "12850878",
-    "timestamp": "Nov 2, 2016 12:59:32 AM",
-    "topic": "Ribbonfarm Longform Blogging Course",
-    "url": "http://www.ribbonfarm.com/2016/11/01/ribbonfarm-longform-blogging-course-nov-10-22/",
-    "votes": 3,
-    "posted": "Nov 1, 2016 11:56:12 PM"
   }
 ];
