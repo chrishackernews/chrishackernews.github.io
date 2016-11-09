@@ -1,5 +1,77 @@
 var newsArray = [
   {
+    "id": "12906081",
+    "timestamp": "Nov 9, 2016 5:45:59 AM",
+    "topic": "California just legalized recreational marijuana",
+    "url": "http://www.theverge.com/2016/11/8/13520486/marijuana-legalization-california-election-2016",
+    "votes": 6,
+    "posted": "Nov 9, 2016 5:38:08 AM"
+  },
+  {
+    "id": "12906065",
+    "timestamp": "Nov 9, 2016 5:45:59 AM",
+    "topic": "Canada\u0027s Start-up Visa",
+    "url": "http://www.cic.gc.ca/english/immigrate/business/start-up/",
+    "votes": 4,
+    "posted": "Nov 9, 2016 5:34:06 AM"
+  },
+  {
+    "id": "12906040",
+    "timestamp": "Nov 9, 2016 5:56:00 AM",
+    "topic": "It\u0027s Charisma, Stupid",
+    "url": "http://paulgraham.com/charisma.html",
+    "votes": 7,
+    "posted": "Nov 9, 2016 5:27:14 AM"
+  },
+  {
+    "id": "12905991",
+    "timestamp": "Nov 9, 2016 5:35:58 AM",
+    "topic": "LAPD Prepping for “Riot Mode” in Some Neighborhoods If Donald Trump Wins",
+    "url": "http://deadline.com/2016/11/lapd-riot-mode-plans-donald-trump-election-1201850978/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 5:12:21 AM"
+  },
+  {
+    "id": "12905954",
+    "timestamp": "Nov 9, 2016 5:25:57 AM",
+    "topic": "Real-Time Stock Indices Futures",
+    "url": "http://www.investing.com/indices/indices-futures",
+    "votes": 4,
+    "posted": "Nov 9, 2016 5:01:54 AM"
+  },
+  {
+    "id": "12905939",
+    "timestamp": "Nov 9, 2016 5:45:59 AM",
+    "topic": "Why you should never use Socket.IO",
+    "url": "https://github.com/uWebSockets/uWebSockets#benchmarks-table---validate",
+    "votes": 11,
+    "posted": "Nov 9, 2016 4:58:00 AM"
+  },
+  {
+    "id": "12905919",
+    "timestamp": "Nov 9, 2016 5:25:57 AM",
+    "topic": "OpenSource Electronic Medical Records (EMR) Software",
+    "url": "http://www.bahmni.org/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 4:51:43 AM"
+  },
+  {
+    "id": "12905795",
+    "timestamp": "Nov 9, 2016 5:05:55 AM",
+    "topic": "Nate Silver rages at Huffington Post editor in 14-part tweetstorm",
+    "url": "http://www.politico.com/story/2016/11/nate-silver-huffington-post-polls-twitter-230815",
+    "votes": 9,
+    "posted": "Nov 9, 2016 4:07:55 AM"
+  },
+  {
+    "id": "12905717",
+    "timestamp": "Nov 9, 2016 5:25:57 AM",
+    "topic": "GoPro is recalling the Karma drone after just 16 days on the market",
+    "url": "https://techcrunch.com/2016/11/08/gopro-is-recalling-the-karma-drone-after-just-16-days-on-the-market/?ncid\u003drss",
+    "votes": 4,
+    "posted": "Nov 9, 2016 3:42:23 AM"
+  },
+  {
     "id": "12905711",
     "timestamp": "Nov 9, 2016 4:15:52 AM",
     "topic": "How Segregated Witness Is About to Fix Hardware Wallets",
@@ -143,6 +215,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 10:03:30 PM"
   },
   {
+    "id": "12903904",
+    "timestamp": "Nov 9, 2016 5:56:00 AM",
+    "topic": "Show HN: The Elo rating system applied to photo, a new way to do photo contests",
+    "url": "http://www.pixide.org",
+    "votes": 5,
+    "posted": "Nov 8, 2016 10:01:57 PM"
+  },
+  {
     "id": "12903801",
     "timestamp": "Nov 8, 2016 10:25:17 PM",
     "topic": "3DNES just officially dropped",
@@ -262,6 +342,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 6:34:03 PM"
   },
   {
+    "id": "12902159",
+    "timestamp": "Nov 9, 2016 5:56:00 AM",
+    "topic": "Show HN: Taste Movies – Watch movies based on your taste",
+    "url": "https://www.taste.io?ref\u003dhn",
+    "votes": 20,
+    "posted": "Nov 8, 2016 6:30:14 PM"
+  },
+  {
     "id": "12901933",
     "timestamp": "Nov 8, 2016 7:24:55 PM",
     "topic": "Ben Silbermann at Startup School [video]",
@@ -299,6 +387,14 @@ var newsArray = [
     "topic": "Ask HN: When did you feel to resign/leave your last job?",
     "votes": 3,
     "posted": "Nov 8, 2016 5:59:34 PM"
+  },
+  {
+    "id": "12901761",
+    "timestamp": "Nov 9, 2016 5:56:00 AM",
+    "topic": "Show HN: Nymeria – Find LinkedIn and GitHub User Emails",
+    "url": "https://www.nymeria.io",
+    "votes": 9,
+    "posted": "Nov 8, 2016 5:50:42 PM"
   },
   {
     "id": "12901724",
@@ -535,6 +631,14 @@ var newsArray = [
     "url": "http://www.thememo.com/2016/11/08/skin-deep-gang-photos-skin-deep-kickstarter-skin-deep-tattoo-project/",
     "votes": 4,
     "posted": "Nov 8, 2016 3:09:41 PM"
+  },
+  {
+    "id": "12900298",
+    "timestamp": "Nov 9, 2016 5:05:55 AM",
+    "topic": "Show HN: Cloud storage abstraction package for Go",
+    "url": "https://medium.com/@matryer/introducing-stow-cloud-storage-abstraction-package-for-go-20cf2928d93c#.j6l0q5oxb",
+    "votes": 7,
+    "posted": "Nov 8, 2016 3:09:10 PM"
   },
   {
     "id": "12900279",
@@ -7032,52 +7136,5 @@ var newsArray = [
     "url": "http://hackaday.com/2015/04/07/build-a-phased-array-radar-in-your-garage-that-sees-through-walls/",
     "votes": 4,
     "posted": "Nov 2, 2016 6:00:36 AM"
-  },
-  {
-    "id": "12852316",
-    "timestamp": "Nov 2, 2016 10:20:17 AM",
-    "topic": "Reboot – conference for failed startup founders",
-    "url": "http://www.rebootconf.com",
-    "votes": 5,
-    "posted": "Nov 2, 2016 5:46:16 AM"
-  },
-  {
-    "id": "12852293",
-    "timestamp": "Nov 2, 2016 5:59:55 AM",
-    "topic": "Ask HN: Best linux laptop for developers",
-    "votes": 5,
-    "posted": "Nov 2, 2016 5:41:43 AM"
-  },
-  {
-    "id": "12852282",
-    "timestamp": "Nov 2, 2016 7:40:04 AM",
-    "topic": "Dirty COW – (CVE-2016-5195) – Docker Container Escape",
-    "url": "https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/",
-    "votes": 13,
-    "posted": "Nov 2, 2016 5:38:08 AM"
-  },
-  {
-    "id": "12852250",
-    "timestamp": "Nov 2, 2016 6:41:01 PM",
-    "topic": "The Right Way to Grant Equity to Your Employees",
-    "url": "http://firstround.com/review/The-Right-Way-to-Grant-Equity-to-Your-Employees/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 5:27:08 AM"
-  },
-  {
-    "id": "12852235",
-    "timestamp": "Nov 2, 2016 7:40:04 AM",
-    "topic": "Abandoned in space in 1967, a US satellite has started transmitting again",
-    "url": "http://www.thevintagenews.com/2016/10/31/abandoned-in-space-in-1967-a-us-satellite-has-started-transmitting-again/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 5:22:12 AM"
-  },
-  {
-    "id": "12852172",
-    "timestamp": "Nov 2, 2016 1:10:31 PM",
-    "topic": "Stuck between a rock and a hard placem: An explanation of Apple’s new MBP",
-    "url": "http://macdaddy.io/apples-new-macbook-pros/",
-    "votes": 5,
-    "posted": "Nov 2, 2016 5:10:06 AM"
   }
 ];
