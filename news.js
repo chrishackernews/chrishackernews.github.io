@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12910384",
+    "timestamp": "Nov 9, 2016 3:16:50 PM",
+    "topic": "Is SQL Your Second Language? Sift Science (YC S11) Is Hiring a Full Stack Eng",
+    "url": "https://boards.greenhouse.io/siftscience/jobs/239993#.WCDAa5MrIUE",
+    "votes": 1,
+    "posted": "Nov 9, 2016 3:14:09 PM"
+  },
+  {
     "id": "12909969",
     "timestamp": "Nov 9, 2016 2:56:48 PM",
     "topic": "Show HN: DevFreeCasts – A huge collection of free screencasts for developers",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "https://devfreebooks.github.io",
     "votes": 12,
     "posted": "Nov 9, 2016 2:11:42 PM"
+  },
+  {
+    "id": "12909906",
+    "timestamp": "Nov 9, 2016 3:56:55 PM",
+    "topic": "Practical advice for analysis of large, complex data sets",
+    "url": "http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html",
+    "votes": 3,
+    "posted": "Nov 9, 2016 2:02:20 PM"
   },
   {
     "id": "12909823",
@@ -7177,61 +7193,5 @@ var newsArray = [
     "url": "http://www.macrumors.com/2016/11/02/phil-schiller-new-macbook-pro-interview/",
     "votes": 4,
     "posted": "Nov 2, 2016 3:58:22 PM"
-  },
-  {
-    "id": "12855319",
-    "timestamp": "Nov 2, 2016 4:30:49 PM",
-    "topic": "[Linode] Network Update: Multihomed, Increased Transit, Peering",
-    "url": "https://blog.linode.com/2016/11/02/network-update-multihomed-increased-transit-peering/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 3:51:18 PM"
-  },
-  {
-    "id": "12855291",
-    "timestamp": "Nov 2, 2016 4:20:48 PM",
-    "topic": "Dear Microsoft",
-    "url": "https://slackhq.com/dear-microsoft-8d20965d2849#.3wj6j4611",
-    "votes": 16,
-    "posted": "Nov 2, 2016 3:49:07 PM"
-  },
-  {
-    "id": "12855252",
-    "timestamp": "Nov 2, 2016 7:51:10 PM",
-    "topic": "Phil Schiller Discusses the new MacBook Pro",
-    "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html",
-    "votes": 5,
-    "posted": "Nov 2, 2016 3:46:04 PM"
-  },
-  {
-    "id": "12855073",
-    "timestamp": "Nov 2, 2016 4:10:47 PM",
-    "topic": "The iMac and the Floppy Drive: A Conspiracy Theory (1998)",
-    "url": "http://www.osnews.com/story/18/The_iMac_and_the_Floppy_Drive_A_Conspiracy_Theory",
-    "votes": 3,
-    "posted": "Nov 2, 2016 3:30:22 PM"
-  },
-  {
-    "id": "12854895",
-    "timestamp": "Nov 2, 2016 4:00:46 PM",
-    "topic": "Darling – MacOS translation layer for Linux",
-    "url": "https://www.darlinghq.org/",
-    "votes": 13,
-    "posted": "Nov 2, 2016 3:12:54 PM"
-  },
-  {
-    "id": "12854877",
-    "timestamp": "Nov 2, 2016 3:40:45 PM",
-    "topic": "Pornhub Bypasses Ad Blockers with WebSockets",
-    "url": "http://blog.bugreplay.com/post/152579164219/pornhubdodgesadblockersusingwebsockets?utm_source\u003dreddit-programming\u0026utm_medium\u003dpost",
-    "votes": 6,
-    "posted": "Nov 2, 2016 3:11:25 PM"
-  },
-  {
-    "id": "12854785",
-    "timestamp": "Nov 2, 2016 3:30:44 PM",
-    "topic": "How Lyft screwed me out of a $350 referral bonus",
-    "url": "http://imgur.com/gallery/QZbvw",
-    "votes": 4,
-    "posted": "Nov 2, 2016 3:03:09 PM"
   }
 ];
