@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 8:48:24 AM"
   },
   {
+    "id": "12907278",
+    "timestamp": "Nov 9, 2016 9:06:19 AM",
+    "topic": "Hillary Clinton concedes",
+    "url": "http://www.cnn.com/2016/11/08/politics/election-day-2016-highlights/index.html",
+    "votes": 4,
+    "posted": "Nov 9, 2016 8:43:25 AM"
+  },
+  {
     "id": "12907201",
     "timestamp": "Nov 9, 2016 8:46:16 AM",
     "topic": "Donald trump is the new US president",
@@ -29,6 +37,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dUTJB8AkT1dk",
     "votes": 8,
     "posted": "Nov 9, 2016 8:26:31 AM"
+  },
+  {
+    "id": "12907055",
+    "timestamp": "Nov 9, 2016 9:26:20 AM",
+    "topic": "E-Ink wallet – The next generation wallet",
+    "url": "https://www.indiegogo.com/projects/e-ink-wallet-the-next-generation-wallet-gadget-gadgets",
+    "votes": 3,
+    "posted": "Nov 9, 2016 8:20:54 AM"
   },
   {
     "id": "12906982",
@@ -311,6 +327,14 @@ var newsArray = [
     "url": "http://www.politico.com/story/2016/11/nate-silver-huffington-post-polls-twitter-230815",
     "votes": 9,
     "posted": "Nov 9, 2016 4:07:55 AM"
+  },
+  {
+    "id": "12905749",
+    "timestamp": "Nov 9, 2016 9:16:19 AM",
+    "topic": "Blockchain game that runs in the browser",
+    "url": "http://gotoshi.de/about",
+    "votes": 4,
+    "posted": "Nov 9, 2016 3:48:52 AM"
   },
   {
     "id": "12905717",
@@ -7314,21 +7338,5 @@ var newsArray = [
     "url": "https://curl.haxx.se/changes.html#7_51_0",
     "votes": 13,
     "posted": "Nov 2, 2016 10:01:10 AM"
-  },
-  {
-    "id": "12853096",
-    "timestamp": "Nov 2, 2016 10:40:18 AM",
-    "topic": "Admiral to price car insurance based on Facebook posts",
-    "url": "https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts",
-    "votes": 5,
-    "posted": "Nov 2, 2016 9:50:32 AM"
-  },
-  {
-    "id": "12852995",
-    "timestamp": "Nov 2, 2016 4:30:50 PM",
-    "topic": "Corrode project for porting C to Rust gains Mozilla\u0027s backing",
-    "url": "http://www.infoworld.com/article/3136934/open-source-tools/project-for-porting-c-to-rust-gains-mozillas-backing.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 9:14:24 AM"
   }
 ];
