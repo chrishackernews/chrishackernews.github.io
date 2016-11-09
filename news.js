@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12905470",
+    "timestamp": "Nov 9, 2016 2:45:45 AM",
+    "topic": "You’re engiNEARer to your dream job. Join the team at BloomThat (YC S13)",
+    "url": "https://jobs.lever.co/bloomthat",
+    "votes": 1,
+    "posted": "Nov 9, 2016 2:41:32 AM"
+  },
+  {
+    "id": "12905398",
+    "timestamp": "Nov 9, 2016 2:45:45 AM",
+    "topic": "Deep Learning cleans podcast episodes from ‘ahem’ sounds",
+    "url": "https://github.com/worldofpiggy/deeplearning-ahem-detector",
+    "votes": 5,
+    "posted": "Nov 9, 2016 2:23:08 AM"
+  },
+  {
+    "id": "12905265",
+    "timestamp": "Nov 9, 2016 2:15:42 AM",
+    "topic": "Live Presidential Forecast (with priors)",
+    "url": "http://www.nytimes.com/elections/forecast/president?1",
+    "votes": 4,
+    "posted": "Nov 9, 2016 1:43:43 AM"
+  },
+  {
     "id": "12904962",
     "timestamp": "Nov 9, 2016 12:45:35 AM",
     "topic": "Leaked Paper Suggests That the EmDrive Actually Works",
@@ -93,6 +117,14 @@ var newsArray = [
     "url": "http://helpmebro.com/posts/wbcyQqFeqa",
     "votes": 6,
     "posted": "Nov 8, 2016 9:49:42 PM"
+  },
+  {
+    "id": "12903745",
+    "timestamp": "Nov 9, 2016 2:25:43 AM",
+    "topic": "Neural Networks Designing Neural Networks: Cometh the Singularity?",
+    "url": "https://arxiv.org/abs/1611.02120",
+    "votes": 8,
+    "posted": "Nov 8, 2016 9:43:31 PM"
   },
   {
     "id": "12903533",
@@ -7093,44 +7125,5 @@ var newsArray = [
     "url": "http://www.villagevoice.com/news/new-york-doesnt-need-san-franciscos-google-bus-problem-9292209",
     "votes": 5,
     "posted": "Nov 2, 2016 3:20:45 AM"
-  },
-  {
-    "id": "12851618",
-    "timestamp": "Nov 2, 2016 6:09:56 AM",
-    "topic": "Ask HN: What Is the Current State of the GNUstep Project?",
-    "votes": 3,
-    "posted": "Nov 2, 2016 2:29:14 AM"
-  },
-  {
-    "id": "12851596",
-    "timestamp": "Nov 2, 2016 3:39:44 AM",
-    "topic": "The Costs of Running a Support Team in the Bay Area",
-    "url": "http://www.peopledelight.com/costs-customer-support-bay-area/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 2:22:10 AM"
-  },
-  {
-    "id": "12851585",
-    "timestamp": "Nov 2, 2016 2:59:41 AM",
-    "topic": "The New MacBook Pros Mark the End of Upgradeable Apple Computers",
-    "url": "http://motherboard.vice.com/read/new-macbook-pros-mark-the-end-of-upgradeable-apple-computers",
-    "votes": 4,
-    "posted": "Nov 2, 2016 2:20:39 AM"
-  },
-  {
-    "id": "12851497",
-    "timestamp": "Nov 2, 2016 7:10:02 AM",
-    "topic": "Cloudflare gets wildcard certs for a domain using their DNS-only service",
-    "url": "https://groups.google.com/forum/#!topic/certificate-transparency/1tAcVS17wMM",
-    "votes": 6,
-    "posted": "Nov 2, 2016 1:58:08 AM"
-  },
-  {
-    "id": "12851491",
-    "timestamp": "Nov 2, 2016 2:59:41 AM",
-    "topic": "Facebook officially announces Gameroom, its PC Steam competitor",
-    "url": "https://techcrunch.com/2016/11/01/facebook-gameroom/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 1:57:16 AM"
   }
 ];
