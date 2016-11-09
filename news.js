@@ -40,6 +40,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 11:56:12 PM"
   },
   {
+    "id": "12904561",
+    "timestamp": "Nov 9, 2016 1:25:39 AM",
+    "topic": "Impossible Spaceship Engine “EmDrive” Actually Works, Leaked NASA Report Reveals",
+    "url": "http://www.thedrive.com/news/5904/impossible-spaceship-engine-called-emdrive-actually-works-leaked-nasa-report-reveals",
+    "votes": 10,
+    "posted": "Nov 8, 2016 11:34:21 PM"
+  },
+  {
     "id": "12904437",
     "timestamp": "Nov 8, 2016 11:15:28 PM",
     "topic": "Be the First Product Designer at Close.io",
@@ -7124,43 +7132,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/01/facebook-gameroom/",
     "votes": 4,
     "posted": "Nov 2, 2016 1:57:16 AM"
-  },
-  {
-    "id": "12851386",
-    "timestamp": "Nov 2, 2016 6:29:58 AM",
-    "topic": "Ask HN: Anyone doing Small scale manufacturing",
-    "votes": 4,
-    "posted": "Nov 2, 2016 1:34:12 AM"
-  },
-  {
-    "id": "12851387",
-    "timestamp": "Nov 2, 2016 6:50:00 AM",
-    "topic": "Admiral to price car insurance based on Facebook posts",
-    "url": "https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts",
-    "votes": 4,
-    "posted": "Nov 2, 2016 1:34:12 AM"
-  },
-  {
-    "id": "12851338",
-    "timestamp": "Nov 2, 2016 6:10:59 PM",
-    "topic": "\u0027How Much Suffering Can You Take?\u0027",
-    "url": "http://www.nytimes.com/2016/11/06/sports/virginia-quintuple-anvil-triathlon.html",
-    "votes": 6,
-    "posted": "Nov 2, 2016 1:21:56 AM"
-  },
-  {
-    "id": "12851307",
-    "timestamp": "Nov 2, 2016 2:49:40 AM",
-    "topic": "Putin wants to push Microsoft out of Russia",
-    "url": "http://www.nbcnews.com/news/us-news/putin-wants-push-microsoft-out-russia-battle-us-n674781",
-    "votes": 5,
-    "posted": "Nov 2, 2016 1:15:46 AM"
-  },
-  {
-    "id": "12851232",
-    "timestamp": "Nov 2, 2016 3:50:46 PM",
-    "topic": "Ask HN: Where can I find a simple (open source) Rogue-like to modify?",
-    "votes": 8,
-    "posted": "Nov 2, 2016 12:58:51 AM"
   }
 ];
