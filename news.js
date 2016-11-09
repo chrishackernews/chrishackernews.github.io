@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12909598",
+    "timestamp": "Nov 9, 2016 1:36:41 PM",
+    "topic": "Pros and cons of iOS and Android mobile app development",
+    "url": "http://www.slideshare.net/WhallaLabs/mobile-application-development-ios-vs-android",
+    "votes": 3,
+    "posted": "Nov 9, 2016 1:13:43 PM"
+  },
+  {
+    "id": "12909276",
+    "timestamp": "Nov 9, 2016 1:36:41 PM",
+    "topic": "How the Internet tricked you into thinking Trump wouldn\u0027t win",
+    "url": "http://thenextweb.com/politics/2016/11/09/internet-tricked-thinking-trump-wouldnt-win/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 12:19:34 PM"
+  },
+  {
     "id": "12909031",
     "timestamp": "Nov 9, 2016 11:56:33 AM",
     "topic": "Donald Trump would have lost if Bernie Sanders had been the candidate",
@@ -7273,53 +7289,5 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1611.00020",
     "votes": 3,
     "posted": "Nov 2, 2016 2:02:25 PM"
-  },
-  {
-    "id": "12854128",
-    "timestamp": "Nov 2, 2016 2:40:39 PM",
-    "topic": "Microsoft Says Russian Hackers Exploited Flaw in Windows",
-    "url": "http://www.wsj.com/articles/microsoft-says-russian-hackers-exploited-flaw-in-windows-1478039377",
-    "votes": 3,
-    "posted": "Nov 2, 2016 1:50:58 PM"
-  },
-  {
-    "id": "12853990",
-    "timestamp": "Nov 3, 2016 2:21:51 AM",
-    "topic": "Using Haskell to Find Unused Spring MVC Code",
-    "url": "https://tech.small-improvements.com/2016/11/01/using-haskell-to-find-unused-spring-mvc-code/",
-    "votes": 8,
-    "posted": "Nov 2, 2016 1:31:12 PM"
-  },
-  {
-    "id": "12853939",
-    "timestamp": "Nov 2, 2016 3:20:43 PM",
-    "topic": "Still Don\u0027t Get #Blockchain?  an Explanation for Five-Year- Old",
-    "url": "http://blockgeeks.com/guides/what-is-blockchain-technology-a-step-by-step-guide-than-anyone-can-understand/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 1:22:02 PM"
-  },
-  {
-    "id": "12853921",
-    "timestamp": "Nov 2, 2016 8:41:15 PM",
-    "topic": "CloudFlare issues wildcard SSL certs for domains without owners consent",
-    "url": "https://groups.google.com/forum/m/#!topic/certificate-transparency/1tAcVS17wMM",
-    "votes": 4,
-    "posted": "Nov 2, 2016 1:19:53 PM"
-  },
-  {
-    "id": "12853909",
-    "timestamp": "Nov 2, 2016 1:40:33 PM",
-    "topic": "In Greece, Property Is Debt",
-    "url": "http://mobile.nytimes.com/2016/11/02/opinion/in-greece-property-is-debt.html?em_pos\u003dsmall\u0026emc\u003dedit_dk_20161102\u0026nl\u003ddealbook\u0026nl_art\u003d17\u0026nlid\u003d65508833\u0026ref\u003dheadline\u0026te\u003d1\u0026referer\u003d",
-    "votes": 3,
-    "posted": "Nov 2, 2016 1:17:22 PM"
-  },
-  {
-    "id": "12853846",
-    "timestamp": "Nov 5, 2016 12:46:05 AM",
-    "topic": "Show HN: A better way to organize rails apps so that not everything is silo\u0027d",
-    "url": "https://github.com/NullVoxPopuli/rails_module_unification",
-    "votes": 5,
-    "posted": "Nov 2, 2016 1:06:23 PM"
   }
 ];
