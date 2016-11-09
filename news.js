@@ -1,5 +1,68 @@
 var newsArray = [
   {
+    "id": "12906342",
+    "timestamp": "Nov 9, 2016 6:36:04 AM",
+    "topic": "Canadian immigration site crash",
+    "url": "http://www.businessinsider.com/canadian-immigration-site-crash-election-2016-11",
+    "votes": 6,
+    "posted": "Nov 9, 2016 6:28:15 AM"
+  },
+  {
+    "id": "12906339",
+    "timestamp": "Nov 9, 2016 6:56:06 AM",
+    "topic": "Yudkowsky: Trump elected due to misguided optimism",
+    "url": "https://www.facebook.com/yudkowsky/posts/10154746398729228",
+    "votes": 4,
+    "posted": "Nov 9, 2016 6:27:52 AM"
+  },
+  {
+    "id": "12906308",
+    "timestamp": "Nov 9, 2016 6:26:03 AM",
+    "topic": "Sr. Angular Developer at Upcall in SF (YC F3)",
+    "url": "http://upcall.applytojob.com/apply/s3I9tL/Sr-Frontend-Angular2-Developer",
+    "votes": 1,
+    "posted": "Nov 9, 2016 6:23:08 AM"
+  },
+  {
+    "id": "12906305",
+    "timestamp": "Nov 9, 2016 6:36:04 AM",
+    "topic": "5 Reasons Why Trump Will Win",
+    "url": "http://michaelmoore.com/trumpwillwin/",
+    "votes": 6,
+    "posted": "Nov 9, 2016 6:22:47 AM"
+  },
+  {
+    "id": "12906284",
+    "timestamp": "Nov 9, 2016 6:46:05 AM",
+    "topic": "Ask HN: How do the news networks get the election data?",
+    "votes": 9,
+    "posted": "Nov 9, 2016 6:17:37 AM"
+  },
+  {
+    "id": "12906232",
+    "timestamp": "Nov 9, 2016 6:36:04 AM",
+    "topic": "Canada\u0027s immigration website crashes on election night",
+    "url": "http://www.ctvnews.ca/canada/canada-s-immigration-website-crashes-on-election-night-1.3152231?hootPostID\u003d14d10ea891a36bd74ea02d19ec7cf954",
+    "votes": 38,
+    "posted": "Nov 9, 2016 6:07:50 AM"
+  },
+  {
+    "id": "12906129",
+    "timestamp": "Nov 9, 2016 6:36:04 AM",
+    "topic": "Nginx.conf 2016: Keynote with Gus Robertson and Igor Sysoev",
+    "url": "https://www.nginx.com/blog/gus-robertson-keynote-with-igor-sysoev-nginx-conf-2016/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 5:50:58 AM"
+  },
+  {
+    "id": "12906119",
+    "timestamp": "Nov 9, 2016 6:26:03 AM",
+    "topic": "Elm is Wrong",
+    "url": "http://reasonablypolymorphic.com/blog/elm-is-wrong",
+    "votes": 14,
+    "posted": "Nov 9, 2016 5:49:05 AM"
+  },
+  {
     "id": "12906081",
     "timestamp": "Nov 9, 2016 5:45:59 AM",
     "topic": "California just legalized recreational marijuana",
@@ -22,6 +85,13 @@ var newsArray = [
     "url": "http://paulgraham.com/charisma.html",
     "votes": 7,
     "posted": "Nov 9, 2016 5:27:14 AM"
+  },
+  {
+    "id": "12906019",
+    "timestamp": "Nov 9, 2016 6:26:03 AM",
+    "topic": "Ask HN: Any good resources for finding software jobs abroad?",
+    "votes": 5,
+    "posted": "Nov 9, 2016 5:23:18 AM"
   },
   {
     "id": "12905991",
@@ -54,6 +124,14 @@ var newsArray = [
     "url": "http://www.bahmni.org/",
     "votes": 3,
     "posted": "Nov 9, 2016 4:51:43 AM"
+  },
+  {
+    "id": "12905883",
+    "timestamp": "Nov 9, 2016 6:16:02 AM",
+    "topic": "Scroll with your mouse on a remote mosh tmux session",
+    "url": "https://blog.filippo.io/my-remote-shell-session-setup/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 4:37:12 AM"
   },
   {
     "id": "12905795",
@@ -451,6 +529,14 @@ var newsArray = [
     "url": "https://www.quantamagazine.org/20161108-why-nate-silver-and-sam-wang-are-wrong/",
     "votes": 14,
     "posted": "Nov 8, 2016 5:10:41 PM"
+  },
+  {
+    "id": "12901361",
+    "timestamp": "Nov 9, 2016 6:26:03 AM",
+    "topic": "Show HN: A real-time heat-map of #Election2016 tweets",
+    "url": "http://dracula.sentimentron.co.uk/election-2016/",
+    "votes": 4,
+    "posted": "Nov 8, 2016 5:10:31 PM"
   },
   {
     "id": "12901355",
@@ -7104,37 +7190,5 @@ var newsArray = [
     "url": "https://go.wepay.com/careers",
     "votes": 1,
     "posted": "Nov 2, 2016 6:59:50 AM"
-  },
-  {
-    "id": "12852453",
-    "timestamp": "Nov 2, 2016 10:10:16 AM",
-    "topic": "Using Microservices to Encode and Publish Videos at The New York Times",
-    "url": "http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/?_r\u003d0\u0026pagewanted\u003dall",
-    "votes": 4,
-    "posted": "Nov 2, 2016 6:22:15 AM"
-  },
-  {
-    "id": "12852435",
-    "timestamp": "Nov 4, 2016 5:25:20 PM",
-    "topic": "Pratt Parsing and Precedence Climbing Are the Same Algorithm",
-    "url": "http://www.oilshell.org/blog/2016/11/01.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 6:17:51 AM"
-  },
-  {
-    "id": "12852379",
-    "timestamp": "Nov 2, 2016 6:19:57 AM",
-    "topic": "Pokemon Go Gets a Huge Revenue Boost",
-    "url": "http://www.geek.com/games/pokemon-go-gets-a-huge-revenue-boost-thanks-to-halloween-event-1677654/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 6:03:31 AM"
-  },
-  {
-    "id": "12852372",
-    "timestamp": "Nov 2, 2016 6:50:00 AM",
-    "topic": "Build a Phased-Array Radar in Your Garage That Sees Through Walls",
-    "url": "http://hackaday.com/2015/04/07/build-a-phased-array-radar-in-your-garage-that-sees-through-walls/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 6:00:36 AM"
   }
 ];
