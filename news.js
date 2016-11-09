@@ -1,5 +1,67 @@
 var newsArray = [
   {
+    "id": "12906809",
+    "timestamp": "Nov 9, 2016 7:56:11 AM",
+    "topic": "Snowden Live will start November 10th around 22:30 CET / 4:30 PM Eastern",
+    "url": "https://www.startpage.com/snowden/",
+    "votes": 14,
+    "posted": "Nov 9, 2016 7:45:30 AM"
+  },
+  {
+    "id": "12906783",
+    "timestamp": "Nov 9, 2016 7:56:11 AM",
+    "topic": "The smug style in American liberalism",
+    "url": "http://www.vox.com/2016/4/21/11451378/smug-american-liberalism",
+    "votes": 11,
+    "posted": "Nov 9, 2016 7:41:30 AM"
+  },
+  {
+    "id": "12906691",
+    "timestamp": "Nov 9, 2016 7:56:11 AM",
+    "topic": "Maple Match",
+    "url": "http://www.maplematch.com/",
+    "votes": 14,
+    "posted": "Nov 9, 2016 7:24:01 AM"
+  },
+  {
+    "id": "12906631",
+    "timestamp": "Nov 9, 2016 7:56:11 AM",
+    "topic": "Brexit, Trump and the Ultimatum Game",
+    "url": "https://medium.com/@jamesallworth/brexit-trump-and-the-ultimatum-game-2237e17de71c#.704pmhv24",
+    "votes": 3,
+    "posted": "Nov 9, 2016 7:11:33 AM"
+  },
+  {
+    "id": "12906627",
+    "timestamp": "Nov 9, 2016 7:36:09 AM",
+    "topic": "Ask HN: If Trump wins. How could it impact the tech industry?",
+    "votes": 7,
+    "posted": "Nov 9, 2016 7:10:52 AM"
+  },
+  {
+    "id": "12906617",
+    "timestamp": "Nov 9, 2016 7:36:09 AM",
+    "topic": "Ask HN: Trump is winning. Is US media to blame?",
+    "votes": 3,
+    "posted": "Nov 9, 2016 7:09:02 AM"
+  },
+  {
+    "id": "12906471",
+    "timestamp": "Nov 9, 2016 7:16:07 AM",
+    "topic": "Idiocracy (2006)",
+    "url": "https://en.wikipedia.org/wiki/Idiocracy",
+    "votes": 6,
+    "posted": "Nov 9, 2016 6:46:52 AM"
+  },
+  {
+    "id": "12906466",
+    "timestamp": "Nov 9, 2016 7:56:11 AM",
+    "topic": "The Intellectual yet Idiot",
+    "url": "https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.8lg4jek8v",
+    "votes": 4,
+    "posted": "Nov 9, 2016 6:46:22 AM"
+  },
+  {
     "id": "12906342",
     "timestamp": "Nov 9, 2016 6:36:04 AM",
     "topic": "Canadian immigration site crash",
@@ -7175,20 +7237,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/02/science/south-pacific-islands-migration.html",
     "votes": 5,
     "posted": "Nov 2, 2016 8:42:11 AM"
-  },
-  {
-    "id": "12852687",
-    "timestamp": "Nov 2, 2016 11:00:20 AM",
-    "topic": "Ask HN: How to become a vegan?",
-    "votes": 5,
-    "posted": "Nov 2, 2016 7:21:03 AM"
-  },
-  {
-    "id": "12852620",
-    "timestamp": "Nov 2, 2016 7:10:02 AM",
-    "topic": "WePay is hiring software engineers and SREs",
-    "url": "https://go.wepay.com/careers",
-    "votes": 1,
-    "posted": "Nov 2, 2016 6:59:50 AM"
   }
 ];
