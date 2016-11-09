@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12914828",
+    "timestamp": "Nov 9, 2016 10:37:34 PM",
+    "topic": "Trump Picks Top Climate Skeptic to Lead EPA Transition",
+    "url": "https://www.scientificamerican.com/article/trump-picks-top-climate-skeptic-to-lead-epa-transition/",
+    "votes": 8,
+    "posted": "Nov 9, 2016 10:26:22 PM"
+  },
+  {
+    "id": "12914510",
+    "timestamp": "Nov 9, 2016 10:17:32 PM",
+    "topic": "Show HN: Personal Storage System with a PI",
+    "url": "https://github.com/timgrossmann/StorageSystem",
+    "votes": 3,
+    "posted": "Nov 9, 2016 9:52:26 PM"
+  },
+  {
     "id": "12914495",
     "timestamp": "Nov 9, 2016 9:57:30 PM",
     "topic": "Trie (Prefix tree) algorithm simply explained",
     "url": "https://medium.com/algorithms/trie-prefix-tree-algorithm-ee7ab3fe3413#.ydm9bvqbh",
     "votes": 3,
     "posted": "Nov 9, 2016 9:50:56 PM"
+  },
+  {
+    "id": "12914285",
+    "timestamp": "Nov 9, 2016 10:27:33 PM",
+    "topic": "Donald Trump’s Contract with the American Voter [pdf]",
+    "url": "https://assets.donaldjtrump.com/_landings/contract/O-TRU-102316-Contractv02.pdf",
+    "votes": 3,
+    "posted": "Nov 9, 2016 9:27:34 PM"
+  },
+  {
+    "id": "12914279",
+    "timestamp": "Nov 9, 2016 10:37:34 PM",
+    "topic": "Elm from a Business Perspective",
+    "url": "http://www.gizra.com/content/elm-business-perspective/",
+    "votes": 6,
+    "posted": "Nov 9, 2016 9:26:43 PM"
   },
   {
     "id": "12914201",
@@ -38,6 +70,14 @@ var newsArray = [
     "url": "https://community.spotify.com/t5/Desktop-Linux-Windows-Web-Player/Spotify-excessively-writing-to-drive-in-my-case-an-SSD/td-p/1365378/highlight/true",
     "votes": 7,
     "posted": "Nov 9, 2016 9:14:09 PM"
+  },
+  {
+    "id": "12914163",
+    "timestamp": "Nov 9, 2016 10:07:31 PM",
+    "topic": "Trump transition team picks regulation foe as telecom point man",
+    "url": "http://www.politico.com/story/2016/10/trump-transition-team-jeffrey-eisenach-229276",
+    "votes": 4,
+    "posted": "Nov 9, 2016 9:11:53 PM"
   },
   {
     "id": "12913698",
@@ -7034,37 +7074,5 @@ var newsArray = [
     "url": "http://image-src.bcg.com/BCG_COM/BCG-Google%20Digital%20Payments%202020-July%202016_tcm21-39245.pdf",
     "votes": 5,
     "posted": "Nov 2, 2016 11:03:52 PM"
-  },
-  {
-    "id": "12859726",
-    "timestamp": "Nov 3, 2016 2:21:51 AM",
-    "topic": "Piper Disney Pixar 1080p [video]",
-    "url": "https://vimeo.com/189901272",
-    "votes": 4,
-    "posted": "Nov 2, 2016 10:56:13 PM"
-  },
-  {
-    "id": "12859436",
-    "timestamp": "Nov 2, 2016 11:51:38 PM",
-    "topic": "Nest\u0027s economics don\u0027t work. Why IoT devices should be sold as services",
-    "url": "https://medium.com/@dconrad/why-iot-devices-should-be-sold-as-services-f73951871006",
-    "votes": 3,
-    "posted": "Nov 2, 2016 10:25:07 PM"
-  },
-  {
-    "id": "12859351",
-    "timestamp": "Nov 2, 2016 10:51:32 PM",
-    "topic": "Things I Wish I\u0027d Known At 20",
-    "url": "http://www.teejayvanslyke.com/2016/11/02/what-i-wish-id-known-at-20/",
-    "votes": 5,
-    "posted": "Nov 2, 2016 10:14:59 PM"
-  },
-  {
-    "id": "12859347",
-    "timestamp": "Nov 2, 2016 10:31:29 PM",
-    "topic": "Visual Studio Code October Update – 1.7",
-    "url": "https://code.visualstudio.com/updates/v1_7",
-    "votes": 20,
-    "posted": "Nov 2, 2016 10:14:46 PM"
   }
 ];
