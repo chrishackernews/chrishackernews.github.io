@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12912366",
+    "timestamp": "Nov 9, 2016 6:57:12 PM",
+    "topic": "Donald Trump is moving to the White House, and liberals put him there",
+    "url": "https://www.theguardian.com/commentisfree/2016/nov/09/donald-trump-white-house-hillary-clinton-liberals",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:29:48 PM"
+  },
+  {
+    "id": "12911985",
+    "timestamp": "Nov 9, 2016 6:47:11 PM",
+    "topic": "Scott Adams Answers Your Questions About Predicting President",
+    "url": "http://blog.dilbert.com/post/152955248046/i-answer-your-questions-about-predicting-president",
+    "votes": 10,
+    "posted": "Nov 9, 2016 6:01:43 PM"
+  },
+  {
+    "id": "12911847",
+    "timestamp": "Nov 9, 2016 6:07:07 PM",
+    "topic": "New MacBook Pro outsold every competing laptop in just five days",
+    "url": "https://9to5mac.com/2016/11/09/2016-macbook-pro-sales/",
+    "votes": 16,
+    "posted": "Nov 9, 2016 5:51:07 PM"
+  },
+  {
     "id": "12911814",
     "timestamp": "Nov 9, 2016 5:57:06 PM",
     "topic": "Judge rejects Airbnb bid to halt San Francisco ordinance",
@@ -22,6 +46,14 @@ var newsArray = [
     "url": "https://www.bloomberg.com/view/articles/2016-11-09/brambles-partners-and-options",
     "votes": 3,
     "posted": "Nov 9, 2016 5:13:33 PM"
+  },
+  {
+    "id": "12911259",
+    "timestamp": "Nov 9, 2016 6:07:07 PM",
+    "topic": "New MacBook Pro sales are surging",
+    "url": "http://www.zdnet.com/article/new-macbook-pro-sales-are-surging/",
+    "votes": 6,
+    "posted": "Nov 9, 2016 5:09:41 PM"
   },
   {
     "id": "12911205",
@@ -62,6 +94,14 @@ var newsArray = [
     "url": "http://www.slate.com/articles/news_and_politics/politics/2016/11/the_democratic_party_establishment_is_finished_after_trump.html",
     "votes": 4,
     "posted": "Nov 9, 2016 4:25:38 PM"
+  },
+  {
+    "id": "12910820",
+    "timestamp": "Nov 9, 2016 6:07:07 PM",
+    "topic": "I\u0027m Scared – Opinion piece from a Muslim MIT student on the 2016 election",
+    "url": "https://medium.com/@moinnadeem/our-2016-election-a1274f808b17#.ts4eirwwg",
+    "votes": 5,
+    "posted": "Nov 9, 2016 4:17:39 PM"
   },
   {
     "id": "12910481",
@@ -119,6 +159,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 2:02:20 PM"
   },
   {
+    "id": "12909903",
+    "timestamp": "Nov 9, 2016 6:37:10 PM",
+    "topic": "The USC/L.A. Times poll saw what other surveys missed: A wave of Trump support",
+    "url": "http://www.latimes.com/politics/la-na-pol-usc-latimes-poll-20161108-story.html",
+    "votes": 2,
+    "posted": "Nov 9, 2016 2:01:41 PM"
+  },
+  {
     "id": "12909823",
     "timestamp": "Nov 9, 2016 2:06:44 PM",
     "topic": "A Coalition of All Democratic Forces, Part III: What If Trumps Wins",
@@ -141,6 +189,14 @@ var newsArray = [
     "url": "http://www.slideshare.net/WhallaLabs/mobile-application-development-ios-vs-android",
     "votes": 3,
     "posted": "Nov 9, 2016 1:13:43 PM"
+  },
+  {
+    "id": "12909585",
+    "timestamp": "Nov 9, 2016 6:27:09 PM",
+    "topic": "An American Tragedy",
+    "url": "http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump",
+    "votes": 5,
+    "posted": "Nov 9, 2016 1:11:34 PM"
   },
   {
     "id": "12909519",
@@ -227,6 +283,14 @@ var newsArray = [
     "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
     "votes": 1,
     "posted": "Nov 9, 2016 10:27:50 AM"
+  },
+  {
+    "id": "12908488",
+    "timestamp": "Nov 9, 2016 6:17:08 PM",
+    "topic": "React component to PNG converter",
+    "url": "https://github.com/jxnblk/repng",
+    "votes": 3,
+    "posted": "Nov 9, 2016 10:27:05 AM"
   },
   {
     "id": "12907349",
@@ -7065,85 +7129,5 @@ var newsArray = [
     "url": "http://inconvergent.net/shepherding-random-numbers/",
     "votes": 3,
     "posted": "Nov 2, 2016 7:00:14 PM"
-  },
-  {
-    "id": "12857460",
-    "timestamp": "Nov 2, 2016 7:11:05 PM",
-    "topic": "Mobile is now the dominant source of worldwide internet usage",
-    "url": "http://gs.statcounter.com/press/mobile-and-tablet-internet-usage-exceeds-desktop-for-first-time-worldwide",
-    "votes": 3,
-    "posted": "Nov 2, 2016 6:51:58 PM"
-  },
-  {
-    "id": "12857404",
-    "timestamp": "Nov 2, 2016 8:41:15 PM",
-    "topic": "How the Internet Is Loosening Our Grip on the Truth",
-    "url": "http://www.nytimes.com/2016/11/03/technology/how-the-internet-is-loosening-our-grip-on-the-truth.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 6:45:44 PM"
-  },
-  {
-    "id": "12857393",
-    "timestamp": "Nov 2, 2016 7:01:04 PM",
-    "topic": "I tried to buy a satellite and all I got was this lousy $67,000",
-    "url": "http://www.theregister.co.uk/2013/01/02/buythissatellite_project_what_happened_next/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 6:44:04 PM"
-  },
-  {
-    "id": "12857278",
-    "timestamp": "Nov 2, 2016 10:41:30 PM",
-    "topic": "A Hard Peace",
-    "url": "https://nickdenton.org/a-hard-peace-e161e19bfaf",
-    "votes": 3,
-    "posted": "Nov 2, 2016 6:32:48 PM"
-  },
-  {
-    "id": "12857258",
-    "timestamp": "Nov 2, 2016 7:11:05 PM",
-    "topic": "The NSA Chief Has a Phone for Top-Secret Messaging.  How It Works",
-    "url": "http://www.defenseone.com/technology/2016/11/nsa-chief-has-phone-top-secret-messaging-heres-how-it-works/132845/",
-    "votes": 5,
-    "posted": "Nov 2, 2016 6:31:16 PM"
-  },
-  {
-    "id": "12857195",
-    "timestamp": "Nov 2, 2016 7:11:05 PM",
-    "topic": "“Dear Microsoft” – Your Friends at Slack",
-    "url": "https://slackhq.com/dear-microsoft-8d20965d2849#.abb8mff6k",
-    "votes": 6,
-    "posted": "Nov 2, 2016 6:25:21 PM"
-  },
-  {
-    "id": "12857140",
-    "timestamp": "Nov 2, 2016 8:41:15 PM",
-    "topic": "A New Spin on the Quantum Brain",
-    "url": "https://www.quantamagazine.org/20161102-quantum-neuroscience/",
-    "votes": 5,
-    "posted": "Nov 2, 2016 6:21:14 PM"
-  },
-  {
-    "id": "12857107",
-    "timestamp": "Nov 2, 2016 7:11:06 PM",
-    "topic": "Why do millennials hate groceries?",
-    "url": "http://www.theatlantic.com/business/archive/2016/11/millennials-groceries/506180/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 2, 2016 6:18:39 PM"
-  },
-  {
-    "id": "12856968",
-    "timestamp": "Nov 2, 2016 7:31:08 PM",
-    "topic": "Introducing TJSON, a stricter, typed form of JSON",
-    "url": "https://tonyarcieri.com/introducing-tjson-a-stricter-typed-form-of-json",
-    "votes": 4,
-    "posted": "Nov 2, 2016 6:06:42 PM"
-  },
-  {
-    "id": "12856925",
-    "timestamp": "Nov 2, 2016 6:31:00 PM",
-    "topic": "Physicist honored for finding new symmetry in space and time",
-    "url": "http://phys.org/news/2016-11-physicist-honored-symmetry-space.html",
-    "votes": 4,
-    "posted": "Nov 2, 2016 6:03:06 PM"
   }
 ];
