@@ -39,6 +39,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 10:54:45 AM"
   },
   {
+    "id": "12908636",
+    "timestamp": "Nov 9, 2016 12:16:35 PM",
+    "topic": "Docker Container Anti Patterns",
+    "url": "http://blog.arungupta.me/docker-container-anti-patterns",
+    "votes": 5,
+    "posted": "Nov 9, 2016 10:44:06 AM"
+  },
+  {
     "id": "12908599",
     "timestamp": "Nov 9, 2016 11:16:29 AM",
     "topic": "FSF: “DRM Is Used to Lock In, Control and Spy on Users”",
@@ -232,6 +240,14 @@ var newsArray = [
     "url": "https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.8lg4jek8v",
     "votes": 4,
     "posted": "Nov 9, 2016 6:46:22 AM"
+  },
+  {
+    "id": "12906390",
+    "timestamp": "Nov 9, 2016 12:36:37 PM",
+    "topic": "The Intellectual yet Idiot",
+    "url": "https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.g7zcs1omq",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:35:52 AM"
   },
   {
     "id": "12906342",
@@ -7305,37 +7321,5 @@ var newsArray = [
     "url": "https://github.com/NullVoxPopuli/rails_module_unification",
     "votes": 5,
     "posted": "Nov 2, 2016 1:06:23 PM"
-  },
-  {
-    "id": "12853706",
-    "timestamp": "Nov 2, 2016 3:00:41 PM",
-    "topic": "Ways to Cultivate Gratitude at Work",
-    "url": "http://greatergood.berkeley.edu/article/item/five_ways_to_cultivate_gratitude_at_work",
-    "votes": 4,
-    "posted": "Nov 2, 2016 12:33:30 PM"
-  },
-  {
-    "id": "12853645",
-    "timestamp": "Nov 2, 2016 1:20:31 PM",
-    "topic": "Hey Bloomberg, Which Millennial Hurt You?",
-    "url": "http://gizmodo.com/hey-bloomberg-which-millennial-hurt-you-1788469056",
-    "votes": 5,
-    "posted": "Nov 2, 2016 12:22:03 PM"
-  },
-  {
-    "id": "12853639",
-    "timestamp": "Nov 2, 2016 12:50:29 PM",
-    "topic": "Tesla Model 3 will feature new type of glass developed in-house",
-    "url": "https://electrek.co/2016/11/01/tesla-model-3-new-glass-in-house-elon-musk-tesla-glass-tech-group/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 12:21:07 PM"
-  },
-  {
-    "id": "12853611",
-    "timestamp": "Nov 2, 2016 1:00:30 PM",
-    "topic": "Cloth or Something",
-    "url": "https://www.bleachbit.org/cloth-or-something",
-    "votes": 6,
-    "posted": "Nov 2, 2016 12:15:23 PM"
   }
 ];
