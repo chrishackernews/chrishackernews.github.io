@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12908497",
+    "timestamp": "Nov 9, 2016 10:36:25 AM",
+    "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
+    "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
+    "votes": 1,
+    "posted": "Nov 9, 2016 10:27:50 AM"
+  },
+  {
     "id": "12907349",
     "timestamp": "Nov 9, 2016 8:56:18 AM",
     "topic": "FoxNews announces Trump new president of the United States",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "http://www.cnn.com/2016/11/08/politics/election-day-2016-highlights/index.html",
     "votes": 4,
     "posted": "Nov 9, 2016 8:43:25 AM"
+  },
+  {
+    "id": "12907252",
+    "timestamp": "Nov 9, 2016 10:06:23 AM",
+    "topic": "Developer-driven development",
+    "url": "https://dev.to/isaacandsuch/developer-driven-development/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 8:41:17 AM"
   },
   {
     "id": "12907201",
@@ -177,6 +193,14 @@ var newsArray = [
     "url": "https://www.facebook.com/yudkowsky/posts/10154746398729228",
     "votes": 4,
     "posted": "Nov 9, 2016 6:27:52 AM"
+  },
+  {
+    "id": "12906336",
+    "timestamp": "Nov 9, 2016 10:46:27 AM",
+    "topic": "Native virtualization for macOS",
+    "url": "https://veertu.com",
+    "votes": 9,
+    "posted": "Nov 9, 2016 6:27:36 AM"
   },
   {
     "id": "12906308",
@@ -7290,53 +7314,5 @@ var newsArray = [
     "url": "http://www.newyorker.com/magazine/2016/11/07/why-c-e-o-s-are-getting-fired-more",
     "votes": 5,
     "posted": "Nov 2, 2016 10:58:14 AM"
-  },
-  {
-    "id": "12853281",
-    "timestamp": "Nov 2, 2016 2:30:38 PM",
-    "topic": "The Polls of the Future Are Reproducible and Open Source",
-    "url": "http://www.slate.com/articles/technology/future_tense/2016/11/the_polls_of_the_future_will_be_reproducible_and_open_source.html",
-    "votes": 4,
-    "posted": "Nov 2, 2016 10:49:51 AM"
-  },
-  {
-    "id": "12853248",
-    "timestamp": "Nov 2, 2016 11:20:22 AM",
-    "topic": "Signal and GIPHY",
-    "url": "https://whispersystems.org/blog/giphy-experiment/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 10:39:58 AM"
-  },
-  {
-    "id": "12853222",
-    "timestamp": "Nov 2, 2016 11:40:24 AM",
-    "topic": "Why terrorism doesn\u0027t work. [2002, pdf]",
-    "url": "http://www.agner.org/cultsel/terror.pdf",
-    "votes": 7,
-    "posted": "Nov 2, 2016 10:29:02 AM"
-  },
-  {
-    "id": "12853219",
-    "timestamp": "Nov 2, 2016 11:20:22 AM",
-    "topic": "Why it’s healthy that Microsoft and Google are eating Apple’s lunch",
-    "url": "https://cpbotha.net/2016/11/02/why-its-healthy-that-microsoft-and-google-are-eating-apples-lunch/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 10:28:34 AM"
-  },
-  {
-    "id": "12853211",
-    "timestamp": "Nov 2, 2016 11:10:21 AM",
-    "topic": "We continue checking Microsoft open source projects: analysis of PowerShell",
-    "url": "http://www.viva64.com/en/b/0447/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 10:25:51 AM"
-  },
-  {
-    "id": "12853137",
-    "timestamp": "Nov 2, 2016 10:20:17 AM",
-    "topic": "Curl 7.51.0 released, fixing 11 vulnerabilities",
-    "url": "https://curl.haxx.se/changes.html#7_51_0",
-    "votes": 13,
-    "posted": "Nov 2, 2016 10:01:10 AM"
   }
 ];
