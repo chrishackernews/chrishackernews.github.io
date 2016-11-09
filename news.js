@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "12911814",
+    "timestamp": "Nov 9, 2016 5:57:06 PM",
+    "topic": "Judge rejects Airbnb bid to halt San Francisco ordinance",
+    "url": "http://www.reuters.com/article/airbnb-sanfrancisco-ruling-idUSL1N1D923N?em_pos\u003dsmall\u0026ref\u003dheadline\u0026nl_art\u003d16",
+    "votes": 9,
+    "posted": "Nov 9, 2016 5:49:04 PM"
+  },
+  {
+    "id": "12911310",
+    "timestamp": "Nov 9, 2016 5:27:04 PM",
+    "topic": "After protest, Lenovo adds Linux compatibility to Yoga 900 and 900S laptops",
+    "url": "http://www.pcworld.com/article/3139812/laptop-computers/after-protest-lenovo-brings-linux-compatibility-to-yoga-900-and-900s.html",
+    "votes": 6,
+    "posted": "Nov 9, 2016 5:14:16 PM"
+  },
+  {
+    "id": "12911302",
+    "timestamp": "Nov 9, 2016 5:37:05 PM",
+    "topic": "Brambles, Partners and Options",
+    "url": "https://www.bloomberg.com/view/articles/2016-11-09/brambles-partners-and-options",
+    "votes": 3,
+    "posted": "Nov 9, 2016 5:13:33 PM"
+  },
+  {
+    "id": "12911205",
+    "timestamp": "Nov 9, 2016 5:27:04 PM",
+    "topic": "Democrats, Trump and the Ongoing, Dangerous Refusal to Learn the Lesson of Brexit",
+    "url": "https://theintercept.com/2016/11/09/democrats-trump-and-the-ongoing-dangerous-refusal-to-learn-the-lesson-of-brexit/",
+    "votes": 4,
+    "posted": "Nov 9, 2016 5:04:12 PM"
+  },
+  {
+    "id": "12911192",
+    "timestamp": "Nov 9, 2016 5:27:03 PM",
+    "topic": "Introducing the Nextcloud Box",
+    "url": "https://nextcloud.com/box/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 5:02:25 PM"
+  },
+  {
+    "id": "12911173",
+    "timestamp": "Nov 9, 2016 5:27:03 PM",
+    "topic": "Show HN: Mest – Place to talk with those you disagree with",
+    "url": "http://mest.io",
+    "votes": 8,
+    "posted": "Nov 9, 2016 5:01:28 PM"
+  },
+  {
     "id": "12910917",
     "timestamp": "Nov 9, 2016 4:57:00 PM",
     "topic": "It\u0027s Going to Be Okay",
     "url": "http://waitbutwhy.com/2016/11/its-going-to-be-okay.html",
     "votes": 6,
     "posted": "Nov 9, 2016 4:35:24 PM"
+  },
+  {
+    "id": "12910863",
+    "timestamp": "Nov 9, 2016 5:17:02 PM",
+    "topic": "The Democratic Party Establishment Is Finished",
+    "url": "http://www.slate.com/articles/news_and_politics/politics/2016/11/the_democratic_party_establishment_is_finished_after_trump.html",
+    "votes": 4,
+    "posted": "Nov 9, 2016 4:25:38 PM"
+  },
+  {
+    "id": "12910481",
+    "timestamp": "Nov 9, 2016 5:27:04 PM",
+    "topic": "Putin says Russia ready to fully restore ties with U.S",
+    "url": "http://www.reuters.com/article/usa-election-russia-putin-idUSR4N1D800D?c?",
+    "votes": 4,
+    "posted": "Nov 9, 2016 3:26:16 PM"
   },
   {
     "id": "12910384",
@@ -7081,85 +7145,5 @@ var newsArray = [
     "url": "http://phys.org/news/2016-11-physicist-honored-symmetry-space.html",
     "votes": 4,
     "posted": "Nov 2, 2016 6:03:06 PM"
-  },
-  {
-    "id": "12856806",
-    "timestamp": "Nov 2, 2016 6:51:03 PM",
-    "topic": "A Study Plan to Cure JavaScript Fatigue",
-    "url": "https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.vdxbscqxk",
-    "votes": 4,
-    "posted": "Nov 2, 2016 5:53:23 PM"
-  },
-  {
-    "id": "12856740",
-    "timestamp": "Nov 2, 2016 7:11:05 PM",
-    "topic": "Show HN: Simple JavaScript Tetris",
-    "url": "https://github.com/jstimpfle/tetris-on-a-plane/blob/master/tetris.js",
-    "votes": 7,
-    "posted": "Nov 2, 2016 5:46:55 PM"
-  },
-  {
-    "id": "12856730",
-    "timestamp": "Nov 2, 2016 6:00:57 PM",
-    "topic": "Why Do Millennials Hate Groceries?",
-    "url": "http://www.theatlantic.com/business/archive/2016/11/millennials-groceries/506180/?utm_source\u003dquartzfb\u0026amp;single_page\u003dtrue",
-    "votes": 5,
-    "posted": "Nov 2, 2016 5:45:57 PM"
-  },
-  {
-    "id": "12856549",
-    "timestamp": "Nov 2, 2016 11:21:35 PM",
-    "topic": "Show HN: LoWe – Extending the functionality of Ubuntu running on Windows 10",
-    "url": "https://github.com/kpocza/LoWe",
-    "votes": 6,
-    "posted": "Nov 2, 2016 5:29:36 PM"
-  },
-  {
-    "id": "12856545",
-    "timestamp": "Nov 2, 2016 6:00:58 PM",
-    "topic": "On Wall Street, a high-ranking few still avoid email",
-    "url": "http://www.reuters.com/article/us-wall-street-email-idUSKBN12W4F7",
-    "votes": 3,
-    "posted": "Nov 2, 2016 5:29:03 PM"
-  },
-  {
-    "id": "12856533",
-    "timestamp": "Nov 2, 2016 6:31:00 PM",
-    "topic": "If Satan was a web developer",
-    "url": "http://imgur.com/gallery/qA4Bu?utm_content\u003dbuffer56d42\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook.com\u0026utm_campaign\u003dbuffer",
-    "votes": 3,
-    "posted": "Nov 2, 2016 5:28:13 PM"
-  },
-  {
-    "id": "12856519",
-    "timestamp": "Nov 2, 2016 7:21:07 PM",
-    "topic": "New Uber App",
-    "url": "https://newsroom.uber.com/newriderapp/",
-    "votes": 7,
-    "posted": "Nov 2, 2016 5:27:25 PM"
-  },
-  {
-    "id": "12856488",
-    "timestamp": "Nov 3, 2016 5:23:09 PM",
-    "topic": "China: The Virtues of the Awful Convulsion",
-    "url": "http://www.nybooks.com/articles/2016/10/27/china-the-virtues-of-the-awful-convulsion/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 5:24:48 PM"
-  },
-  {
-    "id": "12856287",
-    "timestamp": "Nov 3, 2016 11:43:50 PM",
-    "topic": "The Story of How McDonald’s First Got Its Start",
-    "url": "http://www.smithsonianmag.com/history/story-how-mcdonalds-first-got-its-start-180960931/?no-ist",
-    "votes": 4,
-    "posted": "Nov 2, 2016 5:08:24 PM"
-  },
-  {
-    "id": "12856224",
-    "timestamp": "Nov 3, 2016 4:53:06 PM",
-    "topic": "The Kingdom of the Dead: For post-Soviet people, Crimea was a gigantic madeleine",
-    "url": "https://nplusonemag.com/online-only/online-only/the-kingdom-of-the-dead/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 5:03:21 PM"
   }
 ];
