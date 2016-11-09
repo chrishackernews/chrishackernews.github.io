@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12913698",
+    "timestamp": "Nov 9, 2016 8:47:23 PM",
+    "topic": "What every liberal who didn\u0027t see this coming needs to understand",
+    "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
+    "votes": 3,
+    "posted": "Nov 9, 2016 8:26:49 PM"
+  },
+  {
     "id": "12913366",
     "timestamp": "Nov 9, 2016 7:57:18 PM",
     "topic": "Captain401 (YC S15) is hiring a UI Engineer to help people save for retirement",
@@ -94,6 +102,14 @@ var newsArray = [
     "url": "https://www.bostonglobe.com/business/2016/10/26/mit-starts-venture-fund/GzWKqD9DLOZDYvSDrUPN3L/story.html",
     "votes": 4,
     "posted": "Nov 9, 2016 6:12:13 PM"
+  },
+  {
+    "id": "12912003",
+    "timestamp": "Nov 9, 2016 8:07:19 PM",
+    "topic": "How Blockchain Will Change Your Life",
+    "url": "http://www.wsj.com/articles/how-blockchain-will-change-your-life-1478564751",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:03:11 PM"
   },
   {
     "id": "12911985",
@@ -7081,93 +7097,5 @@ var newsArray = [
     "url": "http://www.marketwatch.com/story/how-to-buy-a-35000-brand-new-electric-car-for-under-14000-2016-11-02",
     "votes": 4,
     "posted": "Nov 2, 2016 8:59:00 PM"
-  },
-  {
-    "id": "12858637",
-    "timestamp": "Nov 2, 2016 9:31:21 PM",
-    "topic": "Tesla battery data shows path to over 500,000 miles on a single pack",
-    "url": "https://electrek.co/2016/11/01/tesla-battery-degradation/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 8:51:21 PM"
-  },
-  {
-    "id": "12858627",
-    "timestamp": "Nov 2, 2016 9:31:21 PM",
-    "topic": "You can’t fix diversity in tech without fixing the technical interview",
-    "url": "http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/",
-    "votes": 13,
-    "posted": "Nov 2, 2016 8:50:18 PM"
-  },
-  {
-    "id": "12858480",
-    "timestamp": "Nov 2, 2016 8:51:16 PM",
-    "topic": "Ten Ways Your Data Project Is Going to Fail",
-    "url": "http://www.martingoodson.com/ten-ways-your-data-project-is-going-to-fail/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 8:33:27 PM"
-  },
-  {
-    "id": "12858432",
-    "timestamp": "Nov 3, 2016 3:22:58 PM",
-    "topic": "Show HN: Unito – A sync engine for GitHub/JIRA/Wrike/Asana/+",
-    "url": "https://unito.io/home",
-    "votes": 9,
-    "posted": "Nov 2, 2016 8:28:04 PM"
-  },
-  {
-    "id": "12858382",
-    "timestamp": "Nov 2, 2016 8:31:13 PM",
-    "topic": "Review: The $1,499 2016 MacBook Pro is an expensive MacBook Air on the inside",
-    "url": "http://m.arstechnica.com/apple/2016/11/review-cheapest-2016-macbook-pro-is-good-but-its-missing-all-the-cool-stuff/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 8:23:36 PM"
-  },
-  {
-    "id": "12858347",
-    "timestamp": "Nov 2, 2016 8:51:16 PM",
-    "topic": "Vim, 25 years since initial release",
-    "url": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
-    "votes": 4,
-    "posted": "Nov 2, 2016 8:20:07 PM"
-  },
-  {
-    "id": "12858326",
-    "timestamp": "Nov 2, 2016 9:01:18 PM",
-    "topic": "Plasma Mobile: A Fully Open Phone OS from the KDE Project",
-    "url": "https://plasma-mobile.org/",
-    "votes": 9,
-    "posted": "Nov 2, 2016 8:18:00 PM"
-  },
-  {
-    "id": "12858137",
-    "timestamp": "Nov 2, 2016 8:01:11 PM",
-    "topic": "SimplyInsured (YC W13) Is Hiring Software Engineers",
-    "url": "https://www.simplyinsured.com/jobs",
-    "votes": 1,
-    "posted": "Nov 2, 2016 8:00:06 PM"
-  },
-  {
-    "id": "12858130",
-    "timestamp": "Nov 2, 2016 11:41:37 PM",
-    "topic": "How Sociopathic Capitalism Came to Rule the World",
-    "url": "http://www.theatlantic.com/business/archive/2016/11/sociopathic-capitalism/506240/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 2, 2016 7:59:37 PM"
-  },
-  {
-    "id": "12858127",
-    "timestamp": "Nov 3, 2016 5:42:10 AM",
-    "topic": "MH370 out of control and spiraling fast before crash, report says",
-    "url": "http://edition.cnn.com/2016/11/02/asia/mh370-crash-landing-report/index.html",
-    "votes": 6,
-    "posted": "Nov 2, 2016 7:59:23 PM"
-  },
-  {
-    "id": "12858120",
-    "timestamp": "Nov 3, 2016 2:11:50 AM",
-    "topic": "BART janitor grossed $270K in pay and benefits last year",
-    "url": "http://www.eastbaytimes.com/2016/11/01/bart-janitor-grossed-270k-in-pay-and-benefits-last-year/",
-    "votes": 6,
-    "posted": "Nov 2, 2016 7:59:07 PM"
   }
 ];
