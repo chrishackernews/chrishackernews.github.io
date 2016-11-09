@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12905668",
+    "timestamp": "Nov 9, 2016 3:45:49 AM",
+    "topic": "Detecting Genre from Book Covers Using Deep Learning",
+    "url": "https://arxiv.org/abs/1610.09204",
+    "votes": 4,
+    "posted": "Nov 9, 2016 3:31:48 AM"
+  },
+  {
+    "id": "12905541",
+    "timestamp": "Nov 9, 2016 3:25:48 AM",
+    "topic": "New MacBook Pro is selling like crazy",
+    "url": "https://www.google.com/amp/bgr.com/2016/11/08/macbook-pro-sale-apple-13-inch-revenue-numbers/amp/?client\u003dsafari",
+    "votes": 8,
+    "posted": "Nov 9, 2016 2:58:59 AM"
+  },
+  {
     "id": "12905470",
     "timestamp": "Nov 9, 2016 2:45:45 AM",
     "topic": "You’re engiNEARer to your dream job. Join the team at BloomThat (YC S13)",
     "url": "https://jobs.lever.co/bloomthat",
     "votes": 1,
     "posted": "Nov 9, 2016 2:41:32 AM"
+  },
+  {
+    "id": "12905428",
+    "timestamp": "Nov 9, 2016 3:45:50 AM",
+    "topic": "Test-Driving a $200 Coding Font: Operator Mono",
+    "url": "https://www.kennethreitz.org/essays/test-driving-a-200-programming-font-operator-mono",
+    "votes": 7,
+    "posted": "Nov 9, 2016 2:30:17 AM"
   },
   {
     "id": "12905398",
@@ -125,6 +149,14 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1611.02120",
     "votes": 8,
     "posted": "Nov 8, 2016 9:43:31 PM"
+  },
+  {
+    "id": "12903673",
+    "timestamp": "Nov 9, 2016 3:25:48 AM",
+    "topic": "NASA has completed the $8.7B James Webb space telescope",
+    "url": "https://www.engadget.com/2016/11/07/nasa-has-completed-the-8-7-billion-james-webb-space-telescope/",
+    "votes": 5,
+    "posted": "Nov 8, 2016 9:32:49 PM"
   },
   {
     "id": "12903533",
@@ -7085,45 +7117,5 @@ var newsArray = [
     "topic": "Ask HN: Who is firing?",
     "votes": 20,
     "posted": "Nov 2, 2016 4:10:07 AM"
-  },
-  {
-    "id": "12851918",
-    "timestamp": "Nov 2, 2016 5:00:52 PM",
-    "topic": "Sing to Me: Karaoke is self-compromise as spectacle",
-    "url": "http://reallifemag.com/sing-to-me/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 3:50:25 AM"
-  },
-  {
-    "id": "12851864",
-    "timestamp": "Nov 2, 2016 6:29:58 AM",
-    "topic": "Getting Started with Webpack 2",
-    "url": "https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.diw20huhm",
-    "votes": 5,
-    "posted": "Nov 2, 2016 3:33:22 AM"
-  },
-  {
-    "id": "12851841",
-    "timestamp": "Nov 2, 2016 6:29:58 AM",
-    "topic": "What WikiLeaks just revealed about Google explains EVERYTHING",
-    "url": "http://www.allenbwest.com/michaelcantrell/wikileaks-just-revealed-google-explains-everything",
-    "votes": 7,
-    "posted": "Nov 2, 2016 3:27:03 AM"
-  },
-  {
-    "id": "12851821",
-    "timestamp": "Nov 2, 2016 3:29:43 AM",
-    "topic": "Taplytics is hiring",
-    "url": "https://taplytics.com/jobs",
-    "votes": 1,
-    "posted": "Nov 2, 2016 3:22:50 AM"
-  },
-  {
-    "id": "12851810",
-    "timestamp": "Nov 2, 2016 6:29:58 AM",
-    "topic": "New York Doesn\u0027t Need San Francisco\u0027s Google Bus Problem",
-    "url": "http://www.villagevoice.com/news/new-york-doesnt-need-san-franciscos-google-bus-problem-9292209",
-    "votes": 5,
-    "posted": "Nov 2, 2016 3:20:45 AM"
   }
 ];
