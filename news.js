@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12914495",
+    "timestamp": "Nov 9, 2016 9:57:30 PM",
+    "topic": "Trie (Prefix tree) algorithm simply explained",
+    "url": "https://medium.com/algorithms/trie-prefix-tree-algorithm-ee7ab3fe3413#.ydm9bvqbh",
+    "votes": 3,
+    "posted": "Nov 9, 2016 9:50:56 PM"
+  },
+  {
+    "id": "12914201",
+    "timestamp": "Nov 9, 2016 9:37:28 PM",
+    "topic": "What I learned after 100,000 miles on the road talking to Trump supporters",
+    "url": "https://www.theguardian.com/society/2016/nov/03/trump-supporters-us-elections",
+    "votes": 4,
+    "posted": "Nov 9, 2016 9:15:47 PM"
+  },
+  {
+    "id": "12914195",
+    "timestamp": "Nov 9, 2016 9:27:27 PM",
+    "topic": "Why Nate Silver, Sam Wang and Everyone Else Were Wrong",
+    "url": "https://www.quantamagazine.org/20161108-why-nate-silver-and-sam-wang-are-wrong/#more-32023",
+    "votes": 6,
+    "posted": "Nov 9, 2016 9:14:54 PM"
+  },
+  {
+    "id": "12914193",
+    "timestamp": "Nov 9, 2016 9:37:28 PM",
+    "topic": "An overview of gradient descent optimization algorithms",
+    "url": "http://www.datasciencecentral.com/profiles/blogs/an-overview-of-gradient-descent-optimization-algorithms",
+    "votes": 3,
+    "posted": "Nov 9, 2016 9:14:32 PM"
+  },
+  {
+    "id": "12914188",
+    "timestamp": "Nov 9, 2016 9:27:26 PM",
+    "topic": "Spotify wears out SSDs by writing 100GB/day",
+    "url": "https://community.spotify.com/t5/Desktop-Linux-Windows-Web-Player/Spotify-excessively-writing-to-drive-in-my-case-an-SSD/td-p/1365378/highlight/true",
+    "votes": 7,
+    "posted": "Nov 9, 2016 9:14:09 PM"
+  },
+  {
     "id": "12913698",
     "timestamp": "Nov 9, 2016 8:47:23 PM",
     "topic": "What every liberal who didn\u0027t see this coming needs to understand",
@@ -198,6 +238,14 @@ var newsArray = [
     "url": "https://www.techinasia.com/ebay-fires-entire-india-team",
     "votes": 5,
     "posted": "Nov 9, 2016 5:00:07 PM"
+  },
+  {
+    "id": "12911138",
+    "timestamp": "Nov 9, 2016 9:27:27 PM",
+    "topic": "Improving Supercomputing Accuracy by Sacrificing Precision",
+    "url": "https://www.top500.org/news/improving-supercomputing-accuracy-by-sacrificing-precision/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 4:59:01 PM"
   },
   {
     "id": "12911128",
@@ -7018,84 +7066,5 @@ var newsArray = [
     "url": "https://code.visualstudio.com/updates/v1_7",
     "votes": 20,
     "posted": "Nov 2, 2016 10:14:46 PM"
-  },
-  {
-    "id": "12859152",
-    "timestamp": "Nov 2, 2016 10:31:29 PM",
-    "topic": "The new Uber App",
-    "url": "https://www.youtube.com/watch?v\u003dI1DdoN6NLDg",
-    "votes": 4,
-    "posted": "Nov 2, 2016 9:51:07 PM"
-  },
-  {
-    "id": "12859042",
-    "timestamp": "Nov 2, 2016 11:31:36 PM",
-    "topic": "Ask HN: Any devs who want to partner up with a designer to spice up Linux Apps?",
-    "votes": 4,
-    "posted": "Nov 2, 2016 9:41:03 PM"
-  },
-  {
-    "id": "12858993",
-    "timestamp": "Nov 2, 2016 10:01:25 PM",
-    "topic": "Facebook Q3 2016 Results",
-    "url": "https://investor.fb.com/investor-news/press-release-details/2016/Facebook-Reports-Third-Quarter-2016-Results/default.aspx",
-    "votes": 6,
-    "posted": "Nov 2, 2016 9:36:46 PM"
-  },
-  {
-    "id": "12858957",
-    "timestamp": "Nov 2, 2016 10:11:27 PM",
-    "topic": "Wait until insurers can see the contents of your fridge",
-    "url": "https://www.theguardian.com/technology/2016/nov/02/admiral-facebook-data-insurers-internet-of-things",
-    "votes": 3,
-    "posted": "Nov 2, 2016 9:31:42 PM"
-  },
-  {
-    "id": "12858913",
-    "timestamp": "Nov 3, 2016 12:31:42 AM",
-    "topic": "JAVA IS SUPERIOR TO REACT NATIVE IN PRACTICALLY EVERY WAY",
-    "url": "http://www.codenameone.com/blog/java-is-superior-to-react-native-in-practically-every-way.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 9:26:43 PM"
-  },
-  {
-    "id": "12858897",
-    "timestamp": "Nov 3, 2016 2:31:52 AM",
-    "topic": "Adobe’s Project Felix Uses AI to Help You Craft Hyper-Realistic 3-D Renderings",
-    "url": "https://www.wired.com/2016/11/adobe-project-felix/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 9:25:12 PM"
-  },
-  {
-    "id": "12858890",
-    "timestamp": "Nov 2, 2016 9:51:24 PM",
-    "topic": "Steam bans misleading “bullshots” from its product pages",
-    "url": "http://arstechnica.com/gaming/2016/11/steam-bans-misleading-bullshots-from-its-product-pages/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 9:23:37 PM"
-  },
-  {
-    "id": "12858826",
-    "timestamp": "Nov 3, 2016 1:41:48 AM",
-    "topic": "Hillary Clinton recognized as contributor to the open source project BleachBit",
-    "url": "http://www.bleachbit.org/contributors",
-    "votes": 7,
-    "posted": "Nov 2, 2016 9:16:35 PM"
-  },
-  {
-    "id": "12858716",
-    "timestamp": "Nov 2, 2016 9:21:20 PM",
-    "topic": "World\u0027s Largest Space Telescope Is Complete, Expected to Launch in 2018",
-    "url": "http://www.space.com/34593-james-webb-space-telescope-complete-2018-launch.html?utm_source\u003dnotification",
-    "votes": 3,
-    "posted": "Nov 2, 2016 9:02:27 PM"
-  },
-  {
-    "id": "12858689",
-    "timestamp": "Nov 2, 2016 11:51:38 PM",
-    "topic": "How to buy a $35,000 brand-new electric car for under $14,000",
-    "url": "http://www.marketwatch.com/story/how-to-buy-a-35000-brand-new-electric-car-for-under-14000-2016-11-02",
-    "votes": 4,
-    "posted": "Nov 2, 2016 8:59:00 PM"
   }
 ];
