@@ -1,5 +1,60 @@
 var newsArray = [
   {
+    "id": "12909031",
+    "timestamp": "Nov 9, 2016 11:56:33 AM",
+    "topic": "Donald Trump would have lost if Bernie Sanders had been the candidate",
+    "url": "http://www.independent.co.uk/news/people/presidential-election-donald-trump-would-have-lost-if-bernie-sanders-had-been-the-candidate-a7406346.html",
+    "votes": 6,
+    "posted": "Nov 9, 2016 11:37:33 AM"
+  },
+  {
+    "id": "12908850",
+    "timestamp": "Nov 9, 2016 11:36:31 AM",
+    "topic": "Putin Congratulates US President-Elect Trump on Victory",
+    "url": "https://rns.online/articles/-Donald-Tramp-Mneniya-2016-11-09/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 11:12:08 AM"
+  },
+  {
+    "id": "12908803",
+    "timestamp": "Nov 9, 2016 11:26:30 AM",
+    "topic": "Recreational marijuana is now legal in California",
+    "url": "http://www.businessinsider.com/california-legalizes-recreational-marijuana-proposition-64-results-2016-11",
+    "votes": 6,
+    "posted": "Nov 9, 2016 11:04:53 AM"
+  },
+  {
+    "id": "12908729",
+    "timestamp": "Nov 9, 2016 11:56:33 AM",
+    "topic": "GoPro is recalling its Karma drone",
+    "url": "http://www.theverge.com/2016/11/8/13569730/gopro-karma-drone-recall-announced",
+    "votes": 6,
+    "posted": "Nov 9, 2016 10:55:22 AM"
+  },
+  {
+    "id": "12908722",
+    "timestamp": "Nov 9, 2016 11:26:30 AM",
+    "topic": "Mods – genuinely curious why the Eliezer Yudkowsky on Trump post was killed",
+    "votes": 4,
+    "posted": "Nov 9, 2016 10:54:45 AM"
+  },
+  {
+    "id": "12908599",
+    "timestamp": "Nov 9, 2016 11:16:29 AM",
+    "topic": "FSF: “DRM Is Used to Lock In, Control and Spy on Users”",
+    "url": "https://torrentfreak.com/drm-is-used-to-lock-in-control-and-spy-on-users-161108/",
+    "votes": 6,
+    "posted": "Nov 9, 2016 10:39:37 AM"
+  },
+  {
+    "id": "12908569",
+    "timestamp": "Nov 9, 2016 11:36:31 AM",
+    "topic": "What do you think of Indian Government\u0027s decision to demonetize 500, 1000 notes?",
+    "url": "https://www.quora.com/What-do-you-think-of-the-decision-by-the-Indian-Government-to-demonetize-%E2%82%B9500-and-%E2%82%B91000-notes/answer/Pallav-Kaushish?srid\u003dhKgI\u0026share\u003dc09f8eb0",
+    "votes": 4,
+    "posted": "Nov 9, 2016 10:35:24 AM"
+  },
+  {
     "id": "12908497",
     "timestamp": "Nov 9, 2016 10:36:25 AM",
     "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
@@ -7282,37 +7337,5 @@ var newsArray = [
     "url": "https://www.bleachbit.org/cloth-or-something",
     "votes": 6,
     "posted": "Nov 2, 2016 12:15:23 PM"
-  },
-  {
-    "id": "12853531",
-    "timestamp": "Nov 2, 2016 12:50:29 PM",
-    "topic": "Switching from macOS: The Basics",
-    "url": "http://blog.elementary.io/post/152626170946/switching-from-macos-the-basics",
-    "votes": 6,
-    "posted": "Nov 2, 2016 11:56:33 AM"
-  },
-  {
-    "id": "12853451",
-    "timestamp": "Nov 2, 2016 11:40:24 AM",
-    "topic": "LeadGenius Hiring a Data Engineer",
-    "url": "https://jobs.lever.co/leadgenius/4a084cbb-230d-4e25-a62f-5f75e81352eb",
-    "votes": 1,
-    "posted": "Nov 2, 2016 11:32:14 AM"
-  },
-  {
-    "id": "12853383",
-    "timestamp": "Nov 2, 2016 12:10:26 PM",
-    "topic": "South African Reserve Bank Circulates Smart Contract Using Ethereum Blockchain",
-    "url": "http://www.iafrikan.com/2016/11/02/south-african-reserve-bank-circulates-first-ever-smart-contract-using-private-ethereum-blockchain/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 11:14:16 AM"
-  },
-  {
-    "id": "12853319",
-    "timestamp": "Nov 2, 2016 11:30:23 AM",
-    "topic": "Why C.E.O.s are getting fired more",
-    "url": "http://www.newyorker.com/magazine/2016/11/07/why-c-e-o-s-are-getting-fired-more",
-    "votes": 5,
-    "posted": "Nov 2, 2016 10:58:14 AM"
   }
 ];
