@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12905711",
+    "timestamp": "Nov 9, 2016 4:15:52 AM",
+    "topic": "How Segregated Witness Is About to Fix Hardware Wallets",
+    "url": "https://bitcoinmagazine.com/articles/how-segregated-witness-is-about-to-fix-hardware-wallets-1478110057?_ke\u003dbW9za2FseXVrQGdtYWlsLmNvbQ%3D%3D",
+    "votes": 3,
+    "posted": "Nov 9, 2016 3:41:31 AM"
+  },
+  {
     "id": "12905668",
     "timestamp": "Nov 9, 2016 3:45:49 AM",
     "topic": "Detecting Genre from Book Covers Using Deep Learning",
@@ -7071,51 +7079,5 @@ var newsArray = [
     "url": "http://macdaddy.io/apples-new-macbook-pros/",
     "votes": 5,
     "posted": "Nov 2, 2016 5:10:06 AM"
-  },
-  {
-    "id": "12852104",
-    "timestamp": "Nov 2, 2016 5:59:55 AM",
-    "topic": "BART janitor grossed $270K in pay and benefits last year",
-    "url": "http://www.mercurynews.com/2016/11/01/bart-janitor-grossed-270k-in-pay-and-benefits-last-year/?utm_campaign\u003dEchobox\u0026utm_medium\u003dSocial\u0026utm_source\u003dFacebook#link_time\u003d1478025682",
-    "votes": 15,
-    "posted": "Nov 2, 2016 4:46:28 AM"
-  },
-  {
-    "id": "12852085",
-    "timestamp": "Nov 2, 2016 4:49:50 AM",
-    "topic": "Microsoft Concept Graph",
-    "url": "https://concept.research.microsoft.com/Home/Introduction",
-    "votes": 4,
-    "posted": "Nov 2, 2016 4:38:41 AM"
-  },
-  {
-    "id": "12852083",
-    "timestamp": "Nov 2, 2016 8:30:08 AM",
-    "topic": "Ask HN: How can rational thinking increase in individuals and societies?",
-    "votes": 5,
-    "posted": "Nov 2, 2016 4:38:05 AM"
-  },
-  {
-    "id": "12852047",
-    "timestamp": "Nov 2, 2016 4:49:50 AM",
-    "topic": "Shopping coming to Instagram",
-    "url": "http://blog.business.instagram.com/post/152598788716/shopping-coming-to-instagram",
-    "votes": 4,
-    "posted": "Nov 2, 2016 4:27:29 AM"
-  },
-  {
-    "id": "12852042",
-    "timestamp": "Nov 2, 2016 5:19:52 AM",
-    "topic": "Cybersecurity firm fails to find links between Donald Trump and Russian bank",
-    "url": "https://www.theguardian.com/us-news/2016/nov/01/cybersecurity-firm-fails-to-find-alleged-links-between-trump-and-russian-bank",
-    "votes": 4,
-    "posted": "Nov 2, 2016 4:26:35 AM"
-  },
-  {
-    "id": "12851987",
-    "timestamp": "Nov 2, 2016 4:59:51 AM",
-    "topic": "Ask HN: Who is firing?",
-    "votes": 20,
-    "posted": "Nov 2, 2016 4:10:07 AM"
   }
 ];
