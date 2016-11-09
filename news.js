@@ -1,5 +1,74 @@
 var newsArray = [
   {
+    "id": "12907349",
+    "timestamp": "Nov 9, 2016 8:56:18 AM",
+    "topic": "FoxNews announces Trump new president of the United States",
+    "url": "http://www.foxnews.com/politics/2016/11/08/fox-news-projects-trump-wins-presidency.html",
+    "votes": 4,
+    "posted": "Nov 9, 2016 8:48:24 AM"
+  },
+  {
+    "id": "12907201",
+    "timestamp": "Nov 9, 2016 8:46:16 AM",
+    "topic": "Donald trump is the new US president",
+    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/08/donald-trumps-path-to-victory-is-suddenly-looking-much-much-wider/?hpid\u003dhp_hp-bignews3_fix-electoralmap-210am%3Ahomepage%2Fstory",
+    "votes": 77,
+    "posted": "Nov 9, 2016 8:36:47 AM"
+  },
+  {
+    "id": "12907145",
+    "timestamp": "Nov 9, 2016 8:46:16 AM",
+    "topic": "Ask HN: POTUS Donald Trump; What this means to Silicon Valley",
+    "votes": 18,
+    "posted": "Nov 9, 2016 8:30:26 AM"
+  },
+  {
+    "id": "12907100",
+    "timestamp": "Nov 9, 2016 8:46:17 AM",
+    "topic": "Peter Thiel – Full Speech – 2016 Republican National Convention",
+    "url": "https://www.youtube.com/watch?v\u003dUTJB8AkT1dk",
+    "votes": 8,
+    "posted": "Nov 9, 2016 8:26:31 AM"
+  },
+  {
+    "id": "12906982",
+    "timestamp": "Nov 9, 2016 8:26:15 AM",
+    "topic": "Ask HN: Who\u0027s making money during the election madness?",
+    "votes": 6,
+    "posted": "Nov 9, 2016 8:11:33 AM"
+  },
+  {
+    "id": "12906896",
+    "timestamp": "Nov 9, 2016 8:46:17 AM",
+    "topic": "Trump and Brexit – International Coverage Bias",
+    "url": "https://medium.com/@WolframHempel_82303/trump-brexit-international-coverage-bias-d52a2e4a3698#.ojfat4y1n",
+    "votes": 6,
+    "posted": "Nov 9, 2016 8:00:24 AM"
+  },
+  {
+    "id": "12906864",
+    "timestamp": "Nov 9, 2016 8:46:17 AM",
+    "topic": "Ask HN: Aside from big business and Twitter, who actually won tonight?",
+    "votes": 3,
+    "posted": "Nov 9, 2016 7:55:05 AM"
+  },
+  {
+    "id": "12906846",
+    "timestamp": "Nov 9, 2016 8:06:12 AM",
+    "topic": "Donald Trump Is the Next President of the United States",
+    "url": "http://www.realclearpolitics.com/elections/live_results/2016_general/president/map.html",
+    "votes": 10,
+    "posted": "Nov 9, 2016 7:52:33 AM"
+  },
+  {
+    "id": "12906836",
+    "timestamp": "Nov 9, 2016 8:06:12 AM",
+    "topic": "Trump Nears Victory",
+    "url": "http://www.nytimes.com/2016/11/08/us/politics/election-live.html?pagewanted\u003dall",
+    "votes": 19,
+    "posted": "Nov 9, 2016 7:51:15 AM"
+  },
+  {
     "id": "12906809",
     "timestamp": "Nov 9, 2016 7:56:11 AM",
     "topic": "Snowden Live will start November 10th around 22:30 CET / 4:30 PM Eastern",
@@ -14,6 +83,22 @@ var newsArray = [
     "url": "http://www.vox.com/2016/4/21/11451378/smug-american-liberalism",
     "votes": 11,
     "posted": "Nov 9, 2016 7:41:30 AM"
+  },
+  {
+    "id": "12906773",
+    "timestamp": "Nov 9, 2016 8:26:15 AM",
+    "topic": "XKCD Election Math",
+    "url": "https://xkcd.com/1131/",
+    "votes": 5,
+    "posted": "Nov 9, 2016 7:38:58 AM"
+  },
+  {
+    "id": "12906766",
+    "timestamp": "Nov 9, 2016 8:06:12 AM",
+    "topic": "Reddit Traffic Has Been Dropping for a Year",
+    "url": "https://www.reddit.com/r/AskReddit/about/traffic/",
+    "votes": 6,
+    "posted": "Nov 9, 2016 7:37:40 AM"
   },
   {
     "id": "12906691",
@@ -101,6 +186,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 6:17:37 AM"
   },
   {
+    "id": "12906237",
+    "timestamp": "Nov 9, 2016 8:26:15 AM",
+    "topic": "Google Cloud Platform Tokyo region now open for business",
+    "url": "https://blog.google/topics/google-cloud/google-cloud-platform-tokyo-region-now-open-for-business/",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:08:24 AM"
+  },
+  {
     "id": "12906232",
     "timestamp": "Nov 9, 2016 6:36:04 AM",
     "topic": "Canada\u0027s immigration website crashes on election night",
@@ -156,6 +249,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 5:23:18 AM"
   },
   {
+    "id": "12906002",
+    "timestamp": "Nov 9, 2016 8:46:17 AM",
+    "topic": "14 Tech Tools for Your Coworking Space",
+    "url": "http://www.thefarmsoho.com/magazine-blog/coworking-space-nyc/tech-coworking-space",
+    "votes": 3,
+    "posted": "Nov 9, 2016 5:16:43 AM"
+  },
+  {
     "id": "12905991",
     "timestamp": "Nov 9, 2016 5:35:58 AM",
     "topic": "LAPD Prepping for “Riot Mode” in Some Neighborhoods If Donald Trump Wins",
@@ -194,6 +295,14 @@ var newsArray = [
     "url": "https://blog.filippo.io/my-remote-shell-session-setup/",
     "votes": 3,
     "posted": "Nov 9, 2016 4:37:12 AM"
+  },
+  {
+    "id": "12905840",
+    "timestamp": "Nov 9, 2016 8:06:12 AM",
+    "topic": "BGP Large Communities: time to take action",
+    "url": "https://blog.apnic.net/2016/11/09/bgp-large-communities-time-take-action/",
+    "votes": 4,
+    "posted": "Nov 9, 2016 4:23:58 AM"
   },
   {
     "id": "12905795",
@@ -7221,21 +7330,5 @@ var newsArray = [
     "url": "http://www.infoworld.com/article/3136934/open-source-tools/project-for-porting-c-to-rust-gains-mozillas-backing.html",
     "votes": 3,
     "posted": "Nov 2, 2016 9:14:24 AM"
-  },
-  {
-    "id": "12852912",
-    "timestamp": "Nov 2, 2016 9:30:13 AM",
-    "topic": "Announcing the Tor Browser User Manual",
-    "url": "https://blog.torproject.org/blog/announcing-tor-browser-user-manual",
-    "votes": 6,
-    "posted": "Nov 2, 2016 8:43:04 AM"
-  },
-  {
-    "id": "12852910",
-    "timestamp": "Nov 2, 2016 3:00:41 PM",
-    "topic": "How Ancient Humans Reached Remote South Pacific Islands",
-    "url": "http://www.nytimes.com/2016/11/02/science/south-pacific-islands-migration.html",
-    "votes": 5,
-    "posted": "Nov 2, 2016 8:42:11 AM"
   }
 ];
