@@ -1,11 +1,42 @@
 var newsArray = [
   {
+    "id": "12909969",
+    "timestamp": "Nov 9, 2016 2:56:48 PM",
+    "topic": "Show HN: DevFreeCasts – A huge collection of free screencasts for developers",
+    "url": "https://devfreecasts.github.io",
+    "votes": 7,
+    "posted": "Nov 9, 2016 2:12:12 PM"
+  },
+  {
+    "id": "12909967",
+    "timestamp": "Nov 9, 2016 2:26:45 PM",
+    "topic": "Show HN: DevFreeBooks – A huge collection of free books for developers",
+    "url": "https://devfreebooks.github.io",
+    "votes": 12,
+    "posted": "Nov 9, 2016 2:11:42 PM"
+  },
+  {
+    "id": "12909823",
+    "timestamp": "Nov 9, 2016 2:06:44 PM",
+    "topic": "A Coalition of All Democratic Forces, Part III: What If Trumps Wins",
+    "url": "https://www.lawfareblog.com/coalition-all-democratic-forces-part-iii-what-if-trump-wins",
+    "votes": 3,
+    "posted": "Nov 9, 2016 1:49:58 PM"
+  },
+  {
     "id": "12909598",
     "timestamp": "Nov 9, 2016 1:36:41 PM",
     "topic": "Pros and cons of iOS and Android mobile app development",
     "url": "http://www.slideshare.net/WhallaLabs/mobile-application-development-ios-vs-android",
     "votes": 3,
     "posted": "Nov 9, 2016 1:13:43 PM"
+  },
+  {
+    "id": "12909519",
+    "timestamp": "Nov 9, 2016 2:56:48 PM",
+    "topic": "Now Trump is president, demand his Tax Records as he promised",
+    "votes": 4,
+    "posted": "Nov 9, 2016 12:59:15 PM"
   },
   {
     "id": "12909276",
@@ -7202,92 +7233,5 @@ var newsArray = [
     "url": "http://imgur.com/gallery/QZbvw",
     "votes": 4,
     "posted": "Nov 2, 2016 3:03:09 PM"
-  },
-  {
-    "id": "12854619",
-    "timestamp": "Nov 2, 2016 3:00:41 PM",
-    "topic": "Maybe Peter Thiel Is Just a Crank",
-    "url": "http://nymag.com/selectall/2016/10/maybe-peter-thiel-is-just-a-crank.html",
-    "votes": 10,
-    "posted": "Nov 2, 2016 2:48:32 PM"
-  },
-  {
-    "id": "12854483",
-    "timestamp": "Nov 2, 2016 4:30:49 PM",
-    "topic": "LastPass Multi-Device Access Is Now Free",
-    "url": "https://blog.lastpass.com/2016/11/get-lastpass-everywhere-multi-device-access-is-now-free.html/",
-    "votes": 9,
-    "posted": "Nov 2, 2016 2:35:06 PM"
-  },
-  {
-    "id": "12854463",
-    "timestamp": "Nov 2, 2016 3:20:43 PM",
-    "topic": "Ask HN: Ever been hired through a “who\u0027s hiring” post?",
-    "votes": 6,
-    "posted": "Nov 2, 2016 2:33:17 PM"
-  },
-  {
-    "id": "12854453",
-    "timestamp": "Nov 3, 2016 8:02:22 AM",
-    "topic": "Coroutines in C",
-    "url": "http://www.chiark.greenend.org.uk/~sgtatham/coroutines.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 2:32:00 PM"
-  },
-  {
-    "id": "12854428",
-    "timestamp": "Nov 2, 2016 3:10:42 PM",
-    "topic": "LinkedIn launches Salary to chart what we earn",
-    "url": "https://techcrunch.com/2016/11/02/linkedin-plots-a-place-on-the-economic-graph-launches-salary-to-chart-what-we-earn/",
-    "votes": 4,
-    "posted": "Nov 2, 2016 2:29:06 PM"
-  },
-  {
-    "id": "12854336",
-    "timestamp": "Nov 2, 2016 3:10:42 PM",
-    "topic": "Emacs standing alone on a Linux Kernel",
-    "url": "http://www.informatimago.com/linux/emacs-on-user-mode-linux.html",
-    "votes": 7,
-    "posted": "Nov 2, 2016 2:17:42 PM"
-  },
-  {
-    "id": "12854331",
-    "timestamp": "Nov 2, 2016 2:50:40 PM",
-    "topic": "Free Shipping is a lie",
-    "url": "https://www.fastcompany.com/3061686/free-shipping-is-a-lie",
-    "votes": 4,
-    "posted": "Nov 2, 2016 2:16:55 PM"
-  },
-  {
-    "id": "12854320",
-    "timestamp": "Nov 2, 2016 4:00:46 PM",
-    "topic": "The Oblivion of Adam: What if you could remember every poem in the next life?",
-    "url": "http://www.theparisreview.org/blog/2016/11/01/the-oblivion-of-adam/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 2:15:08 PM"
-  },
-  {
-    "id": "12854290",
-    "timestamp": "Nov 3, 2016 1:51:49 AM",
-    "topic": "Your HTTPS/TLS/SSL/SSH certificate tells where its key comes from",
-    "url": "https://dan.enigmabridge.com/your-https-certificate-shows-where-its-key-comes-from/",
-    "votes": 3,
-    "posted": "Nov 2, 2016 2:10:40 PM"
-  },
-  {
-    "id": "12854273",
-    "timestamp": "Nov 2, 2016 2:30:38 PM",
-    "topic": "Why Are Apple and Microsoft Using Such Old Processors in Their New Computers?",
-    "url": "http://gizmodo.com/why-are-apple-and-microsoft-using-such-old-processors-i-1788302547",
-    "votes": 13,
-    "posted": "Nov 2, 2016 2:09:16 PM"
-  },
-  {
-    "id": "12854209",
-    "timestamp": "Nov 2, 2016 3:40:45 PM",
-    "topic": "Neural Symbolic Machines: Learning Semantic Parsers with Weak Supervision",
-    "url": "https://arxiv.org/abs/1611.00020",
-    "votes": 3,
-    "posted": "Nov 2, 2016 2:02:25 PM"
   }
 ];
