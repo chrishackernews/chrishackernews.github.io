@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12919999",
+    "timestamp": "Nov 10, 2016 2:08:54 PM",
+    "topic": "Shipbob(YC-S14) hiring software engineers",
+    "url": "http://www.builtinchicago.org/job/software-engineer-205",
+    "votes": 1,
+    "posted": "Nov 10, 2016 2:05:08 PM"
+  },
+  {
     "id": "12919894",
     "timestamp": "Nov 10, 2016 1:58:53 PM",
     "topic": "“Trump will be the first anti-science president we have ever had”",
@@ -16,12 +24,28 @@ var newsArray = [
     "posted": "Nov 10, 2016 1:21:35 PM"
   },
   {
+    "id": "12919746",
+    "timestamp": "Nov 10, 2016 2:48:57 PM",
+    "topic": "When Pseudosex Is Better Than the Real Thing",
+    "url": "http://nautil.us/issue/42/fakes/when-pseudosex-is-better-than-the-real-thing",
+    "votes": 6,
+    "posted": "Nov 10, 2016 1:15:04 PM"
+  },
+  {
     "id": "12919693",
     "timestamp": "Nov 10, 2016 1:48:52 PM",
     "topic": "Tesla made more money last quarter than the US oil industry made last year",
     "url": "https://electrek.co/2016/11/10/tesla-made-more-money-last-quarter-than-the-entire-us-oil-industry-made-last-year/",
     "votes": 5,
     "posted": "Nov 10, 2016 1:03:49 PM"
+  },
+  {
+    "id": "12919683",
+    "timestamp": "Nov 10, 2016 2:48:57 PM",
+    "topic": "1983 Iphone Prototype",
+    "url": "http://www.ua-magazine.com/1983-iphone-prototype/",
+    "votes": 11,
+    "posted": "Nov 10, 2016 1:01:31 PM"
   },
   {
     "id": "12919633",
@@ -2459,6 +2483,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 2:51:35 AM"
   },
   {
+    "id": "12896927",
+    "timestamp": "Nov 10, 2016 2:18:55 PM",
+    "topic": "A life in ruins: On the architectural vision of John Soane",
+    "url": "http://www.newcriterion.com/articles.cfm/A-life-in-ruins-8521",
+    "votes": 3,
+    "posted": "Nov 8, 2016 2:40:16 AM"
+  },
+  {
     "id": "12896859",
     "timestamp": "Nov 8, 2016 3:23:33 AM",
     "topic": "Google – My Activity",
@@ -2520,6 +2552,14 @@ var newsArray = [
     "url": "http://fourhourworkweek.com/2016/11/07/tools-of-titans-foreword-arnold-schwarzenegger-i-am-not-a-self-made-man/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+timferriss+%28The+Blog+of+Author+Tim+Ferriss%29",
     "votes": 4,
     "posted": "Nov 8, 2016 12:37:39 AM"
+  },
+  {
+    "id": "12896226",
+    "timestamp": "Nov 10, 2016 2:18:55 PM",
+    "topic": "The Genius of Winding Paths",
+    "url": "https://www.firstthings.com/article/2016/10/the-genius-of-winding-paths",
+    "votes": 4,
+    "posted": "Nov 8, 2016 12:27:05 AM"
   },
   {
     "id": "12896182",
@@ -2641,6 +2681,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 9:12:54 PM"
   },
   {
+    "id": "12894542",
+    "timestamp": "Nov 10, 2016 2:18:55 PM",
+    "topic": "Stamp design errors",
+    "url": "http://www.edbmb.net/stamps/index-1A.php",
+    "votes": 3,
+    "posted": "Nov 7, 2016 9:08:36 PM"
+  },
+  {
     "id": "12894455",
     "timestamp": "Nov 7, 2016 9:23:01 PM",
     "topic": "Close to absolute zero, the particles exhibit their quantum nature",
@@ -2694,6 +2742,22 @@ var newsArray = [
     "url": "http://www.toves.org/books/cpy/",
     "votes": 6,
     "posted": "Nov 7, 2016 8:13:48 PM"
+  },
+  {
+    "id": "12893924",
+    "timestamp": "Nov 10, 2016 2:18:55 PM",
+    "topic": "Basic Flashlight Tutorial",
+    "url": "http://www.asos1.com/flashlight/flashlight01.htm",
+    "votes": 4,
+    "posted": "Nov 7, 2016 8:11:18 PM"
+  },
+  {
+    "id": "12893917",
+    "timestamp": "Nov 10, 2016 2:18:55 PM",
+    "topic": "Well-Kept Gardens Die by Pacifism (2009)",
+    "url": "http://lesswrong.com/lw/c1/wellkept_gardens_die_by_pacifism/",
+    "votes": 3,
+    "posted": "Nov 7, 2016 8:10:51 PM"
   },
   {
     "id": "12893801",
@@ -7070,45 +7134,5 @@ var newsArray = [
     "url": "http://spinroot.com/p10/",
     "votes": 3,
     "posted": "Nov 3, 2016 3:10:16 PM"
-  },
-  {
-    "id": "12863898",
-    "timestamp": "Nov 3, 2016 3:53:00 PM",
-    "topic": "The Coming War in the Middle East",
-    "url": "http://www.hoover.org/research/coming-war-middle-east",
-    "votes": 12,
-    "posted": "Nov 3, 2016 2:50:03 PM"
-  },
-  {
-    "id": "12863820",
-    "timestamp": "Nov 3, 2016 7:53:25 PM",
-    "topic": "Show HN: Browse dead and dying startups",
-    "url": "http://deathwatch.io/",
-    "votes": 6,
-    "posted": "Nov 3, 2016 2:40:02 PM"
-  },
-  {
-    "id": "12863779",
-    "timestamp": "Nov 3, 2016 6:23:15 PM",
-    "topic": "A.I. accurately predicted the full baseball post-season back in July",
-    "url": "http://www.marketwired.com/press-release/ai-makes-yet-another-remarkable-prediction-2172570.htm",
-    "votes": 9,
-    "posted": "Nov 3, 2016 2:35:11 PM"
-  },
-  {
-    "id": "12863699",
-    "timestamp": "Nov 3, 2016 2:52:55 PM",
-    "topic": "BearSSL",
-    "url": "https://bearssl.org/",
-    "votes": 10,
-    "posted": "Nov 3, 2016 2:23:29 PM"
-  },
-  {
-    "id": "12863565",
-    "timestamp": "Nov 3, 2016 7:33:22 PM",
-    "topic": "Browsers, not apps, are the future of mobile",
-    "url": "https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/",
-    "votes": 5,
-    "posted": "Nov 3, 2016 2:01:41 PM"
   }
 ];
