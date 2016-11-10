@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12919255",
+    "timestamp": "Nov 10, 2016 12:08:44 PM",
+    "topic": "DDoS attack halts heating in Finland amidst winter",
+    "url": "https://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter",
+    "votes": 7,
+    "posted": "Nov 10, 2016 11:33:43 AM"
+  },
+  {
     "id": "12918756",
     "timestamp": "Nov 10, 2016 10:18:35 AM",
     "topic": "Bernie Sanders statement on Trump",
@@ -127,6 +135,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 4:42:51 AM"
   },
   {
+    "id": "12917466",
+    "timestamp": "Nov 10, 2016 12:28:46 PM",
+    "topic": "Silicon Valley Reels After Trump’s Election",
+    "url": "http://www.nytimes.com/2016/11/10/technology/trump-election-silicon-valley-reels.html",
+    "votes": 5,
+    "posted": "Nov 10, 2016 4:26:55 AM"
+  },
+  {
     "id": "12917407",
     "timestamp": "Nov 10, 2016 4:58:10 AM",
     "topic": "Lenovo is ditching its own brand name to make way for \u0027Moto\u0027",
@@ -172,6 +188,14 @@ var newsArray = [
     "url": "https://www.scientificamerican.com/article/how-president-elect-trump-views-science/",
     "votes": 4,
     "posted": "Nov 10, 2016 3:23:50 AM"
+  },
+  {
+    "id": "12917071",
+    "timestamp": "Nov 10, 2016 12:28:46 PM",
+    "topic": "Davy Crockett Portable Nuclear Weapon",
+    "url": "https://www.damninteresting.com/davy-crockett-king-of-the-atomic-frontier/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:05:37 AM"
   },
   {
     "id": "12917043",
@@ -7038,29 +7062,5 @@ var newsArray = [
     "url": "https://danluu.com/why-hardware-development-is-hard/",
     "votes": 5,
     "posted": "Nov 3, 2016 1:37:10 PM"
-  },
-  {
-    "id": "12863079",
-    "timestamp": "Nov 3, 2016 1:02:47 PM",
-    "topic": "Experimental Edge-Side Mustache Processing in Varnish (Edgestash)",
-    "url": "https://info.varnish-software.com/blog/edgestash",
-    "votes": 3,
-    "posted": "Nov 3, 2016 12:35:18 PM"
-  },
-  {
-    "id": "12862910",
-    "timestamp": "Nov 3, 2016 1:22:48 PM",
-    "topic": "Scala 2.12.0 is now available",
-    "url": "http://www.scala-lang.org/news/2.12.0",
-    "votes": 18,
-    "posted": "Nov 3, 2016 12:06:47 PM"
-  },
-  {
-    "id": "12862894",
-    "timestamp": "Nov 3, 2016 12:12:43 PM",
-    "topic": "Mentat (YC S16) is hiring a software engineer",
-    "url": "https://angel.co/mentatapp/jobs/172775-software-engineer",
-    "votes": 1,
-    "posted": "Nov 3, 2016 12:05:02 PM"
   }
 ];
