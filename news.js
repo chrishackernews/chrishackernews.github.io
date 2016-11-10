@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12917169",
+    "timestamp": "Nov 10, 2016 3:58:03 AM",
+    "topic": "How President-Elect Trump Views Science",
+    "url": "https://www.scientificamerican.com/article/how-president-elect-trump-views-science/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 3:23:50 AM"
+  },
+  {
+    "id": "12917043",
+    "timestamp": "Nov 10, 2016 3:58:03 AM",
+    "topic": "The first ever photograph of light as both a particle and wave",
+    "url": "http://m.phys.org/news/2015-03-particle.html",
+    "votes": 6,
+    "posted": "Nov 10, 2016 3:01:25 AM"
+  },
+  {
     "id": "12916950",
     "timestamp": "Nov 10, 2016 2:57:57 AM",
     "topic": "Serve America",
@@ -188,6 +204,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/10/technology/adam-bain-twitter-chief-operating-officer-step-down.html",
     "votes": 10,
     "posted": "Nov 9, 2016 11:02:15 PM"
+  },
+  {
+    "id": "12914994",
+    "timestamp": "Nov 10, 2016 3:07:59 AM",
+    "topic": "Not Your Problem",
+    "url": "http://howtomakeanrpg.com/a/not-your-problem.html",
+    "votes": 4,
+    "posted": "Nov 9, 2016 10:47:10 PM"
   },
   {
     "id": "12914942",
@@ -759,6 +783,14 @@ var newsArray = [
     "url": "https://github.com/jxnblk/repng",
     "votes": 3,
     "posted": "Nov 9, 2016 10:27:05 AM"
+  },
+  {
+    "id": "12907845",
+    "timestamp": "Nov 10, 2016 3:07:59 AM",
+    "topic": "The Day After – Charlie\u0027s Diary",
+    "url": "http://www.antipope.org/charlie/blog-static/2016/11/the-day-after.html",
+    "votes": 3,
+    "posted": "Nov 9, 2016 9:32:46 AM"
   },
   {
     "id": "12907349",
@@ -7079,45 +7111,5 @@ var newsArray = [
     "url": "http://www.craigkerstiens.com/2016/01/08/writing-better-sql/",
     "votes": 8,
     "posted": "Nov 3, 2016 4:00:30 AM"
-  },
-  {
-    "id": "12861119",
-    "timestamp": "Nov 3, 2016 4:52:04 AM",
-    "topic": "In the future, we will all be rental serfs",
-    "url": "http://ftalphaville.ft.com/2016/11/02/2178646/in-the-future-we-will-all-be-rental-serfs/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 3:19:51 AM"
-  },
-  {
-    "id": "12861113",
-    "timestamp": "Nov 3, 2016 3:21:56 AM",
-    "topic": "iCracked (YC W12) Is Hiring Lead Engineers and Product Managers",
-    "url": "https://www.icracked.com/careers",
-    "votes": 1,
-    "posted": "Nov 3, 2016 3:18:42 AM"
-  },
-  {
-    "id": "12861100",
-    "timestamp": "Nov 3, 2016 3:31:57 AM",
-    "topic": "Pew Research: Donald Trump voters are more tolerant than Hillary Clinton voters",
-    "url": "http://www.pewresearch.org/fact-tank/2016/11/01/its-harder-for-clinton-supporters-to-respect-trump-backers-than-vice-versa/",
-    "votes": 5,
-    "posted": "Nov 3, 2016 3:16:16 AM"
-  },
-  {
-    "id": "12861097",
-    "timestamp": "Nov 3, 2016 4:12:00 AM",
-    "topic": "How the politics of debt explains everything",
-    "url": "http://theweek.com/articles/657252/how-politics-debt-explains-everything",
-    "votes": 4,
-    "posted": "Nov 3, 2016 3:16:01 AM"
-  },
-  {
-    "id": "12861053",
-    "timestamp": "Nov 3, 2016 6:52:15 AM",
-    "topic": "Why are some of the ugliest sites on the Web also the most popular?",
-    "url": "http://thenextweb.com/dd/2016/02/17/why-are-some-of-the-ugliest-sites-on-the-web-also-the-most-popular/",
-    "votes": 8,
-    "posted": "Nov 3, 2016 3:09:27 AM"
   }
 ];
