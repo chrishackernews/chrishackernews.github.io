@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12924616",
+    "timestamp": "Nov 10, 2016 10:59:46 PM",
+    "topic": "Peter Thiel to enter Trump inner circle as tech adviser",
+    "url": "https://www.cnet.com/news/peter-thiel-to-enter-trump-inner-circle-as-technology-adviser/",
+    "votes": 10,
+    "posted": "Nov 10, 2016 10:35:13 PM"
+  },
+  {
+    "id": "12924604",
+    "timestamp": "Nov 10, 2016 10:59:46 PM",
+    "topic": "Trump’s sweep could be a big setback to Tesla and Elon Musk",
+    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/09/trumps-sweep-could-be-a-big-setback-to-tesla-and-elon-musk/",
+    "votes": 7,
+    "posted": "Nov 10, 2016 10:32:45 PM"
+  },
+  {
+    "id": "12924564",
+    "timestamp": "Nov 10, 2016 10:49:45 PM",
+    "topic": "I’m a Coastal Elite from the Midwest: The Real Bubble Is Rural America",
+    "url": "http://www.rollcall.com/news/opinion/im-a-coastal-elite-from-the-midwest-the-real-bubble-is-rural-america",
+    "votes": 5,
+    "posted": "Nov 10, 2016 10:29:05 PM"
+  },
+  {
     "id": "12924218",
     "timestamp": "Nov 10, 2016 9:59:40 PM",
     "topic": "Heap (YC W13) is hiring engineers to build a new approach to analytics",
     "url": "https://heapanalytics.com/jobs#engineer",
     "votes": 1,
     "posted": "Nov 10, 2016 9:51:27 PM"
+  },
+  {
+    "id": "12924173",
+    "timestamp": "Nov 10, 2016 10:09:42 PM",
+    "topic": "TDD Doesn\u0027t Work",
+    "url": "http://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html",
+    "votes": 5,
+    "posted": "Nov 10, 2016 9:46:57 PM"
   },
   {
     "id": "12924051",
@@ -24,11 +56,26 @@ var newsArray = [
     "posted": "Nov 10, 2016 9:29:01 PM"
   },
   {
+    "id": "12923925",
+    "timestamp": "Nov 10, 2016 10:39:44 PM",
+    "topic": "Offshoring Roulette:lessons from Outsourcing to India, China and the Philippines",
+    "url": "https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 9:20:02 PM"
+  },
+  {
     "id": "12923879",
     "timestamp": "Nov 10, 2016 9:59:41 PM",
     "topic": "Ask HN: Good resources/sites for things every programmer should know?",
     "votes": 3,
     "posted": "Nov 10, 2016 9:16:20 PM"
+  },
+  {
+    "id": "12923761",
+    "timestamp": "Nov 10, 2016 10:39:44 PM",
+    "topic": "Tell HN: Let\u0027s get back to HACKER news",
+    "votes": 8,
+    "posted": "Nov 10, 2016 9:03:17 PM"
   },
   {
     "id": "12923692",
@@ -103,12 +150,27 @@ var newsArray = [
     "posted": "Nov 10, 2016 8:08:44 PM"
   },
   {
+    "id": "12923198",
+    "timestamp": "Nov 10, 2016 10:39:44 PM",
+    "topic": "Ask HN: Which is your favorite source of non Tech news?",
+    "votes": 7,
+    "posted": "Nov 10, 2016 8:05:10 PM"
+  },
+  {
     "id": "12923104",
     "timestamp": "Nov 10, 2016 8:59:36 PM",
     "topic": "Why MacBook Pros Don\u0027t Need 32GB of RAM",
     "url": "http://www.zdnet.com/article/why-macbook-pros-dont-need-32gb-of-ram/",
     "votes": 5,
     "posted": "Nov 10, 2016 7:55:00 PM"
+  },
+  {
+    "id": "12923054",
+    "timestamp": "Nov 10, 2016 10:39:44 PM",
+    "topic": "Peter Thiel’s Big Gamble",
+    "url": "https://techcrunch.com/2016/11/09/peter-thiels-big-gamble/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 7:49:59 PM"
   },
   {
     "id": "12922936",
@@ -7176,53 +7238,5 @@ var newsArray = [
     "url": "https://www.kickstarter.com/projects/dameproducts/fin-a-vibrator-for-fingers",
     "votes": 4,
     "posted": "Nov 3, 2016 11:06:41 PM"
-  },
-  {
-    "id": "12868304",
-    "timestamp": "Nov 3, 2016 11:43:50 PM",
-    "topic": "Opus Audio Codec 1.2-alpha is out",
-    "url": "https://www.opus-codec.org/release/dev/2016/11/03/libopus-1_2_alpha.html",
-    "votes": 4,
-    "posted": "Nov 3, 2016 10:47:35 PM"
-  },
-  {
-    "id": "12868303",
-    "timestamp": "Nov 4, 2016 12:33:55 AM",
-    "topic": "What happened when I challenged the PC campus culture at NYU",
-    "url": "https://www.washingtonpost.com/posteverything/wp/2016/11/03/campus-pc-culture-is-so-rampant-that-nyu-is-paying-to-silence-me/",
-    "votes": 21,
-    "posted": "Nov 3, 2016 10:47:33 PM"
-  },
-  {
-    "id": "12868287",
-    "timestamp": "Nov 3, 2016 11:43:50 PM",
-    "topic": "Modern Linux service isolation",
-    "url": "https://defenceforstartups.com/posts/modern-linux-service-isolation.html",
-    "votes": 7,
-    "posted": "Nov 3, 2016 10:46:03 PM"
-  },
-  {
-    "id": "12868106",
-    "timestamp": "Nov 3, 2016 11:03:46 PM",
-    "topic": "Brexit needs to be approved by Parliament",
-    "url": "http://www.bbc.com/news/uk-politics-37857785",
-    "votes": 5,
-    "posted": "Nov 3, 2016 10:24:51 PM"
-  },
-  {
-    "id": "12868033",
-    "timestamp": "Nov 3, 2016 10:43:44 PM",
-    "topic": "Our Civic Duty as Techies",
-    "url": "https://medium.com/@USCTO/our-civic-duty-as-techies-fd2008df76e4#.f0ee1jqjf",
-    "votes": 5,
-    "posted": "Nov 3, 2016 10:17:02 PM"
-  },
-  {
-    "id": "12867991",
-    "timestamp": "Nov 4, 2016 4:25:15 PM",
-    "topic": "Steven Pinker on Language, Reason, and the Future of Violence",
-    "url": "https://medium.com/conversations-with-tyler/steven-pinker-language-instinct-evolutionary-psychology-darwin-chomsky-linguistics-b792d7cd2a05#.pr8d00o74",
-    "votes": 3,
-    "posted": "Nov 3, 2016 10:11:31 PM"
   }
 ];
