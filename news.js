@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12917538",
+    "timestamp": "Nov 10, 2016 6:28:17 AM",
+    "topic": "NeuroEvolution – Flappy Bird",
+    "url": "https://xviniette.github.io/FlappyLearning/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 4:42:51 AM"
+  },
+  {
     "id": "12917407",
     "timestamp": "Nov 10, 2016 4:58:10 AM",
     "topic": "Lenovo is ditching its own brand name to make way for \u0027Moto\u0027",
@@ -124,6 +132,14 @@ var newsArray = [
     "url": "http://blog.cleancoder.com/uncle-bob/2016/10/26/DijkstrasAlg.html",
     "votes": 4,
     "posted": "Nov 10, 2016 12:23:10 AM"
+  },
+  {
+    "id": "12915850",
+    "timestamp": "Nov 10, 2016 6:28:17 AM",
+    "topic": "Andrew Ng – What Artificial Intelligence Can and Can’t Do Right Now",
+    "url": "https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now",
+    "votes": 4,
+    "posted": "Nov 10, 2016 12:18:05 AM"
   },
   {
     "id": "12915809",
@@ -7063,29 +7079,5 @@ var newsArray = [
     "topic": "Streak (YC S11) Hiring a Customer Solutions Engineer",
     "votes": 1,
     "posted": "Nov 3, 2016 7:09:33 AM"
-  },
-  {
-    "id": "12861855",
-    "timestamp": "Nov 3, 2016 7:42:20 AM",
-    "topic": "New Alzheimer’s Drug Clears Milestone in Human Clinical Trial",
-    "url": "https://www.scientificamerican.com/article/new-alzheimer-s-drug-clears-milestone-in-human-clinical-trial1/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 6:45:07 AM"
-  },
-  {
-    "id": "12861823",
-    "timestamp": "Nov 3, 2016 7:22:18 AM",
-    "topic": "Curse broken Cubs win World Series with epic Game 7",
-    "url": "http://www.msn.com/en-us/sports/mlb/curse-broken-cubs-win-world-series-with-epic-game-7/ar-AAjOjB4?OCID\u003dansmsnnews11",
-    "votes": 8,
-    "posted": "Nov 3, 2016 6:33:52 AM"
-  },
-  {
-    "id": "12861815",
-    "timestamp": "Nov 3, 2016 7:22:18 AM",
-    "topic": "Too Many Startups Like Playing Startup",
-    "url": "https://www.groovehq.com/blog/startups-playing-startup?utm_campaign\u003dMattermark+Daily\u0026utm_source\u003dhs_email\u0026utm_medium\u003demail\u0026utm_content\u003d36789099\u0026_hsenc\u003dp2ANqtz-9NgMcFUfuqycnQ_uT255UK9gZGEuMIpquw8R4WevPm5IgL0w9k8eSWlTm7ujNJ47OT0tbPhm0HNABuTZi9gk2c5NcXOA\u0026_hsmi\u003d36789099",
-    "votes": 11,
-    "posted": "Nov 3, 2016 6:30:33 AM"
   }
 ];
