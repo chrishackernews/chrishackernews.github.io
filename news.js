@@ -7087,36 +7087,5 @@ var newsArray = [
     "url": "https://www.groovehq.com/blog/startups-playing-startup?utm_campaign\u003dMattermark+Daily\u0026utm_source\u003dhs_email\u0026utm_medium\u003demail\u0026utm_content\u003d36789099\u0026_hsenc\u003dp2ANqtz-9NgMcFUfuqycnQ_uT255UK9gZGEuMIpquw8R4WevPm5IgL0w9k8eSWlTm7ujNJ47OT0tbPhm0HNABuTZi9gk2c5NcXOA\u0026_hsmi\u003d36789099",
     "votes": 11,
     "posted": "Nov 3, 2016 6:30:33 AM"
-  },
-  {
-    "id": "12861699",
-    "timestamp": "Nov 3, 2016 10:42:36 AM",
-    "topic": "Ask HN: What would you do on your sabbatical?",
-    "votes": 5,
-    "posted": "Nov 3, 2016 5:56:13 AM"
-  },
-  {
-    "id": "12861635",
-    "timestamp": "Nov 3, 2016 6:32:14 AM",
-    "topic": "JavaScript and the Web Platform with Brendan Eich",
-    "url": "https://javascriptair.com/episodes/2016-11-02/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 5:39:53 AM"
-  },
-  {
-    "id": "12861512",
-    "timestamp": "Nov 3, 2016 7:12:17 AM",
-    "topic": "How Bayesian Inference Works",
-    "url": "http://www.datasciencecentral.com/profiles/blogs/how-bayesian-inference-works",
-    "votes": 5,
-    "posted": "Nov 3, 2016 5:06:21 AM"
-  },
-  {
-    "id": "12861492",
-    "timestamp": "Nov 3, 2016 5:32:09 AM",
-    "topic": "How Uber Manages a Million Writes per Second",
-    "url": "http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 4:59:49 AM"
   }
 ];
