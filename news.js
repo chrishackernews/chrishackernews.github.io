@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 9:47:12 AM"
   },
   {
+    "id": "12918711",
+    "timestamp": "Nov 10, 2016 11:48:43 AM",
+    "topic": "The Dutch prison crisis: A shortage of prisoners",
+    "url": "http://www.bbc.co.uk/news/magazine-37904263",
+    "votes": 7,
+    "posted": "Nov 10, 2016 9:37:37 AM"
+  },
+  {
     "id": "12918704",
     "timestamp": "Nov 10, 2016 10:18:35 AM",
     "topic": "The fastest Clojure REPL in the world",
@@ -101,6 +109,14 @@ var newsArray = [
     "url": "https://lwn.net/Articles/705262/",
     "votes": 7,
     "posted": "Nov 10, 2016 6:10:07 AM"
+  },
+  {
+    "id": "12917751",
+    "timestamp": "Nov 10, 2016 11:48:43 AM",
+    "topic": "Colorado Voters Accept Right-To-Die Measure",
+    "url": "http://www.npr.org/sections/thetwo-way/2016/11/09/501476275/colorado-voters-accept-right-to-die-measure",
+    "votes": 3,
+    "posted": "Nov 10, 2016 5:33:49 AM"
   },
   {
     "id": "12917538",
@@ -7046,37 +7062,5 @@ var newsArray = [
     "url": "https://angel.co/mentatapp/jobs/172775-software-engineer",
     "votes": 1,
     "posted": "Nov 3, 2016 12:05:02 PM"
-  },
-  {
-    "id": "12862789",
-    "timestamp": "Nov 3, 2016 12:32:44 PM",
-    "topic": "The secret world of microwave networks",
-    "url": "http://arstechnica.co.uk/information-technology/2016/11/private-microwave-networks-financial-hft/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 11:41:47 AM"
-  },
-  {
-    "id": "12862741",
-    "timestamp": "Nov 3, 2016 11:52:41 AM",
-    "topic": "Safer to Puff, E-Cigarettes Can’t Shake Their Reputation as a Menace",
-    "url": "http://www.nytimes.com/2016/11/02/health/e-cigarette-vape-njoy-bankruptcy.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:27:17 AM"
-  },
-  {
-    "id": "12862736",
-    "timestamp": "Nov 3, 2016 11:52:41 AM",
-    "topic": "British Government loses Article 50 court fight",
-    "url": "http://www.bbc.co.uk/news/uk-politics-37857785",
-    "votes": 25,
-    "posted": "Nov 3, 2016 11:26:08 AM"
-  },
-  {
-    "id": "12862721",
-    "timestamp": "Nov 3, 2016 5:53:11 PM",
-    "topic": "Korg Monologue – Monophonic Analogue Synthesizer",
-    "url": "http://www.korg.com/us/products/synthesizers/monologue/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 11:23:17 AM"
   }
 ];
