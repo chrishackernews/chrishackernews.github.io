@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12921389",
+    "timestamp": "Nov 10, 2016 4:59:09 PM",
+    "topic": "Show HN: Amazon S3, Microsoft Azure, Rackspace, Backblaze via a Single API",
+    "url": "https://cloudrail.com/enterprise-cloud-storage-interface/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 4:50:56 PM"
+  },
+  {
+    "id": "12921154",
+    "timestamp": "Nov 10, 2016 4:39:08 PM",
+    "topic": "Is America Great Yet?",
+    "url": "http://isamericagreatyet.io/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 4:29:25 PM"
+  },
+  {
+    "id": "12920994",
+    "timestamp": "Nov 10, 2016 4:29:06 PM",
+    "topic": "Atom 1.12 released",
+    "url": "http://blog.atom.io/2016/11/09/atom-1-12.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 4:14:21 PM"
+  },
+  {
+    "id": "12920783",
+    "timestamp": "Nov 10, 2016 4:09:05 PM",
+    "topic": "OpenSource Smart Mirror, that recommends you clothes",
+    "url": "https://www.hackster.io/Techblogogy/magic-mirror-w-stylist-4b3ff7",
+    "votes": 4,
+    "posted": "Nov 10, 2016 3:50:51 PM"
+  },
+  {
     "id": "12920598",
     "timestamp": "Nov 10, 2016 3:49:03 PM",
     "topic": "Seven years of Go",
@@ -30,6 +62,14 @@ var newsArray = [
     "url": "https://pop.co/blog/chinese-numeric-domain-names-pinyin/",
     "votes": 3,
     "posted": "Nov 10, 2016 3:15:22 PM"
+  },
+  {
+    "id": "12920449",
+    "timestamp": "Nov 10, 2016 4:09:05 PM",
+    "topic": "C puzzles",
+    "url": "http://www.gowrikumar.com/c/index.php",
+    "votes": 7,
+    "posted": "Nov 10, 2016 3:09:14 PM"
   },
   {
     "id": "12920447",
@@ -72,6 +112,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 2:05:08 PM"
   },
   {
+    "id": "12919975",
+    "timestamp": "Nov 10, 2016 4:29:07 PM",
+    "topic": "The Battle Against TPP Isn’t Over, but It Has Shifted",
+    "url": "https://www.eff.org/deeplinks/2016/11/battle-against-tpp-isnt-over-it-has-shifted",
+    "votes": 3,
+    "posted": "Nov 10, 2016 1:58:28 PM"
+  },
+  {
     "id": "12919894",
     "timestamp": "Nov 10, 2016 1:58:53 PM",
     "topic": "“Trump will be the first anti-science president we have ever had”",
@@ -96,6 +144,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 1:21:35 PM"
   },
   {
+    "id": "12919758",
+    "timestamp": "Nov 10, 2016 4:19:06 PM",
+    "topic": "Facebook demonstrates record-breaking data rate using millimeter-wave technology",
+    "url": "https://code.facebook.com/posts/1197678800270377/facebook-demonstrates-record-breaking-data-rate-using-millimeter-wave-technology/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 1:17:41 PM"
+  },
+  {
     "id": "12919746",
     "timestamp": "Nov 10, 2016 2:48:57 PM",
     "topic": "When Pseudosex Is Better Than the Real Thing",
@@ -112,6 +168,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 1:03:49 PM"
   },
   {
+    "id": "12919685",
+    "timestamp": "Nov 10, 2016 4:29:07 PM",
+    "topic": "Google’s miniature radars can now identify objects",
+    "url": "http://www.theverge.com/2016/11/10/13582700/google-soli-radarcat-object-recognition",
+    "votes": 5,
+    "posted": "Nov 10, 2016 1:02:01 PM"
+  },
+  {
     "id": "12919683",
     "timestamp": "Nov 10, 2016 2:48:57 PM",
     "topic": "1983 Iphone Prototype",
@@ -126,6 +190,14 @@ var newsArray = [
     "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.jhhanptn7",
     "votes": 4,
     "posted": "Nov 10, 2016 12:51:57 PM"
+  },
+  {
+    "id": "12919390",
+    "timestamp": "Nov 10, 2016 4:39:08 PM",
+    "topic": "Silicon Valley Is Worried That Trump Is Going to Grab Them by the Data",
+    "url": "https://www.buzzfeed.com/sheerafrenkel/silicon-valley-is-worried-that-trump-is-going-to-g",
+    "votes": 5,
+    "posted": "Nov 10, 2016 12:02:07 PM"
   },
   {
     "id": "12919257",
@@ -149,6 +221,14 @@ var newsArray = [
     "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
     "votes": 4,
     "posted": "Nov 10, 2016 10:50:27 AM"
+  },
+  {
+    "id": "12918967",
+    "timestamp": "Nov 10, 2016 4:49:09 PM",
+    "topic": "Michael Moore’s 5-Point Plan Post Is Being Shared by 30,000 People an Hour",
+    "url": "https://www.good.is/articles/moore-five-point-plan?sid\u003dsst314956uh",
+    "votes": 3,
+    "posted": "Nov 10, 2016 10:32:33 AM"
   },
   {
     "id": "12918756",
@@ -199,11 +279,35 @@ var newsArray = [
     "posted": "Nov 10, 2016 8:56:49 AM"
   },
   {
+    "id": "12918493",
+    "timestamp": "Nov 10, 2016 4:59:10 PM",
+    "topic": "Do the Right Thing and Leave Judgment to Algorithms",
+    "url": "http://www.3quarksdaily.com/3quarksdaily/2016/11/do-the-right-thing-and-leave-judgment-to-algorithms-.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 8:42:44 AM"
+  },
+  {
+    "id": "12918490",
+    "timestamp": "Nov 10, 2016 4:59:10 PM",
+    "topic": "Silicon Valley investors call for California to secede from the US",
+    "url": "https://www.theguardian.com/technology/2016/nov/09/trump-win-california-secede-calexit-silicon-valley",
+    "votes": 3,
+    "posted": "Nov 10, 2016 8:42:07 AM"
+  },
+  {
     "id": "12918465",
     "timestamp": "Nov 10, 2016 8:38:28 AM",
     "topic": "Standard Cyborg Is Hiring a Customer Success Manager",
     "votes": 1,
     "posted": "Nov 10, 2016 8:37:19 AM"
+  },
+  {
+    "id": "12918437",
+    "timestamp": "Nov 10, 2016 4:59:10 PM",
+    "topic": "President Obama Should Shut Down the NSA’s Mass Spying Before It’s Too Late",
+    "url": "http://time.com/4565149/obama-trump-nsa-surveillance/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 8:30:17 AM"
   },
   {
     "id": "12918432",
@@ -2939,6 +3043,14 @@ var newsArray = [
     "url": "http://bryce.vc/post/152734313405/you-dont-need-a-master-plan-you-just-need-to",
     "votes": 3,
     "posted": "Nov 7, 2016 6:38:08 PM"
+  },
+  {
+    "id": "12892738",
+    "timestamp": "Nov 10, 2016 4:39:08 PM",
+    "topic": "Scientists present the most accurate time measurements of quantum jumps to date",
+    "url": "http://phys.org/news/2016-11-scientists-accurate-quantum-date.html",
+    "votes": 5,
+    "posted": "Nov 7, 2016 6:14:52 PM"
   },
   {
     "id": "12892643",
@@ -7126,68 +7238,5 @@ var newsArray = [
     "url": "http://www.imore.com/macbook-pro",
     "votes": 3,
     "posted": "Nov 3, 2016 5:02:31 PM"
-  },
-  {
-    "id": "12864862",
-    "timestamp": "Nov 3, 2016 7:13:21 PM",
-    "topic": "Show HN: HTMLComponent – Component-Based UIs Using Only ES6 and Custom Elements",
-    "url": "https://github.com/felipeccastro/html-component/",
-    "votes": 6,
-    "posted": "Nov 3, 2016 4:38:29 PM"
-  },
-  {
-    "id": "12864806",
-    "timestamp": "Nov 3, 2016 4:53:06 PM",
-    "topic": "Why Slack may live to regret its smarmy letter to Microsoft",
-    "url": "http://www.theverge.com/2016/11/3/13504932/slack-microsoft-teams-letter-wtf",
-    "votes": 8,
-    "posted": "Nov 3, 2016 4:32:37 PM"
-  },
-  {
-    "id": "12864753",
-    "timestamp": "Nov 3, 2016 4:33:04 PM",
-    "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
-    "url": "https://fullstackacademy.workable.com/jobs/186349",
-    "votes": 1,
-    "posted": "Nov 3, 2016 4:28:11 PM"
-  },
-  {
-    "id": "12864727",
-    "timestamp": "Nov 3, 2016 4:43:05 PM",
-    "topic": "The Steve Jobs email that outlined Apple’s strategy a year before his death",
-    "url": "http://qz.com/196005/the-steve-jobs-email-that-outlined-apples-strategy-a-year-before-his-death/",
-    "votes": 5,
-    "posted": "Nov 3, 2016 4:25:41 PM"
-  },
-  {
-    "id": "12864704",
-    "timestamp": "Nov 3, 2016 4:43:05 PM",
-    "topic": "FLV Player in JavaScript",
-    "url": "https://github.com/Bilibili/flv.js",
-    "votes": 3,
-    "posted": "Nov 3, 2016 4:23:02 PM"
-  },
-  {
-    "id": "12864673",
-    "timestamp": "Nov 3, 2016 5:33:10 PM",
-    "topic": "Wherefore art thou Macintosh?",
-    "url": "http://www.asymco.com/2016/11/02/wherefore-art-thou-macintosh/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 4:19:11 PM"
-  },
-  {
-    "id": "12864592",
-    "timestamp": "Nov 4, 2016 6:35:27 PM",
-    "topic": "Ask HN: Have You Ever Hired Developers to Work on Your Personal Projects?",
-    "votes": 6,
-    "posted": "Nov 3, 2016 4:11:43 PM"
-  },
-  {
-    "id": "12864475",
-    "timestamp": "Nov 3, 2016 4:23:03 PM",
-    "topic": "Mega Commuters in the U.S [pdf]",
-    "url": "https://www.census.gov/hhes/commuting/files/2012/Paper-Poster_Megacommuting%20in%20the%20US.pdf",
-    "votes": 7,
-    "posted": "Nov 3, 2016 3:59:29 PM"
   }
 ];
