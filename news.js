@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12918191",
+    "timestamp": "Nov 10, 2016 7:48:24 AM",
+    "topic": "WOT is selling your PII and browsing history",
+    "url": "http://lifehacker.com/web-of-trust-sells-your-browsing-history-uninstall-it-1788667989",
+    "votes": 3,
+    "posted": "Nov 10, 2016 7:31:40 AM"
+  },
+  {
+    "id": "12917929",
+    "timestamp": "Nov 10, 2016 7:08:20 AM",
+    "topic": "Nasty Gal is expected to file for bankruptcy",
+    "url": "http://www.recode.net/2016/11/9/13578718/nasty-gal-is-expected-to-file-for-bankruptcy",
+    "votes": 4,
+    "posted": "Nov 10, 2016 6:15:00 AM"
+  },
+  {
+    "id": "12917924",
+    "timestamp": "Nov 10, 2016 7:18:22 AM",
+    "topic": "How Japan Prepares Its Children for Independence",
+    "url": "http://savvytokyo.com/japan-prepares-children-independence/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 6:13:12 AM"
+  },
+  {
+    "id": "12917912",
+    "timestamp": "Nov 10, 2016 7:18:22 AM",
+    "topic": "The status of Linux kernel hardening",
+    "url": "https://lwn.net/Articles/705262/",
+    "votes": 7,
+    "posted": "Nov 10, 2016 6:10:07 AM"
+  },
+  {
     "id": "12917538",
     "timestamp": "Nov 10, 2016 6:28:17 AM",
     "topic": "NeuroEvolution – Flappy Bird",
@@ -434,6 +466,13 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/10/business/dealbook/stock-markets-election.html",
     "votes": 5,
     "posted": "Nov 9, 2016 7:03:14 PM"
+  },
+  {
+    "id": "12912611",
+    "timestamp": "Nov 10, 2016 7:28:23 AM",
+    "topic": "Ask HN: Are generalists doomed in the job market?",
+    "votes": 10,
+    "posted": "Nov 9, 2016 6:48:57 PM"
   },
   {
     "id": "12912608",
@@ -7064,20 +7103,5 @@ var newsArray = [
     "url": "http://theusualroutine.com/2016/11/01/cost-iphone-can-now-buy-wind-turbine-can-power-entire-house-lifetime/",
     "votes": 4,
     "posted": "Nov 3, 2016 8:15:10 AM"
-  },
-  {
-    "id": "12862061",
-    "timestamp": "Nov 3, 2016 12:12:43 PM",
-    "topic": "Razer Blade Stealth review",
-    "url": "http://www.notebookcheck.net/Razer-Blade-Stealth-i7-7500U-Notebook-Review.182060.0.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 7:54:55 AM"
-  },
-  {
-    "id": "12861920",
-    "timestamp": "Nov 3, 2016 7:12:17 AM",
-    "topic": "Streak (YC S11) Hiring a Customer Solutions Engineer",
-    "votes": 1,
-    "posted": "Nov 3, 2016 7:09:33 AM"
   }
 ];
