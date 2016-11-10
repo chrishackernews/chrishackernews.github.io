@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "12924218",
+    "timestamp": "Nov 10, 2016 9:59:40 PM",
+    "topic": "Heap (YC W13) is hiring engineers to build a new approach to analytics",
+    "url": "https://heapanalytics.com/jobs#engineer",
+    "votes": 1,
+    "posted": "Nov 10, 2016 9:51:27 PM"
+  },
+  {
+    "id": "12924051",
+    "timestamp": "Nov 10, 2016 9:39:39 PM",
+    "topic": "Warning: 2016 MacBook Pro is not compatible with Linux",
+    "url": "https://www.reddit.com/r/Ubuntu/comments/5c8s1k/warning_2016_macbook_pro_is_not_compatible_with/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 9:32:28 PM"
+  },
+  {
+    "id": "12924020",
+    "timestamp": "Nov 10, 2016 9:59:41 PM",
+    "topic": "Introduction to Machine Learning for Developers",
+    "url": "http://blog.algorithmia.com/introduction-machine-learning-developers/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 9:29:01 PM"
+  },
+  {
+    "id": "12923879",
+    "timestamp": "Nov 10, 2016 9:59:41 PM",
+    "topic": "Ask HN: Good resources/sites for things every programmer should know?",
+    "votes": 3,
+    "posted": "Nov 10, 2016 9:16:20 PM"
+  },
+  {
+    "id": "12923692",
+    "timestamp": "Nov 10, 2016 9:09:36 PM",
+    "topic": "Announcing Rust 1.13",
+    "url": "https://blog.rust-lang.org/2016/11/10/Rust-1.13.html",
+    "votes": 11,
+    "posted": "Nov 10, 2016 8:57:30 PM"
+  },
+  {
+    "id": "12923677",
+    "timestamp": "Nov 10, 2016 9:19:37 PM",
+    "topic": "Halite: An AI Programming Challenge",
+    "url": "https://halite.io/",
+    "votes": 6,
+    "posted": "Nov 10, 2016 8:56:20 PM"
+  },
+  {
     "id": "12923460",
     "timestamp": "Nov 10, 2016 8:49:34 PM",
     "topic": "Work/Life Balance Will Make You a Better Software Engineer",
@@ -30,6 +77,14 @@ var newsArray = [
     "url": "https://www.greatagain.gov",
     "votes": 7,
     "posted": "Nov 10, 2016 8:22:51 PM"
+  },
+  {
+    "id": "12923273",
+    "timestamp": "Nov 10, 2016 9:09:36 PM",
+    "topic": "Facebook, I’m Begging You, Please Make Yourself Better",
+    "url": "https://theintercept.com/2016/11/10/facebook-im-begging-you-please-make-yourself-better/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 8:14:18 PM"
   },
   {
     "id": "12923266",
@@ -197,6 +252,14 @@ var newsArray = [
     "topic": "Show HN: End to end encryption for Twitter direct messages",
     "votes": 3,
     "posted": "Nov 10, 2016 5:15:58 PM"
+  },
+  {
+    "id": "12921606",
+    "timestamp": "Nov 10, 2016 9:19:37 PM",
+    "topic": "NET Core Data Access",
+    "url": "https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 5:11:13 PM"
   },
   {
     "id": "12921570",
@@ -7161,53 +7224,5 @@ var newsArray = [
     "url": "https://medium.com/conversations-with-tyler/steven-pinker-language-instinct-evolutionary-psychology-darwin-chomsky-linguistics-b792d7cd2a05#.pr8d00o74",
     "votes": 3,
     "posted": "Nov 3, 2016 10:11:31 PM"
-  },
-  {
-    "id": "12867843",
-    "timestamp": "Nov 3, 2016 10:23:42 PM",
-    "topic": "How Airbnb Makes It Hard to Sue for Discrimination",
-    "url": "http://www.newyorker.com/business/currency/how-airbnb-makes-it-hard-to-sue-for-discrimination",
-    "votes": 6,
-    "posted": "Nov 3, 2016 9:53:21 PM"
-  },
-  {
-    "id": "12867795",
-    "timestamp": "Nov 3, 2016 10:03:40 PM",
-    "topic": "GoPro trading halted as company misses revenue expectations by 23%",
-    "url": "https://techcrunch.com/2016/11/03/gopro-trading-halted-as-company-misses-revenue-expectations-by-23/",
-    "votes": 12,
-    "posted": "Nov 3, 2016 9:47:14 PM"
-  },
-  {
-    "id": "12867634",
-    "timestamp": "Nov 3, 2016 9:43:38 PM",
-    "topic": "Yet another JVM language? Whiley takes a fresh approach",
-    "url": "http://www.javaworld.com/article/3137548/scripting-jvm-languages/yet-another-jvm-language-whiley-takes-a-fresh-approach.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 9:27:51 PM"
-  },
-  {
-    "id": "12867586",
-    "timestamp": "Nov 4, 2016 6:05:25 PM",
-    "topic": "Want to Know What Virtual Reality Might Become? Look to the Past",
-    "url": "http://www.nytimes.com/2016/11/06/magazine/want-to-know-what-virtual-reality-might-become-look-to-the-past.html",
-    "votes": 5,
-    "posted": "Nov 3, 2016 9:21:20 PM"
-  },
-  {
-    "id": "12867500",
-    "timestamp": "Nov 3, 2016 11:03:46 PM",
-    "topic": "Mirai botnet almost gets Liberia offline",
-    "url": "http://www.zdnet.com/article/mirai-botnet-attack-briefly-knocked-an-entire-country-offline/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 9:10:41 PM"
-  },
-  {
-    "id": "12867417",
-    "timestamp": "Nov 3, 2016 11:43:50 PM",
-    "topic": "Silicon Beach: Los Angeles booms as startup hub",
-    "url": "http://www.economist.com/news/business/21709564-cheaper-location-tech-companies-takes-los-angeles-booms-startup-hub",
-    "votes": 5,
-    "posted": "Nov 3, 2016 9:00:24 PM"
   }
 ];
