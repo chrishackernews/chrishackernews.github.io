@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12916278",
+    "timestamp": "Nov 10, 2016 1:57:52 AM",
+    "topic": "Angular 3 is hot on the heels of Angular 2",
+    "url": "http://www.infoworld.com/article/3139891/javascript/angular-3-is-hot-on-the-heels-of-angular-2.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 1:09:18 AM"
+  },
+  {
+    "id": "12916082",
+    "timestamp": "Nov 10, 2016 1:07:48 AM",
+    "topic": "Pangu Team talk: iOS 9 internals [pdf]",
+    "url": "http://blog.pangu.io/wp-content/uploads/2016/08/us-16-Pangu9-Internals.pdf",
+    "votes": 3,
+    "posted": "Nov 10, 2016 12:43:19 AM"
+  },
+  {
     "id": "12915904",
     "timestamp": "Nov 10, 2016 12:37:45 AM",
     "topic": "TDD Dijkstra\u0027s Algorithm as Performed by Uncle Bob",
@@ -7105,45 +7121,5 @@ var newsArray = [
     "url": "http://phys.org/news/2016-11-supercomputer-profile-dark-standard-extension.html",
     "votes": 4,
     "posted": "Nov 3, 2016 2:01:59 AM"
-  },
-  {
-    "id": "12860729",
-    "timestamp": "Nov 3, 2016 3:01:55 AM",
-    "topic": "Copyright Office Sets Trap for Unwary Website Owners",
-    "url": "https://www.eff.org/deeplinks/2016/11/copyright-office-sets-trap-unwary-website-owners",
-    "votes": 4,
-    "posted": "Nov 3, 2016 1:50:27 AM"
-  },
-  {
-    "id": "12860727",
-    "timestamp": "Nov 3, 2016 2:21:51 AM",
-    "topic": "The disturbing Facebook scandal we\u0027re all ignoring",
-    "url": "http://www.businessinsider.com/facebook-scandal-we-ignore-2016-11",
-    "votes": 3,
-    "posted": "Nov 3, 2016 1:50:26 AM"
-  },
-  {
-    "id": "12860655",
-    "timestamp": "Nov 3, 2016 1:52:51 PM",
-    "topic": "He Loved Opium, Murder and Wordsworth",
-    "url": "http://www.nytimes.com/2016/10/30/books/review/he-loved-opium-murder-and-wordsworth.html?_r\u003d0",
-    "votes": 7,
-    "posted": "Nov 3, 2016 1:33:53 AM"
-  },
-  {
-    "id": "12860602",
-    "timestamp": "Nov 3, 2016 2:01:49 AM",
-    "topic": "Show HN: SkateJS – a cross framework web components based library",
-    "url": "https://github.com/skatejs/skatejs",
-    "votes": 4,
-    "posted": "Nov 3, 2016 1:23:27 AM"
-  },
-  {
-    "id": "12860504",
-    "timestamp": "Nov 5, 2016 10:58:42 PM",
-    "topic": "Deep in New Zealand",
-    "url": "http://www.nybooks.com/daily/2016/10/27/deep-in-new-zealand-going-bush/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 1:02:28 AM"
   }
 ];
