@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12915904",
+    "timestamp": "Nov 10, 2016 12:37:45 AM",
+    "topic": "TDD Dijkstra\u0027s Algorithm as Performed by Uncle Bob",
+    "url": "http://blog.cleancoder.com/uncle-bob/2016/10/26/DijkstrasAlg.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 12:23:10 AM"
+  },
+  {
+    "id": "12915809",
+    "timestamp": "Nov 10, 2016 12:37:45 AM",
+    "topic": "The One Method I’ve Used to Eliminate Bad Tech Hires",
+    "url": "https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 12:13:47 AM"
+  },
+  {
+    "id": "12915797",
+    "timestamp": "Nov 10, 2016 12:47:46 AM",
+    "topic": "Icahn Left Trump Victory Party to Bet $1B on Stocks",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-09/icahn-left-trump-victory-party-to-bet-1-billion-on-u-s-stocks",
+    "votes": 5,
+    "posted": "Nov 10, 2016 12:12:43 AM"
+  },
+  {
+    "id": "12915773",
+    "timestamp": "Nov 10, 2016 12:17:42 AM",
+    "topic": "Abacus (YC W14) is looking for a designer",
+    "url": "https://jobs.lever.co/abacus/1ecd9f74-03ca-4741-9fba-bcd5656425b7",
+    "votes": 1,
+    "posted": "Nov 10, 2016 12:09:28 AM"
+  },
+  {
+    "id": "12915749",
+    "timestamp": "Nov 10, 2016 12:27:44 AM",
+    "topic": "Well written blog post explaining Trump\u0027s victory",
+    "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.naed8cy1v",
+    "votes": 7,
+    "posted": "Nov 10, 2016 12:05:01 AM"
+  },
+  {
+    "id": "12915619",
+    "timestamp": "Nov 10, 2016 12:47:46 AM",
+    "topic": "TensorFlow – Google\u0027s Machine Learning System Open Sourced",
+    "url": "https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html",
+    "votes": 5,
+    "posted": "Nov 9, 2016 11:51:55 PM"
+  },
+  {
     "id": "12915515",
     "timestamp": "Nov 9, 2016 11:47:39 PM",
     "topic": "The SSD Endurance Experiment: They\u0027re All Dead",
@@ -62,6 +110,14 @@ var newsArray = [
     "url": "https://www.sec.gov/Archives/edgar/data/1418091/000156459016028706/twtr-ex991_6.htm",
     "votes": 5,
     "posted": "Nov 9, 2016 11:12:50 PM"
+  },
+  {
+    "id": "12915148",
+    "timestamp": "Nov 10, 2016 12:17:43 AM",
+    "topic": "Twitter’s Chief Operating Officer to Step Down",
+    "url": "http://www.nytimes.com/2016/11/10/technology/adam-bain-twitter-chief-operating-officer-step-down.html",
+    "votes": 10,
+    "posted": "Nov 9, 2016 11:02:15 PM"
   },
   {
     "id": "12914828",
@@ -160,6 +216,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 8:26:49 PM"
   },
   {
+    "id": "12913369",
+    "timestamp": "Nov 10, 2016 12:47:46 AM",
+    "topic": "The Intelligentsia Takes a Hit",
+    "url": "https://mises.org/blog/intelligentsia-takes-hit",
+    "votes": 4,
+    "posted": "Nov 9, 2016 7:54:04 PM"
+  },
+  {
     "id": "12913366",
     "timestamp": "Nov 9, 2016 7:57:18 PM",
     "topic": "Captain401 (YC S15) is hiring a UI Engineer to help people save for retirement",
@@ -253,6 +317,13 @@ var newsArray = [
     "url": "http://venturebeat.com/2016/11/07/how-our-dumb-bot-attracted-1-million-users-without-even-trying/",
     "votes": 5,
     "posted": "Nov 9, 2016 6:18:22 PM"
+  },
+  {
+    "id": "12912192",
+    "timestamp": "Nov 10, 2016 12:47:46 AM",
+    "topic": "Ask HN: Any tech companies/devs doing anything to honor veterans this year?",
+    "votes": 3,
+    "posted": "Nov 9, 2016 6:16:31 PM"
   },
   {
     "id": "12912133",
@@ -1019,6 +1090,14 @@ var newsArray = [
     "url": "https://github.com/worldofpiggy/deeplearning-ahem-detector",
     "votes": 5,
     "posted": "Nov 9, 2016 2:23:08 AM"
+  },
+  {
+    "id": "12905346",
+    "timestamp": "Nov 10, 2016 12:07:42 AM",
+    "topic": "Show HN: I\u0027m 17 and I created an iOS app to hide one photo within another",
+    "url": "https://itunes.apple.com/us/app/veil-hide-and-reveal-photos/id1171571496",
+    "votes": 7,
+    "posted": "Nov 9, 2016 2:07:45 AM"
   },
   {
     "id": "12905265",
@@ -7066,53 +7145,5 @@ var newsArray = [
     "url": "http://www.nybooks.com/daily/2016/10/27/deep-in-new-zealand-going-bush/",
     "votes": 3,
     "posted": "Nov 3, 2016 1:02:28 AM"
-  },
-  {
-    "id": "12860427",
-    "timestamp": "Nov 3, 2016 4:12:00 AM",
-    "topic": "Car insurance rates to be determined by Facebook posts",
-    "url": "https://thestack.com/world/2016/11/02/admiral-facebook-car-insurance/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 12:48:55 AM"
-  },
-  {
-    "id": "12860413",
-    "timestamp": "Nov 3, 2016 6:22:13 AM",
-    "topic": "Getting what you paid for? Benchmark your VPS in 5 mins",
-    "url": "https://haydenjames.io/web-host-doesnt-want-read-benchmark-vps/",
-    "votes": 6,
-    "posted": "Nov 3, 2016 12:45:49 AM"
-  },
-  {
-    "id": "12860368",
-    "timestamp": "Nov 3, 2016 2:41:53 AM",
-    "topic": "Germany unveils zero-emissions train that only emits steam",
-    "url": "http://www.independent.co.uk/news/world/europe/germany-unveils-zero-emissions-train-only-emits-steam-lower-saxony-hydrogen-powered-a7391581.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 12:35:10 AM"
-  },
-  {
-    "id": "12860281",
-    "timestamp": "Nov 3, 2016 1:21:46 AM",
-    "topic": "When You Need Blockchain vs. Database",
-    "url": "https://pbs.twimg.com/media/Cn2zMbTWYAAQA6i.png",
-    "votes": 4,
-    "posted": "Nov 3, 2016 12:18:32 AM"
-  },
-  {
-    "id": "12860201",
-    "timestamp": "Nov 3, 2016 1:31:47 AM",
-    "topic": "Fitbit crashes 30% after missing on sales",
-    "url": "http://uk.businessinsider.com/fitbit-shares-fall-after-q3-earnings-2016-11",
-    "votes": 4,
-    "posted": "Nov 3, 2016 12:04:46 AM"
-  },
-  {
-    "id": "12860160",
-    "timestamp": "Nov 3, 2016 12:21:41 AM",
-    "topic": "Phil Schiller Inital Response to MBP Criticism",
-    "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/features/apple-macbook-pro-new-philip-schiller-interview-phil-iphone-ios-criticism-a7393156.html",
-    "votes": 3,
-    "posted": "Nov 2, 2016 11:58:54 PM"
   }
 ];
