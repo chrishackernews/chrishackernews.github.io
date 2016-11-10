@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12922921",
+    "timestamp": "Nov 10, 2016 7:49:28 PM",
+    "topic": "Show HN: Generate Database Driven Web Apps and API\u0027s with Fields from a YAML File",
+    "url": "https://github.com/Leo-G/Flask-Scaffold",
+    "votes": 4,
+    "posted": "Nov 10, 2016 7:34:25 PM"
+  },
+  {
+    "id": "12922853",
+    "timestamp": "Nov 10, 2016 7:49:29 PM",
+    "topic": "Trump transition team picks regulation foe as telecom point man",
+    "url": "http://www.politico.com/story/2016/10/trump-transition-team-jeffrey-eisenach-229276",
+    "votes": 6,
+    "posted": "Nov 10, 2016 7:27:15 PM"
+  },
+  {
+    "id": "12922625",
+    "timestamp": "Nov 10, 2016 7:19:26 PM",
+    "topic": "How would the media cover Trump\u0027s victory if America were a third-world country?",
+    "url": "http://scroll.in/article/821100/how-would-the-media-cover-donald-trumps-victory-if-america-were-a-third-world-country",
+    "votes": 3,
+    "posted": "Nov 10, 2016 6:59:24 PM"
+  },
+  {
+    "id": "12922520",
+    "timestamp": "Nov 10, 2016 7:09:25 PM",
+    "topic": "New Ukrainian Rocket Launcher Appears to Use Raspberry Pi",
+    "url": "http://www.popularmechanics.com/military/weapons/a23774/raspberry-pi-ukrainian-weapon-system/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 6:46:41 PM"
+  },
+  {
+    "id": "12922514",
+    "timestamp": "Nov 10, 2016 7:09:24 PM",
+    "topic": "Show HN: Reorganize pixels of a painting into a smooth color palette using PCA",
+    "url": "https://github.com/ardila/paintingReorganize",
+    "votes": 5,
+    "posted": "Nov 10, 2016 6:46:02 PM"
+  },
+  {
+    "id": "12922457",
+    "timestamp": "Nov 10, 2016 7:09:25 PM",
+    "topic": "Silicon Valley Braces for Uncertainty After Donald Trump’s Victory",
+    "url": "http://www.wsj.com/articles/silicon-valley-braces-for-uncertainty-after-donald-trumps-victory-1478716165",
+    "votes": 5,
+    "posted": "Nov 10, 2016 6:40:00 PM"
+  },
+  {
     "id": "12922202",
     "timestamp": "Nov 10, 2016 6:49:23 PM",
     "topic": "The WikiLeaks AMA is now live at Reddit",
@@ -119,6 +167,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 4:14:21 PM"
   },
   {
+    "id": "12920905",
+    "timestamp": "Nov 10, 2016 7:09:25 PM",
+    "topic": "Airflow: a workflow management platform – Airbnb Engineering",
+    "url": "http://nerds.airbnb.com/airflow/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 4:03:57 PM"
+  },
+  {
     "id": "12920783",
     "timestamp": "Nov 10, 2016 4:09:05 PM",
     "topic": "OpenSource Smart Mirror, that recommends you clothes",
@@ -149,6 +205,22 @@ var newsArray = [
     "url": "https://blog.golang.org/7years",
     "votes": 11,
     "posted": "Nov 10, 2016 3:30:27 PM"
+  },
+  {
+    "id": "12920591",
+    "timestamp": "Nov 10, 2016 7:49:28 PM",
+    "topic": "Show HN: GitHub-Hovercard v0.9.0",
+    "url": "https://justineo.github.io/github-hovercard/?v0.9.0+Edge",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:29:17 PM"
+  },
+  {
+    "id": "12920556",
+    "timestamp": "Nov 10, 2016 7:09:25 PM",
+    "topic": "Android: Choice at every turn",
+    "url": "https://blog.google/topics/google-europe/android-choice-competition-response-europe/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 3:24:15 PM"
   },
   {
     "id": "12920498",
@@ -277,6 +349,14 @@ var newsArray = [
     "url": "http://nautil.us/issue/42/fakes/when-pseudosex-is-better-than-the-real-thing",
     "votes": 6,
     "posted": "Nov 10, 2016 1:15:04 PM"
+  },
+  {
+    "id": "12919700",
+    "timestamp": "Nov 10, 2016 7:09:25 PM",
+    "topic": "Work/Life Balance Will Make You a Better Software Engineer",
+    "url": "https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/",
+    "votes": 6,
+    "posted": "Nov 10, 2016 1:04:51 PM"
   },
   {
     "id": "12919693",
@@ -531,6 +611,14 @@ var newsArray = [
     "url": "https://xviniette.github.io/FlappyLearning/",
     "votes": 4,
     "posted": "Nov 10, 2016 4:42:51 AM"
+  },
+  {
+    "id": "12917493",
+    "timestamp": "Nov 10, 2016 7:09:25 PM",
+    "topic": "Teju Cole Reminds Us of Life Beyond Politics, and the Beauty of Art",
+    "url": "http://lithub.com/teju-cole-reminds-us-of-life-beyond-politics-and-the-beauty-of-art/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 4:32:42 AM"
   },
   {
     "id": "12917466",
@@ -7152,84 +7240,5 @@ var newsArray = [
     "url": "https://sodaphonic.com",
     "votes": 4,
     "posted": "Nov 3, 2016 8:04:14 PM"
-  },
-  {
-    "id": "12866784",
-    "timestamp": "Nov 3, 2016 7:53:25 PM",
-    "topic": "Apple Kills the Best MacBook Pro in the World",
-    "url": "http://www.forbes.com/sites/ewanspence/2016/10/27/apple-kills-best-macbook-pro/#58f2206b39bf",
-    "votes": 3,
-    "posted": "Nov 3, 2016 7:48:43 PM"
-  },
-  {
-    "id": "12866747",
-    "timestamp": "Nov 3, 2016 8:03:26 PM",
-    "topic": "Apollo Client 0.5",
-    "url": "https://dev-blog.apollodata.com/apollo-client-0-5-f1eb3f122ace",
-    "votes": 4,
-    "posted": "Nov 3, 2016 7:44:22 PM"
-  },
-  {
-    "id": "12866723",
-    "timestamp": "Nov 3, 2016 8:43:31 PM",
-    "topic": "Edward Snowden\u0027s Lecture at McGill University – Nov 2nd, 2016 – Start ±1:16:20",
-    "url": "https://www.youtube.com/watch?v\u003d4x8ZI0IaInE",
-    "votes": 5,
-    "posted": "Nov 3, 2016 7:41:53 PM"
-  },
-  {
-    "id": "12866695",
-    "timestamp": "Nov 3, 2016 8:33:29 PM",
-    "topic": "Ask HN: What is a “boring” web stack?",
-    "votes": 7,
-    "posted": "Nov 3, 2016 7:38:58 PM"
-  },
-  {
-    "id": "12866629",
-    "timestamp": "Nov 3, 2016 8:23:28 PM",
-    "topic": "New Macbook Pro can\u0027t walk and chew gum at same time (watch wifi and USB \u003d fail)",
-    "url": "https://www.youtube.com/watch?v\u003dNYVjIjBMx6o",
-    "votes": 4,
-    "posted": "Nov 3, 2016 7:33:31 PM"
-  },
-  {
-    "id": "12866553",
-    "timestamp": "Nov 3, 2016 8:43:30 PM",
-    "topic": "Curiosity Mars Rover Checks Odd-Looking Iron Meteorite",
-    "url": "http://www.jpl.nasa.gov/news/news.php?feature\u003d6667",
-    "votes": 4,
-    "posted": "Nov 3, 2016 7:25:17 PM"
-  },
-  {
-    "id": "12866538",
-    "timestamp": "Nov 3, 2016 8:33:29 PM",
-    "topic": "Show HN: Quick JavaScript Tetris – Based on Yesterday\u0027s Show HN",
-    "url": "https://github.com/sacert/Quick-Tetris",
-    "votes": 3,
-    "posted": "Nov 3, 2016 7:23:53 PM"
-  },
-  {
-    "id": "12866532",
-    "timestamp": "Nov 4, 2016 12:23:54 AM",
-    "topic": "Show HN: Building a Deep Learning Powered GIF Search Engine",
-    "url": "https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525#.q6sm3hobp",
-    "votes": 11,
-    "posted": "Nov 3, 2016 7:22:58 PM"
-  },
-  {
-    "id": "12866393",
-    "timestamp": "Nov 4, 2016 5:25:20 PM",
-    "topic": "Natural Selection: How a New Age Hustler Sold the Sound of the World",
-    "url": "http://pitchfork.com/features/cover-story/9971-natural-selection-how-a-new-age-hustler-sold-the-sound-of-the-world/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 7:06:57 PM"
-  },
-  {
-    "id": "12866328",
-    "timestamp": "Nov 3, 2016 8:33:29 PM",
-    "topic": "46% of 2015 Tech IPOs Are Underwater, 62% Under Their First Day Closes",
-    "url": "https://mattermark.com/46-2015-tech-ipos-underwater-62-first-day-closes/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 7:00:04 PM"
   }
 ];
