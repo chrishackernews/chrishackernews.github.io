@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12921652",
+    "timestamp": "Nov 10, 2016 5:29:12 PM",
+    "topic": "Show HN: End to end encryption for Twitter direct messages",
+    "votes": 3,
+    "posted": "Nov 10, 2016 5:15:58 PM"
+  },
+  {
+    "id": "12921570",
+    "timestamp": "Nov 10, 2016 5:49:14 PM",
+    "topic": "PHP 7 at Tumblr",
+    "url": "https://engineering.tumblr.com/post/152998126990/php-7-at-tumblr",
+    "votes": 5,
+    "posted": "Nov 10, 2016 5:08:03 PM"
+  },
+  {
+    "id": "12921397",
+    "timestamp": "Nov 10, 2016 5:09:11 PM",
+    "topic": "The Threat of a Brain Drain Under a Trump Presidency Is Real",
+    "url": "http://motherboard.vice.com/read/trump-election-science-tech",
+    "votes": 3,
+    "posted": "Nov 10, 2016 4:52:05 PM"
+  },
+  {
     "id": "12921389",
     "timestamp": "Nov 10, 2016 4:59:09 PM",
     "topic": "Show HN: Amazon S3, Microsoft Azure, Rackspace, Backblaze via a Single API",
@@ -94,6 +117,14 @@ var newsArray = [
     "url": "http://www.vanityfair.com/news/2016/11/donald-trump-victory-silicon-valley-california-secession-threat",
     "votes": 5,
     "posted": "Nov 10, 2016 2:56:27 PM"
+  },
+  {
+    "id": "12920279",
+    "timestamp": "Nov 10, 2016 5:09:11 PM",
+    "topic": "The first cryptor to exploit Telegram protocol",
+    "url": "https://securelist.com/blog/research/76558/the-first-cryptor-to-exploit-telegram/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 2:47:11 PM"
   },
   {
     "id": "12920268",
@@ -213,6 +244,22 @@ var newsArray = [
     "url": "https://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter",
     "votes": 7,
     "posted": "Nov 10, 2016 11:33:43 AM"
+  },
+  {
+    "id": "12919141",
+    "timestamp": "Nov 10, 2016 5:39:13 PM",
+    "topic": "Show HN: Obfuscate JavaScript files using amazing javascript-obfuscator",
+    "url": "https://github.com/tomasz-oponowicz/grunt-javascript-obfuscator",
+    "votes": 7,
+    "posted": "Nov 10, 2016 11:09:18 AM"
+  },
+  {
+    "id": "12919107",
+    "timestamp": "Nov 10, 2016 5:29:13 PM",
+    "topic": "Enforcing Content Security by Default Within Firefox",
+    "url": "https://blog.mozilla.org/security/2016/11/10/enforcing-content-security-by-default-within-firefox/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 11:02:02 AM"
   },
   {
     "id": "12919058",
@@ -2933,6 +2980,14 @@ var newsArray = [
     "url": "http://amasci.com/miscon/whyhard2.html",
     "votes": 4,
     "posted": "Nov 7, 2016 8:34:51 PM"
+  },
+  {
+    "id": "12894039",
+    "timestamp": "Nov 10, 2016 5:39:13 PM",
+    "topic": "The Evolution of Startups, as Told by Analyzing Company Descriptions",
+    "url": "https://priceonomics.com/the-evolution-of-startups-as-told-by-analyzing/",
+    "votes": 6,
+    "posted": "Nov 7, 2016 8:20:28 PM"
   },
   {
     "id": "12893956",
@@ -7166,77 +7221,5 @@ var newsArray = [
     "topic": "Ask HN: Why do institutions choose buggy enterprise cms over open source ones",
     "votes": 5,
     "posted": "Nov 3, 2016 6:05:07 PM"
-  },
-  {
-    "id": "12865705",
-    "timestamp": "Nov 4, 2016 4:55:17 PM",
-    "topic": "How to get the wine you really want",
-    "url": "http://www.economist.com/news/science-and-technology/21709491-how-get-wine-you-really-want-war-terroir",
-    "votes": 3,
-    "posted": "Nov 3, 2016 5:56:07 PM"
-  },
-  {
-    "id": "12865698",
-    "timestamp": "Nov 3, 2016 6:03:12 PM",
-    "topic": "Tech firms shell out to hire and hoard talent",
-    "url": "http://www.economist.com/news/business/21709574-tech-firms-battle-hire-and-hoard-talented-employees-huge-pay-packages-silicon-valley?cid1\u003dcust/ednew/n/bl/n/2016113n/owned/n/n/nwl/n/n/NA/8027532/n",
-    "votes": 3,
-    "posted": "Nov 3, 2016 5:55:14 PM"
-  },
-  {
-    "id": "12865675",
-    "timestamp": "Nov 3, 2016 9:23:35 PM",
-    "topic": "The Biggest Supermoon in Nearly 70 Years",
-    "url": "http://sciencebulletin.org/archives/7310.html",
-    "votes": 4,
-    "posted": "Nov 3, 2016 5:53:12 PM"
-  },
-  {
-    "id": "12865628",
-    "timestamp": "Nov 3, 2016 9:03:32 PM",
-    "topic": "Tech firms shell out to hire and hoard talent",
-    "url": "http://www.economist.com/news/business/21709574-tech-firms-battle-hire-and-hoard-talented-employees-huge-pay-packages-silicon-valley",
-    "votes": 4,
-    "posted": "Nov 3, 2016 5:48:10 PM"
-  },
-  {
-    "id": "12865627",
-    "timestamp": "Nov 3, 2016 9:53:39 PM",
-    "topic": "Adobe Sensei – Unified artificial intelligence and machine learning",
-    "url": "http://www.adobe.com/sensei.html",
-    "votes": 5,
-    "posted": "Nov 3, 2016 5:48:00 PM"
-  },
-  {
-    "id": "12865321",
-    "timestamp": "Nov 3, 2016 7:03:20 PM",
-    "topic": "The YC Effect: Charting How YC Makes Your Company Better",
-    "url": "http://themacro.com/articles/2016/11/the-yc-effect/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 5:19:39 PM"
-  },
-  {
-    "id": "12865169",
-    "timestamp": "Nov 3, 2016 5:53:11 PM",
-    "topic": "Ubuntu Core 16 delivers foundation for secure IoT",
-    "url": "https://insights.ubuntu.com/2016/11/03/ubuntu-core-16-delivers-foundation-for-secure-iot/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 5:06:20 PM"
-  },
-  {
-    "id": "12865166",
-    "timestamp": "Nov 3, 2016 5:53:11 PM",
-    "topic": "Mars: Inside the High-Risk, High-Stakes Race to the Red Planet",
-    "url": "http://www.nationalgeographic.com/magazine/2016/11/spacex-elon-musk-exploring-mars-planets-space-science/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 5:06:01 PM"
-  },
-  {
-    "id": "12865133",
-    "timestamp": "Nov 3, 2016 5:23:09 PM",
-    "topic": "MacBook Pro 2016 first look: One week later",
-    "url": "http://www.imore.com/macbook-pro",
-    "votes": 3,
-    "posted": "Nov 3, 2016 5:02:31 PM"
   }
 ];
