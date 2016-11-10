@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12917407",
+    "timestamp": "Nov 10, 2016 4:58:10 AM",
+    "topic": "Lenovo is ditching its own brand name to make way for \u0027Moto\u0027",
+    "url": "http://thenextweb.com/mobile/2016/11/09/lenovo-is-ditching-its-own-brand-name-to-make-way-for-moto/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 4:15:03 AM"
+  },
+  {
+    "id": "12917398",
+    "timestamp": "Nov 10, 2016 4:18:04 AM",
+    "topic": "Want to Leave the US? – UserGems (YC S14) Is Hiring Full-Stack Devs in Austria",
+    "votes": 1,
+    "posted": "Nov 10, 2016 4:14:09 AM"
+  },
+  {
+    "id": "12917324",
+    "timestamp": "Nov 10, 2016 4:08:03 AM",
+    "topic": "Let\u0027s get Trump to accept climate change",
+    "url": "https://www.reddit.com/r/environment/comments/5byi0k/lets_get_trump_to_accept_climate_change/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:58:20 AM"
+  },
+  {
+    "id": "12917301",
+    "timestamp": "Nov 10, 2016 4:18:04 AM",
+    "topic": "The Future of USDS: Trump, Civic Tech and the Lesson of GDS",
+    "url": "https://medium.com/@daeaves/the-future-of-usds-trump-civic-tech-and-the-lesson-of-gds-ccdc904976fa#.12d28q15c",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:52:47 AM"
+  },
+  {
+    "id": "12917223",
+    "timestamp": "Nov 10, 2016 4:28:05 AM",
+    "topic": "Tech founders want California to secede",
+    "url": "http://money.cnn.com/2016/11/09/technology/shervin-pishevar-california/index.html",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:34:04 AM"
+  },
+  {
     "id": "12917169",
     "timestamp": "Nov 10, 2016 3:58:03 AM",
     "topic": "How President-Elect Trump Views Science",
@@ -7079,37 +7118,5 @@ var newsArray = [
     "url": "http://highscalability.com/blog/2016/9/28/how-uber-manages-a-million-writes-per-second-using-mesos-and.html",
     "votes": 3,
     "posted": "Nov 3, 2016 4:59:49 AM"
-  },
-  {
-    "id": "12861472",
-    "timestamp": "Nov 3, 2016 5:12:06 AM",
-    "topic": "18F, the Government in-house tech startup, losing money",
-    "url": "https://www.washingtonpost.com/news/powerpost/wp/2016/11/02/why-a-federal-high-tech-start-up-is-a-money-loser",
-    "votes": 3,
-    "posted": "Nov 3, 2016 4:52:49 AM"
-  },
-  {
-    "id": "12861410",
-    "timestamp": "Nov 3, 2016 9:02:27 AM",
-    "topic": "The audacious plan to bring back supersonic flight",
-    "url": "http://www.vox.com/energy-and-environment/2016/11/2/13409324/supersonic-flight-concorde",
-    "votes": 3,
-    "posted": "Nov 3, 2016 4:34:07 AM"
-  },
-  {
-    "id": "12861318",
-    "timestamp": "Nov 3, 2016 4:22:01 AM",
-    "topic": "WOT Firefox Addon selling user data",
-    "url": "http://www.ndr.de/nachrichten/netzwelt/Nackt-im-Netz-Millionen-Nutzer-ausgespaeht,nacktimnetz100.html",
-    "votes": 9,
-    "posted": "Nov 3, 2016 4:02:56 AM"
-  },
-  {
-    "id": "12861305",
-    "timestamp": "Nov 3, 2016 5:42:10 AM",
-    "topic": "Writing more legible SQL",
-    "url": "http://www.craigkerstiens.com/2016/01/08/writing-better-sql/",
-    "votes": 8,
-    "posted": "Nov 3, 2016 4:00:30 AM"
   }
 ];
