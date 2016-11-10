@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12920598",
+    "timestamp": "Nov 10, 2016 3:49:03 PM",
+    "topic": "Seven years of Go",
+    "url": "https://blog.golang.org/7years",
+    "votes": 11,
+    "posted": "Nov 10, 2016 3:30:27 PM"
+  },
+  {
+    "id": "12920498",
+    "timestamp": "Nov 10, 2016 3:39:02 PM",
+    "topic": "The sneering response to Trump’s victory reveals exactly why he won",
+    "url": "http://blogs.spectator.co.uk/2016/11/sneering-response-trumps-victory-reveals-exactly-won/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:15:58 PM"
+  },
+  {
+    "id": "12920496",
+    "timestamp": "Nov 10, 2016 3:29:01 PM",
+    "topic": "In wake of Trump win, some in Silicon Valley wonder if Facebook too influential",
+    "url": "http://www.latimes.com/business/la-fi-election-media-20161109-story.html",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:15:52 PM"
+  },
+  {
+    "id": "12920490",
+    "timestamp": "Nov 10, 2016 3:39:02 PM",
+    "topic": "Why the Chinese Market Is Crazy about Numeric Domain Names: Pinyin Acronyms",
+    "url": "https://pop.co/blog/chinese-numeric-domain-names-pinyin/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:15:22 PM"
+  },
+  {
+    "id": "12920447",
+    "timestamp": "Nov 10, 2016 3:29:01 PM",
+    "topic": "Democratic forum hacked",
+    "url": "http://www.democraticunderground.com/503.php",
+    "votes": 6,
+    "posted": "Nov 10, 2016 3:09:02 PM"
+  },
+  {
+    "id": "12920364",
+    "timestamp": "Nov 10, 2016 3:59:04 PM",
+    "topic": "Trump’s Data Team Saw a Different America",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-10/trump-s-data-team-saw-a-different-america-and-they-were-right",
+    "votes": 6,
+    "posted": "Nov 10, 2016 2:58:15 PM"
+  },
+  {
+    "id": "12920349",
+    "timestamp": "Nov 10, 2016 3:19:00 PM",
+    "topic": "SILICON VALLEY THREATENS TO SECEDE AFTER TRUMP WINS ELECTION",
+    "url": "http://www.vanityfair.com/news/2016/11/donald-trump-victory-silicon-valley-california-secession-threat",
+    "votes": 5,
+    "posted": "Nov 10, 2016 2:56:27 PM"
+  },
+  {
+    "id": "12920268",
+    "timestamp": "Nov 10, 2016 3:08:59 PM",
+    "topic": "Apple CEO Tim Cook Calls for Unity in Memo to Staff Following Trump Victory",
+    "url": "http://www.macrumors.com/2016/11/10/tim-cook-calls-for-unity-trump-victory/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 2:45:55 PM"
+  },
+  {
     "id": "12919999",
     "timestamp": "Nov 10, 2016 2:08:54 PM",
     "topic": "Shipbob(YC-S14) hiring software engineers",
@@ -14,6 +78,14 @@ var newsArray = [
     "url": "http://www.nature.com/news/donald-trump-s-us-election-win-stuns-scientists-1.20952",
     "votes": 4,
     "posted": "Nov 10, 2016 1:42:46 PM"
+  },
+  {
+    "id": "12919817",
+    "timestamp": "Nov 10, 2016 3:59:04 PM",
+    "topic": "Peter Thiel’s Bet on Donald Trump Pays Off",
+    "url": "http://www.nytimes.com/2016/11/10/technology/peter-thiel-bet-donald-trump-wins-big.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 1:28:06 PM"
   },
   {
     "id": "12919780",
@@ -54,6 +126,13 @@ var newsArray = [
     "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.jhhanptn7",
     "votes": 4,
     "posted": "Nov 10, 2016 12:51:57 PM"
+  },
+  {
+    "id": "12919257",
+    "timestamp": "Nov 10, 2016 3:29:01 PM",
+    "topic": "Ask HN: Will the US electoral voting system ever change?",
+    "votes": 8,
+    "posted": "Nov 10, 2016 11:33:57 AM"
   },
   {
     "id": "12919255",
@@ -1709,6 +1788,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 7:09:20 PM"
   },
   {
+    "id": "12902409",
+    "timestamp": "Nov 10, 2016 3:39:02 PM",
+    "topic": "Writing Your Own Programming Language",
+    "url": "https://github.com/marciok/Mu#writing-your-own-programming-language",
+    "votes": 7,
+    "posted": "Nov 8, 2016 6:57:09 PM"
+  },
+  {
     "id": "12902304",
     "timestamp": "Nov 8, 2016 7:54:59 PM",
     "topic": "So you think you know C?",
@@ -2528,6 +2615,14 @@ var newsArray = [
     "url": "http://www.dailydot.com/debug/sega-genesis-preorder-details/?fb\u003ddd",
     "votes": 3,
     "posted": "Nov 8, 2016 1:00:41 AM"
+  },
+  {
+    "id": "12896425",
+    "timestamp": "Nov 10, 2016 3:08:59 PM",
+    "topic": "On the importance of units",
+    "url": "http://www.wall.org/~aron/blog/on-the-importance-of-units/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 12:59:58 AM"
   },
   {
     "id": "12896353",
@@ -7094,45 +7189,5 @@ var newsArray = [
     "url": "https://www.census.gov/hhes/commuting/files/2012/Paper-Poster_Megacommuting%20in%20the%20US.pdf",
     "votes": 7,
     "posted": "Nov 3, 2016 3:59:29 PM"
-  },
-  {
-    "id": "12864429",
-    "timestamp": "Nov 3, 2016 4:23:03 PM",
-    "topic": "MicroG Project: A re-implementation of Google\u0027s Android apps and libraries",
-    "url": "https://microg.org/?\u003d",
-    "votes": 3,
-    "posted": "Nov 3, 2016 3:55:01 PM"
-  },
-  {
-    "id": "12864389",
-    "timestamp": "Nov 3, 2016 4:23:03 PM",
-    "topic": "Securing PostgreSQL [pdf]",
-    "url": "http://thebuild.com/presentations/pgconfeu-2016-securing-postgresql.pdf",
-    "votes": 5,
-    "posted": "Nov 3, 2016 3:50:46 PM"
-  },
-  {
-    "id": "12864303",
-    "timestamp": "Nov 4, 2016 6:24:24 AM",
-    "topic": "Fourier Transform as Feature Extraction for Malware Classification [pdf]",
-    "url": "http://worldcomp-proceedings.com/proc/p2014/SAM9743.pdf",
-    "votes": 4,
-    "posted": "Nov 3, 2016 3:42:28 PM"
-  },
-  {
-    "id": "12864151",
-    "timestamp": "Nov 3, 2016 3:32:59 PM",
-    "topic": "Silicon Valley’s “megacommute” even worse than L.A",
-    "url": "http://www.mercurynews.com/2016/11/02/job-boom-intensifies-traffic-and-housing-woes/",
-    "votes": 5,
-    "posted": "Nov 3, 2016 3:25:39 PM"
-  },
-  {
-    "id": "12864032",
-    "timestamp": "Nov 3, 2016 5:13:08 PM",
-    "topic": "The Power of Ten – Rules for Writing Safety Critical Code",
-    "url": "http://spinroot.com/p10/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 3:10:16 PM"
   }
 ];
