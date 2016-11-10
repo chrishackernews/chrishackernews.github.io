@@ -1,5 +1,68 @@
 var newsArray = [
   {
+    "id": "12925177",
+    "timestamp": "Nov 10, 2016 11:49:51 PM",
+    "topic": "Vancouver Enforces C$10,000 Annual Fine on Empty Homes",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-09/vancouver-wields-c-10-000-a-day-fine-in-crackdown-on-empty-homes",
+    "votes": 18,
+    "posted": "Nov 10, 2016 11:35:19 PM"
+  },
+  {
+    "id": "12925136",
+    "timestamp": "Nov 10, 2016 11:59:52 PM",
+    "topic": "The unbearable smugness of the press",
+    "url": "http://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 11:31:15 PM"
+  },
+  {
+    "id": "12925127",
+    "timestamp": "Nov 10, 2016 11:39:50 PM",
+    "topic": "2 in 3 employed adults would take a pay cut to be happy at work",
+    "url": "http://hired.com/opportunity-index",
+    "votes": 3,
+    "posted": "Nov 10, 2016 11:29:59 PM"
+  },
+  {
+    "id": "12925065",
+    "timestamp": "Nov 10, 2016 11:39:50 PM",
+    "topic": "Apple selling a $79 MacBook Pro power adapter without a USB-C cable goes too far",
+    "url": "https://9to5mac.com/2016/11/10/opinion-macbook-pro-power-adapter/",
+    "votes": 6,
+    "posted": "Nov 10, 2016 11:22:33 PM"
+  },
+  {
+    "id": "12925056",
+    "timestamp": "Nov 10, 2016 11:29:49 PM",
+    "topic": "What it’s like to use Snapchat Spectacles",
+    "url": "https://techcrunch.com/2016/11/10/what-its-like-to-use-snapchat-spectacles/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 11:20:47 PM"
+  },
+  {
+    "id": "12924865",
+    "timestamp": "Nov 10, 2016 11:49:51 PM",
+    "topic": "Ruby 3x3: Matz, Koichi, and Tenderlove on the Future of Ruby Performance",
+    "url": "https://blog.heroku.com/ruby-3-by-3/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 11:00:42 PM"
+  },
+  {
+    "id": "12924825",
+    "timestamp": "Nov 10, 2016 11:09:48 PM",
+    "topic": "Ask HN: Dang, why aren\u0027t my own comments viewable?",
+    "votes": 3,
+    "posted": "Nov 10, 2016 10:57:04 PM"
+  },
+  {
+    "id": "12924618",
+    "timestamp": "Nov 10, 2016 11:09:47 PM",
+    "topic": "You Don\u0027t Need",
+    "url": "https://github.com/you-dont-need",
+    "votes": 2,
+    "posted": "Nov 10, 2016 10:35:30 PM"
+  },
+  {
     "id": "12924616",
     "timestamp": "Nov 10, 2016 10:59:46 PM",
     "topic": "Peter Thiel to enter Trump inner circle as tech adviser",
@@ -30,6 +93,14 @@ var newsArray = [
     "url": "https://heapanalytics.com/jobs#engineer",
     "votes": 1,
     "posted": "Nov 10, 2016 9:51:27 PM"
+  },
+  {
+    "id": "12924180",
+    "timestamp": "Nov 10, 2016 11:19:49 PM",
+    "topic": "Will Trump’s Victory Be Silicon Valley’s Wake-Up Call?",
+    "url": "http://www.theatlantic.com/technology/archive/2016/11/trumps-the-president-and-youre-a-publisher/507278/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dfeed%3a+best-of-the-atlantic+%28the+atlantic+-+best+of%29\u0026amp;single_page\u003dtrue",
+    "votes": 5,
+    "posted": "Nov 10, 2016 9:47:42 PM"
   },
   {
     "id": "12924173",
@@ -69,6 +140,14 @@ var newsArray = [
     "topic": "Ask HN: Good resources/sites for things every programmer should know?",
     "votes": 3,
     "posted": "Nov 10, 2016 9:16:20 PM"
+  },
+  {
+    "id": "12923834",
+    "timestamp": "Nov 10, 2016 11:19:48 PM",
+    "topic": "Unums 2.0: an interview with John L. Gustafson",
+    "url": "http://ubiquity.acm.org/article.cfm?id\u003d3001758",
+    "votes": 3,
+    "posted": "Nov 10, 2016 9:11:49 PM"
   },
   {
     "id": "12923761",
@@ -7144,99 +7223,5 @@ var newsArray = [
     "topic": "Ask HN: Will you really move away from Apple hardware?",
     "votes": 4,
     "posted": "Nov 4, 2016 12:00:28 AM"
-  },
-  {
-    "id": "12868778",
-    "timestamp": "Nov 4, 2016 6:14:23 AM",
-    "topic": "Is the Australian government agile and innovative? Not to those in startups",
-    "url": "http://www.smh.com.au/national/public-service/agile-and-innovativemen-not-in-the-real-world-20161026-gsas78.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:49:11 PM"
-  },
-  {
-    "id": "12868741",
-    "timestamp": "Nov 4, 2016 12:13:53 AM",
-    "topic": "Variational Inference for Machine Learning [pdf]",
-    "url": "http://shakirm.com/papers/VITutorial.pdf",
-    "votes": 4,
-    "posted": "Nov 3, 2016 11:44:27 PM"
-  },
-  {
-    "id": "12868641",
-    "timestamp": "Nov 4, 2016 12:13:53 AM",
-    "topic": "Software Sales for Hackers",
-    "url": "http://tapes.scalevp.com/software-sales-for-hackers/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:32:29 PM"
-  },
-  {
-    "id": "12868619",
-    "timestamp": "Nov 4, 2016 12:13:53 AM",
-    "topic": "ECommerce Platform Market Share",
-    "url": "https://www.engadget.com/2016/11/03/ecommerce-platform-market-share-looking-at-the-companies-that-d/",
-    "votes": 6,
-    "posted": "Nov 3, 2016 11:30:10 PM"
-  },
-  {
-    "id": "12868607",
-    "timestamp": "Nov 4, 2016 12:13:53 AM",
-    "topic": "Ask HN: What does a C++ fullstack mean to you?",
-    "votes": 6,
-    "posted": "Nov 3, 2016 11:29:01 PM"
-  },
-  {
-    "id": "12868594",
-    "timestamp": "Nov 3, 2016 11:33:49 PM",
-    "topic": "The etcd Operator: cluster configuration and management on Kubernetes",
-    "url": "https://coreos.com/blog/introducing-the-etcd-operator.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:27:49 PM"
-  },
-  {
-    "id": "12868550",
-    "timestamp": "Nov 4, 2016 12:43:56 AM",
-    "topic": "Adventures in Aurelia: Creating a Custom PDF Viewer",
-    "url": "https://www.sitepoint.com/aurelia-custom-pdf-viewer-component/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:22:27 PM"
-  },
-  {
-    "id": "12868527",
-    "timestamp": "Nov 3, 2016 11:33:49 PM",
-    "topic": "ASML Buys Stake in Carl Zeiss Unit for $1.1B",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-03/asml-buys-stake-in-carl-zeiss-unit-for-1-1-billion-in-euv-step",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:18:34 PM"
-  },
-  {
-    "id": "12868518",
-    "timestamp": "Nov 7, 2016 1:01:07 AM",
-    "topic": "Neural-enhance – Super Resolution for images using deep learning",
-    "url": "https://github.com/alexjc/neural-enhance/blob/master/README.rst",
-    "votes": 3,
-    "posted": "Nov 3, 2016 11:16:55 PM"
-  },
-  {
-    "id": "12868508",
-    "timestamp": "Nov 4, 2016 2:05:03 PM",
-    "topic": "Ask HN: How do I learn php or Web development?",
-    "votes": 8,
-    "posted": "Nov 3, 2016 11:15:22 PM"
-  },
-  {
-    "id": "12868494",
-    "timestamp": "Nov 3, 2016 11:23:48 PM",
-    "topic": "Why Are People Racist?",
-    "url": "https://billmei.net/blog/why-are-people-racist",
-    "votes": 6,
-    "posted": "Nov 3, 2016 11:13:10 PM"
-  },
-  {
-    "id": "12868439",
-    "timestamp": "Nov 3, 2016 11:43:51 PM",
-    "topic": "Fin: A Vibrator for Fingers",
-    "url": "https://www.kickstarter.com/projects/dameproducts/fin-a-vibrator-for-fingers",
-    "votes": 4,
-    "posted": "Nov 3, 2016 11:06:41 PM"
   }
 ];
