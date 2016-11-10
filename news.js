@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12922202",
+    "timestamp": "Nov 10, 2016 6:49:23 PM",
+    "topic": "The WikiLeaks AMA is now live at Reddit",
+    "url": "https://www.reddit.com/r/IAmA/comments/5c8u9l/we_are_the_wikileaks_staff_despite_our_editor/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 6:16:14 PM"
+  },
+  {
+    "id": "12922147",
+    "timestamp": "Nov 10, 2016 6:19:18 PM",
+    "topic": "FrontApp (YC S14) is hiring software engineers",
+    "url": "https://frontapp.com/jobs",
+    "votes": 1,
+    "posted": "Nov 10, 2016 6:09:50 PM"
+  },
+  {
+    "id": "12922141",
+    "timestamp": "Nov 10, 2016 6:39:22 PM",
+    "topic": "Alibaba Posts $1B in Sales in 5 Minutes on Singles’ Day",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-10/alibaba-posts-1-billion-in-sales-in-5-minutes-on-singles-day",
+    "votes": 7,
+    "posted": "Nov 10, 2016 6:09:10 PM"
+  },
+  {
+    "id": "12922130",
+    "timestamp": "Nov 10, 2016 6:49:23 PM",
+    "topic": "How Stephen Wolfram Figured Out Interstellar Travel in One Night",
+    "url": "https://backchannel.com/i-had-one-night-to-invent-interstellar-travel-b2466882ef5c#.xy5as4r0d",
+    "votes": 4,
+    "posted": "Nov 10, 2016 6:08:18 PM"
+  },
+  {
+    "id": "12922068",
+    "timestamp": "Nov 10, 2016 6:09:16 PM",
+    "topic": "Show HN: [short story] What if something like Morris Worm never happened?",
+    "url": "https://stories.shrikrishnaholla.in/what-if-1557e226c6d#.26dp7o3ce?ref\u003dhn",
+    "votes": 5,
+    "posted": "Nov 10, 2016 6:01:43 PM"
+  },
+  {
+    "id": "12921967",
+    "timestamp": "Nov 10, 2016 6:09:17 PM",
+    "topic": "American Elections Will Be Hacked",
+    "url": "https://www.schneier.com/essays/archives/2016/11/american_elections_w.html",
+    "votes": 3,
+    "posted": "Nov 10, 2016 5:49:23 PM"
+  },
+  {
+    "id": "12921949",
+    "timestamp": "Nov 10, 2016 6:39:22 PM",
+    "topic": "Wind Waker Graphics Analysis",
+    "url": "https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127",
+    "votes": 6,
+    "posted": "Nov 10, 2016 5:47:18 PM"
+  },
+  {
+    "id": "12921822",
+    "timestamp": "Nov 10, 2016 6:09:16 PM",
+    "topic": "Rigged: The Facebook bubble just popped",
+    "url": "https://techcrunch.com/2016/11/09/rigged/",
+    "votes": 6,
+    "posted": "Nov 10, 2016 5:30:42 PM"
+  },
+  {
     "id": "12921652",
     "timestamp": "Nov 10, 2016 5:29:12 PM",
     "topic": "Show HN: End to end encryption for Twitter direct messages",
@@ -31,6 +95,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 4:50:56 PM"
   },
   {
+    "id": "12921209",
+    "timestamp": "Nov 10, 2016 6:29:18 PM",
+    "topic": "Facebook and Twitter Contend with Their Role in Trump\u0027s Victory",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-09/facebook-and-twitter-contend-with-their-role-in-trump-s-victory",
+    "votes": 5,
+    "posted": "Nov 10, 2016 4:33:41 PM"
+  },
+  {
     "id": "12921154",
     "timestamp": "Nov 10, 2016 4:39:08 PM",
     "topic": "Is America Great Yet?",
@@ -53,6 +125,22 @@ var newsArray = [
     "url": "https://www.hackster.io/Techblogogy/magic-mirror-w-stylist-4b3ff7",
     "votes": 4,
     "posted": "Nov 10, 2016 3:50:51 PM"
+  },
+  {
+    "id": "12920752",
+    "timestamp": "Nov 10, 2016 6:59:24 PM",
+    "topic": "A Haskell Study Syllabus",
+    "url": "https://www.fpcomplete.com/haskell-syllabus",
+    "votes": 3,
+    "posted": "Nov 10, 2016 3:47:00 PM"
+  },
+  {
+    "id": "12920724",
+    "timestamp": "Nov 10, 2016 6:09:17 PM",
+    "topic": "With change at the top of Copyright Office, a battle brews over free content",
+    "url": "http://www.latimes.com/business/la-fi-copyright-office-20161109-story.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 3:44:30 PM"
   },
   {
     "id": "12920598",
@@ -7143,83 +7231,5 @@ var newsArray = [
     "url": "https://mattermark.com/46-2015-tech-ipos-underwater-62-first-day-closes/",
     "votes": 4,
     "posted": "Nov 3, 2016 7:00:04 PM"
-  },
-  {
-    "id": "12866160",
-    "timestamp": "Nov 5, 2016 4:26:23 AM",
-    "topic": "Ask HN: How do I turn a major SV job offer to an offer elsewhere?",
-    "votes": 7,
-    "posted": "Nov 3, 2016 6:42:03 PM"
-  },
-  {
-    "id": "12866156",
-    "timestamp": "Nov 3, 2016 7:33:22 PM",
-    "topic": "Introducing Unified Update Platform (UUP)",
-    "url": "https://blogs.windows.com/windowsexperience/2016/11/03/introducing-unified-update-platform-uup/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 6:41:45 PM"
-  },
-  {
-    "id": "12866033",
-    "timestamp": "Nov 3, 2016 9:13:34 PM",
-    "topic": "Introducing Operators: Putting Operational Knowledge into Software on Kubernetes",
-    "url": "https://coreos.com/blog/introducing-operators.html",
-    "votes": 5,
-    "posted": "Nov 3, 2016 6:29:37 PM"
-  },
-  {
-    "id": "12866023",
-    "timestamp": "Nov 4, 2016 10:45:52 PM",
-    "topic": "Google Home Review: Google\u0027s Take on Amazon\u0027s Echo",
-    "url": "http://arstechnica.com/gadgets/2016/11/google-home-review-a-step-forward-for-hotwords-a-step-backward-in-capability/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 6:28:33 PM"
-  },
-  {
-    "id": "12865998",
-    "timestamp": "Nov 3, 2016 7:13:21 PM",
-    "topic": "Web fonts, boy, I don\u0027t know",
-    "url": "http://meowni.ca/posts/web-fonts/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 6:25:32 PM"
-  },
-  {
-    "id": "12865971",
-    "timestamp": "Nov 3, 2016 9:23:35 PM",
-    "topic": "New Research Points the Finger at Employers for the Widespread Talent Shortage",
-    "url": "https://www.fastcompany.com/3065019/new-research-points-the-finger-at-employers-for-the-widespread-talent-shortage",
-    "votes": 4,
-    "posted": "Nov 3, 2016 6:23:07 PM"
-  },
-  {
-    "id": "12865922",
-    "timestamp": "Nov 3, 2016 6:53:19 PM",
-    "topic": "The Food Delivery Death Star",
-    "url": "https://medium.com/@review/the-food-delivery-death-star-85f9a121313",
-    "votes": 9,
-    "posted": "Nov 3, 2016 6:18:50 PM"
-  },
-  {
-    "id": "12865834",
-    "timestamp": "Nov 3, 2016 6:13:13 PM",
-    "topic": "Visual Studio Code October 2016 1.7.1",
-    "url": "http://code.visualstudio.com/updates/v1_7#_171-recovery-build",
-    "votes": 5,
-    "posted": "Nov 3, 2016 6:09:18 PM"
-  },
-  {
-    "id": "12865809",
-    "timestamp": "Nov 3, 2016 9:23:36 PM",
-    "topic": "Putin Grants Russian Citizenship to Steven Seagal",
-    "url": "http://www.foxnews.com/entertainment/2016/11/03/putin-grants-russian-citizenship-to-steven-seagal.html",
-    "votes": 3,
-    "posted": "Nov 3, 2016 6:06:24 PM"
-  },
-  {
-    "id": "12865798",
-    "timestamp": "Nov 4, 2016 1:24:00 AM",
-    "topic": "Ask HN: Why do institutions choose buggy enterprise cms over open source ones",
-    "votes": 5,
-    "posted": "Nov 3, 2016 6:05:07 PM"
   }
 ];
