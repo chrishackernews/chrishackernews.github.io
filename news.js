@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12918756",
+    "timestamp": "Nov 10, 2016 10:18:35 AM",
+    "topic": "Bernie Sanders statement on Trump",
+    "url": "http://www.sanders.senate.gov/newsroom/press-releases/sanders-statement-on-trump",
+    "votes": 10,
+    "posted": "Nov 10, 2016 9:47:12 AM"
+  },
+  {
+    "id": "12918704",
+    "timestamp": "Nov 10, 2016 10:18:35 AM",
+    "topic": "The fastest Clojure REPL in the world",
+    "url": "https://anmonteiro.com/2016/11/the-fastest-clojure-repl-in-the-world/",
+    "votes": 8,
+    "posted": "Nov 10, 2016 9:36:18 AM"
+  },
+  {
+    "id": "12918699",
+    "timestamp": "Nov 10, 2016 10:18:35 AM",
+    "topic": "700 megapixels served in under 700 miliseconds",
+    "url": "http://mag.prodibi.com/2016/11/10/700-megapixels-through-the-interwebs-in-under-700-miliseconds/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 9:34:55 AM"
+  },
+  {
     "id": "12918665",
     "timestamp": "Nov 10, 2016 9:58:34 AM",
     "topic": "General Motors announces plans to lay off 2,000 employees",
@@ -7054,29 +7078,5 @@ var newsArray = [
     "url": "http://www.korg.com/us/products/synthesizers/monologue/",
     "votes": 4,
     "posted": "Nov 3, 2016 11:23:17 AM"
-  },
-  {
-    "id": "12862608",
-    "timestamp": "Nov 3, 2016 11:02:37 AM",
-    "topic": "Org mode 9.0 released",
-    "url": "http://orgmode.org/Changes.html",
-    "votes": 4,
-    "posted": "Nov 3, 2016 10:46:50 AM"
-  },
-  {
-    "id": "12862541",
-    "timestamp": "Nov 3, 2016 2:52:55 PM",
-    "topic": "Fasttext and Torch: A fasttext implementation based on Torch",
-    "url": "https://github.com/kemaswill/fasttext_torch",
-    "votes": 6,
-    "posted": "Nov 3, 2016 10:29:30 AM"
-  },
-  {
-    "id": "12862488",
-    "timestamp": "Nov 3, 2016 10:22:34 AM",
-    "topic": "Mozilla Persona will shut down later this month",
-    "url": "https://wiki.mozilla.org/Identity/Persona_Shutdown_Guidelines_for_Reliers",
-    "votes": 3,
-    "posted": "Nov 3, 2016 10:12:12 AM"
   }
 ];
