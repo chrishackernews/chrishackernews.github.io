@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "12916950",
+    "timestamp": "Nov 10, 2016 2:57:57 AM",
+    "topic": "Serve America",
+    "url": "https://www.greatagain.gov/serve-america.html",
+    "votes": 11,
+    "posted": "Nov 10, 2016 2:45:49 AM"
+  },
+  {
+    "id": "12916928",
+    "timestamp": "Nov 10, 2016 2:57:57 AM",
+    "topic": "Trump Picks Top Climate Skeptic to Lead EPA Transition",
+    "url": "https://www.scientificamerican.com/article/trump-picks-top-climate-skeptic-to-lead-epa-transition/?wt.mc\u003dSA_Twitter-Share",
+    "votes": 27,
+    "posted": "Nov 10, 2016 2:41:43 AM"
+  },
+  {
+    "id": "12916747",
+    "timestamp": "Nov 10, 2016 2:57:58 AM",
+    "topic": "Understanding is Dangerous",
+    "url": "https://thepointmag.com/2016/politics/understanding-is-dangerous",
+    "votes": 3,
+    "posted": "Nov 10, 2016 2:14:16 AM"
+  },
+  {
+    "id": "12916729",
+    "timestamp": "Nov 10, 2016 2:37:56 AM",
+    "topic": "National Popular Vote Interstate Compact",
+    "url": "https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact",
+    "votes": 3,
+    "posted": "Nov 10, 2016 2:11:36 AM"
+  },
+  {
+    "id": "12916510",
+    "timestamp": "Nov 10, 2016 2:57:58 AM",
+    "topic": "How Facebook Saw Trump Coming When No One Else Did",
+    "url": "https://medium.com/@erinpettigrew/how-facebook-saw-trump-coming-when-no-one-else-did-84cd6b4e0d8e",
+    "votes": 3,
+    "posted": "Nov 10, 2016 1:39:13 AM"
+  },
+  {
+    "id": "12916498",
+    "timestamp": "Nov 10, 2016 2:07:53 AM",
+    "topic": "Ask HN: How Can I Get into NLP (Natural Language Processing)?",
+    "votes": 10,
+    "posted": "Nov 10, 2016 1:37:44 AM"
+  },
+  {
     "id": "12916278",
     "timestamp": "Nov 10, 2016 1:57:52 AM",
     "topic": "Angular 3 is hot on the heels of Angular 2",
@@ -88,6 +135,13 @@ var newsArray = [
     "posted": "Nov 9, 2016 11:40:11 PM"
   },
   {
+    "id": "12915481",
+    "timestamp": "Nov 10, 2016 2:17:54 AM",
+    "topic": "Ask HN: Where is a good place for a college student to vacation?",
+    "votes": 4,
+    "posted": "Nov 9, 2016 11:38:19 PM"
+  },
+  {
     "id": "12915443",
     "timestamp": "Nov 9, 2016 11:47:39 PM",
     "topic": "Trump won because of Facebook",
@@ -136,6 +190,14 @@ var newsArray = [
     "posted": "Nov 9, 2016 11:02:15 PM"
   },
   {
+    "id": "12914942",
+    "timestamp": "Nov 10, 2016 2:57:58 AM",
+    "topic": "New Airless Bike Tires That Will Never Get Flat",
+    "url": "http://www.boredpanda.com/airless-flat-free-tire-bike-nexo/?_t\u003d1\u0026_f\u003dfeatured",
+    "votes": 3,
+    "posted": "Nov 9, 2016 10:40:10 PM"
+  },
+  {
     "id": "12914828",
     "timestamp": "Nov 9, 2016 10:37:34 PM",
     "topic": "Trump Picks Top Climate Skeptic to Lead EPA Transition",
@@ -150,6 +212,14 @@ var newsArray = [
     "url": "https://github.com/sbrugman/deep-learning-papers/blob/master/README.md",
     "votes": 3,
     "posted": "Nov 9, 2016 10:25:52 PM"
+  },
+  {
+    "id": "12914716",
+    "timestamp": "Nov 10, 2016 2:57:58 AM",
+    "topic": "Michael Moore was right about a Donald Trump victory, and now he has a plan",
+    "url": "http://globalnews.ca/news/3057433/michael-moore-was-right-about-a-donald-trump-victory-and-now-he-has-a-plan/",
+    "votes": 8,
+    "posted": "Nov 9, 2016 10:12:25 PM"
   },
   {
     "id": "12914510",
@@ -7049,77 +7119,5 @@ var newsArray = [
     "url": "http://thenextweb.com/dd/2016/02/17/why-are-some-of-the-ugliest-sites-on-the-web-also-the-most-popular/",
     "votes": 8,
     "posted": "Nov 3, 2016 3:09:27 AM"
-  },
-  {
-    "id": "12860994",
-    "timestamp": "Nov 3, 2016 4:32:02 AM",
-    "topic": "I’m a Venture Backed Startup Founder and I Just Had a Baby",
-    "url": "https://medium.com/@adi.zelnik.nouriel/im-a-venture-backed-startup-founder-and-i-just-had-a-baby-omg-25efb90af7bd#.semniirz8",
-    "votes": 4,
-    "posted": "Nov 3, 2016 2:54:25 AM"
-  },
-  {
-    "id": "12860970",
-    "timestamp": "Nov 3, 2016 4:12:00 AM",
-    "topic": "Notes on my full-time testing of 7 Dropbox alternatives (2015)",
-    "url": "https://vxlabs.com/2015/03/29/notes-testing-7-dropbox-alternatives/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 2:47:03 AM"
-  },
-  {
-    "id": "12860865",
-    "timestamp": "Nov 3, 2016 3:01:55 AM",
-    "topic": "Dear Microsoft [from Slack]",
-    "url": "https://slackhq.com/dear-microsoft-8d20965d2849",
-    "votes": 4,
-    "posted": "Nov 3, 2016 2:20:37 AM"
-  },
-  {
-    "id": "12860860",
-    "timestamp": "Nov 3, 2016 3:31:57 AM",
-    "topic": "Oldest known evidence of Aboriginal settlement in Australia found (49,000 years)",
-    "url": "http://www.abc.net.au/news/2016-11-03/rock-shelter-shows-early-aboriginal-settlement-in-arid-australia/7983864",
-    "votes": 3,
-    "posted": "Nov 3, 2016 2:19:21 AM"
-  },
-  {
-    "id": "12860834",
-    "timestamp": "Nov 3, 2016 2:02:52 PM",
-    "topic": "Why America Needs India\u0027s Rockets",
-    "url": "https://www.bloomberg.com/view/articles/2016-11-01/why-america-needs-india-s-rockets",
-    "votes": 5,
-    "posted": "Nov 3, 2016 2:13:45 AM"
-  },
-  {
-    "id": "12860806",
-    "timestamp": "Nov 3, 2016 2:41:53 AM",
-    "topic": "Visual Studio Code breaks npmjs.org, forced to rollback",
-    "url": "https://code.visualstudio.com/updates#_17-rollback",
-    "votes": 6,
-    "posted": "Nov 3, 2016 2:07:03 AM"
-  },
-  {
-    "id": "12860799",
-    "timestamp": "Nov 3, 2016 4:12:00 AM",
-    "topic": "Noam Chomsky and the Bicycle Theory",
-    "url": "http://www.nytimes.com/2016/11/06/education/edlife/on-being-noam-chomsky.html",
-    "votes": 5,
-    "posted": "Nov 3, 2016 2:04:47 AM"
-  },
-  {
-    "id": "12860790",
-    "timestamp": "Nov 3, 2016 2:02:52 PM",
-    "topic": "The Meaning of the Bones: Does Shakespeare really have “universal appeal”?",
-    "url": "http://www.theparisreview.org/blog/2016/11/02/the-meaning-of-the-bones/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 2:02:58 AM"
-  },
-  {
-    "id": "12860788",
-    "timestamp": "Nov 3, 2016 1:42:50 PM",
-    "topic": "Supercomputer comes up with a profile of dark matter",
-    "url": "http://phys.org/news/2016-11-supercomputer-profile-dark-standard-extension.html",
-    "votes": 4,
-    "posted": "Nov 3, 2016 2:01:59 AM"
   }
 ];
