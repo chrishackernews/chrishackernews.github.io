@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12918547",
+    "timestamp": "Nov 10, 2016 8:58:29 AM",
+    "topic": "New NASA Emdrive paper shows force of 1.2 millinewtons per kilowatt",
+    "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
+    "votes": 3,
+    "posted": "Nov 10, 2016 8:56:49 AM"
+  },
+  {
+    "id": "12918465",
+    "timestamp": "Nov 10, 2016 8:38:28 AM",
+    "topic": "Standard Cyborg Is Hiring a Customer Success Manager",
+    "votes": 1,
+    "posted": "Nov 10, 2016 8:37:19 AM"
+  },
+  {
+    "id": "12918211",
+    "timestamp": "Nov 10, 2016 8:18:26 AM",
+    "topic": "Joyent’s Bryan Cantrill on technology, fear, and the rise of Trump",
+    "url": "http://www.structureevents.com/joyents-bryan-cantrill-on-technology-fear-and-the-rise-of-trump/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 7:36:04 AM"
+  },
+  {
     "id": "12918191",
     "timestamp": "Nov 10, 2016 7:48:24 AM",
     "topic": "WOT is selling your PII and browsing history",
@@ -7063,45 +7086,5 @@ var newsArray = [
     "url": "http://www.bbc.com/news/world-middle-east-37816938",
     "votes": 4,
     "posted": "Nov 3, 2016 9:00:52 AM"
-  },
-  {
-    "id": "12862195",
-    "timestamp": "Nov 3, 2016 9:02:26 AM",
-    "topic": "Show HN: Portainer – A lightweight management UI for Docker",
-    "url": "http://portainer.io",
-    "votes": 5,
-    "posted": "Nov 3, 2016 8:36:17 AM"
-  },
-  {
-    "id": "12862164",
-    "timestamp": "Nov 3, 2016 9:42:30 AM",
-    "topic": "How Steve Jobs Became a Billionaire",
-    "url": "http://fortune.com/steve-jobs-pixar-apple-lawrence-levy/",
-    "votes": 7,
-    "posted": "Nov 3, 2016 8:28:02 AM"
-  },
-  {
-    "id": "12862144",
-    "timestamp": "Nov 3, 2016 9:02:27 AM",
-    "topic": "A Bayesian election forecast",
-    "url": "http://www.slate.com/features/pkremp_forecast/report.html",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:19:07 AM"
-  },
-  {
-    "id": "12862139",
-    "timestamp": "Nov 3, 2016 9:02:26 AM",
-    "topic": "Migrating Pinterest profiles to React",
-    "url": "https://engineering.pinterest.com/blog/migrating-pinterest-profiles-react",
-    "votes": 5,
-    "posted": "Nov 3, 2016 8:17:48 AM"
-  },
-  {
-    "id": "12862130",
-    "timestamp": "Nov 3, 2016 8:32:24 AM",
-    "topic": "For the Cost of an iPhone, You Can Now Buy a Wind Turbine That Can Power a House",
-    "url": "http://theusualroutine.com/2016/11/01/cost-iphone-can-now-buy-wind-turbine-can-power-entire-house-lifetime/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:15:10 AM"
   }
 ];
