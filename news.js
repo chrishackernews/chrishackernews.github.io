@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12918665",
+    "timestamp": "Nov 10, 2016 9:58:34 AM",
+    "topic": "General Motors announces plans to lay off 2,000 employees",
+    "url": "http://www.dailymail.co.uk/news/article-3921304/General-Motors-announces-plans-lay-2-000-employees-two-plants-just-hours-Donald-Trump-wins-election.html",
+    "votes": 4,
+    "posted": "Nov 10, 2016 9:25:44 AM"
+  },
+  {
     "id": "12918547",
     "timestamp": "Nov 10, 2016 8:58:29 AM",
     "topic": "New NASA Emdrive paper shows force of 1.2 millinewtons per kilowatt",
@@ -13,6 +21,14 @@ var newsArray = [
     "topic": "Standard Cyborg Is Hiring a Customer Success Manager",
     "votes": 1,
     "posted": "Nov 10, 2016 8:37:19 AM"
+  },
+  {
+    "id": "12918432",
+    "timestamp": "Nov 10, 2016 9:58:34 AM",
+    "topic": "What a Difference 2 Percentage Points Make",
+    "url": "http://fivethirtyeight.com/features/what-a-difference-2-percentage-points-makes/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 8:28:48 AM"
   },
   {
     "id": "12918211",
@@ -29,6 +45,14 @@ var newsArray = [
     "url": "http://lifehacker.com/web-of-trust-sells-your-browsing-history-uninstall-it-1788667989",
     "votes": 3,
     "posted": "Nov 10, 2016 7:31:40 AM"
+  },
+  {
+    "id": "12918150",
+    "timestamp": "Nov 10, 2016 9:48:33 AM",
+    "topic": "What Trump means for tech",
+    "url": "http://www.bbc.com/news/technology-37932661",
+    "votes": 7,
+    "posted": "Nov 10, 2016 7:19:24 AM"
   },
   {
     "id": "12917929",
@@ -7054,37 +7078,5 @@ var newsArray = [
     "url": "https://wiki.mozilla.org/Identity/Persona_Shutdown_Guidelines_for_Reliers",
     "votes": 3,
     "posted": "Nov 3, 2016 10:12:12 AM"
-  },
-  {
-    "id": "12862355",
-    "timestamp": "Nov 3, 2016 10:02:32 AM",
-    "topic": "Mozilla, WebKit, Chrome removing a feature to protect consumers privacy",
-    "url": "http://www.bleepingcomputer.com/news/software/battery-status-api-being-removed-from-firefox-due-to-privacy-concerns/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 9:29:26 AM"
-  },
-  {
-    "id": "12862323",
-    "timestamp": "Nov 3, 2016 12:22:44 PM",
-    "topic": "The 2016 MacBook Pro reviewed: An expensive MacBook Air on the inside",
-    "url": "http://arstechnica.co.uk/apple/2016/11/macbook-pro-2016-no-touch-bar-review/",
-    "votes": 4,
-    "posted": "Nov 3, 2016 9:18:09 AM"
-  },
-  {
-    "id": "12862308",
-    "timestamp": "Nov 3, 2016 2:02:52 PM",
-    "topic": "Making high-performance batteries from junkyard scraps",
-    "url": "https://news.vanderbilt.edu/2016/11/02/making-high-performance-batteries-from-junkyard-scraps/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 9:13:33 AM"
-  },
-  {
-    "id": "12862268",
-    "timestamp": "Nov 3, 2016 9:32:29 AM",
-    "topic": "Aleppo siege: UN envoy Mistura \u0027appalled\u0027 by rebel attacks",
-    "url": "http://www.bbc.com/news/world-middle-east-37816938",
-    "votes": 4,
-    "posted": "Nov 3, 2016 9:00:52 AM"
   }
 ];
