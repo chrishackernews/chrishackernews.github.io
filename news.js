@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12923460",
+    "timestamp": "Nov 10, 2016 8:49:34 PM",
+    "topic": "Work/Life Balance Will Make You a Better Software Engineer",
+    "url": "https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/?",
+    "votes": 11,
+    "posted": "Nov 10, 2016 8:33:07 PM"
+  },
+  {
+    "id": "12923444",
+    "timestamp": "Nov 10, 2016 8:49:35 PM",
+    "topic": "Use the Electoral College the way it was intended",
+    "url": "https://www.change.org/p/electoral-college-electors-electoral-college-make-hillary-clinton-president-on-december-19?source_location\u003ddiscover_feed",
+    "votes": 3,
+    "posted": "Nov 10, 2016 8:31:42 PM"
+  },
+  {
+    "id": "12923390",
+    "timestamp": "Nov 10, 2016 8:49:35 PM",
+    "topic": "Global warming disaster could suffocate life on planet Earth, research shows",
+    "url": "https://www2.le.ac.uk/offices/press/press-releases/2015/december/global-warming-disaster-could-suffocate-life-on-planet-earth-research-shows",
+    "votes": 7,
+    "posted": "Nov 10, 2016 8:26:31 PM"
+  },
+  {
+    "id": "12923361",
+    "timestamp": "Nov 10, 2016 8:39:33 PM",
+    "topic": "GreatAgain.gov",
+    "url": "https://www.greatagain.gov",
+    "votes": 7,
+    "posted": "Nov 10, 2016 8:22:51 PM"
+  },
+  {
+    "id": "12923266",
+    "timestamp": "Nov 10, 2016 8:39:33 PM",
+    "topic": "Donald Trump’s strange speaking style, as explained by linguists",
+    "url": "http://www.vox.com/2016/8/18/12423688/donald-trump-speech-style-explained-by-linguists",
+    "votes": 3,
+    "posted": "Nov 10, 2016 8:13:21 PM"
+  },
+  {
+    "id": "12923230",
+    "timestamp": "Nov 10, 2016 8:19:31 PM",
+    "topic": "Gut Feelings: Bacteria and the Brain",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3788166/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 8:08:44 PM"
+  },
+  {
+    "id": "12923104",
+    "timestamp": "Nov 10, 2016 8:59:36 PM",
+    "topic": "Why MacBook Pros Don\u0027t Need 32GB of RAM",
+    "url": "http://www.zdnet.com/article/why-macbook-pros-dont-need-32gb-of-ram/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 7:55:00 PM"
+  },
+  {
+    "id": "12922936",
+    "timestamp": "Nov 10, 2016 8:09:30 PM",
+    "topic": "Variational Lossy Autoencoder",
+    "url": "https://arxiv.org/abs/1611.02731",
+    "votes": 4,
+    "posted": "Nov 10, 2016 7:35:57 PM"
+  },
+  {
     "id": "12922921",
     "timestamp": "Nov 10, 2016 7:49:28 PM",
     "topic": "Show HN: Generate Database Driven Web Apps and API\u0027s with Fields from a YAML File",
@@ -14,6 +78,14 @@ var newsArray = [
     "url": "http://www.politico.com/story/2016/10/trump-transition-team-jeffrey-eisenach-229276",
     "votes": 6,
     "posted": "Nov 10, 2016 7:27:15 PM"
+  },
+  {
+    "id": "12922811",
+    "timestamp": "Nov 10, 2016 8:39:33 PM",
+    "topic": "Facebook\u0027s Second-Generation Modular Open Switch: Backpack",
+    "url": "https://code.facebook.com/posts/864213503715814/introducing-backpack-our-second-generation-modular-open-switch/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 7:23:37 PM"
   },
   {
     "id": "12922625",
@@ -46,6 +118,14 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/silicon-valley-braces-for-uncertainty-after-donald-trumps-victory-1478716165",
     "votes": 5,
     "posted": "Nov 10, 2016 6:40:00 PM"
+  },
+  {
+    "id": "12922318",
+    "timestamp": "Nov 10, 2016 8:09:30 PM",
+    "topic": "Facebook admits it must do more to stop the spread of misinformation",
+    "url": "https://techcrunch.com/2016/11/10/facebook-admits-it-must-do-more-to-stop-the-spread-of-misinformation-on-its-platform/",
+    "votes": 11,
+    "posted": "Nov 10, 2016 6:27:30 PM"
   },
   {
     "id": "12922202",
@@ -7129,116 +7209,5 @@ var newsArray = [
     "url": "http://www.economist.com/news/business/21709564-cheaper-location-tech-companies-takes-los-angeles-booms-startup-hub",
     "votes": 5,
     "posted": "Nov 3, 2016 9:00:24 PM"
-  },
-  {
-    "id": "12867380",
-    "timestamp": "Nov 3, 2016 9:23:35 PM",
-    "topic": "Udacity the new ITT Tech?",
-    "url": "https://tech.masters3d.com/udacity-the-new-itt-tech-ce26018c3f2",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:55:27 PM"
-  },
-  {
-    "id": "12867356",
-    "timestamp": "Nov 3, 2016 9:23:35 PM",
-    "topic": "Why Are US Presidential Elections So Close?",
-    "url": "http://nautil.us/issue/42/fakes/why-are-us-presidential-elections-so-close",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:53:10 PM"
-  },
-  {
-    "id": "12867325",
-    "timestamp": "Nov 4, 2016 3:14:08 AM",
-    "topic": "Inside Magic Leap, the Secretive $4.5B Startup Changing Computing Forever",
-    "url": "http://www.forbes.com/sites/davidewalt/2016/11/02/inside-magic-leap-the-secretive-4-5-billion-startup-changing-computing-forever/#235ad204e83f",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:48:57 PM"
-  },
-  {
-    "id": "12867306",
-    "timestamp": "Nov 5, 2016 1:36:09 AM",
-    "topic": "The curious case  of the disappearing Polish S (2015)",
-    "url": "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df",
-    "votes": 3,
-    "posted": "Nov 3, 2016 8:46:31 PM"
-  },
-  {
-    "id": "12867300",
-    "timestamp": "Nov 4, 2016 5:44:21 AM",
-    "topic": "Ask HN: How to structure sales compensation package at b2b startup?",
-    "votes": 3,
-    "posted": "Nov 3, 2016 8:45:44 PM"
-  },
-  {
-    "id": "12867288",
-    "timestamp": "Nov 4, 2016 3:24:10 AM",
-    "topic": "How to block the ultrasonic signals you didn’t know were tracking you",
-    "url": "http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/",
-    "votes": 5,
-    "posted": "Nov 3, 2016 8:44:28 PM"
-  },
-  {
-    "id": "12867273",
-    "timestamp": "Nov 4, 2016 3:14:08 AM",
-    "topic": "Our units of measurement are finally about to get an upgrade",
-    "url": "http://www.sciencealert.com/our-units-of-measurement-are-finally-getting-an-upgrade",
-    "votes": 3,
-    "posted": "Nov 3, 2016 8:41:44 PM"
-  },
-  {
-    "id": "12867243",
-    "timestamp": "Nov 5, 2016 11:28:45 PM",
-    "topic": "Mars Opportunity Rover: Driving the Jet Propulsion Lab\u0027s Mars Rover. Again",
-    "url": "http://www.caranddriver.com/reviews/we-drive-the-mars-opportunity-rover-review",
-    "votes": 3,
-    "posted": "Nov 3, 2016 8:39:10 PM"
-  },
-  {
-    "id": "12867221",
-    "timestamp": "Nov 3, 2016 8:53:31 PM",
-    "topic": "A Conductor of Evolution’s Subtle Symphony",
-    "url": "https://www.quantamagazine.org/20161103-richard-lenski-interview-evolution/",
-    "votes": 3,
-    "posted": "Nov 3, 2016 8:36:24 PM"
-  },
-  {
-    "id": "12867199",
-    "timestamp": "Nov 3, 2016 8:33:29 PM",
-    "topic": "Tesorio (YC S15) Is Hiring Senior Back End and Full Stack Engineers",
-    "url": "https://www.tesorio.com/careers/",
-    "votes": 1,
-    "posted": "Nov 3, 2016 8:32:55 PM"
-  },
-  {
-    "id": "12867123",
-    "timestamp": "Nov 3, 2016 8:43:30 PM",
-    "topic": "Annotating Michael Nielsen\u0027s Book on Deep Learning: Chapter 1",
-    "url": "http://fermatslibrary.com/s/using-neural-nets-to-recognize-handwritten-digits",
-    "votes": 8,
-    "posted": "Nov 3, 2016 8:24:23 PM"
-  },
-  {
-    "id": "12867109",
-    "timestamp": "Nov 3, 2016 9:43:38 PM",
-    "topic": "Instacart CEO: Some Workers Must Earn Less for the Company to Grow",
-    "url": "https://www.buzzfeed.com/carolineodonovan/instacart-ceo-some-workers-must-earn-less-for-the-company-to",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:22:34 PM"
-  },
-  {
-    "id": "12866974",
-    "timestamp": "Nov 3, 2016 9:23:35 PM",
-    "topic": "List of silicon valley startups that are about to grow fast",
-    "url": "http://www.yodas.com/hyper",
-    "votes": 7,
-    "posted": "Nov 3, 2016 8:07:24 PM"
-  },
-  {
-    "id": "12866943",
-    "timestamp": "Nov 3, 2016 8:23:28 PM",
-    "topic": "Show HN: Sodaphonic – record and edit audio in the browser",
-    "url": "https://sodaphonic.com",
-    "votes": 4,
-    "posted": "Nov 3, 2016 8:04:14 PM"
   }
 ];
