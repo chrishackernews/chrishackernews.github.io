@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12919894",
+    "timestamp": "Nov 10, 2016 1:58:53 PM",
+    "topic": "“Trump will be the first anti-science president we have ever had”",
+    "url": "http://www.nature.com/news/donald-trump-s-us-election-win-stuns-scientists-1.20952",
+    "votes": 4,
+    "posted": "Nov 10, 2016 1:42:46 PM"
+  },
+  {
+    "id": "12919780",
+    "timestamp": "Nov 10, 2016 1:48:52 PM",
+    "topic": "Scouts and guides provide \u0027mental health boost for life\u0027",
+    "url": "http://www.bbc.co.uk/news/uk-scotland-37923133",
+    "votes": 5,
+    "posted": "Nov 10, 2016 1:21:35 PM"
+  },
+  {
+    "id": "12919693",
+    "timestamp": "Nov 10, 2016 1:48:52 PM",
+    "topic": "Tesla made more money last quarter than the US oil industry made last year",
+    "url": "https://electrek.co/2016/11/10/tesla-made-more-money-last-quarter-than-the-entire-us-oil-industry-made-last-year/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 1:03:49 PM"
+  },
+  {
+    "id": "12919633",
+    "timestamp": "Nov 10, 2016 1:18:49 PM",
+    "topic": "Dear Democrats, Read This If You Do Not Understand Why Trump Won",
+    "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.jhhanptn7",
+    "votes": 4,
+    "posted": "Nov 10, 2016 12:51:57 PM"
+  },
+  {
     "id": "12919255",
     "timestamp": "Nov 10, 2016 12:08:44 PM",
     "topic": "DDoS attack halts heating in Finland amidst winter",
     "url": "https://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter",
     "votes": 7,
     "posted": "Nov 10, 2016 11:33:43 AM"
+  },
+  {
+    "id": "12919058",
+    "timestamp": "Nov 10, 2016 1:58:53 PM",
+    "topic": "Trump Won Because Leftist Political Correctness Inspired a Terrifying Backlash",
+    "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
+    "votes": 4,
+    "posted": "Nov 10, 2016 10:50:27 AM"
   },
   {
     "id": "12918756",
@@ -79,6 +119,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 7:36:04 AM"
   },
   {
+    "id": "12918209",
+    "timestamp": "Nov 10, 2016 1:28:50 PM",
+    "topic": "Trump’s Win Isn’t the Death of Data",
+    "url": "https://www.wired.com/2016/11/trumps-win-isnt-death-data-flawed-along/",
+    "votes": 3,
+    "posted": "Nov 10, 2016 7:35:33 AM"
+  },
+  {
     "id": "12918191",
     "timestamp": "Nov 10, 2016 7:48:24 AM",
     "topic": "WOT is selling your PII and browsing history",
@@ -125,6 +173,14 @@ var newsArray = [
     "url": "http://www.npr.org/sections/thetwo-way/2016/11/09/501476275/colorado-voters-accept-right-to-die-measure",
     "votes": 3,
     "posted": "Nov 10, 2016 5:33:49 AM"
+  },
+  {
+    "id": "12917640",
+    "timestamp": "Nov 10, 2016 1:58:53 PM",
+    "topic": "Laws or comets?",
+    "url": "https://aeon.co/essays/how-chance-and-probability-affect-the-path-of-big-history",
+    "votes": 3,
+    "posted": "Nov 10, 2016 5:08:50 AM"
   },
   {
     "id": "12917538",
@@ -7054,13 +7110,5 @@ var newsArray = [
     "url": "https://blog.intercom.com/browsers-not-apps-are-the-future-of-mobile/",
     "votes": 5,
     "posted": "Nov 3, 2016 2:01:41 PM"
-  },
-  {
-    "id": "12863455",
-    "timestamp": "Nov 3, 2016 4:23:03 PM",
-    "topic": "Why hardware development is hard, part 1: Verilog is weird",
-    "url": "https://danluu.com/why-hardware-development-is-hard/",
-    "votes": 5,
-    "posted": "Nov 3, 2016 1:37:10 PM"
   }
 ];
