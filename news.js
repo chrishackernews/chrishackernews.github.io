@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12927723",
+    "timestamp": "Nov 11, 2016 5:50:22 AM",
+    "topic": "IBM and the Holocaust",
+    "url": "https://en.wikipedia.org/wiki/IBM_and_the_Holocaust",
+    "votes": 3,
+    "posted": "Nov 11, 2016 5:15:51 AM"
+  },
+  {
+    "id": "12927657",
+    "timestamp": "Nov 11, 2016 5:20:20 AM",
+    "topic": "Why I’m Leaving the Thiel Fellowship",
+    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.7zevfjrzi",
+    "votes": 11,
+    "posted": "Nov 11, 2016 5:06:12 AM"
+  },
+  {
+    "id": "12927560",
+    "timestamp": "Nov 11, 2016 5:00:18 AM",
+    "topic": "Bodyport (YC S15) Is Hiring a Data Engineer",
+    "url": "https://jobs.lever.co/bodyport/994596b9-13c1-4f61-a89f-b4033e233232",
+    "votes": 1,
+    "posted": "Nov 11, 2016 4:51:37 AM"
+  },
+  {
+    "id": "12927432",
+    "timestamp": "Nov 11, 2016 5:20:19 AM",
+    "topic": "HTC Vive Goes Wireless with $220 Add-On",
+    "url": "http://uploadvr.com/htc-vive-wireless-kit/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 4:33:49 AM"
+  },
+  {
     "id": "12927173",
     "timestamp": "Nov 11, 2016 4:40:16 AM",
     "topic": "A Glance into Web Tech.-Based Text Editors\u0027 Text Management",
@@ -22,6 +54,14 @@ var newsArray = [
     "url": "http://www.bbc.co.uk/news/uk-england-37708996",
     "votes": 5,
     "posted": "Nov 11, 2016 3:54:29 AM"
+  },
+  {
+    "id": "12927098",
+    "timestamp": "Nov 11, 2016 5:20:20 AM",
+    "topic": "Spanish prime minister\u0027s party suggests ban on internet memes",
+    "url": "http://www.telegraph.co.uk/news/2016/11/10/no-joke-spanish-prime-ministers-party-suggests-ban-on-internet-m/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 3:49:12 AM"
   },
   {
     "id": "12927072",
@@ -7184,61 +7224,5 @@ var newsArray = [
     "url": "https://github.com/hashedin/jinjasql",
     "votes": 4,
     "posted": "Nov 4, 2016 6:26:13 AM"
-  },
-  {
-    "id": "12870410",
-    "timestamp": "Nov 4, 2016 10:14:44 AM",
-    "topic": "Move over Raspberry Pi, here is a $4, coin-sized, open-source Linux computer",
-    "url": "http://www.zdnet.com/article/move-over-raspberry-pi-here-is-a-4-coin-sized-open-source-linux-computer/",
-    "votes": 7,
-    "posted": "Nov 4, 2016 5:34:37 AM"
-  },
-  {
-    "id": "12870387",
-    "timestamp": "Nov 4, 2016 7:04:28 AM",
-    "topic": "The Median Level of Founder Ownership at Exit",
-    "url": "http://blossomstreetventures.com/blog_details.php?bcat_id\u003d106",
-    "votes": 4,
-    "posted": "Nov 4, 2016 5:28:40 AM"
-  },
-  {
-    "id": "12870380",
-    "timestamp": "Nov 4, 2016 5:54:22 AM",
-    "topic": "Error handling that every programmer should know",
-    "url": "https://www.joyent.com/node-js/production/design/errors",
-    "votes": 3,
-    "posted": "Nov 4, 2016 5:27:18 AM"
-  },
-  {
-    "id": "12870359",
-    "timestamp": "Nov 4, 2016 6:45:29 PM",
-    "topic": "How Sociopathic Capitalism Came to Rule the World",
-    "url": "http://www.theatlantic.com/business/archive/2016/11/sociopathic-capitalism/506240/?single_page\u003dtrue",
-    "votes": 3,
-    "posted": "Nov 4, 2016 5:20:23 AM"
-  },
-  {
-    "id": "12870287",
-    "timestamp": "Nov 4, 2016 6:04:23 AM",
-    "topic": "The secret world of microwave networks",
-    "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 5:03:09 AM"
-  },
-  {
-    "id": "12870264",
-    "timestamp": "Nov 4, 2016 7:34:30 AM",
-    "topic": "Snapnator: Your MacBook Snap feature is back",
-    "url": "https://www.kickstarter.com/projects/436147229/snapnator-your-macbook-snap-feature-is-back",
-    "votes": 4,
-    "posted": "Nov 4, 2016 4:58:29 AM"
-  },
-  {
-    "id": "12870249",
-    "timestamp": "Nov 4, 2016 5:34:20 AM",
-    "topic": "Why Fitbit Inc. Just Lost a Third of Its Value",
-    "url": "http://www.fool.com/investing/2016/11/03/why-fitbit-inc-just-lost-a-third-of-its-value.aspx",
-    "votes": 4,
-    "posted": "Nov 4, 2016 4:54:28 AM"
   }
 ];
