@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 11, 2016 8:24:01 AM"
   },
   {
+    "id": "12928683",
+    "timestamp": "Nov 11, 2016 10:40:49 AM",
+    "topic": "Tesla Model S is great, except",
+    "url": "https://medium.com/@michaelmeier_90534/tesla-model-s-is-great-except-1638f3f4d96f#.cjg00xmfp",
+    "votes": 4,
+    "posted": "Nov 11, 2016 8:22:29 AM"
+  },
+  {
     "id": "12928666",
     "timestamp": "Nov 11, 2016 9:20:44 AM",
     "topic": "Liberating the Smalltalk lurking in C and Unix",
@@ -230,6 +238,13 @@ var newsArray = [
     "posted": "Nov 11, 2016 2:39:19 AM"
   },
   {
+    "id": "12926576",
+    "timestamp": "Nov 11, 2016 10:20:48 AM",
+    "topic": "Ask HN: Do you regret using an obscure language for something?",
+    "votes": 4,
+    "posted": "Nov 11, 2016 2:30:37 AM"
+  },
+  {
     "id": "12926510",
     "timestamp": "Nov 11, 2016 9:40:45 AM",
     "topic": "LinkedIn to be blocked in Russia; Google, eBay, Uber, and Booking.com have moved",
@@ -355,6 +370,14 @@ var newsArray = [
     "url": "https://www.indiehackers.com/businesses/sidekiq?utm_source\u003dnewsletter\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003demail\u0026utm_source\u003dIndie+Hackers+Newsletter\u0026utm_campaign\u003dec2594295f-EMAIL_CAMPAIGN_2016_11_10\u0026utm_medium\u003demail\u0026utm_term\u003d0_43062afaa5-ec2594295f-118903173",
     "votes": 3,
     "posted": "Nov 11, 2016 12:06:41 AM"
+  },
+  {
+    "id": "12925406",
+    "timestamp": "Nov 11, 2016 10:00:46 AM",
+    "topic": "Apple Leak Reveals Massive New iPhone Cancellation",
+    "url": "http://www.forbes.com/sites/gordonkelly/2016/11/09/apple-iphone-2017-cancellation/",
+    "votes": 7,
+    "posted": "Nov 11, 2016 12:01:33 AM"
   },
   {
     "id": "12925267",
@@ -7240,45 +7263,5 @@ var newsArray = [
     "url": "https://sidbala.com/h-264-is-magic/",
     "votes": 7,
     "posted": "Nov 4, 2016 11:00:57 AM"
-  },
-  {
-    "id": "12871348",
-    "timestamp": "Nov 4, 2016 4:05:13 PM",
-    "topic": "Microsoft lost 300M browser users in 2016, tracking site shows",
-    "url": "http://www.businessinsider.com/300-million-users-ditched-microsoft-browsers-2016-11?utm_source\u003dfeedburner\u0026utm_medium\u003dreferral",
-    "votes": 4,
-    "posted": "Nov 4, 2016 10:49:51 AM"
-  },
-  {
-    "id": "12871242",
-    "timestamp": "Nov 4, 2016 10:24:44 AM",
-    "topic": "Flexport is hiring a VP of Marketing to start our marketing team",
-    "url": "https://flexport.com/careers",
-    "votes": 1,
-    "posted": "Nov 4, 2016 10:19:24 AM"
-  },
-  {
-    "id": "12871234",
-    "timestamp": "Nov 4, 2016 10:54:48 AM",
-    "topic": "6.851: Advanced Data Structures",
-    "url": "http://courses.csail.mit.edu/6.851/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 10:17:23 AM"
-  },
-  {
-    "id": "12871157",
-    "timestamp": "Nov 4, 2016 10:24:45 AM",
-    "topic": "Switching from MacOS: Developer Environment",
-    "url": "http://blog.elementary.io/post/152671475281/switching-from-macos-developer-environment",
-    "votes": 5,
-    "posted": "Nov 4, 2016 9:52:19 AM"
-  },
-  {
-    "id": "12871156",
-    "timestamp": "Nov 4, 2016 12:44:56 PM",
-    "topic": "Fast Fibonacci Algorithms",
-    "url": "https://www.nayuki.io/page/fast-fibonacci-algorithms",
-    "votes": 5,
-    "posted": "Nov 4, 2016 9:52:08 AM"
   }
 ];
