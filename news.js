@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "12926678",
+    "timestamp": "Nov 11, 2016 2:50:07 AM",
+    "topic": "YC Partner Peter Thiel, Joins Trump Transition Team",
+    "url": "https://www.linkedin.com/pulse/peter-thiel-join-trump-transition-team-dan-primack",
+    "votes": 3,
+    "posted": "Nov 11, 2016 2:45:33 AM"
+  },
+  {
+    "id": "12926632",
+    "timestamp": "Nov 11, 2016 2:50:07 AM",
+    "topic": "Island Generator",
+    "url": "http://exupero.org/hazard/post/islands/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 2:39:19 AM"
+  },
+  {
+    "id": "12926343",
+    "timestamp": "Nov 11, 2016 2:10:03 AM",
+    "topic": "Peter Thiel Is Poised to Become a National Villain",
+    "url": "http://nymag.com/selectall/2016/11/peter-thiel-is-poised-to-become-a-national-villain.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 1:50:48 AM"
+  },
+  {
+    "id": "12926297",
+    "timestamp": "Nov 11, 2016 2:40:06 AM",
+    "topic": "China\u0027s \u0027Artificial Sun\u0027 achieves fusion breakthrough",
+    "url": "http://en.people.cn/n3/2016/1103/c90000-9136786.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 1:43:49 AM"
+  },
+  {
+    "id": "12926270",
+    "timestamp": "Nov 11, 2016 2:00:02 AM",
+    "topic": "Grubhub CEO\u0027s email to employees",
+    "url": "http://www.chicagotribune.com/bluesky/originals/ct-matt-maloney-grubhub-email-resign-bsi-20161110-story.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 1:39:02 AM"
+  },
+  {
+    "id": "12926184",
+    "timestamp": "Nov 11, 2016 2:40:06 AM",
+    "topic": "Ask HN: What are you using for project management?",
+    "votes": 5,
+    "posted": "Nov 11, 2016 1:27:13 AM"
+  },
+  {
     "id": "12926119",
     "timestamp": "Nov 11, 2016 1:19:59 AM",
     "topic": "Gusto is hiring an experienced Data Engineer in SF",
@@ -332,6 +379,13 @@ var newsArray = [
     "posted": "Nov 10, 2016 7:49:59 PM"
   },
   {
+    "id": "12923045",
+    "timestamp": "Nov 11, 2016 2:40:06 AM",
+    "topic": "Ask HN: Would America be better off as 50 separate countries?",
+    "votes": 8,
+    "posted": "Nov 10, 2016 7:49:01 PM"
+  },
+  {
     "id": "12922936",
     "timestamp": "Nov 10, 2016 8:09:30 PM",
     "topic": "Variational Lossy Autoencoder",
@@ -531,6 +585,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 4:29:25 PM"
   },
   {
+    "id": "12921116",
+    "timestamp": "Nov 11, 2016 2:50:07 AM",
+    "topic": "Erlang Patterns",
+    "url": "http://www.erlangpatterns.org/patterns.html",
+    "votes": 3,
+    "posted": "Nov 10, 2016 4:25:01 PM"
+  },
+  {
     "id": "12920994",
     "timestamp": "Nov 10, 2016 4:29:06 PM",
     "topic": "Atom 1.12 released",
@@ -649,6 +711,14 @@ var newsArray = [
     "url": "http://www.vanityfair.com/news/2016/11/donald-trump-victory-silicon-valley-california-secession-threat",
     "votes": 5,
     "posted": "Nov 10, 2016 2:56:27 PM"
+  },
+  {
+    "id": "12920327",
+    "timestamp": "Nov 11, 2016 2:50:07 AM",
+    "topic": "Commentary: The unbearable smugness of the press",
+    "url": "http://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 2:53:09 PM"
   },
   {
     "id": "12920279",
@@ -7176,29 +7246,5 @@ var newsArray = [
     "topic": "Ask HN: How Do You Share HN?",
     "votes": 4,
     "posted": "Nov 4, 2016 3:01:27 AM"
-  },
-  {
-    "id": "12869616",
-    "timestamp": "Nov 4, 2016 7:14:29 AM",
-    "topic": "How Airbnb has contributed to Vancouver\u0027s rental shortage",
-    "url": "http://www.straight.com/news/821031/masters-thesis-details-how-airbnb-has-become-problem-housing-supply-and-affordability",
-    "votes": 3,
-    "posted": "Nov 4, 2016 2:11:30 AM"
-  },
-  {
-    "id": "12869601",
-    "timestamp": "Nov 4, 2016 2:24:05 AM",
-    "topic": "The Peoples Code – Code.gov Launches",
-    "url": "https://code.gov/#/",
-    "votes": 14,
-    "posted": "Nov 4, 2016 2:08:24 AM"
-  },
-  {
-    "id": "12869522",
-    "timestamp": "Nov 4, 2016 3:44:11 AM",
-    "topic": "How to be an artist – Howard Hodgkin",
-    "url": "http://iainmait.land/posts/howard-hodgkin-how-to-be-an-artist",
-    "votes": 4,
-    "posted": "Nov 4, 2016 1:50:45 AM"
   }
 ];
