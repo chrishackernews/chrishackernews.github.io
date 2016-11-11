@@ -1,11 +1,83 @@
 var newsArray = [
   {
+    "id": "12933010",
+    "timestamp": "Nov 11, 2016 7:41:43 PM",
+    "topic": "OneSignal Is Hiring Mobile and Full-Stack Developers in Mountain View",
+    "url": "http://jobs.onesignal.com/",
+    "votes": 1,
+    "posted": "Nov 11, 2016 7:33:30 PM"
+  },
+  {
+    "id": "12932987",
+    "timestamp": "Nov 11, 2016 7:41:44 PM",
+    "topic": "The Real Lesson in Grubhub CEO Telling Trump Supporters to Resign",
+    "url": "http://www.wirepoints.com/the-real-lesson-in-grubhub-ceo-telling-trump-supporters-to-resign-plus-an-earlier-personal-one-wp-original/",
+    "votes": 9,
+    "posted": "Nov 11, 2016 7:30:42 PM"
+  },
+  {
+    "id": "12932931",
+    "timestamp": "Nov 11, 2016 7:41:43 PM",
+    "topic": "Going Serverless: AWS and Compelling Science Fiction",
+    "url": "http://compellingsciencefiction.com/blog/2016-11-10.html",
+    "votes": 8,
+    "posted": "Nov 11, 2016 7:20:04 PM"
+  },
+  {
+    "id": "12932753",
+    "timestamp": "Nov 11, 2016 7:21:41 PM",
+    "topic": "Regex that only matches itself",
+    "url": "http://codegolf.stackexchange.com/a/31863",
+    "votes": 6,
+    "posted": "Nov 11, 2016 6:56:48 PM"
+  },
+  {
+    "id": "12932700",
+    "timestamp": "Nov 11, 2016 7:21:41 PM",
+    "topic": "Web Scraping with Beautiful Soup",
+    "url": "http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html",
+    "votes": 7,
+    "posted": "Nov 11, 2016 6:49:40 PM"
+  },
+  {
+    "id": "12932654",
+    "timestamp": "Nov 11, 2016 7:11:40 PM",
+    "topic": "How to encrypt your entire life in less than an hour",
+    "url": "https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.ng2gfv9yj",
+    "votes": 5,
+    "posted": "Nov 11, 2016 6:41:51 PM"
+  },
+  {
+    "id": "12932601",
+    "timestamp": "Nov 11, 2016 7:31:42 PM",
+    "topic": "In College and Hiding from Scary Ideas",
+    "url": "http://www.nytimes.com/2015/03/22/opinion/sunday/judith-shulevitz-hiding-from-scary-ideas.html",
+    "votes": 5,
+    "posted": "Nov 11, 2016 6:34:02 PM"
+  },
+  {
     "id": "12932518",
     "timestamp": "Nov 11, 2016 6:51:39 PM",
     "topic": "Font Awesome 5 has raised $620 000 in 15 days",
     "url": "https://www.kickstarter.com/projects/232193852/font-awesome-5",
     "votes": 4,
     "posted": "Nov 11, 2016 6:22:36 PM"
+  },
+  {
+    "id": "12932469",
+    "timestamp": "Nov 11, 2016 7:31:42 PM",
+    "topic": "An idea for encrypted, verifiable voting",
+    "url": "https://blag.mpcsh.xyz/0001",
+    "votes": 4,
+    "posted": "Nov 11, 2016 6:13:55 PM"
+  },
+  {
+    "id": "12932429",
+    "timestamp": "Nov 11, 2016 7:01:39 PM",
+    "topic": "Winds – An Open Source Personalized RSS Reader",
+    "url": "http://winds.getstream.io/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 6:08:12 PM"
   },
   {
     "id": "12932317",
@@ -32,6 +104,36 @@ var newsArray = [
     "posted": "Nov 11, 2016 5:20:34 PM"
   },
   {
+    "id": "12931943",
+    "timestamp": "Nov 11, 2016 7:41:44 PM",
+    "topic": "Ask HN: What will happen to Obama\u0027s new “startup visa”?",
+    "votes": 4,
+    "posted": "Nov 11, 2016 5:14:17 PM"
+  },
+  {
+    "id": "12931888",
+    "timestamp": "Nov 11, 2016 7:31:42 PM",
+    "topic": "Nginx on Autopilot: easy scaling and automatic SSL",
+    "url": "https://www.joyent.com/blog/nginx-and-letsencrypt-on-autopilot",
+    "votes": 3,
+    "posted": "Nov 11, 2016 5:08:34 PM"
+  },
+  {
+    "id": "12931885",
+    "timestamp": "Nov 11, 2016 7:31:43 PM",
+    "topic": "Ask HN: Hands hurts from coding too long?",
+    "votes": 3,
+    "posted": "Nov 11, 2016 5:08:24 PM"
+  },
+  {
+    "id": "12931764",
+    "timestamp": "Nov 11, 2016 7:41:44 PM",
+    "topic": "A version control visualization tool",
+    "url": "http://gource.io/",
+    "votes": 5,
+    "posted": "Nov 11, 2016 4:57:48 PM"
+  },
+  {
     "id": "12931620",
     "timestamp": "Nov 11, 2016 5:11:28 PM",
     "topic": "Building a Cross Platform 360-degree Video Experience at The New York Times",
@@ -56,6 +158,14 @@ var newsArray = [
     "posted": "Nov 11, 2016 4:29:49 PM"
   },
   {
+    "id": "12931370",
+    "timestamp": "Nov 11, 2016 7:41:44 PM",
+    "topic": "What Percent of the Top-Voted Comments in Reddit Threads Were Also First Comment?",
+    "url": "http://minimaxir.com/2016/11/first-comment/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 4:21:49 PM"
+  },
+  {
     "id": "12931352",
     "timestamp": "Nov 11, 2016 4:51:26 PM",
     "topic": "Ask HN: Please add a warrant canary to the footer",
@@ -77,6 +187,14 @@ var newsArray = [
     "url": "http://www.bbc.com/future/story/20161103-the-macabre-fate-of-beating-heart-corpses",
     "votes": 4,
     "posted": "Nov 11, 2016 3:54:43 PM"
+  },
+  {
+    "id": "12931083",
+    "timestamp": "Nov 11, 2016 7:41:44 PM",
+    "topic": "The BlackNurse Attack [pdf]",
+    "url": "http://soc.tdc.dk/blacknurse/blacknurse.pdf",
+    "votes": 3,
+    "posted": "Nov 11, 2016 3:51:56 PM"
   },
   {
     "id": "12931053",
@@ -7079,93 +7197,5 @@ var newsArray = [
     "url": "http://www.cnbc.com/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html",
     "votes": 5,
     "posted": "Nov 4, 2016 7:57:00 PM"
-  },
-  {
-    "id": "12874835",
-    "timestamp": "Nov 4, 2016 8:25:38 PM",
-    "topic": "How “Black Mirror” Gets Its Barely Sci-Fi Tech Just Right",
-    "url": "https://magenta.as/how-black-mirror-gets-its-barely-sci-fi-tech-just-right-4809e500085e#.3mxzdk2x8",
-    "votes": 8,
-    "posted": "Nov 4, 2016 7:37:59 PM"
-  },
-  {
-    "id": "12874808",
-    "timestamp": "Nov 4, 2016 8:15:37 PM",
-    "topic": "Programming is boring",
-    "url": "http://dividebyze.ro/2016/11/04/programming-is-boring.html",
-    "votes": 8,
-    "posted": "Nov 4, 2016 7:34:04 PM"
-  },
-  {
-    "id": "12874798",
-    "timestamp": "Nov 4, 2016 7:45:34 PM",
-    "topic": "DeepMind and Blizzard to Open Up StarCraft II to AI",
-    "url": "https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/",
-    "votes": 9,
-    "posted": "Nov 4, 2016 7:32:53 PM"
-  },
-  {
-    "id": "12874770",
-    "timestamp": "Nov 6, 2016 5:19:15 AM",
-    "topic": "Show HN: Offensive Computer Security (Open Course, Video Lectures)",
-    "url": "https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html",
-    "votes": 7,
-    "posted": "Nov 4, 2016 7:29:09 PM"
-  },
-  {
-    "id": "12874756",
-    "timestamp": "Nov 4, 2016 8:25:38 PM",
-    "topic": "Harvard Cancels Men’s Soccer Season After Finding Sexually Explicit \u0027Reports\u0027",
-    "url": "https://www.thecrimson.com/article/2016/11/4/soccer-suspended-scouting-report-harvard/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:26:32 PM"
-  },
-  {
-    "id": "12874743",
-    "timestamp": "Nov 4, 2016 8:05:36 PM",
-    "topic": "No Laptop, No Phone, No Desk: UBS Reinvents the Work Space",
-    "url": "http://www.nytimes.com/2016/11/04/business/dealbook/ubs-bank-virtual-desktops-london.html",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:25:16 PM"
-  },
-  {
-    "id": "12874740",
-    "timestamp": "Nov 4, 2016 9:45:47 PM",
-    "topic": "Show HN: Best of Themes – The simplest way to browse thousands of website themes",
-    "url": "https://www.bestofthemes.com",
-    "votes": 4,
-    "posted": "Nov 4, 2016 7:25:04 PM"
-  },
-  {
-    "id": "12874731",
-    "timestamp": "Nov 4, 2016 8:45:40 PM",
-    "topic": "New sandbox features in systemd",
-    "url": "https://endocode.com/blog/2016/11/04/new-sandbox-features-in-systemd/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:23:40 PM"
-  },
-  {
-    "id": "12874587",
-    "timestamp": "Nov 4, 2016 7:15:32 PM",
-    "topic": "How junk science put a woman behind bars for 25 years",
-    "url": "https://theintercept.com/2016/11/04/25-years-after-junk-science-conviction-texas-finally-admits-sonia-cacys-innocence/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:06:16 PM"
-  },
-  {
-    "id": "12874580",
-    "timestamp": "Nov 4, 2016 7:15:31 PM",
-    "topic": "Seneca Systems (S16) hiring smart, resourceful full-stack engineers",
-    "url": "http://seneca.systems/careers/product/full-stack-engineer",
-    "votes": 1,
-    "posted": "Nov 4, 2016 7:05:46 PM"
-  },
-  {
-    "id": "12874521",
-    "timestamp": "Nov 4, 2016 7:25:33 PM",
-    "topic": "Jury finds Rolling Stone responsible for defaming UVA dean with rape story",
-    "url": "https://www.washingtonpost.com/local/education/jury-finds-reporter-rolling-stone-responsible-for-defaming-u-va-dean-with-gang-rape-story/2016/11/04/aaf407fa-a1e8-11e6-a44d-cc2898cfab06_story.html",
-    "votes": 7,
-    "posted": "Nov 4, 2016 6:58:57 PM"
   }
 ];
