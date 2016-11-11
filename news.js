@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12928694",
+    "timestamp": "Nov 11, 2016 8:50:39 AM",
+    "topic": "Cohen v. Trump",
+    "url": "http://www.plainsite.org/dockets/2ict5dwyt/california-southern-district-court/cohen-v-trump/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:24:16 AM"
+  },
+  {
+    "id": "12928693",
+    "timestamp": "Nov 11, 2016 8:30:37 AM",
+    "topic": "Gigster (on demand software development) is hiring in engineering and sales",
+    "url": "https://jobs.lever.co/gigster",
+    "votes": 1,
+    "posted": "Nov 11, 2016 8:24:01 AM"
+  },
+  {
+    "id": "12928526",
+    "timestamp": "Nov 11, 2016 8:00:35 AM",
+    "topic": "Qt for Go which supports Windows/macOS/Linux/Android/iOS/SailfishOS/RaspberryPi",
+    "url": "https://github.com/therecipe/qt",
+    "votes": 8,
+    "posted": "Nov 11, 2016 7:45:48 AM"
+  },
+  {
+    "id": "12928405",
+    "timestamp": "Nov 11, 2016 8:10:36 AM",
+    "topic": "Blue Feed, Red Feed",
+    "url": "http://graphics.wsj.com/blue-feed-red-feed/#/president-trump",
+    "votes": 3,
+    "posted": "Nov 11, 2016 7:11:31 AM"
+  },
+  {
     "id": "12928173",
     "timestamp": "Nov 11, 2016 7:50:34 AM",
     "topic": "Is Model-View-Controller dead on the front end?",
@@ -7155,35 +7187,5 @@ var newsArray = [
     "url": "http://www.macrumors.com/2016/11/03/new-macbook-pros-thunderbolt-3-compatibility/",
     "votes": 4,
     "posted": "Nov 4, 2016 9:01:47 AM"
-  },
-  {
-    "id": "12870953",
-    "timestamp": "Nov 4, 2016 9:34:40 AM",
-    "topic": "Mozilla stops distribution of WOT addon",
-    "votes": 4,
-    "posted": "Nov 4, 2016 8:46:33 AM"
-  },
-  {
-    "id": "12870908",
-    "timestamp": "Nov 4, 2016 10:44:47 AM",
-    "topic": "Ask HN: Lessons you wish you knew when you were Junior developer?",
-    "votes": 8,
-    "posted": "Nov 4, 2016 8:31:37 AM"
-  },
-  {
-    "id": "12870899",
-    "timestamp": "Nov 4, 2016 9:54:42 AM",
-    "topic": "The Power of Ten – Rules for Writing Safety Critical Code",
-    "url": "http://spinroot.com/p10/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 8:29:03 AM"
-  },
-  {
-    "id": "12870811",
-    "timestamp": "Nov 4, 2016 10:24:45 AM",
-    "topic": "How to block the ultrasonic signals you didn’t know were tracking you",
-    "url": "http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:56:08 AM"
   }
 ];
