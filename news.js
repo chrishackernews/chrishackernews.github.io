@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12926119",
+    "timestamp": "Nov 11, 2016 1:19:59 AM",
+    "topic": "Gusto is hiring an experienced Data Engineer in SF",
+    "url": "https://boards.greenhouse.io/gusto/jobs/188188#.WCUCoeErI4M",
+    "votes": 1,
+    "posted": "Nov 11, 2016 1:19:14 AM"
+  },
+  {
+    "id": "12926082",
+    "timestamp": "Nov 11, 2016 1:50:01 AM",
+    "topic": "Clintons data-driven campaign relied on a algorithm named Ada. What did it miss?",
+    "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 1:15:26 AM"
+  },
+  {
+    "id": "12926064",
+    "timestamp": "Nov 11, 2016 1:19:59 AM",
+    "topic": "Show HN: GUN Starter App Boilerplate – An Easy Open Source Firebase Replacement",
+    "url": "https://github.com/gundb/gun-starter-app",
+    "votes": 3,
+    "posted": "Nov 11, 2016 1:13:05 AM"
+  },
+  {
+    "id": "12925682",
+    "timestamp": "Nov 11, 2016 1:19:59 AM",
+    "topic": "Want to Make a Difference After the Election? Move to the Midwest",
+    "url": "http://chicagoinno.streetwise.co/2016/11/10/want-to-make-a-difference-after-the-election-move-to-the-midwest/",
+    "votes": 6,
+    "posted": "Nov 11, 2016 12:29:56 AM"
+  },
+  {
     "id": "12925665",
     "timestamp": "Nov 11, 2016 12:39:56 AM",
     "topic": "Grubhub CEO tells pro-Trump employees to resign",
@@ -125,6 +157,14 @@ var newsArray = [
     "url": "http://www.rollcall.com/news/opinion/im-a-coastal-elite-from-the-midwest-the-real-bubble-is-rural-america",
     "votes": 5,
     "posted": "Nov 10, 2016 10:29:05 PM"
+  },
+  {
+    "id": "12924340",
+    "timestamp": "Nov 11, 2016 1:19:59 AM",
+    "topic": "Grub Hub CEO – If you support Trump, I want your resignation",
+    "url": "http://www.foxnews.com/us/2016/11/10/boss-tells-pro-trump-employees-to-resign.html",
+    "votes": 27,
+    "posted": "Nov 10, 2016 10:06:43 PM"
   },
   {
     "id": "12924218",
@@ -426,6 +466,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/09/rigged/",
     "votes": 6,
     "posted": "Nov 10, 2016 5:30:42 PM"
+  },
+  {
+    "id": "12921794",
+    "timestamp": "Nov 11, 2016 1:30:00 AM",
+    "topic": "A rash of racist attacks have broken out in the US after Donald Trump’s victory",
+    "url": "http://qz.com/833607/us-election-a-rash-of-racist-attacks-have-broken-out-in-the-us-after-donald-trumps-victory/",
+    "votes": 4,
+    "posted": "Nov 10, 2016 5:28:52 PM"
   },
   {
     "id": "12921652",
@@ -7152,37 +7200,5 @@ var newsArray = [
     "url": "http://iainmait.land/posts/howard-hodgkin-how-to-be-an-artist",
     "votes": 4,
     "posted": "Nov 4, 2016 1:50:45 AM"
-  },
-  {
-    "id": "12869443",
-    "timestamp": "Nov 4, 2016 3:24:09 AM",
-    "topic": "Regular meditation more beneficial than vacation",
-    "url": "http://www.health.harvard.edu/blog/relaxation-benefits-meditation-stronger-relaxation-benefits-taking-vacation-2016102710532",
-    "votes": 3,
-    "posted": "Nov 4, 2016 1:35:59 AM"
-  },
-  {
-    "id": "12869412",
-    "timestamp": "Nov 4, 2016 1:44:02 AM",
-    "topic": "Male Birth Control Study Killed After Men Complain About Side Effects",
-    "url": "http://www.npr.org/sections/health-shots/2016/11/03/500549503/male-birth-control-study-killed-after-men-complain-about-side-effects",
-    "votes": 6,
-    "posted": "Nov 4, 2016 1:29:02 AM"
-  },
-  {
-    "id": "12869389",
-    "timestamp": "Nov 4, 2016 1:45:01 PM",
-    "topic": "The audacious plan to bring back supersonic flight",
-    "url": "http://www.vox.com/energy-and-environment/2016/11/2/13409324/supersonic-flight-concorde",
-    "votes": 4,
-    "posted": "Nov 4, 2016 1:21:33 AM"
-  },
-  {
-    "id": "12869371",
-    "timestamp": "Nov 4, 2016 2:04:03 AM",
-    "topic": "A simple Metropolis-Hastings MCMC in R",
-    "url": "https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 1:18:16 AM"
   }
 ];
