@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12934915",
+    "timestamp": "Nov 11, 2016 11:12:05 PM",
+    "topic": "Streak (YC S11) Hiring a Senior Back End Engineer",
+    "url": "https://www.streak.com/careers#BackendTechLead",
+    "votes": 1,
+    "posted": "Nov 11, 2016 11:05:53 PM"
+  },
+  {
+    "id": "12934905",
+    "timestamp": "Nov 11, 2016 11:42:08 PM",
+    "topic": "Climate change escalating so fast it could be \u0027game over\u0027, scientists warn",
+    "url": "http://www.independent.co.uk/news/science/climate-change-game-over-global-warming-climate-sensitivity-seven-degrees-a7407881.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 11:04:24 PM"
+  },
+  {
+    "id": "12934835",
+    "timestamp": "Nov 11, 2016 11:12:05 PM",
+    "topic": "‘I had it easy: I was never beaten’: fighting segregation in the US south",
+    "url": "https://www.theguardian.com/us-news/2016/nov/11/sit-in-atlanta-georgia-1963-all-white-restaurant",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:55:51 PM"
+  },
+  {
+    "id": "12934759",
+    "timestamp": "Nov 11, 2016 11:12:06 PM",
+    "topic": "Trump\u0027s opposition to H-1B visas has experts concerned",
+    "url": "http://www.techrepublic.com/article/trumps-opposition-to-h-1b-visas-has-experts-concerned-about-filling-high-skilled-jobs/?linkId\u003d31056932",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:47:38 PM"
+  },
+  {
     "id": "12934649",
     "timestamp": "Nov 11, 2016 10:52:03 PM",
     "topic": "See You in Court. It\u0027s Time to Fight",
@@ -14,6 +46,14 @@ var newsArray = [
     "url": "http://billmoyers.com/story/farewell-america/",
     "votes": 4,
     "posted": "Nov 11, 2016 10:23:48 PM"
+  },
+  {
+    "id": "12934420",
+    "timestamp": "Nov 11, 2016 11:02:04 PM",
+    "topic": "Commander-In-Chief Donald Trump Will Have Terrifying Powers. Thanks, Obama",
+    "url": "https://theintercept.com/2016/11/11/commander-in-chief-donald-trump-will-have-terrifying-powers-thanks-obama/",
+    "votes": 5,
+    "posted": "Nov 11, 2016 10:18:42 PM"
   },
   {
     "id": "12934388",
@@ -133,6 +173,13 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.53fulpyly",
     "votes": 4,
     "posted": "Nov 11, 2016 9:00:55 PM"
+  },
+  {
+    "id": "12933701",
+    "timestamp": "Nov 11, 2016 11:42:08 PM",
+    "topic": "Ask HN: Why are Twitter and Facebook so poor at moderating hate speech?",
+    "votes": 4,
+    "posted": "Nov 11, 2016 8:47:55 PM"
   },
   {
     "id": "12933695",
@@ -7212,85 +7259,5 @@ var newsArray = [
     "url": "https://turbo.github.io/",
     "votes": 9,
     "posted": "Nov 4, 2016 11:55:15 PM"
-  },
-  {
-    "id": "12876866",
-    "timestamp": "Nov 5, 2016 10:28:39 PM",
-    "topic": "In the Joints of Their Toes: A ruse that gave rise to the spiritualist movement",
-    "url": "http://www.theparisreview.org/blog/2016/11/04/in-the-joints-of-their-toes/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 11:50:56 PM"
-  },
-  {
-    "id": "12876822",
-    "timestamp": "Nov 5, 2016 4:16:22 AM",
-    "topic": "The Lost Civilization of Dial-Up Bulletin Board Systems",
-    "url": "http://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 4, 2016 11:43:31 PM"
-  },
-  {
-    "id": "12876814",
-    "timestamp": "Nov 4, 2016 11:56:01 PM",
-    "topic": "Thoughts on the Pro Debacle",
-    "url": "http://taoofmac.com/space/blog/2016/11/04/2230",
-    "votes": 2,
-    "posted": "Nov 4, 2016 11:42:20 PM"
-  },
-  {
-    "id": "12876729",
-    "timestamp": "Nov 5, 2016 4:46:26 AM",
-    "topic": "The State of Machine Intelligence, 2016 [pdf]",
-    "url": "https://hbr.org/resources/pdfs/hbr-articles/2016/11/the_state_of_machine_intelligence.pdf",
-    "votes": 6,
-    "posted": "Nov 4, 2016 11:31:10 PM"
-  },
-  {
-    "id": "12876646",
-    "timestamp": "Nov 5, 2016 3:46:20 AM",
-    "topic": "Primitive Technology – Shrimp Trap",
-    "url": "https://primitivetechnology.wordpress.com/2016/11/04/shrimp-trap/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 11:20:02 PM"
-  },
-  {
-    "id": "12876602",
-    "timestamp": "Nov 4, 2016 11:56:01 PM",
-    "topic": "ZCash not anonymous due to a bug",
-    "url": "https://www.cryptocoinsnews.com/zcash-bug-prevents-private-transactions-soon-after-launch/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 11:13:42 PM"
-  },
-  {
-    "id": "12876537",
-    "timestamp": "Nov 4, 2016 11:15:57 PM",
-    "topic": "Y Combinator\u0027s Hardware Guy Leaves After 14 Months",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-04/y-combinator-s-hardware-guy-leaves-after-14-months",
-    "votes": 17,
-    "posted": "Nov 4, 2016 11:02:29 PM"
-  },
-  {
-    "id": "12876536",
-    "timestamp": "Nov 5, 2016 4:46:25 AM",
-    "topic": "An Introduction to Deep Learning",
-    "url": "http://blog.algorithmia.com/introduction-to-deep-learning-2016/",
-    "votes": 5,
-    "posted": "Nov 4, 2016 11:02:24 PM"
-  },
-  {
-    "id": "12876533",
-    "timestamp": "Nov 4, 2016 11:45:59 PM",
-    "topic": "Simultaneous “nirvana” JavaScript Debugging for Chrome and Node.js in VS Code",
-    "url": "https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.6mb86aaj3",
-    "votes": 3,
-    "posted": "Nov 4, 2016 11:02:19 PM"
-  },
-  {
-    "id": "12876491",
-    "timestamp": "Nov 5, 2016 4:26:23 AM",
-    "topic": "Pure Ancient Greek lesson",
-    "url": "https://www.youtube.com/watch?v\u003djlyWn_U1xHs",
-    "votes": 3,
-    "posted": "Nov 4, 2016 10:56:23 PM"
   }
 ];
