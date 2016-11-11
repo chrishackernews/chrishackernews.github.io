@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12929892",
+    "timestamp": "Nov 11, 2016 1:11:03 PM",
+    "topic": "Drchrono (YC W11) Looking for Python/Django Engineers",
+    "url": "https://www.hackerrank.com/tests/527036edb11ff/0ca5532381fbebad9fffaa28dc90475f",
+    "votes": 1,
+    "posted": "Nov 11, 2016 1:05:39 PM"
+  },
+  {
+    "id": "12929741",
+    "timestamp": "Nov 11, 2016 1:01:03 PM",
+    "topic": "Embed, encode, attend, predict: the new deep learning formula for NLP models",
+    "url": "https://explosion.ai/blog/deep-learning-formula-nlp",
+    "votes": 3,
+    "posted": "Nov 11, 2016 12:34:27 PM"
+  },
+  {
+    "id": "12929725",
+    "timestamp": "Nov 11, 2016 1:11:04 PM",
+    "topic": "How Nintendo create or renew its games",
+    "url": "https://www.youtube.com/watch?v\u003d2u6HTG8LuXQ",
+    "votes": 4,
+    "posted": "Nov 11, 2016 12:28:16 PM"
+  },
+  {
     "id": "12929690",
     "timestamp": "Nov 11, 2016 12:51:02 PM",
     "topic": "The unbearable smugness of the press",
@@ -7224,45 +7248,5 @@ var newsArray = [
     "url": "https://formpost.co/",
     "votes": 14,
     "posted": "Nov 4, 2016 1:57:17 PM"
-  },
-  {
-    "id": "12872074",
-    "timestamp": "Nov 4, 2016 7:05:31 PM",
-    "topic": "Apple Takes 104% of All Smartphone Profits Following Galaxy Note 7 Recall",
-    "url": "http://www.macrumors.com/2016/11/04/apple-smartphone-profit-q3-samsung-recall/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 1:42:05 PM"
-  },
-  {
-    "id": "12871969",
-    "timestamp": "Nov 4, 2016 1:24:59 PM",
-    "topic": "The NYT Released an Oregon Trail Style Game about Voter Suppression",
-    "url": "http://www.nytimes.com/interactive/2016/11/01/opinion/voting-suppression-videogame.html?ref\u003dopinion",
-    "votes": 4,
-    "posted": "Nov 4, 2016 1:17:15 PM"
-  },
-  {
-    "id": "12871966",
-    "timestamp": "Nov 4, 2016 4:35:16 PM",
-    "topic": "Getting Started with Webpack 2",
-    "url": "https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.fjs4xiv4v",
-    "votes": 6,
-    "posted": "Nov 4, 2016 1:16:40 PM"
-  },
-  {
-    "id": "12871934",
-    "timestamp": "Nov 4, 2016 1:45:01 PM",
-    "topic": "Introduction to Cryptography – Christof Paar",
-    "url": "https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos",
-    "votes": 4,
-    "posted": "Nov 4, 2016 1:09:24 PM"
-  },
-  {
-    "id": "12871893",
-    "timestamp": "Nov 4, 2016 1:24:59 PM",
-    "topic": "Ghost soldiers: the Russians secretly dying for the Kremlin in Syria",
-    "url": "http://www.reuters.com/article/us-mideast-crisis-syria-russia-insight-idUSKBN12Y0M6",
-    "votes": 3,
-    "posted": "Nov 4, 2016 1:01:39 PM"
   }
 ];
