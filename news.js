@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12931620",
+    "timestamp": "Nov 11, 2016 5:11:28 PM",
+    "topic": "Building a Cross Platform 360-degree Video Experience at The New York Times",
+    "url": "http://open.blogs.nytimes.com/2016/11/11/building-a-cross-platform-360-degree-video-experience-at-the-new-york-times/",
+    "votes": 20,
+    "posted": "Nov 11, 2016 4:45:27 PM"
+  },
+  {
+    "id": "12931447",
+    "timestamp": "Nov 11, 2016 5:01:27 PM",
+    "topic": "Some advanced bash scripting",
+    "url": "https://medium.com/@starkcoffee/some-advanced-bash-scripting-a00524e29f8#.jyioghsku",
+    "votes": 6,
+    "posted": "Nov 11, 2016 4:30:30 PM"
+  },
+  {
+    "id": "12931443",
+    "timestamp": "Nov 11, 2016 5:31:31 PM",
+    "topic": "Highway to Hitler [pdf]",
+    "url": "http://www.anderson.ucla.edu/faculty/nico.v/Research/Highway_to_Hitler.pdf",
+    "votes": 6,
+    "posted": "Nov 11, 2016 4:29:49 PM"
+  },
+  {
     "id": "12931352",
     "timestamp": "Nov 11, 2016 4:51:26 PM",
     "topic": "Ask HN: Please add a warrant canary to the footer",
@@ -37,6 +61,22 @@ var newsArray = [
     "url": "https://gist.github.com/blainerothrock/efda6e12fe10792c99c990f8ff3daeba",
     "votes": 5,
     "posted": "Nov 11, 2016 3:44:47 PM"
+  },
+  {
+    "id": "12930990",
+    "timestamp": "Nov 11, 2016 5:31:31 PM",
+    "topic": "Breakthrough in the quantum transfer of information between matter and light",
+    "url": "http://sciencebulletin.org/archives/7696.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 3:43:00 PM"
+  },
+  {
+    "id": "12930928",
+    "timestamp": "Nov 11, 2016 5:41:32 PM",
+    "topic": "Implementation of Parallel Network File System (pNFS)",
+    "url": "http://calsoftinc.com/resources/whitepapers/implicit-replication-network-file-server/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 3:35:51 PM"
   },
   {
     "id": "12930811",
@@ -7143,21 +7183,5 @@ var newsArray = [
     "url": "https://raed.it/blog/batman-aint-got-shit-on-me/",
     "votes": 4,
     "posted": "Nov 4, 2016 5:53:33 PM"
-  },
-  {
-    "id": "12873879",
-    "timestamp": "Nov 4, 2016 5:45:22 PM",
-    "topic": "The secret world of microwave networks",
-    "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 5:40:32 PM"
-  },
-  {
-    "id": "12873679",
-    "timestamp": "Nov 4, 2016 5:35:21 PM",
-    "topic": "LLVM moves to GitHub",
-    "url": "https://twitter.com/chandlerc1024/status/794318137445359616?ref_src\u003dtwsrc%5Etfw",
-    "votes": 4,
-    "posted": "Nov 4, 2016 5:15:41 PM"
   }
 ];
