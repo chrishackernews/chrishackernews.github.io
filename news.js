@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12929382",
+    "timestamp": "Nov 11, 2016 11:30:54 AM",
+    "topic": "Why I\u0027m Leaving the Thiel Fellowship",
+    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.q0ba3hxfp",
+    "votes": 5,
+    "posted": "Nov 11, 2016 11:14:29 AM"
+  },
+  {
+    "id": "12929230",
+    "timestamp": "Nov 11, 2016 11:00:51 AM",
+    "topic": "That’s It. I’ve Had Enough",
+    "url": "https://eugene.kaspersky.com/2016/11/10/thats-it-ive-had-enough/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:40:49 AM"
+  },
+  {
     "id": "12928694",
     "timestamp": "Nov 11, 2016 8:50:39 AM",
     "topic": "Cohen v. Trump",
@@ -22,6 +38,14 @@ var newsArray = [
     "url": "https://medium.com/@michaelmeier_90534/tesla-model-s-is-great-except-1638f3f4d96f#.cjg00xmfp",
     "votes": 4,
     "posted": "Nov 11, 2016 8:22:29 AM"
+  },
+  {
+    "id": "12928682",
+    "timestamp": "Nov 11, 2016 11:10:52 AM",
+    "topic": "Supermoon science: November 2016 moon biggest and brightest in 60 years",
+    "url": "https://www.theguardian.com/science/2016/nov/10/the-science-of-supermoons-the-lunar-lowdown-on-the-biggest-and-brightest-in-60-years",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:22:00 AM"
   },
   {
     "id": "12928666",
@@ -7255,13 +7279,5 @@ var newsArray = [
     "url": "http://us5.campaign-archive2.com/?u\u003dd30ac55f6b407ddc73ee53a5d\u0026id\u003da0d924b617\u0026e\u003dc1b837957f",
     "votes": 3,
     "posted": "Nov 4, 2016 11:54:16 AM"
-  },
-  {
-    "id": "12871403",
-    "timestamp": "Nov 4, 2016 12:14:54 PM",
-    "topic": "H.264 is Magic: A technical walkthrough of how video compression works",
-    "url": "https://sidbala.com/h-264-is-magic/",
-    "votes": 7,
-    "posted": "Nov 4, 2016 11:00:57 AM"
   }
 ];
