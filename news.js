@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12927861",
+    "timestamp": "Nov 11, 2016 6:50:29 AM",
+    "topic": "Let\u0027s Encrypt Team – Reddit AMA",
+    "url": "https://np.reddit.com/r/IAmA/comments/5c9ku9/lets_encrypt_team_a_nonprofit_working_to_secure/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 5:33:16 AM"
+  },
+  {
+    "id": "12927850",
+    "timestamp": "Nov 11, 2016 6:20:24 AM",
+    "topic": "I’m a Coastal Elite from the Midwest: The Real Bubble Is Rural America",
+    "url": "http://www.rollcall.com/im-a-coastal-elite-from-the-midwest-the-real-bubble-is-rural-america",
+    "votes": 6,
+    "posted": "Nov 11, 2016 5:31:40 AM"
+  },
+  {
     "id": "12927723",
     "timestamp": "Nov 11, 2016 5:50:22 AM",
     "topic": "IBM and the Holocaust",
@@ -7208,21 +7224,5 @@ var newsArray = [
     "url": "http://jalopnik.com/tesla-model-s-batteries-violently-explode-in-fatal-cras-1788561054",
     "votes": 5,
     "posted": "Nov 4, 2016 6:54:42 AM"
-  },
-  {
-    "id": "12870628",
-    "timestamp": "Nov 4, 2016 6:54:27 AM",
-    "topic": "Smarking (YC W15) Is Hiring Sr. Software Engineers and Many More in SF",
-    "url": "http://www.smarking.org/",
-    "votes": 1,
-    "posted": "Nov 4, 2016 6:47:01 AM"
-  },
-  {
-    "id": "12870575",
-    "timestamp": "Nov 4, 2016 7:34:30 AM",
-    "topic": "Show HN: JinjaSQL",
-    "url": "https://github.com/hashedin/jinjasql",
-    "votes": 4,
-    "posted": "Nov 4, 2016 6:26:13 AM"
   }
 ];
