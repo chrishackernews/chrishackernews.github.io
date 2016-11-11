@@ -1,11 +1,66 @@
 var newsArray = [
   {
+    "id": "12931352",
+    "timestamp": "Nov 11, 2016 4:51:26 PM",
+    "topic": "Ask HN: Please add a warrant canary to the footer",
+    "votes": 16,
+    "posted": "Nov 11, 2016 4:19:35 PM"
+  },
+  {
+    "id": "12931162",
+    "timestamp": "Nov 11, 2016 4:41:25 PM",
+    "topic": "Spotify is writing massive amounts of junk data to storage drives",
+    "url": "http://arstechnica.co.uk/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/",
+    "votes": 6,
+    "posted": "Nov 11, 2016 4:00:15 PM"
+  },
+  {
+    "id": "12931113",
+    "timestamp": "Nov 11, 2016 4:21:21 PM",
+    "topic": "The macabre fate of ‘beating heart corpses’",
+    "url": "http://www.bbc.com/future/story/20161103-the-macabre-fate-of-beating-heart-corpses",
+    "votes": 4,
+    "posted": "Nov 11, 2016 3:54:43 PM"
+  },
+  {
+    "id": "12931053",
+    "timestamp": "Nov 11, 2016 4:41:25 PM",
+    "topic": "Grubhub app faces hate reviews in reaction to his email",
+    "url": "https://itunes.apple.com/us/app/grubhub-food-delivery-takeout/id302920553?mt\u003d8",
+    "votes": 4,
+    "posted": "Nov 11, 2016 3:48:23 PM"
+  },
+  {
+    "id": "12931009",
+    "timestamp": "Nov 11, 2016 4:31:24 PM",
+    "topic": "A Very Simple Genetic Algorithm Written in Swift 3",
+    "url": "https://gist.github.com/blainerothrock/efda6e12fe10792c99c990f8ff3daeba",
+    "votes": 5,
+    "posted": "Nov 11, 2016 3:44:47 PM"
+  },
+  {
     "id": "12930811",
     "timestamp": "Nov 11, 2016 3:41:16 PM",
     "topic": "Brain implants allow paralysed monkeys to walk",
     "url": "http://www.nature.com/news/brain-implants-allow-paralysed-monkeys-to-walk-1.20967",
     "votes": 5,
     "posted": "Nov 11, 2016 3:21:40 PM"
+  },
+  {
+    "id": "12930748",
+    "timestamp": "Nov 11, 2016 4:51:26 PM",
+    "topic": "Fooling Facial Recognition Systems",
+    "url": "https://www.schneier.com/blog/archives/2016/11/fooling_facial_.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 3:13:56 PM"
+  },
+  {
+    "id": "12930735",
+    "timestamp": "Nov 11, 2016 4:01:17 PM",
+    "topic": "FBI operated 23 Tor-hidden child porn sites, deployed malware from them",
+    "url": "http://arstechnica.com/tech-policy/2016/11/fbi-operated-23-tor-hidden-child-porn-sites-deployed-malware-from-them/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 3:12:05 PM"
   },
   {
     "id": "12930082",
@@ -62,6 +117,13 @@ var newsArray = [
     "url": "http://racknole.com/blog/running-docker-in-production-for-6-months/",
     "votes": 3,
     "posted": "Nov 11, 2016 12:02:29 PM"
+  },
+  {
+    "id": "12929514",
+    "timestamp": "Nov 11, 2016 4:51:26 PM",
+    "topic": "Ask HN: Can new graduates get (good) remote work?",
+    "votes": 4,
+    "posted": "Nov 11, 2016 11:41:26 AM"
   },
   {
     "id": "12929382",
@@ -7097,53 +7159,5 @@ var newsArray = [
     "url": "https://twitter.com/chandlerc1024/status/794318137445359616?ref_src\u003dtwsrc%5Etfw",
     "votes": 4,
     "posted": "Nov 4, 2016 5:15:41 PM"
-  },
-  {
-    "id": "12873443",
-    "timestamp": "Nov 4, 2016 5:25:20 PM",
-    "topic": "ArangoDB 3.1 – A Solid Ground to Scale Part II",
-    "url": "https://www.arangodb.com/2016/11/arangodb-3-1-solid-ground-scale-part-ii/",
-    "votes": 26,
-    "posted": "Nov 4, 2016 4:43:05 PM"
-  },
-  {
-    "id": "12873337",
-    "timestamp": "Nov 5, 2016 12:16:03 AM",
-    "topic": "Sprint now supports RCS with default Messenger app",
-    "url": "https://blog.google/products/android/partnering-global-carriers-upgrade-sms/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:29:41 PM"
-  },
-  {
-    "id": "12873214",
-    "timestamp": "Nov 4, 2016 4:55:17 PM",
-    "topic": "Code.Gov – Share and reuse open source code from the Federal Government",
-    "url": "https://code.gov",
-    "votes": 4,
-    "posted": "Nov 4, 2016 4:17:24 PM"
-  },
-  {
-    "id": "12873187",
-    "timestamp": "Nov 4, 2016 5:05:18 PM",
-    "topic": "Samsung just recalled 3M washing machines because they might explode",
-    "url": "http://www.businessinsider.com/r-samsung-to-recall-28-mln-washing-machines-in-the-united-states-2016-11",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:13:34 PM"
-  },
-  {
-    "id": "12873156",
-    "timestamp": "Nov 4, 2016 5:15:19 PM",
-    "topic": "The Mega Rich Have Found an Unlikely New Refuge – New Zealand",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-02/the-rich-have-found-a-place-to-escape-the-horrors-of-the-world",
-    "votes": 12,
-    "posted": "Nov 4, 2016 4:09:33 PM"
-  },
-  {
-    "id": "12873089",
-    "timestamp": "Nov 4, 2016 4:15:14 PM",
-    "topic": "Hyper Is Docker Done the Right Way",
-    "url": "http://thenewstack.io/hyper-docker-done-right-way/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 4:00:13 PM"
   }
 ];
