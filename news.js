@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12932518",
+    "timestamp": "Nov 11, 2016 6:51:39 PM",
+    "topic": "Font Awesome 5 has raised $620 000 in 15 days",
+    "url": "https://www.kickstarter.com/projects/232193852/font-awesome-5",
+    "votes": 4,
+    "posted": "Nov 11, 2016 6:22:36 PM"
+  },
+  {
+    "id": "12932317",
+    "timestamp": "Nov 11, 2016 6:51:38 PM",
+    "topic": "Go, Swift, Rust, Java, C++ – Active GitHub repositories, per month since 2014",
+    "url": "https://github.com/emmanuel-keller/github-language-statistics#number-of-active-repositories-in-github",
+    "votes": 9,
+    "posted": "Nov 11, 2016 5:55:24 PM"
+  },
+  {
+    "id": "12932175",
+    "timestamp": "Nov 11, 2016 6:01:33 PM",
+    "topic": "Donald Trump may end net neutrality and bring a rise in zero-rating",
+    "url": "http://www.businessinsider.com/donald-trump-fcc-net-neutrality-zero-rating-policy-future-2016-11",
+    "votes": 3,
+    "posted": "Nov 11, 2016 5:39:01 PM"
+  },
+  {
+    "id": "12932011",
+    "timestamp": "Nov 11, 2016 6:01:34 PM",
+    "topic": "Millions of ordinary Americans support Donald Trump. Here\u0027s why",
+    "url": "https://www.theguardian.com/commentisfree/2016/mar/07/donald-trump-why-americans-support",
+    "votes": 3,
+    "posted": "Nov 11, 2016 5:20:34 PM"
+  },
+  {
     "id": "12931620",
     "timestamp": "Nov 11, 2016 5:11:28 PM",
     "topic": "Building a Cross Platform 360-degree Video Experience at The New York Times",
@@ -7135,53 +7167,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/local/education/jury-finds-reporter-rolling-stone-responsible-for-defaming-u-va-dean-with-gang-rape-story/2016/11/04/aaf407fa-a1e8-11e6-a44d-cc2898cfab06_story.html",
     "votes": 7,
     "posted": "Nov 4, 2016 6:58:57 PM"
-  },
-  {
-    "id": "12874403",
-    "timestamp": "Nov 4, 2016 7:05:30 PM",
-    "topic": "Turkey blocks social media again to stall protests – here’s how to access them",
-    "url": "https://techcrunch.com/2016/11/04/turkey-blocks-social-media-again-to-stall-protests-heres-how-to-access-them/",
-    "votes": 5,
-    "posted": "Nov 4, 2016 6:43:42 PM"
-  },
-  {
-    "id": "12874280",
-    "timestamp": "Nov 4, 2016 6:35:27 PM",
-    "topic": "Dalai Lama: Behind Our Anxiety, the Fear of Being Unneeded",
-    "url": "http://www.nytimes.com/2016/11/04/opinion/dalai-lama-behind-our-anxiety-the-fear-of-being-unneeded.html",
-    "votes": 5,
-    "posted": "Nov 4, 2016 6:25:29 PM"
-  },
-  {
-    "id": "12874158",
-    "timestamp": "Nov 4, 2016 6:35:27 PM",
-    "topic": "Voting Paradoxes [video]",
-    "url": "https://www.exploratorium.edu/blogs/tangents/voting-paradoxes",
-    "votes": 4,
-    "posted": "Nov 4, 2016 6:11:56 PM"
-  },
-  {
-    "id": "12874064",
-    "timestamp": "Nov 4, 2016 6:05:24 PM",
-    "topic": "Serverless Map/Reduce",
-    "url": "http://tothestars.io/blog/2016/11/2/serverless-mapreduce",
-    "votes": 3,
-    "posted": "Nov 4, 2016 6:01:20 PM"
-  },
-  {
-    "id": "12874034",
-    "timestamp": "Nov 4, 2016 7:45:34 PM",
-    "topic": "Introducing Google Home",
-    "url": "https://madeby.google.com/home/",
-    "votes": 6,
-    "posted": "Nov 4, 2016 5:57:37 PM"
-  },
-  {
-    "id": "12874001",
-    "timestamp": "Nov 4, 2016 6:15:25 PM",
-    "topic": "The Batman job offer",
-    "url": "https://raed.it/blog/batman-aint-got-shit-on-me/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 5:53:33 PM"
   }
 ];
