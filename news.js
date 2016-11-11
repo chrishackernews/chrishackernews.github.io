@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12929690",
+    "timestamp": "Nov 11, 2016 12:51:02 PM",
+    "topic": "The unbearable smugness of the press",
+    "url": "http://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 12:17:53 PM"
+  },
+  {
+    "id": "12929621",
+    "timestamp": "Nov 11, 2016 12:10:57 PM",
+    "topic": "Running Docker in production for 6 months",
+    "url": "http://racknole.com/blog/running-docker-in-production-for-6-months/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 12:02:29 PM"
+  },
+  {
     "id": "12929382",
     "timestamp": "Nov 11, 2016 11:30:54 AM",
     "topic": "Why I\u0027m Leaving the Thiel Fellowship",
@@ -172,6 +188,14 @@ var newsArray = [
     "url": "http://uploadvr.com/htc-vive-wireless-kit/",
     "votes": 3,
     "posted": "Nov 11, 2016 4:33:49 AM"
+  },
+  {
+    "id": "12927317",
+    "timestamp": "Nov 11, 2016 12:00:56 PM",
+    "topic": "Track Donald J Trump\u0027s Electoral Promises with Trump Tracker",
+    "url": "https://trumptracker.github.io/",
+    "votes": 8,
+    "posted": "Nov 11, 2016 4:18:38 AM"
   },
   {
     "id": "12927173",
@@ -7240,44 +7264,5 @@ var newsArray = [
     "url": "http://www.reuters.com/article/us-mideast-crisis-syria-russia-insight-idUSKBN12Y0M6",
     "votes": 3,
     "posted": "Nov 4, 2016 1:01:39 PM"
-  },
-  {
-    "id": "12871809",
-    "timestamp": "Nov 4, 2016 1:04:58 PM",
-    "topic": "Here’s to more HTTPS on the web",
-    "url": "https://developers.googleblog.com/2016/11/heres-to-more-https-on-the-web.html",
-    "votes": 3,
-    "posted": "Nov 4, 2016 12:43:23 PM"
-  },
-  {
-    "id": "12871794",
-    "timestamp": "Nov 4, 2016 1:24:59 PM",
-    "topic": "ZeroMQ 4.2.0",
-    "url": "https://github.com/zeromq/libzmq/releases/tag/v4.2.0",
-    "votes": 7,
-    "posted": "Nov 4, 2016 12:41:22 PM"
-  },
-  {
-    "id": "12871783",
-    "timestamp": "Nov 4, 2016 7:45:34 PM",
-    "topic": "Ask HN: I know a few high-level languages. Is it still worth learning C++?",
-    "votes": 4,
-    "posted": "Nov 4, 2016 12:38:59 PM"
-  },
-  {
-    "id": "12871752",
-    "timestamp": "Nov 4, 2016 3:55:12 PM",
-    "topic": "Quantum Honeybees (1997)",
-    "url": "http://discovermagazine.com/1997/nov/quantumhoneybees1263",
-    "votes": 3,
-    "posted": "Nov 4, 2016 12:32:18 PM"
-  },
-  {
-    "id": "12871615",
-    "timestamp": "Nov 4, 2016 12:24:55 PM",
-    "topic": "MongoHQ/Compose: Sandbox Retirement",
-    "url": "http://us5.campaign-archive2.com/?u\u003dd30ac55f6b407ddc73ee53a5d\u0026id\u003da0d924b617\u0026e\u003dc1b837957f",
-    "votes": 3,
-    "posted": "Nov 4, 2016 11:54:16 AM"
   }
 ];
