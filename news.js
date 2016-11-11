@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12925665",
+    "timestamp": "Nov 11, 2016 12:39:56 AM",
+    "topic": "Grubhub CEO tells pro-Trump employees to resign",
+    "url": "https://i.sli.mg/vB95ZB.jpg",
+    "votes": 8,
+    "posted": "Nov 11, 2016 12:28:08 AM"
+  },
+  {
+    "id": "12925621",
+    "timestamp": "Nov 11, 2016 12:49:57 AM",
+    "topic": "Dilbert Creator Scott Adams on Predicting Trump Winning in a Landslide",
+    "url": "https://www.youtube.com/watch?v\u003dc-sBO6OppAc",
+    "votes": 4,
+    "posted": "Nov 11, 2016 12:23:27 AM"
+  },
+  {
+    "id": "12925507",
+    "timestamp": "Nov 11, 2016 12:19:54 AM",
+    "topic": "Deck.gl: Large-Scale WebGL-Powered Data Visualization by Uber",
+    "url": "https://uber.github.io/deck.gl/#/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 12:12:12 AM"
+  },
+  {
+    "id": "12925467",
+    "timestamp": "Nov 11, 2016 12:29:55 AM",
+    "topic": "Lessons learnt from monetising my Chrome Extension",
+    "url": "https://mikerogers.io/2016/10/29/lessons-learnt-from-monetising-my-chrome-extension.html",
+    "votes": 9,
+    "posted": "Nov 11, 2016 12:08:28 AM"
+  },
+  {
+    "id": "12925449",
+    "timestamp": "Nov 11, 2016 12:29:55 AM",
+    "topic": "How Sidekiq makes $80,000 a month",
+    "url": "https://www.indiehackers.com/businesses/sidekiq?utm_source\u003dnewsletter\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003demail\u0026utm_source\u003dIndie+Hackers+Newsletter\u0026utm_campaign\u003dec2594295f-EMAIL_CAMPAIGN_2016_11_10\u0026utm_medium\u003demail\u0026utm_term\u003d0_43062afaa5-ec2594295f-118903173",
+    "votes": 3,
+    "posted": "Nov 11, 2016 12:06:41 AM"
+  },
+  {
     "id": "12925177",
     "timestamp": "Nov 10, 2016 11:49:51 PM",
     "topic": "Vancouver Enforces C$10,000 Annual Fine on Empty Homes",
@@ -7144,84 +7184,5 @@ var newsArray = [
     "url": "https://theoreticalecology.wordpress.com/2010/09/17/metropolis-hastings-mcmc-in-r/",
     "votes": 3,
     "posted": "Nov 4, 2016 1:18:16 AM"
-  },
-  {
-    "id": "12869209",
-    "timestamp": "Nov 4, 2016 1:44:02 AM",
-    "topic": "\u0027The FBI is Trumpland\u0027: anti-Clinton atmosphere spurred leaks, sources say",
-    "url": "https://www.theguardian.com/us-news/2016/nov/03/fbi-leaks-hillary-clinton-james-comey-donald-trump",
-    "votes": 3,
-    "posted": "Nov 4, 2016 12:51:12 AM"
-  },
-  {
-    "id": "12869142",
-    "timestamp": "Nov 4, 2016 1:13:59 AM",
-    "topic": "Social media shutdown in Turkey",
-    "url": "https://turkeyblocks.org/2016/11/04/social-media-shutdown-turkey/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 12:42:36 AM"
-  },
-  {
-    "id": "12869127",
-    "timestamp": "Nov 4, 2016 12:43:56 AM",
-    "topic": "Replace macOS with KDE on a rock-solid base",
-    "url": "https://neon.kde.org",
-    "votes": 3,
-    "posted": "Nov 4, 2016 12:40:04 AM"
-  },
-  {
-    "id": "12869093",
-    "timestamp": "Nov 4, 2016 12:53:57 AM",
-    "topic": "Go to All the Meetups, they said…",
-    "url": "https://medium.com/code-like-a-girl/go-to-all-the-meetups-they-said-f4c52d41dc30#.6nr1x3wue",
-    "votes": 3,
-    "posted": "Nov 4, 2016 12:34:24 AM"
-  },
-  {
-    "id": "12869082",
-    "timestamp": "Nov 4, 2016 5:44:21 AM",
-    "topic": "Go Package Management Survey Results",
-    "url": "https://engineeredweb.com/blog/2016/go-pkg-mgmt-survey-results/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 12:33:31 AM"
-  },
-  {
-    "id": "12868946",
-    "timestamp": "Nov 4, 2016 12:33:55 AM",
-    "topic": "From stackoverflow import quick_sort",
-    "url": "https://github.com/drathier/stack-overflow-import",
-    "votes": 11,
-    "posted": "Nov 4, 2016 12:13:38 AM"
-  },
-  {
-    "id": "12868920",
-    "timestamp": "Nov 4, 2016 12:23:54 AM",
-    "topic": "3D Acceleration on PocketC.H.I.P. Alpha",
-    "url": "https://bbs.nextthing.co/t/c-h-i-p-pocketc-h-i-p-in-stock-for-the-holidays-3d-acceleration-alpha/11108/1",
-    "votes": 5,
-    "posted": "Nov 4, 2016 12:09:49 AM"
-  },
-  {
-    "id": "12868857",
-    "timestamp": "Nov 4, 2016 12:33:55 AM",
-    "topic": "John McAfee: The FBI Is Either Incompetent or Corrupt, Here\u0027s the Truth.",
-    "url": "https://medium.com/@robloggia/john-mcafee-the-fbi-is-either-incompetent-or-corrupt-in-dealing-with-hillarys-emails-76cbd00fd676#.55ktm1pb1",
-    "votes": 5,
-    "posted": "Nov 4, 2016 12:01:55 AM"
-  },
-  {
-    "id": "12868851",
-    "timestamp": "Nov 4, 2016 12:13:53 AM",
-    "topic": "Zapier is hiring a platform and partnerships engineer – remote welcome",
-    "url": "https://zapier.com/jobs/partnership-platform-engineer-fall-2016/",
-    "votes": 1,
-    "posted": "Nov 4, 2016 12:00:40 AM"
-  },
-  {
-    "id": "12868849",
-    "timestamp": "Nov 4, 2016 12:23:54 AM",
-    "topic": "Ask HN: Will you really move away from Apple hardware?",
-    "votes": 4,
-    "posted": "Nov 4, 2016 12:00:28 AM"
   }
 ];
