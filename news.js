@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12930811",
+    "timestamp": "Nov 11, 2016 3:41:16 PM",
+    "topic": "Brain implants allow paralysed monkeys to walk",
+    "url": "http://www.nature.com/news/brain-implants-allow-paralysed-monkeys-to-walk-1.20967",
+    "votes": 5,
+    "posted": "Nov 11, 2016 3:21:40 PM"
+  },
+  {
     "id": "12930082",
     "timestamp": "Nov 11, 2016 2:21:10 PM",
     "topic": "Python 3 is largely ignored",
@@ -70,6 +78,30 @@ var newsArray = [
     "url": "https://eugene.kaspersky.com/2016/11/10/thats-it-ive-had-enough/",
     "votes": 4,
     "posted": "Nov 11, 2016 10:40:49 AM"
+  },
+  {
+    "id": "12929106",
+    "timestamp": "Nov 11, 2016 3:01:12 PM",
+    "topic": "Nonlinear climate sensitivity and its implications for future greenhouse warming",
+    "url": "http://advances.sciencemag.org/content/2/11/e1501923",
+    "votes": 3,
+    "posted": "Nov 11, 2016 10:09:40 AM"
+  },
+  {
+    "id": "12928758",
+    "timestamp": "Nov 11, 2016 3:21:14 PM",
+    "topic": "Finland to Become the First Country in World to Get Rid of All School Subjects",
+    "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 8:42:16 AM"
+  },
+  {
+    "id": "12928733",
+    "timestamp": "Nov 11, 2016 3:11:13 PM",
+    "topic": "Why robots, not trade, are behind so many factory job losses",
+    "url": "http://www.chicagotribune.com/bluesky/technology/ct-robots-trade-factory-job-losses-ap-bsi-20161103-story.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 8:35:46 AM"
   },
   {
     "id": "12928694",
@@ -7113,117 +7145,5 @@ var newsArray = [
     "url": "http://thenewstack.io/hyper-docker-done-right-way/",
     "votes": 4,
     "posted": "Nov 4, 2016 4:00:13 PM"
-  },
-  {
-    "id": "12872970",
-    "timestamp": "Nov 4, 2016 3:55:12 PM",
-    "topic": "@supports will change your life",
-    "url": "http://www.lottejackson.com/learning/supports-will-change-your-life",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:49:02 PM"
-  },
-  {
-    "id": "12872961",
-    "timestamp": "Nov 4, 2016 3:55:12 PM",
-    "topic": "Israel’s Zirra Raises $1.6M to ‘Analyze’ Other Startups",
-    "url": "http://jewishbusinessnews.com/2016/11/01/israels-zirra-raises-1-6-million-to-analyze-other-startups/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:47:36 PM"
-  },
-  {
-    "id": "12872912",
-    "timestamp": "Nov 4, 2016 5:55:23 PM",
-    "topic": "Microsoft was working on its own MacBook Touch Bar – The Verge",
-    "url": "http://www.theverge.com/2016/11/4/13518278/microsoft-adaptive-keyboard-concept-macbook-pro-touch-bar",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:42:19 PM"
-  },
-  {
-    "id": "12872868",
-    "timestamp": "Nov 4, 2016 3:45:11 PM",
-    "topic": "Dyson has launched a free engineering uni in Britain where you get paid to study",
-    "url": "http://www.thememo.com/2016/11/04/forget-fees-dyson-opens-britains-first-degree-where-students-get-paid/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 3:38:18 PM"
-  },
-  {
-    "id": "12872826",
-    "timestamp": "Nov 4, 2016 11:05:55 PM",
-    "topic": "Why UK Brexit Talk Baffles Germany",
-    "url": "http://www.bbc.com/news/uk-politics-37799805",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:33:21 PM"
-  },
-  {
-    "id": "12872780",
-    "timestamp": "Nov 4, 2016 3:35:10 PM",
-    "topic": "Le Tote (YC S13) Is Hiring Full Stack Engineers Disrupt Fashion with Us",
-    "url": "http://grnh.se/5ybu4t1",
-    "votes": 1,
-    "posted": "Nov 4, 2016 3:28:45 PM"
-  },
-  {
-    "id": "12872752",
-    "timestamp": "Nov 4, 2016 3:45:11 PM",
-    "topic": "Samsung acquires Joyent",
-    "url": "https://www.joyent.com/blog/samsung-acquires-joyent",
-    "votes": 4,
-    "posted": "Nov 4, 2016 3:24:16 PM"
-  },
-  {
-    "id": "12872729",
-    "timestamp": "Nov 4, 2016 3:35:09 PM",
-    "topic": "Steve Ballmer Says Smartphones Broke His Relationship with Bill Gates",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-04/steve-ballmer-says-smartphones-broke-his-relationship-with-bill-gates",
-    "votes": 12,
-    "posted": "Nov 4, 2016 3:21:32 PM"
-  },
-  {
-    "id": "12872715",
-    "timestamp": "Nov 4, 2016 3:45:11 PM",
-    "topic": "Trump Rolling to Learn about APIs",
-    "url": "https://medium.com/api-corner/trump-rolling-to-make-apis-great-again-a80678766564#.hkt4y9atu",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:19:22 PM"
-  },
-  {
-    "id": "12872705",
-    "timestamp": "Nov 4, 2016 3:35:09 PM",
-    "topic": "Data and Machine Learning to Get Out the Vote",
-    "url": "http://www.civicinnovation.com/",
-    "votes": 14,
-    "posted": "Nov 4, 2016 3:17:35 PM"
-  },
-  {
-    "id": "12872664",
-    "timestamp": "Nov 4, 2016 3:45:11 PM",
-    "topic": "Stop Measuring Everything",
-    "url": "https://savagethoughts.com/stop-measuring-everything-8adb1118e0e5#.j0b6kqsfq",
-    "votes": 4,
-    "posted": "Nov 4, 2016 3:11:45 PM"
-  },
-  {
-    "id": "12872632",
-    "timestamp": "Nov 4, 2016 3:25:09 PM",
-    "topic": "Fatal Tesla crash and battery pack issues for First Responders [video]",
-    "url": "https://www.youtube.com/watch?v\u003dUrT5MA_iTXs",
-    "votes": 7,
-    "posted": "Nov 4, 2016 3:07:19 PM"
-  },
-  {
-    "id": "12872595",
-    "timestamp": "Nov 4, 2016 7:45:34 PM",
-    "topic": "Sparsity",
-    "url": "http://kevinlawler.com/sparse",
-    "votes": 5,
-    "posted": "Nov 4, 2016 3:01:20 PM"
-  },
-  {
-    "id": "12872577",
-    "timestamp": "Nov 4, 2016 3:35:10 PM",
-    "topic": "Show HN: What happens if you disappear",
-    "url": "https://cronu.com",
-    "votes": 5,
-    "posted": "Nov 4, 2016 2:57:53 PM"
   }
 ];
