@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12928173",
+    "timestamp": "Nov 11, 2016 7:50:34 AM",
+    "topic": "Is Model-View-Controller dead on the front end?",
+    "url": "https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec?imm_mid\u003d0ea80e\u0026cmp\u003dem-web-na-na-newsltr_20161109",
+    "votes": 3,
+    "posted": "Nov 11, 2016 6:21:43 AM"
+  },
+  {
+    "id": "12928172",
+    "timestamp": "Nov 11, 2016 7:00:30 AM",
+    "topic": "6 Reasons for Trump\u0027s Rise That No One Talks About",
+    "url": "http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/?",
+    "votes": 3,
+    "posted": "Nov 11, 2016 6:21:11 AM"
+  },
+  {
+    "id": "12928001",
+    "timestamp": "Nov 11, 2016 7:20:32 AM",
+    "topic": "Is There Anything Good About Men?",
+    "url": "http://www.denisdutton.com/baumeister.htm",
+    "votes": 10,
+    "posted": "Nov 11, 2016 5:55:54 AM"
+  },
+  {
     "id": "12927861",
     "timestamp": "Nov 11, 2016 6:50:29 AM",
     "topic": "Let\u0027s Encrypt Team – Reddit AMA",
@@ -38,6 +62,14 @@ var newsArray = [
     "url": "https://jobs.lever.co/bodyport/994596b9-13c1-4f61-a89f-b4033e233232",
     "votes": 1,
     "posted": "Nov 11, 2016 4:51:37 AM"
+  },
+  {
+    "id": "12927451",
+    "timestamp": "Nov 11, 2016 7:30:33 AM",
+    "topic": "Pollsters who predicted Trump win benefit from industry\u0027s miss",
+    "url": "http://www.reuters.com/article/us-usa-election-polling-industry-idUSKBN136015",
+    "votes": 3,
+    "posted": "Nov 11, 2016 4:36:27 AM"
   },
   {
     "id": "12927432",
@@ -7153,76 +7185,5 @@ var newsArray = [
     "url": "http://arstechnica.com/security/2016/11/how-to-block-the-ultrasonic-signals-you-didnt-know-were-tracking-you/",
     "votes": 3,
     "posted": "Nov 4, 2016 7:56:08 AM"
-  },
-  {
-    "id": "12870790",
-    "timestamp": "Nov 4, 2016 6:25:26 PM",
-    "topic": "Ask HN: What important truth do very few (informed) people agree with you on?",
-    "votes": 8,
-    "posted": "Nov 4, 2016 7:46:09 AM"
-  },
-  {
-    "id": "12870756",
-    "timestamp": "Nov 4, 2016 7:54:32 AM",
-    "topic": "What pro computing could be",
-    "url": "https://al3x.net/2016/10/31/pro-computing.html",
-    "votes": 4,
-    "posted": "Nov 4, 2016 7:33:41 AM"
-  },
-  {
-    "id": "12870753",
-    "timestamp": "Nov 4, 2016 10:24:45 AM",
-    "topic": "Lynis – Security Auditing Tool for Linux, MacOS, and Unix-Based Systems",
-    "url": "https://github.com/CISOfy/lynis",
-    "votes": 5,
-    "posted": "Nov 4, 2016 7:32:52 AM"
-  },
-  {
-    "id": "12870712",
-    "timestamp": "Nov 4, 2016 7:44:31 AM",
-    "topic": "Smoking \u0027causes hundreds of DNA changes",
-    "url": "http://www.bbc.com/news/health-37849000",
-    "votes": 6,
-    "posted": "Nov 4, 2016 7:18:56 AM"
-  },
-  {
-    "id": "12870701",
-    "timestamp": "Nov 4, 2016 7:44:31 AM",
-    "topic": "Inside the Classroom Where San Quentin Inmates Learn to Code",
-    "url": "https://www.wired.com/2016/11/san-quentin-inmates-learn-to-code/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:15:30 AM"
-  },
-  {
-    "id": "12870699",
-    "timestamp": "Nov 4, 2016 9:34:40 AM",
-    "topic": "Somleng – An Open Source Twilio Clone",
-    "url": "https://medium.com/@dwilkie_34546/somleng-an-open-source-twilio-clone-a297062b340d#.w95usvrqb",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:14:33 AM"
-  },
-  {
-    "id": "12870684",
-    "timestamp": "Nov 4, 2016 8:54:37 AM",
-    "topic": "What happens when you run a rkt container?",
-    "url": "http://jvns.ca/blog/2016/11/03/what-happens-when-you-run-a-rkt-container/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 7:10:04 AM"
-  },
-  {
-    "id": "12870644",
-    "timestamp": "Nov 4, 2016 7:44:31 AM",
-    "topic": "Make Your Own Miniature Linux Laptop for Less Than $100",
-    "url": "http://lifehacker.com/make-your-own-miniature-linux-laptop-for-less-than-100-1788535462",
-    "votes": 4,
-    "posted": "Nov 4, 2016 6:54:49 AM"
-  },
-  {
-    "id": "12870643",
-    "timestamp": "Nov 4, 2016 10:24:45 AM",
-    "topic": "Tesla batteries violently explode in fatal crash",
-    "url": "http://jalopnik.com/tesla-model-s-batteries-violently-explode-in-fatal-cras-1788561054",
-    "votes": 5,
-    "posted": "Nov 4, 2016 6:54:42 AM"
   }
 ];
