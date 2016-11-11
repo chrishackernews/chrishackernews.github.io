@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12930082",
+    "timestamp": "Nov 11, 2016 2:21:10 PM",
+    "topic": "Python 3 is largely ignored",
+    "url": "https://semaphoreci.com/blog/2016/11/11/python-versions-used-in-commercial-projects-2016-edition.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 1:41:30 PM"
+  },
+  {
+    "id": "12930004",
+    "timestamp": "Nov 11, 2016 2:11:09 PM",
+    "topic": "Voters Backed Donald Trump Because He ‘Just Got It,’ Says Investor Peter Thiel",
+    "url": "http://www.wsj.com/articles/voters-backed-donald-trump-because-he-just-got-it-says-investor-peter-thiel-1478800508",
+    "votes": 12,
+    "posted": "Nov 11, 2016 1:28:34 PM"
+  },
+  {
     "id": "12929892",
     "timestamp": "Nov 11, 2016 1:11:03 PM",
     "topic": "Drchrono (YC W11) Looking for Python/Django Engineers",
@@ -7209,44 +7225,5 @@ var newsArray = [
     "url": "https://cronu.com",
     "votes": 5,
     "posted": "Nov 4, 2016 2:57:53 PM"
-  },
-  {
-    "id": "12872505",
-    "timestamp": "Nov 4, 2016 3:15:08 PM",
-    "topic": "The Competitive Landscape for Machine Intelligence",
-    "url": "https://hbr.org/2016/11/the-competitive-landscape-for-machine-intelligence",
-    "votes": 4,
-    "posted": "Nov 4, 2016 2:50:51 PM"
-  },
-  {
-    "id": "12872467",
-    "timestamp": "Nov 4, 2016 3:15:08 PM",
-    "topic": "India’s Telescope Detects Crack in the Earth’s Magnetic Shield",
-    "url": "http://www.natureworldnews.com/articles/31155/20161104/india-telescope-detects-crack-earth-magnetic-shield.htm",
-    "votes": 4,
-    "posted": "Nov 4, 2016 2:46:17 PM"
-  },
-  {
-    "id": "12872311",
-    "timestamp": "Nov 4, 2016 9:15:44 PM",
-    "topic": "Ask HN: Meditaion Resources",
-    "votes": 4,
-    "posted": "Nov 4, 2016 2:23:42 PM"
-  },
-  {
-    "id": "12872304",
-    "timestamp": "Nov 4, 2016 2:45:05 PM",
-    "topic": "Docker in Production: An History of Failure",
-    "url": "https://thehftguy.wordpress.com/2016/11/01/docker-in-production-an-history-of-failure/",
-    "votes": 5,
-    "posted": "Nov 4, 2016 2:23:07 PM"
-  },
-  {
-    "id": "12872170",
-    "timestamp": "Nov 5, 2016 3:57:19 PM",
-    "topic": "Show HN: Formpost.co – Send forms from your static site",
-    "url": "https://formpost.co/",
-    "votes": 14,
-    "posted": "Nov 4, 2016 1:57:17 PM"
   }
 ];
