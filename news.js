@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12926823",
+    "timestamp": "Nov 11, 2016 3:40:11 AM",
+    "topic": "Grubhub CEO Asks Staffers with \u0027Hateful Attitudes\u0027 to Resign After Trump Win",
+    "url": "http://gizmodo.com/grubhub-ceo-asks-staffers-with-hateful-attitudes-to-res-1788839605",
+    "votes": 7,
+    "posted": "Nov 11, 2016 3:10:29 AM"
+  },
+  {
+    "id": "12926805",
+    "timestamp": "Nov 11, 2016 3:30:11 AM",
+    "topic": "Leonard Cohen has passed away",
+    "url": "http://leonardcohen.com/",
+    "votes": 38,
+    "posted": "Nov 11, 2016 3:06:42 AM"
+  },
+  {
+    "id": "12926684",
+    "timestamp": "Nov 11, 2016 3:00:08 AM",
+    "topic": "Leonard Cohen Dead at 82",
+    "url": "http://www.rollingstone.com/music/news/leonard-cohen-dead-at-82-w449792",
+    "votes": 11,
+    "posted": "Nov 11, 2016 2:47:00 AM"
+  },
+  {
     "id": "12926678",
     "timestamp": "Nov 11, 2016 2:50:07 AM",
     "topic": "YC Partner Peter Thiel, Joins Trump Transition Team",
@@ -8,12 +32,28 @@ var newsArray = [
     "posted": "Nov 11, 2016 2:45:33 AM"
   },
   {
+    "id": "12926651",
+    "timestamp": "Nov 11, 2016 3:00:08 AM",
+    "topic": "Democrats once represented the working class. Not any more",
+    "url": "https://www.theguardian.com/commentisfree/2016/nov/10/democrats-working-class-americans-us-election",
+    "votes": 3,
+    "posted": "Nov 11, 2016 2:41:59 AM"
+  },
+  {
     "id": "12926632",
     "timestamp": "Nov 11, 2016 2:50:07 AM",
     "topic": "Island Generator",
     "url": "http://exupero.org/hazard/post/islands/",
     "votes": 3,
     "posted": "Nov 11, 2016 2:39:19 AM"
+  },
+  {
+    "id": "12926484",
+    "timestamp": "Nov 11, 2016 3:00:08 AM",
+    "topic": "Nvidia Reports Huge Data Center Business Boom, Stock Is Jumping",
+    "url": "http://www.forbes.com/sites/aarontilley/2016/11/10/nvidia-reports-huge-data-center-business-boom-stock-is-jumping/#2c7266b079db",
+    "votes": 3,
+    "posted": "Nov 11, 2016 2:15:01 AM"
   },
   {
     "id": "12926343",
@@ -418,6 +458,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 7:23:37 PM"
   },
   {
+    "id": "12922643",
+    "timestamp": "Nov 11, 2016 3:10:09 AM",
+    "topic": "Show HN: Winds, an open source RSS reader built using React/Redux and Sails",
+    "url": "https://github.com/GetStream/Winds",
+    "votes": 12,
+    "posted": "Nov 10, 2016 7:02:11 PM"
+  },
+  {
     "id": "12922625",
     "timestamp": "Nov 10, 2016 7:19:26 PM",
     "topic": "How would the media cover Trump\u0027s victory if America were a third-world country?",
@@ -456,6 +504,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/10/facebook-admits-it-must-do-more-to-stop-the-spread-of-misinformation-on-its-platform/",
     "votes": 11,
     "posted": "Nov 10, 2016 6:27:30 PM"
+  },
+  {
+    "id": "12922218",
+    "timestamp": "Nov 11, 2016 3:20:10 AM",
+    "topic": "Show HN: Hyperdeck – a new client-side programming notebook",
+    "url": "https://www.hyperdeck.io",
+    "votes": 10,
+    "posted": "Nov 10, 2016 6:18:19 PM"
   },
   {
     "id": "12922202",
@@ -7215,36 +7271,5 @@ var newsArray = [
     "topic": "Request for product: Ask me ~100 questions, and then tell me how to vote",
     "votes": 5,
     "posted": "Nov 4, 2016 3:50:20 AM"
-  },
-  {
-    "id": "12869940",
-    "timestamp": "Nov 4, 2016 3:44:11 AM",
-    "topic": "After 20 Years, NASA Finally Finished Building the James Webb Space Telescope",
-    "url": "http://www.popsci.com/james-webb-space-telescope-is-now-ready-for-final-tests-before-launch",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:32:31 AM"
-  },
-  {
-    "id": "12869934",
-    "timestamp": "Nov 4, 2016 3:44:11 AM",
-    "topic": "DOJ Sues DirecTV, Calling It a \u0027Ringleader\u0027 of Collusion Over Sports Programming",
-    "url": "https://www.techdirt.com/articles/20161103/06460835951/doj-sues-directv-calling-it-ringleader-collusion-over-regional-sports-programming.shtml",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:31:26 AM"
-  },
-  {
-    "id": "12869870",
-    "timestamp": "Nov 4, 2016 3:24:09 AM",
-    "topic": "Impraise (YC S14) Hiring a Ruby Developer in Beautiful Amsterdam",
-    "url": "http://jobs.impraise.com/o/ruby-developer",
-    "votes": 1,
-    "posted": "Nov 4, 2016 3:19:12 AM"
-  },
-  {
-    "id": "12869807",
-    "timestamp": "Nov 5, 2016 4:26:23 AM",
-    "topic": "Ask HN: How Do You Share HN?",
-    "votes": 4,
-    "posted": "Nov 4, 2016 3:01:27 AM"
   }
 ];
