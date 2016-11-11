@@ -16,12 +16,35 @@ var newsArray = [
     "posted": "Nov 11, 2016 8:24:01 AM"
   },
   {
+    "id": "12928666",
+    "timestamp": "Nov 11, 2016 9:20:44 AM",
+    "topic": "Liberating the Smalltalk lurking in C and Unix",
+    "url": "https://www.youtube.com/watch?v\u003dLwicN2u6Dro",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:18:13 AM"
+  },
+  {
+    "id": "12928598",
+    "timestamp": "Nov 11, 2016 9:00:40 AM",
+    "topic": "Complete Study of Factors Contributing to Air Pollution",
+    "url": "https://www.analyticsvidhya.com/blog/2016/10/complete-study-of-factors-contributing-to-air-pollution/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:01:39 AM"
+  },
+  {
     "id": "12928526",
     "timestamp": "Nov 11, 2016 8:00:35 AM",
     "topic": "Qt for Go which supports Windows/macOS/Linux/Android/iOS/SailfishOS/RaspberryPi",
     "url": "https://github.com/therecipe/qt",
     "votes": 8,
     "posted": "Nov 11, 2016 7:45:48 AM"
+  },
+  {
+    "id": "12928513",
+    "timestamp": "Nov 11, 2016 9:00:40 AM",
+    "topic": "Increase Hacker News Font Size?",
+    "votes": 5,
+    "posted": "Nov 11, 2016 7:42:33 AM"
   },
   {
     "id": "12928405",
@@ -86,6 +109,13 @@ var newsArray = [
     "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.7zevfjrzi",
     "votes": 11,
     "posted": "Nov 11, 2016 5:06:12 AM"
+  },
+  {
+    "id": "12927570",
+    "timestamp": "Nov 11, 2016 9:00:40 AM",
+    "topic": "Facebook forces user to use messenger on mobile site",
+    "votes": 5,
+    "posted": "Nov 11, 2016 4:52:55 AM"
   },
   {
     "id": "12927560",
@@ -198,6 +228,14 @@ var newsArray = [
     "url": "http://exupero.org/hazard/post/islands/",
     "votes": 3,
     "posted": "Nov 11, 2016 2:39:19 AM"
+  },
+  {
+    "id": "12926510",
+    "timestamp": "Nov 11, 2016 9:40:45 AM",
+    "topic": "LinkedIn to be blocked in Russia; Google, eBay, Uber, and Booking.com have moved",
+    "url": "https://www.washingtonpost.com/business/economy/first-record-close-for-dow-in-three-months/2016/11/10/642e9aae-a74e-11e6-8042-f4d111c862d1_story.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 2:19:58 AM"
   },
   {
     "id": "12926484",
@@ -319,6 +357,13 @@ var newsArray = [
     "posted": "Nov 11, 2016 12:06:41 AM"
   },
   {
+    "id": "12925267",
+    "timestamp": "Nov 11, 2016 9:00:40 AM",
+    "topic": "Compose.com (old MongoHQ) kidnapping data?",
+    "votes": 8,
+    "posted": "Nov 10, 2016 11:45:33 PM"
+  },
+  {
     "id": "12925177",
     "timestamp": "Nov 10, 2016 11:49:51 PM",
     "topic": "Vancouver Enforces C$10,000 Annual Fine on Empty Homes",
@@ -359,6 +404,13 @@ var newsArray = [
     "posted": "Nov 10, 2016 11:20:47 PM"
   },
   {
+    "id": "12925043",
+    "timestamp": "Nov 11, 2016 9:00:40 AM",
+    "topic": "The best time tracker you use",
+    "votes": 7,
+    "posted": "Nov 10, 2016 11:19:30 PM"
+  },
+  {
     "id": "12924865",
     "timestamp": "Nov 10, 2016 11:49:51 PM",
     "topic": "Ruby 3x3: Matz, Koichi, and Tenderlove on the Future of Ruby Performance",
@@ -372,6 +424,13 @@ var newsArray = [
     "topic": "Ask HN: Dang, why aren\u0027t my own comments viewable?",
     "votes": 3,
     "posted": "Nov 10, 2016 10:57:04 PM"
+  },
+  {
+    "id": "12924666",
+    "timestamp": "Nov 11, 2016 9:00:40 AM",
+    "topic": "Ask HN: Have you ever got tired of programming?",
+    "votes": 7,
+    "posted": "Nov 10, 2016 10:41:06 PM"
   },
   {
     "id": "12924618",
@@ -475,6 +534,14 @@ var newsArray = [
     "url": "http://ubiquity.acm.org/article.cfm?id\u003d3001758",
     "votes": 3,
     "posted": "Nov 10, 2016 9:11:49 PM"
+  },
+  {
+    "id": "12923809",
+    "timestamp": "Nov 11, 2016 9:10:42 AM",
+    "topic": "Show HN: Helping refugees finding a job",
+    "url": "http://www.fujobee.com",
+    "votes": 4,
+    "posted": "Nov 10, 2016 9:09:05 PM"
   },
   {
     "id": "12923761",
@@ -969,6 +1036,13 @@ var newsArray = [
     "posted": "Nov 10, 2016 1:58:28 PM"
   },
   {
+    "id": "12919938",
+    "timestamp": "Nov 11, 2016 9:00:41 AM",
+    "topic": "Ask HN: How to teach/learn advanced programming?",
+    "votes": 5,
+    "posted": "Nov 10, 2016 1:51:39 PM"
+  },
+  {
     "id": "12919894",
     "timestamp": "Nov 10, 2016 1:58:53 PM",
     "topic": "“Trump will be the first anti-science president we have ever had”",
@@ -1189,6 +1263,13 @@ var newsArray = [
     "url": "http://fivethirtyeight.com/features/what-a-difference-2-percentage-points-makes/",
     "votes": 3,
     "posted": "Nov 10, 2016 8:28:48 AM"
+  },
+  {
+    "id": "12918378",
+    "timestamp": "Nov 11, 2016 9:00:41 AM",
+    "topic": "Ask HN: How to learn to stop worrying and love pair programming?",
+    "votes": 7,
+    "posted": "Nov 10, 2016 8:16:02 AM"
   },
   {
     "id": "12918211",
@@ -1700,6 +1781,13 @@ var newsArray = [
     "posted": "Nov 9, 2016 7:14:32 PM"
   },
   {
+    "id": "12912940",
+    "timestamp": "Nov 11, 2016 9:00:41 AM",
+    "topic": "Ask HN: How do I find remote work?",
+    "votes": 5,
+    "posted": "Nov 9, 2016 7:14:32 PM"
+  },
+  {
     "id": "12912887",
     "timestamp": "Nov 9, 2016 11:47:40 PM",
     "topic": "Ask HN: Where can I analyze exit poll dataset?",
@@ -2055,6 +2143,13 @@ var newsArray = [
     "posted": "Nov 9, 2016 12:59:15 PM"
   },
   {
+    "id": "12909439",
+    "timestamp": "Nov 11, 2016 9:00:41 AM",
+    "topic": "Ask HN: Might Europe be the future of free capitalism?",
+    "votes": 4,
+    "posted": "Nov 9, 2016 12:45:54 PM"
+  },
+  {
     "id": "12909276",
     "timestamp": "Nov 9, 2016 1:36:41 PM",
     "topic": "How the Internet tricked you into thinking Trump wouldn\u0027t win",
@@ -2069,6 +2164,13 @@ var newsArray = [
     "url": "http://www.independent.co.uk/news/people/presidential-election-donald-trump-would-have-lost-if-bernie-sanders-had-been-the-candidate-a7406346.html",
     "votes": 6,
     "posted": "Nov 9, 2016 11:37:33 AM"
+  },
+  {
+    "id": "12908974",
+    "timestamp": "Nov 11, 2016 9:00:41 AM",
+    "topic": "Ask HN: Pursuing a STEM masters program in the post-trump US?",
+    "votes": 6,
+    "posted": "Nov 9, 2016 11:28:17 AM"
   },
   {
     "id": "12908850",
@@ -2581,6 +2683,13 @@ var newsArray = [
     "url": "http://www.nytimes.com/elections/forecast/president?1",
     "votes": 4,
     "posted": "Nov 9, 2016 1:43:43 AM"
+  },
+  {
+    "id": "12905261",
+    "timestamp": "Nov 11, 2016 9:00:41 AM",
+    "topic": "Ask HN: How to relax after coding for too many hours?",
+    "votes": 8,
+    "posted": "Nov 9, 2016 1:43:02 AM"
   },
   {
     "id": "12904962",
@@ -7171,21 +7280,5 @@ var newsArray = [
     "url": "https://www.nayuki.io/page/fast-fibonacci-algorithms",
     "votes": 5,
     "posted": "Nov 4, 2016 9:52:08 AM"
-  },
-  {
-    "id": "12871082",
-    "timestamp": "Nov 4, 2016 10:34:46 AM",
-    "topic": "Microsoft Doubles Down on Ethereum with New Blockchain Product",
-    "url": "http://www.coindesk.com/microsoft-launching-new-ethereum-blockchain-product/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 9:24:43 AM"
-  },
-  {
-    "id": "12870997",
-    "timestamp": "Nov 4, 2016 12:44:56 PM",
-    "topic": "New MacBook Pro not compatible with all Thunderbolt 3 devices",
-    "url": "http://www.macrumors.com/2016/11/03/new-macbook-pros-thunderbolt-3-compatibility/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 9:01:47 AM"
   }
 ];
