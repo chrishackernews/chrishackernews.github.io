@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "12933542",
+    "timestamp": "Nov 11, 2016 8:41:50 PM",
+    "topic": "[JS] How to make a nextgen 3D game with physics in browser",
+    "url": "https://whsjs.io/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:28:11 PM"
+  },
+  {
+    "id": "12933471",
+    "timestamp": "Nov 11, 2016 8:51:51 PM",
+    "topic": "What we learned after using React Native for a year?",
+    "url": "https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:20:22 PM"
+  },
+  {
+    "id": "12933252",
+    "timestamp": "Nov 11, 2016 8:11:47 PM",
+    "topic": "A few drawings about Linux",
+    "url": "https://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 7:58:14 PM"
+  },
+  {
+    "id": "12933237",
+    "timestamp": "Nov 11, 2016 8:11:47 PM",
+    "topic": "Is globalization to blame?",
+    "url": "http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2016/11/is-globalization-to-blame.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 7:57:09 PM"
+  },
+  {
+    "id": "12933154",
+    "timestamp": "Nov 11, 2016 8:11:47 PM",
+    "topic": "Will Trump\u0027s Victory Be Silicon Valley\u0027s Wake-Up Call?",
+    "url": "https://www.theatlantic.com/technology/archive/2016/11/trumps-the-president-and-youre-a-publisher/507278/?single_page\u003dtrue",
+    "votes": 4,
+    "posted": "Nov 11, 2016 7:49:33 PM"
+  },
+  {
+    "id": "12933149",
+    "timestamp": "Nov 11, 2016 8:21:48 PM",
+    "topic": "Donald Trump Won Because of Facebook",
+    "url": "http://nymag.com/selectall/2016/11/donald-trump-won-because-of-facebook.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 7:49:19 PM"
+  },
+  {
+    "id": "12933048",
+    "timestamp": "Nov 11, 2016 8:11:47 PM",
+    "topic": "Trump’s FCC: Tom Wheeler to be replaced, set-top box reform could be dead",
+    "url": "http://arstechnica.com/tech-policy/2016/11/trumps-fcc-tom-wheeler-to-be-replaced-set-top-box-reform-could-be-dead/",
+    "votes": 7,
+    "posted": "Nov 11, 2016 7:39:18 PM"
+  },
+  {
     "id": "12933010",
     "timestamp": "Nov 11, 2016 7:41:43 PM",
     "topic": "OneSignal Is Hiring Mobile and Full-Stack Developers in Mountain View",
     "url": "http://jobs.onesignal.com/",
     "votes": 1,
     "posted": "Nov 11, 2016 7:33:30 PM"
+  },
+  {
+    "id": "12933005",
+    "timestamp": "Nov 11, 2016 8:11:47 PM",
+    "topic": "Peter Thiel Said to Join Trump’s Presidential Transition Team",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-11/peter-thiel-joins-trump-s-presidential-transition-team",
+    "votes": 6,
+    "posted": "Nov 11, 2016 7:32:44 PM"
   },
   {
     "id": "12932987",
@@ -22,6 +86,14 @@ var newsArray = [
     "url": "http://compellingsciencefiction.com/blog/2016-11-10.html",
     "votes": 8,
     "posted": "Nov 11, 2016 7:20:04 PM"
+  },
+  {
+    "id": "12932771",
+    "timestamp": "Nov 11, 2016 8:11:47 PM",
+    "topic": "The Great Firewall, China’s New Cybersecurity Law",
+    "url": "https://edgylabs.com/2016/11/11/the-great-firewall-china-cybersecurity/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 6:59:11 PM"
   },
   {
     "id": "12932753",
@@ -54,6 +126,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2015/03/22/opinion/sunday/judith-shulevitz-hiding-from-scary-ideas.html",
     "votes": 5,
     "posted": "Nov 11, 2016 6:34:02 PM"
+  },
+  {
+    "id": "12932592",
+    "timestamp": "Nov 11, 2016 8:01:46 PM",
+    "topic": "Show HN: Blink Shell for iOS, an Open-Source, Mosh and SSH Terminal for Pros",
+    "url": "http://blink.sh",
+    "votes": 7,
+    "posted": "Nov 11, 2016 6:31:43 PM"
   },
   {
     "id": "12932518",
@@ -102,6 +182,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/commentisfree/2016/mar/07/donald-trump-why-americans-support",
     "votes": 3,
     "posted": "Nov 11, 2016 5:20:34 PM"
+  },
+  {
+    "id": "12931994",
+    "timestamp": "Nov 11, 2016 8:21:48 PM",
+    "topic": "An XMPP IM Platform with REST API Ease: MongooseIM 2.0.0 [Webinar 24 Nov]",
+    "url": "https://www.erlang-solutions.com/resources/webinars.html#/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 5:18:34 PM"
   },
   {
     "id": "12931943",
@@ -4210,6 +4298,14 @@ var newsArray = [
     "posted": "Nov 7, 2016 11:07:24 PM"
   },
   {
+    "id": "12895278",
+    "timestamp": "Nov 11, 2016 8:41:50 PM",
+    "topic": "Inside Churchill\u0027s Secret Subterranean WWII Bunker in London",
+    "url": "http://www.atlasobscura.com/articles/inside-churchills-secret-subterranean-wwii-bunker-in-london",
+    "votes": 3,
+    "posted": "Nov 7, 2016 10:24:22 PM"
+  },
+  {
     "id": "12895262",
     "timestamp": "Nov 8, 2016 1:33:23 AM",
     "topic": "Mozilla on Enabling the Open Metaverse with WebVR, A-Frame, and Servo",
@@ -7125,77 +7221,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003daswsnLvtEOA",
     "votes": 6,
     "posted": "Nov 4, 2016 8:53:39 PM"
-  },
-  {
-    "id": "12875348",
-    "timestamp": "Nov 4, 2016 8:55:42 PM",
-    "topic": "I’m a Latino in Tech, and I Think the ‘Diversity’ Discussion Is Utterly Broken",
-    "url": "http://observer.com/2016/10/lets-be-honest-we-have-no-idea-what-diversity-means/",
-    "votes": 5,
-    "posted": "Nov 4, 2016 8:37:30 PM"
-  },
-  {
-    "id": "12875330",
-    "timestamp": "Nov 4, 2016 8:55:42 PM",
-    "topic": "One week with the Google Pixel",
-    "url": "https://medium.com/@elliotjaystocks/one-week-with-the-google-pixel-f43e6647906f#.2l4udx8oo",
-    "votes": 4,
-    "posted": "Nov 4, 2016 8:34:43 PM"
-  },
-  {
-    "id": "12875263",
-    "timestamp": "Nov 4, 2016 10:15:49 PM",
-    "topic": "Is (React) Fiber ready yet?",
-    "url": "http://isfiberreadyyet.com/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 8:28:05 PM"
-  },
-  {
-    "id": "12875238",
-    "timestamp": "Nov 5, 2016 5:06:28 AM",
-    "topic": "Why Docker and PaaS might not be useful anymore – Serverless Architecture",
-    "url": "https://specify.io/concepts/serverless-baas-faas",
-    "votes": 5,
-    "posted": "Nov 4, 2016 8:25:47 PM"
-  },
-  {
-    "id": "12875211",
-    "timestamp": "Nov 4, 2016 8:55:41 PM",
-    "topic": "Apple cuts USB-C adapter prices in response to MacBook Pro complaints",
-    "url": "http://www.theverge.com/2016/11/4/13524272/apple-cutting-usb-c-adaptor-prices-macbook-pro",
-    "votes": 7,
-    "posted": "Nov 4, 2016 8:22:54 PM"
-  },
-  {
-    "id": "12875191",
-    "timestamp": "Nov 4, 2016 8:55:41 PM",
-    "topic": "Introducing Aurelia UX",
-    "url": "http://blog.aurelia.io/2016/11/04/introducing-aurelia-ux/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 8:21:26 PM"
-  },
-  {
-    "id": "12875168",
-    "timestamp": "Nov 4, 2016 8:45:40 PM",
-    "topic": "Putting Sugary Soda Out of Reach",
-    "url": "http://www.nytimes.com/2016/11/08/well/eat/putting-sugary-soda-out-of-reach.html?emc\u003dedit_ca_20161104\u0026nl\u003dcalifornia-today\u0026nlid\u003d4617603\u0026te\u003d1\u0026_r\u003d0",
-    "votes": 3,
-    "posted": "Nov 4, 2016 8:19:05 PM"
-  },
-  {
-    "id": "12875092",
-    "timestamp": "Nov 4, 2016 8:45:40 PM",
-    "topic": "Rolling Stone Found Liable in Defamation Trial Over ‘Rape on Campus’ Article",
-    "url": "http://www.wsj.com/articles/rolling-stone-found-liable-in-defamation-trial-over-rape-on-campus-article-1478284464",
-    "votes": 6,
-    "posted": "Nov 4, 2016 8:11:54 PM"
-  },
-  {
-    "id": "12874979",
-    "timestamp": "Nov 4, 2016 9:35:46 PM",
-    "topic": "Elon Musk: Robots will take your jobs, government will have to pay your wage",
-    "url": "http://www.cnbc.com/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html",
-    "votes": 5,
-    "posted": "Nov 4, 2016 7:57:00 PM"
   }
 ];
