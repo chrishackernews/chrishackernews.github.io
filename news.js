@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12927173",
+    "timestamp": "Nov 11, 2016 4:40:16 AM",
+    "topic": "A Glance into Web Tech.-Based Text Editors\u0027 Text Management",
+    "url": "https://ecc-comp.blogspot.com/2016/11/a-glance-into-web-tech-based-text.html",
+    "votes": 4,
+    "posted": "Nov 11, 2016 3:58:31 AM"
+  },
+  {
+    "id": "12927156",
+    "timestamp": "Nov 11, 2016 4:30:15 AM",
+    "topic": "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure",
+    "url": "https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 3:56:17 AM"
+  },
+  {
+    "id": "12927142",
+    "timestamp": "Nov 11, 2016 4:30:15 AM",
+    "topic": "Amazon drivers “work illegal hours”",
+    "url": "http://www.bbc.co.uk/news/uk-england-37708996",
+    "votes": 5,
+    "posted": "Nov 11, 2016 3:54:29 AM"
+  },
+  {
+    "id": "12927072",
+    "timestamp": "Nov 11, 2016 4:50:17 AM",
+    "topic": "California Secession Making Headway in Silicon Valley Community",
+    "url": "https://techcrunch.com/2016/11/10/calexit-is-silicon-valleys-plan-to-pack-up-its-toys-and-leave/",
+    "votes": 14,
+    "posted": "Nov 11, 2016 3:46:19 AM"
+  },
+  {
     "id": "12926823",
     "timestamp": "Nov 11, 2016 3:40:11 AM",
     "topic": "Grubhub CEO Asks Staffers with \u0027Hateful Attitudes\u0027 to Resign After Trump Win",
@@ -54,6 +86,14 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/aarontilley/2016/11/10/nvidia-reports-huge-data-center-business-boom-stock-is-jumping/#2c7266b079db",
     "votes": 3,
     "posted": "Nov 11, 2016 2:15:01 AM"
+  },
+  {
+    "id": "12926395",
+    "timestamp": "Nov 11, 2016 4:30:15 AM",
+    "topic": "The forces that drove this election’s media failure are likely to get worse",
+    "url": "http://www.niemanlab.org/2016/11/the-forces-that-drove-this-elections-media-failure-are-likely-to-get-worse",
+    "votes": 7,
+    "posted": "Nov 11, 2016 1:59:24 AM"
   },
   {
     "id": "12926343",
@@ -1530,6 +1570,14 @@ var newsArray = [
     "url": "http://www.gamasutra.com/view/news/285149/Epic_Games_chief_pays_15M_to_protect_7000_acres_of_North_Carolina_wilderness.php",
     "votes": 14,
     "posted": "Nov 9, 2016 7:28:25 PM"
+  },
+  {
+    "id": "12912941",
+    "timestamp": "Nov 11, 2016 4:00:13 AM",
+    "topic": "Why I took October off from OSS volunteering",
+    "url": "http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering",
+    "votes": 5,
+    "posted": "Nov 9, 2016 7:14:32 PM"
   },
   {
     "id": "12912887",
@@ -7192,84 +7240,5 @@ var newsArray = [
     "url": "http://www.fool.com/investing/2016/11/03/why-fitbit-inc-just-lost-a-third-of-its-value.aspx",
     "votes": 4,
     "posted": "Nov 4, 2016 4:54:28 AM"
-  },
-  {
-    "id": "12870221",
-    "timestamp": "Nov 4, 2016 10:34:46 AM",
-    "topic": "Huawei taking on Apple and Samsung with new phone",
-    "url": "http://www.theverge.com/2016/11/3/13477424/huawei-mate-9-unveiled-specs-pictures",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:48:51 AM"
-  },
-  {
-    "id": "12870218",
-    "timestamp": "Nov 4, 2016 5:04:18 AM",
-    "topic": "​Ubuntu Core 16: Linux for a Secure Internet of Things",
-    "url": "http://www.zdnet.com/article/ubuntu-core-16-linux-for-a-secure-internet-of-things/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:47:41 AM"
-  },
-  {
-    "id": "12870152",
-    "timestamp": "Nov 4, 2016 6:14:23 AM",
-    "topic": "US Broken Arrow Possibly Found in Canada (2016)",
-    "url": "http://vancouversun.com/news/local-news/canadian-army-interested-in-old-nuke-that-may-have-been-found-off-haida-gwaii",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:32:02 AM"
-  },
-  {
-    "id": "12870150",
-    "timestamp": "Nov 4, 2016 5:14:18 AM",
-    "topic": "Tech workers at UCSF face layoff, training their low paid replacements",
-    "url": "http://www.mercurynews.com/2016/11/03/after-pink-slips-ucsf-tech-workers-train-their-foreign-replacements/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 4:31:01 AM"
-  },
-  {
-    "id": "12870123",
-    "timestamp": "Nov 4, 2016 4:44:16 AM",
-    "topic": "This Election Has Disgraced the Entire Profession of Journalism",
-    "url": "http://observer.com/2016/11/this-election-has-disgraced-the-entire-profession-of-journalism/#.WBpXGM-S-do.facebook",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:25:54 AM"
-  },
-  {
-    "id": "12870118",
-    "timestamp": "Nov 4, 2016 10:34:46 AM",
-    "topic": "Hatchit: An open source game engine",
-    "url": "https://opensource.com/life/16/10/hatchit",
-    "votes": 3,
-    "posted": "Nov 4, 2016 4:25:16 AM"
-  },
-  {
-    "id": "12870081",
-    "timestamp": "Nov 4, 2016 7:14:28 AM",
-    "topic": "Before Capitalism, Medieval Peasants Got More Vacation Time Than You",
-    "url": "http://evonomics.com/capitalism-medieval-peasants-got-vacation-time-heres/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 4:14:28 AM"
-  },
-  {
-    "id": "12870031",
-    "timestamp": "Nov 4, 2016 4:34:15 AM",
-    "topic": "Show HN: Keygen – a dead-simple product licensing API built for developers",
-    "url": "https://keygen.sh/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 3:57:12 AM"
-  },
-  {
-    "id": "12870014",
-    "timestamp": "Nov 4, 2016 9:24:39 AM",
-    "topic": "Why I became a software engineer",
-    "url": "https://dev.to/edemkumodzi/why-i-became-a-software-engineer",
-    "votes": 3,
-    "posted": "Nov 4, 2016 3:53:05 AM"
-  },
-  {
-    "id": "12870001",
-    "timestamp": "Nov 5, 2016 3:27:15 PM",
-    "topic": "Request for product: Ask me ~100 questions, and then tell me how to vote",
-    "votes": 5,
-    "posted": "Nov 4, 2016 3:50:20 AM"
   }
 ];
