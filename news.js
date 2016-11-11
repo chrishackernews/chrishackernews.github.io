@@ -1,5 +1,100 @@
 var newsArray = [
   {
+    "id": "12934649",
+    "timestamp": "Nov 11, 2016 10:52:03 PM",
+    "topic": "See You in Court. It\u0027s Time to Fight",
+    "url": "https://action.aclu.org/secure/timetofight",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:39:28 PM"
+  },
+  {
+    "id": "12934493",
+    "timestamp": "Nov 11, 2016 10:52:03 PM",
+    "topic": "Farewell, America",
+    "url": "http://billmoyers.com/story/farewell-america/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:23:48 PM"
+  },
+  {
+    "id": "12934388",
+    "timestamp": "Nov 11, 2016 10:52:04 PM",
+    "topic": "Y Combinator blacklists founder of Gab.ai for saying “build the wall”",
+    "url": "https://twitter.com/torbahax/status/797180049698983936",
+    "votes": 5,
+    "posted": "Nov 11, 2016 10:13:59 PM"
+  },
+  {
+    "id": "12934374",
+    "timestamp": "Nov 11, 2016 10:42:02 PM",
+    "topic": "D\u0026D rolls a 20, makes it into the Toy Hall of Fame this year",
+    "url": "http://arstechnica.com/gaming/2016/11/dd-rolls-a-20-makes-it-into-the-toy-hall-of-fame-this-year/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 10:12:01 PM"
+  },
+  {
+    "id": "12934310",
+    "timestamp": "Nov 11, 2016 10:12:00 PM",
+    "topic": "Surveillance Self Defence",
+    "url": "https://ssd.eff.org/",
+    "votes": 5,
+    "posted": "Nov 11, 2016 10:03:04 PM"
+  },
+  {
+    "id": "12934256",
+    "timestamp": "Nov 11, 2016 10:01:58 PM",
+    "topic": "Facebook bug is telling people they\u0027re dead",
+    "url": "http://www.businessinsider.com/facebook-death-bug-tells-people-they-died-2016-11",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:56:20 PM"
+  },
+  {
+    "id": "12934247",
+    "timestamp": "Nov 11, 2016 10:01:58 PM",
+    "topic": "Facebook is telling everyone that they’re dead",
+    "url": "http://www.theverge.com/2016/11/11/13602824/facebook-just-killed-everyone",
+    "votes": 6,
+    "posted": "Nov 11, 2016 9:55:16 PM"
+  },
+  {
+    "id": "12934240",
+    "timestamp": "Nov 11, 2016 10:01:58 PM",
+    "topic": "Ask HN: Facebook hack",
+    "votes": 4,
+    "posted": "Nov 11, 2016 9:53:57 PM"
+  },
+  {
+    "id": "12934119",
+    "timestamp": "Nov 11, 2016 10:12:00 PM",
+    "topic": "Obama Administration Gives Up on Pacific Trade Deal",
+    "url": "http://www.wsj.com/articles/obama-administration-gives-up-on-pacific-trade-deal-1478895824",
+    "votes": 33,
+    "posted": "Nov 11, 2016 9:39:11 PM"
+  },
+  {
+    "id": "12934089",
+    "timestamp": "Nov 11, 2016 10:01:58 PM",
+    "topic": "Wind Waker Graphics Analysis",
+    "url": "https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:36:33 PM"
+  },
+  {
+    "id": "12934046",
+    "timestamp": "Nov 11, 2016 10:01:59 PM",
+    "topic": "Could California Survive as a Separate Country?",
+    "url": "https://www.quora.com/Would-California-be-more-successful-as-an-independent-country-rather-than-as-a-state?share\u003d1",
+    "votes": 4,
+    "posted": "Nov 11, 2016 9:30:49 PM"
+  },
+  {
+    "id": "12934034",
+    "timestamp": "Nov 11, 2016 10:01:59 PM",
+    "topic": "A letter to today’s young people",
+    "url": "https://marco.org/2016/11/11/letter-to-young-people",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:29:35 PM"
+  },
+  {
     "id": "12933971",
     "timestamp": "Nov 11, 2016 9:51:57 PM",
     "topic": "The Recreational Use of the Word “Racist”",
@@ -54,6 +149,14 @@ var newsArray = [
     "url": "https://github.com/UoA-eResearch/hololens_facial_recognition",
     "votes": 3,
     "posted": "Nov 11, 2016 8:30:56 PM"
+  },
+  {
+    "id": "12933562",
+    "timestamp": "Nov 11, 2016 10:01:58 PM",
+    "topic": "Infineon chip solves Rubik’s Cube in 637 milliseconds",
+    "url": "http://sciencebulletin.org/archives/7723.html",
+    "votes": 5,
+    "posted": "Nov 11, 2016 8:30:48 PM"
   },
   {
     "id": "12933542",
@@ -7189,85 +7292,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003djlyWn_U1xHs",
     "votes": 3,
     "posted": "Nov 4, 2016 10:56:23 PM"
-  },
-  {
-    "id": "12876458",
-    "timestamp": "Nov 4, 2016 11:05:54 PM",
-    "topic": "Can We Put the 16GB “Pro” Myth to Rest?",
-    "url": "https://www.zdziarski.com/blog/?p\u003d6355",
-    "votes": 4,
-    "posted": "Nov 4, 2016 10:51:16 PM"
-  },
-  {
-    "id": "12876417",
-    "timestamp": "Nov 4, 2016 11:15:57 PM",
-    "topic": "OCaml 4.04.0 released",
-    "url": "https://sympa.inria.fr/sympa/arc/caml-list/2016-11/msg00010.html",
-    "votes": 19,
-    "posted": "Nov 4, 2016 10:43:28 PM"
-  },
-  {
-    "id": "12876411",
-    "timestamp": "Nov 4, 2016 11:56:00 PM",
-    "topic": "Cholera 101: Why an Ancient Disease Keeps on Haunting Us",
-    "url": "http://www.npr.org/sections/goatsandsoda/2016/11/04/500664156/cholera-101-why-an-ancient-disease-keeps-on-haunting-us",
-    "votes": 2,
-    "posted": "Nov 4, 2016 10:42:34 PM"
-  },
-  {
-    "id": "12876370",
-    "timestamp": "Nov 5, 2016 4:26:23 AM",
-    "topic": "Open Source Storage founder accused of fraud by former 49ers star Patrick Willis",
-    "url": "http://www.inc.com/salvador-rodriguez/patrick-willis-alleges-fraud-in-lawsuit.html",
-    "votes": 5,
-    "posted": "Nov 4, 2016 10:38:03 PM"
-  },
-  {
-    "id": "12876292",
-    "timestamp": "Nov 4, 2016 10:35:51 PM",
-    "topic": "Segment (YC S11) Is Hiring a Head of Solutions Enginering",
-    "url": "https://boards.greenhouse.io/segment/jobs/463624",
-    "votes": 1,
-    "posted": "Nov 4, 2016 10:28:56 PM"
-  },
-  {
-    "id": "12876256",
-    "timestamp": "Nov 5, 2016 1:16:07 AM",
-    "topic": "Autovacuum is Not the Enemy",
-    "url": "https://www.citusdata.com/blog/2016/11/04/autovacuum-not-the-enemy/",
-    "votes": 8,
-    "posted": "Nov 4, 2016 10:24:54 PM"
-  },
-  {
-    "id": "12876214",
-    "timestamp": "Nov 4, 2016 11:15:57 PM",
-    "topic": "Samsung Recalls 2.8M Top-Load Washing Machines",
-    "url": "http://www.npr.org/sections/thetwo-way/2016/11/04/500685316/samsung-recalls-2-8-million-top-load-washers-over-disloding-lids",
-    "votes": 6,
-    "posted": "Nov 4, 2016 10:19:41 PM"
-  },
-  {
-    "id": "12876203",
-    "timestamp": "Nov 5, 2016 4:46:25 AM",
-    "topic": "Adobe’s Project VoCo lets you edit speech as easily as text",
-    "url": "https://techcrunch.com/2016/11/03/adobes-project-voco-lets-you-edit-speech-as-easily-as-text/",
-    "votes": 4,
-    "posted": "Nov 4, 2016 10:18:40 PM"
-  },
-  {
-    "id": "12876194",
-    "timestamp": "Nov 4, 2016 10:55:53 PM",
-    "topic": "Visual Cryptography",
-    "url": "http://www.datagenetics.com/blog/november32013/index.html",
-    "votes": 3,
-    "posted": "Nov 4, 2016 10:17:23 PM"
-  },
-  {
-    "id": "12876017",
-    "timestamp": "Nov 4, 2016 10:35:51 PM",
-    "topic": "The Orange Pi Zero single-board computer ships for $6.99",
-    "url": "http://www.pcworld.com/article/3138886/computers/the-orange-pi-zero-single-board-computer-ships-for-699.html#tk.rss_all",
-    "votes": 3,
-    "posted": "Nov 4, 2016 9:53:18 PM"
   }
 ];
