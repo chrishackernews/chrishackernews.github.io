@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "12933971",
+    "timestamp": "Nov 11, 2016 9:51:57 PM",
+    "topic": "The Recreational Use of the Word “Racist”",
+    "url": "https://www.bostonglobe.com/ideas/2016/11/13/the-recreational-use-racism/TzxwI9Fg03ySKGYrCBv9SL/story.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:22:12 PM"
+  },
+  {
+    "id": "12933915",
+    "timestamp": "Nov 11, 2016 9:51:57 PM",
+    "topic": "The Fall of the House of Clinton",
+    "url": "http://www.vanityfair.com/news/2016/11/the-fall-of-the-house-of-clinton",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:14:03 PM"
+  },
+  {
+    "id": "12933842",
+    "timestamp": "Nov 11, 2016 9:31:54 PM",
+    "topic": "Sandstorm now supports RHEL 7, CentOS 7, Arch, and more",
+    "url": "https://sandstorm.io/news/2016-11-10-rhel-centos-arch-support",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:06:17 PM"
+  },
+  {
+    "id": "12933838",
+    "timestamp": "Nov 11, 2016 9:41:56 PM",
+    "topic": "Operation Costs in CPU Clock Cycles",
+    "url": "http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:05:32 PM"
+  },
+  {
+    "id": "12933803",
+    "timestamp": "Nov 11, 2016 9:41:56 PM",
+    "topic": "How to encrypt your entire life in less than an hour",
+    "url": "https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.53fulpyly",
+    "votes": 4,
+    "posted": "Nov 11, 2016 9:00:55 PM"
+  },
+  {
+    "id": "12933695",
+    "timestamp": "Nov 11, 2016 9:01:52 PM",
+    "topic": "Trump Era Real-Time Hate Crime Mapper",
+    "url": "http://www.h8map.com/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:47:19 PM"
+  },
+  {
+    "id": "12933563",
+    "timestamp": "Nov 11, 2016 9:01:52 PM",
+    "topic": "Hololens facial recognition prototype",
+    "url": "https://github.com/UoA-eResearch/hololens_facial_recognition",
+    "votes": 3,
+    "posted": "Nov 11, 2016 8:30:56 PM"
+  },
+  {
     "id": "12933542",
     "timestamp": "Nov 11, 2016 8:41:50 PM",
     "topic": "[JS] How to make a nextgen 3D game with physics in browser",
     "url": "https://whsjs.io/",
     "votes": 3,
     "posted": "Nov 11, 2016 8:28:11 PM"
+  },
+  {
+    "id": "12933529",
+    "timestamp": "Nov 11, 2016 9:31:55 PM",
+    "topic": "IMAX raised $50M to fund creation of VR experiences",
+    "url": "http://www.gamasutra.com/view/news/285396/IMAX_raised_50_million_to_fund_creation_of_VR_experiences.php",
+    "votes": 5,
+    "posted": "Nov 11, 2016 8:27:08 PM"
   },
   {
     "id": "12933471",
@@ -80,6 +144,14 @@ var newsArray = [
     "posted": "Nov 11, 2016 7:30:42 PM"
   },
   {
+    "id": "12932957",
+    "timestamp": "Nov 11, 2016 9:31:55 PM",
+    "topic": "UEFI boot: how does that actually work, then?",
+    "url": "https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 7:25:53 PM"
+  },
+  {
     "id": "12932931",
     "timestamp": "Nov 11, 2016 7:41:43 PM",
     "topic": "Going Serverless: AWS and Compelling Science Fiction",
@@ -134,6 +206,14 @@ var newsArray = [
     "url": "http://blink.sh",
     "votes": 7,
     "posted": "Nov 11, 2016 6:31:43 PM"
+  },
+  {
+    "id": "12932521",
+    "timestamp": "Nov 11, 2016 9:41:56 PM",
+    "topic": "Dark matter may be hiding in a hidden sector",
+    "url": "http://phys.org/news/2016-11-dark-hidden-sector.html",
+    "votes": 3,
+    "posted": "Nov 11, 2016 6:22:53 PM"
   },
   {
     "id": "12932518",
@@ -418,6 +498,14 @@ var newsArray = [
     "url": "https://eugene.kaspersky.com/2016/11/10/thats-it-ive-had-enough/",
     "votes": 4,
     "posted": "Nov 11, 2016 10:40:49 AM"
+  },
+  {
+    "id": "12929121",
+    "timestamp": "Nov 11, 2016 9:01:52 PM",
+    "topic": "Show HN: Pogi – high level Node.js lib for PostgreSQL",
+    "url": "https://github.com/holdfenytolvaj/pogi/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:13:05 AM"
   },
   {
     "id": "12929106",
@@ -3302,6 +3390,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 9:13:18 PM"
   },
   {
+    "id": "12903528",
+    "timestamp": "Nov 11, 2016 9:41:56 PM",
+    "topic": "Verbal Tics: As bots grow up, like us, their bugs become their features",
+    "url": "http://reallifemag.com/verbal-tics/",
+    "votes": 3,
+    "posted": "Nov 8, 2016 9:12:42 PM"
+  },
+  {
     "id": "12903359",
     "timestamp": "Nov 8, 2016 9:15:07 PM",
     "topic": "Apple Engineer Talks About New 2016 Macbook Pro",
@@ -4224,6 +4320,14 @@ var newsArray = [
     "url": "https://jobs.lever.co/nextcaller/619a158e-015b-4075-a626-afdc936b17f0",
     "votes": 1,
     "posted": "Nov 8, 2016 12:40:57 AM"
+  },
+  {
+    "id": "12896313",
+    "timestamp": "Nov 11, 2016 9:11:53 PM",
+    "topic": "Touched by the Goddess: On Ramanujan",
+    "url": "http://inference-review.com/article/touched-by-the-goddess",
+    "votes": 4,
+    "posted": "Nov 8, 2016 12:38:54 AM"
   },
   {
     "id": "12896304",
@@ -7165,61 +7269,5 @@ var newsArray = [
     "url": "http://www.pcworld.com/article/3138886/computers/the-orange-pi-zero-single-board-computer-ships-for-699.html#tk.rss_all",
     "votes": 3,
     "posted": "Nov 4, 2016 9:53:18 PM"
-  },
-  {
-    "id": "12875950",
-    "timestamp": "Nov 4, 2016 10:15:49 PM",
-    "topic": "Mysterious \u0027ping\u0027 sound from sea floor baffles Igloolik",
-    "url": "http://www.cbc.ca/news/canada/north/ping-beep-hum-sound-arctic-ocean-igloolik-1.3831861",
-    "votes": 3,
-    "posted": "Nov 4, 2016 9:44:30 PM"
-  },
-  {
-    "id": "12875868",
-    "timestamp": "Nov 5, 2016 12:46:05 AM",
-    "topic": "Solid metallic hydrogen has been produced in the laboratory",
-    "url": "https://arxiv.org/abs/1610.01634",
-    "votes": 6,
-    "posted": "Nov 4, 2016 9:34:38 PM"
-  },
-  {
-    "id": "12875794",
-    "timestamp": "Nov 5, 2016 2:56:16 AM",
-    "topic": "The Prophet of Cyberspace",
-    "url": "http://www.filfre.net/2016/11/the-prophet-of-cyberspace/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 9:26:24 PM"
-  },
-  {
-    "id": "12875720",
-    "timestamp": "Nov 5, 2016 1:16:07 AM",
-    "topic": "Novelty Talking Fish Integrated with Alexa API",
-    "url": "http://www.theverge.com/2016/11/4/13525172/amazon-alexa-big-mouth-billy-bass-hack-api",
-    "votes": 3,
-    "posted": "Nov 4, 2016 9:18:30 PM"
-  },
-  {
-    "id": "12875593",
-    "timestamp": "Nov 4, 2016 9:25:45 PM",
-    "topic": "The Cognitive Upside to an Extended Adolescence",
-    "url": "https://www.theatlantic.com/health/archive/2016/11/metaplasticity/506390/",
-    "votes": 3,
-    "posted": "Nov 4, 2016 9:03:19 PM"
-  },
-  {
-    "id": "12875559",
-    "timestamp": "Nov 4, 2016 9:15:43 PM",
-    "topic": "2016 Rust Commercial User Survey Results",
-    "url": "https://internals.rust-lang.org/t/2016-rust-commercial-user-survey-results/4317",
-    "votes": 6,
-    "posted": "Nov 4, 2016 8:59:38 PM"
-  },
-  {
-    "id": "12875502",
-    "timestamp": "Nov 4, 2016 9:15:44 PM",
-    "topic": "Peter Thiel Speaks About Support for Trump",
-    "url": "https://www.youtube.com/watch?v\u003daswsnLvtEOA",
-    "votes": 6,
-    "posted": "Nov 4, 2016 8:53:39 PM"
   }
 ];
