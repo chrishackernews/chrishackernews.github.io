@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12939245",
+    "timestamp": "Nov 12, 2016 7:53:53 PM",
+    "topic": "Leaked from NASA: A Rocket Propulsion System That Ejects No Mass",
+    "url": "http://www.theregister.co.uk/2016/11/09/em_drive_tested_by_nasa_works/",
+    "votes": 4,
+    "posted": "Nov 12, 2016 7:18:35 PM"
+  },
+  {
+    "id": "12939232",
+    "timestamp": "Nov 12, 2016 7:53:53 PM",
+    "topic": "Blueprint – A React UI toolkit for the web",
+    "url": "http://blueprintjs.com/",
+    "votes": 14,
+    "posted": "Nov 12, 2016 7:17:01 PM"
+  },
+  {
+    "id": "12939215",
+    "timestamp": "Nov 12, 2016 7:23:50 PM",
+    "topic": "Building better government, Seneca Systems (S16) is hiring",
+    "url": "http://seneca.systems/careers",
+    "votes": 1,
+    "posted": "Nov 12, 2016 7:15:38 PM"
+  },
+  {
+    "id": "12939197",
+    "timestamp": "Nov 12, 2016 7:53:53 PM",
+    "topic": "A river of lost souls runs through western Colorado",
+    "url": "https://www.washingtonpost.com/national/health-science/a-river-of-lost-souls-runs-through-western-colorado/2016/11/03/154fd1a0-8651-11e6-a3ef-f35afb41797f_story.html",
+    "votes": 4,
+    "posted": "Nov 12, 2016 7:12:23 PM"
+  },
+  {
     "id": "12938966",
     "timestamp": "Nov 12, 2016 6:53:47 PM",
     "topic": "Donald Trump’s Election Leaves Angela Merkel as the Liberal West’s Last Defender",
     "url": "http://www.nytimes.com/2016/11/13/world/europe/germany-merkel-trump-election.html",
     "votes": 12,
     "posted": "Nov 12, 2016 6:37:29 PM"
+  },
+  {
+    "id": "12938863",
+    "timestamp": "Nov 12, 2016 7:03:48 PM",
+    "topic": "Rook – Open, Cloud Native, and Universal Distributed Storage in Alpha",
+    "url": "https://github.com/rook/rook",
+    "votes": 5,
+    "posted": "Nov 12, 2016 6:20:16 PM"
   },
   {
     "id": "12938744",
@@ -48,6 +88,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 5:34:23 PM"
   },
   {
+    "id": "12938524",
+    "timestamp": "Nov 12, 2016 7:13:49 PM",
+    "topic": "Probiotics improve cognition in Alzheimer\u0027s patients",
+    "url": "https://www.sciencedaily.com/releases/2016/11/161110162840.htm",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:11:50 PM"
+  },
+  {
     "id": "12938484",
     "timestamp": "Nov 12, 2016 6:23:44 PM",
     "topic": "I will quit my job as a PM to join a coding bootcamp. Am I crazy?",
@@ -63,12 +111,28 @@ var newsArray = [
     "posted": "Nov 12, 2016 4:56:28 PM"
   },
   {
+    "id": "12938358",
+    "timestamp": "Nov 12, 2016 7:43:52 PM",
+    "topic": "Using deep learning to remove glasses from faces",
+    "url": "https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f",
+    "votes": 4,
+    "posted": "Nov 12, 2016 4:41:50 PM"
+  },
+  {
     "id": "12938315",
     "timestamp": "Nov 12, 2016 4:53:35 PM",
     "topic": "China warns Trump against abandoning climate change deal",
     "url": "https://www.ft.com/content/35803636-a82a-11e6-8898-79a99e2a4de6",
     "votes": 6,
     "posted": "Nov 12, 2016 4:34:47 PM"
+  },
+  {
+    "id": "12938295",
+    "timestamp": "Nov 12, 2016 7:53:53 PM",
+    "topic": "Your slow email replies are causing serious anxiety",
+    "url": "http://www.bbc.com/capital/story/20161103-your-slow-email-replies-are-causing-serious-anxiety",
+    "votes": 6,
+    "posted": "Nov 12, 2016 4:32:07 PM"
   },
   {
     "id": "12938269",
@@ -7352,37 +7416,5 @@ var newsArray = [
     "url": "http://www.bbc.com/news/world-europe-37883003",
     "votes": 3,
     "posted": "Nov 5, 2016 7:56:53 PM"
-  },
-  {
-    "id": "12881119",
-    "timestamp": "Nov 5, 2016 8:08:25 PM",
-    "topic": "Chelsea Manning Tried Committing Suicide a Second Time in October",
-    "url": "http://www.nytimes.com/2016/11/05/us/chelsea-manning-tried-committing-suicide-a-second-time-in-october.html",
-    "votes": 10,
-    "posted": "Nov 5, 2016 7:28:14 PM"
-  },
-  {
-    "id": "12880979",
-    "timestamp": "Nov 6, 2016 3:20:05 PM",
-    "topic": "22 years in, Magic: The Gathering is the brainiest it’s ever been (2015)",
-    "url": "http://www.avclub.com/article/22-years-magic-gathering-brainiest-its-ever-been-224197",
-    "votes": 3,
-    "posted": "Nov 5, 2016 7:05:45 PM"
-  },
-  {
-    "id": "12880931",
-    "timestamp": "Nov 5, 2016 7:18:20 PM",
-    "topic": "The Most Expensive Anti-Pattern",
-    "url": "http://m1el.github.io/printf-antipattern",
-    "votes": 4,
-    "posted": "Nov 5, 2016 6:57:38 PM"
-  },
-  {
-    "id": "12880917",
-    "timestamp": "Nov 5, 2016 7:48:23 PM",
-    "topic": "Docker in Production: A retort",
-    "url": "http://patrobinson.github.io/2016/11/05/docker-in-production/",
-    "votes": 8,
-    "posted": "Nov 5, 2016 6:55:29 PM"
   }
 ];
