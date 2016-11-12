@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12938315",
+    "timestamp": "Nov 12, 2016 4:53:35 PM",
+    "topic": "China warns Trump against abandoning climate change deal",
+    "url": "https://www.ft.com/content/35803636-a82a-11e6-8898-79a99e2a4de6",
+    "votes": 6,
+    "posted": "Nov 12, 2016 4:34:47 PM"
+  },
+  {
+    "id": "12938269",
+    "timestamp": "Nov 12, 2016 4:53:35 PM",
+    "topic": "Show HN: A Web-To-RSS Parser in Common Lisp",
+    "url": "https://bitbucket.org/tux_/rssparser.lisp",
+    "votes": 4,
+    "posted": "Nov 12, 2016 4:26:50 PM"
+  },
+  {
     "id": "12937807",
     "timestamp": "Nov 12, 2016 3:03:26 PM",
     "topic": "I’m a Muslim, a woman and an immigrant. I voted for Trump",
@@ -424,6 +440,14 @@ var newsArray = [
     "url": "https://www.engadget.com/2016/11/11/color-binoculars-color-blind-app-free-ios/",
     "votes": 3,
     "posted": "Nov 12, 2016 12:56:28 AM"
+  },
+  {
+    "id": "12935579",
+    "timestamp": "Nov 12, 2016 4:53:35 PM",
+    "topic": "What’s in a Brand name?",
+    "url": "http://www.newyorker.com/magazine/2016/11/14/whats-in-a-brand-name",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:52:10 AM"
   },
   {
     "id": "12935565",
@@ -1390,6 +1414,14 @@ var newsArray = [
     "url": "https://jobs.lever.co/bodyport/994596b9-13c1-4f61-a89f-b4033e233232",
     "votes": 1,
     "posted": "Nov 11, 2016 4:51:37 AM"
+  },
+  {
+    "id": "12927527",
+    "timestamp": "Nov 12, 2016 4:13:32 PM",
+    "topic": "Can We Escape from Time?",
+    "url": "http://www.nybooks.com/articles/2016/11/24/can-we-escape-from-time-james-gleick/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 4:47:15 AM"
   },
   {
     "id": "12927451",
@@ -7343,45 +7375,5 @@ var newsArray = [
     "topic": "Ask HN: How is Windows for developers nowadays?",
     "votes": 5,
     "posted": "Nov 5, 2016 4:57:40 PM"
-  },
-  {
-    "id": "12880203",
-    "timestamp": "Nov 5, 2016 5:07:26 PM",
-    "topic": "A world without the Mac Pro",
-    "url": "https://marco.org/2016/11/05/world-without-mac-pro",
-    "votes": 12,
-    "posted": "Nov 5, 2016 4:43:10 PM"
-  },
-  {
-    "id": "12880176",
-    "timestamp": "Nov 5, 2016 7:28:21 PM",
-    "topic": "Dongle dilemma provokes Apple price cut",
-    "url": "http://www.bbc.co.uk/news/technology-37880723",
-    "votes": 5,
-    "posted": "Nov 5, 2016 4:38:05 PM"
-  },
-  {
-    "id": "12880153",
-    "timestamp": "Nov 5, 2016 7:08:18 PM",
-    "topic": "My first product launches and how they succeeded and failed",
-    "url": "http://jeremyaboyd.com/my-first-product-launches/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 4:33:03 PM"
-  },
-  {
-    "id": "12880050",
-    "timestamp": "Nov 5, 2016 7:08:18 PM",
-    "topic": "Jigsaw",
-    "url": "https://jigsaw.google.com/vision/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 4:09:37 PM"
-  },
-  {
-    "id": "12880013",
-    "timestamp": "Nov 5, 2016 7:08:19 PM",
-    "topic": "Developing a RESTful API with Node and TypeScript",
-    "url": "http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript#.WB30Vf5cA2A.hackernews",
-    "votes": 3,
-    "posted": "Nov 5, 2016 4:01:49 PM"
   }
 ];
