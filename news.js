@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12936658",
+    "timestamp": "Nov 12, 2016 5:52:40 AM",
+    "topic": "Make Hacker News Great Again",
+    "votes": 6,
+    "posted": "Nov 12, 2016 5:47:21 AM"
+  },
+  {
+    "id": "12936524",
+    "timestamp": "Nov 12, 2016 5:52:40 AM",
+    "topic": "Office UI Fabric by Microsoft",
+    "url": "https://dev.office.com/fabric",
+    "votes": 5,
+    "posted": "Nov 12, 2016 5:00:38 AM"
+  },
+  {
+    "id": "12936511",
+    "timestamp": "Nov 12, 2016 5:02:36 AM",
+    "topic": "‘We Couldn’t Believe Our Eyes’: A Lost World of Shipwrecks Is Found",
+    "url": "http://www.nytimes.com/2016/11/12/science/shipwrecks-black-sea-archaeology.html",
+    "votes": 4,
+    "posted": "Nov 12, 2016 4:56:03 AM"
+  },
+  {
     "id": "12936337",
     "timestamp": "Nov 12, 2016 4:32:33 AM",
     "topic": "Finland to Get Rid of All School Subjects",
@@ -157,6 +180,14 @@ var newsArray = [
     "url": "http://mail-archives.apache.org/mod_mbox/www-announce/201611.mbox/%3CCAOOKt51%3D9nAzaUXJZgE5M04JyoZYeD7WdWvan3jAE%3Dz0UD49BA%40mail.gmail.com%3E",
     "votes": 7,
     "posted": "Nov 12, 2016 12:40:32 AM"
+  },
+  {
+    "id": "12935446",
+    "timestamp": "Nov 12, 2016 5:02:36 AM",
+    "topic": "Why I don\u0027t use Gnome Shell",
+    "url": "http://liam-on-linux.livejournal.com/52807.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:31:15 AM"
   },
   {
     "id": "12935417",
@@ -402,6 +433,14 @@ var newsArray = [
     "url": "http://www.vanityfair.com/news/2016/11/the-fall-of-the-house-of-clinton",
     "votes": 3,
     "posted": "Nov 11, 2016 9:14:03 PM"
+  },
+  {
+    "id": "12933866",
+    "timestamp": "Nov 12, 2016 5:32:38 AM",
+    "topic": "World Chess Championship 2016",
+    "url": "http://worldchess.com/nyc2016/",
+    "votes": 3,
+    "posted": "Nov 11, 2016 9:08:46 PM"
   },
   {
     "id": "12933842",
@@ -7306,13 +7345,5 @@ var newsArray = [
     "url": "http://www.yacht-or-knot.com",
     "votes": 4,
     "posted": "Nov 5, 2016 6:28:47 AM"
-  },
-  {
-    "id": "12878135",
-    "timestamp": "Nov 5, 2016 5:26:29 AM",
-    "topic": "A High Schooler\u0027s Re-Design of the Education System",
-    "url": "https://medium.com/@zachcmiel/a-high-schoolers-view-on-the-education-system-9fc85517c8fe#.4p2a9hmde",
-    "votes": 3,
-    "posted": "Nov 5, 2016 5:14:59 AM"
   }
 ];
