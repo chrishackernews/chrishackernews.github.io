@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12940398",
+    "timestamp": "Nov 12, 2016 10:54:09 PM",
+    "topic": "Segment (YC S11) Is Hiring Senior Solutions Engineers in NYC",
+    "url": "https://boards.greenhouse.io/segment/jobs/462268",
+    "votes": 1,
+    "posted": "Nov 12, 2016 10:48:03 PM"
+  },
+  {
+    "id": "12940051",
+    "timestamp": "Nov 12, 2016 10:34:08 PM",
+    "topic": "Ctrl+Z: Silicon Valley Leaders U-turn on Donald Trump",
+    "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?CMP\u003dshare_btn_tw",
+    "votes": 4,
+    "posted": "Nov 12, 2016 9:39:54 PM"
+  },
+  {
     "id": "12939877",
     "timestamp": "Nov 12, 2016 9:54:04 PM",
     "topic": "Silicon Valley frets over foreign worker crackdown",
@@ -30,6 +46,14 @@ var newsArray = [
     "url": "http://qz.com/835850/director-neill-blomkamp-imagines-donald-trumps-air-force-one/",
     "votes": 3,
     "posted": "Nov 12, 2016 8:45:20 PM"
+  },
+  {
+    "id": "12939690",
+    "timestamp": "Nov 12, 2016 10:14:06 PM",
+    "topic": "Sqlite Performance",
+    "url": "http://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite",
+    "votes": 4,
+    "posted": "Nov 12, 2016 8:28:29 PM"
   },
   {
     "id": "12939547",
@@ -7327,53 +7351,5 @@ var newsArray = [
     "topic": "Ask HN: How to escape front end development?",
     "votes": 8,
     "posted": "Nov 5, 2016 11:27:30 PM"
-  },
-  {
-    "id": "12882097",
-    "timestamp": "Nov 5, 2016 11:58:48 PM",
-    "topic": "The Principles Behind Voting Systems",
-    "url": "https://medium.com/@tunesmith/the-principles-behind-voting-systems-65ee7d85f93#.164j5sh0n",
-    "votes": 3,
-    "posted": "Nov 5, 2016 10:51:35 PM"
-  },
-  {
-    "id": "12882084",
-    "timestamp": "Nov 6, 2016 4:49:12 AM",
-    "topic": "Decrypt all authorization tokens on macOS without user authentication",
-    "url": "https://github.com/manwhoami/MMeTokenDecrypt",
-    "votes": 6,
-    "posted": "Nov 5, 2016 10:49:33 PM"
-  },
-  {
-    "id": "12882062",
-    "timestamp": "Nov 6, 2016 2:59:03 AM",
-    "topic": "The Pact Smart-Contract Language [pdf]",
-    "url": "http://kadena.io/docs/Kadena-PactWhitepaper-Oct2016.pdf",
-    "votes": 5,
-    "posted": "Nov 5, 2016 10:44:53 PM"
-  },
-  {
-    "id": "12881980",
-    "timestamp": "Nov 5, 2016 11:28:45 PM",
-    "topic": "How Rom-Coms Undermine Women",
-    "url": "http://www.theatlantic.com/entertainment/archive/2016/11/its-rom-coms-fault-too/505928/?single_page\u003dtrue",
-    "votes": 6,
-    "posted": "Nov 5, 2016 10:27:31 PM"
-  },
-  {
-    "id": "12881961",
-    "timestamp": "Nov 5, 2016 10:38:40 PM",
-    "topic": "The secret world of microwave networks",
-    "url": "http://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
-    "votes": 3,
-    "posted": "Nov 5, 2016 10:23:55 PM"
-  },
-  {
-    "id": "12881947",
-    "timestamp": "Nov 5, 2016 10:48:41 PM",
-    "topic": "Inside NORAD\u0027s Cheyenne Mountain Combat Center",
-    "url": "http://thememoryhole2.org/blog/inside-norad",
-    "votes": 4,
-    "posted": "Nov 5, 2016 10:18:28 PM"
   }
 ];
