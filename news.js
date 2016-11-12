@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12937138",
+    "timestamp": "Nov 12, 2016 9:52:59 AM",
+    "topic": "Smarking (YC W15) Is Hiring Sr. Generalist Engineers in SF",
+    "url": "http://www.smarking.org/",
+    "votes": 1,
+    "posted": "Nov 12, 2016 9:43:05 AM"
+  },
+  {
     "id": "12936891",
     "timestamp": "Nov 12, 2016 8:32:53 AM",
     "topic": "Why is machine learning \u0027hard\u0027?",
@@ -7390,13 +7398,5 @@ var newsArray = [
     "url": "https://alienslike.us/",
     "votes": 4,
     "posted": "Nov 5, 2016 10:40:53 AM"
-  },
-  {
-    "id": "12878706",
-    "timestamp": "Nov 5, 2016 10:06:50 AM",
-    "topic": "I don’t like computers",
-    "url": "https://www.happyassassin.net/2016/11/04/i-dont-like-computers/",
-    "votes": 8,
-    "posted": "Nov 5, 2016 9:07:24 AM"
   }
 ];
