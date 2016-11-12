@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12936337",
+    "timestamp": "Nov 12, 2016 4:32:33 AM",
+    "topic": "Finland to Get Rid of All School Subjects",
+    "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
+    "votes": 4,
+    "posted": "Nov 12, 2016 3:55:00 AM"
+  },
+  {
+    "id": "12936276",
+    "timestamp": "Nov 12, 2016 4:22:33 AM",
+    "topic": "The Southern Strategy",
+    "url": "https://en.wikipedia.org/wiki/Southern_strategy",
+    "votes": 3,
+    "posted": "Nov 12, 2016 3:35:37 AM"
+  },
+  {
+    "id": "12936249",
+    "timestamp": "Nov 12, 2016 4:02:31 AM",
+    "topic": "Feds Can Unlock Most Devices They Need to Get Into, FBI Admits",
+    "url": "https://motherboard.vice.com/read/feds-can-unlock-most-devices-they-need-to-get-into-fbi-admits",
+    "votes": 3,
+    "posted": "Nov 12, 2016 3:28:47 AM"
+  },
+  {
     "id": "12936243",
     "timestamp": "Nov 12, 2016 3:52:30 AM",
     "topic": "Show HN: Did Donald do it? Tracking Trump\u0027s promises",
@@ -165,6 +189,14 @@ var newsArray = [
     "url": "http://www.reuters.com/article/us-chess-world-lawsuit-idUSKBN13600V",
     "votes": 6,
     "posted": "Nov 11, 2016 11:56:52 PM"
+  },
+  {
+    "id": "12935244",
+    "timestamp": "Nov 12, 2016 4:12:32 AM",
+    "topic": "The Linux Foundation Renews Funding for Reproducible Builds Project",
+    "url": "https://www.coreinfrastructure.org/news/announcements/2016/11/linux-foundations-core-infrastructure-initiative-renews-funding",
+    "votes": 3,
+    "posted": "Nov 11, 2016 11:52:39 PM"
   },
   {
     "id": "12935216",
@@ -7282,37 +7314,5 @@ var newsArray = [
     "url": "https://medium.com/@zachcmiel/a-high-schoolers-view-on-the-education-system-9fc85517c8fe#.4p2a9hmde",
     "votes": 3,
     "posted": "Nov 5, 2016 5:14:59 AM"
-  },
-  {
-    "id": "12878020",
-    "timestamp": "Nov 5, 2016 6:16:33 AM",
-    "topic": "Google’s Chrome Hackers Are About to Upend Your Idea of Web Security",
-    "url": "https://www.wired.com/2016/11/googles-chrome-hackers-flip-webs-security-model/all/1#slide-1",
-    "votes": 3,
-    "posted": "Nov 5, 2016 4:40:08 AM"
-  },
-  {
-    "id": "12877945",
-    "timestamp": "Nov 5, 2016 4:46:25 AM",
-    "topic": "Building a Deep Learning Powered GIF Search Engine",
-    "url": "https://medium.com/@zan2434/building-a-deep-learning-powered-gif-search-engine-a3eb309d7525",
-    "votes": 4,
-    "posted": "Nov 5, 2016 4:12:37 AM"
-  },
-  {
-    "id": "12877931",
-    "timestamp": "Nov 5, 2016 7:58:24 PM",
-    "topic": "Why Is Washington Still Pushing the Trans-Pacific Partnership?",
-    "url": "https://www.thenation.com/article/why-is-washington-still-pushing-the-trans-pacific-partnership/",
-    "votes": 6,
-    "posted": "Nov 5, 2016 4:09:03 AM"
-  },
-  {
-    "id": "12877916",
-    "timestamp": "Nov 5, 2016 4:56:27 AM",
-    "topic": "Watch a drone hack a room full of smart lightbulbs from outside the window",
-    "url": "http://www.theverge.com/2016/11/3/13507126/iot-drone-hack",
-    "votes": 3,
-    "posted": "Nov 5, 2016 3:59:07 AM"
   }
 ];
