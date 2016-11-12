@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12939547",
+    "timestamp": "Nov 12, 2016 8:53:58 PM",
+    "topic": "HyperNormalisation by Adam Curtis",
+    "url": "https://www.youtube.com/watch?v\u003dnz6u7xRznjY",
+    "votes": 3,
+    "posted": "Nov 12, 2016 8:04:22 PM"
+  },
+  {
     "id": "12939245",
     "timestamp": "Nov 12, 2016 7:53:53 PM",
     "topic": "Leaked from NASA: A Rocket Propulsion System That Ejects No Mass",
     "url": "http://www.theregister.co.uk/2016/11/09/em_drive_tested_by_nasa_works/",
     "votes": 4,
     "posted": "Nov 12, 2016 7:18:35 PM"
+  },
+  {
+    "id": "12939238",
+    "timestamp": "Nov 12, 2016 8:23:56 PM",
+    "topic": "When Not to Translate",
+    "url": "http://www.newyorker.com/humor/borowitz-report/trump-confirms-that-he-just-googled-obamacare?mbid\u003dsocial_twitter",
+    "votes": 3,
+    "posted": "Nov 12, 2016 7:17:46 PM"
   },
   {
     "id": "12939232",
@@ -62,6 +78,14 @@ var newsArray = [
     "url": "http://incoherency.co.uk/blog/stories/how-to-accept-bitcoin-payments.html",
     "votes": 3,
     "posted": "Nov 12, 2016 5:55:21 PM"
+  },
+  {
+    "id": "12938727",
+    "timestamp": "Nov 12, 2016 8:43:57 PM",
+    "topic": "Clifford Algebra: A visual introduction (2014)",
+    "url": "https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/",
+    "votes": 4,
+    "posted": "Nov 12, 2016 5:53:05 PM"
   },
   {
     "id": "12938712",
@@ -7320,101 +7344,5 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/tech-jobs-cheaper-housing-the-new-silicon-cities-1478181842",
     "votes": 3,
     "posted": "Nov 5, 2016 8:57:06 PM"
-  },
-  {
-    "id": "12881537",
-    "timestamp": "Nov 5, 2016 10:18:38 PM",
-    "topic": "The end of the operating systen",
-    "url": "http://www.morethanseven.net/2016/11/05/the-end-of-the-general-purpose-operating-system-as-it-happens/",
-    "votes": 6,
-    "posted": "Nov 5, 2016 8:49:47 PM"
-  },
-  {
-    "id": "12881448",
-    "timestamp": "Nov 6, 2016 5:00:15 PM",
-    "topic": "The Cinematic Traumas of Kenneth Lonergan",
-    "url": "http://www.newyorker.com/magazine/2016/11/07/the-cinematic-traumas-of-kenneth-lonergan",
-    "votes": 4,
-    "posted": "Nov 5, 2016 8:29:46 PM"
-  },
-  {
-    "id": "12881447",
-    "timestamp": "Nov 6, 2016 8:59:32 AM",
-    "topic": "The NES Classic Edition Is Everything You Want It to Be",
-    "url": "http://gizmodo.com/the-nes-classic-edition-is-everything-you-want-it-to-be-1788571481?utm_campaign\u003dsocialflow_gizmodo_twitter\u0026utm_source\u003dgizmodo_twitter\u0026utm_medium\u003dsocialflow",
-    "votes": 3,
-    "posted": "Nov 5, 2016 8:29:40 PM"
-  },
-  {
-    "id": "12881432",
-    "timestamp": "Nov 5, 2016 9:58:36 PM",
-    "topic": "You Don’t Need a Master Plan You Just Need to Start",
-    "url": "https://medium.com/@bryce/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#---0-123.6aya1lb3c",
-    "votes": 3,
-    "posted": "Nov 5, 2016 8:26:17 PM"
-  },
-  {
-    "id": "12881420",
-    "timestamp": "Nov 5, 2016 8:28:27 PM",
-    "topic": "Build a Legacy: The Muse (YC W12) Is Hiring a PM for Data and Analytics",
-    "url": "https://www.themuse.com/jobs/themuse/product-manager-data-analytics-8b97af",
-    "votes": 1,
-    "posted": "Nov 5, 2016 8:25:00 PM"
-  },
-  {
-    "id": "12881408",
-    "timestamp": "Nov 5, 2016 8:48:29 PM",
-    "topic": "The Model 3 Will Incorporate Tesla’s Solar Roof Technology: Elon Musk",
-    "url": "http://futurism.com/elon-musk-the-model-3-will-incorporate-teslas-solar-roof-technology/",
-    "votes": 3,
-    "posted": "Nov 5, 2016 8:22:19 PM"
-  },
-  {
-    "id": "12881407",
-    "timestamp": "Nov 5, 2016 9:48:35 PM",
-    "topic": "Procedural Dungeon Generation: A Drunkard\u0027s Walk in ClojureScript",
-    "url": "http://blog.jrheard.com/procedural-dungeon-generation-drunkards-walk-in-clojurescript",
-    "votes": 4,
-    "posted": "Nov 5, 2016 8:22:06 PM"
-  },
-  {
-    "id": "12881395",
-    "timestamp": "Nov 5, 2016 8:58:30 PM",
-    "topic": "Why 2016 is such a terrible year for the Mac",
-    "url": "http://www.macworld.com/article/3138087/macs/why-2016-is-such-a-terrible-year-for-the-mac.html",
-    "votes": 4,
-    "posted": "Nov 5, 2016 8:20:14 PM"
-  },
-  {
-    "id": "12881353",
-    "timestamp": "Nov 6, 2016 1:48:58 AM",
-    "topic": "Revisiting why incompetents think they’re awesome",
-    "url": "http://arstechnica.com/science/2016/11/revisiting-why-incompetents-think-theyre-awesome/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 8:12:05 PM"
-  },
-  {
-    "id": "12881313",
-    "timestamp": "Nov 7, 2016 2:51:16 AM",
-    "topic": "\u0027We are all Thomas More’s children’ – 500 years of Utopia",
-    "url": "https://www.theguardian.com/books/2016/nov/04/thomas-more-utopia-500-years-china-mieville-ursula-le-guin",
-    "votes": 3,
-    "posted": "Nov 5, 2016 8:02:42 PM"
-  },
-  {
-    "id": "12881288",
-    "timestamp": "Nov 6, 2016 6:30:24 PM",
-    "topic": "Crocker\u0027s rules",
-    "url": "https://wiki.lesswrong.com/wiki/Crocker%27s_rules",
-    "votes": 3,
-    "posted": "Nov 5, 2016 7:57:52 PM"
-  },
-  {
-    "id": "12881283",
-    "timestamp": "Nov 6, 2016 3:49:07 AM",
-    "topic": "Giant snowballs appear on Russian beach in Siberia",
-    "url": "http://www.bbc.com/news/world-europe-37883003",
-    "votes": 3,
-    "posted": "Nov 5, 2016 7:56:53 PM"
   }
 ];
