@@ -1,11 +1,90 @@
 var newsArray = [
   {
+    "id": "12936243",
+    "timestamp": "Nov 12, 2016 3:52:30 AM",
+    "topic": "Show HN: Did Donald do it? Tracking Trump\u0027s promises",
+    "url": "https://www.diddonalddoit.com/",
+    "votes": 5,
+    "posted": "Nov 12, 2016 3:27:53 AM"
+  },
+  {
+    "id": "12936234",
+    "timestamp": "Nov 12, 2016 3:32:28 AM",
+    "topic": "GrubHub CEO Matthew M. Maloney Sells 14,491 Shares of Stock",
+    "url": "https://baseballnewssource.com/markets/grubhub-inc-grub-ceo-matthew-m-maloney-sells-14491-shares-of-stock/212741.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 3:25:48 AM"
+  },
+  {
+    "id": "12936123",
+    "timestamp": "Nov 12, 2016 3:02:25 AM",
+    "topic": "Relativity (YC W16) Is Hiring a Lead Weld Engineer/Metallurgist (LA)",
+    "url": "https://jobs.lever.co/relativityspace/e79a5673-3ec0-43a7-97b3-6e21be729d1a",
+    "votes": 1,
+    "posted": "Nov 12, 2016 2:56:48 AM"
+  },
+  {
+    "id": "12936078",
+    "timestamp": "Nov 12, 2016 3:02:25 AM",
+    "topic": "A Time to Act: Some Suggestions for Silicon Valley",
+    "url": "https://kevnull.com/a-time-to-act-d6f068ef0d70",
+    "votes": 9,
+    "posted": "Nov 12, 2016 2:45:39 AM"
+  },
+  {
+    "id": "12936061",
+    "timestamp": "Nov 12, 2016 3:32:28 AM",
+    "topic": "Codehash.db: a public database of software and firmware hashes",
+    "url": "https://github.com/rootkovska/codehash.db",
+    "votes": 5,
+    "posted": "Nov 12, 2016 2:41:13 AM"
+  },
+  {
     "id": "12936032",
     "timestamp": "Nov 12, 2016 2:52:24 AM",
     "topic": "[Whitestorm.js] Creating a basic sphere that falls down on the plane",
     "url": "http://whsjs.io/#/api/basic",
     "votes": 5,
     "posted": "Nov 12, 2016 2:32:53 AM"
+  },
+  {
+    "id": "12936005",
+    "timestamp": "Nov 12, 2016 3:02:25 AM",
+    "topic": "Professor Who Called Trump’s Win Predicts Trump Will Be Impeached",
+    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/11/prediction-professor-who-called-trumps-big-win-also-made-another-forecast-trump-will-be-impeached/",
+    "votes": 6,
+    "posted": "Nov 12, 2016 2:26:25 AM"
+  },
+  {
+    "id": "12935953",
+    "timestamp": "Nov 12, 2016 3:02:26 AM",
+    "topic": "Trump Says He May Keep Parts of Obama Health Care Act",
+    "url": "http://www.nytimes.com/2016/11/12/business/insurers-unprepared-for-obamacare-repeal.html",
+    "votes": 5,
+    "posted": "Nov 12, 2016 2:10:30 AM"
+  },
+  {
+    "id": "12935935",
+    "timestamp": "Nov 12, 2016 3:32:28 AM",
+    "topic": "Ask HN: Question for Parents of HN",
+    "votes": 4,
+    "posted": "Nov 12, 2016 2:05:03 AM"
+  },
+  {
+    "id": "12935930",
+    "timestamp": "Nov 12, 2016 3:12:26 AM",
+    "topic": "Show HN: Hearthstone-like card game builder for humans",
+    "url": "https://dulst.com",
+    "votes": 3,
+    "posted": "Nov 12, 2016 2:04:44 AM"
+  },
+  {
+    "id": "12935922",
+    "timestamp": "Nov 12, 2016 3:42:29 AM",
+    "topic": "Nonlinear climate sensitivity and its implications for future greenhouse warming",
+    "url": "http://advances.sciencemag.org/content/2/11/e1501923.full",
+    "votes": 3,
+    "posted": "Nov 12, 2016 2:02:26 AM"
   },
   {
     "id": "12935805",
@@ -7235,28 +7314,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/3/13507126/iot-drone-hack",
     "votes": 3,
     "posted": "Nov 5, 2016 3:59:07 AM"
-  },
-  {
-    "id": "12877902",
-    "timestamp": "Nov 5, 2016 5:26:30 AM",
-    "topic": "Vim celebrates 25 years",
-    "url": "https://opensource.com/life/16/11/happy-birthday-vim-25",
-    "votes": 4,
-    "posted": "Nov 5, 2016 3:50:36 AM"
-  },
-  {
-    "id": "12877875",
-    "timestamp": "Nov 5, 2016 4:56:27 AM",
-    "topic": "Switching from macOS: Hardware",
-    "url": "http://blog.elementary.io/post/152750962276/switching-from-macos-hardware",
-    "votes": 3,
-    "posted": "Nov 5, 2016 3:43:23 AM"
-  },
-  {
-    "id": "12877784",
-    "timestamp": "Nov 5, 2016 3:17:14 PM",
-    "topic": "Ask HN: What are you thinking about your personal goals in 2017?",
-    "votes": 5,
-    "posted": "Nov 5, 2016 3:19:40 AM"
   }
 ];
