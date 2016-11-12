@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12935495",
+    "timestamp": "Nov 12, 2016 12:52:14 AM",
+    "topic": "Apache Solr 6.3.0 released",
+    "url": "http://mail-archives.apache.org/mod_mbox/www-announce/201611.mbox/%3CCAOOKt51%3D9nAzaUXJZgE5M04JyoZYeD7WdWvan3jAE%3Dz0UD49BA%40mail.gmail.com%3E",
+    "votes": 7,
+    "posted": "Nov 12, 2016 12:40:32 AM"
+  },
+  {
+    "id": "12935362",
+    "timestamp": "Nov 12, 2016 12:32:12 AM",
+    "topic": "Nintendowned: Amazon sells out of the NES Classic Edition in (null) seconds",
+    "url": "https://techcrunch.com/2016/11/11/nintendowned-amazon-sells-out-of-nes-classic-editions-in-null-seconds/",
+    "votes": 4,
+    "posted": "Nov 12, 2016 12:15:24 AM"
+  },
+  {
+    "id": "12935264",
+    "timestamp": "Nov 12, 2016 12:12:10 AM",
+    "topic": "U.S. judge: websites OK to publish moves from World Chess Championship",
+    "url": "http://www.reuters.com/article/us-chess-world-lawsuit-idUSKBN13600V",
+    "votes": 6,
+    "posted": "Nov 11, 2016 11:56:52 PM"
+  },
+  {
+    "id": "12935216",
+    "timestamp": "Nov 12, 2016 12:32:12 AM",
+    "topic": "Why did ProtonMail vanish from Google search results for months?",
+    "url": "https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/",
+    "votes": 11,
+    "posted": "Nov 11, 2016 11:49:33 PM"
+  },
+  {
     "id": "12934915",
     "timestamp": "Nov 11, 2016 11:12:05 PM",
     "topic": "Streak (YC S11) Hiring a Senior Back End Engineer",
@@ -24,6 +56,14 @@ var newsArray = [
     "posted": "Nov 11, 2016 10:55:51 PM"
   },
   {
+    "id": "12934795",
+    "timestamp": "Nov 12, 2016 12:22:11 AM",
+    "topic": "History Tells Us What Will Happen Next with Brexit and Trump",
+    "url": "http://www.huffingtonpost.com/tobias-stone/history-tells-us-what-will-brexit-trump_b_11179774.html?",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:52:24 PM"
+  },
+  {
     "id": "12934759",
     "timestamp": "Nov 11, 2016 11:12:06 PM",
     "topic": "Trump\u0027s opposition to H-1B visas has experts concerned",
@@ -38,6 +78,14 @@ var newsArray = [
     "url": "https://action.aclu.org/secure/timetofight",
     "votes": 4,
     "posted": "Nov 11, 2016 10:39:28 PM"
+  },
+  {
+    "id": "12934634",
+    "timestamp": "Nov 12, 2016 12:52:14 AM",
+    "topic": "Trump Wants to Keep Parts of ACA: Pre-Existing Conditions and Coverage to Age 27",
+    "url": "http://www.wsj.com/articles/donald-trump-willing-to-keep-parts-of-health-law-1478895339",
+    "votes": 7,
+    "posted": "Nov 11, 2016 10:37:49 PM"
   },
   {
     "id": "12934493",
@@ -7204,60 +7252,5 @@ var newsArray = [
     "url": "https://github.com/nasa",
     "votes": 6,
     "posted": "Nov 5, 2016 1:00:04 AM"
-  },
-  {
-    "id": "12877169",
-    "timestamp": "Nov 5, 2016 2:26:13 AM",
-    "topic": "An online Jinja2 template renderer",
-    "url": "http://jinja2test.tk/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 12:46:06 AM"
-  },
-  {
-    "id": "12877164",
-    "timestamp": "Nov 5, 2016 4:46:26 AM",
-    "topic": "Ask HN: Do You OK Google or Hey Siri in Public?",
-    "votes": 4,
-    "posted": "Nov 5, 2016 12:45:04 AM"
-  },
-  {
-    "id": "12877071",
-    "timestamp": "Nov 5, 2016 1:26:08 AM",
-    "topic": "Kickstarter Campaign Produces Large Affordable CNC Cutting Machine",
-    "url": "http://www.archdaily.com/798562/kickstarter-campaign-produces-large-affordable-cnc-cutting-machine",
-    "votes": 3,
-    "posted": "Nov 5, 2016 12:25:01 AM"
-  },
-  {
-    "id": "12877068",
-    "timestamp": "Nov 5, 2016 2:16:12 AM",
-    "topic": "What Modern Democracies Didn’t Copy from Ancient Greece",
-    "url": "http://news.nationalgeographic.com/2016/11/greek-ancient-origins-modern-politics/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 12:24:28 AM"
-  },
-  {
-    "id": "12877045",
-    "timestamp": "Nov 5, 2016 12:36:04 AM",
-    "topic": "Elementary Blog – Switching from MacOS: Developer Environment",
-    "url": "http://blog.elementary.io/post/152671475281/switching-from-macos-developer-environment",
-    "votes": 5,
-    "posted": "Nov 5, 2016 12:19:27 AM"
-  },
-  {
-    "id": "12877012",
-    "timestamp": "Nov 7, 2016 3:21:18 AM",
-    "topic": "Forget self-driving car anxiety: In the early days human drivers were the fear",
-    "url": "https://timeline.com/forget-self-driving-car-anxiety-in-the-early-days-human-drivers-were-the-fear-55a770262c10#.vf6ekg4kz",
-    "votes": 3,
-    "posted": "Nov 5, 2016 12:13:58 AM"
-  },
-  {
-    "id": "12876892",
-    "timestamp": "Nov 5, 2016 4:16:22 AM",
-    "topic": "Turbo.js – Dead Simple GPGPU for the Web",
-    "url": "https://turbo.github.io/",
-    "votes": 9,
-    "posted": "Nov 4, 2016 11:55:15 PM"
   }
 ];
