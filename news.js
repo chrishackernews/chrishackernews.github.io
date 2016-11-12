@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12936032",
+    "timestamp": "Nov 12, 2016 2:52:24 AM",
+    "topic": "[Whitestorm.js] Creating a basic sphere that falls down on the plane",
+    "url": "http://whsjs.io/#/api/basic",
+    "votes": 5,
+    "posted": "Nov 12, 2016 2:32:53 AM"
+  },
+  {
+    "id": "12935805",
+    "timestamp": "Nov 12, 2016 2:02:20 AM",
+    "topic": "Google Pixel pwned in 60 seconds",
+    "url": "http://www.theregister.co.uk/2016/11/11/google_pixel_pwned_in_60_seconds/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 1:36:39 AM"
+  },
+  {
+    "id": "12935804",
+    "timestamp": "Nov 12, 2016 2:02:20 AM",
+    "topic": "China launches pulsar navigation satellite",
+    "url": "http://timesofindia.indiatimes.com/world/china/China-launches-pulsar-navigation-satellite/articleshow/55347011.cms",
+    "votes": 3,
+    "posted": "Nov 12, 2016 1:36:12 AM"
+  },
+  {
     "id": "12935651",
     "timestamp": "Nov 12, 2016 1:12:15 AM",
     "topic": "Peter Thiel joins Trump\u0027s transition team",
@@ -88,6 +112,13 @@ var newsArray = [
     "posted": "Nov 11, 2016 11:04:24 PM"
   },
   {
+    "id": "12934882",
+    "timestamp": "Nov 12, 2016 2:22:22 AM",
+    "topic": "Show HN: The Lean Party",
+    "votes": 3,
+    "posted": "Nov 11, 2016 11:01:19 PM"
+  },
+  {
     "id": "12934835",
     "timestamp": "Nov 11, 2016 11:12:05 PM",
     "topic": "‘I had it easy: I was never beaten’: fighting segregation in the US south",
@@ -110,6 +141,14 @@ var newsArray = [
     "url": "http://www.techrepublic.com/article/trumps-opposition-to-h-1b-visas-has-experts-concerned-about-filling-high-skilled-jobs/?linkId\u003d31056932",
     "votes": 4,
     "posted": "Nov 11, 2016 10:47:38 PM"
+  },
+  {
+    "id": "12934692",
+    "timestamp": "Nov 12, 2016 2:02:20 AM",
+    "topic": "Fooled by Randomness, with the Narrative to Prove It",
+    "url": "http://ritholtz.com/2016/11/fooled-randomness-narrative-prove/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+TheBigPicture+%28The+Big+Picture%29",
+    "votes": 3,
+    "posted": "Nov 11, 2016 10:42:01 PM"
   },
   {
     "id": "12934649",
@@ -141,6 +180,14 @@ var newsArray = [
     "url": "http://billmoyers.com/story/farewell-america/",
     "votes": 4,
     "posted": "Nov 11, 2016 10:23:48 PM"
+  },
+  {
+    "id": "12934423",
+    "timestamp": "Nov 12, 2016 2:02:20 AM",
+    "topic": "Snapchat Spectacles – here\u0027s what it\u0027s like",
+    "url": "https://www.cnet.com/products/snapchat-spectacles/preview/",
+    "votes": 4,
+    "posted": "Nov 11, 2016 10:18:56 PM"
   },
   {
     "id": "12934420",
@@ -7211,69 +7258,5 @@ var newsArray = [
     "topic": "Ask HN: What are you thinking about your personal goals in 2017?",
     "votes": 5,
     "posted": "Nov 5, 2016 3:19:40 AM"
-  },
-  {
-    "id": "12877687",
-    "timestamp": "Nov 5, 2016 4:36:24 AM",
-    "topic": "Fuck you, Debian",
-    "url": "https://medium.com/broken-window/fuck-you-debian-ebe8cede37ed#.9d317qa1x",
-    "votes": 4,
-    "posted": "Nov 5, 2016 2:47:40 AM"
-  },
-  {
-    "id": "12877649",
-    "timestamp": "Nov 5, 2016 4:46:26 AM",
-    "topic": "Regex that only matches itself",
-    "url": "http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself/31863?stw\u003d2#31863",
-    "votes": 5,
-    "posted": "Nov 5, 2016 2:38:33 AM"
-  },
-  {
-    "id": "12877630",
-    "timestamp": "Nov 5, 2016 4:36:24 AM",
-    "topic": "Asking People If They Need a Cellphone in 1999",
-    "url": "https://www.youtube.com/watch?v\u003dmDx4UXcAFC8",
-    "votes": 3,
-    "posted": "Nov 5, 2016 2:32:54 AM"
-  },
-  {
-    "id": "12877622",
-    "timestamp": "Nov 5, 2016 10:26:52 AM",
-    "topic": "Germany probes Mark Zuckerberg over Facebook\u0027s failure to remove content",
-    "url": "http://www.telegraph.co.uk/news/2016/11/04/germany-probes-mark-zuckerberg-over-facebooks-failure-to-remove/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 2:31:32 AM"
-  },
-  {
-    "id": "12877607",
-    "timestamp": "Nov 6, 2016 2:19:59 PM",
-    "topic": "Design legend Milton Glaser: “Design has nothing to do with art”",
-    "url": "http://qz.com/823204/graphic-design-legend-milton-glaser-dispels-a-universal-misunderstanding-of-design-and-art/",
-    "votes": 5,
-    "posted": "Nov 5, 2016 2:26:30 AM"
-  },
-  {
-    "id": "12877576",
-    "timestamp": "Nov 5, 2016 2:26:13 AM",
-    "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
-    "url": "https://lob.com/careers/48029",
-    "votes": 1,
-    "posted": "Nov 5, 2016 2:19:48 AM"
-  },
-  {
-    "id": "12877568",
-    "timestamp": "Nov 5, 2016 4:56:27 AM",
-    "topic": "Introducing FlyWeb from Mozilla - Local Area Web Servers",
-    "url": "https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html",
-    "votes": 7,
-    "posted": "Nov 5, 2016 2:15:53 AM"
-  },
-  {
-    "id": "12877562",
-    "timestamp": "Nov 5, 2016 2:36:14 AM",
-    "topic": "Isaac Newton\u0027s Principia Mathematica Reissued",
-    "url": "https://www.kickstarter.com/projects/1174653512/isaac-newtons-principia-mathematica-reissue",
-    "votes": 3,
-    "posted": "Nov 5, 2016 2:14:02 AM"
   }
 ];
