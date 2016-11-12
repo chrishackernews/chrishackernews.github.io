@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12937465",
+    "timestamp": "Nov 12, 2016 1:33:19 PM",
+    "topic": "The Scientist Who Helped Amy Adams Talk to Aliens in “Arrival”",
+    "url": "http://nautil.us/blog/the-scientist-who-helped-amy-adams-talk-to-aliens-in-arrival",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:28:16 PM"
+  },
+  {
+    "id": "12937456",
+    "timestamp": "Nov 12, 2016 1:23:18 PM",
+    "topic": "NES Classic Mini boot image dump method via UART and USB",
+    "url": "https://translate.google.com/translate?sl\u003dja\u0026tl\u003den\u0026js\u003dy\u0026prev\u003d_t\u0026hl\u003den\u0026ie\u003dUTF-8\u0026u\u003dhttps%3A%2F%2Fwww.ns-koubou.com%2Fblog%2F2016%2F11%2F11%2Fnes_classic%2F\u0026edit-text\u003d",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:23:01 PM"
+  },
+  {
+    "id": "12937441",
+    "timestamp": "Nov 12, 2016 1:23:18 PM",
+    "topic": "Donald Trump Could Put Climate Change on Course for ‘Danger Zone’",
+    "url": "http://www.nytimes.com/2016/11/11/us/politics/donald-trump-climate-change.html",
+    "votes": 4,
+    "posted": "Nov 12, 2016 12:15:20 PM"
+  },
+  {
     "id": "12937420",
     "timestamp": "Nov 12, 2016 12:53:15 PM",
     "topic": "I’m Arab and Many of Us Are Glad That Trump Won",
     "url": "https://medium.com/@omarkamel/im-arab-and-many-of-us-are-glad-that-trump-won-c98e1c6ae891#.do345jz6r",
     "votes": 4,
     "posted": "Nov 12, 2016 12:06:04 PM"
+  },
+  {
+    "id": "12937418",
+    "timestamp": "Nov 12, 2016 1:13:17 PM",
+    "topic": "Stallman: Why it is important not to have children (2012)",
+    "url": "https://stallman.org/articles/children.html",
+    "votes": 5,
+    "posted": "Nov 12, 2016 12:05:41 PM"
+  },
+  {
+    "id": "12937221",
+    "timestamp": "Nov 12, 2016 1:53:20 PM",
+    "topic": "Alibaba Singles Day event sales totaled $17.8B, up more than 24%",
+    "url": "http://www.marketwatch.com/story/apple-nike-and-playboy-among-most-popular-us-brands-on-alibabas-singles-day-2016-11-11",
+    "votes": 4,
+    "posted": "Nov 12, 2016 10:39:51 AM"
+  },
+  {
+    "id": "12937183",
+    "timestamp": "Nov 12, 2016 1:13:17 PM",
+    "topic": "Analyzing Emotions Using Facial Expressions in Video with Microsoft AI and R",
+    "url": "https://blog.exploratory.io/analyzing-emotions-using-facial-expressions-in-video-with-microsoft-ai-and-r-8f7585dd0780",
+    "votes": 4,
+    "posted": "Nov 12, 2016 10:05:03 AM"
   },
   {
     "id": "12937138",
@@ -22,6 +70,14 @@ var newsArray = [
     "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
     "votes": 3,
     "posted": "Nov 12, 2016 8:26:31 AM"
+  },
+  {
+    "id": "12937003",
+    "timestamp": "Nov 12, 2016 1:13:17 PM",
+    "topic": "Finnish alcohol monopoly Alko to deploy booze trucks",
+    "url": "http://metropolitan.fi/entry/finnish-alcohol-monopoly-alko-to-deploy-booze-trucks",
+    "votes": 3,
+    "posted": "Nov 12, 2016 8:23:02 AM"
   },
   {
     "id": "12936891",
@@ -7304,45 +7360,5 @@ var newsArray = [
     "url": "http://www.love-is-korea.com/#love-korea",
     "votes": 4,
     "posted": "Nov 5, 2016 2:22:55 PM"
-  },
-  {
-    "id": "12879510",
-    "timestamp": "Nov 5, 2016 7:08:19 PM",
-    "topic": "You Don’t Need Big Data – You Need the Right Data",
-    "url": "https://hbr.org/2016/11/you-dont-need-big-data-you-need-the-right-data",
-    "votes": 3,
-    "posted": "Nov 5, 2016 1:40:49 PM"
-  },
-  {
-    "id": "12879470",
-    "timestamp": "Nov 5, 2016 3:37:16 PM",
-    "topic": "Cartoon Laws of Physics",
-    "url": "http://www.dgp.toronto.edu/~karan/courses/csc2529/cartoonlaw.htm",
-    "votes": 5,
-    "posted": "Nov 5, 2016 1:27:50 PM"
-  },
-  {
-    "id": "12879464",
-    "timestamp": "Nov 5, 2016 1:57:08 PM",
-    "topic": "Show HN: Cloud Commander orthodox web file manager with console and editor",
-    "url": "https://cloudcmd.io",
-    "votes": 3,
-    "posted": "Nov 5, 2016 1:26:03 PM"
-  },
-  {
-    "id": "12879419",
-    "timestamp": "Nov 5, 2016 3:17:14 PM",
-    "topic": "Watching Larry Ellison Become Larry Ellison",
-    "url": "https://steveblank.com/2014/09/25/watching-larry-ellison-become-larry-ellison-the-dna-of-a-winner/",
-    "votes": 7,
-    "posted": "Nov 5, 2016 1:11:58 PM"
-  },
-  {
-    "id": "12879398",
-    "timestamp": "Nov 6, 2016 3:50:08 PM",
-    "topic": "The Pac-Man Dossier",
-    "url": "http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print\u003d1",
-    "votes": 4,
-    "posted": "Nov 5, 2016 1:05:49 PM"
   }
 ];
