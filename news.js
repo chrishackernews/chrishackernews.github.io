@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12937807",
+    "timestamp": "Nov 12, 2016 3:03:26 PM",
+    "topic": "I’m a Muslim, a woman and an immigrant. I voted for Trump",
+    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2016/11/10/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump",
+    "votes": 4,
+    "posted": "Nov 12, 2016 2:57:10 PM"
+  },
+  {
     "id": "12937717",
     "timestamp": "Nov 12, 2016 2:33:24 PM",
     "topic": "Flexport is hiring for pretty much everything",
     "url": "https://flexport.com/careers",
     "votes": 1,
     "posted": "Nov 12, 2016 2:29:23 PM"
+  },
+  {
+    "id": "12937676",
+    "timestamp": "Nov 12, 2016 3:13:27 PM",
+    "topic": "Next EPA chief does not believe in climate change, aligned with coal industry",
+    "url": "http://www.nytimes.com/2016/11/12/science/myron-ebell-trump-epa.html",
+    "votes": 6,
+    "posted": "Nov 12, 2016 2:17:01 PM"
   },
   {
     "id": "12937658",
@@ -134,6 +150,14 @@ var newsArray = [
     "url": "http://www.inc.com/suzanne-lucas/no-you-cant-fire-people-for-voting-trump.html",
     "votes": 5,
     "posted": "Nov 12, 2016 7:13:09 AM"
+  },
+  {
+    "id": "12936797",
+    "timestamp": "Nov 12, 2016 3:33:29 PM",
+    "topic": "Show HN: Header-only, extensible C++17 argument parser",
+    "url": "https://github.com/sailormoon/flags",
+    "votes": 5,
+    "posted": "Nov 12, 2016 6:51:59 AM"
   },
   {
     "id": "12936782",
@@ -384,6 +408,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/11/13602026/peter-thiel-trump-transition-team-facebook",
     "votes": 3,
     "posted": "Nov 12, 2016 1:06:59 AM"
+  },
+  {
+    "id": "12935643",
+    "timestamp": "Nov 12, 2016 3:13:27 PM",
+    "topic": "Full-body reading",
+    "url": "https://aeon.co/essays/how-a-medieval-mystic-was-the-first-creator-of-fanfiction",
+    "votes": 3,
+    "posted": "Nov 12, 2016 1:06:08 AM"
   },
   {
     "id": "12935604",
@@ -7351,69 +7383,5 @@ var newsArray = [
     "url": "http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript#.WB30Vf5cA2A.hackernews",
     "votes": 3,
     "posted": "Nov 5, 2016 4:01:49 PM"
-  },
-  {
-    "id": "12879959",
-    "timestamp": "Nov 5, 2016 4:27:22 PM",
-    "topic": "Samsung recalls 2.8m washing machines after reports of explosions",
-    "url": "https://www.theguardian.com/technology/2016/nov/04/samsung-washing-machine-recall-explosion-risk",
-    "votes": 3,
-    "posted": "Nov 5, 2016 3:48:51 PM"
-  },
-  {
-    "id": "12879942",
-    "timestamp": "Nov 6, 2016 3:09:04 AM",
-    "topic": "1965 Science advisory report on climate-environment [pdf]",
-    "url": "http://dge.stanford.edu/labs/caldeiralab/Caldeira%20downloads/PSAC,%201965,%20Restoring%20the%20Quality%20of%20Our%20Environment.pdf",
-    "votes": 4,
-    "posted": "Nov 5, 2016 3:43:46 PM"
-  },
-  {
-    "id": "12879937",
-    "timestamp": "Nov 6, 2016 12:58:53 AM",
-    "topic": "Lossy Image Compression with Compressive Autoencoders",
-    "url": "http://openreview.net/forum?id\u003drJiNwv9gg",
-    "votes": 3,
-    "posted": "Nov 5, 2016 3:42:56 PM"
-  },
-  {
-    "id": "12879882",
-    "timestamp": "Nov 5, 2016 3:57:19 PM",
-    "topic": "Wherefore art thou Macintosh?",
-    "url": "http://www.asymco.com/2016/11/02/wherefore-art-thou-macintosh/",
-    "votes": 5,
-    "posted": "Nov 5, 2016 3:26:17 PM"
-  },
-  {
-    "id": "12879852",
-    "timestamp": "Nov 5, 2016 3:57:18 PM",
-    "topic": "Physicists demonstrate existence of new subatomic structure",
-    "url": "http://sciencebulletin.org/archives/7339.html",
-    "votes": 4,
-    "posted": "Nov 5, 2016 3:16:32 PM"
-  },
-  {
-    "id": "12879850",
-    "timestamp": "Nov 5, 2016 3:47:18 PM",
-    "topic": "H265: Technical Overview",
-    "url": "https://sonnati.wordpress.com/2014/06/20/h265-part-i-technical-overview/",
-    "votes": 5,
-    "posted": "Nov 5, 2016 3:15:03 PM"
-  },
-  {
-    "id": "12879826",
-    "timestamp": "Nov 5, 2016 7:08:19 PM",
-    "topic": "Turkey Bans Facebook, Twitter and WhatsApp",
-    "url": "https://thetechgraph.com/2016/11/05/turkey-bans-facebook-twitter-whatsapp/",
-    "votes": 3,
-    "posted": "Nov 5, 2016 3:08:35 PM"
-  },
-  {
-    "id": "12879803",
-    "timestamp": "Nov 5, 2016 3:17:14 PM",
-    "topic": "The real Clinton email scandal is that a bullshit story has dominated campaign",
-    "url": "http://www.vox.com/policy-and-politics/2016/11/4/13500018/clinton-email-scandal-bullshit",
-    "votes": 4,
-    "posted": "Nov 5, 2016 3:00:45 PM"
   }
 ];
