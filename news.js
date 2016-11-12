@@ -1,11 +1,58 @@
 var newsArray = [
   {
+    "id": "12938966",
+    "timestamp": "Nov 12, 2016 6:53:47 PM",
+    "topic": "Donald Trump’s Election Leaves Angela Merkel as the Liberal West’s Last Defender",
+    "url": "http://www.nytimes.com/2016/11/13/world/europe/germany-merkel-trump-election.html",
+    "votes": 12,
+    "posted": "Nov 12, 2016 6:37:29 PM"
+  },
+  {
+    "id": "12938744",
+    "timestamp": "Nov 12, 2016 6:13:43 PM",
+    "topic": "How Green Is That Grocery Bag Ban? [pdf]",
+    "url": "http://reason.org/files/how_green_bag_ban.pdf",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:55:26 PM"
+  },
+  {
+    "id": "12938742",
+    "timestamp": "Nov 12, 2016 6:13:43 PM",
+    "topic": "How to accept Bitcoin payments yourself (without running a full node)",
+    "url": "http://incoherency.co.uk/blog/stories/how-to-accept-bitcoin-payments.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:55:21 PM"
+  },
+  {
+    "id": "12938712",
+    "timestamp": "Nov 12, 2016 6:23:44 PM",
+    "topic": "‘Maybe Americans Should Know What It’s Like to Have a Dictator’",
+    "url": "http://nymag.com/daily/intelligencer/2016/11/a-syrian-refugee-on-trumps-election.html",
+    "votes": 4,
+    "posted": "Nov 12, 2016 5:49:51 PM"
+  },
+  {
+    "id": "12938686",
+    "timestamp": "Nov 12, 2016 6:23:44 PM",
+    "topic": "History Tells Us What Will Happen Next with Brexit and Trump",
+    "url": "http://www.huffingtonpost.com/tobias-stone/history-tells-us-what-will-brexit-trump_b_11179774.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:45:14 PM"
+  },
+  {
     "id": "12938636",
     "timestamp": "Nov 12, 2016 5:53:41 PM",
     "topic": "Show HN: Gridmaster – A “Code School” for Learning Spreadsheets",
     "url": "http://gridmaster.io",
     "votes": 8,
     "posted": "Nov 12, 2016 5:34:23 PM"
+  },
+  {
+    "id": "12938484",
+    "timestamp": "Nov 12, 2016 6:23:44 PM",
+    "topic": "I will quit my job as a PM to join a coding bootcamp. Am I crazy?",
+    "votes": 6,
+    "posted": "Nov 12, 2016 5:03:35 PM"
   },
   {
     "id": "12938449",
@@ -54,6 +101,14 @@ var newsArray = [
     "url": "http://www.hanselman.com/blog/Stateless30AStateMachineLibraryForNETCore.aspx",
     "votes": 3,
     "posted": "Nov 12, 2016 3:08:12 PM"
+  },
+  {
+    "id": "12937818",
+    "timestamp": "Nov 12, 2016 6:03:42 PM",
+    "topic": "Quant Job Interview Questions [pdf]",
+    "url": "http://www.math.kent.edu/~oana/math60070/InterviewProblems.pdf",
+    "votes": 9,
+    "posted": "Nov 12, 2016 3:01:40 PM"
   },
   {
     "id": "12937807",
@@ -7329,44 +7384,5 @@ var newsArray = [
     "url": "http://patrobinson.github.io/2016/11/05/docker-in-production/",
     "votes": 8,
     "posted": "Nov 5, 2016 6:55:29 PM"
-  },
-  {
-    "id": "12880880",
-    "timestamp": "Nov 6, 2016 2:29:01 AM",
-    "topic": "Apple fans have click-signed more than 100,000 words of legal contracts",
-    "url": "http://qz.com/797928/apple-fans-have-click-signed-more-than-100000-words-of-legal-contracts/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 6:50:32 PM"
-  },
-  {
-    "id": "12880804",
-    "timestamp": "Nov 5, 2016 7:08:18 PM",
-    "topic": "Developing a Functional Android Application in Under 5 Minutes",
-    "url": "https://medium.com/sketchware/what-is-sketchware-e19aa55b4c7c#.o870ugxi8",
-    "votes": 3,
-    "posted": "Nov 5, 2016 6:36:03 PM"
-  },
-  {
-    "id": "12880792",
-    "timestamp": "Nov 5, 2016 7:08:18 PM",
-    "topic": "How to contribute to an open source project on GitHub – a step-by-step guide",
-    "url": "http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/",
-    "votes": 13,
-    "posted": "Nov 5, 2016 6:33:10 PM"
-  },
-  {
-    "id": "12880778",
-    "timestamp": "Nov 5, 2016 7:38:22 PM",
-    "topic": "Ask HN: What is encapsulation in Python?",
-    "votes": 3,
-    "posted": "Nov 5, 2016 6:30:04 PM"
-  },
-  {
-    "id": "12880598",
-    "timestamp": "Nov 5, 2016 6:08:11 PM",
-    "topic": "A Country Is Not a Company (1996)",
-    "url": "https://hbr.org/1996/01/a-country-is-not-a-company\u0026cm_sp\u003dArticle-_-Links-_-Top%20of%20Page%20Recirculation",
-    "votes": 3,
-    "posted": "Nov 5, 2016 5:57:29 PM"
   }
 ];
