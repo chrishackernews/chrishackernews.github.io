@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12937420",
+    "timestamp": "Nov 12, 2016 12:53:15 PM",
+    "topic": "I’m Arab and Many of Us Are Glad That Trump Won",
+    "url": "https://medium.com/@omarkamel/im-arab-and-many-of-us-are-glad-that-trump-won-c98e1c6ae891#.do345jz6r",
+    "votes": 4,
+    "posted": "Nov 12, 2016 12:06:04 PM"
+  },
+  {
     "id": "12937138",
     "timestamp": "Nov 12, 2016 9:52:59 AM",
     "topic": "Smarking (YC W15) Is Hiring Sr. Generalist Engineers in SF",
@@ -7336,45 +7344,5 @@ var newsArray = [
     "url": "http://www.gamasutra.com/view/feature/3938/the_pacman_dossier.php?print\u003d1",
     "votes": 4,
     "posted": "Nov 5, 2016 1:05:49 PM"
-  },
-  {
-    "id": "12879330",
-    "timestamp": "Nov 6, 2016 4:20:10 PM",
-    "topic": "Newborn sleep patterns a survival guide for the science-minded parent",
-    "url": "http://www.parentingscience.com/newborn-sleep.html",
-    "votes": 3,
-    "posted": "Nov 5, 2016 12:47:31 PM"
-  },
-  {
-    "id": "12879232",
-    "timestamp": "Nov 5, 2016 1:07:03 PM",
-    "topic": "Be careful about what you dislike",
-    "url": "http://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/",
-    "votes": 7,
-    "posted": "Nov 5, 2016 12:19:57 PM"
-  },
-  {
-    "id": "12879224",
-    "timestamp": "Nov 5, 2016 3:37:16 PM",
-    "topic": "Visual Cryptography",
-    "url": "http://www.datagenetics.com/blog/november32013/index.html",
-    "votes": 4,
-    "posted": "Nov 5, 2016 12:17:38 PM"
-  },
-  {
-    "id": "12879216",
-    "timestamp": "Nov 5, 2016 12:37:01 PM",
-    "topic": "Man hacks Alexa into singing fish robot, terror ensues",
-    "url": "http://www.theverge.com/2016/11/4/13525172/amazon-alexa-big-mouth-billy-bass-hack-api",
-    "votes": 3,
-    "posted": "Nov 5, 2016 12:15:06 PM"
-  },
-  {
-    "id": "12879179",
-    "timestamp": "Nov 5, 2016 1:17:04 PM",
-    "topic": "Show HN: Make an app by adding JSON to this app",
-    "url": "https://github.com/Jasonette/JASONETTE-iOS?hn",
-    "votes": 5,
-    "posted": "Nov 5, 2016 12:03:15 PM"
   }
 ];
