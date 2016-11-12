@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12937717",
+    "timestamp": "Nov 12, 2016 2:33:24 PM",
+    "topic": "Flexport is hiring for pretty much everything",
+    "url": "https://flexport.com/careers",
+    "votes": 1,
+    "posted": "Nov 12, 2016 2:29:23 PM"
+  },
+  {
+    "id": "12937658",
+    "timestamp": "Nov 12, 2016 2:23:23 PM",
+    "topic": "Rs 500, Rs 1,000 cash ban: Govt failed those without bank accounts",
+    "url": "http://www.firstpost.com/india/rs-500-rs-1000-ban-modi-govts-intention-was-fair-but-failed-those-who-dont-have-bank-accounts-3102384.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 2:07:52 PM"
+  },
+  {
+    "id": "12937607",
+    "timestamp": "Nov 12, 2016 2:13:22 PM",
+    "topic": "Spotify is writing massive amounts of junk data to storage drives",
+    "url": "http://arstechnica.com/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/",
+    "votes": 6,
+    "posted": "Nov 12, 2016 1:44:38 PM"
+  },
+  {
+    "id": "12937585",
+    "timestamp": "Nov 12, 2016 2:03:21 PM",
+    "topic": "Factiness",
+    "url": "http://nathanjurgenson.com/post/152938927255/factiness",
+    "votes": 3,
+    "posted": "Nov 12, 2016 1:34:18 PM"
+  },
+  {
     "id": "12937465",
     "timestamp": "Nov 12, 2016 1:33:19 PM",
     "topic": "The Scientist Who Helped Amy Adams Talk to Aliens in “Arrival”",
@@ -38,6 +70,14 @@ var newsArray = [
     "url": "https://stallman.org/articles/children.html",
     "votes": 5,
     "posted": "Nov 12, 2016 12:05:41 PM"
+  },
+  {
+    "id": "12937324",
+    "timestamp": "Nov 12, 2016 2:43:25 PM",
+    "topic": "Never, never, never normalize this",
+    "url": "http://www.scottaaronson.com/blog/?p\u003d2969",
+    "votes": 4,
+    "posted": "Nov 12, 2016 11:27:08 AM"
   },
   {
     "id": "12937221",
@@ -181,6 +221,13 @@ var newsArray = [
     "posted": "Nov 12, 2016 3:55:00 AM"
   },
   {
+    "id": "12936315",
+    "timestamp": "Nov 12, 2016 2:03:21 PM",
+    "topic": "Ask HN: What is the most significant turning point in society in our lifetime?",
+    "votes": 6,
+    "posted": "Nov 12, 2016 3:50:01 AM"
+  },
+  {
     "id": "12936276",
     "timestamp": "Nov 12, 2016 4:22:33 AM",
     "topic": "The Southern Strategy",
@@ -259,6 +306,14 @@ var newsArray = [
     "url": "https://medium.com/@russellirvinjohnston/what-hilary-and-i-and-ricardo-got-wrong-about-trade-and-trump-got-dead-right-688cab9e1e11#.dx4b0s1ra",
     "votes": 4,
     "posted": "Nov 12, 2016 2:22:27 AM"
+  },
+  {
+    "id": "12935978",
+    "timestamp": "Nov 12, 2016 2:13:22 PM",
+    "topic": "He Collected 12,000 Road Maps–Now We’re Discovering Their Secrets",
+    "url": "http://news.nationalgeographic.com/2016/11/robert-berlo-map-collection/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 2:19:54 AM"
   },
   {
     "id": "12935974",
@@ -1329,6 +1384,14 @@ var newsArray = [
     "posted": "Nov 11, 2016 4:18:38 AM"
   },
   {
+    "id": "12927293",
+    "timestamp": "Nov 12, 2016 2:13:22 PM",
+    "topic": "The Art of Hidden Faces: Anthropomorphic Landscapes",
+    "url": "http://publicdomainreview.org/collections/the-art-of-hidden-faces-anthropomorphic-landscapes/",
+    "votes": 5,
+    "posted": "Nov 11, 2016 4:14:31 AM"
+  },
+  {
     "id": "12927173",
     "timestamp": "Nov 11, 2016 4:40:16 AM",
     "topic": "A Glance into Web Tech.-Based Text Editors\u0027 Text Management",
@@ -1438,6 +1501,14 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/aarontilley/2016/11/10/nvidia-reports-huge-data-center-business-boom-stock-is-jumping/#2c7266b079db",
     "votes": 3,
     "posted": "Nov 11, 2016 2:15:01 AM"
+  },
+  {
+    "id": "12926436",
+    "timestamp": "Nov 12, 2016 2:43:25 PM",
+    "topic": "The Good Man Stanley",
+    "url": "https://lareviewofbooks.org/article/the-good-man-stanley#!",
+    "votes": 3,
+    "posted": "Nov 11, 2016 2:06:55 AM"
   },
   {
     "id": "12926395",
@@ -7344,21 +7415,5 @@ var newsArray = [
     "url": "http://www.vox.com/policy-and-politics/2016/11/4/13500018/clinton-email-scandal-bullshit",
     "votes": 4,
     "posted": "Nov 5, 2016 3:00:45 PM"
-  },
-  {
-    "id": "12879732",
-    "timestamp": "Nov 5, 2016 3:37:16 PM",
-    "topic": "R Course Finder grows steadily, now includes 118 R courses",
-    "url": "http://r-exercises.com/2016/11/04/r-course-finder-update-2/",
-    "votes": 5,
-    "posted": "Nov 5, 2016 2:42:06 PM"
-  },
-  {
-    "id": "12879661",
-    "timestamp": "Nov 5, 2016 7:48:23 PM",
-    "topic": "New visual identity and branding for North Korea",
-    "url": "http://www.love-is-korea.com/#love-korea",
-    "votes": 4,
-    "posted": "Nov 5, 2016 2:22:55 PM"
   }
 ];
