@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12935651",
+    "timestamp": "Nov 12, 2016 1:12:15 AM",
+    "topic": "Peter Thiel joins Trump\u0027s transition team",
+    "url": "http://www.theverge.com/2016/11/11/13602026/peter-thiel-trump-transition-team-facebook",
+    "votes": 3,
+    "posted": "Nov 12, 2016 1:06:59 AM"
+  },
+  {
+    "id": "12935604",
+    "timestamp": "Nov 12, 2016 1:32:17 AM",
+    "topic": "Microsoft\u0027s iOS app augments hues for color-blind folks",
+    "url": "https://www.engadget.com/2016/11/11/color-binoculars-color-blind-app-free-ios/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:56:28 AM"
+  },
+  {
+    "id": "12935565",
+    "timestamp": "Nov 12, 2016 1:12:16 AM",
+    "topic": "Why FiveThirtyEight Gave Trump a Better Chance Than Almost Anyone Else",
+    "url": "http://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:49:20 AM"
+  },
+  {
     "id": "12935495",
     "timestamp": "Nov 12, 2016 12:52:14 AM",
     "topic": "Apache Solr 6.3.0 released",
@@ -8,12 +32,28 @@ var newsArray = [
     "posted": "Nov 12, 2016 12:40:32 AM"
   },
   {
+    "id": "12935417",
+    "timestamp": "Nov 12, 2016 1:02:15 AM",
+    "topic": "How Digital Industry Can Solve the Sustainable Development Goals",
+    "url": "http://allafrica.com/stories/201611031068.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:26:35 AM"
+  },
+  {
     "id": "12935362",
     "timestamp": "Nov 12, 2016 12:32:12 AM",
     "topic": "Nintendowned: Amazon sells out of the NES Classic Edition in (null) seconds",
     "url": "https://techcrunch.com/2016/11/11/nintendowned-amazon-sells-out-of-nes-classic-editions-in-null-seconds/",
     "votes": 4,
     "posted": "Nov 12, 2016 12:15:24 AM"
+  },
+  {
+    "id": "12935281",
+    "timestamp": "Nov 12, 2016 1:52:19 AM",
+    "topic": "Massive Disruption Is Coming with Quantum Computing",
+    "url": "http://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/?utm_content\u003dbufferc746a\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook-hub\u0026utm_campaign\u003dbuffer",
+    "votes": 3,
+    "posted": "Nov 12, 2016 12:00:45 AM"
   },
   {
     "id": "12935264",
@@ -86,6 +126,13 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/donald-trump-willing-to-keep-parts-of-health-law-1478895339",
     "votes": 7,
     "posted": "Nov 11, 2016 10:37:49 PM"
+  },
+  {
+    "id": "12934617",
+    "timestamp": "Nov 12, 2016 1:12:16 AM",
+    "topic": "Ask HN: What are good resources for studying Dynamic Programming?",
+    "votes": 5,
+    "posted": "Nov 11, 2016 10:36:08 PM"
   },
   {
     "id": "12934493",
@@ -4488,6 +4535,14 @@ var newsArray = [
     "posted": "Nov 8, 2016 1:28:04 AM"
   },
   {
+    "id": "12896436",
+    "timestamp": "Nov 12, 2016 1:12:16 AM",
+    "topic": "Say Hello to CircleCI 2.0",
+    "url": "https://circleci.com/blog/say-hello-to-circleci-2-0/",
+    "votes": 22,
+    "posted": "Nov 8, 2016 1:01:07 AM"
+  },
+  {
     "id": "12896432",
     "timestamp": "Nov 8, 2016 1:23:22 AM",
     "topic": "The Sega Genesis Is Officially Back in Production",
@@ -7220,37 +7275,5 @@ var newsArray = [
     "url": "https://www.kickstarter.com/projects/1174653512/isaac-newtons-principia-mathematica-reissue",
     "votes": 3,
     "posted": "Nov 5, 2016 2:14:02 AM"
-  },
-  {
-    "id": "12877451",
-    "timestamp": "Nov 5, 2016 2:36:14 AM",
-    "topic": "Rolling Stone Loses Defamation Case Over Rape Article",
-    "url": "http://www.nytimes.com/2016/11/05/business/media/rolling-stone-rape-story-case-guilty.html",
-    "votes": 6,
-    "posted": "Nov 5, 2016 1:43:02 AM"
-  },
-  {
-    "id": "12877381",
-    "timestamp": "Nov 5, 2016 2:16:12 AM",
-    "topic": "Dongle dilemma provokes Apple price cut",
-    "url": "http://www.bbc.com/news/technology-37880723",
-    "votes": 4,
-    "posted": "Nov 5, 2016 1:27:25 AM"
-  },
-  {
-    "id": "12877378",
-    "timestamp": "Nov 5, 2016 2:36:14 AM",
-    "topic": "Systemd and the crashing tweet",
-    "url": "https://tim.siosm.fr/blog/2016/10/02/tweet-systemd/",
-    "votes": 5,
-    "posted": "Nov 5, 2016 1:27:03 AM"
-  },
-  {
-    "id": "12877235",
-    "timestamp": "Nov 5, 2016 5:26:29 AM",
-    "topic": "Nasa\u0027s open source projects on GitHub",
-    "url": "https://github.com/nasa",
-    "votes": 6,
-    "posted": "Nov 5, 2016 1:00:04 AM"
   }
 ];
