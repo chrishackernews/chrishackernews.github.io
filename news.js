@@ -7376,51 +7376,5 @@ var newsArray = [
     "url": "https://github.com/Jasonette/JASONETTE-iOS?hn",
     "votes": 5,
     "posted": "Nov 5, 2016 12:03:15 PM"
-  },
-  {
-    "id": "12879117",
-    "timestamp": "Nov 5, 2016 3:27:15 PM",
-    "topic": "Paris agreement on climate change has come into force",
-    "url": "http://www.bbc.com/news/science-environment-37872111",
-    "votes": 4,
-    "posted": "Nov 5, 2016 11:49:26 AM"
-  },
-  {
-    "id": "12879103",
-    "timestamp": "Nov 5, 2016 11:56:58 AM",
-    "topic": "Bus1 is the new Kdbus",
-    "url": "https://davmac.wordpress.com/2016/11/05/bus1-is-the-new-kdbus/",
-    "votes": 5,
-    "posted": "Nov 5, 2016 11:44:04 AM"
-  },
-  {
-    "id": "12879065",
-    "timestamp": "Nov 5, 2016 6:38:15 PM",
-    "topic": "Notching floppy disks to double their capacity",
-    "url": "https://en.wikipedia.org/w/index.php?title\u003dDouble-sided_disk\u0026oldid\u003d713168494",
-    "votes": 3,
-    "posted": "Nov 5, 2016 11:27:44 AM"
-  },
-  {
-    "id": "12879056",
-    "timestamp": "Nov 5, 2016 11:56:58 AM",
-    "topic": "Ask HN: Do you still use UML?",
-    "votes": 4,
-    "posted": "Nov 5, 2016 11:23:08 AM"
-  },
-  {
-    "id": "12879043",
-    "timestamp": "Nov 5, 2016 5:48:09 PM",
-    "topic": "Ask HN: Predict the future",
-    "votes": 5,
-    "posted": "Nov 5, 2016 11:17:37 AM"
-  },
-  {
-    "id": "12879015",
-    "timestamp": "Nov 5, 2016 11:56:58 AM",
-    "topic": "Ring, officially a GNU package",
-    "url": "https://blog.savoirfairelinux.com/en-ca/2016/ring-official-gnu-package/",
-    "votes": 6,
-    "posted": "Nov 5, 2016 11:04:45 AM"
   }
 ];
