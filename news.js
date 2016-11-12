@@ -8,12 +8,36 @@ var newsArray = [
     "posted": "Nov 12, 2016 9:43:05 AM"
   },
   {
+    "id": "12937013",
+    "timestamp": "Nov 12, 2016 10:03:00 AM",
+    "topic": "Finland to Get Rid of All School Subjects",
+    "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 8:26:31 AM"
+  },
+  {
     "id": "12936891",
     "timestamp": "Nov 12, 2016 8:32:53 AM",
     "topic": "Why is machine learning \u0027hard\u0027?",
     "url": "http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html",
     "votes": 5,
     "posted": "Nov 12, 2016 7:24:57 AM"
+  },
+  {
+    "id": "12936862",
+    "timestamp": "Nov 12, 2016 10:33:05 AM",
+    "topic": "GrubHub CEO Says People Who Support Trump Have No Place in His Company",
+    "url": "http://www.inc.com/suzanne-lucas/no-you-cant-fire-people-for-voting-trump.html",
+    "votes": 5,
+    "posted": "Nov 12, 2016 7:13:09 AM"
+  },
+  {
+    "id": "12936782",
+    "timestamp": "Nov 12, 2016 10:53:07 AM",
+    "topic": "Reasons not to use Uber",
+    "url": "http://stallman.org/uber.html",
+    "votes": 6,
+    "posted": "Nov 12, 2016 6:43:20 AM"
   },
   {
     "id": "12936720",
@@ -962,6 +986,14 @@ var newsArray = [
     "url": "https://semaphoreci.com/blog/2016/11/11/python-versions-used-in-commercial-projects-2016-edition.html",
     "votes": 4,
     "posted": "Nov 11, 2016 1:41:30 PM"
+  },
+  {
+    "id": "12930051",
+    "timestamp": "Nov 12, 2016 10:13:02 AM",
+    "topic": "Show HN: Hacker News Night Mode – A Firefox Addon",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/hacker-news-night-mode/",
+    "votes": 5,
+    "posted": "Nov 11, 2016 1:36:22 PM"
   },
   {
     "id": "12930004",
@@ -7390,13 +7422,5 @@ var newsArray = [
     "url": "https://blog.savoirfairelinux.com/en-ca/2016/ring-official-gnu-package/",
     "votes": 6,
     "posted": "Nov 5, 2016 11:04:45 AM"
-  },
-  {
-    "id": "12878956",
-    "timestamp": "Nov 5, 2016 11:06:54 AM",
-    "topic": "Show HN: Alienslike.us – vote on what an alien society might be like",
-    "url": "https://alienslike.us/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 10:40:53 AM"
   }
 ];
