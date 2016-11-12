@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12940615",
+    "timestamp": "Nov 12, 2016 11:54:14 PM",
+    "topic": "Writing an HTTP server in Prolog",
+    "url": "http://jamesbvaughan.com/writing-an-http-server-in-prolog/",
+    "votes": 6,
+    "posted": "Nov 12, 2016 11:42:31 PM"
+  },
+  {
+    "id": "12940581",
+    "timestamp": "Nov 12, 2016 11:54:14 PM",
+    "topic": "Apple is doubling down on open source",
+    "url": "http://www.techrepublic.com/google-amp/article/apple-is-doubling-down-on-open-source/",
+    "votes": 8,
+    "posted": "Nov 12, 2016 11:34:00 PM"
+  },
+  {
     "id": "12940398",
     "timestamp": "Nov 12, 2016 10:54:09 PM",
     "topic": "Segment (YC S11) Is Hiring Senior Solutions Engineers in NYC",
@@ -316,6 +332,13 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/12/science/myron-ebell-trump-epa.html",
     "votes": 6,
     "posted": "Nov 12, 2016 2:17:01 PM"
+  },
+  {
+    "id": "12937661",
+    "timestamp": "Nov 12, 2016 11:04:10 PM",
+    "topic": "Ask HN: Do you use Google Inbox? Do you find it incredibly slow on desktop?",
+    "votes": 6,
+    "posted": "Nov 12, 2016 2:11:16 PM"
   },
   {
     "id": "12937658",
@@ -7321,35 +7344,5 @@ var newsArray = [
     "url": "https://blog.wikimedia.org/2016/11/05/wikidata-visiting-scholar-art-dataset/",
     "votes": 3,
     "posted": "Nov 6, 2016 12:14:34 AM"
-  },
-  {
-    "id": "12882349",
-    "timestamp": "Nov 6, 2016 12:38:52 AM",
-    "topic": "Ask HN: You\u0027ve got one month, what\u0027s your challenge?",
-    "votes": 6,
-    "posted": "Nov 5, 2016 11:52:58 PM"
-  },
-  {
-    "id": "12882320",
-    "timestamp": "Nov 6, 2016 12:08:49 AM",
-    "topic": "PaperNIC – Open Source Document Management and Collaboration System",
-    "url": "https://github.com/murat-cileli/papernic",
-    "votes": 5,
-    "posted": "Nov 5, 2016 11:43:46 PM"
-  },
-  {
-    "id": "12882311",
-    "timestamp": "Nov 6, 2016 12:08:49 AM",
-    "topic": "Internet Pioneers Slam $750,000 Settlement for the \u0027Man Who Invented Email\u0027",
-    "url": "http://gizmodo.com/internet-pioneers-slam-750-000-settlement-for-the-man-1788503950",
-    "votes": 5,
-    "posted": "Nov 5, 2016 11:39:23 PM"
-  },
-  {
-    "id": "12882269",
-    "timestamp": "Nov 6, 2016 5:09:14 AM",
-    "topic": "Ask HN: How to escape front end development?",
-    "votes": 8,
-    "posted": "Nov 5, 2016 11:27:30 PM"
   }
 ];
