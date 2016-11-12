@@ -1,11 +1,26 @@
 var newsArray = [
   {
+    "id": "12936891",
+    "timestamp": "Nov 12, 2016 8:32:53 AM",
+    "topic": "Why is machine learning \u0027hard\u0027?",
+    "url": "http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html",
+    "votes": 5,
+    "posted": "Nov 12, 2016 7:24:57 AM"
+  },
+  {
     "id": "12936720",
     "timestamp": "Nov 12, 2016 6:22:43 AM",
     "topic": "Zapier is hiring a product engineer – remote welcome",
     "url": "https://zapier.com/jobs/product-engineer-fall-2016/",
     "votes": 1,
     "posted": "Nov 12, 2016 6:15:19 AM"
+  },
+  {
+    "id": "12936662",
+    "timestamp": "Nov 12, 2016 8:02:51 AM",
+    "topic": "Ask HN: How do you perform Usability testing?",
+    "votes": 4,
+    "posted": "Nov 12, 2016 5:49:07 AM"
   },
   {
     "id": "12936658",
