@@ -1,10 +1,33 @@
 var newsArray = [
   {
+    "id": "12936720",
+    "timestamp": "Nov 12, 2016 6:22:43 AM",
+    "topic": "Zapier is hiring a product engineer – remote welcome",
+    "url": "https://zapier.com/jobs/product-engineer-fall-2016/",
+    "votes": 1,
+    "posted": "Nov 12, 2016 6:15:19 AM"
+  },
+  {
     "id": "12936658",
     "timestamp": "Nov 12, 2016 5:52:40 AM",
     "topic": "Make Hacker News Great Again",
     "votes": 6,
     "posted": "Nov 12, 2016 5:47:21 AM"
+  },
+  {
+    "id": "12936650",
+    "timestamp": "Nov 12, 2016 6:02:41 AM",
+    "topic": "Ask HN: An idea that you could not implement?",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:45:54 AM"
+  },
+  {
+    "id": "12936641",
+    "timestamp": "Nov 12, 2016 6:22:42 AM",
+    "topic": "Bernie Sanders: Where the Democrats Go from Here",
+    "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
+    "votes": 10,
+    "posted": "Nov 12, 2016 5:40:47 AM"
   },
   {
     "id": "12936524",
@@ -21,6 +44,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/12/science/shipwrecks-black-sea-archaeology.html",
     "votes": 4,
     "posted": "Nov 12, 2016 4:56:03 AM"
+  },
+  {
+    "id": "12936418",
+    "timestamp": "Nov 12, 2016 6:42:44 AM",
+    "topic": "Government pot is less potent than commercial pot",
+    "url": "http://www.sciencemag.org/news/2016/11/government-pot-less-potent-commercial-pot-questioning-dozens-scientific-studies",
+    "votes": 4,
+    "posted": "Nov 12, 2016 4:20:28 AM"
   },
   {
     "id": "12936337",
@@ -688,6 +719,14 @@ var newsArray = [
     "url": "https://github.com/emmanuel-keller/github-language-statistics#number-of-active-repositories-in-github",
     "votes": 9,
     "posted": "Nov 11, 2016 5:55:24 PM"
+  },
+  {
+    "id": "12932307",
+    "timestamp": "Nov 12, 2016 6:52:45 AM",
+    "topic": "Facebook Says It Will Stop Allowing Some Advertisers to Exclude Users by Race",
+    "url": "https://www.propublica.org/article/facebook-to-stop-allowing-some-advertisers-to-exclude-users-by-race",
+    "votes": 6,
+    "posted": "Nov 11, 2016 5:54:04 PM"
   },
   {
     "id": "12932175",
@@ -7329,21 +7368,5 @@ var newsArray = [
     "url": "https://sfconservancy.org/news/2016/nov/03/linux-compliance-agreements/",
     "votes": 3,
     "posted": "Nov 5, 2016 7:38:36 AM"
-  },
-  {
-    "id": "12878337",
-    "timestamp": "Nov 5, 2016 7:16:37 AM",
-    "topic": "Is democracy a failure? (1861, NYTimes)",
-    "url": "http://www.nytimes.com/1861/03/14/news/is-democracy-a-failure.html",
-    "votes": 3,
-    "posted": "Nov 5, 2016 6:28:50 AM"
-  },
-  {
-    "id": "12878336",
-    "timestamp": "Nov 5, 2016 10:26:51 AM",
-    "topic": "Show HN: Hot or not for yachts called Yacht or Knot",
-    "url": "http://www.yacht-or-knot.com",
-    "votes": 4,
-    "posted": "Nov 5, 2016 6:28:47 AM"
   }
 ];
