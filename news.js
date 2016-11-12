@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12939877",
+    "timestamp": "Nov 12, 2016 9:54:04 PM",
+    "topic": "Silicon Valley frets over foreign worker crackdown",
+    "url": "https://www.ft.com/content/b42f40c2-a6df-11e6-8b69-02899e8bd9d1",
+    "votes": 3,
+    "posted": "Nov 12, 2016 9:02:37 PM"
+  },
+  {
+    "id": "12939856",
+    "timestamp": "Nov 12, 2016 9:44:02 PM",
+    "topic": "How We Knew It Was Time to Leave the Cloud",
+    "url": "https://about.gitlab.com/2016/11/10/why-choose-bare-metal/?",
+    "votes": 7,
+    "posted": "Nov 12, 2016 8:58:09 PM"
+  },
+  {
+    "id": "12939839",
+    "timestamp": "Nov 12, 2016 9:34:01 PM",
+    "topic": "Trump-Supporting CEO Kicked Out of Y Combinator Startup Incubator",
+    "url": "https://www.buzzfeed.com/nitashatiku/trump-supporting-startup-ceo-kicked-out-of-y-combinator",
+    "votes": 4,
+    "posted": "Nov 12, 2016 8:54:51 PM"
+  },
+  {
+    "id": "12939787",
+    "timestamp": "Nov 12, 2016 9:44:03 PM",
+    "topic": "Sci-Fi Filmmaker Hilariously Imagines Donald Trump’s Air Force One and Motorcade",
+    "url": "http://qz.com/835850/director-neill-blomkamp-imagines-donald-trumps-air-force-one/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 8:45:20 PM"
+  },
+  {
     "id": "12939547",
     "timestamp": "Nov 12, 2016 8:53:58 PM",
     "topic": "HyperNormalisation by Adam Curtis",
@@ -48,12 +80,28 @@ var newsArray = [
     "posted": "Nov 12, 2016 7:12:23 PM"
   },
   {
+    "id": "12939044",
+    "timestamp": "Nov 12, 2016 9:44:02 PM",
+    "topic": "Deep Learning with Generative Adverserial Networks – ICLR 2017 Discoveries",
+    "url": "https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/",
+    "votes": 5,
+    "posted": "Nov 12, 2016 6:50:15 PM"
+  },
+  {
     "id": "12938966",
     "timestamp": "Nov 12, 2016 6:53:47 PM",
     "topic": "Donald Trump’s Election Leaves Angela Merkel as the Liberal West’s Last Defender",
     "url": "http://www.nytimes.com/2016/11/13/world/europe/germany-merkel-trump-election.html",
     "votes": 12,
     "posted": "Nov 12, 2016 6:37:29 PM"
+  },
+  {
+    "id": "12938871",
+    "timestamp": "Nov 12, 2016 9:54:04 PM",
+    "topic": "Deep Learning for Natural Language Processing – ICLR 2017 Discoveries",
+    "url": "https://amundtveit.com/2016/11/12/deep-learning-for-natural-language-processing-iclr-2017-discoveries/",
+    "votes": 5,
+    "posted": "Nov 12, 2016 6:21:40 PM"
   },
   {
     "id": "12938863",
@@ -112,6 +160,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 5:34:23 PM"
   },
   {
+    "id": "12938629",
+    "timestamp": "Nov 12, 2016 9:34:01 PM",
+    "topic": "PyPy2.7 v5.6 released – stdlib 2.7.12 support, C-API improvements, and more",
+    "url": "https://morepypy.blogspot.com/2016/11/pypy27-v56-released-stdlib-2712-support.html",
+    "votes": 6,
+    "posted": "Nov 12, 2016 5:32:46 PM"
+  },
+  {
     "id": "12938524",
     "timestamp": "Nov 12, 2016 7:13:49 PM",
     "topic": "Probiotics improve cognition in Alzheimer\u0027s patients",
@@ -165,6 +221,13 @@ var newsArray = [
     "url": "https://bitbucket.org/tux_/rssparser.lisp",
     "votes": 4,
     "posted": "Nov 12, 2016 4:26:50 PM"
+  },
+  {
+    "id": "12938195",
+    "timestamp": "Nov 12, 2016 9:34:01 PM",
+    "topic": "Ask HN: How can I as a coder contribute to climate change?",
+    "votes": 6,
+    "posted": "Nov 12, 2016 4:16:03 PM"
   },
   {
     "id": "12938039",
@@ -7312,37 +7375,5 @@ var newsArray = [
     "url": "http://thememoryhole2.org/blog/inside-norad",
     "votes": 4,
     "posted": "Nov 5, 2016 10:18:28 PM"
-  },
-  {
-    "id": "12881703",
-    "timestamp": "Nov 5, 2016 10:08:37 PM",
-    "topic": "Contact lenses with infrared vision",
-    "url": "http://spectrum.ieee.org/nanoclast/semiconductors/optoelectronics/graphene-gives-you-infrared-vision-in-a-contact-lens",
-    "votes": 3,
-    "posted": "Nov 5, 2016 9:25:22 PM"
-  },
-  {
-    "id": "12881584",
-    "timestamp": "Nov 5, 2016 10:18:38 PM",
-    "topic": "How (some of) your professors see you (2009)",
-    "url": "http://edwardfeser.blogspot.com/2009/03/how-some-of-your-professors-see-you.html",
-    "votes": 3,
-    "posted": "Nov 5, 2016 9:00:55 PM"
-  },
-  {
-    "id": "12881575",
-    "timestamp": "Nov 6, 2016 2:50:03 PM",
-    "topic": "Raising the Dead (2005)",
-    "url": "http://www.outsideonline.com/1922711/raising-dead",
-    "votes": 3,
-    "posted": "Nov 5, 2016 8:58:06 PM"
-  },
-  {
-    "id": "12881569",
-    "timestamp": "Nov 5, 2016 9:18:32 PM",
-    "topic": "Tech Jobs, Cheaper Housing: The New Silicon Cities",
-    "url": "http://www.wsj.com/articles/tech-jobs-cheaper-housing-the-new-silicon-cities-1478181842",
-    "votes": 3,
-    "posted": "Nov 5, 2016 8:57:06 PM"
   }
 ];
