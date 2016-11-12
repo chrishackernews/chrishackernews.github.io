@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12938636",
+    "timestamp": "Nov 12, 2016 5:53:41 PM",
+    "topic": "Show HN: Gridmaster – A “Code School” for Learning Spreadsheets",
+    "url": "http://gridmaster.io",
+    "votes": 8,
+    "posted": "Nov 12, 2016 5:34:23 PM"
+  },
+  {
+    "id": "12938449",
+    "timestamp": "Nov 12, 2016 5:13:38 PM",
+    "topic": "President Obama Should Shut Down the NSA’s Mass Spying Before It’s Too Late",
+    "url": "http://time.com/4565149/obama-trump-nsa-surveillance/",
+    "votes": 17,
+    "posted": "Nov 12, 2016 4:56:28 PM"
+  },
+  {
     "id": "12938315",
     "timestamp": "Nov 12, 2016 4:53:35 PM",
     "topic": "China warns Trump against abandoning climate change deal",
@@ -16,12 +32,44 @@ var newsArray = [
     "posted": "Nov 12, 2016 4:26:50 PM"
   },
   {
+    "id": "12938039",
+    "timestamp": "Nov 12, 2016 5:43:40 PM",
+    "topic": "What So Many People Don’t Get About the U.S. Working Class",
+    "url": "https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class",
+    "votes": 6,
+    "posted": "Nov 12, 2016 3:47:54 PM"
+  },
+  {
+    "id": "12938016",
+    "timestamp": "Nov 12, 2016 5:03:37 PM",
+    "topic": "Nvidia  on new self-driving system: It’s basically 5 yrs ahead and coming in 2017",
+    "url": "https://electrek.co/2016/11/11/tesla-autopilot-chip-supplier-self-driving-hardware-its-five-years-ahead/",
+    "votes": 5,
+    "posted": "Nov 12, 2016 3:43:16 PM"
+  },
+  {
+    "id": "12937845",
+    "timestamp": "Nov 12, 2016 5:03:37 PM",
+    "topic": "Stateless 3.0 – A State Machine Library for .NET Core",
+    "url": "http://www.hanselman.com/blog/Stateless30AStateMachineLibraryForNETCore.aspx",
+    "votes": 3,
+    "posted": "Nov 12, 2016 3:08:12 PM"
+  },
+  {
     "id": "12937807",
     "timestamp": "Nov 12, 2016 3:03:26 PM",
     "topic": "I’m a Muslim, a woman and an immigrant. I voted for Trump",
     "url": "https://www.washingtonpost.com/news/global-opinions/wp/2016/11/10/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump",
     "votes": 4,
     "posted": "Nov 12, 2016 2:57:10 PM"
+  },
+  {
+    "id": "12937734",
+    "timestamp": "Nov 12, 2016 5:03:37 PM",
+    "topic": "Data to Money: How Much Does Google Owe You?",
+    "url": "https://www.youtube.com/watch?v\u003dW8kA-EZReA0",
+    "votes": 4,
+    "posted": "Nov 12, 2016 2:36:38 PM"
   },
   {
     "id": "12937717",
@@ -253,6 +301,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 4:20:28 AM"
   },
   {
+    "id": "12936353",
+    "timestamp": "Nov 12, 2016 5:23:39 PM",
+    "topic": "Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment [pdf]",
+    "url": "http://kmunger.github.io/pdfs/Twitter_harassment_final.pdf",
+    "votes": 4,
+    "posted": "Nov 12, 2016 4:00:08 AM"
+  },
+  {
     "id": "12936337",
     "timestamp": "Nov 12, 2016 4:32:33 AM",
     "topic": "Finland to Get Rid of All School Subjects",
@@ -416,6 +472,14 @@ var newsArray = [
     "url": "http://timesofindia.indiatimes.com/world/china/China-launches-pulsar-navigation-satellite/articleshow/55347011.cms",
     "votes": 3,
     "posted": "Nov 12, 2016 1:36:12 AM"
+  },
+  {
+    "id": "12935708",
+    "timestamp": "Nov 12, 2016 5:23:39 PM",
+    "topic": "Forever Words: A new book collects the unpublished poems of Johnny Cash",
+    "url": "https://www.poetryfoundation.org/features/articles/detail/91017",
+    "votes": 3,
+    "posted": "Nov 12, 2016 1:16:56 AM"
   },
   {
     "id": "12935651",
@@ -7304,76 +7368,5 @@ var newsArray = [
     "url": "https://hbr.org/1996/01/a-country-is-not-a-company\u0026cm_sp\u003dArticle-_-Links-_-Top%20of%20Page%20Recirculation",
     "votes": 3,
     "posted": "Nov 5, 2016 5:57:29 PM"
-  },
-  {
-    "id": "12880570",
-    "timestamp": "Nov 5, 2016 6:08:11 PM",
-    "topic": "Foreign students targeted by UK anti-migrant policies",
-    "url": "http://www.aljazeera.com/indepth/features/2016/11/foreign-students-targeted-uk-anti-migrant-policies-161102130654314.html",
-    "votes": 3,
-    "posted": "Nov 5, 2016 5:51:45 PM"
-  },
-  {
-    "id": "12880520",
-    "timestamp": "Nov 5, 2016 6:08:11 PM",
-    "topic": "Why I won\u0027t recommend Signal anymore",
-    "url": "https://sandervenema.ch/2016/11/why-i-wont-recommend-signal-anymore/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 5:43:53 PM"
-  },
-  {
-    "id": "12880453",
-    "timestamp": "Nov 5, 2016 6:08:11 PM",
-    "topic": "How Bureaucrats and Spies Turned Canada into a Surveillance State",
-    "url": "http://motherboard.vice.com/read/how-bureaucrats-and-spies-turned-canada-into-a-surveillance-state-csis",
-    "votes": 4,
-    "posted": "Nov 5, 2016 5:34:26 PM"
-  },
-  {
-    "id": "12880393",
-    "timestamp": "Nov 5, 2016 6:38:15 PM",
-    "topic": "Alzheimer’s treatment fully restores memory function",
-    "url": "http://www.sciencealert.com/new-alzheimer-s-treatment-fully-restores-memory-function",
-    "votes": 6,
-    "posted": "Nov 5, 2016 5:23:44 PM"
-  },
-  {
-    "id": "12880382",
-    "timestamp": "Nov 5, 2016 6:28:14 PM",
-    "topic": "Lyft to offer 45 percent discount during presidential election",
-    "url": "https://thetechgraph.com/2016/11/05/lyft-offer-45-percent-discount-presidential-election/",
-    "votes": 4,
-    "posted": "Nov 5, 2016 5:19:32 PM"
-  },
-  {
-    "id": "12880381",
-    "timestamp": "Nov 5, 2016 6:58:17 PM",
-    "topic": "Man hacked his Alexa to speak out of a singing fish, and it\u0027s horrifying",
-    "url": "http://mashable.com/2016/11/04/big-mouth-billy-bass-alexa-/#mrpCYng7piq4",
-    "votes": 7,
-    "posted": "Nov 5, 2016 5:19:26 PM"
-  },
-  {
-    "id": "12880372",
-    "timestamp": "Nov 5, 2016 7:08:18 PM",
-    "topic": "Emotional, behavioral and social difficulties among high-IQ children [pdf]",
-    "url": "http://www.lscp.net/persons/ramus/docs/PAID16.pdf",
-    "votes": 5,
-    "posted": "Nov 5, 2016 5:17:45 PM"
-  },
-  {
-    "id": "12880290",
-    "timestamp": "Nov 6, 2016 2:30:01 PM",
-    "topic": "Show HN: Tea- a User\u0027s Guide",
-    "url": "https://www.worldoftea.org/book",
-    "votes": 5,
-    "posted": "Nov 5, 2016 5:01:04 PM"
-  },
-  {
-    "id": "12880274",
-    "timestamp": "Nov 5, 2016 8:38:28 PM",
-    "topic": "Ask HN: How is Windows for developers nowadays?",
-    "votes": 5,
-    "posted": "Nov 5, 2016 4:57:40 PM"
   }
 ];
