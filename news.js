@@ -30,6 +30,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 5:40:47 AM"
   },
   {
+    "id": "12936586",
+    "timestamp": "Nov 12, 2016 7:42:49 AM",
+    "topic": "China ends anonymity on its internet starting June 2017",
+    "url": "https://www.techinasia.com/china-ends-anonymity-internet",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:23:52 AM"
+  },
+  {
     "id": "12936524",
     "timestamp": "Nov 12, 2016 5:52:40 AM",
     "topic": "Office UI Fabric by Microsoft",
@@ -134,6 +142,22 @@ var newsArray = [
     "posted": "Nov 12, 2016 2:26:25 AM"
   },
   {
+    "id": "12935986",
+    "timestamp": "Nov 12, 2016 7:22:47 AM",
+    "topic": "What Hilary and I -and Ricardo- got wrong about trade; and Trump got dead right",
+    "url": "https://medium.com/@russellirvinjohnston/what-hilary-and-i-and-ricardo-got-wrong-about-trade-and-trump-got-dead-right-688cab9e1e11#.dx4b0s1ra",
+    "votes": 4,
+    "posted": "Nov 12, 2016 2:22:27 AM"
+  },
+  {
+    "id": "12935974",
+    "timestamp": "Nov 12, 2016 7:12:47 AM",
+    "topic": "Compact Tunnel Boring Machines Are Major Players in North America",
+    "url": "http://trenchlessonline.com/compact-tunnel-boring-machines-major-players-north-america/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 2:18:45 AM"
+  },
+  {
     "id": "12935953",
     "timestamp": "Nov 12, 2016 3:02:26 AM",
     "topic": "Trump Says He May Keep Parts of Obama Health Care Act",
@@ -163,6 +187,13 @@ var newsArray = [
     "url": "http://advances.sciencemag.org/content/2/11/e1501923.full",
     "votes": 3,
     "posted": "Nov 12, 2016 2:02:26 AM"
+  },
+  {
+    "id": "12935872",
+    "timestamp": "Nov 12, 2016 7:32:48 AM",
+    "topic": "Ask HN: What\u0027s the best remote desktop viewing software for Windows?",
+    "votes": 5,
+    "posted": "Nov 12, 2016 1:52:52 AM"
   },
   {
     "id": "12935805",
@@ -7352,21 +7383,5 @@ var newsArray = [
     "url": "https://www.happyassassin.net/2016/11/04/i-dont-like-computers/",
     "votes": 8,
     "posted": "Nov 5, 2016 9:07:24 AM"
-  },
-  {
-    "id": "12878496",
-    "timestamp": "Nov 5, 2016 8:36:43 AM",
-    "topic": "Three New Scandals Show How Pervasive Mass Surveillance Is in the West",
-    "url": "https://theintercept.com/2016/11/04/three-new-scandals-show-how-pervasive-and-dangerous-mass-surveillance-is-in-the-west-vindicating-snowden/",
-    "votes": 3,
-    "posted": "Nov 5, 2016 7:45:26 AM"
-  },
-  {
-    "id": "12878488",
-    "timestamp": "Nov 5, 2016 10:06:50 AM",
-    "topic": "Software Freedom Conservancy Publishes Agreements for Linux Compliance Program",
-    "url": "https://sfconservancy.org/news/2016/nov/03/linux-compliance-agreements/",
-    "votes": 3,
-    "posted": "Nov 5, 2016 7:38:36 AM"
   }
 ];
