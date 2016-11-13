@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12943150",
+    "timestamp": "Nov 13, 2016 2:55:33 PM",
+    "topic": "GNU Parallel Tutorial",
+    "url": "https://www.gnu.org/software/parallel/parallel_tutorial.html#GNU-Parallel-Tutorial",
+    "votes": 4,
+    "posted": "Nov 13, 2016 2:11:49 PM"
+  },
+  {
+    "id": "12943091",
+    "timestamp": "Nov 13, 2016 2:55:33 PM",
+    "topic": "Service Workers: an Introduction",
+    "url": "https://developers.google.com/web/fundamentals/getting-started/primers/service-workers",
+    "votes": 3,
+    "posted": "Nov 13, 2016 1:51:32 PM"
+  },
+  {
+    "id": "12943067",
+    "timestamp": "Nov 13, 2016 2:15:28 PM",
+    "topic": "Interactive Machine Learning",
+    "url": "http://iml.media.mit.edu/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 1:42:35 PM"
+  },
+  {
     "id": "12943028",
     "timestamp": "Nov 13, 2016 1:45:24 PM",
     "topic": "Orbiter Space Flight Simulator 2016 Edition",
@@ -22,6 +46,22 @@ var newsArray = [
     "url": "http://www.9bis.net/kitty/",
     "votes": 4,
     "posted": "Nov 13, 2016 1:20:07 PM"
+  },
+  {
+    "id": "12942888",
+    "timestamp": "Nov 13, 2016 2:55:33 PM",
+    "topic": "Lost Cause: Seeing America Through the Losing Candidates’ Map",
+    "url": "https://projects.propublica.org/graphics/lost-cause",
+    "votes": 3,
+    "posted": "Nov 13, 2016 12:41:24 PM"
+  },
+  {
+    "id": "12942734",
+    "timestamp": "Nov 13, 2016 2:35:30 PM",
+    "topic": "How Brocade totally missed the boat with Vyatta (2014)",
+    "url": "http://dotbalm.org/brocade-missed-the-boat-with-vyatta/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:40:45 AM"
   },
   {
     "id": "12942715",
@@ -54,6 +94,14 @@ var newsArray = [
     "url": "http://nullprogram.com/blog/2016/11/13/",
     "votes": 3,
     "posted": "Nov 13, 2016 11:10:58 AM"
+  },
+  {
+    "id": "12942607",
+    "timestamp": "Nov 13, 2016 2:05:27 PM",
+    "topic": "Show HN: Tap curl in your editor before it gets to sh",
+    "url": "https://github.com/awalGarg/curl-tap-sh",
+    "votes": 4,
+    "posted": "Nov 13, 2016 10:57:03 AM"
   },
   {
     "id": "12942534",
@@ -195,6 +243,14 @@ var newsArray = [
     "url": "https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/",
     "votes": 3,
     "posted": "Nov 13, 2016 4:19:56 AM"
+  },
+  {
+    "id": "12941409",
+    "timestamp": "Nov 13, 2016 2:15:28 PM",
+    "topic": "Dostoevsky’s Empathy",
+    "url": "http://www.theparisreview.org/blog/2016/11/11/dostoevskys-empathy/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:57:10 AM"
   },
   {
     "id": "12941399",
@@ -457,6 +513,13 @@ var newsArray = [
     "posted": "Nov 12, 2016 8:39:18 PM"
   },
   {
+    "id": "12939733",
+    "timestamp": "Nov 13, 2016 2:15:28 PM",
+    "topic": "Ask HN: What are some of your favorite documentaries?",
+    "votes": 5,
+    "posted": "Nov 12, 2016 8:36:56 PM"
+  },
+  {
     "id": "12939690",
     "timestamp": "Nov 12, 2016 10:14:06 PM",
     "topic": "Sqlite Performance",
@@ -487,6 +550,14 @@ var newsArray = [
     "url": "http://www2.nybooks.com/daily/s3/nov/10/trump-election-autocracy-rules-for-survival.html",
     "votes": 3,
     "posted": "Nov 12, 2016 7:45:03 PM"
+  },
+  {
+    "id": "12939407",
+    "timestamp": "Nov 13, 2016 2:15:28 PM",
+    "topic": "Why Does Moby-Dick Sometimes Have a Hyphen? (2015)",
+    "url": "http://www.smithsonianmag.com/smart-news/moby-dick-has-mysterious-hyphen-180957512/?no-ist",
+    "votes": 3,
+    "posted": "Nov 12, 2016 7:44:23 PM"
   },
   {
     "id": "12939245",
@@ -978,6 +1049,14 @@ var newsArray = [
     "topic": "Make Hacker News Great Again",
     "votes": 6,
     "posted": "Nov 12, 2016 5:47:21 AM"
+  },
+  {
+    "id": "12936656",
+    "timestamp": "Nov 13, 2016 2:45:32 PM",
+    "topic": "The Taste Makers (2009)",
+    "url": "http://www.newyorker.com/magazine/2009/11/23/the-taste-makers?currentPage\u003dall",
+    "votes": 3,
+    "posted": "Nov 12, 2016 5:46:18 AM"
   },
   {
     "id": "12936650",
@@ -7316,13 +7395,5 @@ var newsArray = [
     "url": "https://cloudrail.com/best-android-libraries-for-developers/",
     "votes": 6,
     "posted": "Nov 6, 2016 3:31:57 PM"
-  },
-  {
-    "id": "12884928",
-    "timestamp": "Nov 6, 2016 3:20:05 PM",
-    "topic": "SpaceX finally knows what caused the latest rocket failure",
-    "url": "http://www.theverge.com/2016/11/5/13533900/elon-musk-spacex-falcon-9-failure-cause-solved",
-    "votes": 5,
-    "posted": "Nov 6, 2016 2:18:21 PM"
   }
 ];
