@@ -1,11 +1,73 @@
 var newsArray = [
   {
+    "id": "12945221",
+    "timestamp": "Nov 13, 2016 8:56:07 PM",
+    "topic": "Trigger Happy: An opensource clone of IFTTT",
+    "url": "https://trigger-happy.eu/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 8:45:01 PM"
+  },
+  {
+    "id": "12944961",
+    "timestamp": "Nov 13, 2016 8:26:04 PM",
+    "topic": "The 14 Characteristics of Fascism (2003)",
+    "url": "https://ratical.org/ratville/CAH/fasci14chars.html",
+    "votes": 4,
+    "posted": "Nov 13, 2016 8:04:39 PM"
+  },
+  {
+    "id": "12944914",
+    "timestamp": "Nov 13, 2016 8:36:05 PM",
+    "topic": "The Mirror Effect: The rise of mirrors in the fifteenth century",
+    "url": "http://laphamsquarterly.org/roundtable/mirror-effect",
+    "votes": 3,
+    "posted": "Nov 13, 2016 7:56:06 PM"
+  },
+  {
+    "id": "12944913",
+    "timestamp": "Nov 13, 2016 8:16:03 PM",
+    "topic": "The Apache Cassandra battle highlights major problem with open source projects",
+    "url": "http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/",
+    "votes": 6,
+    "posted": "Nov 13, 2016 7:56:02 PM"
+  },
+  {
+    "id": "12944873",
+    "timestamp": "Nov 13, 2016 8:16:03 PM",
+    "topic": "Win3mu – Seamless 16-bit Windows 3.* Emulation for Modern Windows",
+    "url": "http://www.win3mu.com/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 7:48:29 PM"
+  },
+  {
     "id": "12944792",
     "timestamp": "Nov 13, 2016 7:45:59 PM",
     "topic": "Another crypto-currency is born",
     "url": "http://www.economist.com/news/finance-and-economics/21709329-another-crypto-currency-born-known-unknown",
     "votes": 6,
     "posted": "Nov 13, 2016 7:35:10 PM"
+  },
+  {
+    "id": "12944791",
+    "timestamp": "Nov 13, 2016 8:06:02 PM",
+    "topic": "The Real Spectre",
+    "url": "https://www.1843magazine.com/features/the-real-spectre",
+    "votes": 3,
+    "posted": "Nov 13, 2016 7:34:14 PM"
+  },
+  {
+    "id": "12944767",
+    "timestamp": "Nov 13, 2016 8:46:06 PM",
+    "topic": "Ask HN: Why is modern webdesign so ugly?",
+    "votes": 5,
+    "posted": "Nov 13, 2016 7:30:23 PM"
+  },
+  {
+    "id": "12944747",
+    "timestamp": "Nov 13, 2016 8:36:05 PM",
+    "topic": "Ask HN: I\u0027ll die about 2068, will most games still be written in C/C++?",
+    "votes": 7,
+    "posted": "Nov 13, 2016 7:25:29 PM"
   },
   {
     "id": "12944717",
@@ -72,6 +134,22 @@ var newsArray = [
     "posted": "Nov 13, 2016 5:36:06 PM"
   },
   {
+    "id": "12944077",
+    "timestamp": "Nov 13, 2016 8:16:03 PM",
+    "topic": "Show HN: Pact – a safe smart contract language (web editor)",
+    "url": "http://kadena.io/try-pact/",
+    "votes": 7,
+    "posted": "Nov 13, 2016 5:30:19 PM"
+  },
+  {
+    "id": "12943984",
+    "timestamp": "Nov 13, 2016 8:56:07 PM",
+    "topic": "Show HN: Python library for keyboard hooks and macros",
+    "url": "https://github.com/boppreh/keyboard",
+    "votes": 3,
+    "posted": "Nov 13, 2016 5:12:44 PM"
+  },
+  {
     "id": "12943889",
     "timestamp": "Nov 13, 2016 7:46:00 PM",
     "topic": "Show HN: A tech conference aggregator",
@@ -118,6 +196,14 @@ var newsArray = [
     "url": "https://www.leakedsource.com/blog/friendfinder",
     "votes": 5,
     "posted": "Nov 13, 2016 3:24:06 PM"
+  },
+  {
+    "id": "12943358",
+    "timestamp": "Nov 13, 2016 8:16:03 PM",
+    "topic": "Peter Thiel goes \u0027big league\u0027, joining Trump\u0027s presidential transition team",
+    "url": "https://www.theguardian.com/technology/2016/nov/11/peter-thiel-joins-donald-trump-transition-team",
+    "votes": 6,
+    "posted": "Nov 13, 2016 3:07:42 PM"
   },
   {
     "id": "12943350",
@@ -7424,53 +7510,5 @@ var newsArray = [
     "url": "http://motherboard.vice.com/read/windows-10-store-refunds-call-of-duty-player-because-nobodys-playing-it",
     "votes": 4,
     "posted": "Nov 6, 2016 9:13:25 PM"
-  },
-  {
-    "id": "12886672",
-    "timestamp": "Nov 6, 2016 9:30:43 PM",
-    "topic": "Delhi’s air is so toxic that schools are closing, expats are fleeing",
-    "url": "http://qz.com/828754/india-pollution-schools-shut-down-expats-flee-and-the-visiting-uk-pm-theresa-may-risks-losing-hours-from-her-life-as-delhi-chokes/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 8:38:35 PM"
-  },
-  {
-    "id": "12886648",
-    "timestamp": "Nov 6, 2016 9:30:44 PM",
-    "topic": "What I learned from writing six functions that all did the same thing",
-    "url": "https://medium.freecodecamp.com/what-i-learned-from-writing-six-functions-that-all-did-the-same-thing-b38fd48f0d55",
-    "votes": 3,
-    "posted": "Nov 6, 2016 8:34:18 PM"
-  },
-  {
-    "id": "12886632",
-    "timestamp": "Nov 7, 2016 11:11:57 AM",
-    "topic": "When Crowds Try to Flee for Their Lives",
-    "url": "http://www.atlasobscura.com/articles/what-happens-when-crowds-try-to-flee-for-their-lives",
-    "votes": 3,
-    "posted": "Nov 6, 2016 8:30:53 PM"
-  },
-  {
-    "id": "12886614",
-    "timestamp": "Nov 6, 2016 11:41:00 PM",
-    "topic": "Show HN: Bash Script to generate static responsive image web galleries",
-    "url": "https://github.com/Cyclenerd/gallery_shell",
-    "votes": 5,
-    "posted": "Nov 6, 2016 8:27:15 PM"
-  },
-  {
-    "id": "12886590",
-    "timestamp": "Nov 6, 2016 10:10:48 PM",
-    "topic": "Slack is falling into a tough cycle every hot startup goes through",
-    "url": "http://www.businessinsider.com/slack-falling-into-tough-cycle-all-hot-startups-go-through-2016-11",
-    "votes": 8,
-    "posted": "Nov 6, 2016 8:22:26 PM"
-  },
-  {
-    "id": "12886525",
-    "timestamp": "Nov 7, 2016 2:32:15 PM",
-    "topic": "Electron is flash for the desktop",
-    "url": "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
-    "votes": 7,
-    "posted": "Nov 6, 2016 8:07:17 PM"
   }
 ];
