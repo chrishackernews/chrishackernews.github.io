@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "12941997",
+    "timestamp": "Nov 13, 2016 7:34:53 AM",
+    "topic": "Ask HN: Best Git workflow for small teams",
+    "votes": 5,
+    "posted": "Nov 13, 2016 6:23:33 AM"
+  },
+  {
+    "id": "12941979",
+    "timestamp": "Nov 13, 2016 7:04:51 AM",
+    "topic": "Native apps are doomed",
+    "url": "https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.p4aazx6vn",
+    "votes": 3,
+    "posted": "Nov 13, 2016 6:17:15 AM"
+  },
+  {
     "id": "12941947",
     "timestamp": "Nov 13, 2016 6:04:46 AM",
     "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
@@ -14,6 +29,14 @@ var newsArray = [
     "url": "https://aeon.co/essays/on-epigenetics-we-need-both-darwin-s-and-lamarck-s-theories",
     "votes": 4,
     "posted": "Nov 13, 2016 5:35:31 AM"
+  },
+  {
+    "id": "12941840",
+    "timestamp": "Nov 13, 2016 7:44:54 AM",
+    "topic": "Python __Underscore__ Methods",
+    "url": "http://www.siafoo.net/article/57",
+    "votes": 3,
+    "posted": "Nov 13, 2016 5:19:27 AM"
   },
   {
     "id": "12941790",
@@ -7350,29 +7373,5 @@ var newsArray = [
     "url": "http://reflectionsonwater.org/blog/2016/10/7/damwho-knew",
     "votes": 3,
     "posted": "Nov 6, 2016 8:39:51 AM"
-  },
-  {
-    "id": "12883872",
-    "timestamp": "Nov 6, 2016 8:19:29 AM",
-    "topic": "Tensions Flare in Silicon Valley Over Growth",
-    "url": "http://www.nytimes.com/2016/11/05/technology/silicon-valley-california-growth.html",
-    "votes": 4,
-    "posted": "Nov 6, 2016 7:36:53 AM"
-  },
-  {
-    "id": "12883836",
-    "timestamp": "Nov 6, 2016 2:30:00 PM",
-    "topic": "U.S. Chief Information Officer Seeks to Upgrade Government\u0027s Computers",
-    "url": "http://www.npr.org/2016/10/31/500115472/u-s-chief-information-officer-seeks-to-upgrade-governments-computers",
-    "votes": 3,
-    "posted": "Nov 6, 2016 7:21:49 AM"
-  },
-  {
-    "id": "12883805",
-    "timestamp": "Nov 6, 2016 8:29:30 AM",
-    "topic": "Nightmare Machine by MIT Media Lab",
-    "url": "http://nightmare.mit.edu/#.WB7JfwRXkFc.hackernews",
-    "votes": 4,
-    "posted": "Nov 6, 2016 7:11:21 AM"
   }
 ];
