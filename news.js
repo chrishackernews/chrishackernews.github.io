@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "12941366",
+    "timestamp": "Nov 13, 2016 2:54:31 AM",
+    "topic": "Ask HN: What should I plan to do on a 6 month sabbatical?",
+    "votes": 4,
+    "posted": "Nov 13, 2016 2:46:29 AM"
+  },
+  {
+    "id": "12941261",
+    "timestamp": "Nov 13, 2016 2:24:29 AM",
+    "topic": "Run a profitable operation – Craft Coffee is hiring ops associate",
+    "url": "http://craftcoffee.applytojob.com/apply/RDvbKv/Operations-Associate?source\u003dhn",
+    "votes": 1,
+    "posted": "Nov 13, 2016 2:20:26 AM"
+  },
+  {
     "id": "12941094",
     "timestamp": "Nov 13, 2016 1:44:26 AM",
     "topic": "Tell HN: Will design for food",
@@ -21,6 +36,14 @@ var newsArray = [
     "url": "http://www.tpug.ca/world-of-commodore-16/about/",
     "votes": 4,
     "posted": "Nov 13, 2016 12:40:41 AM"
+  },
+  {
+    "id": "12940695",
+    "timestamp": "Nov 13, 2016 2:54:31 AM",
+    "topic": "React – CSS in JavaScript techniques comparison",
+    "url": "https://github.com/MicheleBertoli/css-in-js",
+    "votes": 5,
+    "posted": "Nov 13, 2016 12:02:36 AM"
   },
   {
     "id": "12940615",
@@ -142,6 +165,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 8:45:20 PM"
   },
   {
+    "id": "12939747",
+    "timestamp": "Nov 13, 2016 2:04:27 AM",
+    "topic": "TitanPad shutting down",
+    "url": "http://blog.titanpad.com/2016/11/shutting-down-titanpad_12.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 8:39:18 PM"
+  },
+  {
     "id": "12939690",
     "timestamp": "Nov 12, 2016 10:14:06 PM",
     "topic": "Sqlite Performance",
@@ -164,6 +195,14 @@ var newsArray = [
     "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
     "votes": 4,
     "posted": "Nov 12, 2016 7:54:02 PM"
+  },
+  {
+    "id": "12939411",
+    "timestamp": "Nov 13, 2016 2:54:31 AM",
+    "topic": "Autocracy: Rules for Survival",
+    "url": "http://www2.nybooks.com/daily/s3/nov/10/trump-election-autocracy-rules-for-survival.html",
+    "votes": 3,
+    "posted": "Nov 12, 2016 7:45:03 PM"
   },
   {
     "id": "12939245",
@@ -7343,29 +7382,5 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/Juliet_Marine_Systems_Ghost",
     "votes": 3,
     "posted": "Nov 6, 2016 2:58:35 AM"
-  },
-  {
-    "id": "12882957",
-    "timestamp": "Nov 6, 2016 4:29:10 AM",
-    "topic": "What programming language should you learn first? (Answer: JavaScript)",
-    "url": "https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d#.wd4cjsynu",
-    "votes": 3,
-    "posted": "Nov 6, 2016 2:34:34 AM"
-  },
-  {
-    "id": "12882847",
-    "timestamp": "Nov 6, 2016 2:19:00 AM",
-    "topic": "The Geek Keep: Synthesize Speech in Any Voice",
-    "url": "http://geekkeep.blogspot.com/2016/11/synthesize-speech-in-any-voicenew.html#.WB6AoATmhTs.hackernews",
-    "votes": 3,
-    "posted": "Nov 6, 2016 2:03:06 AM"
-  },
-  {
-    "id": "12882837",
-    "timestamp": "Nov 6, 2016 2:29:01 AM",
-    "topic": "Tensorflow and Deep Learning, Without a PhD, Martin Gorner, Google [video]",
-    "url": "https://www.youtube.com/watch?v\u003dsEciSlAClL8",
-    "votes": 3,
-    "posted": "Nov 6, 2016 2:00:53 AM"
   }
 ];
