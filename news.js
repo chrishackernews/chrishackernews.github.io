@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 4:21:31 AM"
   },
   {
+    "id": "12941669",
+    "timestamp": "Nov 13, 2016 5:34:44 AM",
+    "topic": "RStudio IDE Easy Tricks You Might’ve Missed",
+    "url": "https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 4:19:56 AM"
+  },
+  {
     "id": "12941399",
     "timestamp": "Nov 13, 2016 3:14:33 AM",
     "topic": "Muslim woman: I\u0027m one of Trump\u0027s “silent voters”",
@@ -62,6 +70,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 1:26:59 AM"
   },
   {
+    "id": "12941001",
+    "timestamp": "Nov 13, 2016 5:54:45 AM",
+    "topic": "MUI a Super Lightweight Material Design Framework",
+    "url": "https://www.muicss.com/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 1:12:21 AM"
+  },
+  {
     "id": "12940989",
     "timestamp": "Nov 13, 2016 4:54:41 AM",
     "topic": "Extracting PIN by monitoring how phone WiFi signal changes as you type it",
@@ -84,6 +100,14 @@ var newsArray = [
     "url": "http://www.tpug.ca/world-of-commodore-16/about/",
     "votes": 4,
     "posted": "Nov 13, 2016 12:40:41 AM"
+  },
+  {
+    "id": "12940815",
+    "timestamp": "Nov 13, 2016 5:24:43 AM",
+    "topic": "The No-BS Approach to Building Your SaaS Startup\u0027s Launch List (Epic Guide P2)",
+    "url": "https://medium.com/@cliffordoravec/the-no-bs-approach-to-building-your-saas-startups-launch-list-part-2-of-the-epic-guide-to-8cc371be772c#.8ji4e9kdd",
+    "votes": 4,
+    "posted": "Nov 13, 2016 12:31:11 AM"
   },
   {
     "id": "12940695",
@@ -7334,37 +7358,5 @@ var newsArray = [
     "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
     "votes": 8,
     "posted": "Nov 6, 2016 6:02:45 AM"
-  },
-  {
-    "id": "12883534",
-    "timestamp": "Nov 6, 2016 7:00:27 PM",
-    "topic": "When Science Went Modern",
-    "url": "http://www.iasc-culture.org/THR/THR_article_2016_Fall_Daston.php",
-    "votes": 3,
-    "posted": "Nov 6, 2016 5:38:11 AM"
-  },
-  {
-    "id": "12883513",
-    "timestamp": "Nov 6, 2016 7:19:24 AM",
-    "topic": "Adobe is working on an audio app that lets you add words someone never said",
-    "url": "http://www.theverge.com/2016/11/3/13514088/adobe-photoshop-audio-project-voco",
-    "votes": 4,
-    "posted": "Nov 6, 2016 5:29:32 AM"
-  },
-  {
-    "id": "12883481",
-    "timestamp": "Nov 6, 2016 6:39:20 AM",
-    "topic": "Eben Moglen on GPL Compliance and Building Communities: What Works",
-    "url": "https://www.linux.com/news/eben-moglen-gpl-compliance-and-building-communities-what-works",
-    "votes": 4,
-    "posted": "Nov 6, 2016 5:17:01 AM"
-  },
-  {
-    "id": "12883464",
-    "timestamp": "Nov 6, 2016 8:00:34 PM",
-    "topic": "When the FBI Has a Phone It Can\u0027t Crack, It Calls These Israeli Hackers",
-    "url": "https://theintercept.com/2016/10/31/fbis-go-hackers/",
-    "votes": 4,
-    "posted": "Nov 6, 2016 5:10:55 AM"
   }
 ];
