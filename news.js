@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12945406",
+    "timestamp": "Nov 13, 2016 9:46:12 PM",
+    "topic": "Cuba\u0027s Lung Cancer Vaccine in USA",
+    "url": "https://www.theatlantic.com/health/archive/2016/11/cubas-lung-cancer-vaccine/505778/?single_page\u003dtrue",
+    "votes": 4,
+    "posted": "Nov 13, 2016 9:18:49 PM"
+  },
+  {
+    "id": "12945386",
+    "timestamp": "Nov 13, 2016 9:46:12 PM",
+    "topic": "If Prisoners Ran Prisons",
+    "url": "https://www.themarshallproject.org/2016/10/23/if-prisoners-ran-prisons#.xm20Sygvd",
+    "votes": 3,
+    "posted": "Nov 13, 2016 9:14:47 PM"
+  },
+  {
+    "id": "12945359",
+    "timestamp": "Nov 13, 2016 9:46:12 PM",
+    "topic": "AT\u0026T will lower the quality of most video to 480p starting next year",
+    "url": "http://finance.yahoo.com/news/t-lower-quality-most-video-192210655.html",
+    "votes": 4,
+    "posted": "Nov 13, 2016 9:11:15 PM"
+  },
+  {
+    "id": "12945314",
+    "timestamp": "Nov 13, 2016 9:36:10 PM",
+    "topic": "Why I’m Leaving the Thiel Fellowship",
+    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.pahyb84f5",
+    "votes": 6,
+    "posted": "Nov 13, 2016 9:04:40 PM"
+  },
+  {
     "id": "12945221",
     "timestamp": "Nov 13, 2016 8:56:07 PM",
     "topic": "Trigger Happy: An opensource clone of IFTTT",
     "url": "https://trigger-happy.eu/",
     "votes": 3,
     "posted": "Nov 13, 2016 8:45:01 PM"
+  },
+  {
+    "id": "12945169",
+    "timestamp": "Nov 13, 2016 9:06:08 PM",
+    "topic": "Overlay.NET: An easy-to-use overlay library written in C#",
+    "url": "https://github.com/lolp1/Overlay.NET",
+    "votes": 3,
+    "posted": "Nov 13, 2016 8:36:05 PM"
+  },
+  {
+    "id": "12945015",
+    "timestamp": "Nov 13, 2016 9:06:08 PM",
+    "topic": "How I cloned patio11\u0027s Appointment Reminder for $2,000 MRR",
+    "url": "https://www.indiehackers.com/businesses/terminerinnerung?utm_source\u003dhacker-news\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003dcommunity",
+    "votes": 9,
+    "posted": "Nov 13, 2016 8:13:16 PM"
   },
   {
     "id": "12944961",
@@ -30,6 +78,14 @@ var newsArray = [
     "url": "http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/",
     "votes": 6,
     "posted": "Nov 13, 2016 7:56:02 PM"
+  },
+  {
+    "id": "12944890",
+    "timestamp": "Nov 13, 2016 9:16:09 PM",
+    "topic": "Epitaph for a Bronx Accent",
+    "url": "http://www.tabletmag.com/jewish-life-and-religion/215862/epitaph-for-a-bronx-accent",
+    "votes": 3,
+    "posted": "Nov 13, 2016 7:52:16 PM"
   },
   {
     "id": "12944873",
@@ -7480,35 +7536,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/06/opinion/sunday/time-to-dump-time-zones.html?_r\u003d0",
     "votes": 7,
     "posted": "Nov 6, 2016 10:01:22 PM"
-  },
-  {
-    "id": "12886968",
-    "timestamp": "Nov 7, 2016 1:11:08 AM",
-    "topic": "Ask HN: Tired of trying to catch the JavaScript train",
-    "votes": 5,
-    "posted": "Nov 6, 2016 9:52:05 PM"
-  },
-  {
-    "id": "12886957",
-    "timestamp": "Nov 7, 2016 1:11:08 AM",
-    "topic": "Poll: How often do you check Ask HN or ShowHN posts?",
-    "votes": 3,
-    "posted": "Nov 6, 2016 9:50:59 PM"
-  },
-  {
-    "id": "12886894",
-    "timestamp": "Nov 6, 2016 9:50:46 PM",
-    "topic": "On the road with the 13-inch MacBook Pro",
-    "url": "https://sixcolors.com/post/2016/11/review-traveling-with-the-13-inch-macbook-pro/",
-    "votes": 6,
-    "posted": "Nov 6, 2016 9:29:59 PM"
-  },
-  {
-    "id": "12886820",
-    "timestamp": "Nov 6, 2016 9:40:45 PM",
-    "topic": "Windows 10 Store Refunds ‘Call of Duty’ Player Because Nobody\u0027s Playing It",
-    "url": "http://motherboard.vice.com/read/windows-10-store-refunds-call-of-duty-player-because-nobodys-playing-it",
-    "votes": 4,
-    "posted": "Nov 6, 2016 9:13:25 PM"
   }
 ];
