@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12941947",
+    "timestamp": "Nov 13, 2016 6:04:46 AM",
+    "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
+    "url": "http://grnh.se/dik0jy1",
+    "votes": 1,
+    "posted": "Nov 13, 2016 6:02:03 AM"
+  },
+  {
+    "id": "12941893",
+    "timestamp": "Nov 13, 2016 6:04:46 AM",
+    "topic": "Unified Theory of Evolution",
+    "url": "https://aeon.co/essays/on-epigenetics-we-need-both-darwin-s-and-lamarck-s-theories",
+    "votes": 4,
+    "posted": "Nov 13, 2016 5:35:31 AM"
+  },
+  {
+    "id": "12941790",
+    "timestamp": "Nov 13, 2016 6:14:47 AM",
+    "topic": "Docker user? Haven\u0027t patched Dirty COW yet? Got bad news for you",
+    "url": "http://www.theregister.co.uk/2016/11/01/docker_user_havent_patched_dirty_cow_yet_bad_news/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 5:03:53 AM"
+  },
+  {
     "id": "12941673",
     "timestamp": "Nov 13, 2016 4:34:39 AM",
     "topic": "OAuth 2.0 Hack Exposes 1B Mobile Apps to Account Hijacking",
@@ -100,6 +124,14 @@ var newsArray = [
     "url": "http://www.tpug.ca/world-of-commodore-16/about/",
     "votes": 4,
     "posted": "Nov 13, 2016 12:40:41 AM"
+  },
+  {
+    "id": "12940829",
+    "timestamp": "Nov 13, 2016 6:54:50 AM",
+    "topic": "New attack reportedly lets 1 modest laptop knock big servers offline",
+    "url": "http://arstechnica.com/security/2016/11/new-attack-reportedly-lets-1-modest-laptop-knock-big-servers-offline/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 12:35:17 AM"
   },
   {
     "id": "12940815",
@@ -7342,21 +7374,5 @@ var newsArray = [
     "url": "http://nightmare.mit.edu/#.WB7JfwRXkFc.hackernews",
     "votes": 4,
     "posted": "Nov 6, 2016 7:11:21 AM"
-  },
-  {
-    "id": "12883645",
-    "timestamp": "Nov 6, 2016 7:59:27 AM",
-    "topic": "Daiwa to adopt blockchain for Myanmar stock trading",
-    "url": "http://asia.nikkei.com/Business/Companies/Daiwa-to-adopt-blockchain-for-Myanmar-stock-trading",
-    "votes": 5,
-    "posted": "Nov 6, 2016 6:12:24 AM"
-  },
-  {
-    "id": "12883616",
-    "timestamp": "Nov 6, 2016 6:39:20 AM",
-    "topic": "New NASA Emdrive paper shows force of 1.2 millinewtons per kilowatt in a Vacuum",
-    "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
-    "votes": 8,
-    "posted": "Nov 6, 2016 6:02:45 AM"
   }
 ];
