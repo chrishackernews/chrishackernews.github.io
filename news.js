@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12943744",
+    "timestamp": "Nov 13, 2016 4:55:45 PM",
+    "topic": "The Happiest People Don\u0027t Let Their Minds Wander, According to a Harvard Study",
+    "url": "http://www.inc.com/quora/the-happiest-people-dont-let-their-minds-wander-according-to-a-harvard-study.html",
+    "votes": 5,
+    "posted": "Nov 13, 2016 4:25:10 PM"
+  },
+  {
     "id": "12943418",
     "timestamp": "Nov 13, 2016 3:45:39 PM",
     "topic": "Sexual secrets for hundreds of millions exposed in largest hack of 2016",
@@ -229,6 +237,14 @@ var newsArray = [
     "topic": "Dear Google, Apple, Mozilla, and MS: Please End Auto-Playing Media in Browsers",
     "votes": 6,
     "posted": "Nov 13, 2016 9:48:12 AM"
+  },
+  {
+    "id": "12942461",
+    "timestamp": "Nov 13, 2016 4:55:45 PM",
+    "topic": "My Subconscious Is a Better Developer Than I Am",
+    "url": "http://blog.johnnyreilly.com/2016/11/my-subconscious-is-better-developer.html",
+    "votes": 5,
+    "posted": "Nov 13, 2016 9:45:02 AM"
   },
   {
     "id": "12942437",
@@ -599,6 +615,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?CMP\u003dshare_btn_tw",
     "votes": 4,
     "posted": "Nov 12, 2016 9:39:54 PM"
+  },
+  {
+    "id": "12939912",
+    "timestamp": "Nov 13, 2016 4:25:42 PM",
+    "topic": "Stranger Things: The Rise and Fall of UFOs and Life on the Moon",
+    "url": "http://bostonreview.net/literature-culture/john-crowley-stranger-things-rise-and-fall-ufos-and-life-moon",
+    "votes": 4,
+    "posted": "Nov 12, 2016 9:11:34 PM"
   },
   {
     "id": "12939877",
@@ -7414,106 +7438,5 @@ var newsArray = [
     "url": "http://finance.yahoo.com/news/elon-musk-robots-jobs-government-181956572.html?.gg_invalid\u003dtrue",
     "votes": 4,
     "posted": "Nov 6, 2016 5:11:00 PM"
-  },
-  {
-    "id": "12885594",
-    "timestamp": "Nov 6, 2016 7:00:27 PM",
-    "topic": "Imagine there is no media bias",
-    "url": "http://www.powerlineblog.com/archives/2016/11/imagine-theres-no-media-bias-2.php",
-    "votes": 3,
-    "posted": "Nov 6, 2016 4:55:13 PM"
-  },
-  {
-    "id": "12885585",
-    "timestamp": "Nov 6, 2016 8:00:34 PM",
-    "topic": "Show HN: LosslessCut – Cross-platform GUI tool for fast, lossless video cutting",
-    "url": "https://github.com/mifi/lossless-cut",
-    "votes": 4,
-    "posted": "Nov 6, 2016 4:53:56 PM"
-  },
-  {
-    "id": "12885564",
-    "timestamp": "Nov 7, 2016 8:02:45 PM",
-    "topic": "The Oppressive Gospel of ‘Minimalism’",
-    "url": "http://www.nytimes.com/2016/07/31/magazine/the-oppressive-gospel-of-minimalism.html?_r\u003d1",
-    "votes": 4,
-    "posted": "Nov 6, 2016 4:48:21 PM"
-  },
-  {
-    "id": "12885558",
-    "timestamp": "Nov 7, 2016 12:22:03 PM",
-    "topic": "Ask HN: How common is illegal web scraping?",
-    "votes": 6,
-    "posted": "Nov 6, 2016 4:47:36 PM"
-  },
-  {
-    "id": "12885549",
-    "timestamp": "Nov 6, 2016 4:50:14 PM",
-    "topic": "FindBugs project in its current form  is dead",
-    "url": "https://mailman.cs.umd.edu/pipermail/findbugs-discuss/2016-November/004321.html",
-    "votes": 3,
-    "posted": "Nov 6, 2016 4:45:08 PM"
-  },
-  {
-    "id": "12885500",
-    "timestamp": "Nov 6, 2016 7:30:31 PM",
-    "topic": "Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages",
-    "url": "http://muratbuffalo.blogspot.com/2016/11/why-does-cloud-stop-computing-lessons.html",
-    "votes": 7,
-    "posted": "Nov 6, 2016 4:34:35 PM"
-  },
-  {
-    "id": "12885482",
-    "timestamp": "Nov 7, 2016 4:31:25 AM",
-    "topic": "Ask HN: Tips for reading HN on mobile for older eyes?",
-    "votes": 4,
-    "posted": "Nov 6, 2016 4:31:19 PM"
-  },
-  {
-    "id": "12885435",
-    "timestamp": "Nov 6, 2016 5:20:17 PM",
-    "topic": "Doing Business in Japan",
-    "url": "http://www.kalzumeus.com/2014/11/07/doing-business-in-japan/",
-    "votes": 5,
-    "posted": "Nov 6, 2016 4:21:55 PM"
-  },
-  {
-    "id": "12885416",
-    "timestamp": "Nov 6, 2016 4:30:12 PM",
-    "topic": "U.S. regulator found another cheat device in Audi car",
-    "url": "http://www.reuters.com/article/us-volkswagen-emissions-audi-idUSKBN1300V7",
-    "votes": 23,
-    "posted": "Nov 6, 2016 4:17:24 PM"
-  },
-  {
-    "id": "12885396",
-    "timestamp": "Nov 6, 2016 4:30:12 PM",
-    "topic": "Maryland will audit all votes cast in general election",
-    "url": "http://www.baltimoresun.com/news/maryland/politics/bs-md-sun-investigates-election-audit-20161105-story.html",
-    "votes": 3,
-    "posted": "Nov 6, 2016 4:11:51 PM"
-  },
-  {
-    "id": "12885393",
-    "timestamp": "Nov 6, 2016 4:30:12 PM",
-    "topic": "Retrotechtacular: FAX as a Service in 1984",
-    "url": "http://hackaday.com/2016/11/04/retrotechtacular-fax-as-a-service-in-1984/",
-    "votes": 5,
-    "posted": "Nov 6, 2016 4:11:37 PM"
-  },
-  {
-    "id": "12885369",
-    "timestamp": "Nov 6, 2016 4:10:09 PM",
-    "topic": "GiveCampus is hiring full stack engineers and biz dev roles in DC and SF",
-    "votes": 1,
-    "posted": "Nov 6, 2016 4:07:15 PM"
-  },
-  {
-    "id": "12885356",
-    "timestamp": "Nov 6, 2016 5:00:15 PM",
-    "topic": "Acknowledging the complexity of life may be a fruitful path to well-being",
-    "url": "https://www.scientificamerican.com/article/negative-emotions-key-well-being/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 4:03:40 PM"
   }
 ];
