@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12944506",
+    "timestamp": "Nov 13, 2016 6:45:54 PM",
+    "topic": "Remote volunteering at Zidisha (YC microlending nonprofit)",
+    "url": "https://www.zidisha.org/volunteer",
+    "votes": 1,
+    "posted": "Nov 13, 2016 6:43:57 PM"
+  },
+  {
+    "id": "12944464",
+    "timestamp": "Nov 13, 2016 6:55:55 PM",
+    "topic": "Diamonds Suck (2006)",
+    "url": "http://diamondssuck.com/",
+    "votes": 13,
+    "posted": "Nov 13, 2016 6:35:56 PM"
+  },
+  {
+    "id": "12944290",
+    "timestamp": "Nov 13, 2016 6:35:53 PM",
+    "topic": "Tango: Distributed Data Structures Over a Shared Log",
+    "url": "https://www.microsoft.com/en-us/research/publication/tango-distributed-data-structures-over-a-shared-log/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 6:06:33 PM"
+  },
+  {
     "id": "12943744",
     "timestamp": "Nov 13, 2016 4:55:45 PM",
     "topic": "The Happiest People Don\u0027t Let Their Minds Wander, According to a Harvard Study",
@@ -505,6 +529,14 @@ var newsArray = [
     "url": "https://medium.com/@cliffordoravec/the-no-bs-approach-to-building-your-saas-startups-launch-list-part-2-of-the-epic-guide-to-8cc371be772c#.8ji4e9kdd",
     "votes": 4,
     "posted": "Nov 13, 2016 12:31:11 AM"
+  },
+  {
+    "id": "12940752",
+    "timestamp": "Nov 13, 2016 6:55:55 PM",
+    "topic": "Six Designers Take on Some of the World’s Toughest Redesign Challenges",
+    "url": "http://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-redesign-challenge.html?smid\u003dfb-nytscience\u0026smtyp\u003dcur\u0026_r\u003d0",
+    "votes": 4,
+    "posted": "Nov 13, 2016 12:17:28 AM"
   },
   {
     "id": "12940695",
@@ -7374,37 +7406,5 @@ var newsArray = [
     "topic": "Ask HN: What are you reading this weekend?",
     "votes": 7,
     "posted": "Nov 6, 2016 6:59:09 PM"
-  },
-  {
-    "id": "12886178",
-    "timestamp": "Nov 6, 2016 7:10:28 PM",
-    "topic": "Google\u0027s investment arm has quietly invested in Snapchat",
-    "url": "http://www.businessinsider.com/alphabet-google-capitalg-invested-in-snapchat-snap-inc-2016-11",
-    "votes": 3,
-    "posted": "Nov 6, 2016 6:48:11 PM"
-  },
-  {
-    "id": "12886175",
-    "timestamp": "Nov 6, 2016 8:10:36 PM",
-    "topic": "Yitang Zhang proves bounded gaps prime conjecture",
-    "url": "http://www.slate.com/articles/health_and_science/do_the_math/2013/05/yitang_zhang_twin_primes_conjecture_a_huge_discovery_about_prime_numbers.html",
-    "votes": 4,
-    "posted": "Nov 6, 2016 6:47:25 PM"
-  },
-  {
-    "id": "12886067",
-    "timestamp": "Nov 6, 2016 7:20:30 PM",
-    "topic": ":syntax off",
-    "url": "http://dudzik.co/digress-into-development/syntax-off",
-    "votes": 14,
-    "posted": "Nov 6, 2016 6:22:33 PM"
-  },
-  {
-    "id": "12885980",
-    "timestamp": "Nov 6, 2016 6:40:25 PM",
-    "topic": "Intercooler.js – Making AJAX as easy as anchor tags",
-    "url": "https://github.com/LeadDyno/intercooler-js",
-    "votes": 5,
-    "posted": "Nov 6, 2016 6:04:46 PM"
   }
 ];
