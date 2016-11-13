@@ -7284,21 +7284,5 @@ var newsArray = [
     "url": "https://www.techinasia.com/china-citizens-scores-barred-from-flights",
     "votes": 4,
     "posted": "Nov 6, 2016 1:07:24 PM"
-  },
-  {
-    "id": "12884694",
-    "timestamp": "Nov 6, 2016 2:30:00 PM",
-    "topic": "JSCity: source code visualization for (and by) JavaScript",
-    "url": "https://github.com/aserg-ufmg/JSCity/wiki/JSCITY",
-    "votes": 3,
-    "posted": "Nov 6, 2016 12:52:20 PM"
-  },
-  {
-    "id": "12884633",
-    "timestamp": "Nov 6, 2016 4:20:11 PM",
-    "topic": "Whatsapp extremely popular among diplomats",
-    "url": "https://www.theguardian.com/technology/2016/nov/04/why-do-diplomats-use-this-alien-whatsapp-emoji-for-vladimir-putin",
-    "votes": 5,
-    "posted": "Nov 6, 2016 12:32:22 PM"
   }
 ];
