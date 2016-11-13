@@ -7406,37 +7406,5 @@ var newsArray = [
     "url": "https://github.com/LeadDyno/intercooler-js",
     "votes": 5,
     "posted": "Nov 6, 2016 6:04:46 PM"
-  },
-  {
-    "id": "12885843",
-    "timestamp": "Nov 6, 2016 6:00:21 PM",
-    "topic": "Books Warren Buffett thinks you should read",
-    "url": "http://www.smh.com.au/business/markets/21-books-warren-buffett-thinks-you-should-read-20161103-gshv25.html",
-    "votes": 3,
-    "posted": "Nov 6, 2016 5:39:41 PM"
-  },
-  {
-    "id": "12885840",
-    "timestamp": "Nov 6, 2016 6:20:23 PM",
-    "topic": "Getting Started with MobX: An Easy Example",
-    "url": "https://medium.com/@carsoncgibbons/getting-started-with-mobx-an-easy-example-99850d13dbd7#.loxel4et0",
-    "votes": 3,
-    "posted": "Nov 6, 2016 5:38:49 PM"
-  },
-  {
-    "id": "12885739",
-    "timestamp": "Nov 6, 2016 7:40:32 PM",
-    "topic": "Gmail Account Hijacking Vulnerability",
-    "url": "http://blog.securityfuse.com/2016/11/gmail-account-hijacking-vulnerability.html",
-    "votes": 5,
-    "posted": "Nov 6, 2016 5:19:54 PM"
-  },
-  {
-    "id": "12885686",
-    "timestamp": "Nov 6, 2016 5:40:19 PM",
-    "topic": "Elon Musk: Robots will take your jobs, government will have to pay your wage?",
-    "url": "http://finance.yahoo.com/news/elon-musk-robots-jobs-government-181956572.html?.gg_invalid\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 6, 2016 5:11:00 PM"
   }
 ];
