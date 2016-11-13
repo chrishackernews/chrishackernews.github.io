@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "12941094",
+    "timestamp": "Nov 13, 2016 1:44:26 AM",
+    "topic": "Tell HN: Will design for food",
+    "votes": 13,
+    "posted": "Nov 13, 2016 1:33:49 AM"
+  },
+  {
+    "id": "12940975",
+    "timestamp": "Nov 13, 2016 1:34:25 AM",
+    "topic": "How to balance a chain of inverted pendulums",
+    "url": "http://fermatslibrary.com/s/a-pendulum-theorem",
+    "votes": 9,
+    "posted": "Nov 13, 2016 1:06:27 AM"
+  },
+  {
     "id": "12940859",
     "timestamp": "Nov 13, 2016 12:54:19 AM",
     "topic": "World of Commodore 2016",
@@ -39,12 +54,52 @@ var newsArray = [
     "posted": "Nov 12, 2016 11:33:43 PM"
   },
   {
+    "id": "12940470",
+    "timestamp": "Nov 13, 2016 1:14:21 AM",
+    "topic": "Apple Deprecated All My Stuff",
+    "url": "https://leejo.github.io/2016/11/12/apple_deprecated_all_my_stuff/",
+    "votes": 10,
+    "posted": "Nov 12, 2016 11:06:25 PM"
+  },
+  {
+    "id": "12940467",
+    "timestamp": "Nov 13, 2016 1:14:21 AM",
+    "topic": "The Head Girl Syndrome",
+    "url": "https://iqpersonalitygenius.blogspot.com/2013/07/the-head-girl-syndrome-opposite-of.html",
+    "votes": 5,
+    "posted": "Nov 12, 2016 11:05:37 PM"
+  },
+  {
+    "id": "12940464",
+    "timestamp": "Nov 13, 2016 1:04:20 AM",
+    "topic": "The Happiest People Don\u0027t Let Their Minds Wander, According to a Harvard Study",
+    "url": "http://www.inc.com/quora/the-happiest-people-dont-let-their-minds-wander-according-to-a-harvard-study.html?utm_source\u003dpocket\u0026utm_medium\u003demail\u0026utm_campaign\u003dpockethits",
+    "votes": 4,
+    "posted": "Nov 12, 2016 11:04:34 PM"
+  },
+  {
     "id": "12940398",
     "timestamp": "Nov 12, 2016 10:54:09 PM",
     "topic": "Segment (YC S11) Is Hiring Senior Solutions Engineers in NYC",
     "url": "https://boards.greenhouse.io/segment/jobs/462268",
     "votes": 1,
     "posted": "Nov 12, 2016 10:48:03 PM"
+  },
+  {
+    "id": "12940396",
+    "timestamp": "Nov 13, 2016 1:14:21 AM",
+    "topic": "What I learned from competing against a ConvNet on ImageNet",
+    "url": "http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 10:47:16 PM"
+  },
+  {
+    "id": "12940364",
+    "timestamp": "Nov 13, 2016 1:24:24 AM",
+    "topic": "Quick, How Might the Alien Spacecraft Work?",
+    "url": "http://blog.stephenwolfram.com/2016/11/quick-how-might-the-alien-spacecraft-work/",
+    "votes": 3,
+    "posted": "Nov 12, 2016 10:41:05 PM"
   },
   {
     "id": "12940051",
@@ -101,6 +156,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dnz6u7xRznjY",
     "votes": 3,
     "posted": "Nov 12, 2016 8:04:22 PM"
+  },
+  {
+    "id": "12939475",
+    "timestamp": "Nov 13, 2016 1:04:20 AM",
+    "topic": "The Cognitive Dissonance Cluster Bomb",
+    "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
+    "votes": 4,
+    "posted": "Nov 12, 2016 7:54:02 PM"
   },
   {
     "id": "12939245",
@@ -293,6 +356,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 4:16:03 PM"
   },
   {
+    "id": "12938052",
+    "timestamp": "Nov 13, 2016 1:14:22 AM",
+    "topic": "Stress \u0027changes brains of boys and girls differently\u0027",
+    "url": "http://www.bbc.com/news/health-37936514",
+    "votes": 3,
+    "posted": "Nov 12, 2016 3:50:09 PM"
+  },
+  {
     "id": "12938039",
     "timestamp": "Nov 12, 2016 5:43:40 PM",
     "topic": "What So Many People Don’t Get About the U.S. Working Class",
@@ -307,6 +378,14 @@ var newsArray = [
     "url": "https://electrek.co/2016/11/11/tesla-autopilot-chip-supplier-self-driving-hardware-its-five-years-ahead/",
     "votes": 5,
     "posted": "Nov 12, 2016 3:43:16 PM"
+  },
+  {
+    "id": "12937966",
+    "timestamp": "Nov 13, 2016 1:14:23 AM",
+    "topic": "The Dark Side of Silicon Valley: A Note from Gizmodo\u0027s Editor Katie Drummond",
+    "url": "http://digg.com/2016/gizmodo-takeover",
+    "votes": 4,
+    "posted": "Nov 12, 2016 3:33:41 PM"
   },
   {
     "id": "12937845",
@@ -370,6 +449,14 @@ var newsArray = [
     "url": "http://www.firstpost.com/india/rs-500-rs-1000-ban-modi-govts-intention-was-fair-but-failed-those-who-dont-have-bank-accounts-3102384.html",
     "votes": 3,
     "posted": "Nov 12, 2016 2:07:52 PM"
+  },
+  {
+    "id": "12937635",
+    "timestamp": "Nov 13, 2016 1:14:23 AM",
+    "topic": "Indian tea workers\u0027 conditions remain very poor",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-37936349",
+    "votes": 4,
+    "posted": "Nov 12, 2016 1:58:59 PM"
   },
   {
     "id": "12937607",
@@ -450,6 +537,14 @@ var newsArray = [
     "url": "https://blog.exploratory.io/analyzing-emotions-using-facial-expressions-in-video-with-microsoft-ai-and-r-8f7585dd0780",
     "votes": 4,
     "posted": "Nov 12, 2016 10:05:03 AM"
+  },
+  {
+    "id": "12937164",
+    "timestamp": "Nov 13, 2016 1:24:24 AM",
+    "topic": "Harvard scientists think they\u0027ve pinpointed the physical source of consciousness",
+    "url": "http://www.sciencealert.com/harvard-scientists-think-they-ve-pinpointed-the-neural-source-of-consciousness",
+    "votes": 3,
+    "posted": "Nov 12, 2016 9:54:25 AM"
   },
   {
     "id": "12937138",
@@ -7272,76 +7367,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dsEciSlAClL8",
     "votes": 3,
     "posted": "Nov 6, 2016 2:00:53 AM"
-  },
-  {
-    "id": "12882816",
-    "timestamp": "Nov 6, 2016 2:59:03 AM",
-    "topic": "Ask HN: Overwhelmed with learning front-end, how do I proceed?",
-    "votes": 6,
-    "posted": "Nov 6, 2016 1:52:02 AM"
-  },
-  {
-    "id": "12882790",
-    "timestamp": "Nov 6, 2016 8:09:28 AM",
-    "topic": "I2P: The Invisible Internet Project",
-    "url": "https://geti2p.net/en/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 1:46:55 AM"
-  },
-  {
-    "id": "12882719",
-    "timestamp": "Nov 6, 2016 2:19:59 PM",
-    "topic": "The Story of “How About Never” (2014)",
-    "url": "http://www.newyorker.com/cartoons/bob-mankoff/the-story-of-how-about-never",
-    "votes": 5,
-    "posted": "Nov 6, 2016 1:30:54 AM"
-  },
-  {
-    "id": "12882697",
-    "timestamp": "Nov 6, 2016 2:08:59 AM",
-    "topic": "Harvard researchers created solid metallic hydrogen in the lab",
-    "url": "http://www.nextbigfuture.com/2016/11/harvard-researchers-created-solid.html",
-    "votes": 5,
-    "posted": "Nov 6, 2016 1:24:57 AM"
-  },
-  {
-    "id": "12882696",
-    "timestamp": "Nov 6, 2016 1:38:57 AM",
-    "topic": "Every version of Voxel Quest released (in crude, raw, glory)",
-    "url": "http://www.voxelquest.com/news/every-version-of-voxel-quest-ever",
-    "votes": 6,
-    "posted": "Nov 6, 2016 1:24:25 AM"
-  },
-  {
-    "id": "12882666",
-    "timestamp": "Nov 6, 2016 1:18:55 AM",
-    "topic": "The ruthlessly effective rebranding of Europe’s new far right",
-    "url": "https://www.theguardian.com/world/2016/nov/01/the-ruthlessly-effective-rebranding-of-europes-new-far-right",
-    "votes": 3,
-    "posted": "Nov 6, 2016 1:14:57 AM"
-  },
-  {
-    "id": "12882648",
-    "timestamp": "Nov 6, 2016 2:29:01 AM",
-    "topic": "Verifying the Substitution Cipher Folklore",
-    "url": "http://www.spinellis.gr/blog/20160318/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 1:11:44 AM"
-  },
-  {
-    "id": "12882621",
-    "timestamp": "Nov 6, 2016 1:48:57 AM",
-    "topic": "Don’t Get Attached, It’s Just Luck. My Interviewing Advice and Tips",
-    "url": "https://medium.com/@ehnertm/dont-get-attached-it-s-just-luck-26517994de30#.5j2hjaj2e",
-    "votes": 3,
-    "posted": "Nov 6, 2016 1:05:06 AM"
-  },
-  {
-    "id": "12882615",
-    "timestamp": "Nov 6, 2016 2:08:59 AM",
-    "topic": "Venezuela’s currency is dying",
-    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/04/venezuelas-currency-is-dying/",
-    "votes": 8,
-    "posted": "Nov 6, 2016 1:03:33 AM"
   }
 ];
