@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "12945770",
+    "timestamp": "Nov 13, 2016 10:56:17 PM",
+    "topic": "Ask HN: Have you done / plan to do any basic “prepping” (tinned food etc)",
+    "votes": 5,
+    "posted": "Nov 13, 2016 10:27:04 PM"
+  },
+  {
+    "id": "12945483",
+    "timestamp": "Nov 13, 2016 10:06:14 PM",
+    "topic": "New theory of gravity might explain dark matter",
+    "url": "http://m.phys.org/news/2016-11-theory-gravity-dark.html",
+    "votes": 5,
+    "posted": "Nov 13, 2016 9:32:16 PM"
+  },
+  {
     "id": "12945406",
     "timestamp": "Nov 13, 2016 9:46:12 PM",
     "topic": "Cuba\u0027s Lung Cancer Vaccine in USA",
@@ -586,6 +601,13 @@ var newsArray = [
     "url": "http://grnh.se/dik0jy1",
     "votes": 1,
     "posted": "Nov 13, 2016 6:02:03 AM"
+  },
+  {
+    "id": "12941934",
+    "timestamp": "Nov 13, 2016 10:56:18 PM",
+    "topic": "Ask HN: May I sit in on an interview for an ansible-focused role?",
+    "votes": 8,
+    "posted": "Nov 13, 2016 5:55:54 AM"
   },
   {
     "id": "12941919",
@@ -7465,76 +7487,5 @@ var newsArray = [
     "url": "http://cglab.ca/~abeinges/blah/rust-btree-case/",
     "votes": 3,
     "posted": "Nov 6, 2016 11:11:33 PM"
-  },
-  {
-    "id": "12887290",
-    "timestamp": "Nov 7, 2016 11:11:57 AM",
-    "topic": "Show HN: Soundbox – Keep track what you\u0027ve listened to in your Soundcloud feed",
-    "url": "http://www.soundbox.fyi",
-    "votes": 5,
-    "posted": "Nov 6, 2016 10:55:55 PM"
-  },
-  {
-    "id": "12887229",
-    "timestamp": "Nov 6, 2016 11:30:59 PM",
-    "topic": "First 64-bit Orange Pi slips in under $20",
-    "url": "http://hackerboards.com/first-64-bit-orange-pi-slips-in-under-20/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 10:45:18 PM"
-  },
-  {
-    "id": "12887211",
-    "timestamp": "Nov 6, 2016 11:51:00 PM",
-    "topic": "How I Freed My Android Tablet: A Journey in Reverse Engineering",
-    "url": "https://www.thanassis.space/android.html",
-    "votes": 7,
-    "posted": "Nov 6, 2016 10:41:47 PM"
-  },
-  {
-    "id": "12887117",
-    "timestamp": "Nov 6, 2016 11:40:59 PM",
-    "topic": "10 principles for smooth web animations",
-    "url": "https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.ra51rwso4",
-    "votes": 5,
-    "posted": "Nov 6, 2016 10:26:13 PM"
-  },
-  {
-    "id": "12887079",
-    "timestamp": "Nov 6, 2016 10:40:52 PM",
-    "topic": "Getting started in open source as a non-programmer",
-    "url": "http://micheleincalifornia.blogspot.com/2016/11/getting-started-in-open-source-as-non.html",
-    "votes": 3,
-    "posted": "Nov 6, 2016 10:17:32 PM"
-  },
-  {
-    "id": "12887066",
-    "timestamp": "Nov 6, 2016 10:30:51 PM",
-    "topic": "Learn Vim Progressively",
-    "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 10:13:03 PM"
-  },
-  {
-    "id": "12887060",
-    "timestamp": "Nov 6, 2016 10:30:51 PM",
-    "topic": "Ask HN: Who are the other Elon Musk\u0027s?",
-    "votes": 7,
-    "posted": "Nov 6, 2016 10:11:57 PM"
-  },
-  {
-    "id": "12887022",
-    "timestamp": "Nov 6, 2016 10:20:49 PM",
-    "topic": "Design Principles for Reducing Cognitive Load",
-    "url": "https://blog.marvelapp.com/design-principles-reducing-cognitive-load/",
-    "votes": 4,
-    "posted": "Nov 6, 2016 10:04:33 PM"
-  },
-  {
-    "id": "12887007",
-    "timestamp": "Nov 6, 2016 10:20:49 PM",
-    "topic": "Time to Dump Time Zones",
-    "url": "http://www.nytimes.com/2016/11/06/opinion/sunday/time-to-dump-time-zones.html?_r\u003d0",
-    "votes": 7,
-    "posted": "Nov 6, 2016 10:01:22 PM"
   }
 ];
