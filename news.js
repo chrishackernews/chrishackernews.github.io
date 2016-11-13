@@ -1,5 +1,12 @@
 var newsArray = [
   {
+    "id": "12942465",
+    "timestamp": "Nov 13, 2016 11:25:12 AM",
+    "topic": "Dear Google, Apple, Mozilla, and MS: Please End Auto-Playing Media in Browsers",
+    "votes": 6,
+    "posted": "Nov 13, 2016 9:48:12 AM"
+  },
+  {
     "id": "12942437",
     "timestamp": "Nov 13, 2016 9:35:04 AM",
     "topic": "Time for a Data Party? Join the Muse (YC W12) as a Data Engineer",
@@ -22,6 +29,14 @@ var newsArray = [
     "url": "http://timperrett.com/2016/11/12/frameworks-are-fundimentally-broken/",
     "votes": 4,
     "posted": "Nov 13, 2016 8:56:33 AM"
+  },
+  {
+    "id": "12942169",
+    "timestamp": "Nov 13, 2016 11:35:13 AM",
+    "topic": "Just how close are we to solving vision? – Piekniewski\u0027s blog",
+    "url": "http://blog.piekniewski.info/2016/08/12/how-close-are-we-to-vision/",
+    "votes": 5,
+    "posted": "Nov 13, 2016 7:36:30 AM"
   },
   {
     "id": "12942153",
@@ -7285,115 +7300,5 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/04/why-do-diplomats-use-this-alien-whatsapp-emoji-for-vladimir-putin",
     "votes": 5,
     "posted": "Nov 6, 2016 12:32:22 PM"
-  },
-  {
-    "id": "12884532",
-    "timestamp": "Nov 6, 2016 3:40:07 PM",
-    "topic": "Ask HN: Should I open source PropertyWebBuilder?",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:54:06 AM"
-  },
-  {
-    "id": "12884526",
-    "timestamp": "Nov 6, 2016 4:20:11 PM",
-    "topic": "Alex, Tibet and Didier quit their jobs to cross South America on dirt bikes",
-    "url": "https://medium.com/the-long-way-out",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:52:33 AM"
-  },
-  {
-    "id": "12884502",
-    "timestamp": "Nov 6, 2016 2:30:00 PM",
-    "topic": "Verified Voting",
-    "url": "https://www.verifiedvoting.org/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:44:08 AM"
-  },
-  {
-    "id": "12884477",
-    "timestamp": "Nov 6, 2016 11:49:45 AM",
-    "topic": "Elon Musk thinks universal income is answer to automation taking human jobs",
-    "url": "http://mashable.com/2016/11/05/elon-musk-universal-basic-income/?utm_cid\u003dmash-com-fb-main-link#VfVfptagSmqG",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:36:27 AM"
-  },
-  {
-    "id": "12884467",
-    "timestamp": "Nov 6, 2016 4:30:13 PM",
-    "topic": "Reinforcement Learning Designed NNs Equal Human Performance",
-    "url": "http://openreview.net/forum?id\u003dr1Ue8Hcxg",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:34:26 AM"
-  },
-  {
-    "id": "12884453",
-    "timestamp": "Nov 6, 2016 12:39:49 PM",
-    "topic": "Chevy starts manufacturing the Bolt",
-    "url": "https://www.engadget.com/2016/11/05/chevy-starts-manufacturing-bolt/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:29:15 AM"
-  },
-  {
-    "id": "12884452",
-    "timestamp": "Nov 7, 2016 1:21:09 AM",
-    "topic": "Ask HN: Overwhelmed with learning machine learning, how do I proceed?",
-    "votes": 11,
-    "posted": "Nov 6, 2016 11:28:42 AM"
-  },
-  {
-    "id": "12884451",
-    "timestamp": "Nov 6, 2016 1:19:52 PM",
-    "topic": "Sleep and creativity",
-    "url": "https://en.wikipedia.org/wiki/Sleep_and_creativity",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:28:37 AM"
-  },
-  {
-    "id": "12884421",
-    "timestamp": "Nov 7, 2016 8:42:50 PM",
-    "topic": "TV series Planet Earth II: The natural world from a new angle",
-    "url": "http://www.bbc.co.uk/news/in-pictures-37872131",
-    "votes": 4,
-    "posted": "Nov 6, 2016 11:22:13 AM"
-  },
-  {
-    "id": "12884417",
-    "timestamp": "Nov 6, 2016 2:30:00 PM",
-    "topic": "Automatic Security Updates for Developers",
-    "url": "https://paragonie.com/blog/2016/10/guide-automatic-security-updates-for-php-developers",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:19:06 AM"
-  },
-  {
-    "id": "12884413",
-    "timestamp": "Nov 6, 2016 8:00:35 PM",
-    "topic": "What Is Peter Thiel\u0027s Grand Trumpian Plan?",
-    "url": "http://www.vanityfair.com/news/2016/11/what-is-peter-thiel-grand-trumpian-plan",
-    "votes": 5,
-    "posted": "Nov 6, 2016 11:18:17 AM"
-  },
-  {
-    "id": "12884393",
-    "timestamp": "Nov 6, 2016 2:09:58 PM",
-    "topic": "How a Gift from Schoolchildren Let the Soviets Spy on the U.S. For 7 Years",
-    "url": "http://www.atlasobscura.com/articles/how-a-gift-from-schoolchildren-let-the-soviets-spy-on-the-us-for-7-years",
-    "votes": 5,
-    "posted": "Nov 6, 2016 11:13:05 AM"
-  },
-  {
-    "id": "12884391",
-    "timestamp": "Nov 6, 2016 11:29:44 AM",
-    "topic": "Why you should avoid LastPass",
-    "url": "https://medium.com/@gempir/why-you-should-avoid-lastpass-f698761421b8#.xy3akp31p",
-    "votes": 6,
-    "posted": "Nov 6, 2016 11:12:24 AM"
-  },
-  {
-    "id": "12884352",
-    "timestamp": "Nov 6, 2016 2:30:00 PM",
-    "topic": "Do-Sshuttle: Transparent Proxying via Your DigitalOcean Droplets",
-    "url": "https://github.com/f/do-sshuttle",
-    "votes": 5,
-    "posted": "Nov 6, 2016 10:57:50 AM"
   }
 ];
