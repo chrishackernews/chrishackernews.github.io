@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12941673",
+    "timestamp": "Nov 13, 2016 4:34:39 AM",
+    "topic": "OAuth 2.0 Hack Exposes 1B Mobile Apps to Account Hijacking",
+    "url": "https://threatpost.com/oauth-2-0-hack-exposes-1-billion-mobile-apps-to-account-hijacking/121889/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 4:21:31 AM"
+  },
+  {
     "id": "12941399",
     "timestamp": "Nov 13, 2016 3:14:33 AM",
     "topic": "Muslim woman: I\u0027m one of Trump\u0027s “silent voters”",
@@ -13,6 +21,14 @@ var newsArray = [
     "topic": "Ask HN: What should I plan to do on a 6 month sabbatical?",
     "votes": 4,
     "posted": "Nov 13, 2016 2:46:29 AM"
+  },
+  {
+    "id": "12941279",
+    "timestamp": "Nov 13, 2016 4:14:38 AM",
+    "topic": "Facebook bug \u0027kills\u0027 users in \u0027terrible error\u0027",
+    "url": "http://www.bbc.com/news/technology-37957593",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:24:23 AM"
   },
   {
     "id": "12941261",
@@ -44,6 +60,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/13/business/cellphone-number-social-security-number-10-digit-key-code-to-private-life.html",
     "votes": 4,
     "posted": "Nov 13, 2016 1:26:59 AM"
+  },
+  {
+    "id": "12940989",
+    "timestamp": "Nov 13, 2016 4:54:41 AM",
+    "topic": "Extracting PIN by monitoring how phone WiFi signal changes as you type it",
+    "url": "https://blog.acolyer.org/2016/11/10/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 1:10:22 AM"
   },
   {
     "id": "12940975",
@@ -7342,37 +7366,5 @@ var newsArray = [
     "url": "https://theintercept.com/2016/10/31/fbis-go-hackers/",
     "votes": 4,
     "posted": "Nov 6, 2016 5:10:55 AM"
-  },
-  {
-    "id": "12883368",
-    "timestamp": "Nov 6, 2016 5:19:14 AM",
-    "topic": "There’s Big Money to Be Made in Asteroid Mining",
-    "url": "http://www.visualcapitalist.com/theres-big-money-made-asteroid-mining/?utm_content\u003dbuffer38745\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook.com\u0026utm_campaign\u003dbuffer",
-    "votes": 4,
-    "posted": "Nov 6, 2016 4:35:13 AM"
-  },
-  {
-    "id": "12883356",
-    "timestamp": "Nov 6, 2016 5:09:13 AM",
-    "topic": "Cylance Discloses Voting Machine Vulnerability 4 Days Before Election",
-    "url": "https://blog.cylance.com/cylance-discloses-voting-machine-vulnerability",
-    "votes": 4,
-    "posted": "Nov 6, 2016 4:31:59 AM"
-  },
-  {
-    "id": "12883264",
-    "timestamp": "Nov 6, 2016 7:59:27 AM",
-    "topic": "Online PHP Coding Standards Fixer",
-    "url": "http://phpio.net/tools/csfixer",
-    "votes": 4,
-    "posted": "Nov 6, 2016 4:08:31 AM"
-  },
-  {
-    "id": "12883231",
-    "timestamp": "Nov 6, 2016 4:39:11 AM",
-    "topic": "Fighting Loneliness with Public Living Rooms",
-    "url": "http://www.citylab.com/navigator/2016/11/fighting-loneliness-with-public-living-rooms/506360/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 4:01:00 AM"
   }
 ];
