@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12942437",
+    "timestamp": "Nov 13, 2016 9:35:04 AM",
+    "topic": "Time for a Data Party? Join the Muse (YC W12) as a Data Engineer",
+    "url": "https://www.themuse.com/jobs/themuse/data-engineer-bea745",
+    "votes": 1,
+    "posted": "Nov 13, 2016 9:34:30 AM"
+  },
+  {
+    "id": "12942368",
+    "timestamp": "Nov 13, 2016 9:25:02 AM",
+    "topic": "Leibniz – a digital scientific notation",
+    "url": "https://github.com/khinsen/leibniz",
+    "votes": 3,
+    "posted": "Nov 13, 2016 8:58:32 AM"
+  },
+  {
+    "id": "12942359",
+    "timestamp": "Nov 13, 2016 9:45:04 AM",
+    "topic": "Frameworks are fundamentally broken",
+    "url": "http://timperrett.com/2016/11/12/frameworks-are-fundimentally-broken/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 8:56:33 AM"
+  },
+  {
     "id": "12942153",
     "timestamp": "Nov 13, 2016 8:04:55 AM",
     "topic": "Article claims quantum supremacy will come in the next 12 to 18 months",
@@ -267,6 +291,13 @@ var newsArray = [
     "posted": "Nov 12, 2016 10:41:05 PM"
   },
   {
+    "id": "12940178",
+    "timestamp": "Nov 13, 2016 9:25:03 AM",
+    "topic": "Ask HN: Have you faced burnout for days?",
+    "votes": 6,
+    "posted": "Nov 12, 2016 10:00:10 PM"
+  },
+  {
     "id": "12940051",
     "timestamp": "Nov 12, 2016 10:34:08 PM",
     "topic": "Ctrl+Z: Silicon Valley Leaders U-turn on Donald Trump",
@@ -514,6 +545,14 @@ var newsArray = [
     "posted": "Nov 12, 2016 4:34:47 PM"
   },
   {
+    "id": "12938304",
+    "timestamp": "Nov 13, 2016 9:25:03 AM",
+    "topic": "Are Americans Enamored with the Wrong Kinds of Entrepreneurs?",
+    "url": "https://hbr.org/2016/11/are-americans-enamored-with-the-wrong-kinds-of-entrepreneurs",
+    "votes": 4,
+    "posted": "Nov 12, 2016 4:33:38 PM"
+  },
+  {
     "id": "12938295",
     "timestamp": "Nov 12, 2016 7:53:53 PM",
     "topic": "Your slow email replies are causing serious anxiety",
@@ -535,6 +574,14 @@ var newsArray = [
     "topic": "Ask HN: How can I as a coder contribute to climate change?",
     "votes": 6,
     "posted": "Nov 12, 2016 4:16:03 PM"
+  },
+  {
+    "id": "12938093",
+    "timestamp": "Nov 13, 2016 9:25:02 AM",
+    "topic": "Hunting for Sears DIY Kit Home",
+    "url": "http://www.atlasobscura.com/articles/do-you-live-in-a-mailorder-sears-kit-home-these-house-hunters-will-find-you?utm_source\u003dfacebook.com\u0026utm_medium\u003datlas-pagehttp://www.atlasobscura.com/articles/do-you-live-in-a-mailorder-sears-kit-home-these-house-hunters-will-find-you",
+    "votes": 3,
+    "posted": "Nov 12, 2016 3:59:04 PM"
   },
   {
     "id": "12938052",
@@ -630,6 +677,14 @@ var newsArray = [
     "url": "http://www.firstpost.com/india/rs-500-rs-1000-ban-modi-govts-intention-was-fair-but-failed-those-who-dont-have-bank-accounts-3102384.html",
     "votes": 3,
     "posted": "Nov 12, 2016 2:07:52 PM"
+  },
+  {
+    "id": "12937644",
+    "timestamp": "Nov 13, 2016 9:25:02 AM",
+    "topic": "Massive ID database seen as threat to personal freedom",
+    "url": "http://www.cbc.ca/news/world/france-database-security-1.3845206",
+    "votes": 3,
+    "posted": "Nov 12, 2016 2:02:09 PM"
   },
   {
     "id": "12937635",
@@ -7340,37 +7395,5 @@ var newsArray = [
     "url": "https://github.com/f/do-sshuttle",
     "votes": 5,
     "posted": "Nov 6, 2016 10:57:50 AM"
-  },
-  {
-    "id": "12884153",
-    "timestamp": "Nov 6, 2016 2:30:01 PM",
-    "topic": "A Decentralized Content Registry for the Decentralized Web: CoalaIP and IPDB +IPFS",
-    "url": "https://medium.com/ipdb-blog/a-decentralized-content-registry-for-the-decentralized-web-99cf1335291f#.frtz7vo79",
-    "votes": 3,
-    "posted": "Nov 6, 2016 9:26:31 AM"
-  },
-  {
-    "id": "12884144",
-    "timestamp": "Nov 6, 2016 10:39:40 AM",
-    "topic": "Berlin Is Bringing Back Subway Trains from the 1950s",
-    "url": "http://www.citylab.com/commute/2016/11/the-berlin-subway-is-bringing-back-1950s-trains/506450/?utm_source\u003dSFFB",
-    "votes": 6,
-    "posted": "Nov 6, 2016 9:23:20 AM"
-  },
-  {
-    "id": "12884141",
-    "timestamp": "Nov 6, 2016 10:29:39 AM",
-    "topic": "Elon Musk thinks we need a \u0027popular uprising\u0027 against the fossil fuel industry",
-    "url": "http://uk.businessinsider.com/elon-musk-popular-uprising-climate-change-fossil-fuels-2016-11?r\u003dUS\u0026IR\u003dT",
-    "votes": 7,
-    "posted": "Nov 6, 2016 9:22:16 AM"
-  },
-  {
-    "id": "12884110",
-    "timestamp": "Nov 6, 2016 1:49:54 PM",
-    "topic": "Scientists Can Publish Their Best Work at Any Age",
-    "url": "http://www.nature.com/news/scientists-can-publish-their-best-work-at-any-age-1.20926",
-    "votes": 4,
-    "posted": "Nov 6, 2016 9:08:10 AM"
   }
 ];
