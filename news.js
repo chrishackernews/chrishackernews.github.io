@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12941399",
+    "timestamp": "Nov 13, 2016 3:14:33 AM",
+    "topic": "Muslim woman: I\u0027m one of Trump\u0027s “silent voters”",
+    "url": "http://www.cnn.com/2016/11/11/politics/muslim-silent-voter/index.html",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:54:54 AM"
+  },
+  {
     "id": "12941366",
     "timestamp": "Nov 13, 2016 2:54:31 AM",
     "topic": "Ask HN: What should I plan to do on a 6 month sabbatical?",
@@ -20,6 +28,22 @@ var newsArray = [
     "topic": "Tell HN: Will design for food",
     "votes": 13,
     "posted": "Nov 13, 2016 1:33:49 AM"
+  },
+  {
+    "id": "12941071",
+    "timestamp": "Nov 13, 2016 3:34:35 AM",
+    "topic": "Why 30 is the decade friends disappear – and what to do about it",
+    "url": "http://www.vox.com/2016/7/12/12148938/friendship-adult-challenges-solutions",
+    "votes": 11,
+    "posted": "Nov 13, 2016 1:28:22 AM"
+  },
+  {
+    "id": "12941060",
+    "timestamp": "Nov 13, 2016 3:44:36 AM",
+    "topic": "A 10-Digit Key Code to Your Private Life: Your Cellphone Number",
+    "url": "http://www.nytimes.com/2016/11/13/business/cellphone-number-social-security-number-10-digit-key-code-to-private-life.html",
+    "votes": 4,
+    "posted": "Nov 13, 2016 1:26:59 AM"
   },
   {
     "id": "12940975",
@@ -552,6 +576,14 @@ var newsArray = [
     "url": "https://stallman.org/articles/children.html",
     "votes": 5,
     "posted": "Nov 12, 2016 12:05:41 PM"
+  },
+  {
+    "id": "12937367",
+    "timestamp": "Nov 13, 2016 3:24:34 AM",
+    "topic": "Show HN: Addictive puzzle based on “Graph Theory”",
+    "url": "http://treksit.com/?theory",
+    "votes": 13,
+    "posted": "Nov 12, 2016 11:45:57 AM"
   },
   {
     "id": "12937324",
@@ -7342,45 +7374,5 @@ var newsArray = [
     "url": "http://www.citylab.com/navigator/2016/11/fighting-loneliness-with-public-living-rooms/506360/",
     "votes": 3,
     "posted": "Nov 6, 2016 4:01:00 AM"
-  },
-  {
-    "id": "12883206",
-    "timestamp": "Nov 6, 2016 5:30:18 PM",
-    "topic": "Robert Conquest’s muses",
-    "url": "http://www.the-tls.co.uk/articles/public/a-sensual-muse/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 3:54:34 AM"
-  },
-  {
-    "id": "12883173",
-    "timestamp": "Nov 6, 2016 7:59:27 AM",
-    "topic": "The X3DH Key Agreement Protocol",
-    "url": "https://whispersystems.org/docs/specifications/x3dh/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 3:43:28 AM"
-  },
-  {
-    "id": "12883084",
-    "timestamp": "Nov 6, 2016 3:59:08 AM",
-    "topic": "Tower – The most powerful Git client for Mac and Windows",
-    "url": "https://www.git-tower.com/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 3:16:06 AM"
-  },
-  {
-    "id": "12883047",
-    "timestamp": "Nov 6, 2016 3:29:06 AM",
-    "topic": "Nyancat on the touchbar",
-    "url": "https://github.com/avatsaev/touchbar_nyancat",
-    "votes": 4,
-    "posted": "Nov 6, 2016 3:02:41 AM"
-  },
-  {
-    "id": "12883035",
-    "timestamp": "Nov 6, 2016 2:30:01 PM",
-    "topic": "Super-cavitating ship: hull friction to 1/900th that of conventional",
-    "url": "https://en.wikipedia.org/wiki/Juliet_Marine_Systems_Ghost",
-    "votes": 3,
-    "posted": "Nov 6, 2016 2:58:35 AM"
   }
 ];
