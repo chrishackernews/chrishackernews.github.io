@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12940859",
+    "timestamp": "Nov 13, 2016 12:54:19 AM",
+    "topic": "World of Commodore 2016",
+    "url": "http://www.tpug.ca/world-of-commodore-16/about/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 12:40:41 AM"
+  },
+  {
     "id": "12940615",
     "timestamp": "Nov 12, 2016 11:54:14 PM",
     "topic": "Writing an HTTP server in Prolog",
@@ -8,12 +16,27 @@ var newsArray = [
     "posted": "Nov 12, 2016 11:42:31 PM"
   },
   {
+    "id": "12940598",
+    "timestamp": "Nov 13, 2016 12:04:15 AM",
+    "topic": "Celery 4.0",
+    "url": "http://docs.celeryproject.org/en/latest/whatsnew-4.0.html",
+    "votes": 6,
+    "posted": "Nov 12, 2016 11:38:38 PM"
+  },
+  {
     "id": "12940581",
     "timestamp": "Nov 12, 2016 11:54:14 PM",
     "topic": "Apple is doubling down on open source",
     "url": "http://www.techrepublic.com/google-amp/article/apple-is-doubling-down-on-open-source/",
     "votes": 8,
     "posted": "Nov 12, 2016 11:34:00 PM"
+  },
+  {
+    "id": "12940580",
+    "timestamp": "Nov 13, 2016 12:34:17 AM",
+    "topic": "Ask HN: Someone here to team up with me on a project to learn react together?",
+    "votes": 3,
+    "posted": "Nov 12, 2016 11:33:43 PM"
   },
   {
     "id": "12940398",
@@ -7320,29 +7343,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/04/venezuelas-currency-is-dying/",
     "votes": 8,
     "posted": "Nov 6, 2016 1:03:33 AM"
-  },
-  {
-    "id": "12882505",
-    "timestamp": "Nov 6, 2016 3:10:04 PM",
-    "topic": "Anti-Piracy Group Uses ‘Pirated’ Code on Its Website",
-    "url": "https://torrentfreak.com/anti-piracy-group-uses-pirated-code-on-its-website-161105/",
-    "votes": 4,
-    "posted": "Nov 6, 2016 12:33:47 AM"
-  },
-  {
-    "id": "12882472",
-    "timestamp": "Nov 6, 2016 12:28:51 AM",
-    "topic": "Mattermark Is Hiring a Principal Product Designer",
-    "url": "https://jobs.lever.co/mattermark/f2b6dae3-e184-4022-b34b-658fd1eb1deb",
-    "votes": 1,
-    "posted": "Nov 6, 2016 12:25:07 AM"
-  },
-  {
-    "id": "12882434",
-    "timestamp": "Nov 6, 2016 4:59:13 AM",
-    "topic": "Creating linked open data for 5000 works of art",
-    "url": "https://blog.wikimedia.org/2016/11/05/wikidata-visiting-scholar-art-dataset/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 12:14:34 AM"
   }
 ];
