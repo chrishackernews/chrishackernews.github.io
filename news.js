@@ -1,10 +1,34 @@
 var newsArray = [
   {
+    "id": "12946015",
+    "timestamp": "Nov 13, 2016 11:56:23 PM",
+    "topic": "Price of Lab-Grown Burger Falls from $325K to $11.36",
+    "url": "http://bigthink.com/ideafeed/answering-how-a-sausage-gets-made-will-be-more-complicated-in-2020",
+    "votes": 4,
+    "posted": "Nov 13, 2016 11:20:33 PM"
+  },
+  {
+    "id": "12945803",
+    "timestamp": "Nov 13, 2016 11:16:19 PM",
+    "topic": "What It’s Like to Have a VR Orgy with Loads of Random People",
+    "url": "http://www.unilad.co.uk/featured/what-its-like-to-have-a-vr-orgy-with-loads-of-random-people/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 10:34:40 PM"
+  },
+  {
     "id": "12945770",
     "timestamp": "Nov 13, 2016 10:56:17 PM",
     "topic": "Ask HN: Have you done / plan to do any basic “prepping” (tinned food etc)",
     "votes": 5,
     "posted": "Nov 13, 2016 10:27:04 PM"
+  },
+  {
+    "id": "12945516",
+    "timestamp": "Nov 13, 2016 11:36:21 PM",
+    "topic": "Learn to Code by Building Projects",
+    "url": "https://enlight.ml",
+    "votes": 6,
+    "posted": "Nov 13, 2016 9:37:40 PM"
   },
   {
     "id": "12945483",
@@ -53,6 +77,14 @@ var newsArray = [
     "url": "https://trigger-happy.eu/",
     "votes": 3,
     "posted": "Nov 13, 2016 8:45:01 PM"
+  },
+  {
+    "id": "12945201",
+    "timestamp": "Nov 13, 2016 11:36:21 PM",
+    "topic": "Aramid: Create Strongly-Typed HTML Components in C#",
+    "url": "https://github.com/edamtoft/Aramid",
+    "votes": 3,
+    "posted": "Nov 13, 2016 8:40:52 PM"
   },
   {
     "id": "12945169",
@@ -195,6 +227,14 @@ var newsArray = [
     "url": "https://www.microsoft.com/en-us/research/publication/tango-distributed-data-structures-over-a-shared-log/",
     "votes": 3,
     "posted": "Nov 13, 2016 6:06:33 PM"
+  },
+  {
+    "id": "12944272",
+    "timestamp": "Nov 13, 2016 11:06:18 PM",
+    "topic": "University “opens” without any teachers",
+    "url": "http://www.bbc.co.uk/news/business-37694248",
+    "votes": 3,
+    "posted": "Nov 13, 2016 6:04:31 PM"
   },
   {
     "id": "12944109",
@@ -647,6 +687,13 @@ var newsArray = [
     "topic": "Ask HN: Counting # of protestors?",
     "votes": 3,
     "posted": "Nov 13, 2016 4:50:14 AM"
+  },
+  {
+    "id": "12941715",
+    "timestamp": "Nov 13, 2016 11:56:23 PM",
+    "topic": "Ask HN: What projects have you worked on that ended up failing",
+    "votes": 4,
+    "posted": "Nov 13, 2016 4:35:31 AM"
   },
   {
     "id": "12941673",
@@ -7447,45 +7494,5 @@ var newsArray = [
     "url": "http://www.bloomberg.com/news/articles/2016-11-02/europe-s-biggest-oil-company-thinks-demand-may-peak-in-5-years",
     "votes": 6,
     "posted": "Nov 7, 2016 12:14:22 AM"
-  },
-  {
-    "id": "12887569",
-    "timestamp": "Nov 7, 2016 10:41:54 AM",
-    "topic": "Shyness: small acts of heroism",
-    "url": "http://www.the-tls.co.uk/articles/public/a-feature-not-a-bug/",
-    "votes": 5,
-    "posted": "Nov 6, 2016 11:55:22 PM"
-  },
-  {
-    "id": "12887434",
-    "timestamp": "Nov 7, 2016 12:01:02 AM",
-    "topic": "Common Lisp Using LLVM and C++ for Molecular Metaprogramming",
-    "url": "https://www.youtube.com/watch?v\u003d8X69_42Mj-g",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:23:18 PM"
-  },
-  {
-    "id": "12887422",
-    "timestamp": "Nov 6, 2016 11:51:01 PM",
-    "topic": "Facebook is harming our democracy",
-    "url": "http://www.vox.com/new-money/2016/11/6/13509854/facebook-politics-news-bad",
-    "votes": 5,
-    "posted": "Nov 6, 2016 11:20:02 PM"
-  },
-  {
-    "id": "12887416",
-    "timestamp": "Nov 7, 2016 12:01:01 AM",
-    "topic": "Unsplash: royalty free HD images",
-    "url": "https://unsplash.com/collections",
-    "votes": 4,
-    "posted": "Nov 6, 2016 11:19:02 PM"
-  },
-  {
-    "id": "12887383",
-    "timestamp": "Nov 7, 2016 2:01:12 AM",
-    "topic": "Rust Collections Case Study: BTreeMap",
-    "url": "http://cglab.ca/~abeinges/blah/rust-btree-case/",
-    "votes": 3,
-    "posted": "Nov 6, 2016 11:11:33 PM"
   }
 ];
