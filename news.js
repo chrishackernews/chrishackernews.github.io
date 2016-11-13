@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12944792",
+    "timestamp": "Nov 13, 2016 7:45:59 PM",
+    "topic": "Another crypto-currency is born",
+    "url": "http://www.economist.com/news/finance-and-economics/21709329-another-crypto-currency-born-known-unknown",
+    "votes": 6,
+    "posted": "Nov 13, 2016 7:35:10 PM"
+  },
+  {
+    "id": "12944717",
+    "timestamp": "Nov 13, 2016 7:56:01 PM",
+    "topic": "Martin Luther King on “Guaranteed Income” (1967)",
+    "url": "https://www.youtube.com/watch?v\u003dBY1OKSObkH0",
+    "votes": 5,
+    "posted": "Nov 13, 2016 7:20:51 PM"
+  },
+  {
+    "id": "12944655",
+    "timestamp": "Nov 13, 2016 7:46:00 PM",
+    "topic": "How I use Facebook\u0027s tracking pixel",
+    "url": "https://github.com/adam-s/facebook-pixel-guide/blob/master/README.md",
+    "votes": 5,
+    "posted": "Nov 13, 2016 7:13:34 PM"
+  },
+  {
+    "id": "12944592",
+    "timestamp": "Nov 13, 2016 7:46:00 PM",
+    "topic": "OVH automatically migrated unpaid SSL to Let\u0027s Encrypt certificate",
+    "url": "https://twitter.com/olesovhcom/status/797856360926953472",
+    "votes": 8,
+    "posted": "Nov 13, 2016 7:01:57 PM"
+  },
+  {
+    "id": "12944519",
+    "timestamp": "Nov 13, 2016 7:46:00 PM",
+    "topic": "Black hole jets can influence star formation in galaxies",
+    "url": "http://phys.org/news/2016-11-black-hole-jets-star-formation.html",
+    "votes": 4,
+    "posted": "Nov 13, 2016 6:45:22 PM"
+  },
+  {
     "id": "12944506",
     "timestamp": "Nov 13, 2016 6:45:54 PM",
     "topic": "Remote volunteering at Zidisha (YC microlending nonprofit)",
@@ -24,12 +64,52 @@ var newsArray = [
     "posted": "Nov 13, 2016 6:06:33 PM"
   },
   {
+    "id": "12944109",
+    "timestamp": "Nov 13, 2016 7:05:56 PM",
+    "topic": "17 Awesome Things You Can Take Out of Libraries",
+    "url": "http://melodykramer.github.io/17-awesome-things-you-can-take-out-of-libraries/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 5:36:06 PM"
+  },
+  {
+    "id": "12943889",
+    "timestamp": "Nov 13, 2016 7:46:00 PM",
+    "topic": "Show HN: A tech conference aggregator",
+    "url": "http://www.techconferences.io/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 4:54:23 PM"
+  },
+  {
+    "id": "12943807",
+    "timestamp": "Nov 13, 2016 7:15:57 PM",
+    "topic": "Silicon Valley is right to be worried about a Trump presidency",
+    "url": "http://www.economist.com/news/business/21710008-silicon-valley-right-be-worried-about-trump-presidency-it-helped-get-him",
+    "votes": 5,
+    "posted": "Nov 13, 2016 4:37:41 PM"
+  },
+  {
     "id": "12943744",
     "timestamp": "Nov 13, 2016 4:55:45 PM",
     "topic": "The Happiest People Don\u0027t Let Their Minds Wander, According to a Harvard Study",
     "url": "http://www.inc.com/quora/the-happiest-people-dont-let-their-minds-wander-according-to-a-harvard-study.html",
     "votes": 5,
     "posted": "Nov 13, 2016 4:25:10 PM"
+  },
+  {
+    "id": "12943643",
+    "timestamp": "Nov 13, 2016 7:56:01 PM",
+    "topic": "When and Why Nationalism Beats Globalism",
+    "url": "http://www.the-american-interest.com/2016/07/10/when-and-why-nationalism-beats-globalism/",
+    "votes": 5,
+    "posted": "Nov 13, 2016 4:10:18 PM"
+  },
+  {
+    "id": "12943553",
+    "timestamp": "Nov 13, 2016 7:15:57 PM",
+    "topic": "Shortcomings of Haskell in production",
+    "url": "https://www.reddit.com/r/haskell/comments/3lwom1/prezi_uses_haskell/cvad02a/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 3:56:10 PM"
   },
   {
     "id": "12943418",
@@ -216,6 +296,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 11:29:34 AM"
   },
   {
+    "id": "12942697",
+    "timestamp": "Nov 13, 2016 7:05:56 PM",
+    "topic": "The Cognitive Dissonance Cluster Bomb",
+    "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:28:14 AM"
+  },
+  {
     "id": "12942696",
     "timestamp": "Nov 13, 2016 1:35:23 PM",
     "topic": "First home brain implant lets ‘locked-in’ woman play games",
@@ -230,6 +318,14 @@ var newsArray = [
     "url": "http://nullprogram.com/blog/2016/11/13/",
     "votes": 3,
     "posted": "Nov 13, 2016 11:10:58 AM"
+  },
+  {
+    "id": "12942651",
+    "timestamp": "Nov 13, 2016 7:25:58 PM",
+    "topic": "How many scientific papers just aren’t true?",
+    "url": "http://www.spectator.co.uk/2016/10/how-many-scientific-papers-just-arent-true/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:09:47 AM"
   },
   {
     "id": "12942607",
@@ -7376,35 +7472,5 @@ var newsArray = [
     "url": "https://josephg.com/blog/electron-is-flash-for-the-desktop/",
     "votes": 7,
     "posted": "Nov 6, 2016 8:07:17 PM"
-  },
-  {
-    "id": "12886441",
-    "timestamp": "Nov 6, 2016 9:10:41 PM",
-    "topic": "Ask HN: Any tips on debugging Linux hibernate issues?",
-    "votes": 3,
-    "posted": "Nov 6, 2016 7:48:30 PM"
-  },
-  {
-    "id": "12886384",
-    "timestamp": "Nov 7, 2016 7:22:41 PM",
-    "topic": "Bytenet in Tensorflow – Neural Machine Translation in Linear Time",
-    "url": "https://github.com/paarthneekhara/byteNet-tensorflow",
-    "votes": 7,
-    "posted": "Nov 6, 2016 7:35:54 PM"
-  },
-  {
-    "id": "12886381",
-    "timestamp": "Nov 7, 2016 10:41:54 AM",
-    "topic": "Freud’s Discontents",
-    "url": "https://www.thenation.com/article/freuds-discontents/",
-    "votes": 2,
-    "posted": "Nov 6, 2016 7:35:44 PM"
-  },
-  {
-    "id": "12886225",
-    "timestamp": "Nov 8, 2016 12:03:16 AM",
-    "topic": "Ask HN: What are you reading this weekend?",
-    "votes": 7,
-    "posted": "Nov 6, 2016 6:59:09 PM"
   }
 ];
