@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12942153",
+    "timestamp": "Nov 13, 2016 8:04:55 AM",
+    "topic": "Article claims quantum supremacy will come in the next 12 to 18 months",
+    "url": "http://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 7:31:01 AM"
+  },
+  {
     "id": "12941997",
     "timestamp": "Nov 13, 2016 7:34:53 AM",
     "topic": "Ask HN: Best Git workflow for small teams",
@@ -45,6 +53,13 @@ var newsArray = [
     "url": "http://www.theregister.co.uk/2016/11/01/docker_user_havent_patched_dirty_cow_yet_bad_news/",
     "votes": 4,
     "posted": "Nov 13, 2016 5:03:53 AM"
+  },
+  {
+    "id": "12941757",
+    "timestamp": "Nov 13, 2016 8:24:57 AM",
+    "topic": "Ask HN: Counting # of protestors?",
+    "votes": 3,
+    "posted": "Nov 13, 2016 4:50:14 AM"
   },
   {
     "id": "12941673",
@@ -7357,21 +7372,5 @@ var newsArray = [
     "url": "http://www.nature.com/news/scientists-can-publish-their-best-work-at-any-age-1.20926",
     "votes": 4,
     "posted": "Nov 6, 2016 9:08:10 AM"
-  },
-  {
-    "id": "12884055",
-    "timestamp": "Nov 6, 2016 10:29:39 AM",
-    "topic": "In scathing ruling, Federal Court says CSIS bulk data collection illegal",
-    "url": "http://www.theglobeandmail.com/news/national/in-scathing-ruling-federal-court-says-csis-bulk-data-collection-illegal/article32669448/",
-    "votes": 6,
-    "posted": "Nov 6, 2016 8:49:24 AM"
-  },
-  {
-    "id": "12884030",
-    "timestamp": "Nov 6, 2016 10:29:39 AM",
-    "topic": "Reservoirs are contributing 1.5% of global greenhouse gas emissions",
-    "url": "http://reflectionsonwater.org/blog/2016/10/7/damwho-knew",
-    "votes": 3,
-    "posted": "Nov 6, 2016 8:39:51 AM"
   }
 ];
