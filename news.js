@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12943028",
+    "timestamp": "Nov 13, 2016 1:45:24 PM",
+    "topic": "Orbiter Space Flight Simulator 2016 Edition",
+    "url": "http://orbit.medphys.ucl.ac.uk/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 1:31:42 PM"
+  },
+  {
+    "id": "12942997",
+    "timestamp": "Nov 13, 2016 1:55:26 PM",
+    "topic": "How an accused drug dealer revealed Jacksonville\u0027s facial recognition network",
+    "url": "http://jacksonville.com/public-safety/2016-11-11/how-accused-drug-dealer-revealed-jso-s-facial-recognition-network",
+    "votes": 7,
+    "posted": "Nov 13, 2016 1:22:26 PM"
+  },
+  {
+    "id": "12942989",
+    "timestamp": "Nov 13, 2016 1:55:26 PM",
+    "topic": "KiTTY – A fork of PuTTY 0.67 with many additional features",
+    "url": "http://www.9bis.net/kitty/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 1:20:07 PM"
+  },
+  {
+    "id": "12942715",
+    "timestamp": "Nov 13, 2016 1:25:22 PM",
+    "topic": "The Real Clinton Conspiracy That Backfired",
+    "url": "https://www.armstrongeconomics.com/international-news/north_america/2016-u-s-presidential-election/the-real-clinton-conspiracy-that-backfired-the-worst-candiate-in-american-history/",
+    "votes": 5,
+    "posted": "Nov 13, 2016 11:33:04 AM"
+  },
+  {
+    "id": "12942700",
+    "timestamp": "Nov 13, 2016 1:25:23 PM",
+    "topic": "Investigation Reveals Silicon Valley’s Abuse of Immigrant Tech Workers",
+    "url": "https://www.wired.com/2014/11/investigation-reveals-silicon-valleys-abuse-immigrant-tech-workers/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:29:34 AM"
+  },
+  {
+    "id": "12942696",
+    "timestamp": "Nov 13, 2016 1:35:23 PM",
+    "topic": "First home brain implant lets ‘locked-in’ woman play games",
+    "url": "https://www.newscientist.com/article/2112562-first-home-brain-implant-lets-locked-in-woman-play-games/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:27:27 AM"
+  },
+  {
+    "id": "12942654",
+    "timestamp": "Nov 13, 2016 1:55:26 PM",
+    "topic": "Zero-allocation Trie Traversal",
+    "url": "http://nullprogram.com/blog/2016/11/13/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:10:58 AM"
+  },
+  {
+    "id": "12942534",
+    "timestamp": "Nov 13, 2016 1:05:21 PM",
+    "topic": "World Chess Championship: Game 2, Draw",
+    "url": "https://worldchess.com/2016/11/12/world-championship-game-2-draw/",
+    "votes": 6,
+    "posted": "Nov 13, 2016 10:17:21 AM"
+  },
+  {
     "id": "12942465",
     "timestamp": "Nov 13, 2016 11:25:12 AM",
     "topic": "Dear Google, Apple, Mozilla, and MS: Please End Auto-Playing Media in Browsers",
@@ -29,6 +93,22 @@ var newsArray = [
     "url": "http://timperrett.com/2016/11/12/frameworks-are-fundimentally-broken/",
     "votes": 4,
     "posted": "Nov 13, 2016 8:56:33 AM"
+  },
+  {
+    "id": "12942357",
+    "timestamp": "Nov 13, 2016 1:25:23 PM",
+    "topic": "Movies Featuring the Nmap Security Scanner",
+    "url": "https://nmap.org/movies/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 8:55:50 AM"
+  },
+  {
+    "id": "12942290",
+    "timestamp": "Nov 13, 2016 1:45:25 PM",
+    "topic": "An interactive demo of amplitude modulation in browser",
+    "url": "https://academo.org/demos/amplitude-modulation/",
+    "votes": 5,
+    "posted": "Nov 13, 2016 8:34:53 AM"
   },
   {
     "id": "12942169",
@@ -195,6 +275,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 1:06:27 AM"
   },
   {
+    "id": "12940921",
+    "timestamp": "Nov 13, 2016 1:35:24 PM",
+    "topic": "6 months ago I got rid of 90% of my possessions.  what I have learned",
+    "url": "http://www.rosieleizrowice.com/blog/6lessons",
+    "votes": 3,
+    "posted": "Nov 13, 2016 12:53:20 AM"
+  },
+  {
     "id": "12940859",
     "timestamp": "Nov 13, 2016 12:54:19 AM",
     "topic": "World of Commodore 2016",
@@ -256,6 +344,14 @@ var newsArray = [
     "topic": "Ask HN: Someone here to team up with me on a project to learn react together?",
     "votes": 3,
     "posted": "Nov 12, 2016 11:33:43 PM"
+  },
+  {
+    "id": "12940505",
+    "timestamp": "Nov 13, 2016 1:55:26 PM",
+    "topic": "Self-driving grocery vehicles introduced in Norway",
+    "url": "http://news.xinhuanet.com/english/2016-11/12/c_135824781.htm",
+    "votes": 4,
+    "posted": "Nov 12, 2016 11:15:29 PM"
   },
   {
     "id": "12940470",
@@ -7228,61 +7324,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/5/13533900/elon-musk-spacex-falcon-9-failure-cause-solved",
     "votes": 5,
     "posted": "Nov 6, 2016 2:18:21 PM"
-  },
-  {
-    "id": "12884859",
-    "timestamp": "Nov 6, 2016 2:30:00 PM",
-    "topic": "How Does the Electoral College Work and Is It Fair",
-    "url": "http://www.npr.org/2016/11/06/500660424/how-the-electoral-college-works-and-why-you-don-t-want-to-think-about-it",
-    "votes": 4,
-    "posted": "Nov 6, 2016 1:51:18 PM"
-  },
-  {
-    "id": "12884843",
-    "timestamp": "Nov 6, 2016 2:40:02 PM",
-    "topic": "ZType – typing game",
-    "url": "http://zty.pe",
-    "votes": 4,
-    "posted": "Nov 6, 2016 1:44:51 PM"
-  },
-  {
-    "id": "12884793",
-    "timestamp": "Nov 6, 2016 1:59:57 PM",
-    "topic": "Employees are faster and more creative when solving other people\u0027s problems",
-    "url": "http://www.telegraph.co.uk/finance/businessclub/8527500/Daniel-H-Pink-employees-are-faster-and-more-creative-when-solving-other-peoples-problems.html",
-    "votes": 8,
-    "posted": "Nov 6, 2016 1:25:57 PM"
-  },
-  {
-    "id": "12884776",
-    "timestamp": "Nov 6, 2016 10:20:50 PM",
-    "topic": "Show HN: A Cheatsheet for funcy sequence, collections and functional stuff",
-    "url": "http://funcy.readthedocs.io/en/latest/cheatsheet.html",
-    "votes": 7,
-    "posted": "Nov 6, 2016 1:19:27 PM"
-  },
-  {
-    "id": "12884762",
-    "timestamp": "Nov 6, 2016 4:20:10 PM",
-    "topic": "Nvidia  adds telemetry to latest drivers",
-    "url": "http://www.majorgeeks.com/news/story/nvidia_adds_telemetry_to_latest_drivers_heres_how_to_disable_it.html",
-    "votes": 10,
-    "posted": "Nov 6, 2016 1:15:53 PM"
-  },
-  {
-    "id": "12884756",
-    "timestamp": "Nov 6, 2016 4:20:11 PM",
-    "topic": "LinkedIn SEC filing tells exactly how its acqusition was negotiated",
-    "url": "https://www.sec.gov/Archives/edgar/data/1271024/000110465916130837/a16-14187_1prem14a.htm#BackgroundoftheMerger_090652",
-    "votes": 5,
-    "posted": "Nov 6, 2016 1:13:47 PM"
-  },
-  {
-    "id": "12884737",
-    "timestamp": "Nov 6, 2016 4:20:11 PM",
-    "topic": "China’s ‘citizen scores’ gets people barred from flights – like Black Mirror",
-    "url": "https://www.techinasia.com/china-citizens-scores-barred-from-flights",
-    "votes": 4,
-    "posted": "Nov 6, 2016 1:07:24 PM"
   }
 ];
