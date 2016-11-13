@@ -1,5 +1,85 @@
 var newsArray = [
   {
+    "id": "12943418",
+    "timestamp": "Nov 13, 2016 3:45:39 PM",
+    "topic": "Sexual secrets for hundreds of millions exposed in largest hack of 2016",
+    "url": "https://www.leakedsource.com/blog/friendfinder",
+    "votes": 5,
+    "posted": "Nov 13, 2016 3:24:06 PM"
+  },
+  {
+    "id": "12943350",
+    "timestamp": "Nov 13, 2016 3:35:38 PM",
+    "topic": "India\u0027s air pollution in five charts",
+    "url": "http://www.hindustantimes.com/static/pollution-india-five-charts/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 3:05:54 PM"
+  },
+  {
+    "id": "12943329",
+    "timestamp": "Nov 13, 2016 3:35:38 PM",
+    "topic": "How the SoC Is Displacing the CPU",
+    "url": "https://medium.com/@magicsilicon/how-the-soc-is-displacing-the-cpu-49bc7503edab#.z2n19ipfm",
+    "votes": 5,
+    "posted": "Nov 13, 2016 2:58:29 PM"
+  },
+  {
+    "id": "12943316",
+    "timestamp": "Nov 13, 2016 3:25:36 PM",
+    "topic": "Where Even Nightmares Are Classified: Psychiatric Care at Guantánamo",
+    "url": "http://www.nytimes.com/2016/11/13/world/guantanamo-bay-doctors-abuse.html?src\u003dme",
+    "votes": 5,
+    "posted": "Nov 13, 2016 2:54:18 PM"
+  },
+  {
+    "id": "12943307",
+    "timestamp": "Nov 13, 2016 3:05:34 PM",
+    "topic": "The Trabant Is the Best Commie Car Made of Cotton We\u0027ve Ever Driven",
+    "url": "http://jalopnik.com/the-trabant-is-the-best-commie-car-made-of-cotton-weve-1788844883",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:53:05 PM"
+  },
+  {
+    "id": "12943303",
+    "timestamp": "Nov 13, 2016 3:25:37 PM",
+    "topic": "Service Objects (No More Fat Models)",
+    "url": "http://stackoverflow.com/documentation/ruby-on-rails/1207/rails-best-practices/25516/service-objects-no-more-fat-models#t\u003d201611131349087582972",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:52:03 PM"
+  },
+  {
+    "id": "12943250",
+    "timestamp": "Nov 13, 2016 3:05:34 PM",
+    "topic": "2 METRE TSUNAMI DETECTED IN NEW ZEALAND",
+    "url": "http://www.weatherwatch.co.nz/content/tsunami-warning-issued-new-zealand",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:40:15 PM"
+  },
+  {
+    "id": "12943243",
+    "timestamp": "Nov 13, 2016 3:05:34 PM",
+    "topic": "New Zealand earthquake: Tsunami arrives after powerful tremor hits",
+    "url": "http://www.bbc.co.uk/news/world-asia-37967178",
+    "votes": 4,
+    "posted": "Nov 13, 2016 2:37:28 PM"
+  },
+  {
+    "id": "12943197",
+    "timestamp": "Nov 13, 2016 3:25:37 PM",
+    "topic": "Bernie Sanders: Where the Democrats Go from Here",
+    "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
+    "votes": 13,
+    "posted": "Nov 13, 2016 2:27:16 PM"
+  },
+  {
+    "id": "12943175",
+    "timestamp": "Nov 13, 2016 3:45:39 PM",
+    "topic": "Is SVG 2 really on life support?",
+    "url": "http://libregraphicsworld.org/blog/entry/is-svg-2-really-on-life-support",
+    "votes": 3,
+    "posted": "Nov 13, 2016 2:20:49 PM"
+  },
+  {
     "id": "12943150",
     "timestamp": "Nov 13, 2016 2:55:33 PM",
     "topic": "GNU Parallel Tutorial",
@@ -56,12 +136,36 @@ var newsArray = [
     "posted": "Nov 13, 2016 12:41:24 PM"
   },
   {
+    "id": "12942768",
+    "timestamp": "Nov 13, 2016 3:25:37 PM",
+    "topic": "“I have a great idea for an app.” – Dilbert Comic",
+    "url": "http://dilbert.com/strip/2016-11-13",
+    "votes": 5,
+    "posted": "Nov 13, 2016 11:53:58 AM"
+  },
+  {
     "id": "12942734",
     "timestamp": "Nov 13, 2016 2:35:30 PM",
     "topic": "How Brocade totally missed the boat with Vyatta (2014)",
     "url": "http://dotbalm.org/brocade-missed-the-boat-with-vyatta/",
     "votes": 3,
     "posted": "Nov 13, 2016 11:40:45 AM"
+  },
+  {
+    "id": "12942732",
+    "timestamp": "Nov 13, 2016 3:05:34 PM",
+    "topic": "Why CPU Frequency Stalled",
+    "url": "http://spectrum.ieee.org/computing/hardware/why-cpu-frequency-stalled",
+    "votes": 6,
+    "posted": "Nov 13, 2016 11:39:44 AM"
+  },
+  {
+    "id": "12942729",
+    "timestamp": "Nov 13, 2016 3:05:35 PM",
+    "topic": "Secret is coming back",
+    "url": "https://techcrunch.com/2016/11/12/secret-is-coming-back/?ncid\u003drss",
+    "votes": 3,
+    "posted": "Nov 13, 2016 11:39:03 AM"
   },
   {
     "id": "12942715",
@@ -110,6 +214,14 @@ var newsArray = [
     "url": "https://worldchess.com/2016/11/12/world-championship-game-2-draw/",
     "votes": 6,
     "posted": "Nov 13, 2016 10:17:21 AM"
+  },
+  {
+    "id": "12942526",
+    "timestamp": "Nov 13, 2016 3:05:35 PM",
+    "topic": "Two-factor authentication on Wikipedia for admins and up",
+    "url": "http://davidgerard.co.uk/notes/2016/11/12/two-factor-authentication-on-wikipedia-for-admins-and-up/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 10:13:37 AM"
   },
   {
     "id": "12942465",
@@ -198,6 +310,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 6:02:03 AM"
   },
   {
+    "id": "12941919",
+    "timestamp": "Nov 13, 2016 3:55:40 PM",
+    "topic": "﻿ Why It Matters That Women Do Most of the Housework",
+    "url": "https://www.thenation.com/article/why-it-matters-women-do-most-housework/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 5:46:03 AM"
+  },
+  {
     "id": "12941893",
     "timestamp": "Nov 13, 2016 6:04:46 AM",
     "topic": "Unified Theory of Evolution",
@@ -282,6 +402,14 @@ var newsArray = [
     "url": "http://craftcoffee.applytojob.com/apply/RDvbKv/Operations-Associate?source\u003dhn",
     "votes": 1,
     "posted": "Nov 13, 2016 2:20:26 AM"
+  },
+  {
+    "id": "12941225",
+    "timestamp": "Nov 13, 2016 3:55:40 PM",
+    "topic": "A minimalist Openbox desktop for Vim freaks",
+    "url": "http://blog.johnnovak.net/2016/11/13/a-minimalist-openbox-desktop-for-vim-freaks/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 2:09:42 AM"
   },
   {
     "id": "12941094",
@@ -1381,6 +1509,14 @@ var newsArray = [
     "url": "https://www.coreinfrastructure.org/news/announcements/2016/11/linux-foundations-core-infrastructure-initiative-renews-funding",
     "votes": 3,
     "posted": "Nov 11, 2016 11:52:39 PM"
+  },
+  {
+    "id": "12935218",
+    "timestamp": "Nov 13, 2016 3:15:36 PM",
+    "topic": "‘No Vacancy’ Signs Are Vanishing from America’s Highways",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-11/-no-vacancy-signs-are-vanishing-from-america-s-highways",
+    "votes": 3,
+    "posted": "Nov 11, 2016 11:49:36 PM"
   },
   {
     "id": "12935216",
@@ -7379,21 +7515,5 @@ var newsArray = [
     "url": "https://www.scientificamerican.com/article/negative-emotions-key-well-being/",
     "votes": 3,
     "posted": "Nov 6, 2016 4:03:40 PM"
-  },
-  {
-    "id": "12885235",
-    "timestamp": "Nov 6, 2016 3:40:07 PM",
-    "topic": "Minnesota Taxes the Rich, Pays Workers More, And–Shocking–The Economy Improves",
-    "url": "https://www.fastcoexist.com/3065280/minnesota-taxes-the-rich-pays-workers-more-and-shocking-the-economy-improves",
-    "votes": 4,
-    "posted": "Nov 6, 2016 3:37:15 PM"
-  },
-  {
-    "id": "12885220",
-    "timestamp": "Nov 6, 2016 3:40:07 PM",
-    "topic": "Best Android Libraries for Developers",
-    "url": "https://cloudrail.com/best-android-libraries-for-developers/",
-    "votes": 6,
-    "posted": "Nov 6, 2016 3:31:57 PM"
   }
 ];
