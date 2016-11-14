@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12948043",
+    "timestamp": "Nov 14, 2016 8:27:06 AM",
+    "topic": "Introducing Visual Studio for Mac",
+    "url": "https://msdn.microsoft.com/en-us/magazine/mt790182.aspx",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:11:25 AM"
+  },
+  {
+    "id": "12948022",
+    "timestamp": "Nov 14, 2016 8:07:04 AM",
+    "topic": "Remix (YC W15) is hiring engineers to make our cities better",
+    "url": "https://www.remix.com/jobs",
+    "votes": 1,
+    "posted": "Nov 14, 2016 8:02:56 AM"
+  },
+  {
     "id": "12947830",
     "timestamp": "Nov 14, 2016 7:17:00 AM",
     "topic": "Show HN: interactive deep convnet visualization for Keras and Tensorflow",
@@ -62,6 +78,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/stefan-schlumpf-hidden-landscapes-rhone-glacier/",
     "votes": 4,
     "posted": "Nov 14, 2016 4:44:48 AM"
+  },
+  {
+    "id": "12947307",
+    "timestamp": "Nov 14, 2016 8:47:08 AM",
+    "topic": "Teslas in the Trailer Park",
+    "url": "http://www.nytimes.com/2016/11/14/business/mountain-view-california-confronts-housing-crisis.html",
+    "votes": 4,
+    "posted": "Nov 14, 2016 4:25:39 AM"
   },
   {
     "id": "12947213",
@@ -7502,21 +7526,5 @@ var newsArray = [
     "url": "https://dev.to/miqubel/mistakes-i-made-as-a-developer",
     "votes": 6,
     "posted": "Nov 7, 2016 9:01:08 AM"
-  },
-  {
-    "id": "12889502",
-    "timestamp": "Nov 7, 2016 2:22:14 PM",
-    "topic": "Cybathlon 2016: No cyborgs yet, but we\u0027re getting there",
-    "url": "http://arstechnica.co.uk/information-technology/2016/11/cybathlon-2016-no-cyborgs-yet-but-were-getting-there/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 8:38:52 AM"
-  },
-  {
-    "id": "12889469",
-    "timestamp": "Nov 7, 2016 11:11:57 AM",
-    "topic": "Apache Spark: A Unified Engine for Big Data Processing",
-    "url": "http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext",
-    "votes": 5,
-    "posted": "Nov 7, 2016 8:27:02 AM"
   }
 ];
