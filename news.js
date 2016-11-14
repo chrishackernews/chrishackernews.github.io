@@ -7478,29 +7478,5 @@ var newsArray = [
     "url": "http://www.sciencealert.com/leaked-nasa-paper-shows-the-impossible-em-drive-really-does-work",
     "votes": 3,
     "posted": "Nov 7, 2016 11:02:36 AM"
-  },
-  {
-    "id": "12889907",
-    "timestamp": "Nov 7, 2016 11:01:56 AM",
-    "topic": "How I went from being a stranger to having a network in Silicon Valley",
-    "url": "https://medium.com/startup-grind/how-i-went-from-being-a-stranger-to-having-a-network-in-silicon-valley-8cf7ac5fed",
-    "votes": 3,
-    "posted": "Nov 7, 2016 10:51:52 AM"
-  },
-  {
-    "id": "12889855",
-    "timestamp": "Nov 7, 2016 11:42:00 AM",
-    "topic": "A bug story: data alignment on x86",
-    "url": "http://pzemtsov.github.io/2016/11/06/bug-story-alignment-on-x86.html",
-    "votes": 4,
-    "posted": "Nov 7, 2016 10:38:02 AM"
-  },
-  {
-    "id": "12889807",
-    "timestamp": "Nov 7, 2016 11:01:56 AM",
-    "topic": "LessPass: sync-less open source password manager",
-    "url": "https://lesspass.com/#/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 10:22:44 AM"
   }
 ];
