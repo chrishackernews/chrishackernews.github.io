@@ -1,5 +1,84 @@
 var newsArray = [
   {
+    "id": "12953526",
+    "timestamp": "Nov 14, 2016 10:48:30 PM",
+    "topic": "Dash for iOS is now open source",
+    "url": "https://github.com/Kapeli/Dash-iOS",
+    "votes": 7,
+    "posted": "Nov 14, 2016 10:27:09 PM"
+  },
+  {
+    "id": "12953524",
+    "timestamp": "Nov 14, 2016 10:28:26 PM",
+    "topic": "Work at Faraday Future\u0027s factory construction site has reportedly stopped",
+    "url": "http://www.autoblog.com/2016/11/14/faraday-futures-factory-construction-stop/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 10:26:41 PM"
+  },
+  {
+    "id": "12953505",
+    "timestamp": "Nov 14, 2016 10:58:31 PM",
+    "topic": "Ask HN: What\u0027s your references to learn SEO?",
+    "votes": 6,
+    "posted": "Nov 14, 2016 10:23:51 PM"
+  },
+  {
+    "id": "12953391",
+    "timestamp": "Nov 14, 2016 10:28:26 PM",
+    "topic": "You Don’t Need a Master Plan – You Just Need to Start",
+    "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#.jbuoh9x2n",
+    "votes": 3,
+    "posted": "Nov 14, 2016 10:09:22 PM"
+  },
+  {
+    "id": "12953368",
+    "timestamp": "Nov 14, 2016 10:08:25 PM",
+    "topic": "Shazam Keeps Your Mac’s Microphone Always On, Even When You Turn It Off",
+    "url": "http://motherboard.vice.com/read/shazam-keeps-your-macs-microphone-always-on-even-when-you-turn-it-off",
+    "votes": 3,
+    "posted": "Nov 14, 2016 10:06:25 PM"
+  },
+  {
+    "id": "12953285",
+    "timestamp": "Nov 14, 2016 10:08:25 PM",
+    "topic": "Trump Won Because Leftist Political Correctness Inspired a Terrifying Backlash",
+    "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
+    "votes": 4,
+    "posted": "Nov 14, 2016 9:57:03 PM"
+  },
+  {
+    "id": "12953266",
+    "timestamp": "Nov 14, 2016 10:38:27 PM",
+    "topic": "ValueObject",
+    "url": "http://martinfowler.com/bliki/ValueObject.html",
+    "votes": 6,
+    "posted": "Nov 14, 2016 9:55:27 PM"
+  },
+  {
+    "id": "12953172",
+    "timestamp": "Nov 14, 2016 10:08:24 PM",
+    "topic": "Why Chrome 53 Is Rejecting Chase Bank\u0027s Symantec Certificate",
+    "url": "https://sslmate.com/blog/post/ct_redaction_in_chrome_53",
+    "votes": 3,
+    "posted": "Nov 14, 2016 9:45:46 PM"
+  },
+  {
+    "id": "12953150",
+    "timestamp": "Nov 14, 2016 10:08:24 PM",
+    "topic": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+    "url": "http://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 9:42:15 PM"
+  },
+  {
+    "id": "12953105",
+    "timestamp": "Nov 14, 2016 10:08:25 PM",
+    "topic": "Chelsea Manning Asks President for Clemency and \u0027First Chance at Life\u0027",
+    "url": "http://www.npr.org/sections/thetwo-way/2016/11/14/502026384/chelsea-manning-asks-president-for-clemency-and-first-chance-at-life",
+    "votes": 5,
+    "posted": "Nov 14, 2016 9:37:23 PM"
+  },
+  {
     "id": "12953045",
     "timestamp": "Nov 14, 2016 9:38:21 PM",
     "topic": "90 Days and My Six-Figure Mistake",
@@ -37,6 +116,14 @@ var newsArray = [
     "url": "http://digiday.com/publishers/no-ones-making-money-facebook-video-publishers-share-whats-minds/",
     "votes": 4,
     "posted": "Nov 14, 2016 9:08:51 PM"
+  },
+  {
+    "id": "12952715",
+    "timestamp": "Nov 14, 2016 10:08:24 PM",
+    "topic": "RAISR Sharp Images with Machine Learning",
+    "url": "https://research.googleblog.com/2016/11/enhance-raisr-sharp-images-with-machine.html",
+    "votes": 6,
+    "posted": "Nov 14, 2016 8:57:46 PM"
   },
   {
     "id": "12952692",
@@ -181,6 +268,13 @@ var newsArray = [
     "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
     "votes": 3,
     "posted": "Nov 14, 2016 5:58:28 PM"
+  },
+  {
+    "id": "12951109",
+    "timestamp": "Nov 14, 2016 10:58:31 PM",
+    "topic": "Ask HN: Has it become harder to rank on the front page of HN?",
+    "votes": 5,
+    "posted": "Nov 14, 2016 5:52:26 PM"
   },
   {
     "id": "12951102",
@@ -7437,29 +7531,5 @@ var newsArray = [
     "url": "https://medium.com/@david.gilbertson/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.bzx75cpkv",
     "votes": 4,
     "posted": "Nov 7, 2016 11:07:24 PM"
-  },
-  {
-    "id": "12895278",
-    "timestamp": "Nov 11, 2016 8:41:50 PM",
-    "topic": "Inside Churchill\u0027s Secret Subterranean WWII Bunker in London",
-    "url": "http://www.atlasobscura.com/articles/inside-churchills-secret-subterranean-wwii-bunker-in-london",
-    "votes": 3,
-    "posted": "Nov 7, 2016 10:24:22 PM"
-  },
-  {
-    "id": "12895262",
-    "timestamp": "Nov 8, 2016 1:33:23 AM",
-    "topic": "Mozilla on Enabling the Open Metaverse with WebVR, A-Frame, and Servo",
-    "url": "http://www.roadtovr.com/mozilla-enabling-open-metaverse-webvr-frame-servo/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 10:23:15 PM"
-  },
-  {
-    "id": "12895226",
-    "timestamp": "Nov 8, 2016 5:34:45 PM",
-    "topic": "The Emperor\u0027s New Museum",
-    "url": "http://www.newyorker.com/magazine/2016/11/07/the-emperors-new-museum",
-    "votes": 3,
-    "posted": "Nov 7, 2016 10:19:12 PM"
   }
 ];
