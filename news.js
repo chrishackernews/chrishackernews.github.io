@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12948155",
+    "timestamp": "Nov 14, 2016 9:27:10 AM",
+    "topic": "What I learned leading Ops at GitHub, Heroku, DigitalOcean, and more.…",
+    "url": "http://www.slideshare.net/MarkImbriaco/what-i-learned-leading-ops-at-github-heroku-digitalocean-and-more",
+    "votes": 6,
+    "posted": "Nov 14, 2016 8:46:10 AM"
+  },
+  {
     "id": "12948043",
     "timestamp": "Nov 14, 2016 8:27:06 AM",
     "topic": "Introducing Visual Studio for Mac",
@@ -7494,37 +7502,5 @@ var newsArray = [
     "url": "https://lesspass.com/#/",
     "votes": 4,
     "posted": "Nov 7, 2016 10:22:44 AM"
-  },
-  {
-    "id": "12889719",
-    "timestamp": "Nov 7, 2016 1:02:07 PM",
-    "topic": "Tesco Bank: 20,000 customers lose money",
-    "url": "http://www.bbc.co.uk/news/business-37891742",
-    "votes": 4,
-    "posted": "Nov 7, 2016 9:55:47 AM"
-  },
-  {
-    "id": "12889713",
-    "timestamp": "Nov 8, 2016 7:34:57 PM",
-    "topic": "Show HN: An Extremely Simple Election Forecast in Scala",
-    "url": "https://github.com/rcoh/electorate",
-    "votes": 4,
-    "posted": "Nov 7, 2016 9:54:40 AM"
-  },
-  {
-    "id": "12889680",
-    "timestamp": "Nov 7, 2016 10:01:51 AM",
-    "topic": "Supercapacitors Now Carbon-Free, More Powerful",
-    "url": "https://edgylabs.com/2016/11/06/supercapacitors-now-carbon-free/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 9:45:08 AM"
-  },
-  {
-    "id": "12889574",
-    "timestamp": "Nov 7, 2016 12:02:02 PM",
-    "topic": "Mistakes I made (as a developer)",
-    "url": "https://dev.to/miqubel/mistakes-i-made-as-a-developer",
-    "votes": 6,
-    "posted": "Nov 7, 2016 9:01:08 AM"
   }
 ];
