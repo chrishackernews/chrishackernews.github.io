@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12949910",
+    "timestamp": "Nov 14, 2016 3:37:45 PM",
+    "topic": "MacBook Pro with Touch Bar review: a touch of the future",
+    "url": "http://www.theverge.com/2016/11/14/13616404/apple-macbook-pro-touch-bar-review-2016-13-inch-15-inch-laptop",
+    "votes": 6,
+    "posted": "Nov 14, 2016 3:18:37 PM"
+  },
+  {
+    "id": "12949899",
+    "timestamp": "Nov 14, 2016 3:47:46 PM",
+    "topic": "What Is Cryptocurrency: Everything You Need to Know [Ultimate Guide]",
+    "url": "http://blockgeeks.com/guides/what-is-cryptocurrency-everything-you-need-to-know-ultimate-guide/",
+    "votes": 7,
+    "posted": "Nov 14, 2016 3:17:12 PM"
+  },
+  {
     "id": "12949479",
     "timestamp": "Nov 14, 2016 2:27:39 PM",
     "topic": "China, Japan, Russia, and South Korea Plan Renewable Energy Super Grid",
@@ -54,6 +70,14 @@ var newsArray = [
     "url": "https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/",
     "votes": 5,
     "posted": "Nov 14, 2016 12:38:19 PM"
+  },
+  {
+    "id": "12948890",
+    "timestamp": "Nov 14, 2016 3:47:46 PM",
+    "topic": "Big Tech Companies Pounce as the Allure of Startups Fades",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-14/big-tech-companies-pounce-as-the-allure-of-startups-fades",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:49:37 AM"
   },
   {
     "id": "12948861",
@@ -188,6 +212,22 @@ var newsArray = [
     "url": "http://www.bbc.com/news/magazine-37941931?ocid\u003dsocialflow_twitter",
     "votes": 4,
     "posted": "Nov 14, 2016 5:23:29 AM"
+  },
+  {
+    "id": "12947497",
+    "timestamp": "Nov 14, 2016 3:07:43 PM",
+    "topic": "New York City\u0027s Graveyard Shift",
+    "url": "http://www.newyorker.com/culture/portfolio/new-york-citys-graveyard-shift",
+    "votes": 3,
+    "posted": "Nov 14, 2016 5:09:26 AM"
+  },
+  {
+    "id": "12947446",
+    "timestamp": "Nov 14, 2016 3:07:42 PM",
+    "topic": "Barbaric Beauty",
+    "url": "http://www.historytoday.com/oren-falk/barbaric-beauty",
+    "votes": 3,
+    "posted": "Nov 14, 2016 4:56:11 AM"
   },
   {
     "id": "12947418",
@@ -7452,53 +7492,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/07/samsung-ai/",
     "votes": 5,
     "posted": "Nov 7, 2016 4:08:18 PM"
-  },
-  {
-    "id": "12891453",
-    "timestamp": "Nov 7, 2016 5:22:29 PM",
-    "topic": "Motivational Quotes for Realistic People",
-    "url": "https://medium.com/art-marketing/motivational-quotes-for-realistic-people-556f9bc5af9c#.7ulfiwuvs",
-    "votes": 6,
-    "posted": "Nov 7, 2016 3:55:41 PM"
-  },
-  {
-    "id": "12891169",
-    "timestamp": "Nov 7, 2016 3:52:21 PM",
-    "topic": "An Update to Our Supercharging Program",
-    "url": "https://www.tesla.com/blog/update-our-supercharging-program",
-    "votes": 5,
-    "posted": "Nov 7, 2016 3:25:26 PM"
-  },
-  {
-    "id": "12891158",
-    "timestamp": "Nov 7, 2016 4:52:26 PM",
-    "topic": "Show HN: DeepRhyme (D-Prime) – generating dope rhymes with machine learning",
-    "url": "https://swarbrickjones.wordpress.com/2016/11/07/deeprhyme-d-prime-generating-dope-rhymes-with-deep-learning/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 3:23:54 PM"
-  },
-  {
-    "id": "12891157",
-    "timestamp": "Nov 8, 2016 4:33:39 AM",
-    "topic": "Show HN: Using Z3 to Find Clock Configuration Values for ARM UCs",
-    "url": "http://cwoodall.com/blog/2016/11/06/using-z3-to-find-clock-configurations.html",
-    "votes": 4,
-    "posted": "Nov 7, 2016 3:23:38 PM"
-  },
-  {
-    "id": "12891095",
-    "timestamp": "Nov 7, 2016 6:52:38 PM",
-    "topic": "UThreads: concurrent M:N fibers in C++",
-    "url": "https://github.com/samanbarghi/uThreads",
-    "votes": 5,
-    "posted": "Nov 7, 2016 3:15:10 PM"
-  },
-  {
-    "id": "12891068",
-    "timestamp": "Nov 7, 2016 3:12:18 PM",
-    "topic": "Inspiring Startup Lessons from Issac Lidsky\u0027s TEDTalk",
-    "url": "https://www.youtube.com/watch?v\u003d3fGuzchHXAU",
-    "votes": 3,
-    "posted": "Nov 7, 2016 3:09:56 PM"
   }
 ];
