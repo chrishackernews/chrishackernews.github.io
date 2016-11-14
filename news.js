@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "12952579",
+    "timestamp": "Nov 14, 2016 8:48:16 PM",
+    "topic": "Able Health (W16) is hiring senior engineers to advance healthcare",
+    "url": "http://ablehealth.com/jobs/senior-application-engineer/",
+    "votes": 1,
+    "posted": "Nov 14, 2016 8:40:14 PM"
+  },
+  {
+    "id": "12952573",
+    "timestamp": "Nov 14, 2016 8:48:16 PM",
+    "topic": "How We Broke Democracy",
+    "url": "https://medium.com/@tobiasrose/empathy-to-democracy-b7f04ab57eee",
+    "votes": 3,
+    "posted": "Nov 14, 2016 8:39:21 PM"
+  },
+  {
+    "id": "12952522",
+    "timestamp": "Nov 14, 2016 8:38:14 PM",
+    "topic": "Google’s top news link for ‘final election results’ is a fake news site",
+    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/14/googles-top-news-link-for-final-election-results-goes-to-a-fake-news-site-with-false-numbers/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 8:31:15 PM"
+  },
+  {
+    "id": "12952329",
+    "timestamp": "Nov 14, 2016 8:38:14 PM",
+    "topic": "This Water-Jet Cutter Can Slice Through Anything: Steel, Glass, or Steak",
+    "url": "http://spectrum.ieee.org/video/geek-life/tools-toys/this-water-jet-cutter-can-slice-through-anything-steel-glass-or-steak",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:03:13 PM"
+  },
+  {
+    "id": "12952255",
+    "timestamp": "Nov 14, 2016 8:48:16 PM",
+    "topic": "Internet Freedom Wanes as Governments Target Messaging, Social Apps",
+    "url": "http://www.npr.org/sections/alltechconsidered/2016/11/14/500214959/internet-freedom-wanes-as-governments-target-messaging-social-apps",
+    "votes": 3,
+    "posted": "Nov 14, 2016 7:55:04 PM"
+  },
+  {
+    "id": "12952249",
+    "timestamp": "Nov 14, 2016 8:08:12 PM",
+    "topic": "Introducing Visual Studio for Mac",
+    "url": "https://webcache.googleusercontent.com/search?q\u003dcache:Vk2On-9psscJ:https://msdn.microsoft.com/en-us/magazine/mt790182.aspx+\u0026cd\u003d23\u0026hl\u003den\u0026ct\u003dclnk\u0026gl\u003dus",
+    "votes": 15,
+    "posted": "Nov 14, 2016 7:54:15 PM"
+  },
+  {
+    "id": "12952199",
+    "timestamp": "Nov 14, 2016 8:38:15 PM",
+    "topic": "Hierarchical Object Detection with Deep Reinforcement Learning",
+    "url": "https://imatge-upc.github.io/detection-2016-nipsws/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 7:48:28 PM"
+  },
+  {
     "id": "12952086",
     "timestamp": "Nov 14, 2016 7:58:11 PM",
     "topic": "Don\u0027t give it away for free",
     "url": "https://supportedsource.org",
     "votes": 6,
     "posted": "Nov 14, 2016 7:34:32 PM"
+  },
+  {
+    "id": "12951929",
+    "timestamp": "Nov 14, 2016 8:08:12 PM",
+    "topic": "Visual Studio for Mac Will Launch in November",
+    "url": "https://techcrunch.com/2016/11/14/microsoft-announces-visual-studio-for-mac-will-launch-in-november/",
+    "votes": 9,
+    "posted": "Nov 14, 2016 7:17:06 PM"
   },
   {
     "id": "12951912",
@@ -205,11 +269,27 @@ var newsArray = [
     "posted": "Nov 14, 2016 3:17:12 PM"
   },
   {
+    "id": "12949735",
+    "timestamp": "Nov 14, 2016 8:48:17 PM",
+    "topic": "Why are we so surprised by the outcome of the 2016 presidential election?",
+    "url": "http://allendowney.blogspot.com/2016/11/why-are-we-so-surprised.html",
+    "votes": 5,
+    "posted": "Nov 14, 2016 2:41:25 PM"
+  },
+  {
     "id": "12949734",
     "timestamp": "Nov 14, 2016 5:47:58 PM",
     "topic": "Ask HN: Self Hosted Google Inbox Alternative?",
     "votes": 4,
     "posted": "Nov 14, 2016 2:41:19 PM"
+  },
+  {
+    "id": "12949678",
+    "timestamp": "Nov 14, 2016 8:48:16 PM",
+    "topic": "Show HN: Markdown as a Service – Convert Markdown to HTML, or Use in a Frame",
+    "url": "https://stdlib.com/services/stdlib/markdown",
+    "votes": 5,
+    "posted": "Nov 14, 2016 2:29:35 PM"
   },
   {
     "id": "12949510",
@@ -3930,6 +4010,14 @@ var newsArray = [
     "posted": "Nov 10, 2016 9:29:01 PM"
   },
   {
+    "id": "12923955",
+    "timestamp": "Nov 14, 2016 8:48:16 PM",
+    "topic": "“Let Us Calculate”: Leibniz, Llull, and the Computational Imagination",
+    "url": "http://publicdomainreview.org/2016/11/10/let-us-calculate-leibniz-llull-and-computational-imagination/",
+    "votes": 5,
+    "posted": "Nov 10, 2016 9:22:47 PM"
+  },
+  {
     "id": "12923925",
     "timestamp": "Nov 10, 2016 10:39:44 PM",
     "topic": "Offshoring Roulette:lessons from Outsourcing to India, China and the Philippines",
@@ -4228,6 +4316,14 @@ var newsArray = [
     "url": "http://qz.com/833607/us-election-a-rash-of-racist-attacks-have-broken-out-in-the-us-after-donald-trumps-victory/",
     "votes": 4,
     "posted": "Nov 10, 2016 5:28:52 PM"
+  },
+  {
+    "id": "12921774",
+    "timestamp": "Nov 14, 2016 8:18:13 PM",
+    "topic": "Protect Your Library the Medieval Way, with Horrifying Book Curses",
+    "url": "http://www.atlasobscura.com/articles/protect-your-library-the-medieval-way-with-horrifying-book-curses",
+    "votes": 3,
+    "posted": "Nov 10, 2016 5:26:37 PM"
   },
   {
     "id": "12921652",
@@ -7341,100 +7437,5 @@ var newsArray = [
     "url": "http://sciencebulletin.org/archives/7440.html",
     "votes": 3,
     "posted": "Nov 7, 2016 8:59:55 PM"
-  },
-  {
-    "id": "12894349",
-    "timestamp": "Nov 7, 2016 9:43:04 PM",
-    "topic": "Single Mother Facing Prison for Selling Homemade Mexican Dish to Undercover Cop",
-    "url": "http://reason.com/blog/2016/11/06/single-mother-facing-prison-for-selling",
-    "votes": 4,
-    "posted": "Nov 7, 2016 8:50:13 PM"
-  },
-  {
-    "id": "12894248",
-    "timestamp": "Nov 7, 2016 8:42:50 PM",
-    "topic": "BuildZoom (a better way to remodel) is hiring in product, growth and engineering",
-    "url": "https://jobs.lever.co/buildzoom",
-    "votes": 1,
-    "posted": "Nov 7, 2016 8:40:52 PM"
-  },
-  {
-    "id": "12894215",
-    "timestamp": "Nov 7, 2016 9:23:02 PM",
-    "topic": "Are Chinese Websites Too Complex?",
-    "url": "https://www.nngroup.com/articles/china-website-complexity/?utm_source\u003dAlertbox\u0026utm_campaign\u003d43da43b3f9-Cards_UI_Component_Chinese+Complex_2016_11_07\u0026utm_medium\u003demail\u0026utm_term\u003d0_7f29a2b335-43da43b3f9-40308009",
-    "votes": 3,
-    "posted": "Nov 7, 2016 8:37:08 PM"
-  },
-  {
-    "id": "12894209",
-    "timestamp": "Nov 7, 2016 8:52:58 PM",
-    "topic": "Ask HN: How much do you earn on average through software freelancing?",
-    "votes": 8,
-    "posted": "Nov 7, 2016 8:36:33 PM"
-  },
-  {
-    "id": "12894192",
-    "timestamp": "Nov 8, 2016 2:54:28 PM",
-    "topic": "Why is electricity so hard to understand? (1989)",
-    "url": "http://amasci.com/miscon/whyhard2.html",
-    "votes": 4,
-    "posted": "Nov 7, 2016 8:34:51 PM"
-  },
-  {
-    "id": "12894039",
-    "timestamp": "Nov 10, 2016 5:39:13 PM",
-    "topic": "The Evolution of Startups, as Told by Analyzing Company Descriptions",
-    "url": "https://priceonomics.com/the-evolution-of-startups-as-told-by-analyzing/",
-    "votes": 6,
-    "posted": "Nov 7, 2016 8:20:28 PM"
-  },
-  {
-    "id": "12893956",
-    "timestamp": "Nov 7, 2016 9:23:01 PM",
-    "topic": "C for Python programmers",
-    "url": "http://www.toves.org/books/cpy/",
-    "votes": 6,
-    "posted": "Nov 7, 2016 8:13:48 PM"
-  },
-  {
-    "id": "12893924",
-    "timestamp": "Nov 10, 2016 2:18:55 PM",
-    "topic": "Basic Flashlight Tutorial",
-    "url": "http://www.asos1.com/flashlight/flashlight01.htm",
-    "votes": 4,
-    "posted": "Nov 7, 2016 8:11:18 PM"
-  },
-  {
-    "id": "12893917",
-    "timestamp": "Nov 10, 2016 2:18:55 PM",
-    "topic": "Well-Kept Gardens Die by Pacifism (2009)",
-    "url": "http://lesswrong.com/lw/c1/wellkept_gardens_die_by_pacifism/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 8:10:51 PM"
-  },
-  {
-    "id": "12893801",
-    "timestamp": "Nov 7, 2016 9:23:02 PM",
-    "topic": "Microsoft Azure Container Registry (preview)",
-    "url": "https://azure.microsoft.com/campaigns/container-registry/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 7:59:24 PM"
-  },
-  {
-    "id": "12893793",
-    "timestamp": "Nov 7, 2016 8:22:48 PM",
-    "topic": "ZigBee Light Link War-Driving",
-    "url": "http://iotworm.eyalro.net/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 7:58:31 PM"
-  },
-  {
-    "id": "12893789",
-    "timestamp": "Nov 7, 2016 8:22:47 PM",
-    "topic": "The Macintosh GUI in 1984",
-    "url": "http://toastytech.com/guis/macos1.html",
-    "votes": 8,
-    "posted": "Nov 7, 2016 7:58:22 PM"
   }
 ];
