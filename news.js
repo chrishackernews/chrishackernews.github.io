@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12947213",
+    "timestamp": "Nov 14, 2016 4:56:48 AM",
+    "topic": "Zuck\u0027s response",
+    "url": "https://www.facebook.com/zuck/posts/10103253901916271",
+    "votes": 3,
+    "posted": "Nov 14, 2016 3:58:35 AM"
+  },
+  {
+    "id": "12947170",
+    "timestamp": "Nov 14, 2016 4:06:44 AM",
+    "topic": "Uses deep learning to caption img tags within page and fills out alt attributes",
+    "url": "https://github.com/ParhamP/altify",
+    "votes": 3,
+    "posted": "Nov 14, 2016 3:46:41 AM"
+  },
+  {
+    "id": "12947156",
+    "timestamp": "Nov 14, 2016 4:06:44 AM",
+    "topic": "The Conversation About VR Struggles to Get Real",
+    "url": "http://motherboard.vice.com/read/the-conversation-about-vr-struggles-to-get-real",
+    "votes": 3,
+    "posted": "Nov 14, 2016 3:43:48 AM"
+  },
+  {
+    "id": "12947107",
+    "timestamp": "Nov 14, 2016 4:16:45 AM",
+    "topic": "The code I’m still ashamed of",
+    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.n1o94vd8a",
+    "votes": 4,
+    "posted": "Nov 14, 2016 3:28:07 AM"
+  },
+  {
     "id": "12947106",
     "timestamp": "Nov 14, 2016 3:56:42 AM",
     "topic": "Direct Sparse Odometry (DSO) open sourced",
@@ -24,6 +56,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 2:53:14 AM"
   },
   {
+    "id": "12946960",
+    "timestamp": "Nov 14, 2016 4:56:48 AM",
+    "topic": "Trump Wants NASA to Visit Jupiter’s Moon Europa and Explore the Solar System",
+    "url": "http://www.inquisitr.com/3710152/forget-mars-trump-wants-nasa-to-visit-jupiters-moon-europa-and-explore-the-solar-system/",
+    "votes": 6,
+    "posted": "Nov 14, 2016 2:50:35 AM"
+  },
+  {
     "id": "12946881",
     "timestamp": "Nov 14, 2016 3:16:39 AM",
     "topic": "Pascal GPUs on All Fronts Push Nvidia to New Highs",
@@ -46,6 +86,14 @@ var newsArray = [
     "url": "https://twitter.com/AndreDeMarre/status/797965638757060608",
     "votes": 4,
     "posted": "Nov 14, 2016 2:01:32 AM"
+  },
+  {
+    "id": "12946728",
+    "timestamp": "Nov 14, 2016 4:26:46 AM",
+    "topic": "An open source framework for auditing web applications firewalls",
+    "url": "http://seclist.us/lightbulb-is-an-open-source-python-framework-for-auditing-web-applications-firewalls.html",
+    "votes": 3,
+    "posted": "Nov 14, 2016 1:53:57 AM"
   },
   {
     "id": "12946673",
@@ -443,6 +491,14 @@ var newsArray = [
     "url": "https://www.reddit.com/r/haskell/comments/3lwom1/prezi_uses_haskell/cvad02a/",
     "votes": 3,
     "posted": "Nov 13, 2016 3:56:10 PM"
+  },
+  {
+    "id": "12943495",
+    "timestamp": "Nov 14, 2016 4:16:45 AM",
+    "topic": "Show HN: Find the color of your IP address",
+    "url": "https://sacert.github.io/IPAddressColor/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 3:44:18 PM"
   },
   {
     "id": "12943418",
@@ -1090,6 +1146,13 @@ var newsArray = [
     "topic": "Ask HN: Have you faced burnout for days?",
     "votes": 6,
     "posted": "Nov 12, 2016 10:00:10 PM"
+  },
+  {
+    "id": "12940058",
+    "timestamp": "Nov 14, 2016 4:46:47 AM",
+    "topic": "Ask HN: Torrent client (Mac) recommendations?",
+    "votes": 4,
+    "posted": "Nov 12, 2016 9:40:55 PM"
   },
   {
     "id": "12940051",
@@ -7438,53 +7501,5 @@ var newsArray = [
     "url": "http://www.gamasutra.com/blogs/BenWeber/20161106/284970/A_Brief_History_of_RTS_AI_Research.php",
     "votes": 3,
     "posted": "Nov 7, 2016 5:01:35 AM"
-  },
-  {
-    "id": "12888682",
-    "timestamp": "Nov 7, 2016 7:41:40 AM",
-    "topic": "San Bernardino: Behind the Scenes",
-    "url": "https://www.zdziarski.com/blog/?p\u003d6335",
-    "votes": 3,
-    "posted": "Nov 7, 2016 4:52:07 AM"
-  },
-  {
-    "id": "12888645",
-    "timestamp": "Nov 7, 2016 8:21:43 AM",
-    "topic": "Postmates investors changed their preferred stock to common stock",
-    "url": "http://www.recode.net/2016/11/2/13481456/postmates-investors-preferred-stock-converted-common",
-    "votes": 4,
-    "posted": "Nov 7, 2016 4:40:52 AM"
-  },
-  {
-    "id": "12888567",
-    "timestamp": "Nov 7, 2016 11:42:00 AM",
-    "topic": "How Economic Gobbledygook Divides Us",
-    "url": "http://www.nytimes.com/2016/11/06/magazine/how-economic-gobbledygook-divides-us.html",
-    "votes": 3,
-    "posted": "Nov 7, 2016 4:23:49 AM"
-  },
-  {
-    "id": "12888556",
-    "timestamp": "Nov 7, 2016 8:41:45 AM",
-    "topic": "Microsoft is moving 30% of its New York workers to WeWork offices",
-    "url": "http://www.businessinsider.com/microsoft-new-york-workers-wework-2016-11",
-    "votes": 3,
-    "posted": "Nov 7, 2016 4:20:50 AM"
-  },
-  {
-    "id": "12888547",
-    "timestamp": "Nov 7, 2016 4:41:26 AM",
-    "topic": "Freeline: A fast build tool and a replacement for Android Instant Run",
-    "url": "https://github.com/alibaba/freeline",
-    "votes": 4,
-    "posted": "Nov 7, 2016 4:18:50 AM"
-  },
-  {
-    "id": "12888499",
-    "timestamp": "Nov 7, 2016 4:11:23 AM",
-    "topic": "Gawker Pays $750,000 to That Guy Who Didn\u0027t Invent Email",
-    "url": "https://news.slashdot.org/story/16/11/07/022246/gawker-pays-750000-to-that-guy-who-didnt-invent-email",
-    "votes": 6,
-    "posted": "Nov 7, 2016 4:04:45 AM"
   }
 ];
