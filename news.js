@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12952086",
+    "timestamp": "Nov 14, 2016 7:58:11 PM",
+    "topic": "Don\u0027t give it away for free",
+    "url": "https://supportedsource.org",
+    "votes": 6,
+    "posted": "Nov 14, 2016 7:34:32 PM"
+  },
+  {
+    "id": "12951912",
+    "timestamp": "Nov 14, 2016 7:48:10 PM",
+    "topic": "2016 MacBook Pro with Touch Bar Review",
+    "url": "http://arstechnica.com/apple/2016/11/macbook-pro-touch-bar-13-15-inch-touch-bar-review/",
+    "votes": 8,
+    "posted": "Nov 14, 2016 7:14:43 PM"
+  },
+  {
+    "id": "12951747",
+    "timestamp": "Nov 14, 2016 7:18:07 PM",
+    "topic": "What if you got $1,000 a month, just for being alive? I decided to find out",
+    "url": "http://www.vox.com/first-person/2016/11/14/13513066/universal-basic-income-crowdfund",
+    "votes": 5,
+    "posted": "Nov 14, 2016 6:57:48 PM"
+  },
+  {
+    "id": "12951503",
+    "timestamp": "Nov 14, 2016 7:08:05 PM",
+    "topic": "[0day] [exploit] Compromising a Linux desktop using 6502 opcodes on the NES?",
+    "url": "http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-compromising-linux-desktop.html",
+    "votes": 4,
+    "posted": "Nov 14, 2016 6:30:34 PM"
+  },
+  {
     "id": "12951175",
     "timestamp": "Nov 14, 2016 6:48:03 PM",
     "topic": "The Cognitive Dissonance Cluster Bomb",
@@ -7404,21 +7436,5 @@ var newsArray = [
     "url": "http://toastytech.com/guis/macos1.html",
     "votes": 8,
     "posted": "Nov 7, 2016 7:58:22 PM"
-  },
-  {
-    "id": "12893703",
-    "timestamp": "Nov 7, 2016 8:12:46 PM",
-    "topic": "Hy",
-    "url": "https://en.wikipedia.org/wiki/Hy",
-    "votes": 3,
-    "posted": "Nov 7, 2016 7:50:07 PM"
-  },
-  {
-    "id": "12893206",
-    "timestamp": "Nov 7, 2016 8:42:50 PM",
-    "topic": "Huffington Post\u0027s criticism of 538\u0027s election forecast",
-    "url": "http://www.huffingtonpost.com/entry/whats-wrong-with-538_us_581ffe18e4b0334571e09e74",
-    "votes": 5,
-    "posted": "Nov 7, 2016 6:59:27 PM"
   }
 ];
