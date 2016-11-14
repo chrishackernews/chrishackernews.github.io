@@ -1,5 +1,83 @@
 var newsArray = [
   {
+    "id": "12950501",
+    "timestamp": "Nov 14, 2016 4:57:53 PM",
+    "topic": "Dan Rather: Now, More Than Ever, We Must Stand Up for Science",
+    "url": "https://blogs.scientificamerican.com/guest-blog/dan-rather-now-more-than-ever-we-must-stand-up-for-science/",
+    "votes": 8,
+    "posted": "Nov 14, 2016 4:48:04 PM"
+  },
+  {
+    "id": "12950432",
+    "timestamp": "Nov 14, 2016 4:57:53 PM",
+    "topic": "Donald Trump will now control drone assassinations and mass surveillance",
+    "url": "http://www.salon.com/2016/11/14/donald-trump-will-now-control-drone-assassinations-and-mass-surveillance-still-love-them-democrats/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 4:38:59 PM"
+  },
+  {
+    "id": "12950426",
+    "timestamp": "Nov 14, 2016 4:57:53 PM",
+    "topic": "Commander-In-Chief Donald Trump Will Have Terrifying Powers. Thanks, Obama",
+    "url": "https://theintercept.com/2016/11/11/commander-in-chief-donald-trump-will-have-terrifying-powers-thanks-obama/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 4:38:18 PM"
+  },
+  {
+    "id": "12950353",
+    "timestamp": "Nov 14, 2016 4:37:51 PM",
+    "topic": "Miles Deep – Open Source Porn Video Classifier/Editor with Deep Learning",
+    "url": "https://github.com/ryanjay0/miles-deep",
+    "votes": 8,
+    "posted": "Nov 14, 2016 4:27:33 PM"
+  },
+  {
+    "id": "12950343",
+    "timestamp": "Nov 14, 2016 4:57:53 PM",
+    "topic": "Blacknurse – low bandwidth ICMP firewall attack",
+    "url": "http://blacknurse.dk/",
+    "votes": 7,
+    "posted": "Nov 14, 2016 4:26:40 PM"
+  },
+  {
+    "id": "12950227",
+    "timestamp": "Nov 14, 2016 4:17:48 PM",
+    "topic": "Impraise (YC S14) hires Product Manager to enable feedback between coworkers",
+    "url": "http://jobs.impraise.com/o/sr-product-manager",
+    "votes": 1,
+    "posted": "Nov 14, 2016 4:12:25 PM"
+  },
+  {
+    "id": "12950146",
+    "timestamp": "Nov 14, 2016 4:57:53 PM",
+    "topic": "The Perfect Bug Report – Debugging with Elm 0.18",
+    "url": "http://elm-lang.org/blog/the-perfect-bug-report",
+    "votes": 25,
+    "posted": "Nov 14, 2016 3:57:14 PM"
+  },
+  {
+    "id": "12950138",
+    "timestamp": "Nov 14, 2016 4:37:51 PM",
+    "topic": "Creating a Personal Masterplan",
+    "url": "https://joshkaufman.net/creating-a-personal-masterplan/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 3:56:43 PM"
+  },
+  {
+    "id": "12950070",
+    "timestamp": "Nov 14, 2016 4:37:51 PM",
+    "topic": "Ask HN: Did knowing /learning a not-so-famous language benefited you?",
+    "votes": 7,
+    "posted": "Nov 14, 2016 3:48:00 PM"
+  },
+  {
+    "id": "12949995",
+    "timestamp": "Nov 14, 2016 4:17:48 PM",
+    "topic": "Ask HN: How do you handle the business structure and taxes of side projects?",
+    "votes": 6,
+    "posted": "Nov 14, 2016 3:35:35 PM"
+  },
+  {
     "id": "12949910",
     "timestamp": "Nov 14, 2016 3:37:45 PM",
     "topic": "MacBook Pro with Touch Bar review: a touch of the future",
@@ -14,6 +92,14 @@ var newsArray = [
     "url": "http://blockgeeks.com/guides/what-is-cryptocurrency-everything-you-need-to-know-ultimate-guide/",
     "votes": 7,
     "posted": "Nov 14, 2016 3:17:12 PM"
+  },
+  {
+    "id": "12949510",
+    "timestamp": "Nov 14, 2016 4:07:47 PM",
+    "topic": "Machine Learning explained to my girlfriend, Part 2",
+    "url": "https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html",
+    "votes": 3,
+    "posted": "Nov 14, 2016 2:02:00 PM"
   },
   {
     "id": "12949479",
@@ -7429,68 +7515,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/08/nyregion/chopped-cheese-sandwich-harlem.html",
     "votes": 3,
     "posted": "Nov 7, 2016 5:00:11 PM"
-  },
-  {
-    "id": "12891912",
-    "timestamp": "Nov 7, 2016 8:22:48 PM",
-    "topic": "Google and YouTube can help keep you informed on Election Day",
-    "url": "https://blog.google/products/search/google-and-youtube-can-help-keep-you-informed-election-day/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 4:45:56 PM"
-  },
-  {
-    "id": "12891889",
-    "timestamp": "Nov 7, 2016 4:52:26 PM",
-    "topic": "Homebrew 1.1.0",
-    "url": "http://brew.sh/2016/11/07/homebrew-1.1.0/",
-    "votes": 21,
-    "posted": "Nov 7, 2016 4:43:04 PM"
-  },
-  {
-    "id": "12891765",
-    "timestamp": "Nov 7, 2016 5:02:27 PM",
-    "topic": "Private Porn Shoots Brilliant? No",
-    "url": "https://popehat.com/2016/11/06/private-porn-shoots-brilliant-no/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+Popehat+%28Popehat%29",
-    "votes": 3,
-    "posted": "Nov 7, 2016 4:26:32 PM"
-  },
-  {
-    "id": "12891741",
-    "timestamp": "Nov 7, 2016 8:12:46 PM",
-    "topic": "Ask HN: Which are the countries where I can convert Bitcoin to local currency?",
-    "votes": 3,
-    "posted": "Nov 7, 2016 4:23:04 PM"
-  },
-  {
-    "id": "12891727",
-    "timestamp": "Nov 7, 2016 5:02:27 PM",
-    "topic": "Tesla just killed one of the biggest benefits for customers",
-    "url": "http://www.businessinsider.com/tesla-to-begin-charging-for-superchargers-2016-11",
-    "votes": 7,
-    "posted": "Nov 7, 2016 4:20:58 PM"
-  },
-  {
-    "id": "12891685",
-    "timestamp": "Nov 7, 2016 4:22:24 PM",
-    "topic": "Lever is hiring an engineering manager in SF – Join a 50/50 men and women team",
-    "url": "https://www.lever.co/jobs?site\u003dHacker%20News\u0026instance\u003d31\u0026copy\u003dL",
-    "votes": 1,
-    "posted": "Nov 7, 2016 4:17:41 PM"
-  },
-  {
-    "id": "12891584",
-    "timestamp": "Nov 7, 2016 4:32:25 PM",
-    "topic": "Hyper.sh – Effortless Docker Hosting",
-    "url": "https://hyper.sh/",
-    "votes": 10,
-    "posted": "Nov 7, 2016 4:08:24 PM"
-  },
-  {
-    "id": "12891582",
-    "timestamp": "Nov 7, 2016 5:52:32 PM",
-    "topic": "Samsung is building its own AI assistant for the Galaxy S8",
-    "url": "https://techcrunch.com/2016/11/07/samsung-ai/",
-    "votes": 5,
-    "posted": "Nov 7, 2016 4:08:18 PM"
   }
 ];
