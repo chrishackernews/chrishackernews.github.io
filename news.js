@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12949154",
+    "timestamp": "Nov 14, 2016 12:57:31 PM",
+    "topic": "Kill the newsletter: Convert newsletters into RSS feeds",
+    "url": "https://www.kill-the-newsletter.com/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 12:45:42 PM"
+  },
+  {
+    "id": "12949114",
+    "timestamp": "Nov 14, 2016 12:47:31 PM",
+    "topic": "I have toyota corola",
+    "url": "https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 12:38:19 PM"
+  },
+  {
     "id": "12948674",
     "timestamp": "Nov 14, 2016 11:07:23 AM",
     "topic": "Show HN: Secrets 2 – Simple, secure password manager for Mac and iOS",
@@ -13,6 +29,14 @@ var newsArray = [
     "topic": "Ask HN: Is Xamarin worth learning?",
     "votes": 5,
     "posted": "Nov 14, 2016 10:37:01 AM"
+  },
+  {
+    "id": "12948600",
+    "timestamp": "Nov 14, 2016 12:57:31 PM",
+    "topic": "International Human Cell Atlas Initiative",
+    "url": "http://www.sanger.ac.uk/news/view/international-human-cell-atlas-initiative",
+    "votes": 5,
+    "posted": "Nov 14, 2016 10:35:13 AM"
   },
   {
     "id": "12948503",
@@ -7492,13 +7516,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/07/fcc-ushers-in-a-troublesome-new-world-for-online-privacy/",
     "votes": 3,
     "posted": "Nov 7, 2016 1:00:30 PM"
-  },
-  {
-    "id": "12890376",
-    "timestamp": "Nov 7, 2016 5:12:28 PM",
-    "topic": "Musk: We need universal basic income because robots will take all the jobs",
-    "url": "http://arstechnica.co.uk/business/2016/11/elon-musk-universal-income-survive-robot-workers/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 12:52:29 PM"
   }
 ];
