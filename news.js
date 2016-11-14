@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12953836",
+    "timestamp": "Nov 14, 2016 11:58:41 PM",
+    "topic": "What I learnt from my 14 year journey writing software without a CS degree",
+    "url": "https://medium.com/@owahab/what-i-learnt-from-my-14-year-journey-writing-software-without-a-cs-degree-2a47941279f6#.j5i4zpnwo",
+    "votes": 3,
+    "posted": "Nov 14, 2016 11:12:22 PM"
+  },
+  {
+    "id": "12953810",
+    "timestamp": "Nov 14, 2016 11:18:33 PM",
+    "topic": "Smallest sliver of time yet measured sees electrons fleeing atom",
+    "url": "https://www.newscientist.com/article/2112537-smallest-sliver-of-time-yet-measured-sees-electrons-fleeing-atom/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 11:08:43 PM"
+  },
+  {
+    "id": "12953807",
+    "timestamp": "Nov 14, 2016 11:18:33 PM",
+    "topic": "Two-thirds of the world\u0027s internet users live under government censorship",
+    "url": "http://www.theverge.com/2016/11/14/13596974/internet-freedom-decline-global-censorship-facebook-whatsapp",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:08:11 PM"
+  },
+  {
+    "id": "12953799",
+    "timestamp": "Nov 14, 2016 11:38:34 PM",
+    "topic": "Chernobyl disaster: Giant shield begins move towards reactor",
+    "url": "http://www.bbc.com/news/world-europe-37978482",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:07:36 PM"
+  },
+  {
+    "id": "12953706",
+    "timestamp": "Nov 14, 2016 11:28:34 PM",
+    "topic": "Anime master Hayao Miyazaki is coming out of retirement to make one last film",
+    "url": "http://www.wired.co.uk/articlhttp://www.theverge.com/2016/11/14/13621108/hayao-miyazaki-last-film-boro-the-caterpillare/hayao-miyazaki-latest-film-cgi-caterpillar",
+    "votes": 4,
+    "posted": "Nov 14, 2016 10:52:34 PM"
+  },
+  {
+    "id": "12953587",
+    "timestamp": "Nov 14, 2016 11:08:32 PM",
+    "topic": "Can Libel Laws Be Changed Under Trump?",
+    "url": "http://www.nytimes.com/2016/11/14/business/media/can-libel-laws-be-changed-under-trump.html?em_pos\u003dsmall\u0026emc\u003dedit_dk_20161114\u0026nl\u003ddealbook\u0026nl_art\u003d4\u0026nlid\u003d65508833\u0026ref\u003dheadline\u0026te\u003d1",
+    "votes": 3,
+    "posted": "Nov 14, 2016 10:36:47 PM"
+  },
+  {
     "id": "12953526",
     "timestamp": "Nov 14, 2016 10:48:30 PM",
     "topic": "Dash for iOS is now open source",
@@ -21,6 +69,14 @@ var newsArray = [
     "topic": "Ask HN: What\u0027s your references to learn SEO?",
     "votes": 6,
     "posted": "Nov 14, 2016 10:23:51 PM"
+  },
+  {
+    "id": "12953417",
+    "timestamp": "Nov 14, 2016 11:18:32 PM",
+    "topic": "The Fall of Big Data",
+    "url": "http://www.argmin.net/2016/11/14/fall-of-big-data/",
+    "votes": 6,
+    "posted": "Nov 14, 2016 10:14:24 PM"
   },
   {
     "id": "12953391",
@@ -246,6 +302,13 @@ var newsArray = [
     "posted": "Nov 14, 2016 7:14:43 PM"
   },
   {
+    "id": "12951893",
+    "timestamp": "Nov 14, 2016 11:58:41 PM",
+    "topic": "Divshot, acquired and shut down a year ago, just billed me",
+    "votes": 8,
+    "posted": "Nov 14, 2016 7:11:50 PM"
+  },
+  {
     "id": "12951747",
     "timestamp": "Nov 14, 2016 7:18:07 PM",
     "topic": "What if you got $1,000 a month, just for being alive? I decided to find out",
@@ -314,6 +377,14 @@ var newsArray = [
     "url": "http://spectrum.ieee.org/view-from-the-valley/consumer-electronics/gadgets/this-smart-watch-will-charge-itself-using-the-heat-of-your-skin",
     "votes": 5,
     "posted": "Nov 14, 2016 5:20:43 PM"
+  },
+  {
+    "id": "12950715",
+    "timestamp": "Nov 14, 2016 11:48:35 PM",
+    "topic": "Facebook\u0027s Fight Against Fake News",
+    "url": "https://gizmodo.com/facebooks-fight-against-fake-news-was-undercut-by-fear-1788808204",
+    "votes": 7,
+    "posted": "Nov 14, 2016 5:13:38 PM"
   },
   {
     "id": "12950566",
@@ -7491,45 +7562,5 @@ var newsArray = [
     "url": "http://www.defensenews.com/articles/new-warships-big-guns-have-no-bullets",
     "votes": 6,
     "posted": "Nov 8, 2016 12:14:39 AM"
-  },
-  {
-    "id": "12895947",
-    "timestamp": "Nov 8, 2016 7:34:57 PM",
-    "topic": "Show HN: Cut unwanted parts from videos directly on YouTube",
-    "url": "https://eclips.io/#_\u003d_",
-    "votes": 3,
-    "posted": "Nov 7, 2016 11:46:56 PM"
-  },
-  {
-    "id": "12895890",
-    "timestamp": "Nov 8, 2016 2:53:30 AM",
-    "topic": "Actor library for Rust: first intro post",
-    "url": "http://dbeck.github.io/Rust-Actor-Library-First-assorted-thoughts/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 11:39:00 PM"
-  },
-  {
-    "id": "12895864",
-    "timestamp": "Nov 8, 2016 12:43:19 AM",
-    "topic": "A Simple Request: VLC.js",
-    "url": "http://ascii.textfiles.com/archives/5084",
-    "votes": 9,
-    "posted": "Nov 7, 2016 11:36:25 PM"
-  },
-  {
-    "id": "12895728",
-    "timestamp": "Nov 8, 2016 2:43:30 AM",
-    "topic": "Schneider blog: Firefox is removing Battery API",
-    "url": "https://www.schneier.com/blog/archives/2016/11/firefox_removin.html?nc\u003d3",
-    "votes": 4,
-    "posted": "Nov 7, 2016 11:16:31 PM"
-  },
-  {
-    "id": "12895663",
-    "timestamp": "Nov 7, 2016 11:53:15 PM",
-    "topic": "19 things I learnt reading the Node.js docs",
-    "url": "https://medium.com/@david.gilbertson/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.bzx75cpkv",
-    "votes": 4,
-    "posted": "Nov 7, 2016 11:07:24 PM"
   }
 ];
