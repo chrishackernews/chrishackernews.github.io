@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12946202",
+    "timestamp": "Nov 14, 2016 12:16:24 AM",
+    "topic": "Self-Taught Software Engineers: Why Open Source Is Important to Us",
+    "url": "https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576",
+    "votes": 4,
+    "posted": "Nov 13, 2016 11:51:48 PM"
+  },
+  {
     "id": "12946015",
     "timestamp": "Nov 13, 2016 11:56:23 PM",
     "topic": "Price of Lab-Grown Burger Falls from $325K to $11.36",
@@ -219,6 +227,14 @@ var newsArray = [
     "url": "http://diamondssuck.com/",
     "votes": 13,
     "posted": "Nov 13, 2016 6:35:56 PM"
+  },
+  {
+    "id": "12944439",
+    "timestamp": "Nov 14, 2016 12:16:25 AM",
+    "topic": "A Letter to the US from John Cleese",
+    "url": "http://cogink.com/cleese/",
+    "votes": 5,
+    "posted": "Nov 13, 2016 6:33:32 PM"
   },
   {
     "id": "12944290",
@@ -7454,45 +7470,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/5/13523372/usb-c-macbook-adapter-donglelife-problems-thunderbolt",
     "votes": 5,
     "posted": "Nov 7, 2016 1:17:02 AM"
-  },
-  {
-    "id": "12887805",
-    "timestamp": "Nov 7, 2016 3:21:18 AM",
-    "topic": "Switchers – Irony and Operating Systems",
-    "url": "https://brianketelsen.com/blog/switchers/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 12:47:33 AM"
-  },
-  {
-    "id": "12887795",
-    "timestamp": "Nov 7, 2016 3:41:20 AM",
-    "topic": "Whatever happened to Japanese laptops?",
-    "url": "http://jamielittle.org/2016/11/06/japan-laptops.html",
-    "votes": 5,
-    "posted": "Nov 7, 2016 12:45:03 AM"
-  },
-  {
-    "id": "12887729",
-    "timestamp": "Nov 7, 2016 3:31:19 AM",
-    "topic": "Show HN: Chrome extension that replaces words into a different language",
-    "url": "http://alpharabi.us",
-    "votes": 3,
-    "posted": "Nov 7, 2016 12:28:47 AM"
-  },
-  {
-    "id": "12887669",
-    "timestamp": "Nov 7, 2016 8:02:45 PM",
-    "topic": "Scottish witchcraft book published online",
-    "url": "http://www.bbc.com/news/uk-scotland-37789413",
-    "votes": 3,
-    "posted": "Nov 7, 2016 12:17:26 AM"
-  },
-  {
-    "id": "12887659",
-    "timestamp": "Nov 7, 2016 12:41:05 AM",
-    "topic": "Energy Giant Shell Says Oil Demand Could Peak in Just Five Years",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-02/europe-s-biggest-oil-company-thinks-demand-may-peak-in-5-years",
-    "votes": 6,
-    "posted": "Nov 7, 2016 12:14:22 AM"
   }
 ];
