@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 12:38:19 PM"
   },
   {
+    "id": "12948861",
+    "timestamp": "Nov 14, 2016 1:27:34 PM",
+    "topic": "Photographer Tracks Down People He Snapped in His Hometown Almost 40 Years Ago",
+    "url": "http://designyoutrust.com/2016/11/photographer-tracks-down-people-he-snapped-in-his-hometown-almost-40-years-ago-to-recreate-the-remarkable-images/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 11:43:35 AM"
+  },
+  {
     "id": "12948674",
     "timestamp": "Nov 14, 2016 11:07:23 AM",
     "topic": "Show HN: Secrets 2 – Simple, secure password manager for Mac and iOS",
@@ -7500,21 +7508,5 @@ var newsArray = [
     "url": "https://github.com/alexadam/sport-stats",
     "votes": 5,
     "posted": "Nov 7, 2016 2:19:24 PM"
-  },
-  {
-    "id": "12890585",
-    "timestamp": "Nov 7, 2016 4:42:25 PM",
-    "topic": "Does P\u003dNP? Results of a poll taken among academics [2002][pdf]",
-    "url": "http://www.cs.umd.edu/~gasarch/papers/poll.pdf",
-    "votes": 5,
-    "posted": "Nov 7, 2016 1:44:01 PM"
-  },
-  {
-    "id": "12890412",
-    "timestamp": "Nov 7, 2016 4:12:23 PM",
-    "topic": "FCC ushers in a troublesome new world for online privacy",
-    "url": "https://techcrunch.com/2016/11/07/fcc-ushers-in-a-troublesome-new-world-for-online-privacy/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 1:00:30 PM"
   }
 ];
