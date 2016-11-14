@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12946673",
+    "timestamp": "Nov 14, 2016 2:16:34 AM",
+    "topic": "How can I avoid my MacBook Pro giving me minor shocks?",
+    "url": "http://apple.stackexchange.com/questions/32417/how-can-i-avoid-my-macbook-pro-giving-me-minor-shocks",
+    "votes": 14,
+    "posted": "Nov 14, 2016 1:35:08 AM"
+  },
+  {
+    "id": "12946652",
+    "timestamp": "Nov 14, 2016 2:36:35 AM",
+    "topic": "India raises withdrawal limit as rupee anger mounts",
+    "url": "http://www.bbc.com/news/business-37969604",
+    "votes": 6,
+    "posted": "Nov 14, 2016 1:28:27 AM"
+  },
+  {
+    "id": "12946603",
+    "timestamp": "Nov 14, 2016 2:06:33 AM",
+    "topic": "Why Medical Bills Are Killing Us (2013) [pdf]",
+    "url": "http://www.uta.edu/faculty/story/2311/Misc/2013,2,26,MedicalCostsDemandAndGreed.pdf",
+    "votes": 5,
+    "posted": "Nov 14, 2016 1:13:48 AM"
+  },
+  {
     "id": "12946518",
     "timestamp": "Nov 14, 2016 1:16:29 AM",
     "topic": "Building Win16 GUI Applications in C",
@@ -32,6 +56,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 11:51:48 PM"
   },
   {
+    "id": "12946018",
+    "timestamp": "Nov 14, 2016 2:16:34 AM",
+    "topic": "Secure the Network Part #1 – OpenVPN and DNSCrypt",
+    "url": "https://snehesh.me/blog/secure-the-network-part-1-openvpn-and-dnscrypt",
+    "votes": 4,
+    "posted": "Nov 13, 2016 11:21:26 PM"
+  },
+  {
     "id": "12946015",
     "timestamp": "Nov 13, 2016 11:56:23 PM",
     "topic": "Price of Lab-Grown Burger Falls from $325K to $11.36",
@@ -53,6 +85,14 @@ var newsArray = [
     "topic": "Ask HN: Have you done / plan to do any basic “prepping” (tinned food etc)",
     "votes": 5,
     "posted": "Nov 13, 2016 10:27:04 PM"
+  },
+  {
+    "id": "12945736",
+    "timestamp": "Nov 14, 2016 2:16:34 AM",
+    "topic": "Semantic Scholar Adds Neuroscience Papers",
+    "url": "https://www.engadget.com/2016/11/11/semantic-scholar-search-engine-ai-research-papers-neuroscience/",
+    "votes": 3,
+    "posted": "Nov 13, 2016 10:19:44 PM"
   },
   {
     "id": "12945516",
@@ -7430,37 +7470,5 @@ var newsArray = [
     "url": "http://blog.austingardnersmith.me/how-twitter-could-have-been-a-protocol/",
     "votes": 4,
     "posted": "Nov 7, 2016 3:00:21 AM"
-  },
-  {
-    "id": "12888181",
-    "timestamp": "Nov 7, 2016 3:11:17 AM",
-    "topic": "Face electrodes let you taste and chew in virtual reality",
-    "url": "https://www.newscientist.com/article/2111371-face-electrodes-let-you-taste-and-chew-in-virtual-reality/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 2:27:54 AM"
-  },
-  {
-    "id": "12888162",
-    "timestamp": "Nov 7, 2016 3:11:17 AM",
-    "topic": "Web of Trust caught selling private browsing history of millions",
-    "url": "http://www.pcmag.com/news/349328/web-of-trust-browser-extension-cannot-be-trusted",
-    "votes": 4,
-    "posted": "Nov 7, 2016 2:22:13 AM"
-  },
-  {
-    "id": "12888112",
-    "timestamp": "Nov 7, 2016 3:11:17 AM",
-    "topic": "iOS App Store flooded with fake retail apps",
-    "url": "http://www.nytimes.com/2016/11/07/technology/more-iphone-fake-retail-apps-before-holidays.html",
-    "votes": 3,
-    "posted": "Nov 7, 2016 2:09:14 AM"
-  },
-  {
-    "id": "12888071",
-    "timestamp": "Nov 7, 2016 2:21:13 AM",
-    "topic": "What does Unsplash cost to run?",
-    "url": "https://crew.co/backstage/dispatch/what-does-unsplash-cost/",
-    "votes": 14,
-    "posted": "Nov 7, 2016 1:57:19 AM"
   }
 ];
