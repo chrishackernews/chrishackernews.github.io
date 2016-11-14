@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12947106",
+    "timestamp": "Nov 14, 2016 3:56:42 AM",
+    "topic": "Direct Sparse Odometry (DSO) open sourced",
+    "url": "https://github.com/JakobEngel/dso",
+    "votes": 3,
+    "posted": "Nov 14, 2016 3:28:01 AM"
+  },
+  {
+    "id": "12946986",
+    "timestamp": "Nov 14, 2016 3:16:39 AM",
+    "topic": "Researchers discover new method to dissipate heat in electronic devices",
+    "url": "http://phys.org/news/2016-11-method-dissipate-electronic-devices.html",
+    "votes": 3,
+    "posted": "Nov 14, 2016 2:54:52 AM"
+  },
+  {
+    "id": "12946976",
+    "timestamp": "Nov 14, 2016 3:26:40 AM",
+    "topic": "Poor people pay for parking even when they can’t afford a car",
+    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/06/15/why-free-parking-is-a-big-problem/",
+    "votes": 6,
+    "posted": "Nov 14, 2016 2:53:14 AM"
+  },
+  {
+    "id": "12946881",
+    "timestamp": "Nov 14, 2016 3:16:39 AM",
+    "topic": "Pascal GPUs on All Fronts Push Nvidia to New Highs",
+    "url": "https://www.nextplatform.com/2016/11/12/pascal-gpus-fronts-push-nvidia-new-highs/",
+    "votes": 6,
+    "posted": "Nov 14, 2016 2:34:12 AM"
+  },
+  {
+    "id": "12946824",
+    "timestamp": "Nov 14, 2016 3:06:38 AM",
+    "topic": "Users Around the World Reject Europe\u0027s Upload Filtering Proposal",
+    "url": "https://www.eff.org/deeplinks/2016/11/users-around-world-reject-europes-upload-filtering-proposal",
+    "votes": 3,
+    "posted": "Nov 14, 2016 2:19:02 AM"
+  },
+  {
+    "id": "12946752",
+    "timestamp": "Nov 14, 2016 3:26:40 AM",
+    "topic": "SHA-1 certificate error on Google.com",
+    "url": "https://twitter.com/AndreDeMarre/status/797965638757060608",
+    "votes": 4,
+    "posted": "Nov 14, 2016 2:01:32 AM"
+  },
+  {
     "id": "12946673",
     "timestamp": "Nov 14, 2016 2:16:34 AM",
     "topic": "How can I avoid my MacBook Pro giving me minor shocks?",
@@ -70,6 +118,14 @@ var newsArray = [
     "url": "http://bigthink.com/ideafeed/answering-how-a-sausage-gets-made-will-be-more-complicated-in-2020",
     "votes": 4,
     "posted": "Nov 13, 2016 11:20:33 PM"
+  },
+  {
+    "id": "12945832",
+    "timestamp": "Nov 14, 2016 3:56:43 AM",
+    "topic": "The Supermanagerial Reich",
+    "url": "https://lareviewofbooks.org/article/the-supermanagerial-reich/",
+    "votes": 6,
+    "posted": "Nov 13, 2016 10:42:28 PM"
   },
   {
     "id": "12945803",
@@ -7430,45 +7486,5 @@ var newsArray = [
     "url": "https://news.slashdot.org/story/16/11/07/022246/gawker-pays-750000-to-that-guy-who-didnt-invent-email",
     "votes": 6,
     "posted": "Nov 7, 2016 4:04:45 AM"
-  },
-  {
-    "id": "12888389",
-    "timestamp": "Nov 7, 2016 4:41:26 AM",
-    "topic": "Arctic farming: Town defies icy conditions with hydroponics",
-    "url": "http://hosted.ap.org/dynamic/stories/U/US_ARCTIC_FARMING?SITE\u003dAP\u0026SECTION\u003dHOME\u0026TEMPLATE\u003dDEFAULT\u0026CTIME\u003d2016-11-04-14-31-47",
-    "votes": 4,
-    "posted": "Nov 7, 2016 3:32:18 AM"
-  },
-  {
-    "id": "12888382",
-    "timestamp": "Nov 7, 2016 3:51:21 AM",
-    "topic": "Python: Some thoughts on asynchronous API design in a post-async/await world",
-    "url": "https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 3:30:11 AM"
-  },
-  {
-    "id": "12888370",
-    "timestamp": "Nov 7, 2016 4:31:24 AM",
-    "topic": "Brain-Like Machine Learning Regulatory Feedback Networks One-Shot Learning",
-    "url": "http://www.naiss.io/blog/2016/5/29/m76bvhww07z0algjbjmnl8gobjuakz",
-    "votes": 3,
-    "posted": "Nov 7, 2016 3:26:13 AM"
-  },
-  {
-    "id": "12888313",
-    "timestamp": "Nov 7, 2016 4:31:24 AM",
-    "topic": "How to Get Beyond Tribal Politics",
-    "url": "http://www.wsj.com/articles/how-to-get-beyond-our-tribal-politics-1478271810",
-    "votes": 3,
-    "posted": "Nov 7, 2016 3:08:43 AM"
-  },
-  {
-    "id": "12888287",
-    "timestamp": "Nov 7, 2016 4:11:23 AM",
-    "topic": "Twitter Could Have Become a Protocol",
-    "url": "http://blog.austingardnersmith.me/how-twitter-could-have-been-a-protocol/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 3:00:21 AM"
   }
 ];
