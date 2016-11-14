@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12950904",
+    "timestamp": "Nov 14, 2016 5:57:59 PM",
+    "topic": "British NHS DDOS attacks itself via email sent to 1.2M staff",
+    "url": "http://www.telegraph.co.uk/news/2016/11/14/nhs-it-blunder-sees-system-clogged-after-email-sent-to-12-millio/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 5:32:09 PM"
+  },
+  {
+    "id": "12950830",
+    "timestamp": "Nov 14, 2016 5:37:57 PM",
+    "topic": "The NHS\u0027s 1.2M employees are trapped in a \u0027reply-all\u0027 email hell",
+    "url": "http://uk.businessinsider.com/reply-all-email-chain-1-2-million-nhs-employees-2016-11?r\u003dUS\u0026IR\u003dT",
+    "votes": 4,
+    "posted": "Nov 14, 2016 5:25:33 PM"
+  },
+  {
+    "id": "12950566",
+    "timestamp": "Nov 14, 2016 5:17:55 PM",
+    "topic": "Maine Enacts Ranked Choice/Instant Runoff Voting",
+    "url": "https://ballotpedia.org/Maine_Ranked_Choice_Voting_Initiative,_Question_5_(2016)",
+    "votes": 13,
+    "posted": "Nov 14, 2016 4:54:05 PM"
+  },
+  {
     "id": "12950501",
     "timestamp": "Nov 14, 2016 4:57:53 PM",
     "topic": "Dan Rather: Now, More Than Ever, We Must Stand Up for Science",
@@ -92,6 +116,13 @@ var newsArray = [
     "url": "http://blockgeeks.com/guides/what-is-cryptocurrency-everything-you-need-to-know-ultimate-guide/",
     "votes": 7,
     "posted": "Nov 14, 2016 3:17:12 PM"
+  },
+  {
+    "id": "12949734",
+    "timestamp": "Nov 14, 2016 5:47:58 PM",
+    "topic": "Ask HN: Self Hosted Google Inbox Alternative?",
+    "votes": 4,
+    "posted": "Nov 14, 2016 2:41:19 PM"
   },
   {
     "id": "12949510",
@@ -219,6 +250,14 @@ var newsArray = [
     "url": "http://www.slideshare.net/MarkImbriaco/what-i-learned-leading-ops-at-github-heroku-digitalocean-and-more",
     "votes": 6,
     "posted": "Nov 14, 2016 8:46:10 AM"
+  },
+  {
+    "id": "12948112",
+    "timestamp": "Nov 14, 2016 5:57:59 PM",
+    "topic": "A Confession of Liberal Intolerance",
+    "url": "http://www.nytimes.com/2016/05/08/opinion/sunday/a-confession-of-liberal-intolerance.html?_r\u003d0",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:33:19 AM"
   },
   {
     "id": "12948089",
@@ -1454,6 +1493,14 @@ var newsArray = [
     "topic": "Ask HN: Someone here to team up with me on a project to learn react together?",
     "votes": 3,
     "posted": "Nov 12, 2016 11:33:43 PM"
+  },
+  {
+    "id": "12940512",
+    "timestamp": "Nov 14, 2016 5:57:59 PM",
+    "topic": "Facebook Is Said to Question Its Influence in Election",
+    "url": "http://www.nytimes.com/2016/11/14/technology/facebook-is-said-to-question-its-influence-in-election.html?_r\u003d0`",
+    "votes": 4,
+    "posted": "Nov 12, 2016 11:17:26 PM"
   },
   {
     "id": "12940505",
@@ -7388,132 +7435,5 @@ var newsArray = [
     "url": "https://azure.microsoft.com/en-us/blog/azure-container-service-the-cloud-s-most-open-option-for-containers/",
     "votes": 11,
     "posted": "Nov 7, 2016 6:04:11 PM"
-  },
-  {
-    "id": "12892550",
-    "timestamp": "Nov 7, 2016 6:22:35 PM",
-    "topic": "Power-touch a touchbar for linux and windows using your phone",
-    "url": "https://github.com/rokyed/power-touch",
-    "votes": 5,
-    "posted": "Nov 7, 2016 5:56:47 PM"
-  },
-  {
-    "id": "12892547",
-    "timestamp": "Nov 7, 2016 6:32:37 PM",
-    "topic": "Gorgeous native apps with Java",
-    "url": "https://www.codenameone.com/index.html",
-    "votes": 5,
-    "posted": "Nov 7, 2016 5:56:33 PM"
-  },
-  {
-    "id": "12892502",
-    "timestamp": "Nov 7, 2016 6:42:37 PM",
-    "topic": "Quick fix for the internet sketched on 3 napkins in 1989 is still in place today",
-    "url": "http://www.washingtonpost.com/sf/business/2015/05/31/net-of-insecurity-part-2/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 5:51:57 PM"
-  },
-  {
-    "id": "12892473",
-    "timestamp": "Nov 7, 2016 6:52:38 PM",
-    "topic": "Ask HN: Do you have a side project you want to sell? (November 2016)",
-    "votes": 5,
-    "posted": "Nov 7, 2016 5:48:59 PM"
-  },
-  {
-    "id": "12892450",
-    "timestamp": "Nov 8, 2016 3:54:33 PM",
-    "topic": "In 1961, Roald Dahl Hosted His Own Version of \u0027The Twilight Zone\u0027",
-    "url": "http://www.atlasobscura.com/articles/in-1961-roald-dahl-hosted-his-own-version-of-the-twilight-zone",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:46:49 PM"
-  },
-  {
-    "id": "12892412",
-    "timestamp": "Nov 7, 2016 6:12:33 PM",
-    "topic": "Soylent Thinks It Found What Was Making People Sick: Algae",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-07/soylent-thinks-it-found-what-was-making-people-sick-algae",
-    "votes": 12,
-    "posted": "Nov 7, 2016 5:43:42 PM"
-  },
-  {
-    "id": "12892333",
-    "timestamp": "Nov 7, 2016 6:32:36 PM",
-    "topic": "Android Auto: now available in every car",
-    "url": "https://blog.google/products/android/android-auto-available-in-every-car/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 5:34:48 PM"
-  },
-  {
-    "id": "12892268",
-    "timestamp": "Nov 7, 2016 6:32:36 PM",
-    "topic": "Show HN: UThreads-concurrent M:N fibers in C++",
-    "url": "http://samanbarghi.com/uThreads/v0.3.0/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:27:49 PM"
-  },
-  {
-    "id": "12892257",
-    "timestamp": "Nov 7, 2016 5:52:32 PM",
-    "topic": "Inside Magic Leap, the Secretive $4.5B Startup Changing Computing Forever",
-    "url": "http://www.forbes.com/sites/davidewalt/2016/11/02/inside-magic-leap-the-secretive-4-5-billion-startup-changing-computing-forever/#7e4ba0c9e83f",
-    "votes": 5,
-    "posted": "Nov 7, 2016 5:26:07 PM"
-  },
-  {
-    "id": "12892207",
-    "timestamp": "Nov 7, 2016 5:32:30 PM",
-    "topic": "HumanPredictions – bootstrapping a SaaS app to $18k/mo in under a year",
-    "url": "https://www.indiehackers.com/businesses/humanpredictions?utm_source\u003dhacker-news\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003dsocial",
-    "votes": 9,
-    "posted": "Nov 7, 2016 5:19:51 PM"
-  },
-  {
-    "id": "12892172",
-    "timestamp": "Nov 7, 2016 5:22:29 PM",
-    "topic": "Ceasefires Don’t Work: We Have the Numbers to Prove It",
-    "url": "http://isnblog.ethz.ch/conflict/ceasefires-dont-work-we-have-the-numbers-to-prove-it",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:16:01 PM"
-  },
-  {
-    "id": "12892117",
-    "timestamp": "Nov 7, 2016 6:12:34 PM",
-    "topic": "MacBook Pro 2016 Dongles: Wifi Stops Working with Dongles",
-    "url": "http://www.techplz.com/macbook-pro-2016-dongles-wifi-stops-working-dongles-apple-cuts-prices-due-incompatibilities/174136/",
-    "votes": 12,
-    "posted": "Nov 7, 2016 5:09:19 PM"
-  },
-  {
-    "id": "12892063",
-    "timestamp": "Nov 7, 2016 5:32:30 PM",
-    "topic": "Adobe demos “photoshop for audio,” lets you edit speech as easily as text",
-    "url": "http://arstechnica.com/information-technology/2016/11/adobe-voco-photoshop-for-audio-speech-editing/",
-    "votes": 5,
-    "posted": "Nov 7, 2016 5:03:07 PM"
-  },
-  {
-    "id": "12892058",
-    "timestamp": "Nov 7, 2016 6:12:34 PM",
-    "topic": "Why Red Hat Chose Kubernetes for OpenShift",
-    "url": "https://blog.openshift.com/red-hat-chose-kubernetes-openshift/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 5:02:25 PM"
-  },
-  {
-    "id": "12892043",
-    "timestamp": "Nov 8, 2016 2:34:27 PM",
-    "topic": "One Road Out of Depression",
-    "url": "https://thinkfaster.co/2016/10/one-road-out-of-depression/",
-    "votes": 5,
-    "posted": "Nov 7, 2016 5:01:15 PM"
-  },
-  {
-    "id": "12892032",
-    "timestamp": "Nov 8, 2016 4:24:38 PM",
-    "topic": "The Chopped Cheese’s Sharp Rise to Fame",
-    "url": "http://www.nytimes.com/2016/11/08/nyregion/chopped-cheese-sandwich-harlem.html",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:00:11 PM"
   }
 ];
