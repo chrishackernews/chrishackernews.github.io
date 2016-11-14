@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12947830",
+    "timestamp": "Nov 14, 2016 7:17:00 AM",
+    "topic": "Show HN: interactive deep convnet visualization for Keras and Tensorflow",
+    "url": "https://jakebian.github.io/quiver/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 6:58:30 AM"
+  },
+  {
+    "id": "12947792",
+    "timestamp": "Nov 14, 2016 7:37:02 AM",
+    "topic": "Fun Linux commands",
+    "url": "http://www.binarytides.com/linux-fun-commands/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 6:46:20 AM"
+  },
+  {
+    "id": "12947739",
+    "timestamp": "Nov 14, 2016 7:06:59 AM",
+    "topic": "You Don’t Need a Master Plan – You Just Need to Start",
+    "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#.n2c6xn1hg",
+    "votes": 4,
+    "posted": "Nov 14, 2016 6:27:30 AM"
+  },
+  {
+    "id": "12947596",
+    "timestamp": "Nov 14, 2016 7:17:00 AM",
+    "topic": "A list of modern C++ features",
+    "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+    "votes": 5,
+    "posted": "Nov 14, 2016 5:33:36 AM"
+  },
+  {
     "id": "12947581",
     "timestamp": "Nov 14, 2016 5:46:53 AM",
     "topic": "One year later [after quitting the tech industry]",
@@ -22,6 +54,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dG4VmJcZR0Yg",
     "votes": 3,
     "posted": "Nov 14, 2016 4:50:20 AM"
+  },
+  {
+    "id": "12947394",
+    "timestamp": "Nov 14, 2016 7:37:02 AM",
+    "topic": "Switzerland Tries to Save Rhone Glacier by Covering It in Blankets",
+    "url": "https://www.wired.com/2016/11/stefan-schlumpf-hidden-landscapes-rhone-glacier/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 4:44:48 AM"
   },
   {
     "id": "12947213",
@@ -62,6 +102,13 @@ var newsArray = [
     "url": "https://github.com/JakobEngel/dso",
     "votes": 3,
     "posted": "Nov 14, 2016 3:28:01 AM"
+  },
+  {
+    "id": "12947026",
+    "timestamp": "Nov 14, 2016 7:17:00 AM",
+    "topic": "Best laptop for Hololens development?",
+    "votes": 4,
+    "posted": "Nov 14, 2016 3:06:02 AM"
   },
   {
     "id": "12946986",
@@ -7471,29 +7518,5 @@ var newsArray = [
     "url": "http://cacm.acm.org/magazines/2016/11/209116-apache-spark/fulltext",
     "votes": 5,
     "posted": "Nov 7, 2016 8:27:02 AM"
-  },
-  {
-    "id": "12889302",
-    "timestamp": "Nov 7, 2016 7:51:41 AM",
-    "topic": "Go’s alias proposal and all my concerns of Google controlling Go",
-    "url": "https://hackernoon.com/gos-alias-proposal-and-all-my-concerns-of-google-controlling-go-a39f6c6046aa#.79iuuucic",
-    "votes": 10,
-    "posted": "Nov 7, 2016 7:32:02 AM"
-  },
-  {
-    "id": "12889115",
-    "timestamp": "Nov 7, 2016 7:11:37 AM",
-    "topic": "Twitter appears to be down",
-    "url": "http://downdetector.com/status/twitter",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:58:51 AM"
-  },
-  {
-    "id": "12889104",
-    "timestamp": "Nov 7, 2016 7:01:37 AM",
-    "topic": "Twitter is down",
-    "url": "http://downforeveryoneorjustme.com/twitter.com",
-    "votes": 10,
-    "posted": "Nov 7, 2016 6:57:07 AM"
   }
 ];
