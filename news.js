@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12946518",
+    "timestamp": "Nov 14, 2016 1:16:29 AM",
+    "topic": "Building Win16 GUI Applications in C",
+    "url": "http://www.transmissionzero.co.uk/computing/win16-apps-in-c/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 12:54:25 AM"
+  },
+  {
+    "id": "12946425",
+    "timestamp": "Nov 14, 2016 1:16:29 AM",
+    "topic": "Iocage – A FreeBSD jail manager",
+    "url": "https://iocage.readthedocs.io/en/latest/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 12:31:56 AM"
+  },
+  {
+    "id": "12946320",
+    "timestamp": "Nov 14, 2016 1:36:30 AM",
+    "topic": "Fastest C# Serializer and Deserializer for .NET, .NET Core and Unity",
+    "url": "https://github.com/neuecc/ZeroFormatter",
+    "votes": 3,
+    "posted": "Nov 14, 2016 12:11:55 AM"
+  },
+  {
     "id": "12946202",
     "timestamp": "Nov 14, 2016 12:16:24 AM",
     "topic": "Self-Taught Software Engineers: Why Open Source Is Important to Us",
@@ -141,6 +165,14 @@ var newsArray = [
     "url": "http://www.tabletmag.com/jewish-life-and-religion/215862/epitaph-for-a-bronx-accent",
     "votes": 3,
     "posted": "Nov 13, 2016 7:52:16 PM"
+  },
+  {
+    "id": "12944888",
+    "timestamp": "Nov 14, 2016 1:36:31 AM",
+    "topic": "Show HN: Procedural world generation example: Prague with elevation data data",
+    "url": "https://www.youtube.com/watch?v\u003dmZzOWsoM5EY",
+    "votes": 3,
+    "posted": "Nov 13, 2016 7:51:44 PM"
   },
   {
     "id": "12944873",
@@ -7430,45 +7462,5 @@ var newsArray = [
     "url": "https://crew.co/backstage/dispatch/what-does-unsplash-cost/",
     "votes": 14,
     "posted": "Nov 7, 2016 1:57:19 AM"
-  },
-  {
-    "id": "12887967",
-    "timestamp": "Nov 7, 2016 3:41:20 AM",
-    "topic": "A Bad Carver: Musings on why technology often seems to challenge the sacred",
-    "url": "http://www.ribbonfarm.com/2016/11/03/a-bad-carver/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 1:31:37 AM"
-  },
-  {
-    "id": "12887959",
-    "timestamp": "Nov 7, 2016 2:21:13 AM",
-    "topic": "First look at Tesla’s new self-driving Autopilot hardware in the wild",
-    "url": "https://electrek.co/2016/11/06/first-look-tesla-new-self-driving-autopilot-hardware-in-the-wild/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 1:28:56 AM"
-  },
-  {
-    "id": "12887927",
-    "timestamp": "Nov 7, 2016 4:31:25 AM",
-    "topic": "NYC Bike Stats",
-    "url": "https://sirpthatch.github.io/post/NYC-General-Bike-Stats/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 1:21:02 AM"
-  },
-  {
-    "id": "12887925",
-    "timestamp": "Nov 7, 2016 2:41:15 AM",
-    "topic": "Perl and the birth of the dynamic web",
-    "url": "https://opensource.com/life/16/11/perl-and-birth-dynamic-web",
-    "votes": 4,
-    "posted": "Nov 7, 2016 1:20:40 AM"
-  },
-  {
-    "id": "12887910",
-    "timestamp": "Nov 7, 2016 2:31:14 AM",
-    "topic": "I have lived the USB-C #donglelife. Here’s what you’re in for – The Verge",
-    "url": "http://www.theverge.com/2016/11/5/13523372/usb-c-macbook-adapter-donglelife-problems-thunderbolt",
-    "votes": 5,
-    "posted": "Nov 7, 2016 1:17:02 AM"
   }
 ];
