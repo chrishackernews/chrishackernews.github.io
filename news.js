@@ -1,11 +1,49 @@
 var newsArray = [
   {
+    "id": "12948674",
+    "timestamp": "Nov 14, 2016 11:07:23 AM",
+    "topic": "Show HN: Secrets 2 – Simple, secure password manager for Mac and iOS",
+    "url": "https://outercorner.com/secrets/?utm_source\u003dhn",
+    "votes": 10,
+    "posted": "Nov 14, 2016 10:57:54 AM"
+  },
+  {
+    "id": "12948611",
+    "timestamp": "Nov 14, 2016 11:47:26 AM",
+    "topic": "Ask HN: Is Xamarin worth learning?",
+    "votes": 5,
+    "posted": "Nov 14, 2016 10:37:01 AM"
+  },
+  {
+    "id": "12948503",
+    "timestamp": "Nov 14, 2016 11:57:27 AM",
+    "topic": "Dissolve My Nobel Prize Fast (A True Story)",
+    "url": "http://www.npr.org/sections/krulwich/2011/10/03/140815154/dissolve-my-nobel-prize-fast-a-true-story?sc\u003dtw\u0026cc\u003dshare",
+    "votes": 3,
+    "posted": "Nov 14, 2016 10:10:14 AM"
+  },
+  {
+    "id": "12948357",
+    "timestamp": "Nov 14, 2016 11:57:27 AM",
+    "topic": "S.D. police use catheters, force to collect urine samples",
+    "url": "http://www.firstcoastnews.com/news/nation-now/sd-police-use-catheters-force-to-collect-urine-samples/261703292",
+    "votes": 3,
+    "posted": "Nov 14, 2016 9:35:22 AM"
+  },
+  {
     "id": "12948155",
     "timestamp": "Nov 14, 2016 9:27:10 AM",
     "topic": "What I learned leading Ops at GitHub, Heroku, DigitalOcean, and more.…",
     "url": "http://www.slideshare.net/MarkImbriaco/what-i-learned-leading-ops-at-github-heroku-digitalocean-and-more",
     "votes": 6,
     "posted": "Nov 14, 2016 8:46:10 AM"
+  },
+  {
+    "id": "12948089",
+    "timestamp": "Nov 14, 2016 11:47:26 AM",
+    "topic": "Ask HN: Will we have time to understand that singularity happened?",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:24:43 AM"
   },
   {
     "id": "12948043",
@@ -22,6 +60,14 @@ var newsArray = [
     "url": "https://www.remix.com/jobs",
     "votes": 1,
     "posted": "Nov 14, 2016 8:02:56 AM"
+  },
+  {
+    "id": "12947892",
+    "timestamp": "Nov 14, 2016 11:27:24 AM",
+    "topic": "Stone money (Rai stones)",
+    "url": "https://en.wikipedia.org/wiki/Rai_stones",
+    "votes": 3,
+    "posted": "Nov 14, 2016 7:21:17 AM"
   },
   {
     "id": "12947830",
@@ -7454,29 +7500,5 @@ var newsArray = [
     "url": "http://arstechnica.co.uk/business/2016/11/elon-musk-universal-income-survive-robot-workers/",
     "votes": 4,
     "posted": "Nov 7, 2016 12:52:29 PM"
-  },
-  {
-    "id": "12890118",
-    "timestamp": "Nov 7, 2016 12:22:03 PM",
-    "topic": "Tesco Bank freezes transactions after cash taken from 20,000 accounts",
-    "url": "https://www.theguardian.com/business/2016/nov/07/tesco-bank-freezes-transactions-online-attack",
-    "votes": 6,
-    "posted": "Nov 7, 2016 11:43:41 AM"
-  },
-  {
-    "id": "12890005",
-    "timestamp": "Nov 7, 2016 11:41:59 AM",
-    "topic": "Orange Pi, a Quad Core Computer for $20",
-    "url": "https://techcrunch.com/2016/11/06/the-new-64-bit-orange-pi-is-a-quad-core-computer-for-20/",
-    "votes": 10,
-    "posted": "Nov 7, 2016 11:18:40 AM"
-  },
-  {
-    "id": "12889956",
-    "timestamp": "Nov 7, 2016 1:22:10 PM",
-    "topic": "NASA: EM Drive really does work",
-    "url": "http://www.sciencealert.com/leaked-nasa-paper-shows-the-impossible-em-drive-really-does-work",
-    "votes": 3,
-    "posted": "Nov 7, 2016 11:02:36 AM"
   }
 ];
