@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12947581",
+    "timestamp": "Nov 14, 2016 5:46:53 AM",
+    "topic": "One year later [after quitting the tech industry]",
+    "url": "https://eev.ee/blog/2016/06/12/one-year-later/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 5:30:08 AM"
+  },
+  {
+    "id": "12947551",
+    "timestamp": "Nov 14, 2016 5:46:52 AM",
+    "topic": "The man who created a tiny country he can no longer enter",
+    "url": "http://www.bbc.com/news/magazine-37941931?ocid\u003dsocialflow_twitter",
+    "votes": 4,
+    "posted": "Nov 14, 2016 5:23:29 AM"
+  },
+  {
     "id": "12947213",
     "timestamp": "Nov 14, 2016 4:56:48 AM",
     "topic": "Zuck\u0027s response",
@@ -128,12 +144,28 @@ var newsArray = [
     "posted": "Nov 14, 2016 12:54:25 AM"
   },
   {
+    "id": "12946505",
+    "timestamp": "Nov 14, 2016 5:16:50 AM",
+    "topic": "Some Chimps Are Putting Grass in Their Ears–For No Particular Reason",
+    "url": "http://www.smithsonianmag.com/smart-news/animal-fashion-some-chimps-are-putting-grass-ears-and-nobody-knows-why-180951888/?no-ist",
+    "votes": 3,
+    "posted": "Nov 14, 2016 12:51:22 AM"
+  },
+  {
     "id": "12946425",
     "timestamp": "Nov 14, 2016 1:16:29 AM",
     "topic": "Iocage – A FreeBSD jail manager",
     "url": "https://iocage.readthedocs.io/en/latest/",
     "votes": 4,
     "posted": "Nov 14, 2016 12:31:56 AM"
+  },
+  {
+    "id": "12946392",
+    "timestamp": "Nov 14, 2016 5:46:53 AM",
+    "topic": "GLL Parsing (2010) [pdf]",
+    "url": "http://dotat.at/tmp/gll.pdf",
+    "votes": 6,
+    "posted": "Nov 14, 2016 12:23:42 AM"
   },
   {
     "id": "12946320",
@@ -197,6 +229,14 @@ var newsArray = [
     "url": "https://www.engadget.com/2016/11/11/semantic-scholar-search-engine-ai-research-papers-neuroscience/",
     "votes": 3,
     "posted": "Nov 13, 2016 10:19:44 PM"
+  },
+  {
+    "id": "12945596",
+    "timestamp": "Nov 14, 2016 5:26:51 AM",
+    "topic": "The Best Pen (2015)",
+    "url": "http://thewirecutter.com/reviews/the-best-pen/",
+    "votes": 4,
+    "posted": "Nov 13, 2016 9:53:08 PM"
   },
   {
     "id": "12945516",
@@ -7470,36 +7510,5 @@ var newsArray = [
     "topic": "Ask HN: If MS spun off Windows, would it be forgiven?",
     "votes": 3,
     "posted": "Nov 7, 2016 6:25:17 AM"
-  },
-  {
-    "id": "12888877",
-    "timestamp": "Nov 7, 2016 6:21:34 AM",
-    "topic": "Show HN: NetIn – Shorten job interviews by answering the questions only once",
-    "url": "https://netin.co/candidates",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:46:50 AM"
-  },
-  {
-    "id": "12888784",
-    "timestamp": "Nov 7, 2016 5:51:31 AM",
-    "topic": "Ask HN: Why hasn\u0027t Perl 6 taken off yet?",
-    "votes": 7,
-    "posted": "Nov 7, 2016 5:20:50 AM"
-  },
-  {
-    "id": "12888739",
-    "timestamp": "Nov 7, 2016 8:02:45 PM",
-    "topic": "Revolting Mind: Jonathan Swift – The Reluctant Rebel",
-    "url": "https://literaryreview.co.uk/revolting-mind",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:08:07 AM"
-  },
-  {
-    "id": "12888718",
-    "timestamp": "Nov 7, 2016 2:22:14 PM",
-    "topic": "A Brief History of RTS AI Research",
-    "url": "http://www.gamasutra.com/blogs/BenWeber/20161106/284970/A_Brief_History_of_RTS_AI_Research.php",
-    "votes": 3,
-    "posted": "Nov 7, 2016 5:01:35 AM"
   }
 ];
