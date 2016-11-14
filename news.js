@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12949479",
+    "timestamp": "Nov 14, 2016 2:27:39 PM",
+    "topic": "China, Japan, Russia, and South Korea Plan Renewable Energy Super Grid",
+    "url": "https://cleantechnica.com/2016/09/21/china-japan-russia-south-korea-plan-renewable-energy-super-grid/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 1:55:49 PM"
+  },
+  {
+    "id": "12949469",
+    "timestamp": "Nov 14, 2016 2:47:41 PM",
+    "topic": "Making Time for Side Projects",
+    "url": "https://medium.com/@bgilham/making-time-for-side-projects-22fbee546b45#.4ncedu481",
+    "votes": 4,
+    "posted": "Nov 14, 2016 1:54:11 PM"
+  },
+  {
+    "id": "12949366",
+    "timestamp": "Nov 14, 2016 2:07:37 PM",
+    "topic": "Siemens buys mentor graphics",
+    "url": "http://www.reuters.com/article/us-mentor-graphics-m-a-siemens-idUSKBN1390Q4",
+    "votes": 5,
+    "posted": "Nov 14, 2016 1:30:38 PM"
+  },
+  {
+    "id": "12949242",
+    "timestamp": "Nov 14, 2016 2:07:37 PM",
+    "topic": "China threatens to cut iPhone sales, replace Boeing if Trump starts a trade war",
+    "url": "http://www.independent.co.uk/news/business/news/donald-trump-china-iphone-cars-cut-trade-war-threat-us-auto-industry-a7415846.html",
+    "votes": 4,
+    "posted": "Nov 14, 2016 1:03:33 PM"
+  },
+  {
+    "id": "12949181",
+    "timestamp": "Nov 14, 2016 2:17:38 PM",
+    "topic": "Practical Cryptography",
+    "url": "http://practicalcryptography.com/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 12:51:00 PM"
+  },
+  {
     "id": "12949154",
     "timestamp": "Nov 14, 2016 12:57:31 PM",
     "topic": "Kill the newsletter: Convert newsletters into RSS feeds",
@@ -7460,53 +7500,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003d3fGuzchHXAU",
     "votes": 3,
     "posted": "Nov 7, 2016 3:09:56 PM"
-  },
-  {
-    "id": "12890921",
-    "timestamp": "Nov 7, 2016 3:22:19 PM",
-    "topic": "Artificial intelligence: An IT Crucial",
-    "url": "https://medium.com/@shifatbd/artificial-intelligence-an-it-crucial-36ec2d2d696f",
-    "votes": 3,
-    "posted": "Nov 7, 2016 2:45:06 PM"
-  },
-  {
-    "id": "12890919",
-    "timestamp": "Nov 7, 2016 7:42:43 PM",
-    "topic": "Show HN: Email hasn\u0027t changed in 20 years, I\u0027ve coded something new for 9 months",
-    "url": "http://ivelope.com/invite/InvitedByViktor",
-    "votes": 8,
-    "posted": "Nov 7, 2016 2:44:57 PM"
-  },
-  {
-    "id": "12890856",
-    "timestamp": "Nov 7, 2016 2:52:16 PM",
-    "topic": "Video Games Are Boring",
-    "url": "http://www.gamesindustry.biz/articles/2016-11-07-video-games-are-boring",
-    "votes": 5,
-    "posted": "Nov 7, 2016 2:35:36 PM"
-  },
-  {
-    "id": "12890831",
-    "timestamp": "Nov 7, 2016 3:12:18 PM",
-    "topic": "MacBook Pro is a lie",
-    "url": "http://www.theverge.com/2016/11/7/13548052/the-macbook-pro-lie",
-    "votes": 7,
-    "posted": "Nov 7, 2016 2:32:10 PM"
-  },
-  {
-    "id": "12890824",
-    "timestamp": "Nov 8, 2016 9:34:02 AM",
-    "topic": "Show HN: A Chrome desktop app for Google Calendar with a nice interface",
-    "url": "https://chrome.google.com/webstore/detail/clean-google-calendar/magodclodecbbnbdfpmoehfdddkhlfmm",
-    "votes": 7,
-    "posted": "Nov 7, 2016 2:30:52 PM"
-  },
-  {
-    "id": "12890760",
-    "timestamp": "Nov 8, 2016 3:13:32 AM",
-    "topic": "Show HN: Sport stats UI components",
-    "url": "https://github.com/alexadam/sport-stats",
-    "votes": 5,
-    "posted": "Nov 7, 2016 2:19:24 PM"
   }
 ];
