@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 5:23:29 AM"
   },
   {
+    "id": "12947418",
+    "timestamp": "Nov 14, 2016 6:06:54 AM",
+    "topic": "Ghost in the Shell Official Trailer",
+    "url": "https://www.youtube.com/watch?v\u003dG4VmJcZR0Yg",
+    "votes": 3,
+    "posted": "Nov 14, 2016 4:50:20 AM"
+  },
+  {
     "id": "12947213",
     "timestamp": "Nov 14, 2016 4:56:48 AM",
     "topic": "Zuck\u0027s response",
@@ -7487,28 +7495,5 @@ var newsArray = [
     "url": "http://downforeveryoneorjustme.com/twitter.com",
     "votes": 10,
     "posted": "Nov 7, 2016 6:57:07 AM"
-  },
-  {
-    "id": "12889053",
-    "timestamp": "Nov 7, 2016 8:41:45 AM",
-    "topic": "Pencil: open-source GUI prototyping tool",
-    "url": "http://pencil.evolus.vn/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 6:42:29 AM"
-  },
-  {
-    "id": "12888997",
-    "timestamp": "Nov 7, 2016 6:41:35 AM",
-    "topic": "The US Airline that breaks down mid-air 4x more often than other airlines",
-    "url": "http://www.tampabay.com/projects/2016/investigations/allegiant-air/mechanical-breakdowns/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:25:49 AM"
-  },
-  {
-    "id": "12888993",
-    "timestamp": "Nov 7, 2016 8:41:45 AM",
-    "topic": "Ask HN: If MS spun off Windows, would it be forgiven?",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:25:17 AM"
   }
 ];
