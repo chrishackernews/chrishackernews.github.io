@@ -1,5 +1,76 @@
 var newsArray = [
   {
+    "id": "12953045",
+    "timestamp": "Nov 14, 2016 9:38:21 PM",
+    "topic": "90 Days and My Six-Figure Mistake",
+    "url": "https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2#.xn6mw98h0",
+    "votes": 4,
+    "posted": "Nov 14, 2016 9:29:58 PM"
+  },
+  {
+    "id": "12953002",
+    "timestamp": "Nov 14, 2016 9:48:22 PM",
+    "topic": "Gwen Ifill, Award-Winning Political Reporter and Author, Dies at 61",
+    "url": "http://www.nytimes.com/2016/11/14/business/media/gwen-ifill-dies.html",
+    "votes": 4,
+    "posted": "Nov 14, 2016 9:25:04 PM"
+  },
+  {
+    "id": "12952991",
+    "timestamp": "Nov 14, 2016 9:58:23 PM",
+    "topic": "Ask HN: Consulting options for technologists?",
+    "votes": 3,
+    "posted": "Nov 14, 2016 9:24:16 PM"
+  },
+  {
+    "id": "12952835",
+    "timestamp": "Nov 14, 2016 9:38:21 PM",
+    "topic": "Why India wiped out 86% of its cash overnight",
+    "url": "http://www.bbc.com/news/world-asia-india-37974423",
+    "votes": 15,
+    "posted": "Nov 14, 2016 9:08:58 PM"
+  },
+  {
+    "id": "12952833",
+    "timestamp": "Nov 14, 2016 9:28:20 PM",
+    "topic": "\u0027No one\u0027s making money on Facebook\u0027: Video publishers share what\u0027s on their mind",
+    "url": "http://digiday.com/publishers/no-ones-making-money-facebook-video-publishers-share-whats-minds/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 9:08:51 PM"
+  },
+  {
+    "id": "12952692",
+    "timestamp": "Nov 14, 2016 9:18:19 PM",
+    "topic": "Webhook Tester",
+    "url": "http://webhook.site",
+    "votes": 5,
+    "posted": "Nov 14, 2016 8:55:18 PM"
+  },
+  {
+    "id": "12952682",
+    "timestamp": "Nov 14, 2016 9:48:22 PM",
+    "topic": "Termbox-Go – a minimalistic Go curses library",
+    "url": "https://github.com/nsf/termbox-go",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:54:10 PM"
+  },
+  {
+    "id": "12952629",
+    "timestamp": "Nov 14, 2016 9:08:18 PM",
+    "topic": "Congress will abandon Trans-Pacific Partnership deal, White House concedes",
+    "url": "https://www.theguardian.com/business/2016/nov/12/tpp-trade-deal-congress-obama",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:47:25 PM"
+  },
+  {
+    "id": "12952606",
+    "timestamp": "Nov 14, 2016 9:08:18 PM",
+    "topic": "Twittering every boolean value",
+    "url": "https://twitter.com/everyboolean",
+    "votes": 3,
+    "posted": "Nov 14, 2016 8:44:16 PM"
+  },
+  {
     "id": "12952579",
     "timestamp": "Nov 14, 2016 8:48:16 PM",
     "topic": "Able Health (W16) is hiring senior engineers to advance healthcare",
@@ -22,6 +93,14 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/14/googles-top-news-link-for-final-election-results-goes-to-a-fake-news-site-with-false-numbers/",
     "votes": 5,
     "posted": "Nov 14, 2016 8:31:15 PM"
+  },
+  {
+    "id": "12952464",
+    "timestamp": "Nov 14, 2016 9:28:21 PM",
+    "topic": "Numenta Compares HTM Tech to Other Machine Learning Methods in New Paper",
+    "url": "http://www.businesswire.com/news/home/20161114006095/en/Numenta-Brings-Brain-Theory-Machine-Learning%C2%A0Compares-HTM",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:20:33 PM"
   },
   {
     "id": "12952329",
@@ -3654,6 +3733,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/10/calexit-is-silicon-valleys-plan-to-pack-up-its-toys-and-leave/",
     "votes": 14,
     "posted": "Nov 11, 2016 3:46:19 AM"
+  },
+  {
+    "id": "12927011",
+    "timestamp": "Nov 14, 2016 9:18:20 PM",
+    "topic": "Leonard Cohen on Poetry, Music and Why He Left the Zen Monastery",
+    "url": "http://www.npr.org/2016/10/21/498810429/leonard-cohen-on-poetry-music-and-why-he-left-the-zen-monastery",
+    "votes": 5,
+    "posted": "Nov 11, 2016 3:40:15 AM"
   },
   {
     "id": "12926823",
@@ -7374,68 +7461,5 @@ var newsArray = [
     "url": "http://www.newyorker.com/magazine/2016/11/07/the-emperors-new-museum",
     "votes": 3,
     "posted": "Nov 7, 2016 10:19:12 PM"
-  },
-  {
-    "id": "12894984",
-    "timestamp": "Nov 8, 2016 12:13:17 AM",
-    "topic": "They Used to Last 50 Years (2015)",
-    "url": "http://recraigslist.com/2015/10/they-used-to-last-50-years/",
-    "votes": 4,
-    "posted": "Nov 7, 2016 9:55:35 PM"
-  },
-  {
-    "id": "12894940",
-    "timestamp": "Nov 7, 2016 10:13:07 PM",
-    "topic": "Software Developers: Here’s how to get a raise without changing jobs",
-    "url": "https://fearlesssalarynegotiation.com/software-developers-how-to-get-a-raise/",
-    "votes": 11,
-    "posted": "Nov 7, 2016 9:52:08 PM"
-  },
-  {
-    "id": "12894897",
-    "timestamp": "Nov 8, 2016 5:04:42 PM",
-    "topic": "How to pick startup ideas",
-    "url": "http://www.defmacro.org/2015/02/25/startup-ideas.html",
-    "votes": 8,
-    "posted": "Nov 7, 2016 9:48:34 PM"
-  },
-  {
-    "id": "12894721",
-    "timestamp": "Nov 7, 2016 9:43:04 PM",
-    "topic": "Apple\u0027s Great GPL Purge (2014)",
-    "url": "http://meta.ath0.com/2012/02/05/apples-great-gpl-purge",
-    "votes": 4,
-    "posted": "Nov 7, 2016 9:28:10 PM"
-  },
-  {
-    "id": "12894615",
-    "timestamp": "Nov 7, 2016 10:13:07 PM",
-    "topic": "Have any companies on here used Triplebyte?",
-    "votes": 3,
-    "posted": "Nov 7, 2016 9:15:56 PM"
-  },
-  {
-    "id": "12894588",
-    "timestamp": "Nov 7, 2016 9:53:05 PM",
-    "topic": "Firebase gets better analytics, crash reporting and more",
-    "url": "https://techcrunch.com/2016/11/07/googles-firebase-developer-platform-gets-better-analytics-crash-reports-and-more?1",
-    "votes": 9,
-    "posted": "Nov 7, 2016 9:12:54 PM"
-  },
-  {
-    "id": "12894542",
-    "timestamp": "Nov 10, 2016 2:18:55 PM",
-    "topic": "Stamp design errors",
-    "url": "http://www.edbmb.net/stamps/index-1A.php",
-    "votes": 3,
-    "posted": "Nov 7, 2016 9:08:36 PM"
-  },
-  {
-    "id": "12894455",
-    "timestamp": "Nov 7, 2016 9:23:01 PM",
-    "topic": "Close to absolute zero, the particles exhibit their quantum nature",
-    "url": "http://sciencebulletin.org/archives/7440.html",
-    "votes": 3,
-    "posted": "Nov 7, 2016 8:59:55 PM"
   }
 ];
