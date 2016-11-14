@@ -1,11 +1,34 @@
 var newsArray = [
   {
+    "id": "12951175",
+    "timestamp": "Nov 14, 2016 6:48:03 PM",
+    "topic": "The Cognitive Dissonance Cluster Bomb",
+    "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
+    "votes": 3,
+    "posted": "Nov 14, 2016 5:58:28 PM"
+  },
+  {
+    "id": "12951102",
+    "timestamp": "Nov 14, 2016 6:08:00 PM",
+    "topic": "So You\u0027ve Been Paged: A Guide to Incident Response",
+    "url": "http://blog.scalyr.com/2016/09/so-youve-been-paged/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 5:51:20 PM"
+  },
+  {
     "id": "12950904",
     "timestamp": "Nov 14, 2016 5:57:59 PM",
     "topic": "British NHS DDOS attacks itself via email sent to 1.2M staff",
     "url": "http://www.telegraph.co.uk/news/2016/11/14/nhs-it-blunder-sees-system-clogged-after-email-sent-to-12-millio/",
     "votes": 5,
     "posted": "Nov 14, 2016 5:32:09 PM"
+  },
+  {
+    "id": "12950874",
+    "timestamp": "Nov 14, 2016 6:08:00 PM",
+    "topic": "Ask HN: If you were to build a CRM today what would your stack be?",
+    "votes": 6,
+    "posted": "Nov 14, 2016 5:29:36 PM"
   },
   {
     "id": "12950830",
@@ -16,6 +39,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 5:25:33 PM"
   },
   {
+    "id": "12950781",
+    "timestamp": "Nov 14, 2016 6:58:04 PM",
+    "topic": "This Smart Watch Will Charge Itself Using Heat from Your Skin",
+    "url": "http://spectrum.ieee.org/view-from-the-valley/consumer-electronics/gadgets/this-smart-watch-will-charge-itself-using-the-heat-of-your-skin",
+    "votes": 5,
+    "posted": "Nov 14, 2016 5:20:43 PM"
+  },
+  {
     "id": "12950566",
     "timestamp": "Nov 14, 2016 5:17:55 PM",
     "topic": "Maine Enacts Ranked Choice/Instant Runoff Voting",
@@ -24,12 +55,28 @@ var newsArray = [
     "posted": "Nov 14, 2016 4:54:05 PM"
   },
   {
+    "id": "12950559",
+    "timestamp": "Nov 14, 2016 6:48:03 PM",
+    "topic": "JTAGing Mobile Phones",
+    "url": "https://sysforensics.org/2016/08/jtaging-mobile-phones/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 4:53:22 PM"
+  },
+  {
     "id": "12950501",
     "timestamp": "Nov 14, 2016 4:57:53 PM",
     "topic": "Dan Rather: Now, More Than Ever, We Must Stand Up for Science",
     "url": "https://blogs.scientificamerican.com/guest-blog/dan-rather-now-more-than-ever-we-must-stand-up-for-science/",
     "votes": 8,
     "posted": "Nov 14, 2016 4:48:04 PM"
+  },
+  {
+    "id": "12950449",
+    "timestamp": "Nov 14, 2016 6:48:03 PM",
+    "topic": "Show HN: Git-brag shows stargazers from important companies",
+    "url": "https://github.com/turbo/git-brag",
+    "votes": 7,
+    "posted": "Nov 14, 2016 4:41:50 PM"
   },
   {
     "id": "12950432",
@@ -62,6 +109,14 @@ var newsArray = [
     "url": "http://blacknurse.dk/",
     "votes": 7,
     "posted": "Nov 14, 2016 4:26:40 PM"
+  },
+  {
+    "id": "12950276",
+    "timestamp": "Nov 14, 2016 6:18:01 PM",
+    "topic": "Andreessen Horowitz, Point72 Invest in Crowd-Sourced Quantopian",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-14/andreessen-horowitz-point72-invest-in-crowd-sourced-quantopian",
+    "votes": 6,
+    "posted": "Nov 14, 2016 4:18:08 PM"
   },
   {
     "id": "12950227",
@@ -7365,75 +7420,5 @@ var newsArray = [
     "url": "http://www.huffingtonpost.com/entry/whats-wrong-with-538_us_581ffe18e4b0334571e09e74",
     "votes": 5,
     "posted": "Nov 7, 2016 6:59:27 PM"
-  },
-  {
-    "id": "12893123",
-    "timestamp": "Nov 7, 2016 7:12:40 PM",
-    "topic": "Butterfly Effects: Good Ballot Design Is Critical for Democracy",
-    "url": "http://99percentinvisible.org/episode/butterfly-effects/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:51:08 PM"
-  },
-  {
-    "id": "12893118",
-    "timestamp": "Nov 7, 2016 8:12:46 PM",
-    "topic": "Ask HN: Why is “advice in Effective Java considered inappropriate for Android”?",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:50:33 PM"
-  },
-  {
-    "id": "12893062",
-    "timestamp": "Nov 8, 2016 7:34:58 PM",
-    "topic": "Ask HN: How to prepare for a technical interview?",
-    "votes": 6,
-    "posted": "Nov 7, 2016 6:46:21 PM"
-  },
-  {
-    "id": "12893040",
-    "timestamp": "Nov 7, 2016 7:02:39 PM",
-    "topic": "Open-Source 3D Graphics Design: Where to Begin",
-    "url": "http://media.bemyapp.com/guide-open-source-3d-graphics-design/?utm_source\u003dbma\u0026utm_medium\u003dycombin\u0026utm_content\u003d\u0026utm_campaign\u003dmedia",
-    "votes": 4,
-    "posted": "Nov 7, 2016 6:44:08 PM"
-  },
-  {
-    "id": "12892986",
-    "timestamp": "Nov 8, 2016 3:53:36 AM",
-    "topic": "Single mother of 6 ensnared by undercover sting for selling ceviche via Facebook",
-    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/07/undercover-sting-nabs-california-mother-selling-ceviche-through-facebook-group/",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:39:09 PM"
-  },
-  {
-    "id": "12892975",
-    "timestamp": "Nov 7, 2016 7:02:39 PM",
-    "topic": "You Don’t Need a Master Plan You Just Need to Start",
-    "url": "http://bryce.vc/post/152734313405/you-dont-need-a-master-plan-you-just-need-to",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:38:08 PM"
-  },
-  {
-    "id": "12892738",
-    "timestamp": "Nov 10, 2016 4:39:08 PM",
-    "topic": "Scientists present the most accurate time measurements of quantum jumps to date",
-    "url": "http://phys.org/news/2016-11-scientists-accurate-quantum-date.html",
-    "votes": 5,
-    "posted": "Nov 7, 2016 6:14:52 PM"
-  },
-  {
-    "id": "12892643",
-    "timestamp": "Nov 7, 2016 6:22:35 PM",
-    "topic": "We’re Scientists. We’re Moms. And We Avoid Non-GMO Products",
-    "url": "https://medium.com/@BioChicaGMO/were-scientists-we-re-moms-and-we-avoid-non-gmo-products-33bc0aa351a3#.x8kywi7v5",
-    "votes": 3,
-    "posted": "Nov 7, 2016 6:06:45 PM"
-  },
-  {
-    "id": "12892620",
-    "timestamp": "Nov 7, 2016 6:12:33 PM",
-    "topic": "Microsoft Azure Container Service Supports Kubernetes",
-    "url": "https://azure.microsoft.com/en-us/blog/azure-container-service-the-cloud-s-most-open-option-for-containers/",
-    "votes": 11,
-    "posted": "Nov 7, 2016 6:04:11 PM"
   }
 ];
