@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12955729",
+    "timestamp": "Nov 15, 2016 6:09:18 AM",
+    "topic": "Marijuana Weakens Heart Muscles in Adult Males",
+    "url": "http://www.cnn.com/2016/11/13/health/marijuana-weakens-heart/index.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 6:02:43 AM"
+  },
+  {
+    "id": "12955593",
+    "timestamp": "Nov 15, 2016 6:59:22 AM",
+    "topic": "One Weird Trick to Destroy Western Civilization",
+    "url": "https://medium.com/@jasongoldstein/one-weird-trick-to-destroy-western-civilization-bb857f446634?source\u003dlinkShare-8c0b52057ce3-1479184382",
+    "votes": 4,
+    "posted": "Nov 15, 2016 5:33:55 AM"
+  },
+  {
     "id": "12955503",
     "timestamp": "Nov 15, 2016 5:59:17 AM",
     "topic": "Death of the hatchet job",
@@ -30,6 +46,14 @@ var newsArray = [
     "url": "http://www.chriskrycho.com/2016/using-rust-for-scripting.html",
     "votes": 4,
     "posted": "Nov 15, 2016 4:48:44 AM"
+  },
+  {
+    "id": "12955430",
+    "timestamp": "Nov 15, 2016 6:59:22 AM",
+    "topic": "Leaving the Thiel Fellowship",
+    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b",
+    "votes": 4,
+    "posted": "Nov 15, 2016 4:44:10 AM"
   },
   {
     "id": "12955363",
@@ -102,6 +126,14 @@ var newsArray = [
     "url": "http://www.utilitydive.com/news/trump-energy-policy/430205/",
     "votes": 7,
     "posted": "Nov 15, 2016 2:51:57 AM"
+  },
+  {
+    "id": "12954891",
+    "timestamp": "Nov 15, 2016 6:39:20 AM",
+    "topic": "From Haskell to Java: modeling your problem domain with types",
+    "url": "https://www.lendup.com/engineering/post/haskell-to-java-modeling-your-problem",
+    "votes": 10,
+    "posted": "Nov 15, 2016 2:29:13 AM"
   },
   {
     "id": "12954839",
@@ -7747,37 +7779,5 @@ var newsArray = [
     "topic": "Normal for recruiters to ask for last 4 of your social / dob on first call?",
     "votes": 5,
     "posted": "Nov 8, 2016 7:52:39 AM"
-  },
-  {
-    "id": "12897941",
-    "timestamp": "Nov 8, 2016 7:03:50 AM",
-    "topic": "Apache Performance: Disable .htaccess here\u0027s why",
-    "url": "https://haydenjames.io/disable-htaccess-apache-performance/",
-    "votes": 9,
-    "posted": "Nov 8, 2016 6:36:55 AM"
-  },
-  {
-    "id": "12897877",
-    "timestamp": "Nov 8, 2016 9:14:00 AM",
-    "topic": "France plans to compile personal data of 60M people",
-    "url": "http://www.dailymail.co.uk/news/article-3907908/Outcry-French-plans-compile-personal-data-60-million-people.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 6:21:50 AM"
-  },
-  {
-    "id": "12897859",
-    "timestamp": "Nov 8, 2016 9:14:00 AM",
-    "topic": "Machine learning is up to 85% accurate in identifying a person who is suicidal",
-    "url": "http://onlinelibrary.wiley.com/doi/10.1111/sltb.12312/full",
-    "votes": 6,
-    "posted": "Nov 8, 2016 6:15:10 AM"
-  },
-  {
-    "id": "12897826",
-    "timestamp": "Nov 8, 2016 6:13:46 AM",
-    "topic": "Leaked NASA documents suggest EM drive actually works",
-    "url": "https://drive.google.com/file/d/0B7kgKijo-p0ibm94VUY0TVktQlU/view",
-    "votes": 3,
-    "posted": "Nov 8, 2016 6:08:10 AM"
   }
 ];
