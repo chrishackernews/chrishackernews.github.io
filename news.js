@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12962410",
+    "timestamp": "Nov 15, 2016 10:40:57 PM",
+    "topic": "LeadGenius Hiring – Big Data Platform Engineer",
+    "url": "https://jobs.lever.co/leadgenius/5a22212b-5ae4-47ca-b732-65d824eb10ad",
+    "votes": 1,
+    "posted": "Nov 15, 2016 10:31:52 PM"
+  },
+  {
+    "id": "12962338",
+    "timestamp": "Nov 15, 2016 10:40:59 PM",
+    "topic": "IBM CEO Ginni Rometty\u0027s Letter to the U.S. President-Elect",
+    "url": "http://www.ibmpolicy.com/ginni_romettys_letter_to_the_president_elect",
+    "votes": 6,
+    "posted": "Nov 15, 2016 10:22:02 PM"
+  },
+  {
+    "id": "12962325",
+    "timestamp": "Nov 15, 2016 10:51:00 PM",
+    "topic": "Altruistic People Have More Sexual Partners",
+    "url": "https://www.scientificamerican.com/article/altruistic-people-have-more-sexual-partners/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 10:19:46 PM"
+  },
+  {
+    "id": "12962280",
+    "timestamp": "Nov 15, 2016 10:51:00 PM",
+    "topic": "Snap files for IPO",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-15/snapchat-files-confidentially-for-ipo-reuters",
+    "votes": 5,
+    "posted": "Nov 15, 2016 10:13:23 PM"
+  },
+  {
+    "id": "12962241",
+    "timestamp": "Nov 15, 2016 10:20:54 PM",
+    "topic": "Snapchat has reportedly filed confidentially for its massive IPO",
+    "url": "https://techcrunch.com/2016/11/15/snapchat-has-reportedly-filed-confidentially-for-its-massive-ipo/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 10:09:19 PM"
+  },
+  {
+    "id": "12962178",
+    "timestamp": "Nov 15, 2016 10:20:55 PM",
+    "topic": "\u0027Post-truth\u0027 named word of the year by Oxford Dictionaries",
+    "url": "https://www.theguardian.com/books/2016/nov/15/post-truth-named-word-of-the-year-by-oxford-dictionaries",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:02:13 PM"
+  },
+  {
+    "id": "12962135",
+    "timestamp": "Nov 15, 2016 10:20:54 PM",
+    "topic": "Google A.I. Experiments",
+    "url": "https://aiexperiments.withgoogle.com",
+    "votes": 6,
+    "posted": "Nov 15, 2016 9:57:27 PM"
+  },
+  {
+    "id": "12962072",
+    "timestamp": "Nov 15, 2016 10:20:54 PM",
+    "topic": "Unreal Engine 4.14 Released",
+    "url": "https://www.unrealengine.com/blog/unreal-engine-4-14-released",
+    "votes": 5,
+    "posted": "Nov 15, 2016 9:49:09 PM"
+  },
+  {
     "id": "12961849",
     "timestamp": "Nov 15, 2016 9:30:39 PM",
     "topic": "Amazon\u0027s Blu phone has a back door",
@@ -24,6 +88,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 9:13:15 PM"
   },
   {
+    "id": "12961721",
+    "timestamp": "Nov 15, 2016 10:20:55 PM",
+    "topic": "Announcing GPUs for Google Cloud Platform",
+    "url": "https://cloudplatform.googleblog.com/2016/11/announcing-GPUs-for-Google-Cloud-Platform.html",
+    "votes": 10,
+    "posted": "Nov 15, 2016 9:11:39 PM"
+  },
+  {
     "id": "12961686",
     "timestamp": "Nov 15, 2016 9:20:38 PM",
     "topic": "One Man Scours San Francisco for the Traces of Film Noir",
@@ -46,6 +118,13 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/15/blood-sweat-and-text/",
     "votes": 11,
     "posted": "Nov 15, 2016 8:47:17 PM"
+  },
+  {
+    "id": "12961451",
+    "timestamp": "Nov 15, 2016 10:00:47 PM",
+    "topic": "Ask HN: How much hours of People / Meeting time does your day have?",
+    "votes": 3,
+    "posted": "Nov 15, 2016 8:41:48 PM"
   },
   {
     "id": "12961450",
@@ -134,6 +213,14 @@ var newsArray = [
     "url": "https://www.mozilla.org/en%2DUS/firefox/50.0/releasenotes/",
     "votes": 12,
     "posted": "Nov 15, 2016 7:28:00 PM"
+  },
+  {
+    "id": "12960715",
+    "timestamp": "Nov 15, 2016 10:51:00 PM",
+    "topic": "Mark Zuckerberg Is in Denial",
+    "url": "http://www.nytimes.com/2016/11/15/opinion/mark-zuckerberg-is-in-denial.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 7:25:16 PM"
   },
   {
     "id": "12960606",
@@ -356,6 +443,14 @@ var newsArray = [
     "url": "https://blog.twitter.com/2016/progress-on-addressing-online-abuse",
     "votes": 5,
     "posted": "Nov 15, 2016 3:20:52 PM"
+  },
+  {
+    "id": "12958132",
+    "timestamp": "Nov 15, 2016 10:00:47 PM",
+    "topic": "A Dinosaur with a Beak and Feathers Unearthed in China",
+    "url": "http://www.nytimes.com/2016/11/11/science/dinosaur-mud-dragon.html?",
+    "votes": 6,
+    "posted": "Nov 15, 2016 3:17:32 PM"
   },
   {
     "id": "12958124",
@@ -7956,36 +8051,5 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/walgreens-seeks-to-recover-140-million-investment-from-theranos-1478642410",
     "votes": 5,
     "posted": "Nov 8, 2016 11:01:49 PM"
-  },
-  {
-    "id": "12904216",
-    "timestamp": "Nov 8, 2016 11:15:28 PM",
-    "topic": "Why Twitter Must Be Saved",
-    "url": "https://stratechery.com/2016/why-twitter-must-be-saved/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 10:42:59 PM"
-  },
-  {
-    "id": "12903966",
-    "timestamp": "Nov 8, 2016 10:25:17 PM",
-    "topic": "What\u0027s the best aha moment you\u0027ve had?",
-    "votes": 6,
-    "posted": "Nov 8, 2016 10:10:07 PM"
-  },
-  {
-    "id": "12903912",
-    "timestamp": "Nov 8, 2016 10:35:18 PM",
-    "topic": "CBC threatens podcast app makers, argues that RSS readers violate copyright",
-    "url": "http://boingboing.net/2016/11/08/cbc-threatens-podcast-app-make.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 10:03:30 PM"
-  },
-  {
-    "id": "12903904",
-    "timestamp": "Nov 9, 2016 5:56:00 AM",
-    "topic": "Show HN: The Elo rating system applied to photo, a new way to do photo contests",
-    "url": "http://www.pixide.org",
-    "votes": 5,
-    "posted": "Nov 8, 2016 10:01:57 PM"
   }
 ];
