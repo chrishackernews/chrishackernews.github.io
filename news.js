@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12956967",
+    "timestamp": "Nov 15, 2016 12:49:50 PM",
+    "topic": "VodafoneUK says it carries ~10,000TB of 4G traffic a month",
+    "url": "http://blog.vodafone.co.uk/2016/11/09/improving-network-numbers-10-mind-blowing-facts-mobile-signal-uk/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:32:16 AM"
+  },
+  {
     "id": "12956845",
     "timestamp": "Nov 15, 2016 11:19:44 AM",
     "topic": "Ask HN: Best encrypted messaging app atm?",
@@ -7801,69 +7809,5 @@ var newsArray = [
     "url": "http://superfast-it.com/internet/",
     "votes": 3,
     "posted": "Nov 8, 2016 1:01:47 PM"
-  },
-  {
-    "id": "12899427",
-    "timestamp": "Nov 8, 2016 2:14:25 PM",
-    "topic": "Google foobar",
-    "url": "https://www.google.com/foobar",
-    "votes": 3,
-    "posted": "Nov 8, 2016 12:41:16 PM"
-  },
-  {
-    "id": "12899422",
-    "timestamp": "Nov 8, 2016 1:14:20 PM",
-    "topic": "Uber rival Karhoo shuts down",
-    "url": "https://techcrunch.com/2016/11/08/uber-competitor-karhoo-shuts-down-after-blowing-through-250m/",
-    "votes": 11,
-    "posted": "Nov 8, 2016 12:40:27 PM"
-  },
-  {
-    "id": "12899419",
-    "timestamp": "Nov 8, 2016 1:04:19 PM",
-    "topic": "Formation of Tesla Advanced Automation Germany",
-    "url": "https://www.tesla.com/blog/formation-of-tesla-advanced-automation-germany",
-    "votes": 19,
-    "posted": "Nov 8, 2016 12:39:43 PM"
-  },
-  {
-    "id": "12899412",
-    "timestamp": "Nov 8, 2016 1:04:19 PM",
-    "topic": "A Formal Security Analysis of the Signal Messaging Protocol [pdf]",
-    "url": "https://eprint.iacr.org/2016/1013.pdf",
-    "votes": 3,
-    "posted": "Nov 8, 2016 12:37:57 PM"
-  },
-  {
-    "id": "12899398",
-    "timestamp": "Nov 8, 2016 1:24:21 PM",
-    "topic": "\u0027Trust it\u0027: Results of Signal\u0027s first formal crypto analysis are in",
-    "url": "http://www.theregister.co.uk/2016/11/08/trust_it_results_of_signals_first_formal_crypto_analysis_are_in/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 12:35:52 PM"
-  },
-  {
-    "id": "12899261",
-    "timestamp": "Nov 8, 2016 2:24:26 PM",
-    "topic": "Emotions You Don’t Feel",
-    "url": "http://nautil.us/blog/you-can-have-emotions-you-dont-feel",
-    "votes": 5,
-    "posted": "Nov 8, 2016 12:07:13 PM"
-  },
-  {
-    "id": "12899245",
-    "timestamp": "Nov 8, 2016 5:34:45 PM",
-    "topic": "The secret sauce to managing our backlog and TODO lists",
-    "url": "https://blogs.msdn.microsoft.com/visualstudioalmrangers/2016/11/04/the-secret-sauce-to-managing-our-backlog-and-todo-lists/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 12:03:21 PM"
-  },
-  {
-    "id": "12899237",
-    "timestamp": "Nov 8, 2016 5:34:45 PM",
-    "topic": "Worthwhile Testing: What to test in a React app (and why)",
-    "url": "https://daveceddia.com/what-to-test-in-react-app/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 12:02:05 PM"
   }
 ];
