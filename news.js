@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12956243",
+    "timestamp": "Nov 15, 2016 8:59:33 AM",
+    "topic": "Show HN: Whosfiring",
+    "url": "https://whosfiring.com",
+    "votes": 11,
+    "posted": "Nov 15, 2016 8:17:46 AM"
+  },
+  {
+    "id": "12956143",
+    "timestamp": "Nov 15, 2016 8:49:32 AM",
+    "topic": "Whatsapp: Video Calling",
+    "url": "https://blog.whatsapp.com/10000629/WhatsApp-Video-Calling",
+    "votes": 5,
+    "posted": "Nov 15, 2016 7:52:07 AM"
+  },
+  {
     "id": "12956059",
     "timestamp": "Nov 15, 2016 7:49:26 AM",
     "topic": "Do you really want an SPA framework? – Michael S. Mikowski",
@@ -651,6 +667,14 @@ var newsArray = [
     "url": "http://motherboard.vice.com/read/shazam-keeps-your-macs-microphone-always-on-even-when-you-turn-it-off",
     "votes": 3,
     "posted": "Nov 14, 2016 10:06:25 PM"
+  },
+  {
+    "id": "12953293",
+    "timestamp": "Nov 15, 2016 8:09:29 AM",
+    "topic": "EC2 Price Reduction (C4, M4, and T2 Instances)",
+    "url": "https://aws.amazon.com/blogs/aws/category/price-reduction/",
+    "votes": 5,
+    "posted": "Nov 14, 2016 9:57:55 PM"
   },
   {
     "id": "12953285",
@@ -7843,29 +7867,5 @@ var newsArray = [
     "url": "http://www.hollywoodreporter.com/live-feed/big-bang-theory-sheldon-prequel-series-works-at-cbs-944826",
     "votes": 3,
     "posted": "Nov 8, 2016 9:18:55 AM"
-  },
-  {
-    "id": "12898406",
-    "timestamp": "Nov 8, 2016 9:54:04 AM",
-    "topic": "IAB: IETF to stop requiring IPv4 compat. – will optimize for and depend on IPv6",
-    "url": "https://www.iab.org/documents/correspondence-reports-documents/2016-2/iab-statement-on-ipv6/",
-    "votes": 5,
-    "posted": "Nov 8, 2016 8:46:28 AM"
-  },
-  {
-    "id": "12898366",
-    "timestamp": "Nov 8, 2016 10:44:07 AM",
-    "topic": "Show HN: Embed HN comments in your website (alpha)",
-    "url": "https://comments.network/",
-    "votes": 6,
-    "posted": "Nov 8, 2016 8:35:17 AM"
-  },
-  {
-    "id": "12898316",
-    "timestamp": "Nov 8, 2016 8:23:57 AM",
-    "topic": "PlanGrid (YC W12) Is Hiring Full Stack, Front End and iOS Engineers and More",
-    "url": "https://www.plangrid.com/jobs/",
-    "votes": 1,
-    "posted": "Nov 8, 2016 8:18:01 AM"
   }
 ];
