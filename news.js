@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12956798",
+    "timestamp": "Nov 15, 2016 10:49:42 AM",
+    "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
+    "url": "https://fullstackacademy.workable.com/jobs/186349",
+    "votes": 1,
+    "posted": "Nov 15, 2016 10:45:19 AM"
+  },
+  {
+    "id": "12956612",
+    "timestamp": "Nov 15, 2016 10:29:40 AM",
+    "topic": "A Letter to the US from John Cleese",
+    "url": "http://cogink.com/cleese/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 9:58:43 AM"
+  },
+  {
     "id": "12956597",
     "timestamp": "Nov 15, 2016 9:59:38 AM",
     "topic": "Why it\u0027s worth supporting Chromebooks and Raspberry Pi",
@@ -8,12 +24,28 @@ var newsArray = [
     "posted": "Nov 15, 2016 9:53:37 AM"
   },
   {
+    "id": "12956566",
+    "timestamp": "Nov 15, 2016 10:29:40 AM",
+    "topic": "Visual Studio Code for Chromebooks and Raspberry Pi",
+    "url": "https://code.headmelted.com",
+    "votes": 4,
+    "posted": "Nov 15, 2016 9:46:38 AM"
+  },
+  {
     "id": "12956508",
     "timestamp": "Nov 15, 2016 9:49:37 AM",
     "topic": "Chartify – simple and lightweight charts for React.js",
     "url": "https://github.com/kirillstepkin/chartify",
     "votes": 3,
     "posted": "Nov 15, 2016 9:35:16 AM"
+  },
+  {
+    "id": "12956430",
+    "timestamp": "Nov 15, 2016 10:39:41 AM",
+    "topic": "JSNice: Statistical renaming, type inference, and deobfuscation",
+    "url": "http://www.jsnice.org/",
+    "votes": 7,
+    "posted": "Nov 15, 2016 9:14:53 AM"
   },
   {
     "id": "12956334",
@@ -46,6 +78,13 @@ var newsArray = [
     "url": "https://blog.whatsapp.com/10000629/WhatsApp-Video-Calling",
     "votes": 5,
     "posted": "Nov 15, 2016 7:52:07 AM"
+  },
+  {
+    "id": "12956128",
+    "timestamp": "Nov 15, 2016 10:39:41 AM",
+    "topic": "Ask HN: Most of team quit my startup. What to do?",
+    "votes": 5,
+    "posted": "Nov 15, 2016 7:47:53 AM"
   },
   {
     "id": "12956059",
@@ -7843,45 +7882,5 @@ var newsArray = [
     "url": "http://phys.org/news/2016-11-semiconductor-free-microelectronics-metamaterials.html",
     "votes": 4,
     "posted": "Nov 8, 2016 11:16:17 AM"
-  },
-  {
-    "id": "12898927",
-    "timestamp": "Nov 8, 2016 11:44:13 AM",
-    "topic": "A list of headless browsers and related automation tools",
-    "url": "https://github.com/dhamaniasad/HeadlessBrowsers",
-    "votes": 7,
-    "posted": "Nov 8, 2016 10:51:52 AM"
-  },
-  {
-    "id": "12898862",
-    "timestamp": "Nov 8, 2016 1:04:19 PM",
-    "topic": "A Conversation with Alan Kay",
-    "url": "http://queue.acm.org/detail.cfm?id\u003d1039523",
-    "votes": 5,
-    "posted": "Nov 8, 2016 10:35:03 AM"
-  },
-  {
-    "id": "12898857",
-    "timestamp": "Nov 8, 2016 11:14:10 AM",
-    "topic": "Smog Chokes Delhi, Leaving Residents ‘Cowering by Our Air Purifiers’",
-    "url": "http://www.nytimes.com/2016/11/08/world/asia/india-delhi-smog.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dimage\u0026module\u003dphoto-spot-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
-    "votes": 8,
-    "posted": "Nov 8, 2016 10:32:56 AM"
-  },
-  {
-    "id": "12898854",
-    "timestamp": "Nov 8, 2016 10:54:09 AM",
-    "topic": "The Irrational Downfall of South Korean President Park Geun-Hye",
-    "url": "https://askakorean.blogspot.com/2016/10/the-irrational-downfall-of-park-geun-hye.html",
-    "votes": 4,
-    "posted": "Nov 8, 2016 10:31:49 AM"
-  },
-  {
-    "id": "12898718",
-    "timestamp": "Nov 8, 2016 12:04:14 PM",
-    "topic": "Machine Learning for Software Engineers",
-    "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
-    "votes": 4,
-    "posted": "Nov 8, 2016 10:06:02 AM"
   }
 ];
