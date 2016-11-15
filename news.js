@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12958754",
+    "timestamp": "Nov 15, 2016 4:40:12 PM",
+    "topic": "Is Nuclear Power Vital to Hitting CO2 Emissions Targets?",
+    "url": "http://www.wsj.com/articles/is-nuclear-power-vital-to-hitting-co2-emissions-targets-1479092761",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:27:14 PM"
+  },
+  {
+    "id": "12958661",
+    "timestamp": "Nov 15, 2016 4:30:10 PM",
+    "topic": "Mark Zuckerberg Is in Denial",
+    "url": "http://www.nytimes.com/2016/11/15/opinion/mark-zuckerberg-is-in-denial.html?ref\u003dopinion\u0026_r\u003d0",
+    "votes": 5,
+    "posted": "Nov 15, 2016 4:17:11 PM"
+  },
+  {
+    "id": "12958505",
+    "timestamp": "Nov 15, 2016 4:20:09 PM",
+    "topic": "Yammer iOS App ported to Swift 3",
+    "url": "https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:00:33 PM"
+  },
+  {
+    "id": "12958403",
+    "timestamp": "Nov 15, 2016 4:20:09 PM",
+    "topic": "Richard Branson reveals prototype for supersonic passenger aircraft",
+    "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom?CMP\u003dtwt_gu",
+    "votes": 3,
+    "posted": "Nov 15, 2016 3:49:55 PM"
+  },
+  {
     "id": "12958201",
     "timestamp": "Nov 15, 2016 3:50:07 PM",
     "topic": "BBC: Why India wiped out 86% of its cash overnight",
@@ -30,6 +62,13 @@ var newsArray = [
     "url": "http://grnh.se/5ybu4t1",
     "votes": 1,
     "posted": "Nov 15, 2016 3:13:08 PM"
+  },
+  {
+    "id": "12958065",
+    "timestamp": "Nov 15, 2016 4:40:12 PM",
+    "topic": "Ask HN: Solo founder support group?",
+    "votes": 3,
+    "posted": "Nov 15, 2016 3:10:10 PM"
   },
   {
     "id": "12957896",
@@ -64,6 +103,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 2:30:08 PM"
   },
   {
+    "id": "12957768",
+    "timestamp": "Nov 15, 2016 4:30:10 PM",
+    "topic": "“Radioactive Boy Scout” who tried to build a homemade nuclear reactor dead at 39",
+    "url": "http://arstechnica.co.uk/science/2016/11/this-fall-the-radioactive-boy-scout-died-at-age-39/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 2:28:51 PM"
+  },
+  {
     "id": "12957745",
     "timestamp": "Nov 15, 2016 3:00:02 PM",
     "topic": "Fix Windows 10 Privacy",
@@ -86,6 +133,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/15/13635788/apple-coffee-table-book-products-images",
     "votes": 3,
     "posted": "Nov 15, 2016 2:07:23 PM"
+  },
+  {
+    "id": "12957594",
+    "timestamp": "Nov 15, 2016 4:40:12 PM",
+    "topic": "How Cheese Curls Were Invented",
+    "url": "http://tedium.co/2016/11/10/cheese-curls-creation-story/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 1:59:46 PM"
   },
   {
     "id": "12957476",
@@ -236,6 +291,14 @@ var newsArray = [
     "url": "https://whosfiring.com",
     "votes": 11,
     "posted": "Nov 15, 2016 8:17:46 AM"
+  },
+  {
+    "id": "12956174",
+    "timestamp": "Nov 15, 2016 4:00:07 PM",
+    "topic": "Developers: Try Windows 10 Linux Subsystem Instead of MacOS",
+    "url": "https://jhatax.blogspot.com/2016/11/developers-windows-linux-subsystem-is.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 8:00:37 AM"
   },
   {
     "id": "12956160",
@@ -1128,6 +1191,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 7:54:15 PM"
   },
   {
+    "id": "12952226",
+    "timestamp": "Nov 15, 2016 4:50:13 PM",
+    "topic": "The irrational rationality of Jonathan Swift",
+    "url": "http://www.newstatesman.com/culture/books/2016/11/irrational-rationality-jonathan-swift",
+    "votes": 3,
+    "posted": "Nov 14, 2016 7:51:26 PM"
+  },
+  {
     "id": "12952199",
     "timestamp": "Nov 14, 2016 8:38:15 PM",
     "topic": "Hierarchical Object Detection with Deep Reinforcement Learning",
@@ -1183,12 +1254,28 @@ var newsArray = [
     "posted": "Nov 14, 2016 7:00:06 PM"
   },
   {
+    "id": "12951767",
+    "timestamp": "Nov 15, 2016 4:00:08 PM",
+    "topic": "Nuance as a virtue",
+    "url": "http://arnoldwaldstein.com/2016/10/nuance-as-a-virtue/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 6:59:14 PM"
+  },
+  {
     "id": "12951747",
     "timestamp": "Nov 14, 2016 7:18:07 PM",
     "topic": "What if you got $1,000 a month, just for being alive? I decided to find out",
     "url": "http://www.vox.com/first-person/2016/11/14/13513066/universal-basic-income-crowdfund",
     "votes": 5,
     "posted": "Nov 14, 2016 6:57:48 PM"
+  },
+  {
+    "id": "12951724",
+    "timestamp": "Nov 15, 2016 4:00:08 PM",
+    "topic": "Iran\u0027s Great Wall Is Now Buried and Forgotten",
+    "url": "http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten",
+    "votes": 4,
+    "posted": "Nov 14, 2016 6:55:11 PM"
   },
   {
     "id": "12951503",
@@ -7708,83 +7795,5 @@ var newsArray = [
     "topic": "Ask HN: Am I right there\u0027s no place for C++ developers in the startup world?",
     "votes": 4,
     "posted": "Nov 8, 2016 5:09:56 PM"
-  },
-  {
-    "id": "12901145",
-    "timestamp": "Nov 8, 2016 5:34:45 PM",
-    "topic": "Snowden shows how easy it is to hack into a US voting machine with a memory card",
-    "url": "https://www.thesun.co.uk/news/2138902/cyber-experts-show-how-easy-it-is-to-hack-into-a-us-voting-machine-with-a-24-memory-card/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 4:48:49 PM"
-  },
-  {
-    "id": "12901139",
-    "timestamp": "Nov 8, 2016 5:04:42 PM",
-    "topic": "Julia is the hottest new language on Wall Street",
-    "url": "http://waterstechnology.com/waters/feature/2476518/the-infancy-of-julia-an-inside-look-at-how-traders-and-economists-are-using-the-julia-programming-language",
-    "votes": 14,
-    "posted": "Nov 8, 2016 4:48:28 PM"
-  },
-  {
-    "id": "12901132",
-    "timestamp": "Nov 8, 2016 7:34:57 PM",
-    "topic": "Ask HN: How to actually start freelancing?",
-    "votes": 5,
-    "posted": "Nov 8, 2016 4:47:29 PM"
-  },
-  {
-    "id": "12901123",
-    "timestamp": "Nov 8, 2016 5:34:45 PM",
-    "topic": "How LinkedIn Drove a Wedge Between Microsoft and Salesforce",
-    "url": "http://www.nytimes.com/2016/11/06/technology/how-linkedin-drove-a-wedge-between-microsoft-and-salesforce.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 4:46:21 PM"
-  },
-  {
-    "id": "12901039",
-    "timestamp": "Nov 8, 2016 6:14:49 PM",
-    "topic": "Ask HN: How much productivity have you lost because of this election?",
-    "votes": 3,
-    "posted": "Nov 8, 2016 4:37:43 PM"
-  },
-  {
-    "id": "12901012",
-    "timestamp": "Nov 8, 2016 7:04:53 PM",
-    "topic": "India PM Modi Abolishes 500 and 1,000 Rupee Notes to Fight Corruption",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-08/india-abolishes-inr500-1-000-rupee-notes-to-fight-corruption",
-    "votes": 7,
-    "posted": "Nov 8, 2016 4:35:07 PM"
-  },
-  {
-    "id": "12900975",
-    "timestamp": "Nov 8, 2016 5:34:45 PM",
-    "topic": "China Develops High-Speed Intelligent Unmanned Sea Vessel",
-    "url": "http://www.defense-aerospace.com/articles-view/release/3/178544/china-testing-composite_built-unmanned-surface-vessel.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 4:29:36 PM"
-  },
-  {
-    "id": "12900965",
-    "timestamp": "Nov 8, 2016 4:34:39 PM",
-    "topic": "India declares 500 and 1000 rupees notes illegal",
-    "url": "http://newsite.thehindu.com/news/national/500-1000-rupee-notes-cease-to-be-legal-tender-from-midnight-tonight-PM/article16225089.ece",
-    "votes": 4,
-    "posted": "Nov 8, 2016 4:28:35 PM"
-  },
-  {
-    "id": "12900886",
-    "timestamp": "Nov 8, 2016 4:34:39 PM",
-    "topic": "Why the Midwest Is About to Become America\u0027s Next Silicon Valley",
-    "url": "http://www.forbes.com/sites/petertaylor/2016/11/07/why-the-midwest-is-about-to-become-americas-next-silicon-valley/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 4:18:58 PM"
-  },
-  {
-    "id": "12900701",
-    "timestamp": "Nov 8, 2016 4:14:35 PM",
-    "topic": "“The whole world ought to be concerned”: HK lawyers on Beijing’s “clarification”",
-    "url": "http://qz.com/830533/the-whole-world-ought-to-be-concerned-hong-kong-lawyers-react-to-beijings-clarification-on-oaths/",
-    "votes": 9,
-    "posted": "Nov 8, 2016 3:58:00 PM"
   }
 ];
