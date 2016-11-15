@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12957808",
+    "timestamp": "Nov 15, 2016 2:50:01 PM",
+    "topic": "VR Sales Analysis: Rift and Vive to Sell Under 500K in 2016, PS VR to Top 2M",
+    "url": "http://uploadvr.com/superdata-headset-sales-analysis/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 2:34:58 PM"
+  },
+  {
+    "id": "12957775",
+    "timestamp": "Nov 15, 2016 2:40:00 PM",
+    "topic": "Navy denies it pirated 558K copies of software, says contractor consented",
+    "url": "http://arstechnica.com/tech-policy/2016/11/navy-denies-it-pirated-558k-copies-of-software-says-contractor-consented/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 2:30:08 PM"
+  },
+  {
+    "id": "12957672",
+    "timestamp": "Nov 15, 2016 2:40:00 PM",
+    "topic": "You Can Bypass Linux Disk Encryption by Pressing the Enter Key for 70 Seconds",
+    "url": "http://www.bleepingcomputer.com/news/security/you-can-bypass-linux-disk-encryption-by-pressing-the-enter-key-for-70-seconds/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 2:16:31 PM"
+  },
+  {
+    "id": "12957627",
+    "timestamp": "Nov 15, 2016 2:29:59 PM",
+    "topic": "Designed by Apple in California",
+    "url": "http://www.theverge.com/2016/11/15/13635788/apple-coffee-table-book-products-images",
+    "votes": 3,
+    "posted": "Nov 15, 2016 2:07:23 PM"
+  },
+  {
+    "id": "12957476",
+    "timestamp": "Nov 15, 2016 2:19:58 PM",
+    "topic": "“Designed by Apple in California” chronicles 20 years of Apple design",
+    "url": "http://www.apple.com/newsroom/2016/11/designed-by-apple-in-california-chronicles-20-years-of-apple-design.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:37:53 PM"
+  },
+  {
     "id": "12957465",
     "timestamp": "Nov 15, 2016 1:49:55 PM",
     "topic": "Chevrolet Bolt EV Is the 2017 Motor Trend Car of the Year",
@@ -15,12 +55,28 @@ var newsArray = [
     "posted": "Nov 15, 2016 1:13:03 PM"
   },
   {
+    "id": "12957345",
+    "timestamp": "Nov 15, 2016 2:29:59 PM",
+    "topic": "Amazon to remove stack ranking",
+    "url": "http://uk.businessinsider.com/amazon-hunger-games-employee-review-process-change-2016-11?r\u003dUS\u0026IR\u003dT",
+    "votes": 6,
+    "posted": "Nov 15, 2016 1:05:23 PM"
+  },
+  {
     "id": "12957206",
     "timestamp": "Nov 15, 2016 1:19:53 PM",
     "topic": "Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",
     "url": "http://mobile.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html",
     "votes": 4,
     "posted": "Nov 15, 2016 12:29:47 PM"
+  },
+  {
+    "id": "12957133",
+    "timestamp": "Nov 15, 2016 2:19:58 PM",
+    "topic": "Show HN: Water Pouring Problem Simulation",
+    "url": "http://www.fyquah.me/projects/cups/simulate/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 12:13:19 PM"
   },
   {
     "id": "12956967",
@@ -44,6 +100,14 @@ var newsArray = [
     "url": "https://fullstackacademy.workable.com/jobs/186349",
     "votes": 1,
     "posted": "Nov 15, 2016 10:45:19 AM"
+  },
+  {
+    "id": "12956687",
+    "timestamp": "Nov 15, 2016 2:40:00 PM",
+    "topic": "Machine learning algorithms",
+    "url": "https://github.com/rushter/MLAlgorithms",
+    "votes": 19,
+    "posted": "Nov 15, 2016 10:20:29 AM"
   },
   {
     "id": "12956612",
@@ -1279,6 +1343,14 @@ var newsArray = [
     "topic": "Ask HN: Self Hosted Google Inbox Alternative?",
     "votes": 4,
     "posted": "Nov 14, 2016 2:41:19 PM"
+  },
+  {
+    "id": "12949717",
+    "timestamp": "Nov 15, 2016 2:09:57 PM",
+    "topic": "Show HN: WereSync Clone Linux Drive Incrementally",
+    "url": "https://github.com/DonyorM/weresync",
+    "votes": 5,
+    "posted": "Nov 14, 2016 2:37:37 PM"
   },
   {
     "id": "12949678",
@@ -7777,44 +7849,5 @@ var newsArray = [
     "url": "http://www.pbs.org/newshour/bb/apps-trade-votes-clinton-swing-states/",
     "votes": 3,
     "posted": "Nov 8, 2016 2:58:20 PM"
-  },
-  {
-    "id": "12900153",
-    "timestamp": "Nov 8, 2016 7:34:57 PM",
-    "topic": "Ask HN: What would happen if Apple open-sourced OS X?",
-    "votes": 3,
-    "posted": "Nov 8, 2016 2:47:28 PM"
-  },
-  {
-    "id": "12900127",
-    "timestamp": "Nov 8, 2016 4:14:37 PM",
-    "topic": "ThoughtWorks Technology Radar November 2016",
-    "url": "https://www.thoughtworks.com/radar",
-    "votes": 5,
-    "posted": "Nov 8, 2016 2:43:32 PM"
-  },
-  {
-    "id": "12900046",
-    "timestamp": "Nov 8, 2016 4:14:35 PM",
-    "topic": "An Interview with Eric Douglas of the Open Source Society",
-    "url": "https://theinitialcommit.com/2016/11/08/eric-douglas/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 2:33:41 PM"
-  },
-  {
-    "id": "12899982",
-    "timestamp": "Nov 8, 2016 4:14:37 PM",
-    "topic": "Hillary Clinton and Donald Trump don\u0027t know how to use a personal computer",
-    "url": "http://qz.com/829647/donald-trump-and-hillary-clinton-dont-know-how-to-use-computers/",
-    "votes": 5,
-    "posted": "Nov 8, 2016 2:23:43 PM"
-  },
-  {
-    "id": "12899838",
-    "timestamp": "Nov 8, 2016 2:14:25 PM",
-    "topic": "A small dive into, and rejection of, Elm",
-    "url": "https://medium.com/@boxed/a-small-dive-into-and-rejection-of-elm-8217fd5da235#.kkt82zm3y",
-    "votes": 4,
-    "posted": "Nov 8, 2016 2:01:52 PM"
   }
 ];
