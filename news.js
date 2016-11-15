@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "12955503",
+    "timestamp": "Nov 15, 2016 5:59:17 AM",
+    "topic": "Death of the hatchet job",
+    "url": "http://www.newstatesman.com/politics/uk/2016/11/death-hatchet-job",
+    "votes": 3,
+    "posted": "Nov 15, 2016 5:04:18 AM"
+  },
+  {
+    "id": "12955476",
+    "timestamp": "Nov 15, 2016 5:29:14 AM",
+    "topic": "Apple\u0027s desensitisation of the human race to fundamental security practices",
+    "url": "https://www.troyhunt.com/apples-desensitisation-of-the-human-race-to-fundamental-security-practices/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 4:55:55 AM"
+  },
+  {
+    "id": "12955457",
+    "timestamp": "Nov 15, 2016 5:19:14 AM",
+    "topic": "YouTube has (apparently) reinstated RSS feeds",
+    "url": "https://brianschrader.com/archive/youtube-has-apparently-reinstated-rss-feeds/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 4:51:17 AM"
+  },
+  {
+    "id": "12955445",
+    "timestamp": "Nov 15, 2016 5:29:15 AM",
+    "topic": "Using Rust for \u0027Scripting\u0027",
+    "url": "http://www.chriskrycho.com/2016/using-rust-for-scripting.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 4:48:44 AM"
+  },
+  {
+    "id": "12955363",
+    "timestamp": "Nov 15, 2016 5:59:17 AM",
+    "topic": "The New Touch-Bar-Equipped MacBook Pros and the State of the Mac",
+    "url": "http://daringfireball.net/2016/11/new_touch_bar_equipped_macbook_pros",
+    "votes": 4,
+    "posted": "Nov 15, 2016 4:23:17 AM"
+  },
+  {
+    "id": "12955349",
+    "timestamp": "Nov 15, 2016 5:59:17 AM",
+    "topic": "Facebook Bans Fake News Sites from Using Its Advertising Network",
+    "url": "http://www.wsj.com/articles/facebook-bans-fake-news-sites-from-using-its-advertising-network-1479175778",
+    "votes": 5,
+    "posted": "Nov 15, 2016 4:20:19 AM"
+  },
+  {
+    "id": "12955297",
+    "timestamp": "Nov 15, 2016 5:49:16 AM",
+    "topic": "How Two Psychologists Turned World of Decision Science Upside Down",
+    "url": "http://www.vanityfair.com/news/2016/11/decision-science-daniel-kahneman-amos-tversky",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:07:31 AM"
+  },
+  {
     "id": "12955287",
     "timestamp": "Nov 15, 2016 4:19:09 AM",
     "topic": "It only took 36 hours for these students to solve Facebook\u0027s fake news problem",
     "url": "http://www.businessinsider.com/students-solve-facebooks-fake-news-problem-in-36-hours-2016-11",
     "votes": 3,
     "posted": "Nov 15, 2016 4:03:58 AM"
+  },
+  {
+    "id": "12955204",
+    "timestamp": "Nov 15, 2016 5:19:14 AM",
+    "topic": "Trump\u0027s plan to stop hackers",
+    "url": "http://money.cnn.com/2016/11/11/technology/donald-trump-cyber-plan/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 3:41:31 AM"
   },
   {
     "id": "12955184",
@@ -484,6 +548,14 @@ var newsArray = [
     "url": "http://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
     "votes": 3,
     "posted": "Nov 14, 2016 9:42:15 PM"
+  },
+  {
+    "id": "12953138",
+    "timestamp": "Nov 15, 2016 5:09:13 AM",
+    "topic": "The Effects of Medical Marijuana on Alzheimer’s Treatment",
+    "url": "http://www.alzheimers.net/6-15-15-effects-of-medical-marijuana-on-alzheimers/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 9:40:41 PM"
   },
   {
     "id": "12953105",
@@ -7707,37 +7779,5 @@ var newsArray = [
     "url": "https://drive.google.com/file/d/0B7kgKijo-p0ibm94VUY0TVktQlU/view",
     "votes": 3,
     "posted": "Nov 8, 2016 6:08:10 AM"
-  },
-  {
-    "id": "12897784",
-    "timestamp": "Nov 8, 2016 2:04:24 PM",
-    "topic": "Show HN: Super DOM, manipulate the DOM like it\u0027s 2016",
-    "url": "https://superdom.site/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 5:58:52 AM"
-  },
-  {
-    "id": "12897739",
-    "timestamp": "Nov 8, 2016 12:04:14 PM",
-    "topic": "Google really does collect lots of info about us",
-    "url": "https://www.google.com/policies/privacy/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 5:47:58 AM"
-  },
-  {
-    "id": "12897729",
-    "timestamp": "Nov 8, 2016 1:04:19 PM",
-    "topic": "D3-Cloud: Create Word Clouds in JavaScript and D3.js",
-    "url": "https://github.com/jasondavies/d3-cloud",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:44:32 AM"
-  },
-  {
-    "id": "12897545",
-    "timestamp": "Nov 8, 2016 7:23:52 AM",
-    "topic": "Backlash against Apple’s new MacBook Pro from its core users is unprecedented",
-    "url": "http://www.recode.net/2016/11/7/13512322/apple-macbook-pro-backlash-power-users",
-    "votes": 6,
-    "posted": "Nov 8, 2016 5:02:35 AM"
   }
 ];
