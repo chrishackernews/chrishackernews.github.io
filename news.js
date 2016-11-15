@@ -1,5 +1,60 @@
 var newsArray = [
   {
+    "id": "12960742",
+    "timestamp": "Nov 15, 2016 7:50:30 PM",
+    "topic": "Mozilla Firefox 50",
+    "url": "https://www.mozilla.org/en%2DUS/firefox/50.0/releasenotes/",
+    "votes": 12,
+    "posted": "Nov 15, 2016 7:28:00 PM"
+  },
+  {
+    "id": "12960561",
+    "timestamp": "Nov 15, 2016 7:20:27 PM",
+    "topic": "Tesorio (YC S15) Is Hiring Senior Back End and Full Stack Engineers",
+    "url": "https://www.tesorio.com/careers/",
+    "votes": 1,
+    "posted": "Nov 15, 2016 7:13:17 PM"
+  },
+  {
+    "id": "12960548",
+    "timestamp": "Nov 15, 2016 7:20:27 PM",
+    "topic": "Fake Facebook News Is a Disaster for Political Discourse",
+    "url": "http://www.forbes.com/sites/jaymcgregor/2016/11/15/fake-facebook-news-is-a-disaster-for-political-discourse/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 7:12:22 PM"
+  },
+  {
+    "id": "12960495",
+    "timestamp": "Nov 15, 2016 7:30:28 PM",
+    "topic": "This $1,500 Toaster Oven Is Everything That\u0027s Wrong with Silicon Valley Design",
+    "url": "https://www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design",
+    "votes": 5,
+    "posted": "Nov 15, 2016 7:07:35 PM"
+  },
+  {
+    "id": "12960365",
+    "timestamp": "Nov 15, 2016 7:00:25 PM",
+    "topic": "$1.44 per terabyte: setting a new world record with Apache Spark",
+    "url": "https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 6:54:35 PM"
+  },
+  {
+    "id": "12960298",
+    "timestamp": "Nov 15, 2016 7:10:26 PM",
+    "topic": "Facebook’s fake news problem is dividing the company’s employees",
+    "url": "https://news.vice.com/story/facebooks-fake-news-problem-is-dividing-the-companys-employees",
+    "votes": 5,
+    "posted": "Nov 15, 2016 6:46:56 PM"
+  },
+  {
+    "id": "12960186",
+    "timestamp": "Nov 15, 2016 7:00:25 PM",
+    "topic": "Ask HN: Best multiplayer game engines for JavaScript/Node.js 2016?",
+    "votes": 5,
+    "posted": "Nov 15, 2016 6:34:42 PM"
+  },
+  {
     "id": "12960169",
     "timestamp": "Nov 15, 2016 6:50:24 PM",
     "topic": "A One-Line Proof of the Infinitude of Primes",
@@ -14,6 +69,14 @@ var newsArray = [
     "url": "https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424#.sg9c81jue",
     "votes": 4,
     "posted": "Nov 15, 2016 6:31:37 PM"
+  },
+  {
+    "id": "12960070",
+    "timestamp": "Nov 15, 2016 7:00:25 PM",
+    "topic": "Just hit enter to get a shell of the rooty sort",
+    "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dCryptsetup-Security-Fail",
+    "votes": 5,
+    "posted": "Nov 15, 2016 6:23:39 PM"
   },
   {
     "id": "12959804",
@@ -174,6 +237,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 3:10:10 PM"
   },
   {
+    "id": "12957965",
+    "timestamp": "Nov 15, 2016 7:40:29 PM",
+    "topic": "Show HN: My friend misspelled “which” command, so I created this script for him",
+    "url": "https://gist.github.com/shanielh/ca5ff87d7d7b43394224a34f0ee0d20f",
+    "votes": 9,
+    "posted": "Nov 15, 2016 2:57:40 PM"
+  },
+  {
     "id": "12957896",
     "timestamp": "Nov 15, 2016 3:00:02 PM",
     "topic": "An Ancient Tsunami That Ended a Civilization Gets Another Look",
@@ -262,6 +333,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 1:48:25 PM"
   },
   {
+    "id": "12957493",
+    "timestamp": "Nov 15, 2016 7:40:29 PM",
+    "topic": "The New Touch-Bar-Equipped MacBook Pros and the State of the Mac",
+    "url": "http://daringfireball.net/2016/11/new_touch_bar_equipped_macbook_pros",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:39:43 PM"
+  },
+  {
     "id": "12957476",
     "timestamp": "Nov 15, 2016 2:19:58 PM",
     "topic": "“Designed by Apple in California” chronicles 20 years of Apple design",
@@ -299,6 +378,14 @@ var newsArray = [
     "url": "http://uk.businessinsider.com/amazon-hunger-games-employee-review-process-change-2016-11?r\u003dUS\u0026IR\u003dT",
     "votes": 6,
     "posted": "Nov 15, 2016 1:05:23 PM"
+  },
+  {
+    "id": "12957305",
+    "timestamp": "Nov 15, 2016 7:40:29 PM",
+    "topic": "Show HN: Re-coloring images for the color blind",
+    "url": "https://github.com/sacert/ColorCorrection",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:55:05 PM"
   },
   {
     "id": "12957302",
@@ -7788,52 +7875,5 @@ var newsArray = [
     "url": "https://blog.bugsnag.com/benefits-of-using-tmux/",
     "votes": 6,
     "posted": "Nov 8, 2016 7:52:57 PM"
-  },
-  {
-    "id": "12902659",
-    "timestamp": "Nov 8, 2016 11:55:32 PM",
-    "topic": "“The Will of the People” Is a Myth",
-    "url": "https://mises.org/blog/will-people-myth",
-    "votes": 4,
-    "posted": "Nov 8, 2016 7:27:28 PM"
-  },
-  {
-    "id": "12902620",
-    "timestamp": "Nov 8, 2016 7:44:59 PM",
-    "topic": "Review: The NES Classic Edition and all 30 games on it",
-    "url": "https://techcrunch.com/2016/11/07/review-the-nes-classic-edition-and-all-30-games-on-it/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 7:22:36 PM"
-  },
-  {
-    "id": "12902582",
-    "timestamp": "Nov 8, 2016 7:24:55 PM",
-    "topic": "Zoomer (YC S14) is hiring DevOps engineers for our globally distributed team",
-    "url": "https://jobs.lever.co/zoomer?lever-source\u003dhackernews",
-    "votes": 1,
-    "posted": "Nov 8, 2016 7:18:16 PM"
-  },
-  {
-    "id": "12902530",
-    "timestamp": "Nov 8, 2016 7:24:55 PM",
-    "topic": "Webscraping with Rvest",
-    "url": "http://www.programmingr.com/content/webscraping-rvest-easy-mba-can/",
-    "votes": 6,
-    "posted": "Nov 8, 2016 7:10:59 PM"
-  },
-  {
-    "id": "12902514",
-    "timestamp": "Nov 8, 2016 7:34:56 PM",
-    "topic": "Ask HN: List of frequently used UI notifications texts",
-    "votes": 4,
-    "posted": "Nov 8, 2016 7:09:20 PM"
-  },
-  {
-    "id": "12902409",
-    "timestamp": "Nov 10, 2016 3:39:02 PM",
-    "topic": "Writing Your Own Programming Language",
-    "url": "https://github.com/marciok/Mu#writing-your-own-programming-language",
-    "votes": 7,
-    "posted": "Nov 8, 2016 6:57:09 PM"
   }
 ];
