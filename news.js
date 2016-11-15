@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12956597",
+    "timestamp": "Nov 15, 2016 9:59:38 AM",
+    "topic": "Why it\u0027s worth supporting Chromebooks and Raspberry Pi",
+    "url": "https://headmelted.com/why-we-need-the-best-tools-on-chromebooks-and-raspberry-pi-3ab4c10a611c#.ac4iadzbl",
+    "votes": 3,
+    "posted": "Nov 15, 2016 9:53:37 AM"
+  },
+  {
+    "id": "12956508",
+    "timestamp": "Nov 15, 2016 9:49:37 AM",
+    "topic": "Chartify – simple and lightweight charts for React.js",
+    "url": "https://github.com/kirillstepkin/chartify",
+    "votes": 3,
+    "posted": "Nov 15, 2016 9:35:16 AM"
+  },
+  {
+    "id": "12956334",
+    "timestamp": "Nov 15, 2016 9:29:35 AM",
+    "topic": "New details emerge on AMD Zen",
+    "url": "https://www.reddit.com/r/Amd/comments/5cffyt/newish_details_about_zen/?st\u003divj74fsq\u0026sh\u003dadb1060e",
+    "votes": 3,
+    "posted": "Nov 15, 2016 8:47:51 AM"
+  },
+  {
     "id": "12956243",
     "timestamp": "Nov 15, 2016 8:59:33 AM",
     "topic": "Show HN: Whosfiring",
     "url": "https://whosfiring.com",
     "votes": 11,
     "posted": "Nov 15, 2016 8:17:46 AM"
+  },
+  {
+    "id": "12956160",
+    "timestamp": "Nov 15, 2016 9:39:36 AM",
+    "topic": "Killing Lara Croft",
+    "url": "https://quarterly.camposanto.com/killing-lara-croft-869cd174ae34#.xd4cfcltn",
+    "votes": 3,
+    "posted": "Nov 15, 2016 7:56:05 AM"
   },
   {
     "id": "12956143",
@@ -30,6 +62,14 @@ var newsArray = [
     "url": "https://www.icracked.com/careers",
     "votes": 1,
     "posted": "Nov 15, 2016 7:17:28 AM"
+  },
+  {
+    "id": "12955881",
+    "timestamp": "Nov 15, 2016 9:39:36 AM",
+    "topic": "Zero shot translation learning",
+    "url": "https://arxiv.org/abs/1611.04558",
+    "votes": 3,
+    "posted": "Nov 15, 2016 6:38:06 AM"
   },
   {
     "id": "12955814",
@@ -7843,29 +7883,5 @@ var newsArray = [
     "url": "https://github.com/ZuzooVn/machine-learning-for-software-engineers",
     "votes": 4,
     "posted": "Nov 8, 2016 10:06:02 AM"
-  },
-  {
-    "id": "12898684",
-    "timestamp": "Nov 8, 2016 11:54:13 AM",
-    "topic": "WhatsApp won’t share UK user data with Facebook anymore",
-    "url": "http://thenextweb.com/facebook/2016/11/08/whatsapp-wont-share-uk-user-data-with-facebook-anymore/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 9:57:35 AM"
-  },
-  {
-    "id": "12898626",
-    "timestamp": "Nov 8, 2016 5:14:43 PM",
-    "topic": "Introducing Bloaty McBloatface: a size profiler for binaries",
-    "url": "http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html",
-    "votes": 4,
-    "posted": "Nov 8, 2016 9:47:17 AM"
-  },
-  {
-    "id": "12898534",
-    "timestamp": "Nov 8, 2016 10:44:08 AM",
-    "topic": "\u0027Big Bang Theory\u0027 Sheldon Prequel Series in the Works at CBS",
-    "url": "http://www.hollywoodreporter.com/live-feed/big-bang-theory-sheldon-prequel-series-works-at-cbs-944826",
-    "votes": 3,
-    "posted": "Nov 8, 2016 9:18:55 AM"
   }
 ];
