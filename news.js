@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12954614",
+    "timestamp": "Nov 15, 2016 1:38:51 AM",
+    "topic": "1.2M NHS workers hit with \u0027reply-all\u0027 e-mails",
+    "url": "http://www.businessinsider.com.au/reply-all-email-chain-1-2-million-nhs-employees-2016-11?r\u003dUS\u0026IR\u003dT",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:26:34 AM"
+  },
+  {
+    "id": "12954460",
+    "timestamp": "Nov 15, 2016 1:18:49 AM",
+    "topic": "Ask HN: How can I use my technical skills for good, in our time?",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:58:39 AM"
+  },
+  {
+    "id": "12954438",
+    "timestamp": "Nov 15, 2016 1:58:54 AM",
+    "topic": "Nero",
+    "url": "https://en.wikipedia.org/wiki/Nero",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:55:12 AM"
+  },
+  {
+    "id": "12954392",
+    "timestamp": "Nov 15, 2016 1:28:50 AM",
+    "topic": "An App Saw Trump Winning Swing States When Polls Didn\u0027t",
+    "url": "http://www.npr.org/sections/alltechconsidered/2016/11/10/501613521/an-app-saw-trump-winning-swing-states-when-polls-didnt",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:48:04 AM"
+  },
+  {
+    "id": "12954372",
+    "timestamp": "Nov 15, 2016 1:38:51 AM",
+    "topic": "Mocks Aren\u0027t Stubs",
+    "url": "http://martinfowler.com/articles/mocksArentStubs.html",
+    "votes": 5,
+    "posted": "Nov 15, 2016 12:44:15 AM"
+  },
+  {
     "id": "12954355",
     "timestamp": "Nov 15, 2016 12:48:47 AM",
     "topic": "China threatens to cut sales of iPhones if \u0027naive\u0027 Trump pursues trade war",
@@ -14,6 +53,22 @@ var newsArray = [
     "url": "https://www.techdirt.com/blog/netneutrality/articles/20161111/08192636020/too-little-too-late-fcc-finally-realizes-ats-zero-rating-is-anti-competitive.shtml",
     "votes": 3,
     "posted": "Nov 15, 2016 12:40:16 AM"
+  },
+  {
+    "id": "12954349",
+    "timestamp": "Nov 15, 2016 1:28:50 AM",
+    "topic": "The FBI just got its hands on data that Twitter wouldn’t give the CIA",
+    "url": "http://www.theverge.com/2016/11/14/13629248/fbi-dataminr-twitter-surveillance-contract-scanning-police",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:39:46 AM"
+  },
+  {
+    "id": "12954348",
+    "timestamp": "Nov 15, 2016 1:38:51 AM",
+    "topic": "In 13 minutes from Kubernetes to a complete application development tool",
+    "url": "https://about.gitlab.com/2016/11/14/idea-to-production/?",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:39:04 AM"
   },
   {
     "id": "12954269",
@@ -46,6 +101,14 @@ var newsArray = [
     "url": "https://radprogs.com",
     "votes": 3,
     "posted": "Nov 15, 2016 12:16:44 AM"
+  },
+  {
+    "id": "12954188",
+    "timestamp": "Nov 15, 2016 1:48:52 AM",
+    "topic": "Nytimes asks readers to stay with them",
+    "url": "http://mobile.nytimes.com/2016/11/13/us/elections/to-our-readers-from-the-publisher-and-executive-editor.html",
+    "votes": 6,
+    "posted": "Nov 15, 2016 12:06:49 AM"
   },
   {
     "id": "12954126",
@@ -7562,36 +7625,5 @@ var newsArray = [
     "url": "http://geocar.sdf1.org/numbers.html",
     "votes": 5,
     "posted": "Nov 8, 2016 1:58:59 AM"
-  },
-  {
-    "id": "12896577",
-    "timestamp": "Nov 8, 2016 4:33:39 AM",
-    "topic": "Ask HN: Most overhyped technology of 2016?",
-    "votes": 8,
-    "posted": "Nov 8, 2016 1:28:04 AM"
-  },
-  {
-    "id": "12896436",
-    "timestamp": "Nov 12, 2016 1:12:16 AM",
-    "topic": "Say Hello to CircleCI 2.0",
-    "url": "https://circleci.com/blog/say-hello-to-circleci-2-0/",
-    "votes": 22,
-    "posted": "Nov 8, 2016 1:01:07 AM"
-  },
-  {
-    "id": "12896432",
-    "timestamp": "Nov 8, 2016 1:23:22 AM",
-    "topic": "The Sega Genesis Is Officially Back in Production",
-    "url": "http://www.dailydot.com/debug/sega-genesis-preorder-details/?fb\u003ddd",
-    "votes": 3,
-    "posted": "Nov 8, 2016 1:00:41 AM"
-  },
-  {
-    "id": "12896425",
-    "timestamp": "Nov 10, 2016 3:08:59 PM",
-    "topic": "On the importance of units",
-    "url": "http://www.wall.org/~aron/blog/on-the-importance-of-units/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 12:59:58 AM"
   }
 ];
