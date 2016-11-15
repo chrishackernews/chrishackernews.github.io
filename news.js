@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12961849",
+    "timestamp": "Nov 15, 2016 9:30:39 PM",
+    "topic": "Amazon\u0027s Blu phone has a back door",
+    "url": "http://arstechnica.com/security/2016/11/chinese-company-installed-secret-backdoor-on-hundreds-of-thousands-of-phones/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 9:23:58 PM"
+  },
+  {
+    "id": "12961739",
+    "timestamp": "Nov 15, 2016 9:40:41 PM",
+    "topic": "Tech company CEO fired after threatening to kill Trump",
+    "url": "http://www.news965.com/news/news/local/tech-company-ceo-fired-after-threatening-kill-trum/ns8KJ/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 9:13:28 PM"
+  },
+  {
+    "id": "12961735",
+    "timestamp": "Nov 15, 2016 9:30:39 PM",
+    "topic": "Trump will control the NSA - what this means for your privacy",
+    "url": "https://protonmail.com/blog/trump-control-nsa-privacy/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 9:13:15 PM"
+  },
+  {
+    "id": "12961686",
+    "timestamp": "Nov 15, 2016 9:20:38 PM",
+    "topic": "One Man Scours San Francisco for the Traces of Film Noir",
+    "url": "http://www.citylab.com/navigator/2016/11/san-francisco-noir-film-locations-reefsf-brian-hollins/506993/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 9:07:24 PM"
+  },
+  {
+    "id": "12961514",
+    "timestamp": "Nov 15, 2016 9:00:36 PM",
+    "topic": "CEO Resigns After Social Media Posts Threatening President-Elect Donald Trump",
+    "url": "http://www.nbcsandiego.com/news/local/Matt-Harrigan-PacketSled-CEO-Trump-Threats-401134605.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 8:47:19 PM"
+  },
+  {
+    "id": "12961513",
+    "timestamp": "Nov 15, 2016 9:40:40 PM",
+    "topic": "Hustle: Bernie Sanders\u0027 texting tool raises $3m",
+    "url": "https://techcrunch.com/2016/11/15/blood-sweat-and-text/",
+    "votes": 11,
+    "posted": "Nov 15, 2016 8:47:17 PM"
+  },
+  {
+    "id": "12961450",
+    "timestamp": "Nov 15, 2016 9:00:36 PM",
+    "topic": "Citus 6.0 – A database designed for multi-tenancy",
+    "url": "https://www.citusdata.com/blog/2016/11/14/introducing-citus-6/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 8:41:43 PM"
+  },
+  {
     "id": "12961392",
     "timestamp": "Nov 15, 2016 8:40:34 PM",
     "topic": "The Post Virtual Reality Sadness",
@@ -8,12 +64,36 @@ var newsArray = [
     "posted": "Nov 15, 2016 8:34:14 PM"
   },
   {
+    "id": "12961333",
+    "timestamp": "Nov 15, 2016 9:20:38 PM",
+    "topic": "Regex 101",
+    "url": "https://regex101.com/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 8:27:33 PM"
+  },
+  {
+    "id": "12961296",
+    "timestamp": "Nov 15, 2016 9:40:40 PM",
+    "topic": "IronFunctions: language agnostic open-source alternative to AWS Lambda",
+    "url": "https://github.com/iron-io/functions",
+    "votes": 31,
+    "posted": "Nov 15, 2016 8:24:23 PM"
+  },
+  {
     "id": "12961241",
     "timestamp": "Nov 15, 2016 8:30:33 PM",
     "topic": "Bouncing bomb",
     "url": "https://en.wikipedia.org/wiki/Bouncing_bomb",
     "votes": 5,
     "posted": "Nov 15, 2016 8:19:10 PM"
+  },
+  {
+    "id": "12961079",
+    "timestamp": "Nov 15, 2016 9:00:37 PM",
+    "topic": "Machine learning: The deplorable state of deployment",
+    "url": "http://www.computerworld.com/article/3136676/application-development/machine-learning-the-deplorable-state-of-deployment.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 7:59:35 PM"
   },
   {
     "id": "12961012",
@@ -38,6 +118,14 @@ var newsArray = [
     "url": "http://blog.takipi.com/779236-java-logging-statements-1313-github-repositories-error-warn-or-fatal/",
     "votes": 4,
     "posted": "Nov 15, 2016 7:41:10 PM"
+  },
+  {
+    "id": "12960844",
+    "timestamp": "Nov 15, 2016 9:10:37 PM",
+    "topic": "CRISPR gene-editing tested in a person for the first time",
+    "url": "http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988",
+    "votes": 4,
+    "posted": "Nov 15, 2016 7:36:52 PM"
   },
   {
     "id": "12960742",
@@ -94,6 +182,14 @@ var newsArray = [
     "url": "https://news.vice.com/story/facebooks-fake-news-problem-is-dividing-the-companys-employees",
     "votes": 5,
     "posted": "Nov 15, 2016 6:46:56 PM"
+  },
+  {
+    "id": "12960283",
+    "timestamp": "Nov 15, 2016 9:00:37 PM",
+    "topic": "OpenAI Joins Microsoft on the Cloud’s Next Big Front: Chips",
+    "url": "https://www.wired.com/2016/11/next-battles-clouds-ai-chips/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 6:45:18 PM"
   },
   {
     "id": "12960186",
@@ -373,6 +469,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 1:59:46 PM"
   },
   {
+    "id": "12957552",
+    "timestamp": "Nov 15, 2016 9:00:36 PM",
+    "topic": "Want to see gaming’s past and future? Dive into the “educational” world of PLATO",
+    "url": "http://arstechnica.com/gaming/2016/10/want-to-see-gamings-past-and-future-dive-into-the-educational-world-of-plato/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:52:01 PM"
+  },
+  {
     "id": "12957537",
     "timestamp": "Nov 15, 2016 6:20:21 PM",
     "topic": "The Fact and Fiction of the NASA EmDrive Paper Leak",
@@ -434,6 +538,14 @@ var newsArray = [
     "url": "http://www.mmds.org/",
     "votes": 6,
     "posted": "Nov 15, 2016 1:00:59 PM"
+  },
+  {
+    "id": "12957306",
+    "timestamp": "Nov 15, 2016 9:30:39 PM",
+    "topic": "ICQ: 20 Years Is No Limit",
+    "url": "https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.e8abfoxci",
+    "votes": 14,
+    "posted": "Nov 15, 2016 12:55:08 PM"
   },
   {
     "id": "12957305",
@@ -7875,45 +7987,5 @@ var newsArray = [
     "url": "http://www.pixide.org",
     "votes": 5,
     "posted": "Nov 8, 2016 10:01:57 PM"
-  },
-  {
-    "id": "12903801",
-    "timestamp": "Nov 8, 2016 10:25:17 PM",
-    "topic": "3DNES just officially dropped",
-    "url": "http://helpmebro.com/posts/wbcyQqFeqa",
-    "votes": 6,
-    "posted": "Nov 8, 2016 9:49:42 PM"
-  },
-  {
-    "id": "12903745",
-    "timestamp": "Nov 9, 2016 2:25:43 AM",
-    "topic": "Neural Networks Designing Neural Networks: Cometh the Singularity?",
-    "url": "https://arxiv.org/abs/1611.02120",
-    "votes": 8,
-    "posted": "Nov 8, 2016 9:43:31 PM"
-  },
-  {
-    "id": "12903673",
-    "timestamp": "Nov 9, 2016 3:25:48 AM",
-    "topic": "NASA has completed the $8.7B James Webb space telescope",
-    "url": "https://www.engadget.com/2016/11/07/nasa-has-completed-the-8-7-billion-james-webb-space-telescope/",
-    "votes": 5,
-    "posted": "Nov 8, 2016 9:32:49 PM"
-  },
-  {
-    "id": "12903533",
-    "timestamp": "Nov 8, 2016 10:45:20 PM",
-    "topic": "Can deep learning help solve lip reading?",
-    "url": "http://www.theverge.com/2016/11/7/13551210/ai-deep-learning-lip-reading-accuracy-oxford",
-    "votes": 3,
-    "posted": "Nov 8, 2016 9:13:18 PM"
-  },
-  {
-    "id": "12903528",
-    "timestamp": "Nov 11, 2016 9:41:56 PM",
-    "topic": "Verbal Tics: As bots grow up, like us, their bugs become their features",
-    "url": "http://reallifemag.com/verbal-tics/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 9:12:42 PM"
   }
 ];
