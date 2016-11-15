@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12954355",
+    "timestamp": "Nov 15, 2016 12:48:47 AM",
+    "topic": "China threatens to cut sales of iPhones if \u0027naive\u0027 Trump pursues trade war",
+    "url": "https://www.theguardian.com/world/2016/nov/14/china-threatens-to-cut-sales-of-iphones-and-us-cars-if-naive-trump-pursues-trade-war?utm_source\u003ddlvr.it\u0026utm_medium\u003dtwitter",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:40:53 AM"
+  },
+  {
+    "id": "12954352",
+    "timestamp": "Nov 15, 2016 12:48:47 AM",
+    "topic": "Too Little Too Late: FCC Finally Realizes AT\u0026T\u0027s Zero Rating Is Anti-Competitive",
+    "url": "https://www.techdirt.com/blog/netneutrality/articles/20161111/08192636020/too-little-too-late-fcc-finally-realizes-ats-zero-rating-is-anti-competitive.shtml",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:40:16 AM"
+  },
+  {
+    "id": "12954269",
+    "timestamp": "Nov 15, 2016 12:28:44 AM",
+    "topic": "Renegade Facebook Employees Form Task Force to Battle Fake News",
+    "url": "https://www.buzzfeed.com/sheerafrenkel/renegade-facebook-employees-form-task-force-to-battle-fake-n?utm_term\u003d.rgEJwaY7mO#.qs9zlA7qDg",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:22:46 AM"
+  },
+  {
+    "id": "12954248",
+    "timestamp": "Nov 15, 2016 12:38:46 AM",
+    "topic": "Google updating policy for ads on fake news sites",
+    "url": "http://www.reuters.com/article/us-alphabet-advertising-idUSKBN1392MM",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:17:47 AM"
+  },
+  {
+    "id": "12954241",
+    "timestamp": "Nov 15, 2016 12:18:43 AM",
+    "topic": "BackerKit (YC W13) Is Hiring a Growth Intern",
+    "url": "https://angel.co/backerkit/jobs/142199-growth-internship",
+    "votes": 1,
+    "posted": "Nov 15, 2016 12:17:15 AM"
+  },
+  {
+    "id": "12954240",
+    "timestamp": "Nov 15, 2016 12:28:44 AM",
+    "topic": "Show HN: Priorities for a Rad Progressive Movement",
+    "url": "https://radprogs.com",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:16:44 AM"
+  },
+  {
+    "id": "12954126",
+    "timestamp": "Nov 15, 2016 12:18:43 AM",
+    "topic": "Wannabe Data Scientists! Learn the basics with these 7 books!",
+    "url": "https://medium.com/@datalab/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:57:59 PM"
+  },
+  {
+    "id": "12954032",
+    "timestamp": "Nov 15, 2016 12:18:43 AM",
+    "topic": "Five years of Fanout",
+    "url": "http://blog.fanout.io/2016/11/14/five-years-of-fanout/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 11:42:12 PM"
+  },
+  {
     "id": "12953836",
     "timestamp": "Nov 14, 2016 11:58:41 PM",
     "topic": "What I learnt from my 14 year journey writing software without a CS degree",
@@ -30,6 +94,14 @@ var newsArray = [
     "url": "http://www.bbc.com/news/world-europe-37978482",
     "votes": 4,
     "posted": "Nov 14, 2016 11:07:36 PM"
+  },
+  {
+    "id": "12953738",
+    "timestamp": "Nov 15, 2016 12:28:45 AM",
+    "topic": "Expedia’s German Hotel-Booking Site Trivago Files for IPO",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-14/expedia-s-german-hotel-booking-site-trivago-files-for-u-s-ipo?cmpid\u003dsocialflow-twitter-business\u0026utm_content\u003dbusiness\u0026utm_campaign\u003dsocialflow-organic\u0026utm_source\u003dtwitter\u0026utm_medium\u003dsocial",
+    "votes": 4,
+    "posted": "Nov 14, 2016 10:56:56 PM"
   },
   {
     "id": "12953706",
@@ -198,6 +270,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 8:54:10 PM"
   },
   {
+    "id": "12952646",
+    "timestamp": "Nov 15, 2016 12:08:42 AM",
+    "topic": "The UX Fund: Investing $50k in 10 companies, 10 years later",
+    "url": "https://medium.com/habit-of-introspection/the-ux-fund-investing-50-000-in-10-companies-10-years-later-6fc65bd35e7a#.1udd9ep4b",
+    "votes": 4,
+    "posted": "Nov 14, 2016 8:49:20 PM"
+  },
+  {
     "id": "12952629",
     "timestamp": "Nov 14, 2016 9:08:18 PM",
     "topic": "Congress will abandon Trans-Pacific Partnership deal, White House concedes",
@@ -323,6 +403,13 @@ var newsArray = [
     "url": "http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-compromising-linux-desktop.html",
     "votes": 4,
     "posted": "Nov 14, 2016 6:30:34 PM"
+  },
+  {
+    "id": "12951488",
+    "timestamp": "Nov 15, 2016 12:08:42 AM",
+    "topic": "Ask HN: How would you choose which language to learn?",
+    "votes": 4,
+    "posted": "Nov 14, 2016 6:29:29 PM"
   },
   {
     "id": "12951175",
@@ -7506,61 +7593,5 @@ var newsArray = [
     "url": "http://www.wall.org/~aron/blog/on-the-importance-of-units/",
     "votes": 3,
     "posted": "Nov 8, 2016 12:59:58 AM"
-  },
-  {
-    "id": "12896353",
-    "timestamp": "Nov 8, 2016 2:43:29 AM",
-    "topic": "Explaining Thunderbolt 3, USB-C, and Everything in Between",
-    "url": "http://tidbits.com/article/16870",
-    "votes": 5,
-    "posted": "Nov 8, 2016 12:45:33 AM"
-  },
-  {
-    "id": "12896323",
-    "timestamp": "Nov 8, 2016 12:43:19 AM",
-    "topic": "Next Caller Is Hiring a Technical Product Manager",
-    "url": "https://jobs.lever.co/nextcaller/619a158e-015b-4075-a626-afdc936b17f0",
-    "votes": 1,
-    "posted": "Nov 8, 2016 12:40:57 AM"
-  },
-  {
-    "id": "12896313",
-    "timestamp": "Nov 11, 2016 9:11:53 PM",
-    "topic": "Touched by the Goddess: On Ramanujan",
-    "url": "http://inference-review.com/article/touched-by-the-goddess",
-    "votes": 4,
-    "posted": "Nov 8, 2016 12:38:54 AM"
-  },
-  {
-    "id": "12896304",
-    "timestamp": "Nov 8, 2016 1:53:26 AM",
-    "topic": "Tools of Titans Foreword – Arnold Schwarzenegger “I Am Not a Self-Made Man”",
-    "url": "http://fourhourworkweek.com/2016/11/07/tools-of-titans-foreword-arnold-schwarzenegger-i-am-not-a-self-made-man/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+timferriss+%28The+Blog+of+Author+Tim+Ferriss%29",
-    "votes": 4,
-    "posted": "Nov 8, 2016 12:37:39 AM"
-  },
-  {
-    "id": "12896226",
-    "timestamp": "Nov 10, 2016 2:18:55 PM",
-    "topic": "The Genius of Winding Paths",
-    "url": "https://www.firstthings.com/article/2016/10/the-genius-of-winding-paths",
-    "votes": 4,
-    "posted": "Nov 8, 2016 12:27:05 AM"
-  },
-  {
-    "id": "12896182",
-    "timestamp": "Nov 8, 2016 1:03:21 AM",
-    "topic": "Tensorflow Deepmath: Experiments towards neural network theorem proving",
-    "url": "https://github.com/tensorflow/deepmath",
-    "votes": 4,
-    "posted": "Nov 8, 2016 12:20:46 AM"
-  },
-  {
-    "id": "12896148",
-    "timestamp": "Nov 8, 2016 1:03:21 AM",
-    "topic": "New Warship’s Big Guns Have No Bullets (Zumwalt-Class)",
-    "url": "http://www.defensenews.com/articles/new-warships-big-guns-have-no-bullets",
-    "votes": 6,
-    "posted": "Nov 8, 2016 12:14:39 AM"
   }
 ];
