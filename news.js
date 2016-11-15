@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12957465",
+    "timestamp": "Nov 15, 2016 1:49:55 PM",
+    "topic": "Chevrolet Bolt EV Is the 2017 Motor Trend Car of the Year",
+    "url": "http://www.motortrend.com/news/chevrolet-bolt-ev-2017-car-of-the-year/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 1:34:08 PM"
+  },
+  {
+    "id": "12957371",
+    "timestamp": "Nov 15, 2016 1:49:55 PM",
+    "topic": "Ask HN: What simple tools / products are you most proud of making?",
+    "votes": 7,
+    "posted": "Nov 15, 2016 1:13:03 PM"
+  },
+  {
+    "id": "12957206",
+    "timestamp": "Nov 15, 2016 1:19:53 PM",
+    "topic": "Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",
+    "url": "http://mobile.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:29:47 PM"
+  },
+  {
     "id": "12956967",
     "timestamp": "Nov 15, 2016 12:49:50 PM",
     "topic": "VodafoneUK says it carries ~10,000TB of 4G traffic a month",
@@ -61,6 +84,14 @@ var newsArray = [
     "url": "http://www.jsnice.org/",
     "votes": 7,
     "posted": "Nov 15, 2016 9:14:53 AM"
+  },
+  {
+    "id": "12956363",
+    "timestamp": "Nov 15, 2016 1:39:54 PM",
+    "topic": "To Learn Programming, Do Projects You Actually Care About",
+    "url": "https://datarebellion.com/blog/to-learn-programming-do-projects-you-actually-care-about/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 8:55:53 AM"
   },
   {
     "id": "12956334",
@@ -7785,29 +7816,5 @@ var newsArray = [
     "url": "https://medium.com/@boxed/a-small-dive-into-and-rejection-of-elm-8217fd5da235#.kkt82zm3y",
     "votes": 4,
     "posted": "Nov 8, 2016 2:01:52 PM"
-  },
-  {
-    "id": "12899814",
-    "timestamp": "Nov 8, 2016 7:34:57 PM",
-    "topic": "Show HN: Slik Prospector – Find Anyone\u0027s Email",
-    "url": "https://slik.ai/#/",
-    "votes": 24,
-    "posted": "Nov 8, 2016 1:57:10 PM"
-  },
-  {
-    "id": "12899782",
-    "timestamp": "Nov 8, 2016 1:54:24 PM",
-    "topic": "EasyPost is still hiring more developers",
-    "url": "https://www.easypost.com/jobs",
-    "votes": 1,
-    "posted": "Nov 8, 2016 1:50:27 PM"
-  },
-  {
-    "id": "12899535",
-    "timestamp": "Nov 8, 2016 1:14:20 PM",
-    "topic": "Almost one in ten people set to quit the internet in the UK",
-    "url": "http://superfast-it.com/internet/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 1:01:47 PM"
   }
 ];
