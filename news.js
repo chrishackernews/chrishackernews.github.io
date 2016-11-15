@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12955287",
+    "timestamp": "Nov 15, 2016 4:19:09 AM",
+    "topic": "It only took 36 hours for these students to solve Facebook\u0027s fake news problem",
+    "url": "http://www.businessinsider.com/students-solve-facebooks-fake-news-problem-in-36-hours-2016-11",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:03:58 AM"
+  },
+  {
+    "id": "12955184",
+    "timestamp": "Nov 15, 2016 4:19:09 AM",
+    "topic": "DroneBase (YC W15) raises from Union Square to pay any pilot for aerial footage",
+    "url": "https://techcrunch.com/2016/11/14/drones-for-hire/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 3:38:16 AM"
+  },
+  {
     "id": "12955174",
     "timestamp": "Nov 15, 2016 3:39:05 AM",
     "topic": "Triplebyte (YC S15) is hiring our first Sales Engineer",
@@ -373,6 +389,14 @@ var newsArray = [
     "url": "http://www.wired.co.uk/articlhttp://www.theverge.com/2016/11/14/13621108/hayao-miyazaki-last-film-boro-the-caterpillare/hayao-miyazaki-latest-film-cgi-caterpillar",
     "votes": 4,
     "posted": "Nov 14, 2016 10:52:34 PM"
+  },
+  {
+    "id": "12953637",
+    "timestamp": "Nov 15, 2016 4:09:08 AM",
+    "topic": "Microsoft is going to pretend to release Visual Studio for Mac",
+    "url": "http://arstechnica.com/information-technology/2016/11/microsoft-is-going-to-pretend-to-release-visual-studio-for-mac/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 10:43:16 PM"
   },
   {
     "id": "12953587",
@@ -7715,59 +7739,5 @@ var newsArray = [
     "url": "http://www.recode.net/2016/11/7/13512322/apple-macbook-pro-backlash-power-users",
     "votes": 6,
     "posted": "Nov 8, 2016 5:02:35 AM"
-  },
-  {
-    "id": "12897415",
-    "timestamp": "Nov 8, 2016 5:03:41 AM",
-    "topic": "Google Data Studio",
-    "url": "https://datastudio.google.com",
-    "votes": 6,
-    "posted": "Nov 8, 2016 4:39:47 AM"
-  },
-  {
-    "id": "12897411",
-    "timestamp": "Nov 8, 2016 12:04:15 PM",
-    "topic": "Ask HN: I need advice, Mid-life crisis",
-    "votes": 7,
-    "posted": "Nov 8, 2016 4:39:18 AM"
-  },
-  {
-    "id": "12897398",
-    "timestamp": "Nov 8, 2016 5:53:45 AM",
-    "topic": "Founder Dilution",
-    "url": "http://avc.com/2016/11/founder-dilution/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 4:34:47 AM"
-  },
-  {
-    "id": "12897390",
-    "timestamp": "Nov 8, 2016 7:13:51 AM",
-    "topic": "Consistency should be more consistent",
-    "url": "https://irenezhang.net/blog/2015/02/01/consistency.html",
-    "votes": 8,
-    "posted": "Nov 8, 2016 4:33:28 AM"
-  },
-  {
-    "id": "12897324",
-    "timestamp": "Nov 8, 2016 4:23:38 AM",
-    "topic": "InfluxData (YC W13) Is Hiring a Senior JavaScript Developer in SF",
-    "url": "https://boards.greenhouse.io/influxdb",
-    "votes": 1,
-    "posted": "Nov 8, 2016 4:17:56 AM"
-  },
-  {
-    "id": "12897316",
-    "timestamp": "Nov 8, 2016 5:13:42 AM",
-    "topic": "What is the most absurd code you\u0027ve ever seen?",
-    "url": "https://www.quora.com/What-is-the-most-absurd-code-youve-ever-seen?share\u003d1",
-    "votes": 5,
-    "posted": "Nov 8, 2016 4:16:17 AM"
-  },
-  {
-    "id": "12897284",
-    "timestamp": "Nov 8, 2016 4:23:38 AM",
-    "topic": "Ask HN: Have you ever thought of leaving programming for something else?",
-    "votes": 10,
-    "posted": "Nov 8, 2016 4:05:54 AM"
   }
 ];
