@@ -1,5 +1,12 @@
 var newsArray = [
   {
+    "id": "12956845",
+    "timestamp": "Nov 15, 2016 11:19:44 AM",
+    "topic": "Ask HN: Best encrypted messaging app atm?",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:58:11 AM"
+  },
+  {
     "id": "12956798",
     "timestamp": "Nov 15, 2016 10:49:42 AM",
     "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
@@ -7858,29 +7865,5 @@ var newsArray = [
     "url": "https://daveceddia.com/what-to-test-in-react-app/",
     "votes": 3,
     "posted": "Nov 8, 2016 12:02:05 PM"
-  },
-  {
-    "id": "12899219",
-    "timestamp": "Nov 8, 2016 5:04:42 PM",
-    "topic": "Parkinson\u0027s Law: work expands to fill the time available (1955)",
-    "url": "http://www.economist.com/node/14116121",
-    "votes": 3,
-    "posted": "Nov 8, 2016 11:58:02 AM"
-  },
-  {
-    "id": "12899187",
-    "timestamp": "Nov 8, 2016 6:34:51 PM",
-    "topic": "D.T. is the embodiment of everything Singapore taught me to fear about democracy",
-    "url": "http://qz.com/830136/election-2016-donald-trump-is-the-embodiment-of-everything-singapore-taught-me-to-fear-about-democracy/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 11:49:56 AM"
-  },
-  {
-    "id": "12899019",
-    "timestamp": "Nov 8, 2016 5:14:43 PM",
-    "topic": "Semiconductor-free microelectronics are now possible, thanks to metamaterials",
-    "url": "http://phys.org/news/2016-11-semiconductor-free-microelectronics-metamaterials.html",
-    "votes": 4,
-    "posted": "Nov 8, 2016 11:16:17 AM"
   }
 ];
