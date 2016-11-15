@@ -1,11 +1,83 @@
 var newsArray = [
   {
+    "id": "12962875",
+    "timestamp": "Nov 15, 2016 11:41:06 PM",
+    "topic": "Startup CEO resigns after “joking” about killing Trump",
+    "url": "http://arstechnica.com/tech-policy/2016/11/network-security-company-ceo-resigns-after-joking-about-killing-trump/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 11:23:28 PM"
+  },
+  {
+    "id": "12962853",
+    "timestamp": "Nov 15, 2016 11:41:06 PM",
+    "topic": "Wikileaks latest insurance files don\u0027t match hashes",
+    "url": "https://np.reddit.com/r/crypto/comments/5cz1fz/wikileaks_latest_insurance_files_dont_match_hashes/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 11:21:22 PM"
+  },
+  {
+    "id": "12962776",
+    "timestamp": "Nov 15, 2016 11:21:03 PM",
+    "topic": "The Most Effective Weapon on the Modern Battlefield Is Concrete",
+    "url": "http://mwi.usma.edu/effective-weapon-modern-battlefield-concrete/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:12:49 PM"
+  },
+  {
+    "id": "12962755",
+    "timestamp": "Nov 15, 2016 11:31:05 PM",
+    "topic": "Military Leaders Urge Trump to See Climate as a Security Threat",
+    "url": "https://www.scientificamerican.com/article/military-leaders-urge-trump-to-see-climate-as-a-security-threat/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:09:50 PM"
+  },
+  {
+    "id": "12962684",
+    "timestamp": "Nov 15, 2016 11:41:06 PM",
+    "topic": "ADOBE TO PAY $1 MILLION FOR DATA BREACH",
+    "url": "http://www.ncdoj.gov/News-and-Alerts/News-Releases-and-Advisories/Press-Releases/Adobe-to-pay-$1-million-for-data-breach,-bolster-s.aspx",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:02:30 PM"
+  },
+  {
+    "id": "12962637",
+    "timestamp": "Nov 15, 2016 11:21:04 PM",
+    "topic": "Meet your new language tutors: the Duolingo Bots",
+    "url": "https://www.duolingo.com/comment/18155544",
+    "votes": 4,
+    "posted": "Nov 15, 2016 10:57:32 PM"
+  },
+  {
+    "id": "12962477",
+    "timestamp": "Nov 15, 2016 11:21:04 PM",
+    "topic": "Wikileaks latest insurance files don\u0027t match hashes",
+    "url": "https://www.reddit.com/r/crypto/comments/5cz1fz/wikileaks_latest_insurance_files_dont_match_hashes/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 10:39:47 PM"
+  },
+  {
+    "id": "12962442",
+    "timestamp": "Nov 15, 2016 11:01:01 PM",
+    "topic": "Touch Bar MacBook Pro have non-upgradeable SSDs, seemingly under-sized batteries",
+    "url": "https://9to5mac.com/2016/11/15/2016-macbook-pro-non-removable-ssd-small-batteries/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:35:30 PM"
+  },
+  {
     "id": "12962410",
     "timestamp": "Nov 15, 2016 10:40:57 PM",
     "topic": "LeadGenius Hiring – Big Data Platform Engineer",
     "url": "https://jobs.lever.co/leadgenius/5a22212b-5ae4-47ca-b732-65d824eb10ad",
     "votes": 1,
     "posted": "Nov 15, 2016 10:31:52 PM"
+  },
+  {
+    "id": "12962369",
+    "timestamp": "Nov 15, 2016 11:01:01 PM",
+    "topic": "Thorough, not thoroughly fabricated: The truth about global temperature data",
+    "url": "http://arstechnica.com/science/2016/01/thorough-not-thoroughly-fabricated-the-truth-about-global-temperature-data",
+    "votes": 4,
+    "posted": "Nov 15, 2016 10:27:00 PM"
   },
   {
     "id": "12962338",
@@ -24,12 +96,28 @@ var newsArray = [
     "posted": "Nov 15, 2016 10:19:46 PM"
   },
   {
+    "id": "12962317",
+    "timestamp": "Nov 15, 2016 11:11:02 PM",
+    "topic": "Japanese road reopens one week after vast sinkhole appeared",
+    "url": "https://www.theguardian.com/world/2016/nov/15/japan-fixes-vast-fukuoka-city-sinkhole-repaired-two-days",
+    "votes": 4,
+    "posted": "Nov 15, 2016 10:18:31 PM"
+  },
+  {
     "id": "12962280",
     "timestamp": "Nov 15, 2016 10:51:00 PM",
     "topic": "Snap files for IPO",
     "url": "http://www.bloomberg.com/news/articles/2016-11-15/snapchat-files-confidentially-for-ipo-reuters",
     "votes": 5,
     "posted": "Nov 15, 2016 10:13:23 PM"
+  },
+  {
+    "id": "12962270",
+    "timestamp": "Nov 15, 2016 11:21:03 PM",
+    "topic": "Augmenting Human Intellect: A Conceptual Framework",
+    "url": "http://www.1962paper.org/web.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:12:07 PM"
   },
   {
     "id": "12962241",
@@ -62,6 +150,14 @@ var newsArray = [
     "url": "https://www.unrealengine.com/blog/unreal-engine-4-14-released",
     "votes": 5,
     "posted": "Nov 15, 2016 9:49:09 PM"
+  },
+  {
+    "id": "12962022",
+    "timestamp": "Nov 15, 2016 11:01:01 PM",
+    "topic": "Strange Numbers Found in Particle Collisions",
+    "url": "https://www.quantamagazine.org/20161115-strange-numbers-found-in-particle-collisions/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 9:42:07 PM"
   },
   {
     "id": "12961849",
@@ -205,6 +301,14 @@ var newsArray = [
     "url": "http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988",
     "votes": 4,
     "posted": "Nov 15, 2016 7:36:52 PM"
+  },
+  {
+    "id": "12960799",
+    "timestamp": "Nov 15, 2016 11:11:02 PM",
+    "topic": "PhotoScan by Google",
+    "url": "https://www.google.com/photos/scan/",
+    "votes": 9,
+    "posted": "Nov 15, 2016 7:33:47 PM"
   },
   {
     "id": "12960742",
@@ -397,6 +501,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 4:17:11 PM"
   },
   {
+    "id": "12958651",
+    "timestamp": "Nov 15, 2016 11:41:06 PM",
+    "topic": "Adversarial Neural Cryptography in TensorFlow",
+    "url": "https://github.com/ankeshanand/neural-cryptography-tensorflow",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:16:30 PM"
+  },
+  {
     "id": "12958505",
     "timestamp": "Nov 15, 2016 4:20:09 PM",
     "topic": "Yammer iOS App ported to Swift 3",
@@ -419,6 +531,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom?CMP\u003dtwt_gu",
     "votes": 3,
     "posted": "Nov 15, 2016 3:49:55 PM"
+  },
+  {
+    "id": "12958392",
+    "timestamp": "Nov 15, 2016 11:21:04 PM",
+    "topic": "Developers need to learn to negotiate",
+    "url": "http://www.expatsoftware.com/Articles/developers-should-learn-to-negotiate.html",
+    "votes": 5,
+    "posted": "Nov 15, 2016 3:48:44 PM"
   },
   {
     "id": "12958310",
@@ -2330,6 +2450,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 3:58:35 AM"
   },
   {
+    "id": "12947173",
+    "timestamp": "Nov 15, 2016 11:41:05 PM",
+    "topic": "The Beautiful, Magical World of Rajput Art",
+    "url": "http://www.nybooks.com/articles/2016/11/24/the-beautiful-magical-world-of-rajput-art/",
+    "votes": 11,
+    "posted": "Nov 14, 2016 3:46:54 AM"
+  },
+  {
     "id": "12947170",
     "timestamp": "Nov 14, 2016 4:06:44 AM",
     "topic": "Uses deep learning to caption img tags within page and fills out alt attributes",
@@ -3522,6 +3650,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?CMP\u003dshare_btn_tw",
     "votes": 4,
     "posted": "Nov 12, 2016 9:39:54 PM"
+  },
+  {
+    "id": "12939928",
+    "timestamp": "Nov 15, 2016 11:11:02 PM",
+    "topic": "Archeological 3D Mapping: The Structure from Motion Revolution",
+    "url": "https://drive.google.com/file/d/0B4p1SsI5fon7NFVGc1I0MG03S1k/view",
+    "votes": 6,
+    "posted": "Nov 12, 2016 9:14:34 PM"
   },
   {
     "id": "12939912",
@@ -8027,29 +8163,5 @@ var newsArray = [
     "url": "http://pluginfuture.com/charge-revelas-new-electric-truck/",
     "votes": 3,
     "posted": "Nov 8, 2016 11:56:12 PM"
-  },
-  {
-    "id": "12904561",
-    "timestamp": "Nov 9, 2016 1:25:39 AM",
-    "topic": "Impossible Spaceship Engine “EmDrive” Actually Works, Leaked NASA Report Reveals",
-    "url": "http://www.thedrive.com/news/5904/impossible-spaceship-engine-called-emdrive-actually-works-leaked-nasa-report-reveals",
-    "votes": 10,
-    "posted": "Nov 8, 2016 11:34:21 PM"
-  },
-  {
-    "id": "12904437",
-    "timestamp": "Nov 8, 2016 11:15:28 PM",
-    "topic": "Be the First Product Designer at Close.io",
-    "url": "https://jobs.lever.co/close.io/040dbdb1-66c5-4f34-bd20-9eedc48c89f8?lever-source\u003dHN",
-    "votes": 1,
-    "posted": "Nov 8, 2016 11:13:45 PM"
-  },
-  {
-    "id": "12904344",
-    "timestamp": "Nov 8, 2016 11:35:30 PM",
-    "topic": "Walgreens Seeks to Recover $140M Investment from Theranos",
-    "url": "http://www.wsj.com/articles/walgreens-seeks-to-recover-140-million-investment-from-theranos-1478642410",
-    "votes": 5,
-    "posted": "Nov 8, 2016 11:01:49 PM"
   }
 ];
