@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12961392",
+    "timestamp": "Nov 15, 2016 8:40:34 PM",
+    "topic": "The Post Virtual Reality Sadness",
+    "url": "https://medium.com/desk-of-van-schneider/the-post-virtual-reality-sadness-fb4a1ccacae4",
+    "votes": 3,
+    "posted": "Nov 15, 2016 8:34:14 PM"
+  },
+  {
+    "id": "12961241",
+    "timestamp": "Nov 15, 2016 8:30:33 PM",
+    "topic": "Bouncing bomb",
+    "url": "https://en.wikipedia.org/wiki/Bouncing_bomb",
+    "votes": 5,
+    "posted": "Nov 15, 2016 8:19:10 PM"
+  },
+  {
+    "id": "12961012",
+    "timestamp": "Nov 15, 2016 8:40:34 PM",
+    "topic": "CockroachDB Stability Post-Mortem: From 1 Node to 100 Nodes",
+    "url": "https://www.cockroachlabs.com/blog/cockroachdb-stability-from-1-node-to-100-nodes/",
+    "votes": 11,
+    "posted": "Nov 15, 2016 7:53:42 PM"
+  },
+  {
+    "id": "12960914",
+    "timestamp": "Nov 15, 2016 8:00:31 PM",
+    "topic": "Firefox 50 is out today: brings massively improved startup speeds",
+    "url": "https://www.neowin.net/news/firefox-50-is-out-today-brings-massively-improved-start-up-speeds",
+    "votes": 3,
+    "posted": "Nov 15, 2016 7:42:55 PM"
+  },
+  {
+    "id": "12960889",
+    "timestamp": "Nov 15, 2016 8:50:35 PM",
+    "topic": "779,236 Java Logging Statements, 1,313 GitHub Repos: ERROR, WARN or FATAL?",
+    "url": "http://blog.takipi.com/779236-java-logging-statements-1313-github-repositories-error-warn-or-fatal/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 7:41:10 PM"
+  },
+  {
     "id": "12960742",
     "timestamp": "Nov 15, 2016 7:50:30 PM",
     "topic": "Mozilla Firefox 50",
     "url": "https://www.mozilla.org/en%2DUS/firefox/50.0/releasenotes/",
     "votes": 12,
     "posted": "Nov 15, 2016 7:28:00 PM"
+  },
+  {
+    "id": "12960606",
+    "timestamp": "Nov 15, 2016 8:10:32 PM",
+    "topic": "General Electric Buys Vancouver Startup Bit Stew for $153M",
+    "url": "http://www.theglobeandmail.com/technology/general-electric-buys-vancouver-startup-bit-stew-for-153-million/article32841507/?utm_source\u003dShared+Article+Sent+to+User\u0026utm_medium\u003dE-mail:+Newsletters+/+E-Blasts+/+etc.\u0026utm_campaign\u003dShared+Web+Article+Links",
+    "votes": 3,
+    "posted": "Nov 15, 2016 7:16:38 PM"
   },
   {
     "id": "12960561",
@@ -380,6 +428,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 1:05:23 PM"
   },
   {
+    "id": "12957331",
+    "timestamp": "Nov 15, 2016 8:30:33 PM",
+    "topic": "Mining of Massive Datasets",
+    "url": "http://www.mmds.org/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 1:00:59 PM"
+  },
+  {
     "id": "12957305",
     "timestamp": "Nov 15, 2016 7:40:29 PM",
     "topic": "Show HN: Re-coloring images for the color blind",
@@ -434,6 +490,14 @@ var newsArray = [
     "url": "http://blog.vodafone.co.uk/2016/11/09/improving-network-numbers-10-mind-blowing-facts-mobile-signal-uk/",
     "votes": 3,
     "posted": "Nov 15, 2016 11:32:16 AM"
+  },
+  {
+    "id": "12956885",
+    "timestamp": "Nov 15, 2016 8:50:35 PM",
+    "topic": "Show HN: Eskéndereyya – Learn how to read and write Arabic",
+    "url": "https://github.com/samihasan/eskendereyya",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:08:32 AM"
   },
   {
     "id": "12956845",
@@ -1197,6 +1261,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/14/business/media/can-libel-laws-be-changed-under-trump.html?em_pos\u003dsmall\u0026emc\u003dedit_dk_20161114\u0026nl\u003ddealbook\u0026nl_art\u003d4\u0026nlid\u003d65508833\u0026ref\u003dheadline\u0026te\u003d1",
     "votes": 3,
     "posted": "Nov 14, 2016 10:36:47 PM"
+  },
+  {
+    "id": "12953567",
+    "timestamp": "Nov 15, 2016 8:00:31 PM",
+    "topic": "Charles Boycott was so hated that he is the eponym for the English verb boycott",
+    "url": "http://www.thevintagenews.com/2016/10/25/charles-boycott-was-so-hated-by-the-community-that-he-is-the-eponym-for-the-english-verb-boycott/",
+    "votes": 3,
+    "posted": "Nov 14, 2016 10:33:55 PM"
   },
   {
     "id": "12953526",
@@ -7843,37 +7915,5 @@ var newsArray = [
     "url": "http://reallifemag.com/verbal-tics/",
     "votes": 3,
     "posted": "Nov 8, 2016 9:12:42 PM"
-  },
-  {
-    "id": "12903359",
-    "timestamp": "Nov 8, 2016 9:15:07 PM",
-    "topic": "Apple Engineer Talks About New 2016 Macbook Pro",
-    "url": "https://www.youtube.com/watch?v\u003dQNHGDmbbzUU",
-    "votes": 4,
-    "posted": "Nov 8, 2016 8:47:55 PM"
-  },
-  {
-    "id": "12903032",
-    "timestamp": "Nov 8, 2016 8:25:02 PM",
-    "topic": "Kotlin 1.0.5 is here",
-    "url": "https://blog.jetbrains.com/kotlin/2016/11/kotlin-1-0-5-is-here/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 8:09:48 PM"
-  },
-  {
-    "id": "12903005",
-    "timestamp": "Nov 8, 2016 8:35:03 PM",
-    "topic": "Self Driving Car Engineer Deep Dive…",
-    "url": "https://medium.com/@paysa/self-driving-car-engineer-deep-dive-89b814f3ff04#.wl9u5ihhm",
-    "votes": 5,
-    "posted": "Nov 8, 2016 8:06:42 PM"
-  },
-  {
-    "id": "12902887",
-    "timestamp": "Nov 8, 2016 8:55:05 PM",
-    "topic": "Benefits of using tmux – streamlining your development environment",
-    "url": "https://blog.bugsnag.com/benefits-of-using-tmux/",
-    "votes": 6,
-    "posted": "Nov 8, 2016 7:52:57 PM"
   }
 ];
