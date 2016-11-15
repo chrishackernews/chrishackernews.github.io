@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12960169",
+    "timestamp": "Nov 15, 2016 6:50:24 PM",
+    "topic": "A One-Line Proof of the Infinitude of Primes",
+    "url": "http://fermatslibrary.com/s/a-one-line-proof-of-the-infinitude-of-primes",
+    "votes": 10,
+    "posted": "Nov 15, 2016 6:33:30 PM"
+  },
+  {
+    "id": "12960149",
+    "timestamp": "Nov 15, 2016 6:50:24 PM",
+    "topic": "“I\u0027m sorry Mr. Zuckerberg, but you are wrong”, on compound effects of false news",
+    "url": "https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424#.sg9c81jue",
+    "votes": 4,
+    "posted": "Nov 15, 2016 6:31:37 PM"
+  },
+  {
+    "id": "12959804",
+    "timestamp": "Nov 15, 2016 6:40:23 PM",
+    "topic": "Ask HN: Alternatives to Fogbugz",
+    "votes": 4,
+    "posted": "Nov 15, 2016 5:56:48 PM"
+  },
+  {
     "id": "12959457",
     "timestamp": "Nov 15, 2016 5:40:18 PM",
     "topic": "Backblaze hard drive reliability stats for Q3 2016",
@@ -56,6 +79,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 4:35:36 PM"
   },
   {
+    "id": "12958809",
+    "timestamp": "Nov 15, 2016 6:40:23 PM",
+    "topic": "Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",
+    "url": "http://www.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:34:59 PM"
+  },
+  {
     "id": "12958754",
     "timestamp": "Nov 15, 2016 4:40:12 PM",
     "topic": "Is Nuclear Power Vital to Hitting CO2 Emissions Targets?",
@@ -78,6 +109,14 @@ var newsArray = [
     "url": "https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1",
     "votes": 3,
     "posted": "Nov 15, 2016 4:00:33 PM"
+  },
+  {
+    "id": "12958445",
+    "timestamp": "Nov 15, 2016 6:00:20 PM",
+    "topic": "Show HN: Primitive for macOS",
+    "url": "https://primitive.lol/",
+    "votes": 17,
+    "posted": "Nov 15, 2016 3:54:01 PM"
   },
   {
     "id": "12958403",
@@ -215,6 +254,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 1:59:46 PM"
   },
   {
+    "id": "12957537",
+    "timestamp": "Nov 15, 2016 6:20:21 PM",
+    "topic": "The Fact and Fiction of the NASA EmDrive Paper Leak",
+    "url": "http://motherboard.vice.com/read/the-fact-and-fiction-of-the-nasa-emdrive-paper-leak",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:48:25 PM"
+  },
+  {
     "id": "12957476",
     "timestamp": "Nov 15, 2016 2:19:58 PM",
     "topic": "“Designed by Apple in California” chronicles 20 years of Apple design",
@@ -229,6 +276,14 @@ var newsArray = [
     "url": "http://www.motortrend.com/news/chevrolet-bolt-ev-2017-car-of-the-year/",
     "votes": 5,
     "posted": "Nov 15, 2016 1:34:08 PM"
+  },
+  {
+    "id": "12957420",
+    "timestamp": "Nov 15, 2016 6:50:24 PM",
+    "topic": "Climate Models for Lawyers",
+    "url": "https://judithcurry.com/2016/11/12/climate-models-for-lawyers/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:22:06 PM"
   },
   {
     "id": "12957371",
@@ -442,6 +497,13 @@ var newsArray = [
     "url": "https://www.icracked.com/careers",
     "votes": 1,
     "posted": "Nov 15, 2016 7:17:28 AM"
+  },
+  {
+    "id": "12955967",
+    "timestamp": "Nov 15, 2016 6:10:21 PM",
+    "topic": "Scala slack channel",
+    "votes": 3,
+    "posted": "Nov 15, 2016 7:04:41 AM"
   },
   {
     "id": "12955881",
@@ -7773,76 +7835,5 @@ var newsArray = [
     "url": "https://github.com/marciok/Mu#writing-your-own-programming-language",
     "votes": 7,
     "posted": "Nov 8, 2016 6:57:09 PM"
-  },
-  {
-    "id": "12902304",
-    "timestamp": "Nov 8, 2016 7:54:59 PM",
-    "topic": "So you think you know C?",
-    "url": "https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6",
-    "votes": 4,
-    "posted": "Nov 8, 2016 6:45:22 PM"
-  },
-  {
-    "id": "12902197",
-    "timestamp": "Nov 8, 2016 9:05:06 PM",
-    "topic": "Announcing TypeScript 2.1 RC: Better Inference, Async Functions, and More",
-    "url": "https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more",
-    "votes": 3,
-    "posted": "Nov 8, 2016 6:34:03 PM"
-  },
-  {
-    "id": "12902159",
-    "timestamp": "Nov 9, 2016 5:56:00 AM",
-    "topic": "Show HN: Taste Movies – Watch movies based on your taste",
-    "url": "https://www.taste.io?ref\u003dhn",
-    "votes": 20,
-    "posted": "Nov 8, 2016 6:30:14 PM"
-  },
-  {
-    "id": "12901933",
-    "timestamp": "Nov 8, 2016 7:24:55 PM",
-    "topic": "Ben Silbermann at Startup School [video]",
-    "url": "http://themacro.com/articles/2016/11/ben-silbermann-at-startup-school/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 6:07:15 PM"
-  },
-  {
-    "id": "12901921",
-    "timestamp": "Nov 8, 2016 8:55:05 PM",
-    "topic": "Show HN: Browse YC Pitches and Pitch to Potential Hires",
-    "url": "https://humblerise.com?keyword\u003dhackernews",
-    "votes": 5,
-    "posted": "Nov 8, 2016 6:05:56 PM"
-  },
-  {
-    "id": "12901905",
-    "timestamp": "Nov 8, 2016 6:14:49 PM",
-    "topic": "How the Chinese Great Firewall fights off services like Tor",
-    "url": "http://fermatslibrary.com/s/examining-how-the-great-firewall-discovers-hidden-circumvention-servers",
-    "votes": 7,
-    "posted": "Nov 8, 2016 6:04:10 PM"
-  },
-  {
-    "id": "12901899",
-    "timestamp": "Nov 8, 2016 8:45:04 PM",
-    "topic": "Introducing Bloaty McBloatface: a size profiler for binaries",
-    "url": "http://blog.reverberate.org/2016/11/07/introducing-bloaty-mcbloatface.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 6:03:47 PM"
-  },
-  {
-    "id": "12901849",
-    "timestamp": "Nov 8, 2016 7:34:56 PM",
-    "topic": "Ask HN: When did you feel to resign/leave your last job?",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:59:34 PM"
-  },
-  {
-    "id": "12901761",
-    "timestamp": "Nov 9, 2016 5:56:00 AM",
-    "topic": "Show HN: Nymeria – Find LinkedIn and GitHub User Emails",
-    "url": "https://www.nymeria.io",
-    "votes": 9,
-    "posted": "Nov 8, 2016 5:50:42 PM"
   }
 ];
