@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12958201",
+    "timestamp": "Nov 15, 2016 3:50:07 PM",
+    "topic": "BBC: Why India wiped out 86% of its cash overnight",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-37974423",
+    "votes": 3,
+    "posted": "Nov 15, 2016 3:26:33 PM"
+  },
+  {
+    "id": "12958156",
+    "timestamp": "Nov 15, 2016 3:50:06 PM",
+    "topic": "Progress on addressing online abuse",
+    "url": "https://blog.twitter.com/2016/progress-on-addressing-online-abuse",
+    "votes": 5,
+    "posted": "Nov 15, 2016 3:20:52 PM"
+  },
+  {
+    "id": "12958124",
+    "timestamp": "Nov 15, 2016 3:50:06 PM",
+    "topic": "Russians Fit Cell Towers with Pole-21 Missile Defense System",
+    "url": "https://edgylabs.com/2016/11/15/pole-21-missile-defense-system/",
+    "votes": 8,
+    "posted": "Nov 15, 2016 3:16:58 PM"
+  },
+  {
+    "id": "12958093",
+    "timestamp": "Nov 15, 2016 3:20:04 PM",
+    "topic": "Le Tote (YC S13) Is Hiring a Sr. Full Stack Engineer, Disrupt Fashion with Us",
+    "url": "http://grnh.se/5ybu4t1",
+    "votes": 1,
+    "posted": "Nov 15, 2016 3:13:08 PM"
+  },
+  {
+    "id": "12957896",
+    "timestamp": "Nov 15, 2016 3:00:02 PM",
+    "topic": "An Ancient Tsunami That Ended a Civilization Gets Another Look",
+    "url": "http://www.nytimes.com/2016/11/10/science/santorini-akrotiri-tsunami.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 2:46:32 PM"
+  },
+  {
     "id": "12957808",
     "timestamp": "Nov 15, 2016 2:50:01 PM",
     "topic": "VR Sales Analysis: Rift and Vive to Sell Under 500K in 2016, PS VR to Top 2M",
@@ -8,12 +48,28 @@ var newsArray = [
     "posted": "Nov 15, 2016 2:34:58 PM"
   },
   {
+    "id": "12957787",
+    "timestamp": "Nov 15, 2016 3:10:03 PM",
+    "topic": "The Real Leadership Lessons of Steve Jobs",
+    "url": "https://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs",
+    "votes": 4,
+    "posted": "Nov 15, 2016 2:32:05 PM"
+  },
+  {
     "id": "12957775",
     "timestamp": "Nov 15, 2016 2:40:00 PM",
     "topic": "Navy denies it pirated 558K copies of software, says contractor consented",
     "url": "http://arstechnica.com/tech-policy/2016/11/navy-denies-it-pirated-558k-copies-of-software-says-contractor-consented/",
     "votes": 3,
     "posted": "Nov 15, 2016 2:30:08 PM"
+  },
+  {
+    "id": "12957745",
+    "timestamp": "Nov 15, 2016 3:00:02 PM",
+    "topic": "Fix Windows 10 Privacy",
+    "url": "https://modzero.github.io/fix-windows-privacy/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 2:26:48 PM"
   },
   {
     "id": "12957672",
@@ -77,6 +133,14 @@ var newsArray = [
     "url": "http://www.fyquah.me/projects/cups/simulate/",
     "votes": 5,
     "posted": "Nov 15, 2016 12:13:19 PM"
+  },
+  {
+    "id": "12957116",
+    "timestamp": "Nov 15, 2016 3:50:06 PM",
+    "topic": "What is randomness? (2013)",
+    "url": "http://etceterology.com/blog/2013/4/6/what-is-randomness",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:08:17 PM"
   },
   {
     "id": "12956967",
@@ -7722,132 +7786,5 @@ var newsArray = [
     "url": "http://qz.com/830533/the-whole-world-ought-to-be-concerned-hong-kong-lawyers-react-to-beijings-clarification-on-oaths/",
     "votes": 9,
     "posted": "Nov 8, 2016 3:58:00 PM"
-  },
-  {
-    "id": "12900571",
-    "timestamp": "Nov 8, 2016 4:04:34 PM",
-    "topic": "Microsoft Is Now \u0027Open by Default\u0027, Says Xamarin Founder Miguel de Icaza",
-    "url": "http://www.forbes.com/sites/adrianbridgwater/2016/11/08/microsoft-is-now-open-by-default-says-xamarin-founder-miguel-de-icaza/#5ed2c7b520e7",
-    "votes": 4,
-    "posted": "Nov 8, 2016 3:41:40 PM"
-  },
-  {
-    "id": "12900548",
-    "timestamp": "Nov 8, 2016 4:14:35 PM",
-    "topic": "Hyperloop may become reality in Dubai",
-    "url": "http://www.bbc.com/news/technology-37908915",
-    "votes": 6,
-    "posted": "Nov 8, 2016 3:39:15 PM"
-  },
-  {
-    "id": "12900537",
-    "timestamp": "Nov 8, 2016 4:04:34 PM",
-    "topic": "Startups are overdosing on ambition these days",
-    "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:38:16 PM"
-  },
-  {
-    "id": "12900515",
-    "timestamp": "Nov 8, 2016 4:14:35 PM",
-    "topic": "Ask HN: How do I protect my parents from the internet?",
-    "votes": 12,
-    "posted": "Nov 8, 2016 3:35:44 PM"
-  },
-  {
-    "id": "12900479",
-    "timestamp": "Nov 8, 2016 3:34:31 PM",
-    "topic": "Canopy Labs (YC S12) Is Hiring for BDR / Account Executive Roles",
-    "url": "https://canopylabs.com/careers#openings",
-    "votes": 1,
-    "posted": "Nov 8, 2016 3:32:02 PM"
-  },
-  {
-    "id": "12900458",
-    "timestamp": "Nov 8, 2016 4:14:37 PM",
-    "topic": "Elon Musk says ppl should receive a universal income once robots take their jobs",
-    "url": "http://www.independent.co.uk/news/people/elon-musk-universal-income-robots-ai-tesla-spacex-a7402556.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:30:01 PM"
-  },
-  {
-    "id": "12900432",
-    "timestamp": "Nov 8, 2016 4:14:35 PM",
-    "topic": "Exit polls aren\u0027t what you think they are",
-    "url": "https://nuttersandnuttier.com/exit-polls-arent-what-you-think-they-are-e93d031726fb#.z8cow174n",
-    "votes": 7,
-    "posted": "Nov 8, 2016 3:26:46 PM"
-  },
-  {
-    "id": "12900429",
-    "timestamp": "Nov 8, 2016 4:14:36 PM",
-    "topic": "Islamophobia killed my brother. Let\u0027s end the hate",
-    "url": "https://www.ted.com/talks/suzanne_barakat_islamophobia_killed_my_brother_let_s_end_the_hate",
-    "votes": 5,
-    "posted": "Nov 8, 2016 3:26:19 PM"
-  },
-  {
-    "id": "12900412",
-    "timestamp": "Nov 8, 2016 4:34:39 PM",
-    "topic": "Google Trends Electionland",
-    "url": "http://electionlandtrends.appspot.com/",
-    "votes": 5,
-    "posted": "Nov 8, 2016 3:24:24 PM"
-  },
-  {
-    "id": "12900357",
-    "timestamp": "Nov 8, 2016 4:14:35 PM",
-    "topic": "China’s Internet Controls Will Get Stricter, to Dismay of Foreign Business",
-    "url": "http://www.nytimes.com/2016/11/08/business/international/china-cyber-security-regulations.html?ref\u003dtechnology",
-    "votes": 7,
-    "posted": "Nov 8, 2016 3:18:06 PM"
-  },
-  {
-    "id": "12900349",
-    "timestamp": "Nov 8, 2016 4:14:36 PM",
-    "topic": "Google accused of burying webmail service on search results",
-    "url": "https://www.theguardian.com/technology/2016/nov/07/google-burying-webmail-service-search-results-protonmail",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:16:58 PM"
-  },
-  {
-    "id": "12900304",
-    "timestamp": "Nov 8, 2016 4:14:36 PM",
-    "topic": "Former-gang members get their tattoos digitally removed",
-    "url": "http://www.thememo.com/2016/11/08/skin-deep-gang-photos-skin-deep-kickstarter-skin-deep-tattoo-project/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 3:09:41 PM"
-  },
-  {
-    "id": "12900298",
-    "timestamp": "Nov 9, 2016 5:05:55 AM",
-    "topic": "Show HN: Cloud storage abstraction package for Go",
-    "url": "https://medium.com/@matryer/introducing-stow-cloud-storage-abstraction-package-for-go-20cf2928d93c#.j6l0q5oxb",
-    "votes": 7,
-    "posted": "Nov 8, 2016 3:09:10 PM"
-  },
-  {
-    "id": "12900279",
-    "timestamp": "Nov 8, 2016 4:14:37 PM",
-    "topic": "So you think you know C?",
-    "url": "https://medium.com/@okaleniuk/so-you-think-you-know-c-8d4e2cd6f6a6#.eogq49y4a",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:07:08 PM"
-  },
-  {
-    "id": "12900257",
-    "timestamp": "Nov 8, 2016 4:24:38 PM",
-    "topic": "Your market size is only a fraction of what you think it is",
-    "url": "https://medium.com/startup-grind/your-market-size-is-only-a-fraction-of-what-you-think-it-is-f31f79cd1e95#.yu8lso655",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:02:34 PM"
-  },
-  {
-    "id": "12900226",
-    "timestamp": "Nov 8, 2016 4:34:40 PM",
-    "topic": "Trade votes with voters from swing states",
-    "url": "http://www.pbs.org/newshour/bb/apps-trade-votes-clinton-swing-states/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 2:58:20 PM"
   }
 ];
