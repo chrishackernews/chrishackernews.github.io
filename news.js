@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12956059",
+    "timestamp": "Nov 15, 2016 7:49:26 AM",
+    "topic": "Do you really want an SPA framework? – Michael S. Mikowski",
+    "url": "https://mmikowski.github.io/no-frameworks/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 7:25:08 AM"
+  },
+  {
+    "id": "12956025",
+    "timestamp": "Nov 15, 2016 7:19:24 AM",
+    "topic": "Launch new verticals at iCracked – PMs and Engineers join us",
+    "url": "https://www.icracked.com/careers",
+    "votes": 1,
+    "posted": "Nov 15, 2016 7:17:28 AM"
+  },
+  {
+    "id": "12955814",
+    "timestamp": "Nov 15, 2016 7:49:26 AM",
+    "topic": "CertiKOS: A breakthrough toward hacker-resistant operating systems",
+    "url": "http://news.yale.edu/2016/11/14/certikos-breakthrough-toward-hacker-resistant-operating-systems",
+    "votes": 6,
+    "posted": "Nov 15, 2016 6:21:36 AM"
+  },
+  {
+    "id": "12955764",
+    "timestamp": "Nov 15, 2016 7:49:26 AM",
+    "topic": "Why cute drawings?",
+    "url": "http://jvns.ca/blog/2016/11/14/why-cute-drawings/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 6:11:29 AM"
+  },
+  {
     "id": "12955729",
     "timestamp": "Nov 15, 2016 6:09:18 AM",
     "topic": "Marijuana Weakens Heart Muscles in Adult Males",
     "url": "http://www.cnn.com/2016/11/13/health/marijuana-weakens-heart/index.html",
     "votes": 3,
     "posted": "Nov 15, 2016 6:02:43 AM"
+  },
+  {
+    "id": "12955717",
+    "timestamp": "Nov 15, 2016 7:59:27 AM",
+    "topic": "JetBrains Rider EAP (C# IDE)",
+    "url": "https://www.jetbrains.com/rider/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 5:59:38 AM"
+  },
+  {
+    "id": "12955697",
+    "timestamp": "Nov 15, 2016 7:59:27 AM",
+    "topic": "MacPaw\u0027s “Netflix for Apps” 40 Apps for 10$ a Month",
+    "url": "http://thenextweb.com/apps/2016/11/06/setapp-wants-netflix-macos-applications/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 5:55:44 AM"
   },
   {
     "id": "12955593",
@@ -16,12 +64,36 @@ var newsArray = [
     "posted": "Nov 15, 2016 5:33:55 AM"
   },
   {
+    "id": "12955574",
+    "timestamp": "Nov 15, 2016 7:59:27 AM",
+    "topic": "EC2 Price Reduction (C4, M4, and T2 Instances)",
+    "url": "https://aws.amazon.com/blogs/aws/ec2-price-reduction-c4-m4-and-t2-instances/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 5:26:18 AM"
+  },
+  {
+    "id": "12955529",
+    "timestamp": "Nov 15, 2016 7:59:28 AM",
+    "topic": "Primitive Technology: Forge Blower [video]",
+    "url": "https://www.youtube.com/watch?v\u003dVVV4xeWBIxE",
+    "votes": 3,
+    "posted": "Nov 15, 2016 5:13:04 AM"
+  },
+  {
     "id": "12955503",
     "timestamp": "Nov 15, 2016 5:59:17 AM",
     "topic": "Death of the hatchet job",
     "url": "http://www.newstatesman.com/politics/uk/2016/11/death-hatchet-job",
     "votes": 3,
     "posted": "Nov 15, 2016 5:04:18 AM"
+  },
+  {
+    "id": "12955484",
+    "timestamp": "Nov 15, 2016 7:59:28 AM",
+    "topic": "Major linux bug allows root shell by holding enter key",
+    "url": "http://www.zdnet.com/article/major-linux-security-hole-gapes-open/",
+    "votes": 9,
+    "posted": "Nov 15, 2016 4:57:04 AM"
   },
   {
     "id": "12955476",
@@ -46,6 +118,13 @@ var newsArray = [
     "url": "http://www.chriskrycho.com/2016/using-rust-for-scripting.html",
     "votes": 4,
     "posted": "Nov 15, 2016 4:48:44 AM"
+  },
+  {
+    "id": "12955441",
+    "timestamp": "Nov 15, 2016 7:19:24 AM",
+    "topic": "Ask HN: What could developers do to help the Ops Team?",
+    "votes": 4,
+    "posted": "Nov 15, 2016 4:47:21 AM"
   },
   {
     "id": "12955430",
@@ -136,12 +215,28 @@ var newsArray = [
     "posted": "Nov 15, 2016 2:29:13 AM"
   },
   {
+    "id": "12954878",
+    "timestamp": "Nov 15, 2016 7:59:27 AM",
+    "topic": "Running Arch Linux on the Lenovo Yoga 910",
+    "url": "http://chaos-reins.com/2016-11-14-arch-yoga-910/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 2:25:51 AM"
+  },
+  {
     "id": "12954839",
     "timestamp": "Nov 15, 2016 3:09:02 AM",
     "topic": "Silicon Valley was worried about the wrong bubble",
     "url": "http://www.businessinsider.com/how-silicon-valley-missed-trump-2016-11",
     "votes": 5,
     "posted": "Nov 15, 2016 2:14:36 AM"
+  },
+  {
+    "id": "12954838",
+    "timestamp": "Nov 15, 2016 7:59:28 AM",
+    "topic": "Auto generating CMS based on your GraphQL schema",
+    "url": "https://medium.com/@sarkis.tlt/auto-generating-cms-based-on-your-graphql-schema-5eaa6b07987b#.8v2d0mj7n",
+    "votes": 4,
+    "posted": "Nov 15, 2016 2:14:17 AM"
   },
   {
     "id": "12954825",
@@ -293,6 +388,14 @@ var newsArray = [
     "url": "http://vicsydev.blogspot.com/2016/11/the-malloc-challenge.html",
     "votes": 4,
     "posted": "Nov 15, 2016 12:54:23 AM"
+  },
+  {
+    "id": "12954402",
+    "timestamp": "Nov 15, 2016 7:59:28 AM",
+    "topic": "Show HN: Node and Stripe Integration",
+    "url": "https://github.com/mjhea0/node-stripe-charge",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:49:23 AM"
   },
   {
     "id": "12954392",
@@ -7764,20 +7867,5 @@ var newsArray = [
     "url": "https://www.plangrid.com/jobs/",
     "votes": 1,
     "posted": "Nov 8, 2016 8:18:01 AM"
-  },
-  {
-    "id": "12898257",
-    "timestamp": "Nov 8, 2016 8:23:56 AM",
-    "topic": "America has never had so much TV, and even Hollywood is overwhelmed",
-    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/07/america-has-never-had-so-much-tv-and-even-hollywood-is-overwhelmed/#comments",
-    "votes": 6,
-    "posted": "Nov 8, 2016 7:59:13 AM"
-  },
-  {
-    "id": "12898236",
-    "timestamp": "Nov 8, 2016 8:13:56 AM",
-    "topic": "Normal for recruiters to ask for last 4 of your social / dob on first call?",
-    "votes": 5,
-    "posted": "Nov 8, 2016 7:52:39 AM"
   }
 ];
