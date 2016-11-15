@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12959457",
+    "timestamp": "Nov 15, 2016 5:40:18 PM",
+    "topic": "Backblaze hard drive reliability stats for Q3 2016",
+    "url": "https://www.backblaze.com/blog/hard-drive-failure-rates-q3-2016/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 5:30:16 PM"
+  },
+  {
+    "id": "12959313",
+    "timestamp": "Nov 15, 2016 5:30:17 PM",
+    "topic": "HP Unveils Industry’s First-Ever Mini Workstation",
+    "url": "http://www8.hp.com/us/en/hp-news/press-release.html?id\u003d2364757",
+    "votes": 3,
+    "posted": "Nov 15, 2016 5:19:16 PM"
+  },
+  {
+    "id": "12958964",
+    "timestamp": "Nov 15, 2016 5:20:16 PM",
+    "topic": "100M Photos – Geotagged, Connected, and Available for All",
+    "url": "http://blog.mapillary.com/update/2016/11/15/100-million-photos-geotagged-connected-and-available-for-all.html",
+    "votes": 7,
+    "posted": "Nov 15, 2016 4:48:39 PM"
+  },
+  {
+    "id": "12958957",
+    "timestamp": "Nov 15, 2016 5:20:16 PM",
+    "topic": "How We Make Money at Stack Overflow: 2016 Edition",
+    "url": "http://stackoverflow.blog/2016/11/How-We-Make-Money-at-Stack-Overflow-2016-Edition/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 4:48:07 PM"
+  },
+  {
+    "id": "12958844",
+    "timestamp": "Nov 15, 2016 5:10:14 PM",
+    "topic": "Ubuntu 16.10 and Unity 8 overview",
+    "url": "http://www.dedoimedo.com/computers/ubuntu-yak-unity-8.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:38:52 PM"
+  },
+  {
+    "id": "12958818",
+    "timestamp": "Nov 15, 2016 5:10:15 PM",
+    "topic": "15-Inch MacBook Pro with Touch Bar Has Non-Removable SSD",
+    "url": "http://www.macrumors.com/2016/11/15/macbook-pro-touch-bar-non-removable-ssd/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 4:36:06 PM"
+  },
+  {
+    "id": "12958813",
+    "timestamp": "Nov 15, 2016 5:30:17 PM",
+    "topic": "Show HN: Commits.io - Create a poster from your code and logo",
+    "url": "https://commits.io",
+    "votes": 4,
+    "posted": "Nov 15, 2016 4:35:36 PM"
+  },
+  {
     "id": "12958754",
     "timestamp": "Nov 15, 2016 4:40:12 PM",
     "topic": "Is Nuclear Power Vital to Hitting CO2 Emissions Targets?",
@@ -30,6 +86,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom?CMP\u003dtwt_gu",
     "votes": 3,
     "posted": "Nov 15, 2016 3:49:55 PM"
+  },
+  {
+    "id": "12958310",
+    "timestamp": "Nov 15, 2016 5:10:15 PM",
+    "topic": "The Stupidly Expensive June Oven Is Actually Stupidly Amazing",
+    "url": "http://gizmodo.com/the-stupidly-expensive-june-oven-is-actually-stupidly-a-1788068498",
+    "votes": 3,
+    "posted": "Nov 15, 2016 3:39:03 PM"
   },
   {
     "id": "12958201",
@@ -77,6 +141,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/10/science/santorini-akrotiri-tsunami.html",
     "votes": 4,
     "posted": "Nov 15, 2016 2:46:32 PM"
+  },
+  {
+    "id": "12957873",
+    "timestamp": "Nov 15, 2016 5:40:18 PM",
+    "topic": "ARMv8 in the Datacenter – 96 physical cores 0.50/hr",
+    "url": "https://www.packet.net/bare-metal/servers/type-2a/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 2:43:56 PM"
   },
   {
     "id": "12957808",
@@ -174,6 +246,22 @@ var newsArray = [
     "posted": "Nov 15, 2016 1:05:23 PM"
   },
   {
+    "id": "12957302",
+    "timestamp": "Nov 15, 2016 5:00:14 PM",
+    "topic": "Interview with Ted Chiang, the scifi mastermind behind \u0027Arrival\u0027",
+    "url": "https://medium.com/learning-for-life/stories-of-ted-chiangs-life-and-others-694cb3c80d13",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:54:43 PM"
+  },
+  {
+    "id": "12957293",
+    "timestamp": "Nov 15, 2016 5:00:13 PM",
+    "topic": "People who divide like an amoeba thought experiment",
+    "url": "https://thoughtexperiments.net/people-who-divide-like-an-amoeba/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 12:52:20 PM"
+  },
+  {
     "id": "12957206",
     "timestamp": "Nov 15, 2016 1:19:53 PM",
     "topic": "Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",
@@ -211,6 +299,22 @@ var newsArray = [
     "topic": "Ask HN: Best encrypted messaging app atm?",
     "votes": 3,
     "posted": "Nov 15, 2016 10:58:11 AM"
+  },
+  {
+    "id": "12956809",
+    "timestamp": "Nov 15, 2016 5:30:17 PM",
+    "topic": "Google will soon ban fake news sites from using its ad network",
+    "url": "http://www.theverge.com/2016/11/14/13630722/google-fake-news-advertising-ban-2016-us-election",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:47:20 AM"
+  },
+  {
+    "id": "12956807",
+    "timestamp": "Nov 15, 2016 5:40:18 PM",
+    "topic": "Why Do We Pay Pure Mathematicians?",
+    "url": "https://mathwithbaddrawings.com/2015/02/24/why-do-we-pay-mathematicians/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:47:06 AM"
   },
   {
     "id": "12956798",
@@ -906,6 +1010,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 11:07:36 PM"
   },
   {
+    "id": "12953776",
+    "timestamp": "Nov 15, 2016 5:50:19 PM",
+    "topic": "Time Warp",
+    "url": "http://anguspmitchell.com/index.php/2016/11/10/time-warp/",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:03:47 PM"
+  },
+  {
     "id": "12953738",
     "timestamp": "Nov 15, 2016 12:28:45 AM",
     "topic": "Expedia’s German Hotel-Booking Site Trivago Files for IPO",
@@ -1268,6 +1380,14 @@ var newsArray = [
     "url": "http://www.vox.com/first-person/2016/11/14/13513066/universal-basic-income-crowdfund",
     "votes": 5,
     "posted": "Nov 14, 2016 6:57:48 PM"
+  },
+  {
+    "id": "12951735",
+    "timestamp": "Nov 15, 2016 5:20:16 PM",
+    "topic": "Hunting submarines with magnets",
+    "url": "http://www.economist.com/news/science-and-technology/21709948-new-way-detect-even-quietest-boats-hunting-submarines-magnets",
+    "votes": 3,
+    "posted": "Nov 14, 2016 6:56:15 PM"
   },
   {
     "id": "12951724",
@@ -7724,76 +7844,5 @@ var newsArray = [
     "url": "https://www.nymeria.io",
     "votes": 9,
     "posted": "Nov 8, 2016 5:50:42 PM"
-  },
-  {
-    "id": "12901724",
-    "timestamp": "Nov 8, 2016 6:04:48 PM",
-    "topic": "How settling Mars could create a new human species",
-    "url": "http://nautil.us/issue/41/selection/the-martians-are-comingand-theyre-human",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:47:08 PM"
-  },
-  {
-    "id": "12901660",
-    "timestamp": "Nov 8, 2016 5:54:47 PM",
-    "topic": "Emergent Gravity and the Dark Universe",
-    "url": "https://arxiv.org/abs/1611.02269",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:40:45 PM"
-  },
-  {
-    "id": "12901570",
-    "timestamp": "Nov 8, 2016 6:24:50 PM",
-    "topic": "A keyboard for your back",
-    "url": "https://medium.com/@tartavull/thor-your-next-keyboard-20b9ce7dd2b1#.8740gcgm7",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:31:39 PM"
-  },
-  {
-    "id": "12901506",
-    "timestamp": "Nov 8, 2016 5:54:47 PM",
-    "topic": "Micro web-framework for COBOL",
-    "url": "https://github.com/azac/cobol-on-wheelchair",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:25:06 PM"
-  },
-  {
-    "id": "12901501",
-    "timestamp": "Nov 8, 2016 6:44:52 PM",
-    "topic": "The moment of truth arrives for the USC/L.A. Times tracking poll",
-    "url": "http://www.latimes.com/politics/la-na-pol-usc-latimes-poll-20161108-story.html",
-    "votes": 3,
-    "posted": "Nov 8, 2016 5:24:40 PM"
-  },
-  {
-    "id": "12901407",
-    "timestamp": "Nov 8, 2016 6:04:48 PM",
-    "topic": "Assange Statement on the US-Election",
-    "url": "https://wikileaks.org/Assange-Statement-on-the-US-Election.html",
-    "votes": 5,
-    "posted": "Nov 8, 2016 5:15:15 PM"
-  },
-  {
-    "id": "12901364",
-    "timestamp": "Nov 8, 2016 5:44:46 PM",
-    "topic": "Why Nate Silver and Sam Wang Are Wrong",
-    "url": "https://www.quantamagazine.org/20161108-why-nate-silver-and-sam-wang-are-wrong/",
-    "votes": 14,
-    "posted": "Nov 8, 2016 5:10:41 PM"
-  },
-  {
-    "id": "12901361",
-    "timestamp": "Nov 9, 2016 6:26:03 AM",
-    "topic": "Show HN: A real-time heat-map of #Election2016 tweets",
-    "url": "http://dracula.sentimentron.co.uk/election-2016/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 5:10:31 PM"
-  },
-  {
-    "id": "12901355",
-    "timestamp": "Nov 8, 2016 7:34:57 PM",
-    "topic": "Ask HN: Am I right there\u0027s no place for C++ developers in the startup world?",
-    "votes": 4,
-    "posted": "Nov 8, 2016 5:09:56 PM"
   }
 ];
