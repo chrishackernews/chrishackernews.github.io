@@ -1,11 +1,91 @@
 var newsArray = [
   {
+    "id": "12954825",
+    "timestamp": "Nov 15, 2016 2:59:01 AM",
+    "topic": "Moving machine learning from practice to production",
+    "url": "https://engineering.semantics3.com/2016/11/13/machine-learning-practice-to-production/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 2:10:45 AM"
+  },
+  {
+    "id": "12954773",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "Intel Publishes Open-Source Graphics Driver Code for Bringing Up “Geminilake”",
+    "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dIntel-Geminilake-Enablement",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:57:14 AM"
+  },
+  {
+    "id": "12954737",
+    "timestamp": "Nov 15, 2016 2:38:59 AM",
+    "topic": "Apple’s stock falls after China warns about Trump’s possible tariffs",
+    "url": "http://venturebeat.com/2016/11/14/apples-stock-falls-after-china-warns-about-trumps-possible-tariffs/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:49:49 AM"
+  },
+  {
+    "id": "12954730",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "Apple Considers Expanding into Wearables with Digital Glasses",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-14/apple-said-to-explore-smart-glasses-in-deeper-wearables-push",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:47:55 AM"
+  },
+  {
+    "id": "12954713",
+    "timestamp": "Nov 15, 2016 2:49:00 AM",
+    "topic": "Navy denies it pirated 558K copies of software, says contractor consented",
+    "url": "http://arstechnica.com/tech-policy/2016/11/navy-denies-it-pirated-558k-copies-of-software-says-contractor-consented/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:44:21 AM"
+  },
+  {
+    "id": "12954653",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "Show HN: ReactCasts, a series of short videos explaining React\u0027s APIs and concepts",
+    "url": "https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ",
+    "votes": 6,
+    "posted": "Nov 15, 2016 1:34:25 AM"
+  },
+  {
+    "id": "12954626",
+    "timestamp": "Nov 15, 2016 2:18:56 AM",
+    "topic": "FBI: Primer on DarkNet Marketplaces",
+    "url": "https://www.fbi.gov/news/stories/a-primer-on-darknet-marketplaces",
+    "votes": 8,
+    "posted": "Nov 15, 2016 1:28:59 AM"
+  },
+  {
     "id": "12954614",
     "timestamp": "Nov 15, 2016 1:38:51 AM",
     "topic": "1.2M NHS workers hit with \u0027reply-all\u0027 e-mails",
     "url": "http://www.businessinsider.com.au/reply-all-email-chain-1-2-million-nhs-employees-2016-11?r\u003dUS\u0026IR\u003dT",
     "votes": 3,
     "posted": "Nov 15, 2016 1:26:34 AM"
+  },
+  {
+    "id": "12954547",
+    "timestamp": "Nov 15, 2016 2:59:01 AM",
+    "topic": "Uikit: a lightweight and modular front-end framework",
+    "url": "https://getuikit.com/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:14:57 AM"
+  },
+  {
+    "id": "12954540",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "JavaScript books by Dr. Axel Rauschmayer (free online!)",
+    "url": "http://exploringjs.com/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:14:09 AM"
+  },
+  {
+    "id": "12954511",
+    "timestamp": "Nov 15, 2016 2:49:00 AM",
+    "topic": "How a No-Name Chinese TV Brand Came to Dominate the Amazon Charts",
+    "url": "http://www.forbes.com/sites/sethporges/2016/11/14/how-a-no-name-chinese-tv-brand-came-to-dominate-the-amazon-charts/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:06:21 AM"
   },
   {
     "id": "12954460",
@@ -21,6 +101,14 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/Nero",
     "votes": 3,
     "posted": "Nov 15, 2016 12:55:12 AM"
+  },
+  {
+    "id": "12954432",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "The malloc challenge",
+    "url": "http://vicsydev.blogspot.com/2016/11/the-malloc-challenge.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:54:23 AM"
   },
   {
     "id": "12954392",
@@ -71,6 +159,22 @@ var newsArray = [
     "posted": "Nov 15, 2016 12:39:04 AM"
   },
   {
+    "id": "12954322",
+    "timestamp": "Nov 15, 2016 2:38:59 AM",
+    "topic": "Trump and Brexit: why it’s again Not the economy, stupid",
+    "url": "http://blogs.lse.ac.uk/politicsandpolicy/trump-and-brexit-why-its-again-not-the-economy-stupid/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:34:11 AM"
+  },
+  {
+    "id": "12954314",
+    "timestamp": "Nov 15, 2016 2:38:59 AM",
+    "topic": "Trump\u0027s election sets stage for H-1B reform",
+    "url": "http://www.computerworld.com/article/3140711/it-careers/trumps-election-sets-stage-for-h-1b-reform.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:32:10 AM"
+  },
+  {
     "id": "12954269",
     "timestamp": "Nov 15, 2016 12:28:44 AM",
     "topic": "Renegade Facebook Employees Form Task Force to Battle Fake News",
@@ -117,6 +221,22 @@ var newsArray = [
     "url": "https://medium.com/@datalab/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34",
     "votes": 4,
     "posted": "Nov 14, 2016 11:57:59 PM"
+  },
+  {
+    "id": "12954116",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "Who cares if someone hacks my driveway camera?",
+    "url": "http://sobersecurity.blogspot.com/2016/11/who-cares-if-someone-hacks-my-driveway.html",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:54:52 PM"
+  },
+  {
+    "id": "12954115",
+    "timestamp": "Nov 15, 2016 2:38:58 AM",
+    "topic": "Mary Jo White to Step Down as S.E.C. Chief",
+    "url": "http://www.nytimes.com/2016/11/15/business/dealbook/mary-jo-white-securities-and-exchange-commission.html",
+    "votes": 3,
+    "posted": "Nov 14, 2016 11:54:51 PM"
   },
   {
     "id": "12954032",
@@ -7570,60 +7690,5 @@ var newsArray = [
     "url": "http://mobile.nytimes.com/2016/11/04/homepage/new-york-times-open-access-election-2016.html?_r\u003d0\u0026referer\u003d",
     "votes": 3,
     "posted": "Nov 8, 2016 3:05:05 AM"
-  },
-  {
-    "id": "12896987",
-    "timestamp": "Nov 8, 2016 3:13:32 AM",
-    "topic": "Ralph J. Cicerone, scientist who worked to protect the ozone layer, dies at 73",
-    "url": "https://www.washingtonpost.com/local/obituaries/ralph-j-cicerone-scientist-who-worked-to-protect-the-ozone-layer-dies-at-73/2016/11/06/2b2ec0aa-a427-11e6-8fc0-7be8f848c492_story.html",
-    "votes": 5,
-    "posted": "Nov 8, 2016 2:57:25 AM"
-  },
-  {
-    "id": "12896981",
-    "timestamp": "Nov 8, 2016 3:13:32 AM",
-    "topic": "Unofficial Stories: Conversation with Svetlana Alexievich",
-    "url": "http://harpers.org/blog/2016/10/unofficial-stories/",
-    "votes": 4,
-    "posted": "Nov 8, 2016 2:55:18 AM"
-  },
-  {
-    "id": "12896969",
-    "timestamp": "Nov 8, 2016 10:04:05 AM",
-    "topic": "Can you give me feedback on my website?",
-    "votes": 5,
-    "posted": "Nov 8, 2016 2:51:35 AM"
-  },
-  {
-    "id": "12896927",
-    "timestamp": "Nov 10, 2016 2:18:55 PM",
-    "topic": "A life in ruins: On the architectural vision of John Soane",
-    "url": "http://www.newcriterion.com/articles.cfm/A-life-in-ruins-8521",
-    "votes": 3,
-    "posted": "Nov 8, 2016 2:40:16 AM"
-  },
-  {
-    "id": "12896859",
-    "timestamp": "Nov 8, 2016 3:23:33 AM",
-    "topic": "Google – My Activity",
-    "url": "https://myactivity.google.com/myactivity?utm\u003demail",
-    "votes": 7,
-    "posted": "Nov 8, 2016 2:25:16 AM"
-  },
-  {
-    "id": "12896841",
-    "timestamp": "Nov 8, 2016 3:23:33 AM",
-    "topic": "iRobot says 20 percent of the world’s vacuums are now robots",
-    "url": "https://techcrunch.com/2016/11/07/irobot-says-20-percent-of-the-worlds-vacuums-are-now-robots/",
-    "votes": 8,
-    "posted": "Nov 8, 2016 2:22:05 AM"
-  },
-  {
-    "id": "12896731",
-    "timestamp": "Nov 8, 2016 3:33:34 AM",
-    "topic": "How to get subtraction wrong",
-    "url": "http://geocar.sdf1.org/numbers.html",
-    "votes": 5,
-    "posted": "Nov 8, 2016 1:58:59 AM"
   }
 ];
