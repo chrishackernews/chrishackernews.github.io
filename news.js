@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12955174",
+    "timestamp": "Nov 15, 2016 3:39:05 AM",
+    "topic": "Triplebyte (YC S15) is hiring our first Sales Engineer",
+    "url": "https://jobs.lever.co/triplebyte/6b4d63d5-b8fe-4cbc-9b05-da81cd9d9386",
+    "votes": 1,
+    "posted": "Nov 15, 2016 3:35:52 AM"
+  },
+  {
+    "id": "12955111",
+    "timestamp": "Nov 15, 2016 3:29:04 AM",
+    "topic": "Amazon RDS now supports PostgreSQL 9.6.1",
+    "url": "https://www.postgresql.org/about/news/1717/",
+    "votes": 5,
+    "posted": "Nov 15, 2016 3:17:48 AM"
+  },
+  {
+    "id": "12954995",
+    "timestamp": "Nov 15, 2016 3:29:04 AM",
+    "topic": "Trump insider: New administration won\u0027t attack renewable energy",
+    "url": "http://www.utilitydive.com/news/trump-energy-policy/430205/",
+    "votes": 7,
+    "posted": "Nov 15, 2016 2:51:57 AM"
+  },
+  {
+    "id": "12954839",
+    "timestamp": "Nov 15, 2016 3:09:02 AM",
+    "topic": "Silicon Valley was worried about the wrong bubble",
+    "url": "http://www.businessinsider.com/how-silicon-valley-missed-trump-2016-11",
+    "votes": 5,
+    "posted": "Nov 15, 2016 2:14:36 AM"
+  },
+  {
     "id": "12954825",
     "timestamp": "Nov 15, 2016 2:59:01 AM",
     "topic": "Moving machine learning from practice to production",
@@ -14,6 +46,14 @@ var newsArray = [
     "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dIntel-Geminilake-Enablement",
     "votes": 3,
     "posted": "Nov 15, 2016 1:57:14 AM"
+  },
+  {
+    "id": "12954740",
+    "timestamp": "Nov 15, 2016 3:09:02 AM",
+    "topic": "Google\u0027s answer to \u0027who won the popular vote\u0027 is a conspiracy blog",
+    "url": "http://www.theverge.com/2016/11/14/13622566/google-search-fake-news-election-results-algorithm",
+    "votes": 4,
+    "posted": "Nov 15, 2016 1:50:22 AM"
   },
   {
     "id": "12954737",
@@ -46,6 +86,14 @@ var newsArray = [
     "url": "https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ",
     "votes": 6,
     "posted": "Nov 15, 2016 1:34:25 AM"
+  },
+  {
+    "id": "12954628",
+    "timestamp": "Nov 15, 2016 3:59:07 AM",
+    "topic": "Annotated version of an original Deus Ex design doc surfaces",
+    "url": "http://www.gamasutra.com/view/news/285520/Annotated_version_of_an_original_Deus_Ex_design_doc_surfaces.php",
+    "votes": 3,
+    "posted": "Nov 15, 2016 1:29:17 AM"
   },
   {
     "id": "12954626",
@@ -95,12 +143,36 @@ var newsArray = [
     "posted": "Nov 15, 2016 12:58:39 AM"
   },
   {
+    "id": "12954458",
+    "timestamp": "Nov 15, 2016 3:59:07 AM",
+    "topic": "Apple Explores Smart Glasses in Wearables Push",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-14/apple-explores-smart-glasses-in-wearables-push",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:58:36 AM"
+  },
+  {
+    "id": "12954451",
+    "timestamp": "Nov 15, 2016 3:49:06 AM",
+    "topic": "The Next Generation of Hedge Fund Stars: Data-Crunching Computers",
+    "url": "http://www.nytimes.com/2016/11/15/business/dealbook/the-next-generation-of-hedge-fund-stars-data-crunching-computers.html",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:57:27 AM"
+  },
+  {
     "id": "12954438",
     "timestamp": "Nov 15, 2016 1:58:54 AM",
     "topic": "Nero",
     "url": "https://en.wikipedia.org/wiki/Nero",
     "votes": 3,
     "posted": "Nov 15, 2016 12:55:12 AM"
+  },
+  {
+    "id": "12954437",
+    "timestamp": "Nov 15, 2016 3:09:02 AM",
+    "topic": "West Nile Virus May Be Deadlier Than Thought",
+    "url": "http://www.sciencemag.org/news/2016/11/west-nile-virus-may-be-deadlier-thought",
+    "votes": 3,
+    "posted": "Nov 15, 2016 12:54:56 AM"
   },
   {
     "id": "12954432",
@@ -157,6 +229,14 @@ var newsArray = [
     "url": "https://about.gitlab.com/2016/11/14/idea-to-production/?",
     "votes": 4,
     "posted": "Nov 15, 2016 12:39:04 AM"
+  },
+  {
+    "id": "12954334",
+    "timestamp": "Nov 15, 2016 3:19:03 AM",
+    "topic": "Does anyone have a clue to earn the $15 000? HackMyFortress 15 000$ REWARD",
+    "url": "http://hackmyfortress.com/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 12:36:15 AM"
   },
   {
     "id": "12954322",
@@ -453,6 +533,13 @@ var newsArray = [
     "posted": "Nov 14, 2016 8:54:10 PM"
   },
   {
+    "id": "12952663",
+    "timestamp": "Nov 15, 2016 3:59:07 AM",
+    "topic": "Ask HN: Best things happened to you just because of HN?",
+    "votes": 6,
+    "posted": "Nov 14, 2016 8:51:51 PM"
+  },
+  {
     "id": "12952646",
     "timestamp": "Nov 15, 2016 12:08:42 AM",
     "topic": "The UX Fund: Investing $50k in 10 companies, 10 years later",
@@ -549,6 +636,14 @@ var newsArray = [
     "posted": "Nov 14, 2016 7:34:32 PM"
   },
   {
+    "id": "12951975",
+    "timestamp": "Nov 15, 2016 3:39:05 AM",
+    "topic": "Reading Russian Classics in the Era of Donald Trump",
+    "url": "https://medium.com/@leonardapeltsin/reading-russian-classics-after-trumps-triumph-8ad674545d56",
+    "votes": 3,
+    "posted": "Nov 14, 2016 7:22:37 PM"
+  },
+  {
     "id": "12951929",
     "timestamp": "Nov 14, 2016 8:08:12 PM",
     "topic": "Visual Studio for Mac Will Launch in November",
@@ -570,6 +665,14 @@ var newsArray = [
     "topic": "Divshot, acquired and shut down a year ago, just billed me",
     "votes": 8,
     "posted": "Nov 14, 2016 7:11:50 PM"
+  },
+  {
+    "id": "12951777",
+    "timestamp": "Nov 15, 2016 3:59:07 AM",
+    "topic": "Show HN: Lumber – a CLI to generate your admin microservice",
+    "url": "http://www.forestadmin.com/lumber",
+    "votes": 7,
+    "posted": "Nov 14, 2016 7:00:06 PM"
   },
   {
     "id": "12951747",
@@ -868,6 +971,14 @@ var newsArray = [
     "url": "https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/",
     "votes": 5,
     "posted": "Nov 14, 2016 12:38:19 PM"
+  },
+  {
+    "id": "12948938",
+    "timestamp": "Nov 15, 2016 3:49:06 AM",
+    "topic": "Ctrl+Z: Silicon Valley Leaders U-turn on Donald Trump",
+    "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?utm_content\u003dbuffer796ee\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter.com\u0026utm_campaign\u003dbuffer",
+    "votes": 3,
+    "posted": "Nov 14, 2016 11:59:33 AM"
   },
   {
     "id": "12948890",
@@ -7658,37 +7769,5 @@ var newsArray = [
     "topic": "Ask HN: Have you ever thought of leaving programming for something else?",
     "votes": 10,
     "posted": "Nov 8, 2016 4:05:54 AM"
-  },
-  {
-    "id": "12897216",
-    "timestamp": "Nov 8, 2016 4:34:40 PM",
-    "topic": "A keyboard for your back",
-    "url": "https://medium.com/@tartavull/thor-your-next-keyboard-20b9ce7dd2b1#.831esf3y0",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:52:21 AM"
-  },
-  {
-    "id": "12897169",
-    "timestamp": "Nov 8, 2016 3:34:31 PM",
-    "topic": "2016’s Election Data Hero Isn’t Nate Silver. It’s Sam Wang",
-    "url": "https://www.wired.com/2016/11/2016s-election-data-hero-isnt-nate-silver-sam-wang/",
-    "votes": 5,
-    "posted": "Nov 8, 2016 3:40:39 AM"
-  },
-  {
-    "id": "12897125",
-    "timestamp": "Nov 8, 2016 4:13:37 AM",
-    "topic": "Edward Snowden Explains How FBI Could Review Clinton Emails So Fast",
-    "url": "http://www.sfgate.com/business/article/Edward-Snowden-Explains-How-FBI-Could-Review-10598233.php",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:28:31 AM"
-  },
-  {
-    "id": "12897022",
-    "timestamp": "Nov 8, 2016 3:13:32 AM",
-    "topic": "The New York Times to Offer Open Access on Web and Apps for the Election",
-    "url": "http://mobile.nytimes.com/2016/11/04/homepage/new-york-times-open-access-election-2016.html?_r\u003d0\u0026referer\u003d",
-    "votes": 3,
-    "posted": "Nov 8, 2016 3:05:05 AM"
   }
 ];
