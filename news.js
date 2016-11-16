@@ -1,5 +1,92 @@
 var newsArray = [
   {
+    "id": "12972266",
+    "timestamp": "Nov 16, 2016 11:44:29 PM",
+    "topic": "NSA chief: \u0027Nation state\u0027 intervened in presidential election",
+    "url": "http://www.dailykos.com/story/2016/11/16/1600424/-NSA-chief-Nation-state-intervened-in-election-to-achieve-a-specific-effect",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:37:16 PM"
+  },
+  {
+    "id": "12972224",
+    "timestamp": "Nov 16, 2016 11:44:29 PM",
+    "topic": "Just How Correlated Are Silicon Valley Housing Prices and Venture Activity?",
+    "url": "https://mattermark.com/vc-activity-just-might-predict-silicon-valley-housing-prices/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:30:19 PM"
+  },
+  {
+    "id": "12972219",
+    "timestamp": "Nov 16, 2016 11:44:28 PM",
+    "topic": "Snowden: Stop Relying on Facebook for Your News",
+    "url": "http://www.scribblrs.com/snowden-stop-relying-facebook-news/",
+    "votes": 11,
+    "posted": "Nov 16, 2016 11:29:48 PM"
+  },
+  {
+    "id": "12972202",
+    "timestamp": "Nov 16, 2016 11:54:30 PM",
+    "topic": "After 36 years of it… it\u0027s mostly just typing",
+    "url": "http://positech.co.uk/cliffsblog/2016/11/15/after-36-years-of-it-its-mostly-just-typing/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 11:28:05 PM"
+  },
+  {
+    "id": "12972188",
+    "timestamp": "Nov 16, 2016 11:44:29 PM",
+    "topic": "Steve Bannon (Trump Advisor) implied that Silicon Valley has too many Asian CEOs",
+    "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
+    "votes": 4,
+    "posted": "Nov 16, 2016 11:26:32 PM"
+  },
+  {
+    "id": "12972106",
+    "timestamp": "Nov 16, 2016 11:44:28 PM",
+    "topic": "Sal Soghoian, Automation Guru at Apple, Job Terminated",
+    "url": "https://macosxautomation.com/about.html",
+    "votes": 9,
+    "posted": "Nov 16, 2016 11:16:39 PM"
+  },
+  {
+    "id": "12972050",
+    "timestamp": "Nov 16, 2016 11:34:27 PM",
+    "topic": "Hackster: A community for learning hardware",
+    "url": "https://www.hackster.io/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:09:58 PM"
+  },
+  {
+    "id": "12972002",
+    "timestamp": "Nov 16, 2016 11:24:25 PM",
+    "topic": "The Spy Who Added Me on LinkedIn",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-15/the-spy-who-added-me-on-linkedin",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:04:16 PM"
+  },
+  {
+    "id": "12971935",
+    "timestamp": "Nov 16, 2016 11:24:25 PM",
+    "topic": "ReactOS 0.4.3 Released with GOG, XBMC and Python 3 Supported",
+    "url": "https://reactos.org/project-news/reactos-043-released",
+    "votes": 7,
+    "posted": "Nov 16, 2016 10:54:31 PM"
+  },
+  {
+    "id": "12971921",
+    "timestamp": "Nov 16, 2016 11:14:24 PM",
+    "topic": "Trim will renegotiate your Comcast bill while you play Tetris",
+    "url": "http://venturebeat.com/2016/11/16/trims-new-bot-will-renegotiate-your-comcast-bill-while-you-play-tetris/",
+    "votes": 6,
+    "posted": "Nov 16, 2016 10:51:38 PM"
+  },
+  {
+    "id": "12971910",
+    "timestamp": "Nov 16, 2016 11:14:24 PM",
+    "topic": "Ask HN: When will blockchian or something better replace e-mail?",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:50:09 PM"
+  },
+  {
     "id": "12971877",
     "timestamp": "Nov 16, 2016 10:54:22 PM",
     "topic": "The iPhone Is Bigger Than Donald Trump",
@@ -8,12 +95,76 @@ var newsArray = [
     "posted": "Nov 16, 2016 10:46:42 PM"
   },
   {
+    "id": "12971867",
+    "timestamp": "Nov 16, 2016 11:04:23 PM",
+    "topic": "Four Work Habits You Need to Change at Each Stage of Your Career",
+    "url": "https://www.fastcompany.com/3064111/work-smart/four-work-habits-you-need-to-change-at-each-stage-of-your-career",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:45:06 PM"
+  },
+  {
     "id": "12971865",
     "timestamp": "Nov 16, 2016 10:54:22 PM",
     "topic": "Learning Perl 6",
     "url": "https://www.kickstarter.com/projects/1422827986/learning-perl-6",
     "votes": 3,
     "posted": "Nov 16, 2016 10:44:54 PM"
+  },
+  {
+    "id": "12971841",
+    "timestamp": "Nov 16, 2016 11:04:23 PM",
+    "topic": "NET Framework – What\u0027s New in C# 7.0",
+    "url": "https://msdn.microsoft.com/magazine/mt790184",
+    "votes": 6,
+    "posted": "Nov 16, 2016 10:41:06 PM"
+  },
+  {
+    "id": "12971819",
+    "timestamp": "Nov 16, 2016 11:54:30 PM",
+    "topic": "Show HN: Dave – CLI Personal assistant written in Go",
+    "url": "https://github.com/zuzuleinen/dave",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:38:55 PM"
+  },
+  {
+    "id": "12971800",
+    "timestamp": "Nov 16, 2016 11:14:24 PM",
+    "topic": "Another reason to ditch brain training: A declining mind may make you wiser",
+    "url": "http://arstechnica.com/science/2016/11/another-reason-to-ditch-brain-training-a-declining-mind-may-make-you-wiser/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 10:36:27 PM"
+  },
+  {
+    "id": "12971779",
+    "timestamp": "Nov 16, 2016 11:04:23 PM",
+    "topic": "Twitter suspends \u0027alt-right\u0027 accounts",
+    "url": "http://www.politico.com/blogs/on-media/2016/11/twitter-suspends-alt-right-accounts-231479",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:33:31 PM"
+  },
+  {
+    "id": "12971637",
+    "timestamp": "Nov 16, 2016 11:14:24 PM",
+    "topic": "Ancient ‘Sea Monster’ Found in Antarctica",
+    "url": "https://qubitsnews.com/2016/11/16/ancient-sea-monster-found-in-antarctica/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 10:19:11 PM"
+  },
+  {
+    "id": "12971503",
+    "timestamp": "Nov 16, 2016 11:24:26 PM",
+    "topic": "PoisonTap",
+    "url": "https://github.com/samyk/poisontap",
+    "votes": 5,
+    "posted": "Nov 16, 2016 10:04:43 PM"
+  },
+  {
+    "id": "12971493",
+    "timestamp": "Nov 16, 2016 11:14:24 PM",
+    "topic": "A White House position could cost Peter Thiel more than he’s willing to give up",
+    "url": "http://www.theverge.com/2016/11/16/13651776/peter-thiel-white-house-conflict-of-interest-palantir-facebook",
+    "votes": 4,
+    "posted": "Nov 16, 2016 10:03:37 PM"
   },
   {
     "id": "12971395",
@@ -102,6 +253,14 @@ var newsArray = [
     "url": "http://www.informit.com/articles/article.aspx?p\u003d1353402",
     "votes": 3,
     "posted": "Nov 16, 2016 9:37:20 PM"
+  },
+  {
+    "id": "12971152",
+    "timestamp": "Nov 16, 2016 11:24:26 PM",
+    "topic": "New mathematical model shows how our brains make complex decisions",
+    "url": "http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:28:27 PM"
   },
   {
     "id": "12971062",
@@ -213,6 +372,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 8:25:52 PM"
   },
   {
+    "id": "12970207",
+    "timestamp": "Nov 16, 2016 11:54:30 PM",
+    "topic": "Show HN: Zero – Fintech CC with 3% cash back",
+    "url": "https://zerofinancial.com/ZERO1626",
+    "votes": 5,
+    "posted": "Nov 16, 2016 8:01:56 PM"
+  },
+  {
     "id": "12970134",
     "timestamp": "Nov 16, 2016 9:04:10 PM",
     "topic": "Investigatory Powers Act imminent as peers clear path for UK super-snoop law",
@@ -243,6 +410,14 @@ var newsArray = [
     "url": "http://www.sfgate.com/news/article/SF-deals-major-blow-to-Airbnb-with-tough-10617319.php",
     "votes": 3,
     "posted": "Nov 16, 2016 7:48:52 PM"
+  },
+  {
+    "id": "12969864",
+    "timestamp": "Nov 16, 2016 11:24:26 PM",
+    "topic": "Pluto’s icy, slushy heart",
+    "url": "http://news.mit.edu/2016/new-horizons-water-ice-ocean-pluto-1116",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:30:01 PM"
   },
   {
     "id": "12969826",
@@ -281,6 +456,14 @@ var newsArray = [
     "topic": "Ask HN: Restarting the YC Podcast – who would be most interesting to listen to?",
     "votes": 5,
     "posted": "Nov 16, 2016 7:01:37 PM"
+  },
+  {
+    "id": "12969517",
+    "timestamp": "Nov 16, 2016 11:04:23 PM",
+    "topic": "Word of the Year 2016 is Post-Truth",
+    "url": "https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016",
+    "votes": 4,
+    "posted": "Nov 16, 2016 6:57:00 PM"
   },
   {
     "id": "12969470",
@@ -347,6 +530,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 6:07:21 PM"
   },
   {
+    "id": "12968967",
+    "timestamp": "Nov 16, 2016 11:34:27 PM",
+    "topic": "Nuclear Industry in France in Crisis, 20 Reactors Shut Down",
+    "url": "http://www.ecowatch.com/france-nuclear-power-shut-down-2086414462.html",
+    "votes": 4,
+    "posted": "Nov 16, 2016 6:04:44 PM"
+  },
+  {
     "id": "12968952",
     "timestamp": "Nov 16, 2016 6:33:22 PM",
     "topic": "Show HN: PgRebase, codebase management for postgres",
@@ -371,6 +562,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 6:02:18 PM"
   },
   {
+    "id": "12968884",
+    "timestamp": "Nov 16, 2016 11:34:27 PM",
+    "topic": "New AI Algorithm Taught by Humans Learns Beyond Its Training",
+    "url": "http://news.engineering.utoronto.ca/new-ai-algorithm-taught-humans-learns-beyond-training/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 5:57:33 PM"
+  },
+  {
     "id": "12968834",
     "timestamp": "Nov 16, 2016 7:03:25 PM",
     "topic": "How the U.S. Army’s ‘Phaser’ can wipe out an entire fleet of drones",
@@ -387,6 +586,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 5:50:03 PM"
   },
   {
+    "id": "12968657",
+    "timestamp": "Nov 16, 2016 11:34:27 PM",
+    "topic": "Why Google doesn’t care about hiring top college graduates",
+    "url": "http://qz.com/180247/why-google-doesnt-care-about-hiring-top-college-graduates/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 5:39:30 PM"
+  },
+  {
     "id": "12968559",
     "timestamp": "Nov 16, 2016 6:23:21 PM",
     "topic": "Rust and the Future of Systems Programming",
@@ -400,6 +607,14 @@ var newsArray = [
     "topic": "Ask HN: What are the simplest ways to pay your engineers outside of US?",
     "votes": 4,
     "posted": "Nov 16, 2016 5:30:15 PM"
+  },
+  {
+    "id": "12968428",
+    "timestamp": "Nov 16, 2016 11:34:27 PM",
+    "topic": "Gone in 70 seconds: Linux can be owned by holding Enter key",
+    "url": "http://www.theregister.co.uk/2016/11/16/want_to_pop_linux_shell_hole_enter_for_a_minute/",
+    "votes": 5,
+    "posted": "Nov 16, 2016 5:20:59 PM"
   },
   {
     "id": "12968383",
@@ -505,6 +720,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 4:52:18 PM"
   },
   {
+    "id": "12968036",
+    "timestamp": "Nov 16, 2016 11:34:27 PM",
+    "topic": "The Two Americas of 2016",
+    "url": "http://www.nytimes.com/interactive/2016/11/16/us/politics/100000004770186.mobile.html",
+    "votes": 3,
+    "posted": "Nov 16, 2016 4:52:04 PM"
+  },
+  {
     "id": "12967991",
     "timestamp": "Nov 16, 2016 6:03:20 PM",
     "topic": "ES6 is great, until it’s not",
@@ -559,6 +782,22 @@ var newsArray = [
     "url": "https://www.youtube.com/user/codingmath/videos",
     "votes": 5,
     "posted": "Nov 16, 2016 4:41:49 PM"
+  },
+  {
+    "id": "12967886",
+    "timestamp": "Nov 16, 2016 11:34:28 PM",
+    "topic": "Here\u0027s How Facebook Actually Won Trump the Presidency",
+    "url": "https://www.wired.com/2016/11/facebook-won-trump-election-not-just-fake-news/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 4:41:23 PM"
+  },
+  {
+    "id": "12967859",
+    "timestamp": "Nov 16, 2016 11:24:26 PM",
+    "topic": "TechEmpower Framework Benchmarks Round 13",
+    "url": "https://www.techempower.com/blog/2016/11/16/framework-benchmarks-round-13/",
+    "votes": 7,
+    "posted": "Nov 16, 2016 4:39:08 PM"
   },
   {
     "id": "12967847",
@@ -656,12 +895,28 @@ var newsArray = [
     "posted": "Nov 16, 2016 2:53:25 PM"
   },
   {
+    "id": "12966726",
+    "timestamp": "Nov 16, 2016 11:44:29 PM",
+    "topic": "Confronting Racism in Berlin, One Offensive T-Shirt at a Time",
+    "url": "http://www.nytimes.com/2016/11/17/world/europe/berlin-racism-isaiah-lopaz.html",
+    "votes": 4,
+    "posted": "Nov 16, 2016 2:41:06 PM"
+  },
+  {
     "id": "12966699",
     "timestamp": "Nov 16, 2016 3:22:39 PM",
     "topic": "Twitter suspends alt-right figureheads",
     "url": "http://www.bbc.com/news/technology-37997864",
     "votes": 21,
     "posted": "Nov 16, 2016 2:36:10 PM"
+  },
+  {
+    "id": "12966681",
+    "timestamp": "Nov 16, 2016 11:44:29 PM",
+    "topic": "A Longitudinal Measurement Study of 4chan’s Politically Incorrect Forum",
+    "url": "https://www.benthamsgaze.org/2016/11/16/a-longitudinal-measurement-study-of-4chans-politically-incorrect-forum-and-its-effect-on-the-web/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 2:33:33 PM"
   },
   {
     "id": "12966673",
@@ -726,6 +981,14 @@ var newsArray = [
     "url": "https://connectevent.microsoft.com/",
     "votes": 9,
     "posted": "Nov 16, 2016 12:04:01 PM"
+  },
+  {
+    "id": "12965883",
+    "timestamp": "Nov 16, 2016 11:44:29 PM",
+    "topic": "Data Scientists Chart the Tragic Rise of Selfie Deaths",
+    "url": "https://www.technologyreview.com/s/602862/data-scientists-chart-the-tragic-rise-of-selfie-deaths/amp/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 11:34:53 AM"
   },
   {
     "id": "12965846",
@@ -8312,92 +8575,5 @@ var newsArray = [
     "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.naed8cy1v",
     "votes": 7,
     "posted": "Nov 10, 2016 12:05:01 AM"
-  },
-  {
-    "id": "12915619",
-    "timestamp": "Nov 10, 2016 12:47:46 AM",
-    "topic": "TensorFlow – Google\u0027s Machine Learning System Open Sourced",
-    "url": "https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html",
-    "votes": 5,
-    "posted": "Nov 9, 2016 11:51:55 PM"
-  },
-  {
-    "id": "12915515",
-    "timestamp": "Nov 9, 2016 11:47:39 PM",
-    "topic": "The SSD Endurance Experiment: They\u0027re All Dead",
-    "url": "http://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead",
-    "votes": 3,
-    "posted": "Nov 9, 2016 11:42:28 PM"
-  },
-  {
-    "id": "12915505",
-    "timestamp": "Nov 9, 2016 11:47:40 PM",
-    "topic": "Donald Trump in 1987: \u0027I don\u0027t want to be president\u0027",
-    "url": "http://www.cnn.com/videos/tv/2016/05/09/donald-trump-1987-interview-larry-king-live.cnn/video/playlists/look-back-at-donald-trump/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 11:40:45 PM"
-  },
-  {
-    "id": "12915497",
-    "timestamp": "Nov 9, 2016 11:47:39 PM",
-    "topic": "Beyond 10,000 Lines – Elixir and Phoeniz",
-    "url": "https://shift.infinite.red/beyond-10-000-lines-ba1adc17cc7b",
-    "votes": 3,
-    "posted": "Nov 9, 2016 11:40:11 PM"
-  },
-  {
-    "id": "12915481",
-    "timestamp": "Nov 10, 2016 2:17:54 AM",
-    "topic": "Ask HN: Where is a good place for a college student to vacation?",
-    "votes": 4,
-    "posted": "Nov 9, 2016 11:38:19 PM"
-  },
-  {
-    "id": "12915443",
-    "timestamp": "Nov 9, 2016 11:47:39 PM",
-    "topic": "Trump won because of Facebook",
-    "url": "http://nymag.com/selectall/2016/11/donald-trump-won-because-of-facebook.html?mid\u003dtwitter_nymag",
-    "votes": 4,
-    "posted": "Nov 9, 2016 11:34:22 PM"
-  },
-  {
-    "id": "12915428",
-    "timestamp": "Nov 9, 2016 11:47:39 PM",
-    "topic": "Trump, our next president, promised to block AT\u0026T/Time Warner merger",
-    "url": "http://arstechnica.com/tech-policy/2016/11/president-trump-may-be-trouble-for-atttime-warner-merger-and-comcast/",
-    "votes": 8,
-    "posted": "Nov 9, 2016 11:32:53 PM"
-  },
-  {
-    "id": "12915345",
-    "timestamp": "Nov 9, 2016 11:47:39 PM",
-    "topic": "Peter Thiel’s Bet on Donald Trump Wins Big",
-    "url": "http://www.nytimes.com/2016/11/10/technology/peter-thiel-bet-donald-trump-wins-big.html?hpw\u0026rref\u003dtechnology\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026module\u003dwell-region\u0026region\u003dbottom-well\u0026WT.nav\u003dbottom-well",
-    "votes": 8,
-    "posted": "Nov 9, 2016 11:24:41 PM"
-  },
-  {
-    "id": "12915294",
-    "timestamp": "Nov 9, 2016 11:37:38 PM",
-    "topic": "Imgix – Image Processing as a Service Reviewed",
-    "url": "https://medium.com/@nparsons08/imgix-image-processing-as-a-service-reviewed-5195b7efe757#.jh82vyn32",
-    "votes": 3,
-    "posted": "Nov 9, 2016 11:19:00 PM"
-  },
-  {
-    "id": "12915233",
-    "timestamp": "Nov 9, 2016 11:57:41 PM",
-    "topic": "Adam Bain to Leave Twitter, Company Appoints Anthony Noto as COO",
-    "url": "https://www.sec.gov/Archives/edgar/data/1418091/000156459016028706/twtr-ex991_6.htm",
-    "votes": 5,
-    "posted": "Nov 9, 2016 11:12:50 PM"
-  },
-  {
-    "id": "12915148",
-    "timestamp": "Nov 10, 2016 12:17:43 AM",
-    "topic": "Twitter’s Chief Operating Officer to Step Down",
-    "url": "http://www.nytimes.com/2016/11/10/technology/adam-bain-twitter-chief-operating-officer-step-down.html",
-    "votes": 10,
-    "posted": "Nov 9, 2016 11:02:15 PM"
   }
 ];
