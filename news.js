@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12965348",
+    "timestamp": "Nov 16, 2016 9:41:58 AM",
+    "topic": "Cypress just bought Broadcom\u0027s wifi business and published their datasheets",
+    "url": "http://www.cypress.com/search/all?f[0]\u003dmeta_type%3Atechnical_documents\u0026f[1]\u003dresource_meta_type%3A575\u0026f[2]\u003dfield_related_products%3A110101",
+    "votes": 14,
+    "posted": "Nov 16, 2016 9:30:05 AM"
+  },
+  {
+    "id": "12965319",
+    "timestamp": "Nov 16, 2016 9:41:59 AM",
+    "topic": "Shadows and Blur Effects in Modern UI Design",
+    "url": "https://blogs.adobe.com/creativecloud/xd-essentials-shadows-and-blur-effects-in-modern-ui-design/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:22:57 AM"
+  },
+  {
+    "id": "12965314",
+    "timestamp": "Nov 16, 2016 9:41:58 AM",
+    "topic": "I’m Sorry Mr. Zuckerberg, but You Are Wrong",
+    "url": "https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424#.1hsi9bwqp",
+    "votes": 8,
+    "posted": "Nov 16, 2016 9:21:38 AM"
+  },
+  {
+    "id": "12965311",
+    "timestamp": "Nov 16, 2016 9:41:59 AM",
+    "topic": "Google QuickDraw",
+    "url": "https://quickdraw.withgoogle.com/",
+    "votes": 7,
+    "posted": "Nov 16, 2016 9:21:01 AM"
+  },
+  {
+    "id": "12965235",
+    "timestamp": "Nov 16, 2016 9:41:59 AM",
+    "topic": "Twitter Is Banning Multiple Alt-Right Accounts",
+    "url": "http://thenextweb.com/twitter/2016/11/16/twitter-banning-multiple-alt-right-accounts/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 8:54:15 AM"
+  },
+  {
     "id": "12965209",
     "timestamp": "Nov 16, 2016 8:51:55 AM",
     "topic": "MySQL 8.0: JSON Aggregation functions",
     "url": "https://schlueters.de/blog/archives/183-MySQL-8.0-JSON-Aggregation-functions.html",
     "votes": 3,
     "posted": "Nov 16, 2016 8:45:07 AM"
+  },
+  {
+    "id": "12965033",
+    "timestamp": "Nov 16, 2016 9:01:56 AM",
+    "topic": "Bram Cohen vs. Linus Torvalds",
+    "url": "http://www.wincent.com/a/about/wincent/weblog/archives/2007/07/a_look_back_bra.php",
+    "votes": 3,
+    "posted": "Nov 16, 2016 7:50:51 AM"
   },
   {
     "id": "12964951",
@@ -8088,13 +8136,5 @@ var newsArray = [
     "url": "https://github.com/jxnblk/repng",
     "votes": 3,
     "posted": "Nov 9, 2016 10:27:05 AM"
-  },
-  {
-    "id": "12907845",
-    "timestamp": "Nov 10, 2016 3:07:59 AM",
-    "topic": "The Day After – Charlie\u0027s Diary",
-    "url": "http://www.antipope.org/charlie/blog-static/2016/11/the-day-after.html",
-    "votes": 3,
-    "posted": "Nov 9, 2016 9:32:46 AM"
   }
 ];
