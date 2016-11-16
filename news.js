@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "12969764",
+    "timestamp": "Nov 16, 2016 7:44:02 PM",
+    "topic": "MENACE: A Reinforcement Learning program built in 1961 using matchboxes",
+    "url": "http://chalkdustmagazine.com/features/menace-machine-educable-noughts-crosses-engine/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 7:22:04 PM"
+  },
+  {
+    "id": "12969696",
+    "timestamp": "Nov 16, 2016 7:44:02 PM",
+    "topic": "I got fired for supporting Trump in Silicon Valley Where do I go from here?",
+    "url": "https://www.quora.com/I-got-fired-for-supporting-Trump-at-a-company-in-Silicon-Valley-Where-do-I-go-from-here-NOT-GRUB-HUB?share\u003d1",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:14:53 PM"
+  },
+  {
+    "id": "12969562",
+    "timestamp": "Nov 16, 2016 7:54:03 PM",
+    "topic": "Ask HN: Restarting the YC Podcast – who would be most interesting to listen to?",
+    "votes": 5,
+    "posted": "Nov 16, 2016 7:01:37 PM"
+  },
+  {
+    "id": "12969470",
+    "timestamp": "Nov 16, 2016 7:34:01 PM",
+    "topic": "These Professors Make More Than a Thousand Bucks an Hour Peddling Mega-Mergers",
+    "url": "https://www.propublica.org/article/these-professors-make-more-than-thousand-bucks-hour-peddling-mega-mergers",
+    "votes": 3,
+    "posted": "Nov 16, 2016 6:52:51 PM"
+  },
+  {
+    "id": "12969393",
+    "timestamp": "Nov 16, 2016 7:03:25 PM",
+    "topic": "Samsung Tizen .NET Developer Preview",
+    "url": "https://www.tizen.org/blogs/dh0922/2016/tizen-.net-developer-preview",
+    "votes": 5,
+    "posted": "Nov 16, 2016 6:46:08 PM"
+  },
+  {
+    "id": "12969152",
+    "timestamp": "Nov 16, 2016 7:34:01 PM",
+    "topic": "The Non-Technical Guide to Machine Learning and Artificial Intelligence",
+    "url": "https://twitter.com/SamDeBrule/status/798912596116127744",
+    "votes": 3,
+    "posted": "Nov 16, 2016 6:20:29 PM"
+  },
+  {
     "id": "12969130",
     "timestamp": "Nov 16, 2016 6:43:23 PM",
     "topic": "Announcing the Fastest ASP.NET Yet, ASP.NET Core 1.1 RTM",
@@ -24,12 +71,44 @@ var newsArray = [
     "posted": "Nov 16, 2016 6:08:42 PM"
   },
   {
+    "id": "12968995",
+    "timestamp": "Nov 16, 2016 7:24:00 PM",
+    "topic": "Mystery over Dutch WW2 shipwrecks vanished from Java Sea bed",
+    "url": "http://www.bbc.co.uk/news/world-asia-37997640",
+    "votes": 3,
+    "posted": "Nov 16, 2016 6:07:21 PM"
+  },
+  {
     "id": "12968952",
     "timestamp": "Nov 16, 2016 6:33:22 PM",
     "topic": "Show HN: PgRebase, codebase management for postgres",
     "url": "https://github.com/oelmekki/pgrebase",
     "votes": 9,
     "posted": "Nov 16, 2016 6:03:29 PM"
+  },
+  {
+    "id": "12968933",
+    "timestamp": "Nov 16, 2016 7:34:01 PM",
+    "topic": "To Be a Young Black Man Working in an Office Full of White People",
+    "url": "https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8",
+    "votes": 5,
+    "posted": "Nov 16, 2016 6:02:18 PM"
+  },
+  {
+    "id": "12968834",
+    "timestamp": "Nov 16, 2016 7:03:25 PM",
+    "topic": "How the U.S. Army’s ‘Phaser’ can wipe out an entire fleet of drones",
+    "url": "http://saintlad.com/u-s-armys-phaser-wipe-out-drones/",
+    "votes": 5,
+    "posted": "Nov 16, 2016 5:52:44 PM"
+  },
+  {
+    "id": "12968795",
+    "timestamp": "Nov 16, 2016 7:34:01 PM",
+    "topic": "More than 1 in 10 tests voided – Theranos lawsuit",
+    "url": "http://www.vanityfair.com/news/2016/11/explosive-new-details-emerge-in-lawsuit-against-theranos",
+    "votes": 3,
+    "posted": "Nov 16, 2016 5:50:03 PM"
   },
   {
     "id": "12968559",
@@ -47,11 +126,27 @@ var newsArray = [
     "posted": "Nov 16, 2016 5:30:15 PM"
   },
   {
+    "id": "12968310",
+    "timestamp": "Nov 16, 2016 7:03:41 PM",
+    "topic": "Visual Studio Mobile Center",
+    "url": "https://www.visualstudio.com/vs/mobile-center/",
+    "votes": 6,
+    "posted": "Nov 16, 2016 5:11:12 PM"
+  },
+  {
     "id": "12968308",
     "timestamp": "Nov 16, 2016 5:13:10 PM",
     "topic": "GiveCampus (YC S15) is hiring Ruby engineers who care about education",
     "votes": 1,
     "posted": "Nov 16, 2016 5:11:08 PM"
+  },
+  {
+    "id": "12968275",
+    "timestamp": "Nov 16, 2016 7:03:41 PM",
+    "topic": "SQL Server 2016 SP1 Released, SQL Server VNext Available for Download",
+    "url": "http://sqlservercode.blogspot.com/2016/11/sql-server-2016-sp1-released-sql-server.html",
+    "votes": 5,
+    "posted": "Nov 16, 2016 5:08:41 PM"
   },
   {
     "id": "12968258",
@@ -78,6 +173,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 5:04:40 PM"
   },
   {
+    "id": "12968187",
+    "timestamp": "Nov 16, 2016 7:03:41 PM",
+    "topic": "What’s New in the .NET Platform – 8min Overview Video – Connect(); // 2016",
+    "url": "https://channel9.msdn.com/Events/Connect/2016/126",
+    "votes": 7,
+    "posted": "Nov 16, 2016 5:03:07 PM"
+  },
+  {
     "id": "12968161",
     "timestamp": "Nov 16, 2016 5:23:16 PM",
     "topic": "Walk the Earth in VR with Google Earth VR",
@@ -94,6 +197,22 @@ var newsArray = [
     "posted": "Nov 16, 2016 4:59:10 PM"
   },
   {
+    "id": "12968066",
+    "timestamp": "Nov 16, 2016 7:03:42 PM",
+    "topic": "Free local development using the DocumentDB Emulator plus .NET Core support",
+    "url": "https://azure.microsoft.com/en-us/blog/documentdb-emulator-for-local-development-and-dotnet-core-support/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 4:53:38 PM"
+  },
+  {
+    "id": "12968050",
+    "timestamp": "Nov 16, 2016 7:03:42 PM",
+    "topic": "Announcing the Next Generation of Databases and Data Lakes from Microsoft",
+    "url": "https://blogs.technet.microsoft.com/dataplatforminsider/2016/11/16/announcing-the-next-generation-of-databases-and-data-lakes-from-microsoft/",
+    "votes": 5,
+    "posted": "Nov 16, 2016 4:52:35 PM"
+  },
+  {
     "id": "12968044",
     "timestamp": "Nov 16, 2016 5:03:09 PM",
     "topic": "Visual Studio Mobile Center",
@@ -108,6 +227,14 @@ var newsArray = [
     "url": "https://medium.com/@sAbakumoff/es6-is-great-until-its-not-f398339d0af6#.6fdcsr17i",
     "votes": 4,
     "posted": "Nov 16, 2016 4:49:26 PM"
+  },
+  {
+    "id": "12967975",
+    "timestamp": "Nov 16, 2016 7:03:42 PM",
+    "topic": "Introducing Visual Studio Mobile Center (Preview)",
+    "url": "https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-mobile-center/",
+    "votes": 5,
+    "posted": "Nov 16, 2016 4:48:14 PM"
   },
   {
     "id": "12967935",
@@ -140,6 +267,14 @@ var newsArray = [
     "url": "https://cloudplatform.googleblog.com/2016/11/Google-Cloud-to-join-NET-Foundation-Technical-Steering-Group.html",
     "votes": 9,
     "posted": "Nov 16, 2016 4:42:20 PM"
+  },
+  {
+    "id": "12967889",
+    "timestamp": "Nov 16, 2016 7:54:03 PM",
+    "topic": "The Coding Math YouTube channel is awesome and should have more subscribers",
+    "url": "https://www.youtube.com/user/codingmath/videos",
+    "votes": 5,
+    "posted": "Nov 16, 2016 4:41:49 PM"
   },
   {
     "id": "12967847",
@@ -8092,67 +8227,5 @@ var newsArray = [
     "url": "https://mises.org/blog/intelligentsia-takes-hit",
     "votes": 4,
     "posted": "Nov 9, 2016 7:54:04 PM"
-  },
-  {
-    "id": "12913366",
-    "timestamp": "Nov 9, 2016 7:57:18 PM",
-    "topic": "Captain401 (YC S15) is hiring a UI Engineer to help people save for retirement",
-    "url": "https://captain401.com/careers",
-    "votes": 1,
-    "posted": "Nov 9, 2016 7:53:32 PM"
-  },
-  {
-    "id": "12913112",
-    "timestamp": "Nov 9, 2016 7:57:18 PM",
-    "topic": "Epic Games chief pays $15M to protect 7,000 acres of North Carolina wilderness",
-    "url": "http://www.gamasutra.com/view/news/285149/Epic_Games_chief_pays_15M_to_protect_7000_acres_of_North_Carolina_wilderness.php",
-    "votes": 14,
-    "posted": "Nov 9, 2016 7:28:25 PM"
-  },
-  {
-    "id": "12912941",
-    "timestamp": "Nov 11, 2016 4:00:13 AM",
-    "topic": "Why I took October off from OSS volunteering",
-    "url": "http://www.snarky.ca/why-i-took-october-off-from-oss-volunteering",
-    "votes": 5,
-    "posted": "Nov 9, 2016 7:14:32 PM"
-  },
-  {
-    "id": "12912940",
-    "timestamp": "Nov 11, 2016 9:00:41 AM",
-    "topic": "Ask HN: How do I find remote work?",
-    "votes": 5,
-    "posted": "Nov 9, 2016 7:14:32 PM"
-  },
-  {
-    "id": "12912887",
-    "timestamp": "Nov 9, 2016 11:47:40 PM",
-    "topic": "Ask HN: Where can I analyze exit poll dataset?",
-    "votes": 5,
-    "posted": "Nov 9, 2016 7:11:37 PM"
-  },
-  {
-    "id": "12912846",
-    "timestamp": "Nov 9, 2016 7:57:19 PM",
-    "topic": "Crowdfunding to Package Browserify for Debian",
-    "url": "https://www.indiegogo.com/projects/package-browserify-node-module-for-debian#/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 7:08:35 PM"
-  },
-  {
-    "id": "12912788",
-    "timestamp": "Nov 9, 2016 7:37:16 PM",
-    "topic": "So Much Denial About Workflow Among Camera Companies",
-    "url": "http://www.dslrbodies.com/newsviews/so-much-denial-about-workfl.html",
-    "votes": 3,
-    "posted": "Nov 9, 2016 7:03:59 PM"
-  },
-  {
-    "id": "12912781",
-    "timestamp": "Nov 9, 2016 7:17:14 PM",
-    "topic": "Global Markets, Initially Shaken, Edge Higher After Trump Victory",
-    "url": "http://www.nytimes.com/2016/11/10/business/dealbook/stock-markets-election.html",
-    "votes": 5,
-    "posted": "Nov 9, 2016 7:03:14 PM"
   }
 ];
