@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12966815",
+    "timestamp": "Nov 16, 2016 3:22:39 PM",
+    "topic": "The World in 2076",
+    "url": "https://www.newscientist.com/round-up/world-2076",
+    "votes": 7,
+    "posted": "Nov 16, 2016 2:53:25 PM"
+  },
+  {
+    "id": "12966699",
+    "timestamp": "Nov 16, 2016 3:22:39 PM",
+    "topic": "Twitter suspends alt-right figureheads",
+    "url": "http://www.bbc.com/news/technology-37997864",
+    "votes": 21,
+    "posted": "Nov 16, 2016 2:36:10 PM"
+  },
+  {
+    "id": "12966673",
+    "timestamp": "Nov 16, 2016 3:22:39 PM",
+    "topic": "Meet PoisonTap, the $5 tool that ransacks password-protected computers",
+    "url": "http://arstechnica.com/security/2016/11/meet-poisontap-the-5-tool-that-ransacks-password-protected-computers/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 2:32:13 PM"
+  },
+  {
     "id": "12966351",
     "timestamp": "Nov 16, 2016 2:42:35 PM",
     "topic": "Amazon QuickSight Now Generally Available",
@@ -14,6 +38,14 @@ var newsArray = [
     "url": "http://time.com/4568552/ibuprofen-naproxen-inflammation-safety/",
     "votes": 5,
     "posted": "Nov 16, 2016 1:22:14 PM"
+  },
+  {
+    "id": "12966268",
+    "timestamp": "Nov 16, 2016 3:02:37 PM",
+    "topic": "Invest in startups – Equity crowdfunding",
+    "url": "https://equity.indiegogo.com/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 1:05:46 PM"
   },
   {
     "id": "12966051",
@@ -70,6 +102,13 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.9i5izevrq",
     "votes": 3,
     "posted": "Nov 16, 2016 10:08:28 AM"
+  },
+  {
+    "id": "12965438",
+    "timestamp": "Nov 16, 2016 3:22:39 PM",
+    "topic": "Ask HN: What programming language to learn for a statistician?",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:53:08 AM"
   },
   {
     "id": "12965348",
@@ -335,6 +374,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 1:11:34 AM"
   },
   {
+    "id": "12963398",
+    "timestamp": "Nov 16, 2016 3:02:37 PM",
+    "topic": "Putting the Rust in Trust: A Path to Rust Verification",
+    "url": "https://robigalia.org/blog/2016/11/15/verfication.html",
+    "votes": 6,
+    "posted": "Nov 16, 2016 12:49:44 AM"
+  },
+  {
     "id": "12963364",
     "timestamp": "Nov 16, 2016 1:01:12 AM",
     "topic": "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER",
@@ -501,6 +548,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 11:00:19 PM"
   },
   {
+    "id": "12962640",
+    "timestamp": "Nov 16, 2016 3:52:41 PM",
+    "topic": "At Last, a Black History Museum",
+    "url": "http://www.nybooks.com/articles/2016/11/24/smithsonian-black-history-museum/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 10:57:39 PM"
+  },
+  {
     "id": "12962637",
     "timestamp": "Nov 15, 2016 11:21:04 PM",
     "topic": "Meet your new language tutors: the Duolingo Bots",
@@ -515,6 +570,14 @@ var newsArray = [
     "url": "http://www.theparisreview.org/blog/2016/11/15/bed-fifty-people/",
     "votes": 3,
     "posted": "Nov 15, 2016 10:48:25 PM"
+  },
+  {
+    "id": "12962502",
+    "timestamp": "Nov 16, 2016 3:12:38 PM",
+    "topic": "Show HN: I\u0027m a self-taught developer and this is my first app",
+    "url": "https://itunes.apple.com/us/app/delphi-simplicity-clarity/id1172671058?mt\u003d8/#_\u003d_",
+    "votes": 5,
+    "posted": "Nov 15, 2016 10:42:42 PM"
   },
   {
     "id": "12962477",
@@ -936,6 +999,14 @@ var newsArray = [
     "topic": "Ask HN: Alternatives to Fogbugz",
     "votes": 4,
     "posted": "Nov 15, 2016 5:56:48 PM"
+  },
+  {
+    "id": "12959514",
+    "timestamp": "Nov 16, 2016 3:22:39 PM",
+    "topic": "Neptune’s Navy (2007)",
+    "url": "http://www.newyorker.com/magazine/2007/11/05/neptunes-navy",
+    "votes": 3,
+    "posted": "Nov 15, 2016 5:35:18 PM"
   },
   {
     "id": "12959457",
@@ -2263,6 +2334,14 @@ var newsArray = [
     "url": "http://digiday.com/publishers/no-ones-making-money-facebook-video-publishers-share-whats-minds/",
     "votes": 4,
     "posted": "Nov 14, 2016 9:08:51 PM"
+  },
+  {
+    "id": "12952796",
+    "timestamp": "Nov 16, 2016 3:02:37 PM",
+    "topic": "Show HN: Color Perception iOS Puzzle – What’s so special about the color green?",
+    "url": "https://itunes.apple.com/app/id1116125640",
+    "votes": 5,
+    "posted": "Nov 14, 2016 9:05:36 PM"
   },
   {
     "id": "12952715",
@@ -8029,21 +8108,5 @@ var newsArray = [
     "url": "https://medium.com/@moinnadeem/our-2016-election-a1274f808b17#.ts4eirwwg",
     "votes": 5,
     "posted": "Nov 9, 2016 4:17:39 PM"
-  },
-  {
-    "id": "12910481",
-    "timestamp": "Nov 9, 2016 5:27:04 PM",
-    "topic": "Putin says Russia ready to fully restore ties with U.S",
-    "url": "http://www.reuters.com/article/usa-election-russia-putin-idUSR4N1D800D?c?",
-    "votes": 4,
-    "posted": "Nov 9, 2016 3:26:16 PM"
-  },
-  {
-    "id": "12910384",
-    "timestamp": "Nov 9, 2016 3:16:50 PM",
-    "topic": "Is SQL Your Second Language? Sift Science (YC S11) Is Hiring a Full Stack Eng",
-    "url": "https://boards.greenhouse.io/siftscience/jobs/239993#.WCDAa5MrIUE",
-    "votes": 1,
-    "posted": "Nov 9, 2016 3:14:09 PM"
   }
 ];
