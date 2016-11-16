@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12964645",
+    "timestamp": "Nov 16, 2016 6:21:43 AM",
+    "topic": "15-Inch MacBook Pro with Touch Bar Has Non-Removable SSD",
+    "url": "http://www.macrumors.com/2016/11/15/macbook-pro-touch-bar-non-removable-ssd/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 6:02:16 AM"
+  },
+  {
+    "id": "12964597",
+    "timestamp": "Nov 16, 2016 6:11:42 AM",
+    "topic": "Microsoft, Elon Musk\u0027s AI Group Strike Partnership, Cloud Deal",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-15/microsoft-elon-musk-s-ai-group-strike-partnership-cloud-deal",
+    "votes": 5,
+    "posted": "Nov 16, 2016 5:47:24 AM"
+  },
+  {
+    "id": "12964595",
+    "timestamp": "Nov 16, 2016 6:31:44 AM",
+    "topic": "Elm – “Designing to infantilize a target audience is how we got Java”",
+    "url": "https://github.com/elm-lang/elm-compiler/issues/621#issuecomment-221053554",
+    "votes": 5,
+    "posted": "Nov 16, 2016 5:45:50 AM"
+  },
+  {
+    "id": "12964563",
+    "timestamp": "Nov 16, 2016 6:31:43 AM",
+    "topic": "Lindsey Graham Calls for Senate Investigation into Whether Russia Hacked DNC",
+    "url": "http://www.huffingtonpost.com/entry/russia-dnc-hack-lindsey-graham_us_582bb306e4b0e39c1fa703d5",
+    "votes": 5,
+    "posted": "Nov 16, 2016 5:34:58 AM"
+  },
+  {
+    "id": "12964544",
+    "timestamp": "Nov 16, 2016 6:01:41 AM",
+    "topic": "Kids Win the Right to Sue the US Government Over Climate Change",
+    "url": "http://motherboard.vice.com/read/kids-win-the-right-to-sue-the-us-government-over-climate-change",
+    "votes": 3,
+    "posted": "Nov 16, 2016 5:28:20 AM"
+  },
+  {
     "id": "12964354",
     "timestamp": "Nov 16, 2016 5:41:39 AM",
     "topic": "Fanless desktop computer",
@@ -156,6 +196,14 @@ var newsArray = [
     "url": "https://quicksight.aws",
     "votes": 4,
     "posted": "Nov 16, 2016 12:03:19 AM"
+  },
+  {
+    "id": "12963106",
+    "timestamp": "Nov 16, 2016 6:11:42 AM",
+    "topic": "Metasploitable 3 released",
+    "url": "https://community.rapid7.com/community/metasploit/blog/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:59:15 PM"
   },
   {
     "id": "12962999",
@@ -688,6 +736,14 @@ var newsArray = [
     "url": "https://www.backblaze.com/blog/hard-drive-failure-rates-q3-2016/",
     "votes": 5,
     "posted": "Nov 15, 2016 5:30:16 PM"
+  },
+  {
+    "id": "12959406",
+    "timestamp": "Nov 16, 2016 6:41:44 AM",
+    "topic": "Show HN: Track what\u0027s happening in the top 200 apps",
+    "url": "http://www.mightysignal.com/timeline",
+    "votes": 8,
+    "posted": "Nov 15, 2016 5:26:36 PM"
   },
   {
     "id": "12959313",
@@ -8123,92 +8179,5 @@ var newsArray = [
     "topic": "Ask HN: Trump is winning. Is US media to blame?",
     "votes": 3,
     "posted": "Nov 9, 2016 7:09:02 AM"
-  },
-  {
-    "id": "12906471",
-    "timestamp": "Nov 9, 2016 7:16:07 AM",
-    "topic": "Idiocracy (2006)",
-    "url": "https://en.wikipedia.org/wiki/Idiocracy",
-    "votes": 6,
-    "posted": "Nov 9, 2016 6:46:52 AM"
-  },
-  {
-    "id": "12906466",
-    "timestamp": "Nov 9, 2016 7:56:11 AM",
-    "topic": "The Intellectual yet Idiot",
-    "url": "https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.8lg4jek8v",
-    "votes": 4,
-    "posted": "Nov 9, 2016 6:46:22 AM"
-  },
-  {
-    "id": "12906390",
-    "timestamp": "Nov 9, 2016 12:36:37 PM",
-    "topic": "The Intellectual yet Idiot",
-    "url": "https://medium.com/@nntaleb/the-intellectual-yet-idiot-13211e2d0577#.g7zcs1omq",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:35:52 AM"
-  },
-  {
-    "id": "12906342",
-    "timestamp": "Nov 9, 2016 6:36:04 AM",
-    "topic": "Canadian immigration site crash",
-    "url": "http://www.businessinsider.com/canadian-immigration-site-crash-election-2016-11",
-    "votes": 6,
-    "posted": "Nov 9, 2016 6:28:15 AM"
-  },
-  {
-    "id": "12906339",
-    "timestamp": "Nov 9, 2016 6:56:06 AM",
-    "topic": "Yudkowsky: Trump elected due to misguided optimism",
-    "url": "https://www.facebook.com/yudkowsky/posts/10154746398729228",
-    "votes": 4,
-    "posted": "Nov 9, 2016 6:27:52 AM"
-  },
-  {
-    "id": "12906336",
-    "timestamp": "Nov 9, 2016 10:46:27 AM",
-    "topic": "Native virtualization for macOS",
-    "url": "https://veertu.com",
-    "votes": 9,
-    "posted": "Nov 9, 2016 6:27:36 AM"
-  },
-  {
-    "id": "12906308",
-    "timestamp": "Nov 9, 2016 6:26:03 AM",
-    "topic": "Sr. Angular Developer at Upcall in SF (YC F3)",
-    "url": "http://upcall.applytojob.com/apply/s3I9tL/Sr-Frontend-Angular2-Developer",
-    "votes": 1,
-    "posted": "Nov 9, 2016 6:23:08 AM"
-  },
-  {
-    "id": "12906305",
-    "timestamp": "Nov 9, 2016 6:36:04 AM",
-    "topic": "5 Reasons Why Trump Will Win",
-    "url": "http://michaelmoore.com/trumpwillwin/",
-    "votes": 6,
-    "posted": "Nov 9, 2016 6:22:47 AM"
-  },
-  {
-    "id": "12906284",
-    "timestamp": "Nov 9, 2016 6:46:05 AM",
-    "topic": "Ask HN: How do the news networks get the election data?",
-    "votes": 9,
-    "posted": "Nov 9, 2016 6:17:37 AM"
-  },
-  {
-    "id": "12906237",
-    "timestamp": "Nov 9, 2016 8:26:15 AM",
-    "topic": "Google Cloud Platform Tokyo region now open for business",
-    "url": "https://blog.google/topics/google-cloud/google-cloud-platform-tokyo-region-now-open-for-business/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:08:24 AM"
-  },
-  {
-    "id": "12906232",
-    "timestamp": "Nov 9, 2016 6:36:04 AM",
-    "topic": "Canada\u0027s immigration website crashes on election night",
-    "url": "http://www.ctvnews.ca/canada/canada-s-immigration-website-crashes-on-election-night-1.3152231?hootPostID\u003d14d10ea891a36bd74ea02d19ec7cf954",
-    "votes": 38,
-    "posted": "Nov 9, 2016 6:07:50 AM"
   }
 ];
