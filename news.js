@@ -8091,20 +8091,5 @@ var newsArray = [
     "topic": "Now Trump is president, demand his Tax Records as he promised",
     "votes": 4,
     "posted": "Nov 9, 2016 12:59:15 PM"
-  },
-  {
-    "id": "12909439",
-    "timestamp": "Nov 11, 2016 9:00:41 AM",
-    "topic": "Ask HN: Might Europe be the future of free capitalism?",
-    "votes": 4,
-    "posted": "Nov 9, 2016 12:45:54 PM"
-  },
-  {
-    "id": "12909276",
-    "timestamp": "Nov 9, 2016 1:36:41 PM",
-    "topic": "How the Internet tricked you into thinking Trump wouldn\u0027t win",
-    "url": "http://thenextweb.com/politics/2016/11/09/internet-tricked-thinking-trump-wouldnt-win/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 12:19:34 PM"
   }
 ];
