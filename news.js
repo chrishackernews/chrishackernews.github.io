@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "12963740",
+    "timestamp": "Nov 16, 2016 2:51:24 AM",
+    "topic": "I\u0027m moving back to Serbia",
+    "url": "https://storiesbehindthefog.com/i-gave-back-my-u-s-citizenship-im-going-back-to-serbia-nenad-a42fe00c4f60#.2aswvy6vb",
+    "votes": 7,
+    "posted": "Nov 16, 2016 2:02:16 AM"
+  },
+  {
+    "id": "12963708",
+    "timestamp": "Nov 16, 2016 2:01:17 AM",
+    "topic": "UI/Front-End Engineer at ReadWorks (Remote or Brooklyn NY)",
+    "votes": 1,
+    "posted": "Nov 16, 2016 1:52:18 AM"
+  },
+  {
     "id": "12963364",
     "timestamp": "Nov 16, 2016 1:01:12 AM",
     "topic": "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER",
@@ -53,6 +68,13 @@ var newsArray = [
     "url": "http://arstechnica.com/science/2016/11/decades-after-deadly-lab-accident-a-secret-russian-bioweapon-decoded/",
     "votes": 4,
     "posted": "Nov 15, 2016 11:41:01 PM"
+  },
+  {
+    "id": "12962989",
+    "timestamp": "Nov 16, 2016 2:21:19 AM",
+    "topic": "Ask HN: How do you create good key performance indicators? (KPIs)",
+    "votes": 5,
+    "posted": "Nov 15, 2016 11:40:49 PM"
   },
   {
     "id": "12962947",
@@ -8203,37 +8225,5 @@ var newsArray = [
     "url": "https://www.google.com/amp/bgr.com/2016/11/08/macbook-pro-sale-apple-13-inch-revenue-numbers/amp/?client\u003dsafari",
     "votes": 8,
     "posted": "Nov 9, 2016 2:58:59 AM"
-  },
-  {
-    "id": "12905470",
-    "timestamp": "Nov 9, 2016 2:45:45 AM",
-    "topic": "You’re engiNEARer to your dream job. Join the team at BloomThat (YC S13)",
-    "url": "https://jobs.lever.co/bloomthat",
-    "votes": 1,
-    "posted": "Nov 9, 2016 2:41:32 AM"
-  },
-  {
-    "id": "12905428",
-    "timestamp": "Nov 9, 2016 3:45:50 AM",
-    "topic": "Test-Driving a $200 Coding Font: Operator Mono",
-    "url": "https://www.kennethreitz.org/essays/test-driving-a-200-programming-font-operator-mono",
-    "votes": 7,
-    "posted": "Nov 9, 2016 2:30:17 AM"
-  },
-  {
-    "id": "12905398",
-    "timestamp": "Nov 9, 2016 2:45:45 AM",
-    "topic": "Deep Learning cleans podcast episodes from ‘ahem’ sounds",
-    "url": "https://github.com/worldofpiggy/deeplearning-ahem-detector",
-    "votes": 5,
-    "posted": "Nov 9, 2016 2:23:08 AM"
-  },
-  {
-    "id": "12905346",
-    "timestamp": "Nov 10, 2016 12:07:42 AM",
-    "topic": "Show HN: I\u0027m 17 and I created an iOS app to hide one photo within another",
-    "url": "https://itunes.apple.com/us/app/veil-hide-and-reveal-photos/id1171571496",
-    "votes": 7,
-    "posted": "Nov 9, 2016 2:07:45 AM"
   }
 ];
