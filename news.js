@@ -1,5 +1,108 @@
 var newsArray = [
   {
+    "id": "12967935",
+    "timestamp": "Nov 16, 2016 4:53:08 PM",
+    "topic": "Microsoft Announces SQL Server V.Next for Windows and Linux",
+    "url": "https://techcrunch.com/2016/11/16/microsofts-sql-server-for-linux-is-now-available-for-testing/",
+    "votes": 20,
+    "posted": "Nov 16, 2016 4:45:08 PM"
+  },
+  {
+    "id": "12967921",
+    "timestamp": "Nov 16, 2016 4:52:47 PM",
+    "topic": "Google Joins .NET Foundation Technical Steering Group",
+    "url": "https://techcrunch.com/2016/11/16/google-signs-on-to-the-net-foundation-and-samsung-brings-net-support-to-tizen/",
+    "votes": 23,
+    "posted": "Nov 16, 2016 4:44:33 PM"
+  },
+  {
+    "id": "12967901",
+    "timestamp": "Nov 16, 2016 4:52:47 PM",
+    "topic": "Microsoft Visual Studio 2017 Release Candidate",
+    "url": "https://www.visualstudio.com/vs/visual-studio-2017-rc/",
+    "votes": 24,
+    "posted": "Nov 16, 2016 4:42:48 PM"
+  },
+  {
+    "id": "12967898",
+    "timestamp": "Nov 16, 2016 4:53:09 PM",
+    "topic": "Google Cloud to Join .NET Foundation Technical Steering Group",
+    "url": "https://cloudplatform.googleblog.com/2016/11/Google-Cloud-to-join-NET-Foundation-Technical-Steering-Group.html",
+    "votes": 9,
+    "posted": "Nov 16, 2016 4:42:20 PM"
+  },
+  {
+    "id": "12967847",
+    "timestamp": "Nov 16, 2016 4:53:08 PM",
+    "topic": "Visual Studio for Mac – Preview",
+    "url": "https://www.visualstudio.com/vs/visual-studio-for-mac/",
+    "votes": 20,
+    "posted": "Nov 16, 2016 4:37:52 PM"
+  },
+  {
+    "id": "12967819",
+    "timestamp": "Nov 16, 2016 4:42:46 PM",
+    "topic": "Microsoft joins the Linux Foundation",
+    "url": "https://techcrunch.com/2016/11/16/microsoft-joins-the-linux-foundation/",
+    "votes": 25,
+    "posted": "Nov 16, 2016 4:35:40 PM"
+  },
+  {
+    "id": "12967770",
+    "timestamp": "Nov 16, 2016 4:42:46 PM",
+    "topic": "Microsoft Becomes Linux Foundation Platinum Member",
+    "url": "https://www.linuxfoundation.org/announcements/microsoft-fortifies-commitment-to-open-source-becomes-linux-foundation-platinum",
+    "votes": 30,
+    "posted": "Nov 16, 2016 4:31:35 PM"
+  },
+  {
+    "id": "12967630",
+    "timestamp": "Nov 16, 2016 4:42:46 PM",
+    "topic": "According to Snopes, Fake News Is Not the Problem",
+    "url": "https://backchannel.com/according-to-snopes-fake-news-is-not-the-problem-4ca4852b1ff0#.6sx16urid",
+    "votes": 6,
+    "posted": "Nov 16, 2016 4:17:38 PM"
+  },
+  {
+    "id": "12967274",
+    "timestamp": "Nov 16, 2016 4:02:42 PM",
+    "topic": "GitHub down",
+    "url": "https://status.github.com/#november-16-2016",
+    "votes": 31,
+    "posted": "Nov 16, 2016 3:50:03 PM"
+  },
+  {
+    "id": "12967272",
+    "timestamp": "Nov 16, 2016 4:32:45 PM",
+    "topic": "Ask HN: Can anyone recommend a web development company to fix my webiste?",
+    "votes": 4,
+    "posted": "Nov 16, 2016 3:49:54 PM"
+  },
+  {
+    "id": "12966993",
+    "timestamp": "Nov 16, 2016 4:42:46 PM",
+    "topic": "Welcome to Visual Studio 2017 RC",
+    "url": "https://docs.microsoft.com/en-us/visualstudio/welcome-to-visual-studio",
+    "votes": 5,
+    "posted": "Nov 16, 2016 3:24:25 PM"
+  },
+  {
+    "id": "12966954",
+    "timestamp": "Nov 16, 2016 4:42:46 PM",
+    "topic": "NSA: A “nation-state” used Wikileaks to influence the US election",
+    "url": "http://qz.com/838615/nsa-chief-on-wikileaks-and-the-hacks-affecting-the-us-election-a-conscious-effort-by-a-nation-state/",
+    "votes": 7,
+    "posted": "Nov 16, 2016 3:18:32 PM"
+  },
+  {
+    "id": "12966882",
+    "timestamp": "Nov 16, 2016 4:02:42 PM",
+    "topic": "Facebook Says It Found More Miscalculated Metrics",
+    "url": "http://www.wsj.com/articles/facebook-says-it-found-more-miscalculated-metrics-1479303984",
+    "votes": 12,
+    "posted": "Nov 16, 2016 3:07:18 PM"
+  },
+  {
     "id": "12966815",
     "timestamp": "Nov 16, 2016 3:22:39 PM",
     "topic": "The World in 2076",
@@ -22,6 +125,14 @@ var newsArray = [
     "url": "http://arstechnica.com/security/2016/11/meet-poisontap-the-5-tool-that-ransacks-password-protected-computers/",
     "votes": 3,
     "posted": "Nov 16, 2016 2:32:13 PM"
+  },
+  {
+    "id": "12966520",
+    "timestamp": "Nov 16, 2016 4:32:45 PM",
+    "topic": "Most project managers ignore a huge aspect of task estimation",
+    "url": "https://www.linkedin.com/pulse/most-project-managers-ignore-huge-aspect-task-maioli-mackeprang",
+    "votes": 4,
+    "posted": "Nov 16, 2016 2:03:40 PM"
   },
   {
     "id": "12966351",
@@ -54,6 +165,14 @@ var newsArray = [
     "url": "http://www.theregister.co.uk/2016/11/15/shazam_listening/",
     "votes": 3,
     "posted": "Nov 16, 2016 12:12:18 PM"
+  },
+  {
+    "id": "12966015",
+    "timestamp": "Nov 16, 2016 4:12:43 PM",
+    "topic": "Connect(); // 2016",
+    "url": "https://connectevent.microsoft.com/",
+    "votes": 9,
+    "posted": "Nov 16, 2016 12:04:01 PM"
   },
   {
     "id": "12965846",
@@ -722,6 +841,14 @@ var newsArray = [
     "url": "https://m.signalvnoise.com/how-i-left-behind-my-silicon-dream-for-a-saner-place-to-work-3c58c9bc24ab#.pqu70xkad",
     "votes": 3,
     "posted": "Nov 15, 2016 9:29:37 PM"
+  },
+  {
+    "id": "12961907",
+    "timestamp": "Nov 16, 2016 4:22:44 PM",
+    "topic": "How Fujifilm’s cameras and lenses are Made in Japan",
+    "url": "http://www.theverge.com/2016/1/18/10785038/fujifilm-x-pro-2-lens-factory-manufacturing-photos",
+    "votes": 4,
+    "posted": "Nov 15, 2016 9:28:59 PM"
   },
   {
     "id": "12961849",
@@ -8076,37 +8203,5 @@ var newsArray = [
     "url": "https://github.com/WhitestormJS/whitestorm.js",
     "votes": 8,
     "posted": "Nov 9, 2016 4:53:45 PM"
-  },
-  {
-    "id": "12910917",
-    "timestamp": "Nov 9, 2016 4:57:00 PM",
-    "topic": "It\u0027s Going to Be Okay",
-    "url": "http://waitbutwhy.com/2016/11/its-going-to-be-okay.html",
-    "votes": 6,
-    "posted": "Nov 9, 2016 4:35:24 PM"
-  },
-  {
-    "id": "12910882",
-    "timestamp": "Nov 9, 2016 7:17:14 PM",
-    "topic": "Developer Book Club",
-    "url": "https://henrikwarne.com/2016/11/08/developer-book-club/",
-    "votes": 4,
-    "posted": "Nov 9, 2016 4:29:13 PM"
-  },
-  {
-    "id": "12910863",
-    "timestamp": "Nov 9, 2016 5:17:02 PM",
-    "topic": "The Democratic Party Establishment Is Finished",
-    "url": "http://www.slate.com/articles/news_and_politics/politics/2016/11/the_democratic_party_establishment_is_finished_after_trump.html",
-    "votes": 4,
-    "posted": "Nov 9, 2016 4:25:38 PM"
-  },
-  {
-    "id": "12910820",
-    "timestamp": "Nov 9, 2016 6:07:07 PM",
-    "topic": "I\u0027m Scared – Opinion piece from a Muslim MIT student on the 2016 election",
-    "url": "https://medium.com/@moinnadeem/our-2016-election-a1274f808b17#.ts4eirwwg",
-    "votes": 5,
-    "posted": "Nov 9, 2016 4:17:39 PM"
   }
 ];
