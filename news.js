@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12965209",
+    "timestamp": "Nov 16, 2016 8:51:55 AM",
+    "topic": "MySQL 8.0: JSON Aggregation functions",
+    "url": "https://schlueters.de/blog/archives/183-MySQL-8.0-JSON-Aggregation-functions.html",
+    "votes": 3,
+    "posted": "Nov 16, 2016 8:45:07 AM"
+  },
+  {
     "id": "12964951",
     "timestamp": "Nov 16, 2016 7:51:50 AM",
     "topic": "Ironclad: allow IronPython to import and use compiled CPython extensions",
     "url": "https://github.com/IronLanguages/ironclad",
     "votes": 5,
     "posted": "Nov 16, 2016 7:25:20 AM"
+  },
+  {
+    "id": "12964917",
+    "timestamp": "Nov 16, 2016 8:11:52 AM",
+    "topic": "Cognitive biases",
+    "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
+    "votes": 3,
+    "posted": "Nov 16, 2016 7:16:21 AM"
+  },
+  {
+    "id": "12964901",
+    "timestamp": "Nov 16, 2016 8:31:53 AM",
+    "topic": "The code I’m still ashamed of",
+    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.yx291w59i",
+    "votes": 3,
+    "posted": "Nov 16, 2016 7:12:33 AM"
+  },
+  {
+    "id": "12964864",
+    "timestamp": "Nov 16, 2016 8:11:52 AM",
+    "topic": "People are getting sick of working in the “sharing” economy",
+    "url": "http://qz.com/837237/people-are-getting-sick-of-working-in-the-sharing-economy/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:00:49 AM"
+  },
+  {
+    "id": "12964851",
+    "timestamp": "Nov 16, 2016 8:01:51 AM",
+    "topic": "Clarity Design System for Angular 2",
+    "url": "https://vmware.github.io/clarity/index.html",
+    "votes": 5,
+    "posted": "Nov 16, 2016 6:56:05 AM"
   },
   {
     "id": "12964645",
@@ -8056,90 +8096,5 @@ var newsArray = [
     "url": "http://www.antipope.org/charlie/blog-static/2016/11/the-day-after.html",
     "votes": 3,
     "posted": "Nov 9, 2016 9:32:46 AM"
-  },
-  {
-    "id": "12907349",
-    "timestamp": "Nov 9, 2016 8:56:18 AM",
-    "topic": "FoxNews announces Trump new president of the United States",
-    "url": "http://www.foxnews.com/politics/2016/11/08/fox-news-projects-trump-wins-presidency.html",
-    "votes": 4,
-    "posted": "Nov 9, 2016 8:48:24 AM"
-  },
-  {
-    "id": "12907278",
-    "timestamp": "Nov 9, 2016 9:06:19 AM",
-    "topic": "Hillary Clinton concedes",
-    "url": "http://www.cnn.com/2016/11/08/politics/election-day-2016-highlights/index.html",
-    "votes": 4,
-    "posted": "Nov 9, 2016 8:43:25 AM"
-  },
-  {
-    "id": "12907252",
-    "timestamp": "Nov 9, 2016 10:06:23 AM",
-    "topic": "Developer-driven development",
-    "url": "https://dev.to/isaacandsuch/developer-driven-development/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 8:41:17 AM"
-  },
-  {
-    "id": "12907201",
-    "timestamp": "Nov 9, 2016 8:46:16 AM",
-    "topic": "Donald trump is the new US president",
-    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/08/donald-trumps-path-to-victory-is-suddenly-looking-much-much-wider/?hpid\u003dhp_hp-bignews3_fix-electoralmap-210am%3Ahomepage%2Fstory",
-    "votes": 77,
-    "posted": "Nov 9, 2016 8:36:47 AM"
-  },
-  {
-    "id": "12907145",
-    "timestamp": "Nov 9, 2016 8:46:16 AM",
-    "topic": "Ask HN: POTUS Donald Trump; What this means to Silicon Valley",
-    "votes": 18,
-    "posted": "Nov 9, 2016 8:30:26 AM"
-  },
-  {
-    "id": "12907100",
-    "timestamp": "Nov 9, 2016 8:46:17 AM",
-    "topic": "Peter Thiel – Full Speech – 2016 Republican National Convention",
-    "url": "https://www.youtube.com/watch?v\u003dUTJB8AkT1dk",
-    "votes": 8,
-    "posted": "Nov 9, 2016 8:26:31 AM"
-  },
-  {
-    "id": "12907055",
-    "timestamp": "Nov 9, 2016 9:26:20 AM",
-    "topic": "E-Ink wallet – The next generation wallet",
-    "url": "https://www.indiegogo.com/projects/e-ink-wallet-the-next-generation-wallet-gadget-gadgets",
-    "votes": 3,
-    "posted": "Nov 9, 2016 8:20:54 AM"
-  },
-  {
-    "id": "12906982",
-    "timestamp": "Nov 9, 2016 8:26:15 AM",
-    "topic": "Ask HN: Who\u0027s making money during the election madness?",
-    "votes": 6,
-    "posted": "Nov 9, 2016 8:11:33 AM"
-  },
-  {
-    "id": "12906896",
-    "timestamp": "Nov 9, 2016 8:46:17 AM",
-    "topic": "Trump and Brexit – International Coverage Bias",
-    "url": "https://medium.com/@WolframHempel_82303/trump-brexit-international-coverage-bias-d52a2e4a3698#.ojfat4y1n",
-    "votes": 6,
-    "posted": "Nov 9, 2016 8:00:24 AM"
-  },
-  {
-    "id": "12906864",
-    "timestamp": "Nov 9, 2016 8:46:17 AM",
-    "topic": "Ask HN: Aside from big business and Twitter, who actually won tonight?",
-    "votes": 3,
-    "posted": "Nov 9, 2016 7:55:05 AM"
-  },
-  {
-    "id": "12906846",
-    "timestamp": "Nov 9, 2016 8:06:12 AM",
-    "topic": "Donald Trump Is the Next President of the United States",
-    "url": "http://www.realclearpolitics.com/elections/live_results/2016_general/president/map.html",
-    "votes": 10,
-    "posted": "Nov 9, 2016 7:52:33 AM"
   }
 ];
