@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12966335",
+    "timestamp": "Nov 16, 2016 1:52:31 PM",
+    "topic": "Ibuprofen May Not Be as Safe as You Think",
+    "url": "http://time.com/4568552/ibuprofen-naproxen-inflammation-safety/",
+    "votes": 5,
+    "posted": "Nov 16, 2016 1:22:14 PM"
+  },
+  {
+    "id": "12966051",
+    "timestamp": "Nov 16, 2016 1:12:28 PM",
+    "topic": "Shazam is always listening – even when it\u0027s been switched \u0027off\u0027",
+    "url": "http://www.theregister.co.uk/2016/11/15/shazam_listening/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 12:12:18 PM"
+  },
+  {
+    "id": "12965846",
+    "timestamp": "Nov 16, 2016 1:02:27 PM",
+    "topic": "Apple thinks you’re stupid, sells $300 book of adverts",
+    "url": "http://www.thememo.com/2016/11/16/apple-book-designed-by-apple-in-california-book-buy-apple-book/",
+    "votes": 6,
+    "posted": "Nov 16, 2016 11:25:17 AM"
+  },
+  {
     "id": "12965589",
     "timestamp": "Nov 16, 2016 10:42:04 AM",
     "topic": "The code I’m still ashamed of",
@@ -8052,44 +8076,5 @@ var newsArray = [
     "url": "http://www.latimes.com/politics/la-na-pol-usc-latimes-poll-20161108-story.html",
     "votes": 2,
     "posted": "Nov 9, 2016 2:01:41 PM"
-  },
-  {
-    "id": "12909823",
-    "timestamp": "Nov 9, 2016 2:06:44 PM",
-    "topic": "A Coalition of All Democratic Forces, Part III: What If Trumps Wins",
-    "url": "https://www.lawfareblog.com/coalition-all-democratic-forces-part-iii-what-if-trump-wins",
-    "votes": 3,
-    "posted": "Nov 9, 2016 1:49:58 PM"
-  },
-  {
-    "id": "12909752",
-    "timestamp": "Nov 9, 2016 4:57:00 PM",
-    "topic": "Donald Trump Is Elected President",
-    "url": "http://www.nytimes.com/2016/11/09/us/politics/hillary-clinton-donald-trump-president.html",
-    "votes": 28,
-    "posted": "Nov 9, 2016 1:37:41 PM"
-  },
-  {
-    "id": "12909598",
-    "timestamp": "Nov 9, 2016 1:36:41 PM",
-    "topic": "Pros and cons of iOS and Android mobile app development",
-    "url": "http://www.slideshare.net/WhallaLabs/mobile-application-development-ios-vs-android",
-    "votes": 3,
-    "posted": "Nov 9, 2016 1:13:43 PM"
-  },
-  {
-    "id": "12909585",
-    "timestamp": "Nov 9, 2016 6:27:09 PM",
-    "topic": "An American Tragedy",
-    "url": "http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump",
-    "votes": 5,
-    "posted": "Nov 9, 2016 1:11:34 PM"
-  },
-  {
-    "id": "12909519",
-    "timestamp": "Nov 9, 2016 2:56:48 PM",
-    "topic": "Now Trump is president, demand his Tax Records as he promised",
-    "votes": 4,
-    "posted": "Nov 9, 2016 12:59:15 PM"
   }
 ];
