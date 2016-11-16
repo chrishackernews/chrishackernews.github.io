@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12964052",
+    "timestamp": "Nov 16, 2016 3:31:27 AM",
+    "topic": "Biggest Spike in Traffic Deaths in 50 Years? Blame Apps",
+    "url": "http://www.nytimes.com/2016/11/16/business/tech-distractions-blamed-for-rise-in-traffic-fatalities.html",
+    "votes": 4,
+    "posted": "Nov 16, 2016 3:25:43 AM"
+  },
+  {
+    "id": "12963998",
+    "timestamp": "Nov 16, 2016 3:41:28 AM",
+    "topic": "Mysterious Winds Cause Rapid Melting of Antarctic Ice",
+    "url": "http://news.nationalgeographic.com/2016/11/foehn-winds-melt-ice-shelves-antarctic-peninsula-larsen-c/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 3:08:56 AM"
+  },
+  {
+    "id": "12963887",
+    "timestamp": "Nov 16, 2016 3:51:29 AM",
+    "topic": "Mark Zuckerberg Continues to Miss the Point on Facebook and Media",
+    "url": "http://fortune.com/2016/11/14/zuckerberg-facebook-media/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 2:39:40 AM"
+  },
+  {
     "id": "12963740",
     "timestamp": "Nov 16, 2016 2:51:24 AM",
     "topic": "I\u0027m moving back to Serbia",
@@ -8,11 +32,51 @@ var newsArray = [
     "posted": "Nov 16, 2016 2:02:16 AM"
   },
   {
+    "id": "12963724",
+    "timestamp": "Nov 16, 2016 3:51:29 AM",
+    "topic": "Introduction to Node and Express",
+    "url": "https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd",
+    "votes": 4,
+    "posted": "Nov 16, 2016 1:55:41 AM"
+  },
+  {
     "id": "12963708",
     "timestamp": "Nov 16, 2016 2:01:17 AM",
     "topic": "UI/Front-End Engineer at ReadWorks (Remote or Brooklyn NY)",
     "votes": 1,
     "posted": "Nov 16, 2016 1:52:18 AM"
+  },
+  {
+    "id": "12963694",
+    "timestamp": "Nov 16, 2016 3:51:28 AM",
+    "topic": "Advancing our ambition to democratize artificial intelligence",
+    "url": "http://blogs.microsoft.com/blog/2016/11/15/advancing-ambition-democratize-artificial-intelligence/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 1:49:52 AM"
+  },
+  {
+    "id": "12963647",
+    "timestamp": "Nov 16, 2016 3:51:29 AM",
+    "topic": "Amazon takes counterfeit sellers to court for first time",
+    "url": "http://www.cnbc.com/2016/11/15/amazon-takes-counterfeit-sellers-to-court-for-first-time.html",
+    "votes": 3,
+    "posted": "Nov 16, 2016 1:39:25 AM"
+  },
+  {
+    "id": "12963549",
+    "timestamp": "Nov 16, 2016 3:51:29 AM",
+    "topic": "This is why Snapchat didn’t give Spectacles to techies",
+    "url": "https://techcrunch.com/2016/11/15/spectascobles/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 1:15:59 AM"
+  },
+  {
+    "id": "12963532",
+    "timestamp": "Nov 16, 2016 3:51:29 AM",
+    "topic": "Deadmau5 Teaches Electronic Music Production – Official Trailer",
+    "url": "https://www.youtube.com/watch?v\u003ddtj6dDARgfQ",
+    "votes": 3,
+    "posted": "Nov 16, 2016 1:11:34 AM"
   },
   {
     "id": "12963364",
@@ -52,6 +116,14 @@ var newsArray = [
     "topic": "Ask HN: Beginner\u0027s example to running something on GPU?",
     "votes": 6,
     "posted": "Nov 16, 2016 12:07:43 AM"
+  },
+  {
+    "id": "12963126",
+    "timestamp": "Nov 16, 2016 3:11:26 AM",
+    "topic": "Amazon QuickSight now generally available",
+    "url": "https://quicksight.aws",
+    "votes": 4,
+    "posted": "Nov 16, 2016 12:03:19 AM"
   },
   {
     "id": "12962999",
@@ -8185,45 +8257,5 @@ var newsArray = [
     "url": "http://www.politico.com/story/2016/11/nate-silver-huffington-post-polls-twitter-230815",
     "votes": 9,
     "posted": "Nov 9, 2016 4:07:55 AM"
-  },
-  {
-    "id": "12905749",
-    "timestamp": "Nov 9, 2016 9:16:19 AM",
-    "topic": "Blockchain game that runs in the browser",
-    "url": "http://gotoshi.de/about",
-    "votes": 4,
-    "posted": "Nov 9, 2016 3:48:52 AM"
-  },
-  {
-    "id": "12905717",
-    "timestamp": "Nov 9, 2016 5:25:57 AM",
-    "topic": "GoPro is recalling the Karma drone after just 16 days on the market",
-    "url": "https://techcrunch.com/2016/11/08/gopro-is-recalling-the-karma-drone-after-just-16-days-on-the-market/?ncid\u003drss",
-    "votes": 4,
-    "posted": "Nov 9, 2016 3:42:23 AM"
-  },
-  {
-    "id": "12905711",
-    "timestamp": "Nov 9, 2016 4:15:52 AM",
-    "topic": "How Segregated Witness Is About to Fix Hardware Wallets",
-    "url": "https://bitcoinmagazine.com/articles/how-segregated-witness-is-about-to-fix-hardware-wallets-1478110057?_ke\u003dbW9za2FseXVrQGdtYWlsLmNvbQ%3D%3D",
-    "votes": 3,
-    "posted": "Nov 9, 2016 3:41:31 AM"
-  },
-  {
-    "id": "12905668",
-    "timestamp": "Nov 9, 2016 3:45:49 AM",
-    "topic": "Detecting Genre from Book Covers Using Deep Learning",
-    "url": "https://arxiv.org/abs/1610.09204",
-    "votes": 4,
-    "posted": "Nov 9, 2016 3:31:48 AM"
-  },
-  {
-    "id": "12905541",
-    "timestamp": "Nov 9, 2016 3:25:48 AM",
-    "topic": "New MacBook Pro is selling like crazy",
-    "url": "https://www.google.com/amp/bgr.com/2016/11/08/macbook-pro-sale-apple-13-inch-revenue-numbers/amp/?client\u003dsafari",
-    "votes": 8,
-    "posted": "Nov 9, 2016 2:58:59 AM"
   }
 ];
