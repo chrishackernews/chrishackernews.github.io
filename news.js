@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12964354",
+    "timestamp": "Nov 16, 2016 5:41:39 AM",
+    "topic": "Fanless desktop computer",
+    "url": "https://airtop-pc.com/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 4:33:37 AM"
+  },
+  {
+    "id": "12964336",
+    "timestamp": "Nov 16, 2016 5:11:36 AM",
+    "topic": "Richard Branson reveals prototype for supersonic passenger aircraft",
+    "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom",
+    "votes": 3,
+    "posted": "Nov 16, 2016 4:28:30 AM"
+  },
+  {
     "id": "12964052",
     "timestamp": "Nov 16, 2016 3:31:27 AM",
     "topic": "Biggest Spike in Traffic Deaths in 50 Years? Blame Apps",
@@ -117,6 +133,14 @@ var newsArray = [
     "url": "https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/",
     "votes": 3,
     "posted": "Nov 16, 2016 12:22:18 AM"
+  },
+  {
+    "id": "12963180",
+    "timestamp": "Nov 16, 2016 5:11:36 AM",
+    "topic": "The interesting life of Cornelius Lanczos(1893-1974)",
+    "url": "https://www.youtube.com/watch?v\u003dPO6xtSxB5Vg",
+    "votes": 3,
+    "posted": "Nov 16, 2016 12:13:05 AM"
   },
   {
     "id": "12963149",
@@ -363,6 +387,14 @@ var newsArray = [
     "url": "https://www.quantamagazine.org/20161115-strange-numbers-found-in-particle-collisions/",
     "votes": 5,
     "posted": "Nov 15, 2016 9:42:07 PM"
+  },
+  {
+    "id": "12961971",
+    "timestamp": "Nov 16, 2016 5:31:38 AM",
+    "topic": "On metadata",
+    "url": "http://lemire.me/blog/2016/11/15/on-metadata/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 9:36:26 PM"
   },
   {
     "id": "12961914",
@@ -2878,6 +2910,14 @@ var newsArray = [
     "posted": "Nov 13, 2016 11:20:33 PM"
   },
   {
+    "id": "12945989",
+    "timestamp": "Nov 16, 2016 5:51:40 AM",
+    "topic": "British Airways Flight 5390",
+    "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_5390",
+    "votes": 4,
+    "posted": "Nov 13, 2016 11:14:38 PM"
+  },
+  {
     "id": "12945832",
     "timestamp": "Nov 14, 2016 3:56:43 AM",
     "topic": "The Supermanagerial Reich",
@@ -3081,6 +3121,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dBY1OKSObkH0",
     "votes": 5,
     "posted": "Nov 13, 2016 7:20:51 PM"
+  },
+  {
+    "id": "12944680",
+    "timestamp": "Nov 16, 2016 5:51:40 AM",
+    "topic": "Moissanite",
+    "url": "https://en.wikipedia.org/wiki/Moissanite",
+    "votes": 4,
+    "posted": "Nov 13, 2016 7:16:23 PM"
   },
   {
     "id": "12944655",
@@ -8162,92 +8210,5 @@ var newsArray = [
     "url": "http://www.ctvnews.ca/canada/canada-s-immigration-website-crashes-on-election-night-1.3152231?hootPostID\u003d14d10ea891a36bd74ea02d19ec7cf954",
     "votes": 38,
     "posted": "Nov 9, 2016 6:07:50 AM"
-  },
-  {
-    "id": "12906129",
-    "timestamp": "Nov 9, 2016 6:36:04 AM",
-    "topic": "Nginx.conf 2016: Keynote with Gus Robertson and Igor Sysoev",
-    "url": "https://www.nginx.com/blog/gus-robertson-keynote-with-igor-sysoev-nginx-conf-2016/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 5:50:58 AM"
-  },
-  {
-    "id": "12906119",
-    "timestamp": "Nov 9, 2016 6:26:03 AM",
-    "topic": "Elm is Wrong",
-    "url": "http://reasonablypolymorphic.com/blog/elm-is-wrong",
-    "votes": 14,
-    "posted": "Nov 9, 2016 5:49:05 AM"
-  },
-  {
-    "id": "12906081",
-    "timestamp": "Nov 9, 2016 5:45:59 AM",
-    "topic": "California just legalized recreational marijuana",
-    "url": "http://www.theverge.com/2016/11/8/13520486/marijuana-legalization-california-election-2016",
-    "votes": 6,
-    "posted": "Nov 9, 2016 5:38:08 AM"
-  },
-  {
-    "id": "12906065",
-    "timestamp": "Nov 9, 2016 5:45:59 AM",
-    "topic": "Canada\u0027s Start-up Visa",
-    "url": "http://www.cic.gc.ca/english/immigrate/business/start-up/",
-    "votes": 4,
-    "posted": "Nov 9, 2016 5:34:06 AM"
-  },
-  {
-    "id": "12906040",
-    "timestamp": "Nov 9, 2016 5:56:00 AM",
-    "topic": "It\u0027s Charisma, Stupid",
-    "url": "http://paulgraham.com/charisma.html",
-    "votes": 7,
-    "posted": "Nov 9, 2016 5:27:14 AM"
-  },
-  {
-    "id": "12906019",
-    "timestamp": "Nov 9, 2016 6:26:03 AM",
-    "topic": "Ask HN: Any good resources for finding software jobs abroad?",
-    "votes": 5,
-    "posted": "Nov 9, 2016 5:23:18 AM"
-  },
-  {
-    "id": "12906002",
-    "timestamp": "Nov 9, 2016 8:46:17 AM",
-    "topic": "14 Tech Tools for Your Coworking Space",
-    "url": "http://www.thefarmsoho.com/magazine-blog/coworking-space-nyc/tech-coworking-space",
-    "votes": 3,
-    "posted": "Nov 9, 2016 5:16:43 AM"
-  },
-  {
-    "id": "12905991",
-    "timestamp": "Nov 9, 2016 5:35:58 AM",
-    "topic": "LAPD Prepping for “Riot Mode” in Some Neighborhoods If Donald Trump Wins",
-    "url": "http://deadline.com/2016/11/lapd-riot-mode-plans-donald-trump-election-1201850978/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 5:12:21 AM"
-  },
-  {
-    "id": "12905954",
-    "timestamp": "Nov 9, 2016 5:25:57 AM",
-    "topic": "Real-Time Stock Indices Futures",
-    "url": "http://www.investing.com/indices/indices-futures",
-    "votes": 4,
-    "posted": "Nov 9, 2016 5:01:54 AM"
-  },
-  {
-    "id": "12905939",
-    "timestamp": "Nov 9, 2016 5:45:59 AM",
-    "topic": "Why you should never use Socket.IO",
-    "url": "https://github.com/uWebSockets/uWebSockets#benchmarks-table---validate",
-    "votes": 11,
-    "posted": "Nov 9, 2016 4:58:00 AM"
-  },
-  {
-    "id": "12905919",
-    "timestamp": "Nov 9, 2016 5:25:57 AM",
-    "topic": "OpenSource Electronic Medical Records (EMR) Software",
-    "url": "http://www.bahmni.org/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 4:51:43 AM"
   }
 ];
