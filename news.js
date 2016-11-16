@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 3:25:43 AM"
   },
   {
+    "id": "12964044",
+    "timestamp": "Nov 16, 2016 4:21:32 AM",
+    "topic": "China\u0027s first aircraft carrier is ready for business",
+    "url": "http://chinapower.csis.org/aircraft-carrier/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 3:24:11 AM"
+  },
+  {
     "id": "12963998",
     "timestamp": "Nov 16, 2016 3:41:28 AM",
     "topic": "Mysterious Winds Cause Rapid Melting of Antarctic Ice",
@@ -251,6 +259,14 @@ var newsArray = [
     "url": "https://jobs.lever.co/leadgenius/5a22212b-5ae4-47ca-b732-65d824eb10ad",
     "votes": 1,
     "posted": "Nov 15, 2016 10:31:52 PM"
+  },
+  {
+    "id": "12962381",
+    "timestamp": "Nov 16, 2016 4:01:30 AM",
+    "topic": "Quick, Draw",
+    "url": "https://quickdraw.withgoogle.com/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 10:28:16 PM"
   },
   {
     "id": "12962369",
@@ -8233,29 +8249,5 @@ var newsArray = [
     "url": "http://www.bahmni.org/",
     "votes": 3,
     "posted": "Nov 9, 2016 4:51:43 AM"
-  },
-  {
-    "id": "12905883",
-    "timestamp": "Nov 9, 2016 6:16:02 AM",
-    "topic": "Scroll with your mouse on a remote mosh tmux session",
-    "url": "https://blog.filippo.io/my-remote-shell-session-setup/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 4:37:12 AM"
-  },
-  {
-    "id": "12905840",
-    "timestamp": "Nov 9, 2016 8:06:12 AM",
-    "topic": "BGP Large Communities: time to take action",
-    "url": "https://blog.apnic.net/2016/11/09/bgp-large-communities-time-take-action/",
-    "votes": 4,
-    "posted": "Nov 9, 2016 4:23:58 AM"
-  },
-  {
-    "id": "12905795",
-    "timestamp": "Nov 9, 2016 5:05:55 AM",
-    "topic": "Nate Silver rages at Huffington Post editor in 14-part tweetstorm",
-    "url": "http://www.politico.com/story/2016/11/nate-silver-huffington-post-polls-twitter-230815",
-    "votes": 9,
-    "posted": "Nov 9, 2016 4:07:55 AM"
   }
 ];
