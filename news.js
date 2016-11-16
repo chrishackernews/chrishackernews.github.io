@@ -1,10 +1,65 @@
 var newsArray = [
   {
+    "id": "12969130",
+    "timestamp": "Nov 16, 2016 6:43:23 PM",
+    "topic": "Announcing the Fastest ASP.NET Yet, ASP.NET Core 1.1 RTM",
+    "url": "https://blogs.msdn.microsoft.com/webdev/2016/11/16/announcing-asp-net-core-1-1/",
+    "votes": 10,
+    "posted": "Nov 16, 2016 6:18:40 PM"
+  },
+  {
+    "id": "12969120",
+    "timestamp": "Nov 16, 2016 6:43:23 PM",
+    "topic": "Announcing .NET Core 1.1",
+    "url": "https://blogs.msdn.microsoft.com/dotnet/2016/11/16/announcing-net-core-1-1/",
+    "votes": 10,
+    "posted": "Nov 16, 2016 6:18:02 PM"
+  },
+  {
+    "id": "12969014",
+    "timestamp": "Nov 16, 2016 6:23:21 PM",
+    "topic": "Rust and the Future of Systems Programming",
+    "url": "https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/",
+    "votes": 9,
+    "posted": "Nov 16, 2016 6:08:42 PM"
+  },
+  {
+    "id": "12968952",
+    "timestamp": "Nov 16, 2016 6:33:22 PM",
+    "topic": "Show HN: PgRebase, codebase management for postgres",
+    "url": "https://github.com/oelmekki/pgrebase",
+    "votes": 9,
+    "posted": "Nov 16, 2016 6:03:29 PM"
+  },
+  {
+    "id": "12968559",
+    "timestamp": "Nov 16, 2016 6:23:21 PM",
+    "topic": "Rust and the Future of Systems Programming",
+    "url": "https://medium.com/mozilla-tech/b75fba746910",
+    "votes": 4,
+    "posted": "Nov 16, 2016 5:31:18 PM"
+  },
+  {
+    "id": "12968544",
+    "timestamp": "Nov 16, 2016 6:03:20 PM",
+    "topic": "Ask HN: What are the simplest ways to pay your engineers outside of US?",
+    "votes": 4,
+    "posted": "Nov 16, 2016 5:30:15 PM"
+  },
+  {
     "id": "12968308",
     "timestamp": "Nov 16, 2016 5:13:10 PM",
     "topic": "GiveCampus (YC S15) is hiring Ruby engineers who care about education",
     "votes": 1,
     "posted": "Nov 16, 2016 5:11:08 PM"
+  },
+  {
+    "id": "12968258",
+    "timestamp": "Nov 16, 2016 6:33:22 PM",
+    "topic": "Melown – The 3D Map Developer\u0027s Library",
+    "url": "https://www.melown.com/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 5:08:01 PM"
   },
   {
     "id": "12968228",
@@ -45,6 +100,14 @@ var newsArray = [
     "url": "https://mobile.azure.com",
     "votes": 11,
     "posted": "Nov 16, 2016 4:52:18 PM"
+  },
+  {
+    "id": "12967991",
+    "timestamp": "Nov 16, 2016 6:03:20 PM",
+    "topic": "ES6 is great, until it’s not",
+    "url": "https://medium.com/@sAbakumoff/es6-is-great-until-its-not-f398339d0af6#.6fdcsr17i",
+    "votes": 4,
+    "posted": "Nov 16, 2016 4:49:26 PM"
   },
   {
     "id": "12967935",
@@ -109,6 +172,14 @@ var newsArray = [
     "url": "https://backchannel.com/according-to-snopes-fake-news-is-not-the-problem-4ca4852b1ff0#.6sx16urid",
     "votes": 6,
     "posted": "Nov 16, 2016 4:17:38 PM"
+  },
+  {
+    "id": "12967623",
+    "timestamp": "Nov 16, 2016 6:03:19 PM",
+    "topic": "Our World Is Going Full ‘Black Mirror’",
+    "url": "https://backchannel.com/our-world-is-going-full-black-mirror-946212a98184#.5qhncp8nz",
+    "votes": 7,
+    "posted": "Nov 16, 2016 4:17:03 PM"
   },
   {
     "id": "12967350",
@@ -3076,6 +3147,13 @@ var newsArray = [
     "url": "http://designyoutrust.com/2016/11/photographer-tracks-down-people-he-snapped-in-his-hometown-almost-40-years-ago-to-recreate-the-remarkable-images/",
     "votes": 3,
     "posted": "Nov 14, 2016 11:43:35 AM"
+  },
+  {
+    "id": "12948776",
+    "timestamp": "Nov 16, 2016 6:33:22 PM",
+    "topic": "Ask HN: Open Source Project for Udemy/Coursera Functionality",
+    "votes": 4,
+    "posted": "Nov 14, 2016 11:26:59 AM"
   },
   {
     "id": "12948674",
@@ -8076,91 +8154,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/10/business/dealbook/stock-markets-election.html",
     "votes": 5,
     "posted": "Nov 9, 2016 7:03:14 PM"
-  },
-  {
-    "id": "12912611",
-    "timestamp": "Nov 10, 2016 7:28:23 AM",
-    "topic": "Ask HN: Are generalists doomed in the job market?",
-    "votes": 10,
-    "posted": "Nov 9, 2016 6:48:57 PM"
-  },
-  {
-    "id": "12912608",
-    "timestamp": "Nov 9, 2016 7:57:18 PM",
-    "topic": "Silicon Valley Investor Peter Thiel Wins Bet on Trump",
-    "url": "http://www.wsj.com/articles/silicon-valley-investor-peter-thiel-wins-bet-on-trump-1478708226",
-    "votes": 15,
-    "posted": "Nov 9, 2016 6:48:55 PM"
-  },
-  {
-    "id": "12912489",
-    "timestamp": "Nov 9, 2016 7:07:12 PM",
-    "topic": "The State of the Art in iOS 10 Test Automation",
-    "url": "http://bitbar.com/the-state-of-the-art-in-ios-10-test-automation-frameworks/",
-    "votes": 4,
-    "posted": "Nov 9, 2016 6:38:42 PM"
-  },
-  {
-    "id": "12912450",
-    "timestamp": "Nov 9, 2016 7:07:12 PM",
-    "topic": "Political Polarization in the American Public (2014)",
-    "url": "http://www.people-press.org/2014/06/12/political-polarization-in-the-american-public/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:35:25 PM"
-  },
-  {
-    "id": "12912443",
-    "timestamp": "Nov 9, 2016 7:17:14 PM",
-    "topic": "Under Trump the future of Net Neutrality and broadband is uncertain",
-    "url": "https://www.engadget.com/2016/11/09/under-trump-the-future-of-net-neutrality-and-broadband-is-uncert/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:34:37 PM"
-  },
-  {
-    "id": "12912366",
-    "timestamp": "Nov 9, 2016 6:57:12 PM",
-    "topic": "Donald Trump is moving to the White House, and liberals put him there",
-    "url": "https://www.theguardian.com/commentisfree/2016/nov/09/donald-trump-white-house-hillary-clinton-liberals",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:29:48 PM"
-  },
-  {
-    "id": "12912217",
-    "timestamp": "Nov 9, 2016 7:07:13 PM",
-    "topic": "How our dumb bot attracted 1M users without even trying",
-    "url": "http://venturebeat.com/2016/11/07/how-our-dumb-bot-attracted-1-million-users-without-even-trying/",
-    "votes": 5,
-    "posted": "Nov 9, 2016 6:18:22 PM"
-  },
-  {
-    "id": "12912192",
-    "timestamp": "Nov 10, 2016 12:47:46 AM",
-    "topic": "Ask HN: Any tech companies/devs doing anything to honor veterans this year?",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:16:31 PM"
-  },
-  {
-    "id": "12912133",
-    "timestamp": "Nov 9, 2016 7:07:13 PM",
-    "topic": "MIT is raising $150M for a new VC fund",
-    "url": "https://www.bostonglobe.com/business/2016/10/26/mit-starts-venture-fund/GzWKqD9DLOZDYvSDrUPN3L/story.html",
-    "votes": 4,
-    "posted": "Nov 9, 2016 6:12:13 PM"
-  },
-  {
-    "id": "12912003",
-    "timestamp": "Nov 9, 2016 8:07:19 PM",
-    "topic": "How Blockchain Will Change Your Life",
-    "url": "http://www.wsj.com/articles/how-blockchain-will-change-your-life-1478564751",
-    "votes": 3,
-    "posted": "Nov 9, 2016 6:03:11 PM"
-  },
-  {
-    "id": "12911985",
-    "timestamp": "Nov 9, 2016 6:47:11 PM",
-    "topic": "Scott Adams Answers Your Questions About Predicting President",
-    "url": "http://blog.dilbert.com/post/152955248046/i-answer-your-questions-about-predicting-president",
-    "votes": 10,
-    "posted": "Nov 9, 2016 6:01:43 PM"
   }
 ];
