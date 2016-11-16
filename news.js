@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12966351",
+    "timestamp": "Nov 16, 2016 2:42:35 PM",
+    "topic": "Amazon QuickSight Now Generally Available",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/amazon-quicksight-now-generally-available/",
+    "votes": 9,
+    "posted": "Nov 16, 2016 1:24:41 PM"
+  },
+  {
     "id": "12966335",
     "timestamp": "Nov 16, 2016 1:52:31 PM",
     "topic": "Ibuprofen May Not Be as Safe as You Think",
@@ -499,6 +507,14 @@ var newsArray = [
     "url": "https://www.duolingo.com/comment/18155544",
     "votes": 4,
     "posted": "Nov 15, 2016 10:57:32 PM"
+  },
+  {
+    "id": "12962545",
+    "timestamp": "Nov 16, 2016 2:42:36 PM",
+    "topic": "A Bed for Fifty People?",
+    "url": "http://www.theparisreview.org/blog/2016/11/15/bed-fifty-people/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 10:48:25 PM"
   },
   {
     "id": "12962477",
@@ -8029,52 +8045,5 @@ var newsArray = [
     "url": "https://boards.greenhouse.io/siftscience/jobs/239993#.WCDAa5MrIUE",
     "votes": 1,
     "posted": "Nov 9, 2016 3:14:09 PM"
-  },
-  {
-    "id": "12910158",
-    "timestamp": "Nov 9, 2016 4:26:58 PM",
-    "topic": "Neural Networks for the Prediction of Organic Chemistry Reactions",
-    "url": "http://pubs.acs.org/doi/abs/10.1021/acscentsci.6b00219",
-    "votes": 5,
-    "posted": "Nov 9, 2016 2:44:27 PM"
-  },
-  {
-    "id": "12909969",
-    "timestamp": "Nov 9, 2016 2:56:48 PM",
-    "topic": "Show HN: DevFreeCasts – A huge collection of free screencasts for developers",
-    "url": "https://devfreecasts.github.io",
-    "votes": 7,
-    "posted": "Nov 9, 2016 2:12:12 PM"
-  },
-  {
-    "id": "12909967",
-    "timestamp": "Nov 9, 2016 2:26:45 PM",
-    "topic": "Show HN: DevFreeBooks – A huge collection of free books for developers",
-    "url": "https://devfreebooks.github.io",
-    "votes": 12,
-    "posted": "Nov 9, 2016 2:11:42 PM"
-  },
-  {
-    "id": "12909935",
-    "timestamp": "Nov 9, 2016 4:46:59 PM",
-    "topic": "Ask HN: How many of you are truly considering moving to Canada?",
-    "votes": 5,
-    "posted": "Nov 9, 2016 2:06:23 PM"
-  },
-  {
-    "id": "12909906",
-    "timestamp": "Nov 9, 2016 3:56:55 PM",
-    "topic": "Practical advice for analysis of large, complex data sets",
-    "url": "http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html",
-    "votes": 3,
-    "posted": "Nov 9, 2016 2:02:20 PM"
-  },
-  {
-    "id": "12909903",
-    "timestamp": "Nov 9, 2016 6:37:10 PM",
-    "topic": "The USC/L.A. Times poll saw what other surveys missed: A wave of Trump support",
-    "url": "http://www.latimes.com/politics/la-na-pol-usc-latimes-poll-20161108-story.html",
-    "votes": 2,
-    "posted": "Nov 9, 2016 2:01:41 PM"
   }
 ];
