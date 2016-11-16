@@ -343,6 +343,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 12:13:05 AM"
   },
   {
+    "id": "12963166",
+    "timestamp": "Nov 16, 2016 11:52:09 AM",
+    "topic": "Machine Learning in 60 Lines of Code",
+    "url": "https://medium.com/@corrigan1247/get-a-jump-start-on-machine-learning-with-perceptrons-dded981ffb49",
+    "votes": 5,
+    "posted": "Nov 16, 2016 12:09:47 AM"
+  },
+  {
     "id": "12963149",
     "timestamp": "Nov 16, 2016 1:01:12 AM",
     "topic": "Ask HN: Beginner\u0027s example to running something on GPU?",
@@ -2429,6 +2437,14 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten",
     "votes": 4,
     "posted": "Nov 14, 2016 6:55:11 PM"
+  },
+  {
+    "id": "12951720",
+    "timestamp": "Nov 16, 2016 11:22:07 AM",
+    "topic": "Show HN: DIY Kubernetes cluster with x86 stick-pcs",
+    "url": "https://medium.com/@moondev/diy-kubernetes-cluster-with-x86-stick-pcs-b0b6b879f8a7",
+    "votes": 4,
+    "posted": "Nov 14, 2016 6:54:54 PM"
   },
   {
     "id": "12951503",
@@ -8090,51 +8106,5 @@ var newsArray = [
     "url": "http://thenextweb.com/politics/2016/11/09/internet-tricked-thinking-trump-wouldnt-win/",
     "votes": 3,
     "posted": "Nov 9, 2016 12:19:34 PM"
-  },
-  {
-    "id": "12909031",
-    "timestamp": "Nov 9, 2016 11:56:33 AM",
-    "topic": "Donald Trump would have lost if Bernie Sanders had been the candidate",
-    "url": "http://www.independent.co.uk/news/people/presidential-election-donald-trump-would-have-lost-if-bernie-sanders-had-been-the-candidate-a7406346.html",
-    "votes": 6,
-    "posted": "Nov 9, 2016 11:37:33 AM"
-  },
-  {
-    "id": "12908974",
-    "timestamp": "Nov 11, 2016 9:00:41 AM",
-    "topic": "Ask HN: Pursuing a STEM masters program in the post-trump US?",
-    "votes": 6,
-    "posted": "Nov 9, 2016 11:28:17 AM"
-  },
-  {
-    "id": "12908850",
-    "timestamp": "Nov 9, 2016 11:36:31 AM",
-    "topic": "Putin Congratulates US President-Elect Trump on Victory",
-    "url": "https://rns.online/articles/-Donald-Tramp-Mneniya-2016-11-09/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 11:12:08 AM"
-  },
-  {
-    "id": "12908803",
-    "timestamp": "Nov 9, 2016 11:26:30 AM",
-    "topic": "Recreational marijuana is now legal in California",
-    "url": "http://www.businessinsider.com/california-legalizes-recreational-marijuana-proposition-64-results-2016-11",
-    "votes": 6,
-    "posted": "Nov 9, 2016 11:04:53 AM"
-  },
-  {
-    "id": "12908729",
-    "timestamp": "Nov 9, 2016 11:56:33 AM",
-    "topic": "GoPro is recalling its Karma drone",
-    "url": "http://www.theverge.com/2016/11/8/13569730/gopro-karma-drone-recall-announced",
-    "votes": 6,
-    "posted": "Nov 9, 2016 10:55:22 AM"
-  },
-  {
-    "id": "12908722",
-    "timestamp": "Nov 9, 2016 11:26:30 AM",
-    "topic": "Mods – genuinely curious why the Eliezer Yudkowsky on Trump post was killed",
-    "votes": 4,
-    "posted": "Nov 9, 2016 10:54:45 AM"
   }
 ];
