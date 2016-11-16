@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "12968308",
+    "timestamp": "Nov 16, 2016 5:13:10 PM",
+    "topic": "GiveCampus (YC S15) is hiring Ruby engineers who care about education",
+    "votes": 1,
+    "posted": "Nov 16, 2016 5:11:08 PM"
+  },
+  {
+    "id": "12968228",
+    "timestamp": "Nov 16, 2016 5:23:17 PM",
+    "topic": "How Casinos Enable Gambling Addicts",
+    "url": "http://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/?single_page\u003dtrue",
+    "votes": 4,
+    "posted": "Nov 16, 2016 5:05:35 PM"
+  },
+  {
+    "id": "12968213",
+    "timestamp": "Nov 16, 2016 5:23:16 PM",
+    "topic": "Think the world’s in a mess? Here are four things you can do about it",
+    "url": "http://theconversation.com/think-the-worlds-in-a-mess-here-are-four-things-you-can-do-about-it-68789",
+    "votes": 4,
+    "posted": "Nov 16, 2016 5:04:40 PM"
+  },
+  {
+    "id": "12968161",
+    "timestamp": "Nov 16, 2016 5:23:16 PM",
+    "topic": "Walk the Earth in VR with Google Earth VR",
+    "url": "https://vr.google.com/earth",
+    "votes": 16,
+    "posted": "Nov 16, 2016 5:00:07 PM"
+  },
+  {
+    "id": "12968147",
+    "timestamp": "Nov 16, 2016 5:23:17 PM",
+    "topic": "This new Samsung SSD is waaaaay faster than yours",
+    "url": "https://www.cnet.com/uk/products/samsung-nvme-ssd-960-evo/preview/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 4:59:10 PM"
+  },
+  {
+    "id": "12968044",
+    "timestamp": "Nov 16, 2016 5:03:09 PM",
+    "topic": "Visual Studio Mobile Center",
+    "url": "https://mobile.azure.com",
+    "votes": 11,
+    "posted": "Nov 16, 2016 4:52:18 PM"
+  },
+  {
     "id": "12967935",
     "timestamp": "Nov 16, 2016 4:53:08 PM",
     "topic": "Microsoft Announces SQL Server V.Next for Windows and Linux",
@@ -64,6 +111,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 4:17:38 PM"
   },
   {
+    "id": "12967350",
+    "timestamp": "Nov 16, 2016 5:13:15 PM",
+    "topic": "React 15.4",
+    "url": "https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html",
+    "votes": 9,
+    "posted": "Nov 16, 2016 3:54:20 PM"
+  },
+  {
     "id": "12967274",
     "timestamp": "Nov 16, 2016 4:02:42 PM",
     "topic": "GitHub down",
@@ -125,6 +180,14 @@ var newsArray = [
     "url": "http://arstechnica.com/security/2016/11/meet-poisontap-the-5-tool-that-ransacks-password-protected-computers/",
     "votes": 3,
     "posted": "Nov 16, 2016 2:32:13 PM"
+  },
+  {
+    "id": "12966563",
+    "timestamp": "Nov 16, 2016 5:13:16 PM",
+    "topic": "Introducing Datomish, a flexible embedded knowledge store",
+    "url": "https://medium.com/project-tofino/introducing-datomish-a-flexible-embedded-knowledge-store-1d7976bff344",
+    "votes": 5,
+    "posted": "Nov 16, 2016 2:12:46 PM"
   },
   {
     "id": "12966520",
@@ -8099,109 +8162,5 @@ var newsArray = [
     "url": "http://blog.dilbert.com/post/152955248046/i-answer-your-questions-about-predicting-president",
     "votes": 10,
     "posted": "Nov 9, 2016 6:01:43 PM"
-  },
-  {
-    "id": "12911847",
-    "timestamp": "Nov 9, 2016 6:07:07 PM",
-    "topic": "New MacBook Pro outsold every competing laptop in just five days",
-    "url": "https://9to5mac.com/2016/11/09/2016-macbook-pro-sales/",
-    "votes": 16,
-    "posted": "Nov 9, 2016 5:51:07 PM"
-  },
-  {
-    "id": "12911814",
-    "timestamp": "Nov 9, 2016 5:57:06 PM",
-    "topic": "Judge rejects Airbnb bid to halt San Francisco ordinance",
-    "url": "http://www.reuters.com/article/airbnb-sanfrancisco-ruling-idUSL1N1D923N?em_pos\u003dsmall\u0026ref\u003dheadline\u0026nl_art\u003d16",
-    "votes": 9,
-    "posted": "Nov 9, 2016 5:49:04 PM"
-  },
-  {
-    "id": "12911809",
-    "timestamp": "Nov 9, 2016 7:07:13 PM",
-    "topic": "China \u0026 Pakistan are rebuilding the Silk Road at $51B investment",
-    "url": "https://en.wikipedia.org/wiki/China%E2%80%93Pakistan_Economic_Corridor",
-    "votes": 3,
-    "posted": "Nov 9, 2016 5:48:38 PM"
-  },
-  {
-    "id": "12911310",
-    "timestamp": "Nov 9, 2016 5:27:04 PM",
-    "topic": "After protest, Lenovo adds Linux compatibility to Yoga 900 and 900S laptops",
-    "url": "http://www.pcworld.com/article/3139812/laptop-computers/after-protest-lenovo-brings-linux-compatibility-to-yoga-900-and-900s.html",
-    "votes": 6,
-    "posted": "Nov 9, 2016 5:14:16 PM"
-  },
-  {
-    "id": "12911302",
-    "timestamp": "Nov 9, 2016 5:37:05 PM",
-    "topic": "Brambles, Partners and Options",
-    "url": "https://www.bloomberg.com/view/articles/2016-11-09/brambles-partners-and-options",
-    "votes": 3,
-    "posted": "Nov 9, 2016 5:13:33 PM"
-  },
-  {
-    "id": "12911259",
-    "timestamp": "Nov 9, 2016 6:07:07 PM",
-    "topic": "New MacBook Pro sales are surging",
-    "url": "http://www.zdnet.com/article/new-macbook-pro-sales-are-surging/",
-    "votes": 6,
-    "posted": "Nov 9, 2016 5:09:41 PM"
-  },
-  {
-    "id": "12911205",
-    "timestamp": "Nov 9, 2016 5:27:04 PM",
-    "topic": "Democrats, Trump and the Ongoing, Dangerous Refusal to Learn the Lesson of Brexit",
-    "url": "https://theintercept.com/2016/11/09/democrats-trump-and-the-ongoing-dangerous-refusal-to-learn-the-lesson-of-brexit/",
-    "votes": 4,
-    "posted": "Nov 9, 2016 5:04:12 PM"
-  },
-  {
-    "id": "12911192",
-    "timestamp": "Nov 9, 2016 5:27:03 PM",
-    "topic": "Introducing the Nextcloud Box",
-    "url": "https://nextcloud.com/box/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 5:02:25 PM"
-  },
-  {
-    "id": "12911173",
-    "timestamp": "Nov 9, 2016 5:27:03 PM",
-    "topic": "Show HN: Mest – Place to talk with those you disagree with",
-    "url": "http://mest.io",
-    "votes": 8,
-    "posted": "Nov 9, 2016 5:01:28 PM"
-  },
-  {
-    "id": "12911152",
-    "timestamp": "Nov 9, 2016 7:07:13 PM",
-    "topic": "EBay fires product and tech team in India, except 15 moving to the US",
-    "url": "https://www.techinasia.com/ebay-fires-entire-india-team",
-    "votes": 5,
-    "posted": "Nov 9, 2016 5:00:07 PM"
-  },
-  {
-    "id": "12911138",
-    "timestamp": "Nov 9, 2016 9:27:27 PM",
-    "topic": "Improving Supercomputing Accuracy by Sacrificing Precision",
-    "url": "https://www.top500.org/news/improving-supercomputing-accuracy-by-sacrificing-precision/",
-    "votes": 3,
-    "posted": "Nov 9, 2016 4:59:01 PM"
-  },
-  {
-    "id": "12911128",
-    "timestamp": "Nov 9, 2016 7:17:14 PM",
-    "topic": "4G Cellular Networks at Risk of DoS Attacks",
-    "url": "https://www.cyberscoop.com/4g-lte-protocols-used-smarthphones-can-hacked-researchers-found/",
-    "votes": 4,
-    "posted": "Nov 9, 2016 4:58:34 PM"
-  },
-  {
-    "id": "12911070",
-    "timestamp": "Nov 9, 2016 7:17:14 PM",
-    "topic": "I developed a 3D browser game with Bullet Physics. Thanks to this repo",
-    "url": "https://github.com/WhitestormJS/whitestorm.js",
-    "votes": 8,
-    "posted": "Nov 9, 2016 4:53:45 PM"
   }
 ];
