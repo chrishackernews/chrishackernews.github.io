@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12964951",
+    "timestamp": "Nov 16, 2016 7:51:50 AM",
+    "topic": "Ironclad: allow IronPython to import and use compiled CPython extensions",
+    "url": "https://github.com/IronLanguages/ironclad",
+    "votes": 5,
+    "posted": "Nov 16, 2016 7:25:20 AM"
+  },
+  {
     "id": "12964645",
     "timestamp": "Nov 16, 2016 6:21:43 AM",
     "topic": "15-Inch MacBook Pro with Touch Bar Has Non-Removable SSD",
@@ -22,6 +30,14 @@ var newsArray = [
     "url": "https://github.com/elm-lang/elm-compiler/issues/621#issuecomment-221053554",
     "votes": 5,
     "posted": "Nov 16, 2016 5:45:50 AM"
+  },
+  {
+    "id": "12964582",
+    "timestamp": "Nov 16, 2016 7:31:49 AM",
+    "topic": "Prosecuted for cheating at video games",
+    "url": "http://kotaku.com/man-goes-on-trial-for-allegedly-stealing-millions-from-1788948231",
+    "votes": 3,
+    "posted": "Nov 16, 2016 5:39:12 AM"
   },
   {
     "id": "12964563",
@@ -54,6 +70,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom",
     "votes": 3,
     "posted": "Nov 16, 2016 4:28:30 AM"
+  },
+  {
+    "id": "12964191",
+    "timestamp": "Nov 16, 2016 7:51:50 AM",
+    "topic": "Blood from human teens rejuvenates body and brains of old mice",
+    "url": "https://www.newscientist.com/article/2112829-blood-from-human-teens-rejuvenates-body-and-brains-of-old-mice/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 3:57:32 AM"
   },
   {
     "id": "12964052",
@@ -125,6 +149,14 @@ var newsArray = [
     "url": "http://www.cnbc.com/2016/11/15/amazon-takes-counterfeit-sellers-to-court-for-first-time.html",
     "votes": 3,
     "posted": "Nov 16, 2016 1:39:25 AM"
+  },
+  {
+    "id": "12963566",
+    "timestamp": "Nov 16, 2016 7:01:46 AM",
+    "topic": "Stack Exchange\u0027s Performance Dashboard",
+    "url": "http://stackexchange.com/performance",
+    "votes": 3,
+    "posted": "Nov 16, 2016 1:20:22 AM"
   },
   {
     "id": "12963549",
@@ -8109,75 +8141,5 @@ var newsArray = [
     "url": "http://www.realclearpolitics.com/elections/live_results/2016_general/president/map.html",
     "votes": 10,
     "posted": "Nov 9, 2016 7:52:33 AM"
-  },
-  {
-    "id": "12906836",
-    "timestamp": "Nov 9, 2016 8:06:12 AM",
-    "topic": "Trump Nears Victory",
-    "url": "http://www.nytimes.com/2016/11/08/us/politics/election-live.html?pagewanted\u003dall",
-    "votes": 19,
-    "posted": "Nov 9, 2016 7:51:15 AM"
-  },
-  {
-    "id": "12906809",
-    "timestamp": "Nov 9, 2016 7:56:11 AM",
-    "topic": "Snowden Live will start November 10th around 22:30 CET / 4:30 PM Eastern",
-    "url": "https://www.startpage.com/snowden/",
-    "votes": 14,
-    "posted": "Nov 9, 2016 7:45:30 AM"
-  },
-  {
-    "id": "12906783",
-    "timestamp": "Nov 9, 2016 7:56:11 AM",
-    "topic": "The smug style in American liberalism",
-    "url": "http://www.vox.com/2016/4/21/11451378/smug-american-liberalism",
-    "votes": 11,
-    "posted": "Nov 9, 2016 7:41:30 AM"
-  },
-  {
-    "id": "12906773",
-    "timestamp": "Nov 9, 2016 8:26:15 AM",
-    "topic": "XKCD Election Math",
-    "url": "https://xkcd.com/1131/",
-    "votes": 5,
-    "posted": "Nov 9, 2016 7:38:58 AM"
-  },
-  {
-    "id": "12906766",
-    "timestamp": "Nov 9, 2016 8:06:12 AM",
-    "topic": "Reddit Traffic Has Been Dropping for a Year",
-    "url": "https://www.reddit.com/r/AskReddit/about/traffic/",
-    "votes": 6,
-    "posted": "Nov 9, 2016 7:37:40 AM"
-  },
-  {
-    "id": "12906691",
-    "timestamp": "Nov 9, 2016 7:56:11 AM",
-    "topic": "Maple Match",
-    "url": "http://www.maplematch.com/",
-    "votes": 14,
-    "posted": "Nov 9, 2016 7:24:01 AM"
-  },
-  {
-    "id": "12906631",
-    "timestamp": "Nov 9, 2016 7:56:11 AM",
-    "topic": "Brexit, Trump and the Ultimatum Game",
-    "url": "https://medium.com/@jamesallworth/brexit-trump-and-the-ultimatum-game-2237e17de71c#.704pmhv24",
-    "votes": 3,
-    "posted": "Nov 9, 2016 7:11:33 AM"
-  },
-  {
-    "id": "12906627",
-    "timestamp": "Nov 9, 2016 7:36:09 AM",
-    "topic": "Ask HN: If Trump wins. How could it impact the tech industry?",
-    "votes": 7,
-    "posted": "Nov 9, 2016 7:10:52 AM"
-  },
-  {
-    "id": "12906617",
-    "timestamp": "Nov 9, 2016 7:36:09 AM",
-    "topic": "Ask HN: Trump is winning. Is US media to blame?",
-    "votes": 3,
-    "posted": "Nov 9, 2016 7:09:02 AM"
   }
 ];
