@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "12970683",
+    "timestamp": "Nov 16, 2016 8:54:09 PM",
+    "topic": "The NSA’s Spy Hub in New York, Hidden in Plain Sight",
+    "url": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 8:42:17 PM"
+  },
+  {
+    "id": "12970528",
+    "timestamp": "Nov 16, 2016 8:44:06 PM",
+    "topic": "Announcing SSL Labs Grading Changes for 2017",
+    "url": "https://blog.qualys.com/ssllabs/2016/11/16/announcing-ssl-labs-grading-changes-for-2017",
+    "votes": 5,
+    "posted": "Nov 16, 2016 8:28:10 PM"
+  },
+  {
+    "id": "12970501",
+    "timestamp": "Nov 16, 2016 8:54:09 PM",
+    "topic": "Capture 360° living VR photos with PanoMoments. No stitching required",
+    "url": "https://www.kickstarter.com/projects/dustinkerstein/752242439",
+    "votes": 17,
+    "posted": "Nov 16, 2016 8:25:52 PM"
+  },
+  {
+    "id": "12970071",
+    "timestamp": "Nov 16, 2016 8:44:07 PM",
+    "topic": "Choosing Ember over React in 2016",
+    "url": "https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341#.7vyetlgrb",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:50:18 PM"
+  },
+  {
+    "id": "12969826",
+    "timestamp": "Nov 16, 2016 8:04:04 PM",
+    "topic": "Is jQuery still a thing?",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:26:23 PM"
+  },
+  {
     "id": "12969764",
     "timestamp": "Nov 16, 2016 7:44:02 PM",
     "topic": "MENACE: A Reinforcement Learning program built in 1961 using matchboxes",
@@ -14,6 +53,14 @@ var newsArray = [
     "url": "https://www.quora.com/I-got-fired-for-supporting-Trump-at-a-company-in-Silicon-Valley-Where-do-I-go-from-here-NOT-GRUB-HUB?share\u003d1",
     "votes": 4,
     "posted": "Nov 16, 2016 7:14:53 PM"
+  },
+  {
+    "id": "12969611",
+    "timestamp": "Nov 16, 2016 8:44:07 PM",
+    "topic": "Microsoft Joins the Linux Foundation as a Platinum Member",
+    "url": "http://venturebeat.com/2016/11/16/microsoft-joins-the-linux-foundation-as-a-platinum-member/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:05:55 PM"
   },
   {
     "id": "12969562",
@@ -85,6 +132,14 @@ var newsArray = [
     "url": "https://github.com/oelmekki/pgrebase",
     "votes": 9,
     "posted": "Nov 16, 2016 6:03:29 PM"
+  },
+  {
+    "id": "12968948",
+    "timestamp": "Nov 16, 2016 8:14:04 PM",
+    "topic": "The First Object Database for Node: Introducing Realm Node.js",
+    "url": "https://realm.io/news/first-object-database-realm-node-js-server/",
+    "votes": 23,
+    "posted": "Nov 16, 2016 6:03:20 PM"
   },
   {
     "id": "12968933",
@@ -8211,21 +8266,5 @@ var newsArray = [
     "url": "http://www.politico.com/story/2016/10/trump-transition-team-jeffrey-eisenach-229276",
     "votes": 4,
     "posted": "Nov 9, 2016 9:11:53 PM"
-  },
-  {
-    "id": "12913698",
-    "timestamp": "Nov 9, 2016 8:47:23 PM",
-    "topic": "What every liberal who didn\u0027t see this coming needs to understand",
-    "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
-    "votes": 3,
-    "posted": "Nov 9, 2016 8:26:49 PM"
-  },
-  {
-    "id": "12913369",
-    "timestamp": "Nov 10, 2016 12:47:46 AM",
-    "topic": "The Intelligentsia Takes a Hit",
-    "url": "https://mises.org/blog/intelligentsia-takes-hit",
-    "votes": 4,
-    "posted": "Nov 9, 2016 7:54:04 PM"
   }
 ];
