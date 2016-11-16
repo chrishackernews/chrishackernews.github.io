@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12963364",
+    "timestamp": "Nov 16, 2016 1:01:12 AM",
+    "topic": "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER",
+    "url": "http://openreview.net/pdf?id\u003dB1ckMDqlg",
+    "votes": 3,
+    "posted": "Nov 16, 2016 12:44:36 AM"
+  },
+  {
+    "id": "12963328",
+    "timestamp": "Nov 16, 2016 1:31:15 AM",
+    "topic": "Wikileaks latest insurance files don\u0027t match hashes",
+    "url": "https://www.reddit.com/r/bestof/comments/5d37lj/wikileaks_latest_insurance_files_dont_match_hashes/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 12:40:17 AM"
+  },
+  {
+    "id": "12963261",
+    "timestamp": "Nov 16, 2016 1:11:13 AM",
+    "topic": "Google Gets a Seat on the Trump Transition Team",
+    "url": "https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 12:28:25 AM"
+  },
+  {
     "id": "12963231",
     "timestamp": "Nov 16, 2016 12:51:11 AM",
     "topic": "Found in translation: More accurate, fluent sentences in Google Translate",
@@ -8,12 +32,35 @@ var newsArray = [
     "posted": "Nov 16, 2016 12:22:18 AM"
   },
   {
+    "id": "12963149",
+    "timestamp": "Nov 16, 2016 1:01:12 AM",
+    "topic": "Ask HN: Beginner\u0027s example to running something on GPU?",
+    "votes": 6,
+    "posted": "Nov 16, 2016 12:07:43 AM"
+  },
+  {
     "id": "12962999",
     "timestamp": "Nov 16, 2016 12:21:09 AM",
     "topic": "Introducing PhotoScan by Google Photos",
     "url": "https://www.youtube.com/watch?v\u003dMEyDt0DNjWU",
     "votes": 3,
     "posted": "Nov 15, 2016 11:42:51 PM"
+  },
+  {
+    "id": "12962990",
+    "timestamp": "Nov 16, 2016 1:31:15 AM",
+    "topic": "Decades after deadly lab accident, a secret Russian bioweapon decoded",
+    "url": "http://arstechnica.com/science/2016/11/decades-after-deadly-lab-accident-a-secret-russian-bioweapon-decoded/",
+    "votes": 4,
+    "posted": "Nov 15, 2016 11:41:01 PM"
+  },
+  {
+    "id": "12962947",
+    "timestamp": "Nov 16, 2016 1:21:14 AM",
+    "topic": "CIA, NSA ordered to reveal whether they surveilled Occupy Philly",
+    "url": "http://www.philly.com/philly/news/20161115_CIA__NSA_ordered_to_reveal_to_judge_whether_they_were_involved_in_Occupy_Philly_surveillance.html",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:34:07 PM"
   },
   {
     "id": "12962940",
@@ -30,6 +77,14 @@ var newsArray = [
     "url": "http://arstechnica.com/tech-policy/2016/11/network-security-company-ceo-resigns-after-joking-about-killing-trump/",
     "votes": 4,
     "posted": "Nov 15, 2016 11:23:28 PM"
+  },
+  {
+    "id": "12962872",
+    "timestamp": "Nov 16, 2016 1:01:12 AM",
+    "topic": "A Theory of Taxonomy",
+    "url": "https://arxiv.org/abs/1611.03890",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:23:14 PM"
   },
   {
     "id": "12962853",
@@ -168,6 +223,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 10:02:13 PM"
   },
   {
+    "id": "12962161",
+    "timestamp": "Nov 16, 2016 1:11:13 AM",
+    "topic": "AMD GPUs to Be Available on Google Cloud Platform in 2017",
+    "url": "http://ir.amd.com/phoenix.zhtml?c\u003d74093\u0026p\u003dirol-newsArticle\u0026ID\u003d2222685",
+    "votes": 4,
+    "posted": "Nov 15, 2016 10:01:02 PM"
+  },
+  {
     "id": "12962135",
     "timestamp": "Nov 15, 2016 10:20:54 PM",
     "topic": "Google A.I. Experiments",
@@ -190,6 +253,14 @@ var newsArray = [
     "url": "https://www.quantamagazine.org/20161115-strange-numbers-found-in-particle-collisions/",
     "votes": 5,
     "posted": "Nov 15, 2016 9:42:07 PM"
+  },
+  {
+    "id": "12961914",
+    "timestamp": "Nov 16, 2016 1:31:15 AM",
+    "topic": "How I left behind my silicon dream for a saner place to work",
+    "url": "https://m.signalvnoise.com/how-i-left-behind-my-silicon-dream-for-a-saner-place-to-work-3c58c9bc24ab#.pqu70xkad",
+    "votes": 3,
+    "posted": "Nov 15, 2016 9:29:37 PM"
   },
   {
     "id": "12961849",
@@ -8164,20 +8235,5 @@ var newsArray = [
     "url": "https://itunes.apple.com/us/app/veil-hide-and-reveal-photos/id1171571496",
     "votes": 7,
     "posted": "Nov 9, 2016 2:07:45 AM"
-  },
-  {
-    "id": "12905265",
-    "timestamp": "Nov 9, 2016 2:15:42 AM",
-    "topic": "Live Presidential Forecast (with priors)",
-    "url": "http://www.nytimes.com/elections/forecast/president?1",
-    "votes": 4,
-    "posted": "Nov 9, 2016 1:43:43 AM"
-  },
-  {
-    "id": "12905261",
-    "timestamp": "Nov 11, 2016 9:00:41 AM",
-    "topic": "Ask HN: How to relax after coding for too many hours?",
-    "votes": 8,
-    "posted": "Nov 9, 2016 1:43:02 AM"
   }
 ];
