@@ -1,5 +1,109 @@
 var newsArray = [
   {
+    "id": "12971877",
+    "timestamp": "Nov 16, 2016 10:54:22 PM",
+    "topic": "The iPhone Is Bigger Than Donald Trump",
+    "url": "https://backchannel.com/the-iphone-is-bigger-than-donald-trump-4be61d9f3ce0#.ila5kmbr1",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:46:42 PM"
+  },
+  {
+    "id": "12971865",
+    "timestamp": "Nov 16, 2016 10:54:22 PM",
+    "topic": "Learning Perl 6",
+    "url": "https://www.kickstarter.com/projects/1422827986/learning-perl-6",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:44:54 PM"
+  },
+  {
+    "id": "12971395",
+    "timestamp": "Nov 16, 2016 10:54:22 PM",
+    "topic": "Kubernetes Conference Seattle Videos",
+    "url": "https://www.youtube.com/playlist?list\u003dPLj6h78yzYM2PqgIGU1Qmi8nY7dqn9PCr4",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:53:01 PM"
+  },
+  {
+    "id": "12971363",
+    "timestamp": "Nov 16, 2016 10:14:18 PM",
+    "topic": "Is React Fiber ready yet?",
+    "url": "http://isfiberreadyyet.com",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:51:03 PM"
+  },
+  {
+    "id": "12971361",
+    "timestamp": "Nov 16, 2016 10:04:17 PM",
+    "topic": "Google to build 1M square foot building in post-Brexit London",
+    "url": "http://venturebeat.com/2016/11/15/google-to-build-1-million-square-foot-building-in-post-brexit-london/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:50:49 PM"
+  },
+  {
+    "id": "12971347",
+    "timestamp": "Nov 16, 2016 10:24:19 PM",
+    "topic": "Fun Things in Elixir",
+    "url": "https://dev.to/ryanflach/fun-things-in-elixir",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:48:59 PM"
+  },
+  {
+    "id": "12971341",
+    "timestamp": "Nov 16, 2016 10:14:19 PM",
+    "topic": "Google Gets a Seat on the Trump Transition Team",
+    "url": "https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:48:05 PM"
+  },
+  {
+    "id": "12971321",
+    "timestamp": "Nov 16, 2016 10:04:17 PM",
+    "topic": "Things to Keep in Mind Regarding Snapchat\u0027s Upcoming IPO – Mattermark",
+    "url": "https://mattermark.com/things-keep-mind-regarding-snapchats-upcoming-ipo/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:45:48 PM"
+  },
+  {
+    "id": "12971316",
+    "timestamp": "Nov 16, 2016 10:34:20 PM",
+    "topic": "Too Lazy to Skim? Five Useful Tools to Summarize Articles Online",
+    "url": "https://www.linkedin.com/pulse/online-summarizers-overview-yuri-kitin?_mSplash\u003d1",
+    "votes": 5,
+    "posted": "Nov 16, 2016 9:45:18 PM"
+  },
+  {
+    "id": "12971275",
+    "timestamp": "Nov 16, 2016 10:04:17 PM",
+    "topic": "False, Misleading, Clickbait-Y, and Satirical “News” Sources",
+    "url": "https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/mobilebasic",
+    "votes": 5,
+    "posted": "Nov 16, 2016 9:40:29 PM"
+  },
+  {
+    "id": "12971272",
+    "timestamp": "Nov 16, 2016 10:14:19 PM",
+    "topic": "Skype now lets you make calls without an account",
+    "url": "http://thenextweb.com/microsoft/2016/11/15/skype-now-lets-you-make-calls-without-an-account/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:40:09 PM"
+  },
+  {
+    "id": "12971261",
+    "timestamp": "Nov 16, 2016 10:14:18 PM",
+    "topic": "Atom editor is removing the Shadow DOM",
+    "url": "http://blog.atom.io/2016/11/14/removing-shadow-dom-boundary-from-text-editor-elements.html",
+    "votes": 8,
+    "posted": "Nov 16, 2016 9:38:55 PM"
+  },
+  {
+    "id": "12971241",
+    "timestamp": "Nov 16, 2016 10:14:18 PM",
+    "topic": "From NeXTSTEP to Cocoa: Erik Buck on the Development of Cocoa and Objective-C",
+    "url": "http://www.informit.com/articles/article.aspx?p\u003d1353402",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:37:20 PM"
+  },
+  {
     "id": "12971062",
     "timestamp": "Nov 16, 2016 9:44:15 PM",
     "topic": "The sales and marketing tactics used by top B2B companies",
@@ -869,6 +973,14 @@ var newsArray = [
     "url": "http://news.nationalgeographic.com/2016/11/foehn-winds-melt-ice-shelves-antarctic-peninsula-larsen-c/",
     "votes": 3,
     "posted": "Nov 16, 2016 3:08:56 AM"
+  },
+  {
+    "id": "12963911",
+    "timestamp": "Nov 16, 2016 10:04:17 PM",
+    "topic": "How Do We Know When a Hunk of Rock Is Actually a Stone Tool?",
+    "url": "http://fivethirtyeight.com/features/how-do-we-know-when-a-hunk-of-rock-is-actually-a-stone-tool/",
+    "votes": 6,
+    "posted": "Nov 16, 2016 2:45:01 AM"
   },
   {
     "id": "12963887",
@@ -8287,45 +8399,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/10/technology/adam-bain-twitter-chief-operating-officer-step-down.html",
     "votes": 10,
     "posted": "Nov 9, 2016 11:02:15 PM"
-  },
-  {
-    "id": "12914994",
-    "timestamp": "Nov 10, 2016 3:07:59 AM",
-    "topic": "Not Your Problem",
-    "url": "http://howtomakeanrpg.com/a/not-your-problem.html",
-    "votes": 4,
-    "posted": "Nov 9, 2016 10:47:10 PM"
-  },
-  {
-    "id": "12914942",
-    "timestamp": "Nov 10, 2016 2:57:58 AM",
-    "topic": "New Airless Bike Tires That Will Never Get Flat",
-    "url": "http://www.boredpanda.com/airless-flat-free-tire-bike-nexo/?_t\u003d1\u0026_f\u003dfeatured",
-    "votes": 3,
-    "posted": "Nov 9, 2016 10:40:10 PM"
-  },
-  {
-    "id": "12914828",
-    "timestamp": "Nov 9, 2016 10:37:34 PM",
-    "topic": "Trump Picks Top Climate Skeptic to Lead EPA Transition",
-    "url": "https://www.scientificamerican.com/article/trump-picks-top-climate-skeptic-to-lead-epa-transition/",
-    "votes": 8,
-    "posted": "Nov 9, 2016 10:26:22 PM"
-  },
-  {
-    "id": "12914825",
-    "timestamp": "Nov 9, 2016 11:57:41 PM",
-    "topic": "Deep Learning Papers Ordered by Task",
-    "url": "https://github.com/sbrugman/deep-learning-papers/blob/master/README.md",
-    "votes": 3,
-    "posted": "Nov 9, 2016 10:25:52 PM"
-  },
-  {
-    "id": "12914716",
-    "timestamp": "Nov 10, 2016 2:57:58 AM",
-    "topic": "Michael Moore was right about a Donald Trump victory, and now he has a plan",
-    "url": "http://globalnews.ca/news/3057433/michael-moore-was-right-about-a-donald-trump-victory-and-now-he-has-a-plan/",
-    "votes": 8,
-    "posted": "Nov 9, 2016 10:12:25 PM"
   }
 ];
