@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12965589",
+    "timestamp": "Nov 16, 2016 10:42:04 AM",
+    "topic": "The code I’m still ashamed of",
+    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.76pl74cy2",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:30:34 AM"
+  },
+  {
+    "id": "12965584",
+    "timestamp": "Nov 16, 2016 10:32:03 AM",
+    "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
+    "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
+    "votes": 1,
+    "posted": "Nov 16, 2016 10:29:27 AM"
+  },
+  {
+    "id": "12965581",
+    "timestamp": "Nov 16, 2016 10:52:04 AM",
+    "topic": "MacBook Pro 13“ TouchBar Teardown",
+    "url": "https://www.ifixit.com/Teardown/MacBook+Pro+13-Inch+Touch+Bar+Teardown/73480",
+    "votes": 5,
+    "posted": "Nov 16, 2016 10:28:39 AM"
+  },
+  {
+    "id": "12965576",
+    "timestamp": "Nov 16, 2016 10:52:04 AM",
+    "topic": "The code I’m still ashamed of",
+    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.vmbgbtgin",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:27:36 AM"
+  },
+  {
+    "id": "12965492",
+    "timestamp": "Nov 16, 2016 10:32:03 AM",
+    "topic": "The code I’m still ashamed of",
+    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.9i5izevrq",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:08:28 AM"
+  },
+  {
     "id": "12965348",
     "timestamp": "Nov 16, 2016 9:41:58 AM",
     "topic": "Cypress just bought Broadcom\u0027s wifi business and published their datasheets",
@@ -8096,45 +8136,5 @@ var newsArray = [
     "topic": "Mods – genuinely curious why the Eliezer Yudkowsky on Trump post was killed",
     "votes": 4,
     "posted": "Nov 9, 2016 10:54:45 AM"
-  },
-  {
-    "id": "12908636",
-    "timestamp": "Nov 9, 2016 12:16:35 PM",
-    "topic": "Docker Container Anti Patterns",
-    "url": "http://blog.arungupta.me/docker-container-anti-patterns",
-    "votes": 5,
-    "posted": "Nov 9, 2016 10:44:06 AM"
-  },
-  {
-    "id": "12908599",
-    "timestamp": "Nov 9, 2016 11:16:29 AM",
-    "topic": "FSF: “DRM Is Used to Lock In, Control and Spy on Users”",
-    "url": "https://torrentfreak.com/drm-is-used-to-lock-in-control-and-spy-on-users-161108/",
-    "votes": 6,
-    "posted": "Nov 9, 2016 10:39:37 AM"
-  },
-  {
-    "id": "12908569",
-    "timestamp": "Nov 9, 2016 11:36:31 AM",
-    "topic": "What do you think of Indian Government\u0027s decision to demonetize 500, 1000 notes?",
-    "url": "https://www.quora.com/What-do-you-think-of-the-decision-by-the-Indian-Government-to-demonetize-%E2%82%B9500-and-%E2%82%B91000-notes/answer/Pallav-Kaushish?srid\u003dhKgI\u0026share\u003dc09f8eb0",
-    "votes": 4,
-    "posted": "Nov 9, 2016 10:35:24 AM"
-  },
-  {
-    "id": "12908497",
-    "timestamp": "Nov 9, 2016 10:36:25 AM",
-    "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
-    "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
-    "votes": 1,
-    "posted": "Nov 9, 2016 10:27:50 AM"
-  },
-  {
-    "id": "12908488",
-    "timestamp": "Nov 9, 2016 6:17:08 PM",
-    "topic": "React component to PNG converter",
-    "url": "https://github.com/jxnblk/repng",
-    "votes": 3,
-    "posted": "Nov 9, 2016 10:27:05 AM"
   }
 ];
