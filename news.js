@@ -1,5 +1,90 @@
 var newsArray = [
   {
+    "id": "12971062",
+    "timestamp": "Nov 16, 2016 9:44:15 PM",
+    "topic": "The sales and marketing tactics used by top B2B companies",
+    "url": "https://mattermark.com/sales-marketing-trends-top-50-b2b-companies/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:18:01 PM"
+  },
+  {
+    "id": "12971045",
+    "timestamp": "Nov 16, 2016 9:24:12 PM",
+    "topic": "BuildZoom (a better way to remodel) is hiring in product, growth and engineering",
+    "url": "https://jobs.lever.co/buildzoom",
+    "votes": 1,
+    "posted": "Nov 16, 2016 9:15:50 PM"
+  },
+  {
+    "id": "12971042",
+    "timestamp": "Nov 16, 2016 9:34:14 PM",
+    "topic": "Steve Bannon Suggests There Are Too Many Asian CEOs in Silicon Valley",
+    "url": "http://www.huffingtonpost.com/entry/steve-bannon-disgusted-asian-ceos-silicon-valley_us_582c5d19e4b0e39c1fa71e48",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:15:12 PM"
+  },
+  {
+    "id": "12971024",
+    "timestamp": "Nov 16, 2016 9:34:14 PM",
+    "topic": "Mission Improbable: Hardening Android for Security and Privacy",
+    "url": "https://blog.torproject.org/blog/mission-improbable-hardening-android-security-and-privacy",
+    "votes": 6,
+    "posted": "Nov 16, 2016 9:13:51 PM"
+  },
+  {
+    "id": "12970986",
+    "timestamp": "Nov 16, 2016 9:24:12 PM",
+    "topic": "[Video PoC/Demo Exploit] Nginx (Debian-Based)- Root PrivEsc [CVE-2016-1247]",
+    "url": "https://legalhackers.com/videos/Nginx-Exploit-Deb-Root-PrivEsc-CVE-2016-1247.html",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:09:47 PM"
+  },
+  {
+    "id": "12970975",
+    "timestamp": "Nov 16, 2016 9:54:16 PM",
+    "topic": "Stripe stops supporting Alipay on some accounts (email)",
+    "votes": 3,
+    "posted": "Nov 16, 2016 9:08:33 PM"
+  },
+  {
+    "id": "12970964",
+    "timestamp": "Nov 16, 2016 9:54:16 PM",
+    "topic": "Ask HN: How does Quora auto login work?",
+    "votes": 5,
+    "posted": "Nov 16, 2016 9:07:47 PM"
+  },
+  {
+    "id": "12970901",
+    "timestamp": "Nov 16, 2016 9:14:11 PM",
+    "topic": "Gmail – Email Markup",
+    "url": "https://developers.google.com/gmail/markup/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:00:24 PM"
+  },
+  {
+    "id": "12970884",
+    "timestamp": "Nov 16, 2016 9:24:13 PM",
+    "topic": "DraftKings and FanDuel to Merge",
+    "url": "https://www.linkedin.com/pulse/draftkings-fanduel-merge-dan-primack?published\u003dt",
+    "votes": 3,
+    "posted": "Nov 16, 2016 8:59:10 PM"
+  },
+  {
+    "id": "12970881",
+    "timestamp": "Nov 16, 2016 9:14:11 PM",
+    "topic": "On 2016 Apple: What do “Pro” users want?",
+    "url": "http://cfenollosa.com/blog/what-do-pro-users-want.html",
+    "votes": 3,
+    "posted": "Nov 16, 2016 8:58:53 PM"
+  },
+  {
+    "id": "12970820",
+    "timestamp": "Nov 16, 2016 9:04:10 PM",
+    "topic": "Ask HN: Anyone interested in building tools for showing bias in news?",
+    "votes": 5,
+    "posted": "Nov 16, 2016 8:54:04 PM"
+  },
+  {
     "id": "12970683",
     "timestamp": "Nov 16, 2016 8:54:09 PM",
     "topic": "The NSA’s Spy Hub in New York, Hidden in Plain Sight",
@@ -24,12 +109,36 @@ var newsArray = [
     "posted": "Nov 16, 2016 8:25:52 PM"
   },
   {
+    "id": "12970134",
+    "timestamp": "Nov 16, 2016 9:04:10 PM",
+    "topic": "Investigatory Powers Act imminent as peers clear path for UK super-snoop law",
+    "url": "http://arstechnica.co.uk/tech-policy/2016/11/investigatory-powers-act-imminent-peers-clear-path-for-uk-super-snoop-law/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 7:55:45 PM"
+  },
+  {
+    "id": "12970127",
+    "timestamp": "Nov 16, 2016 9:34:14 PM",
+    "topic": "AB inBev is considering a takeover of Coca-Cola",
+    "url": "http://www.cnbc.com/2016/11/14/anheuser-busch-inbev-shares-fall-flat-on-talk-of-a-coca-cola-deal.html",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:55:10 PM"
+  },
+  {
     "id": "12970071",
     "timestamp": "Nov 16, 2016 8:44:07 PM",
     "topic": "Choosing Ember over React in 2016",
     "url": "https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341#.7vyetlgrb",
     "votes": 4,
     "posted": "Nov 16, 2016 7:50:18 PM"
+  },
+  {
+    "id": "12970060",
+    "timestamp": "Nov 16, 2016 9:24:13 PM",
+    "topic": "SF deals major blow to Airbnb with tough short-term rental law",
+    "url": "http://www.sfgate.com/news/article/SF-deals-major-blow-to-Airbnb-with-tough-10617319.php",
+    "votes": 3,
+    "posted": "Nov 16, 2016 7:48:52 PM"
   },
   {
     "id": "12969826",
@@ -84,6 +193,14 @@ var newsArray = [
     "url": "https://www.tizen.org/blogs/dh0922/2016/tizen-.net-developer-preview",
     "votes": 5,
     "posted": "Nov 16, 2016 6:46:08 PM"
+  },
+  {
+    "id": "12969185",
+    "timestamp": "Nov 16, 2016 9:24:12 PM",
+    "topic": "In a wealthy SF neighborhood, residents fight low-income housing",
+    "url": "http://www.sfchronicle.com/bayarea/article/In-a-wealthy-SF-neighborhood-residents-fight-10617213.php",
+    "votes": 4,
+    "posted": "Nov 16, 2016 6:22:31 PM"
   },
   {
     "id": "12969152",
@@ -179,6 +296,14 @@ var newsArray = [
     "topic": "Ask HN: What are the simplest ways to pay your engineers outside of US?",
     "votes": 4,
     "posted": "Nov 16, 2016 5:30:15 PM"
+  },
+  {
+    "id": "12968383",
+    "timestamp": "Nov 16, 2016 9:44:15 PM",
+    "topic": "Web Framework Benchmarks Round 13 is now available",
+    "url": "https://www.techempower.com/benchmarks/#section\u003ddata-r13",
+    "votes": 4,
+    "posted": "Nov 16, 2016 5:17:20 PM"
   },
   {
     "id": "12968310",
@@ -752,6 +877,14 @@ var newsArray = [
     "url": "http://fortune.com/2016/11/14/zuckerberg-facebook-media/",
     "votes": 4,
     "posted": "Nov 16, 2016 2:39:40 AM"
+  },
+  {
+    "id": "12963841",
+    "timestamp": "Nov 16, 2016 9:34:14 PM",
+    "topic": "Battling the Gods: Atheism in the Ancient World",
+    "url": "http://newramblerreview.com/book-reviews/classics/imaginings",
+    "votes": 6,
+    "posted": "Nov 16, 2016 2:24:19 AM"
   },
   {
     "id": "12963740",
@@ -8194,77 +8327,5 @@ var newsArray = [
     "url": "http://globalnews.ca/news/3057433/michael-moore-was-right-about-a-donald-trump-victory-and-now-he-has-a-plan/",
     "votes": 8,
     "posted": "Nov 9, 2016 10:12:25 PM"
-  },
-  {
-    "id": "12914510",
-    "timestamp": "Nov 9, 2016 10:17:32 PM",
-    "topic": "Show HN: Personal Storage System with a PI",
-    "url": "https://github.com/timgrossmann/StorageSystem",
-    "votes": 3,
-    "posted": "Nov 9, 2016 9:52:26 PM"
-  },
-  {
-    "id": "12914495",
-    "timestamp": "Nov 9, 2016 9:57:30 PM",
-    "topic": "Trie (Prefix tree) algorithm simply explained",
-    "url": "https://medium.com/algorithms/trie-prefix-tree-algorithm-ee7ab3fe3413#.ydm9bvqbh",
-    "votes": 3,
-    "posted": "Nov 9, 2016 9:50:56 PM"
-  },
-  {
-    "id": "12914285",
-    "timestamp": "Nov 9, 2016 10:27:33 PM",
-    "topic": "Donald Trump’s Contract with the American Voter [pdf]",
-    "url": "https://assets.donaldjtrump.com/_landings/contract/O-TRU-102316-Contractv02.pdf",
-    "votes": 3,
-    "posted": "Nov 9, 2016 9:27:34 PM"
-  },
-  {
-    "id": "12914279",
-    "timestamp": "Nov 9, 2016 10:37:34 PM",
-    "topic": "Elm from a Business Perspective",
-    "url": "http://www.gizra.com/content/elm-business-perspective/",
-    "votes": 6,
-    "posted": "Nov 9, 2016 9:26:43 PM"
-  },
-  {
-    "id": "12914201",
-    "timestamp": "Nov 9, 2016 9:37:28 PM",
-    "topic": "What I learned after 100,000 miles on the road talking to Trump supporters",
-    "url": "https://www.theguardian.com/society/2016/nov/03/trump-supporters-us-elections",
-    "votes": 4,
-    "posted": "Nov 9, 2016 9:15:47 PM"
-  },
-  {
-    "id": "12914195",
-    "timestamp": "Nov 9, 2016 9:27:27 PM",
-    "topic": "Why Nate Silver, Sam Wang and Everyone Else Were Wrong",
-    "url": "https://www.quantamagazine.org/20161108-why-nate-silver-and-sam-wang-are-wrong/#more-32023",
-    "votes": 6,
-    "posted": "Nov 9, 2016 9:14:54 PM"
-  },
-  {
-    "id": "12914193",
-    "timestamp": "Nov 9, 2016 9:37:28 PM",
-    "topic": "An overview of gradient descent optimization algorithms",
-    "url": "http://www.datasciencecentral.com/profiles/blogs/an-overview-of-gradient-descent-optimization-algorithms",
-    "votes": 3,
-    "posted": "Nov 9, 2016 9:14:32 PM"
-  },
-  {
-    "id": "12914188",
-    "timestamp": "Nov 9, 2016 9:27:26 PM",
-    "topic": "Spotify wears out SSDs by writing 100GB/day",
-    "url": "https://community.spotify.com/t5/Desktop-Linux-Windows-Web-Player/Spotify-excessively-writing-to-drive-in-my-case-an-SSD/td-p/1365378/highlight/true",
-    "votes": 7,
-    "posted": "Nov 9, 2016 9:14:09 PM"
-  },
-  {
-    "id": "12914163",
-    "timestamp": "Nov 9, 2016 10:07:31 PM",
-    "topic": "Trump transition team picks regulation foe as telecom point man",
-    "url": "http://www.politico.com/story/2016/10/trump-transition-team-jeffrey-eisenach-229276",
-    "votes": 4,
-    "posted": "Nov 9, 2016 9:11:53 PM"
   }
 ];
