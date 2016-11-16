@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12963231",
+    "timestamp": "Nov 16, 2016 12:51:11 AM",
+    "topic": "Found in translation: More accurate, fluent sentences in Google Translate",
+    "url": "https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 12:22:18 AM"
+  },
+  {
+    "id": "12962999",
+    "timestamp": "Nov 16, 2016 12:21:09 AM",
+    "topic": "Introducing PhotoScan by Google Photos",
+    "url": "https://www.youtube.com/watch?v\u003dMEyDt0DNjWU",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:42:51 PM"
+  },
+  {
+    "id": "12962940",
+    "timestamp": "Nov 16, 2016 12:41:11 AM",
+    "topic": "UN Report: Robots Will Replace Two-Thirds of All Workers in the Developing World",
+    "url": "http://futurism.com/un-report-robots-will-replace-two-thirds-of-all-workers-in-the-developing-world/",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:33:33 PM"
+  },
+  {
     "id": "12962875",
     "timestamp": "Nov 15, 2016 11:41:06 PM",
     "topic": "Startup CEO resigns after “joking” about killing Trump",
@@ -38,6 +62,14 @@ var newsArray = [
     "url": "http://www.ncdoj.gov/News-and-Alerts/News-Releases-and-Advisories/Press-Releases/Adobe-to-pay-$1-million-for-data-breach,-bolster-s.aspx",
     "votes": 3,
     "posted": "Nov 15, 2016 11:02:30 PM"
+  },
+  {
+    "id": "12962665",
+    "timestamp": "Nov 16, 2016 12:11:08 AM",
+    "topic": "Lyft replaces pink mustache with psychedelic dash display that knows your name",
+    "url": "http://www.theverge.com/2016/11/15/13624152/lyft-amp-led-display-replace-pink-mustache-logo",
+    "votes": 3,
+    "posted": "Nov 15, 2016 11:00:19 PM"
   },
   {
     "id": "12962637",
@@ -279,6 +311,14 @@ var newsArray = [
     "posted": "Nov 15, 2016 7:53:42 PM"
   },
   {
+    "id": "12960962",
+    "timestamp": "Nov 16, 2016 12:31:10 AM",
+    "topic": "Now your photos look better than ever – even those dusty old prints",
+    "url": "https://blog.google/products/photos/now-your-photos-look-better-ever-even-those-dusty-old-prints/",
+    "votes": 6,
+    "posted": "Nov 15, 2016 7:48:12 PM"
+  },
+  {
     "id": "12960914",
     "timestamp": "Nov 15, 2016 8:00:31 PM",
     "topic": "Firefox 50 is out today: brings massively improved startup speeds",
@@ -396,6 +436,14 @@ var newsArray = [
     "url": "http://fermatslibrary.com/s/a-one-line-proof-of-the-infinitude-of-primes",
     "votes": 10,
     "posted": "Nov 15, 2016 6:33:30 PM"
+  },
+  {
+    "id": "12960168",
+    "timestamp": "Nov 16, 2016 12:11:08 AM",
+    "topic": "Hillary only needed to switch 53,650 voters to win",
+    "url": "https://medium.com/p/hillary-only-needed-to-switch-53-650-voters-to-win-94940ff263b7",
+    "votes": 13,
+    "posted": "Nov 15, 2016 6:33:29 PM"
   },
   {
     "id": "12960149",
@@ -1904,6 +1952,14 @@ var newsArray = [
     "topic": "Divshot, acquired and shut down a year ago, just billed me",
     "votes": 8,
     "posted": "Nov 14, 2016 7:11:50 PM"
+  },
+  {
+    "id": "12951857",
+    "timestamp": "Nov 16, 2016 12:11:08 AM",
+    "topic": "The State and Extent of Online Tracking",
+    "url": "https://medium.com/cliqz-blog/the-state-and-extent-of-online-tracking-d12979d2abdc",
+    "votes": 12,
+    "posted": "Nov 14, 2016 7:08:09 PM"
   },
   {
     "id": "12951777",
@@ -8123,45 +8179,5 @@ var newsArray = [
     "topic": "Ask HN: How to relax after coding for too many hours?",
     "votes": 8,
     "posted": "Nov 9, 2016 1:43:02 AM"
-  },
-  {
-    "id": "12904962",
-    "timestamp": "Nov 9, 2016 12:45:35 AM",
-    "topic": "Leaked Paper Suggests That the EmDrive Actually Works",
-    "url": "http://www.iflscience.com/space/leaked-paper-suggests-that-the-emdrive-actually-works/",
-    "votes": 5,
-    "posted": "Nov 9, 2016 12:35:54 AM"
-  },
-  {
-    "id": "12904890",
-    "timestamp": "Nov 9, 2016 12:55:36 AM",
-    "topic": "Making Videos on Linux",
-    "url": "http://blog.system76.com/post/152896823413/making-videos-on-linux-linux-gamer",
-    "votes": 3,
-    "posted": "Nov 9, 2016 12:23:59 AM"
-  },
-  {
-    "id": "12904845",
-    "timestamp": "Nov 9, 2016 12:35:35 AM",
-    "topic": "Presidential Election Results",
-    "url": "http://www.nytimes.com/elections/results/president?action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dspan-abc-region\u0026region\u003dspan-abc-region\u0026WT.nav\u003dspan-abc-region",
-    "votes": 8,
-    "posted": "Nov 9, 2016 12:17:50 AM"
-  },
-  {
-    "id": "12904757",
-    "timestamp": "Nov 9, 2016 12:45:36 AM",
-    "topic": "We\u0027re Probably Imagining Aliens Wrong",
-    "url": "http://www.theatlantic.com/video/index/506846/were-probably-imagining-aliens-wrong/?single_page\u003dtrue",
-    "votes": 6,
-    "posted": "Nov 9, 2016 12:06:15 AM"
-  },
-  {
-    "id": "12904691",
-    "timestamp": "Nov 9, 2016 12:25:34 AM",
-    "topic": "Charge Revelas New Electric Truck Wich Looks Just Like a Box",
-    "url": "http://pluginfuture.com/charge-revelas-new-electric-truck/",
-    "votes": 3,
-    "posted": "Nov 8, 2016 11:56:12 PM"
   }
 ];
