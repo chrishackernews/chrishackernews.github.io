@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12975690",
+    "timestamp": "Nov 17, 2016 10:35:22 AM",
+    "topic": "Sal Soghoian Departs Apple",
+    "url": "http://daringfireball.net/linked/2016/11/16/sal-soghoian",
+    "votes": 3,
+    "posted": "Nov 17, 2016 10:00:58 AM"
+  },
+  {
+    "id": "12975587",
+    "timestamp": "Nov 17, 2016 10:45:23 AM",
+    "topic": "The Monkey and the Apple",
+    "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html",
+    "votes": 3,
+    "posted": "Nov 17, 2016 9:41:38 AM"
+  },
+  {
+    "id": "12975506",
+    "timestamp": "Nov 17, 2016 10:05:19 AM",
+    "topic": "Basic Mach-O binary parser",
+    "url": "https://github.com/afrighetto/Mach-O/blob/master/main.c",
+    "votes": 4,
+    "posted": "Nov 17, 2016 9:25:00 AM"
+  },
+  {
     "id": "12975411",
     "timestamp": "Nov 17, 2016 9:45:18 AM",
     "topic": "Apple rejection of Indigenous app described as symptom of \u0027digital colonisation\u0027",
@@ -8719,21 +8743,5 @@ var newsArray = [
     "url": "https://blog.mozilla.org/security/2016/11/10/enforcing-content-security-by-default-within-firefox/",
     "votes": 3,
     "posted": "Nov 10, 2016 11:02:02 AM"
-  },
-  {
-    "id": "12919058",
-    "timestamp": "Nov 10, 2016 1:58:53 PM",
-    "topic": "Trump Won Because Leftist Political Correctness Inspired a Terrifying Backlash",
-    "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
-    "votes": 4,
-    "posted": "Nov 10, 2016 10:50:27 AM"
-  },
-  {
-    "id": "12918967",
-    "timestamp": "Nov 10, 2016 4:49:09 PM",
-    "topic": "Michael Moore’s 5-Point Plan Post Is Being Shared by 30,000 People an Hour",
-    "url": "https://www.good.is/articles/moore-five-point-plan?sid\u003dsst314956uh",
-    "votes": 3,
-    "posted": "Nov 10, 2016 10:32:33 AM"
   }
 ];
