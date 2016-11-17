@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12982285",
+    "timestamp": "Nov 17, 2016 11:36:33 PM",
+    "topic": "Pixel Security",
+    "url": "https://security.googleblog.com/2016/11/pixel-security-better-faster-stronger.html",
+    "votes": 4,
+    "posted": "Nov 17, 2016 11:22:29 PM"
+  },
+  {
+    "id": "12981942",
+    "timestamp": "Nov 17, 2016 11:26:32 PM",
+    "topic": "“Google can lock your account, forcing you to abandon purchases and credit card”",
+    "url": "https://www.reddit.com/r/Android/comments/5dif8j/psa_google_can_lock_your_account_forcing_you_to/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 10:40:03 PM"
+  },
+  {
     "id": "12981755",
     "timestamp": "Nov 17, 2016 10:36:27 PM",
     "topic": "WHAT.CD servers seized by French police",
@@ -30,6 +46,14 @@ var newsArray = [
     "url": "http://www.economist.com/news/international/21710276-all-around-world-nationalists-are-gaining-ground-why-league-nationalists",
     "votes": 15,
     "posted": "Nov 17, 2016 10:14:47 PM"
+  },
+  {
+    "id": "12981650",
+    "timestamp": "Nov 17, 2016 11:06:30 PM",
+    "topic": "The North Pole is an insane 36 degrees warmer than normal as winter descends",
+    "url": "https://www.washingtonpost.com/news/energy-environment/wp/2016/11/17/the-north-pole-is-an-insane-36-degrees-warmer-than-normal-as-winter-descends/",
+    "votes": 10,
+    "posted": "Nov 17, 2016 10:14:23 PM"
   },
   {
     "id": "12981632",
@@ -829,6 +853,13 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/16/the-5-poisontap-quickly-completely-hijacks-even-a-locked-computers-internet/",
     "votes": 4,
     "posted": "Nov 17, 2016 4:59:53 AM"
+  },
+  {
+    "id": "12974073",
+    "timestamp": "Nov 17, 2016 11:26:32 PM",
+    "topic": "Ask HN: Scientist missing in Honduras, can anyone help?",
+    "votes": 12,
+    "posted": "Nov 17, 2016 4:49:49 AM"
   },
   {
     "id": "12974055",
@@ -8647,74 +8678,5 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/gordonkelly/2016/11/09/apple-iphone-2017-cancellation/",
     "votes": 7,
     "posted": "Nov 11, 2016 12:01:33 AM"
-  },
-  {
-    "id": "12925267",
-    "timestamp": "Nov 11, 2016 9:00:40 AM",
-    "topic": "Compose.com (old MongoHQ) kidnapping data?",
-    "votes": 8,
-    "posted": "Nov 10, 2016 11:45:33 PM"
-  },
-  {
-    "id": "12925177",
-    "timestamp": "Nov 10, 2016 11:49:51 PM",
-    "topic": "Vancouver Enforces C$10,000 Annual Fine on Empty Homes",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-09/vancouver-wields-c-10-000-a-day-fine-in-crackdown-on-empty-homes",
-    "votes": 18,
-    "posted": "Nov 10, 2016 11:35:19 PM"
-  },
-  {
-    "id": "12925136",
-    "timestamp": "Nov 10, 2016 11:59:52 PM",
-    "topic": "The unbearable smugness of the press",
-    "url": "http://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 11:31:15 PM"
-  },
-  {
-    "id": "12925127",
-    "timestamp": "Nov 10, 2016 11:39:50 PM",
-    "topic": "2 in 3 employed adults would take a pay cut to be happy at work",
-    "url": "http://hired.com/opportunity-index",
-    "votes": 3,
-    "posted": "Nov 10, 2016 11:29:59 PM"
-  },
-  {
-    "id": "12925065",
-    "timestamp": "Nov 10, 2016 11:39:50 PM",
-    "topic": "Apple selling a $79 MacBook Pro power adapter without a USB-C cable goes too far",
-    "url": "https://9to5mac.com/2016/11/10/opinion-macbook-pro-power-adapter/",
-    "votes": 6,
-    "posted": "Nov 10, 2016 11:22:33 PM"
-  },
-  {
-    "id": "12925056",
-    "timestamp": "Nov 10, 2016 11:29:49 PM",
-    "topic": "What it’s like to use Snapchat Spectacles",
-    "url": "https://techcrunch.com/2016/11/10/what-its-like-to-use-snapchat-spectacles/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 11:20:47 PM"
-  },
-  {
-    "id": "12925043",
-    "timestamp": "Nov 11, 2016 9:00:40 AM",
-    "topic": "The best time tracker you use",
-    "votes": 7,
-    "posted": "Nov 10, 2016 11:19:30 PM"
-  },
-  {
-    "id": "12924865",
-    "timestamp": "Nov 10, 2016 11:49:51 PM",
-    "topic": "Ruby 3x3: Matz, Koichi, and Tenderlove on the Future of Ruby Performance",
-    "url": "https://blog.heroku.com/ruby-3-by-3/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 11:00:42 PM"
-  },
-  {
-    "id": "12924825",
-    "timestamp": "Nov 10, 2016 11:09:48 PM",
-    "topic": "Ask HN: Dang, why aren\u0027t my own comments viewable?",
-    "votes": 3,
-    "posted": "Nov 10, 2016 10:57:04 PM"
   }
 ];
