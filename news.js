@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12980648",
+    "timestamp": "Nov 17, 2016 8:56:15 PM",
+    "topic": "Global warming: The state of the climate in 2016",
+    "url": "http://www.economist.com/blogs/graphicdetail/2016/11/global-warming?fsrc\u003dscn/tw/te/bl/ed/globalwarmingthestateoftheclimatein2016",
+    "votes": 8,
+    "posted": "Nov 17, 2016 8:33:32 PM"
+  },
+  {
+    "id": "12980500",
+    "timestamp": "Nov 17, 2016 8:46:14 PM",
+    "topic": "Patent application by USC: Fasting condition as dietary treatment of diabetes",
+    "url": "https://www.google.com/patents/US20150004280",
+    "votes": 4,
+    "posted": "Nov 17, 2016 8:17:57 PM"
+  },
+  {
+    "id": "12980440",
+    "timestamp": "Nov 17, 2016 8:26:12 PM",
+    "topic": "U.S. chicken prices may have been artificially inflated for years",
+    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/17/internal-document-supports-argument-that-u-s-chicken-prices-have-been-artificially-inflated-for-years/",
+    "votes": 8,
+    "posted": "Nov 17, 2016 8:12:33 PM"
+  },
+  {
+    "id": "12980380",
+    "timestamp": "Nov 17, 2016 8:26:13 PM",
+    "topic": "Do not change Linux files using Windows apps and tools",
+    "url": "https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 8:07:20 PM"
+  },
+  {
+    "id": "12980140",
+    "timestamp": "Nov 17, 2016 8:56:15 PM",
+    "topic": "Facebook stops collecting WhatsApp user data in Europe after government pressure",
+    "url": "http://www.theverge.com/2016/11/17/13662804/facebook-stops-collecting-whatsapp-data-government-pressure",
+    "votes": 3,
+    "posted": "Nov 17, 2016 7:43:50 PM"
+  },
+  {
     "id": "12979967",
     "timestamp": "Nov 17, 2016 7:36:09 PM",
     "topic": "“Edward Snowden is a fucking idiot” (sic)",
@@ -77,6 +117,14 @@ var newsArray = [
     "url": "http://ramtin-amin.fr/#nvmepcie",
     "votes": 4,
     "posted": "Nov 17, 2016 6:05:06 PM"
+  },
+  {
+    "id": "12979108",
+    "timestamp": "Nov 17, 2016 8:26:13 PM",
+    "topic": "The Monkey and the Apple (2016)",
+    "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html",
+    "votes": 5,
+    "posted": "Nov 17, 2016 5:56:56 PM"
   },
   {
     "id": "12979074",
@@ -8613,68 +8661,5 @@ var newsArray = [
     "url": "https://halite.io/",
     "votes": 6,
     "posted": "Nov 10, 2016 8:56:20 PM"
-  },
-  {
-    "id": "12923460",
-    "timestamp": "Nov 10, 2016 8:49:34 PM",
-    "topic": "Work/Life Balance Will Make You a Better Software Engineer",
-    "url": "https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/?",
-    "votes": 11,
-    "posted": "Nov 10, 2016 8:33:07 PM"
-  },
-  {
-    "id": "12923444",
-    "timestamp": "Nov 10, 2016 8:49:35 PM",
-    "topic": "Use the Electoral College the way it was intended",
-    "url": "https://www.change.org/p/electoral-college-electors-electoral-college-make-hillary-clinton-president-on-december-19?source_location\u003ddiscover_feed",
-    "votes": 3,
-    "posted": "Nov 10, 2016 8:31:42 PM"
-  },
-  {
-    "id": "12923390",
-    "timestamp": "Nov 10, 2016 8:49:35 PM",
-    "topic": "Global warming disaster could suffocate life on planet Earth, research shows",
-    "url": "https://www2.le.ac.uk/offices/press/press-releases/2015/december/global-warming-disaster-could-suffocate-life-on-planet-earth-research-shows",
-    "votes": 7,
-    "posted": "Nov 10, 2016 8:26:31 PM"
-  },
-  {
-    "id": "12923361",
-    "timestamp": "Nov 10, 2016 8:39:33 PM",
-    "topic": "GreatAgain.gov",
-    "url": "https://www.greatagain.gov",
-    "votes": 7,
-    "posted": "Nov 10, 2016 8:22:51 PM"
-  },
-  {
-    "id": "12923273",
-    "timestamp": "Nov 10, 2016 9:09:36 PM",
-    "topic": "Facebook, I’m Begging You, Please Make Yourself Better",
-    "url": "https://theintercept.com/2016/11/10/facebook-im-begging-you-please-make-yourself-better/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 8:14:18 PM"
-  },
-  {
-    "id": "12923266",
-    "timestamp": "Nov 10, 2016 8:39:33 PM",
-    "topic": "Donald Trump’s strange speaking style, as explained by linguists",
-    "url": "http://www.vox.com/2016/8/18/12423688/donald-trump-speech-style-explained-by-linguists",
-    "votes": 3,
-    "posted": "Nov 10, 2016 8:13:21 PM"
-  },
-  {
-    "id": "12923230",
-    "timestamp": "Nov 10, 2016 8:19:31 PM",
-    "topic": "Gut Feelings: Bacteria and the Brain",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3788166/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 8:08:44 PM"
-  },
-  {
-    "id": "12923198",
-    "timestamp": "Nov 10, 2016 10:39:44 PM",
-    "topic": "Ask HN: Which is your favorite source of non Tech news?",
-    "votes": 7,
-    "posted": "Nov 10, 2016 8:05:10 PM"
   }
 ];
