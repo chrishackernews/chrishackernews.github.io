@@ -1,5 +1,109 @@
 var newsArray = [
   {
+    "id": "12977789",
+    "timestamp": "Nov 17, 2016 3:55:48 PM",
+    "topic": "Proposal to Twitter. I want to pay for my account",
+    "url": "https://twitter.com/tomas_dobrotka/status/799260630423310336",
+    "votes": 8,
+    "posted": "Nov 17, 2016 3:41:20 PM"
+  },
+  {
+    "id": "12977719",
+    "timestamp": "Nov 17, 2016 3:45:47 PM",
+    "topic": "Introducing Firefox Focus – a free, fast and easy to use private browser for iOS",
+    "url": "https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/",
+    "votes": 10,
+    "posted": "Nov 17, 2016 3:33:23 PM"
+  },
+  {
+    "id": "12977718",
+    "timestamp": "Nov 17, 2016 3:55:49 PM",
+    "topic": "Using technology to stop Trump",
+    "url": "https://medium.com/@andymoon/how-we-can-fight-back-c1c3605c57ad#.t87ydzmoz",
+    "votes": 3,
+    "posted": "Nov 17, 2016 3:33:11 PM"
+  },
+  {
+    "id": "12977713",
+    "timestamp": "Nov 17, 2016 3:55:48 PM",
+    "topic": "Parsing malformed JSON",
+    "url": "https://peteris.rocks/blog/parsing-malformed-json/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 3:32:36 PM"
+  },
+  {
+    "id": "12977668",
+    "timestamp": "Nov 17, 2016 3:35:45 PM",
+    "topic": "12.1 kills ram allocation 8gb for non PRO version?",
+    "url": "https://forum.parallels.com/threads/12-1-kills-ram-allocation-8gb-for-non-pro-version.338853/",
+    "votes": 13,
+    "posted": "Nov 17, 2016 3:26:13 PM"
+  },
+  {
+    "id": "12977662",
+    "timestamp": "Nov 17, 2016 3:45:47 PM",
+    "topic": "The U.S. Census Bureau Gave Up Names of Japanese-Americans in WW II",
+    "url": "https://www.scientificamerican.com/article/confirmed-the-us-census-b/",
+    "votes": 7,
+    "posted": "Nov 17, 2016 3:25:40 PM"
+  },
+  {
+    "id": "12977642",
+    "timestamp": "Nov 17, 2016 3:45:47 PM",
+    "topic": "How Gamification Creates Engagement",
+    "url": "https://getbadges.io/blog/why-gamification-works-part-2-engagement",
+    "votes": 7,
+    "posted": "Nov 17, 2016 3:23:22 PM"
+  },
+  {
+    "id": "12977633",
+    "timestamp": "Nov 17, 2016 3:35:46 PM",
+    "topic": "You Are Still Crying Wolf",
+    "url": "http://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 3:22:17 PM"
+  },
+  {
+    "id": "12977612",
+    "timestamp": "Nov 17, 2016 3:55:48 PM",
+    "topic": "iPhone sends call logs to Apple servers even when iCloud backup switched off",
+    "url": "https://9to5mac.com/2016/11/17/elcomsoft-iphone-call-logs-icloud-drive/",
+    "votes": 7,
+    "posted": "Nov 17, 2016 3:18:39 PM"
+  },
+  {
+    "id": "12977591",
+    "timestamp": "Nov 17, 2016 3:55:48 PM",
+    "topic": "Baidu’s self-driving cars begin public test in China",
+    "url": "https://techcrunch.com/2016/11/17/baidus-self-driving-cars-begin-public-test-in-wuzhen-china/",
+    "votes": 6,
+    "posted": "Nov 17, 2016 3:16:06 PM"
+  },
+  {
+    "id": "12977556",
+    "timestamp": "Nov 17, 2016 3:35:46 PM",
+    "topic": "Facebook fake news writer: Trump supporters lapped up stuff I completely made up",
+    "url": "https://www.washingtonpost.com/news/the-intersect/wp/2016/11/17/facebook-fake-news-writer-i-think-donald-trump-is-in-the-white-house-because-of-me/",
+    "votes": 9,
+    "posted": "Nov 17, 2016 3:12:11 PM"
+  },
+  {
+    "id": "12977484",
+    "timestamp": "Nov 17, 2016 3:55:49 PM",
+    "topic": "What Can We Expect from the Internet in 2020? Ilya Grigorik",
+    "url": "https://www.youtube.com/watch?v\u003dx4S38hpgxuM",
+    "votes": 3,
+    "posted": "Nov 17, 2016 3:03:17 PM"
+  },
+  {
+    "id": "12977142",
+    "timestamp": "Nov 17, 2016 3:15:44 PM",
+    "topic": "Dyson Award for \u0027Extraordinary\u0027 Paper Cycle Helmet",
+    "url": "http://www.thememo.com/2016/11/17/paper-helmet-paper-cycle-helmet-dyson-award-cycling-news/",
+    "votes": 7,
+    "posted": "Nov 17, 2016 2:17:00 PM"
+  },
+  {
     "id": "12976719",
     "timestamp": "Nov 17, 2016 1:35:37 PM",
     "topic": "Why is airline food so bad?",
@@ -8552,109 +8656,5 @@ var newsArray = [
     "url": "http://nerds.airbnb.com/airflow/",
     "votes": 3,
     "posted": "Nov 10, 2016 4:03:57 PM"
-  },
-  {
-    "id": "12920783",
-    "timestamp": "Nov 10, 2016 4:09:05 PM",
-    "topic": "OpenSource Smart Mirror, that recommends you clothes",
-    "url": "https://www.hackster.io/Techblogogy/magic-mirror-w-stylist-4b3ff7",
-    "votes": 4,
-    "posted": "Nov 10, 2016 3:50:51 PM"
-  },
-  {
-    "id": "12920752",
-    "timestamp": "Nov 10, 2016 6:59:24 PM",
-    "topic": "A Haskell Study Syllabus",
-    "url": "https://www.fpcomplete.com/haskell-syllabus",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:47:00 PM"
-  },
-  {
-    "id": "12920724",
-    "timestamp": "Nov 10, 2016 6:09:17 PM",
-    "topic": "With change at the top of Copyright Office, a battle brews over free content",
-    "url": "http://www.latimes.com/business/la-fi-copyright-office-20161109-story.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 3:44:30 PM"
-  },
-  {
-    "id": "12920598",
-    "timestamp": "Nov 10, 2016 3:49:03 PM",
-    "topic": "Seven years of Go",
-    "url": "https://blog.golang.org/7years",
-    "votes": 11,
-    "posted": "Nov 10, 2016 3:30:27 PM"
-  },
-  {
-    "id": "12920591",
-    "timestamp": "Nov 10, 2016 7:49:28 PM",
-    "topic": "Show HN: GitHub-Hovercard v0.9.0",
-    "url": "https://justineo.github.io/github-hovercard/?v0.9.0+Edge",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:29:17 PM"
-  },
-  {
-    "id": "12920556",
-    "timestamp": "Nov 10, 2016 7:09:25 PM",
-    "topic": "Android: Choice at every turn",
-    "url": "https://blog.google/topics/google-europe/android-choice-competition-response-europe/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 3:24:15 PM"
-  },
-  {
-    "id": "12920498",
-    "timestamp": "Nov 10, 2016 3:39:02 PM",
-    "topic": "The sneering response to Trump’s victory reveals exactly why he won",
-    "url": "http://blogs.spectator.co.uk/2016/11/sneering-response-trumps-victory-reveals-exactly-won/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:15:58 PM"
-  },
-  {
-    "id": "12920496",
-    "timestamp": "Nov 10, 2016 3:29:01 PM",
-    "topic": "In wake of Trump win, some in Silicon Valley wonder if Facebook too influential",
-    "url": "http://www.latimes.com/business/la-fi-election-media-20161109-story.html",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:15:52 PM"
-  },
-  {
-    "id": "12920490",
-    "timestamp": "Nov 10, 2016 3:39:02 PM",
-    "topic": "Why the Chinese Market Is Crazy about Numeric Domain Names: Pinyin Acronyms",
-    "url": "https://pop.co/blog/chinese-numeric-domain-names-pinyin/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:15:22 PM"
-  },
-  {
-    "id": "12920449",
-    "timestamp": "Nov 10, 2016 4:09:05 PM",
-    "topic": "C puzzles",
-    "url": "http://www.gowrikumar.com/c/index.php",
-    "votes": 7,
-    "posted": "Nov 10, 2016 3:09:14 PM"
-  },
-  {
-    "id": "12920447",
-    "timestamp": "Nov 10, 2016 3:29:01 PM",
-    "topic": "Democratic forum hacked",
-    "url": "http://www.democraticunderground.com/503.php",
-    "votes": 6,
-    "posted": "Nov 10, 2016 3:09:02 PM"
-  },
-  {
-    "id": "12920364",
-    "timestamp": "Nov 10, 2016 3:59:04 PM",
-    "topic": "Trump’s Data Team Saw a Different America",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-10/trump-s-data-team-saw-a-different-america-and-they-were-right",
-    "votes": 6,
-    "posted": "Nov 10, 2016 2:58:15 PM"
-  },
-  {
-    "id": "12920349",
-    "timestamp": "Nov 10, 2016 3:19:00 PM",
-    "topic": "SILICON VALLEY THREATENS TO SECEDE AFTER TRUMP WINS ELECTION",
-    "url": "http://www.vanityfair.com/news/2016/11/donald-trump-victory-silicon-valley-california-secession-threat",
-    "votes": 5,
-    "posted": "Nov 10, 2016 2:56:27 PM"
   }
 ];
