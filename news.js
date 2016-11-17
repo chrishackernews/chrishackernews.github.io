@@ -8656,45 +8656,5 @@ var newsArray = [
     "url": "http://www.vanityfair.com/news/2016/11/donald-trump-victory-silicon-valley-california-secession-threat",
     "votes": 5,
     "posted": "Nov 10, 2016 2:56:27 PM"
-  },
-  {
-    "id": "12920327",
-    "timestamp": "Nov 11, 2016 2:50:07 AM",
-    "topic": "Commentary: The unbearable smugness of the press",
-    "url": "http://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 2:53:09 PM"
-  },
-  {
-    "id": "12920279",
-    "timestamp": "Nov 10, 2016 5:09:11 PM",
-    "topic": "The first cryptor to exploit Telegram protocol",
-    "url": "https://securelist.com/blog/research/76558/the-first-cryptor-to-exploit-telegram/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 2:47:11 PM"
-  },
-  {
-    "id": "12920268",
-    "timestamp": "Nov 10, 2016 3:08:59 PM",
-    "topic": "Apple CEO Tim Cook Calls for Unity in Memo to Staff Following Trump Victory",
-    "url": "http://www.macrumors.com/2016/11/10/tim-cook-calls-for-unity-trump-victory/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 2:45:55 PM"
-  },
-  {
-    "id": "12919999",
-    "timestamp": "Nov 10, 2016 2:08:54 PM",
-    "topic": "Shipbob(YC-S14) hiring software engineers",
-    "url": "http://www.builtinchicago.org/job/software-engineer-205",
-    "votes": 1,
-    "posted": "Nov 10, 2016 2:05:08 PM"
-  },
-  {
-    "id": "12919975",
-    "timestamp": "Nov 10, 2016 4:29:07 PM",
-    "topic": "The Battle Against TPP Isn’t Over, but It Has Shifted",
-    "url": "https://www.eff.org/deeplinks/2016/11/battle-against-tpp-isnt-over-it-has-shifted",
-    "votes": 3,
-    "posted": "Nov 10, 2016 1:58:28 PM"
   }
 ];
