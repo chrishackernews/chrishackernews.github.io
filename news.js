@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "12976347",
+    "timestamp": "Nov 17, 2016 12:15:30 PM",
+    "topic": "Tesla ‘Easter Egg’ Makes the World’s Fastest Car Even Faster",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-16/tesla-easter-egg-makes-the-world-s-fastest-car-even-faster",
+    "votes": 3,
+    "posted": "Nov 17, 2016 12:06:52 PM"
+  },
+  {
+    "id": "12976296",
+    "timestamp": "Nov 17, 2016 12:35:32 PM",
+    "topic": "Ask HN: Where is Assange?",
+    "votes": 7,
+    "posted": "Nov 17, 2016 11:57:52 AM"
+  },
+  {
+    "id": "12976168",
+    "timestamp": "Nov 17, 2016 12:15:31 PM",
+    "topic": "Zfec",
+    "url": "https://tahoe-lafs.org/trac/zfec/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 11:30:38 AM"
+  },
+  {
     "id": "12975715",
     "timestamp": "Nov 17, 2016 11:45:27 AM",
     "topic": "Silicon Valley Wake Up Call",
@@ -8720,21 +8743,5 @@ var newsArray = [
     "url": "http://www.ua-magazine.com/1983-iphone-prototype/",
     "votes": 11,
     "posted": "Nov 10, 2016 1:01:31 PM"
-  },
-  {
-    "id": "12919633",
-    "timestamp": "Nov 10, 2016 1:18:49 PM",
-    "topic": "Dear Democrats, Read This If You Do Not Understand Why Trump Won",
-    "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.jhhanptn7",
-    "votes": 4,
-    "posted": "Nov 10, 2016 12:51:57 PM"
-  },
-  {
-    "id": "12919390",
-    "timestamp": "Nov 10, 2016 4:39:08 PM",
-    "topic": "Silicon Valley Is Worried That Trump Is Going to Grab Them by the Data",
-    "url": "https://www.buzzfeed.com/sheerafrenkel/silicon-valley-is-worried-that-trump-is-going-to-g",
-    "votes": 5,
-    "posted": "Nov 10, 2016 12:02:07 PM"
   }
 ];
