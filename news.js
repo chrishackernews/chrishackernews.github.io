@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12975060",
+    "timestamp": "Nov 17, 2016 8:55:14 AM",
+    "topic": "Demand an Audit of the 2016 Presidential Election",
+    "url": "https://www.change.org/p/demand-an-audit-of-the-2016-presidential-election?tk\u003d-7WGliaW9iblPEcFqT0wP4OsJ1eV1GSe3bi6A4LDq10\u0026utm_medium\u003demail\u0026utm_source\u003dsignature_receipt\u0026utm_campaign\u003dnew_signature",
+    "votes": 3,
+    "posted": "Nov 17, 2016 8:03:40 AM"
+  },
+  {
+    "id": "12975008",
+    "timestamp": "Nov 17, 2016 8:55:14 AM",
+    "topic": "Wedge-Tail Eagle Does Battle With Mining Giant\u0027s Drones",
+    "url": "http://www.abc.net.au/news/2016-11-17/wedge-tailed-eagles-bring-down-drones-in-goldfields/8033056",
+    "votes": 3,
+    "posted": "Nov 17, 2016 7:52:06 AM"
+  },
+  {
+    "id": "12974946",
+    "timestamp": "Nov 17, 2016 8:05:10 AM",
+    "topic": "The disappearing stick shift: less than 3% of cars sold in the U.S. have manuals",
+    "url": "http://www.latimes.com/business/autos/laautoshow/la-fi-hy-disappearing-stick-shift-20161115-story.html",
+    "votes": 4,
+    "posted": "Nov 17, 2016 7:37:50 AM"
+  },
+  {
+    "id": "12974938",
+    "timestamp": "Nov 17, 2016 8:35:13 AM",
+    "topic": "6,000+ businesses use IBM’s supercomputer ‘Watson’ – here’s why",
+    "url": "http://www.eno8.com/blog/why-6000-businesses-use-ibm-watson/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 7:36:01 AM"
+  },
+  {
+    "id": "12974748",
+    "timestamp": "Nov 17, 2016 8:15:11 AM",
+    "topic": "Two Syntax Styles of xmake.lua",
+    "url": "http://tboox.org/2016/11/15/syntax-style/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 6:55:31 AM"
+  },
+  {
+    "id": "12974726",
+    "timestamp": "Nov 17, 2016 8:15:11 AM",
+    "topic": "M(DM)acOS",
+    "url": "http://michaellynn.github.io/2016/10/04/mDMacOS/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:50:53 AM"
+  },
+  {
+    "id": "12974589",
+    "timestamp": "Nov 17, 2016 8:15:11 AM",
+    "topic": "No One Cares About the Security of Your Unlocked Android Phone",
+    "url": "https://hackernoon.com/no-one-cares-about-the-security-of-your-unlocked-android-phone-cd8ad4aae4c5#.xvdmxs2g7",
+    "votes": 5,
+    "posted": "Nov 17, 2016 6:23:22 AM"
+  },
+  {
     "id": "12974588",
     "timestamp": "Nov 17, 2016 6:45:04 AM",
     "topic": "Portable systemd services",
@@ -132,6 +188,14 @@ var newsArray = [
     "url": "http://www.npr.org/sections/thetwo-way/2016/11/16/502349250/twitter-suspends-prominent-alt-right-accounts",
     "votes": 6,
     "posted": "Nov 17, 2016 4:17:09 AM"
+  },
+  {
+    "id": "12973878",
+    "timestamp": "Nov 17, 2016 8:55:14 AM",
+    "topic": "Microsoft Joins the Linux Foundation as a Platinum Member",
+    "url": "http://venturebeat.com/2016/11/16/microsoft-joins-the-linux-foundation-as-a-platinum-member/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 4:03:32 AM"
   },
   {
     "id": "12973852",
@@ -8711,51 +8775,5 @@ var newsArray = [
     "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
     "votes": 3,
     "posted": "Nov 10, 2016 8:56:49 AM"
-  },
-  {
-    "id": "12918493",
-    "timestamp": "Nov 10, 2016 4:59:10 PM",
-    "topic": "Do the Right Thing and Leave Judgment to Algorithms",
-    "url": "http://www.3quarksdaily.com/3quarksdaily/2016/11/do-the-right-thing-and-leave-judgment-to-algorithms-.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 8:42:44 AM"
-  },
-  {
-    "id": "12918490",
-    "timestamp": "Nov 10, 2016 4:59:10 PM",
-    "topic": "Silicon Valley investors call for California to secede from the US",
-    "url": "https://www.theguardian.com/technology/2016/nov/09/trump-win-california-secede-calexit-silicon-valley",
-    "votes": 3,
-    "posted": "Nov 10, 2016 8:42:07 AM"
-  },
-  {
-    "id": "12918465",
-    "timestamp": "Nov 10, 2016 8:38:28 AM",
-    "topic": "Standard Cyborg Is Hiring a Customer Success Manager",
-    "votes": 1,
-    "posted": "Nov 10, 2016 8:37:19 AM"
-  },
-  {
-    "id": "12918437",
-    "timestamp": "Nov 10, 2016 4:59:10 PM",
-    "topic": "President Obama Should Shut Down the NSA’s Mass Spying Before It’s Too Late",
-    "url": "http://time.com/4565149/obama-trump-nsa-surveillance/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 8:30:17 AM"
-  },
-  {
-    "id": "12918432",
-    "timestamp": "Nov 10, 2016 9:58:34 AM",
-    "topic": "What a Difference 2 Percentage Points Make",
-    "url": "http://fivethirtyeight.com/features/what-a-difference-2-percentage-points-makes/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 8:28:48 AM"
-  },
-  {
-    "id": "12918378",
-    "timestamp": "Nov 11, 2016 9:00:41 AM",
-    "topic": "Ask HN: How to learn to stop worrying and love pair programming?",
-    "votes": 7,
-    "posted": "Nov 10, 2016 8:16:02 AM"
   }
 ];
