@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12972754",
+    "timestamp": "Nov 17, 2016 1:24:38 AM",
+    "topic": "Wire’s end-to-end encrypted bot API is coming",
+    "url": "https://medium.com/wire-news/wires-end-to-end-encrypted-bot-api-is-coming-861d04825d1#.sh5s2lxol",
+    "votes": 4,
+    "posted": "Nov 17, 2016 12:45:45 AM"
+  },
+  {
+    "id": "12972744",
+    "timestamp": "Nov 17, 2016 1:34:39 AM",
+    "topic": "Samy Kamkar: PoisonTap – exploiting locked computers over USB",
+    "url": "https://samy.pl/poisontap/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 12:45:02 AM"
+  },
+  {
+    "id": "12972663",
+    "timestamp": "Nov 17, 2016 1:04:36 AM",
+    "topic": "Viral Fake Election News Outperformed Real News on Facebook",
+    "url": "https://www.buzzfeed.com/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook?utm_term\u003d.tn08ADVNX#.hyp4qAowM",
+    "votes": 3,
+    "posted": "Nov 17, 2016 12:34:27 AM"
+  },
+  {
     "id": "12972662",
     "timestamp": "Nov 17, 2016 12:34:34 AM",
     "topic": "Cratejoy (YC S13) Is Hiring Senior UX, PM and Marketing in Austin",
@@ -8,12 +32,28 @@ var newsArray = [
     "posted": "Nov 17, 2016 12:34:21 AM"
   },
   {
+    "id": "12972604",
+    "timestamp": "Nov 17, 2016 1:04:36 AM",
+    "topic": "Congress to Security Experts: How Do We Deal with the Internet of Shit?",
+    "url": "http://motherboard.vice.com/read/congress-to-security-experts-how-do-we-deal-with-the-internet-of-shit",
+    "votes": 3,
+    "posted": "Nov 17, 2016 12:25:55 AM"
+  },
+  {
     "id": "12972557",
     "timestamp": "Nov 17, 2016 12:24:33 AM",
     "topic": "Announcing iD v2 editor for OpenStreetMap",
     "url": "https://www.mapbox.com/blog/announcing-id-v2/",
     "votes": 4,
     "posted": "Nov 17, 2016 12:19:44 AM"
+  },
+  {
+    "id": "12972554",
+    "timestamp": "Nov 17, 2016 1:04:36 AM",
+    "topic": "PSA: Don’t Mess with the Google",
+    "url": "http://www.dansdeals.com/archives/98444",
+    "votes": 13,
+    "posted": "Nov 17, 2016 12:19:27 AM"
   },
   {
     "id": "12972403",
@@ -8560,28 +8600,5 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact",
     "votes": 3,
     "posted": "Nov 10, 2016 2:11:36 AM"
-  },
-  {
-    "id": "12916510",
-    "timestamp": "Nov 10, 2016 2:57:58 AM",
-    "topic": "How Facebook Saw Trump Coming When No One Else Did",
-    "url": "https://medium.com/@erinpettigrew/how-facebook-saw-trump-coming-when-no-one-else-did-84cd6b4e0d8e",
-    "votes": 3,
-    "posted": "Nov 10, 2016 1:39:13 AM"
-  },
-  {
-    "id": "12916498",
-    "timestamp": "Nov 10, 2016 2:07:53 AM",
-    "topic": "Ask HN: How Can I Get into NLP (Natural Language Processing)?",
-    "votes": 10,
-    "posted": "Nov 10, 2016 1:37:44 AM"
-  },
-  {
-    "id": "12916278",
-    "timestamp": "Nov 10, 2016 1:57:52 AM",
-    "topic": "Angular 3 is hot on the heels of Angular 2",
-    "url": "http://www.infoworld.com/article/3139891/javascript/angular-3-is-hot-on-the-heels-of-angular-2.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 1:09:18 AM"
   }
 ];
