@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12981755",
+    "timestamp": "Nov 17, 2016 10:36:27 PM",
+    "topic": "WHAT.CD servers seized by French police",
+    "url": "https://www.reddit.com/r/trackers/comments/5dguyw/according_to_a_french_news_site_12_whatcd_servers/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 10:22:55 PM"
+  },
+  {
+    "id": "12981750",
+    "timestamp": "Nov 17, 2016 10:36:27 PM",
+    "topic": "What.cd has shut down",
+    "url": "https://twitter.com/whatcd/status/799361263121866752",
+    "votes": 5,
+    "posted": "Nov 17, 2016 10:22:34 PM"
+  },
+  {
+    "id": "12981736",
+    "timestamp": "Nov 17, 2016 10:36:27 PM",
+    "topic": "What.cd closes down",
+    "url": "https://what.cd/",
+    "votes": 18,
+    "posted": "Nov 17, 2016 10:21:18 PM"
+  },
+  {
+    "id": "12981655",
+    "timestamp": "Nov 17, 2016 10:36:26 PM",
+    "topic": "All around the world, nationalists are gaining ground. Why?",
+    "url": "http://www.economist.com/news/international/21710276-all-around-world-nationalists-are-gaining-ground-why-league-nationalists",
+    "votes": 15,
+    "posted": "Nov 17, 2016 10:14:47 PM"
+  },
+  {
+    "id": "12981632",
+    "timestamp": "Nov 17, 2016 10:26:25 PM",
+    "topic": "Shareholders overwhelmingly approve Tesla Solar City merger",
+    "url": "http://www.cnbc.com/2016/11/17/solarcity-shareholders-vote-on-tesla-merger.html",
+    "votes": 9,
+    "posted": "Nov 17, 2016 10:13:14 PM"
+  },
+  {
+    "id": "12981605",
+    "timestamp": "Nov 17, 2016 10:26:25 PM",
+    "topic": "Shareholders approve Tesla Solarcity acquisition",
+    "url": "https://techcrunch.com/2016/11/17/shareholders-approve-tesla-acquisition-of-solarcity/",
+    "votes": 13,
+    "posted": "Nov 17, 2016 10:11:03 PM"
+  },
+  {
+    "id": "12981599",
+    "timestamp": "Nov 17, 2016 10:16:24 PM",
+    "topic": "Classic IT short jokes collection. Great after a busy day",
+    "url": "https://blog.sysadminsarena.com/classic-it-short-jokes-collection-great-after-a-busy-day-e5869f6076f8#.9rw8j2411",
+    "votes": 4,
+    "posted": "Nov 17, 2016 10:10:16 PM"
+  },
+  {
     "id": "12981392",
     "timestamp": "Nov 17, 2016 9:56:21 PM",
     "topic": "The risks of becoming “Default Alive”",
@@ -54,6 +110,13 @@ var newsArray = [
     "url": "http://unplugthensa.org",
     "votes": 13,
     "posted": "Nov 17, 2016 9:15:15 PM"
+  },
+  {
+    "id": "12980932",
+    "timestamp": "Nov 17, 2016 10:46:28 PM",
+    "topic": "Ask HN: What book did you read in 2016 that was so good you gifted it to others?",
+    "votes": 8,
+    "posted": "Nov 17, 2016 9:04:34 PM"
   },
   {
     "id": "12980888",
@@ -174,6 +237,14 @@ var newsArray = [
     "url": "https://medium.com/@steven_ovadia/the-joy-of-linux-desktop-environments-365d6cc8de72",
     "votes": 3,
     "posted": "Nov 17, 2016 6:25:22 PM"
+  },
+  {
+    "id": "12979394",
+    "timestamp": "Nov 17, 2016 10:26:25 PM",
+    "topic": "Apple could make iPhones in U.S.",
+    "url": "http://asia.nikkei.com/Business/AC/Apple-could-make-iPhones-in-US-in-future-sources",
+    "votes": 6,
+    "posted": "Nov 17, 2016 6:24:40 PM"
   },
   {
     "id": "12979383",
@@ -468,6 +539,13 @@ var newsArray = [
     "posted": "Nov 17, 2016 2:08:58 PM"
   },
   {
+    "id": "12977004",
+    "timestamp": "Nov 17, 2016 10:16:24 PM",
+    "topic": "Ask HN: Is my project at a disadvantage for being hosted on a GitHub competitor?",
+    "votes": 8,
+    "posted": "Nov 17, 2016 1:54:48 PM"
+  },
+  {
     "id": "12976719",
     "timestamp": "Nov 17, 2016 1:35:37 PM",
     "topic": "Why is airline food so bad?",
@@ -584,6 +662,13 @@ var newsArray = [
     "topic": "Ask HN: Should big tech companies be considered monopolies?",
     "votes": 8,
     "posted": "Nov 17, 2016 8:29:16 AM"
+  },
+  {
+    "id": "12975150",
+    "timestamp": "Nov 17, 2016 10:16:24 PM",
+    "topic": "Ask HN: What are your thoughts on /r/whereisassange?",
+    "votes": 9,
+    "posted": "Nov 17, 2016 8:20:54 AM"
   },
   {
     "id": "12975060",
@@ -1285,6 +1370,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 10:03:37 PM"
   },
   {
+    "id": "12971449",
+    "timestamp": "Nov 17, 2016 10:36:27 PM",
+    "topic": "Andrew Wyeth, His Critics, and Small Town Mud",
+    "url": "http://the-easel.com/essays/easel-essay-andrew-wyeth-his-critics-and-small-town-mud/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:58:01 PM"
+  },
+  {
     "id": "12971395",
     "timestamp": "Nov 16, 2016 10:54:22 PM",
     "topic": "Kubernetes Conference Seattle Videos",
@@ -1387,6 +1480,14 @@ var newsArray = [
     "url": "http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions",
     "votes": 3,
     "posted": "Nov 16, 2016 9:28:27 PM"
+  },
+  {
+    "id": "12971150",
+    "timestamp": "Nov 17, 2016 10:36:27 PM",
+    "topic": "Meeting One\u0027s Madness: Alan Watts and the “age of Environmental Anxiety\"",
+    "url": "http://www.theparisreview.org/blog/2016/11/15/meeting-ones-madness/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:28:21 PM"
   },
   {
     "id": "12971062",
@@ -2178,6 +2279,14 @@ var newsArray = [
     "topic": "Ask HN: What programming language to learn for a statistician?",
     "votes": 3,
     "posted": "Nov 16, 2016 9:53:08 AM"
+  },
+  {
+    "id": "12965391",
+    "timestamp": "Nov 17, 2016 10:16:24 PM",
+    "topic": "Show HN: I wrote a Haskell program that does my intro logic homework",
+    "url": "https://github.com/JacksonGariety/derivation-machine",
+    "votes": 5,
+    "posted": "Nov 16, 2016 9:43:53 AM"
   },
   {
     "id": "12965348",
@@ -3196,6 +3305,13 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/is-nuclear-power-vital-to-hitting-co2-emissions-targets-1479092761",
     "votes": 3,
     "posted": "Nov 15, 2016 4:27:14 PM"
+  },
+  {
+    "id": "12958712",
+    "timestamp": "Nov 17, 2016 10:26:26 PM",
+    "topic": "Ask HN: How do you show off your portfolio of dead side projects?",
+    "votes": 9,
+    "posted": "Nov 15, 2016 4:22:16 PM"
   },
   {
     "id": "12958661",
@@ -8600,52 +8716,5 @@ var newsArray = [
     "topic": "Ask HN: Dang, why aren\u0027t my own comments viewable?",
     "votes": 3,
     "posted": "Nov 10, 2016 10:57:04 PM"
-  },
-  {
-    "id": "12924666",
-    "timestamp": "Nov 11, 2016 9:00:40 AM",
-    "topic": "Ask HN: Have you ever got tired of programming?",
-    "votes": 7,
-    "posted": "Nov 10, 2016 10:41:06 PM"
-  },
-  {
-    "id": "12924618",
-    "timestamp": "Nov 10, 2016 11:09:47 PM",
-    "topic": "You Don\u0027t Need",
-    "url": "https://github.com/you-dont-need",
-    "votes": 2,
-    "posted": "Nov 10, 2016 10:35:30 PM"
-  },
-  {
-    "id": "12924616",
-    "timestamp": "Nov 10, 2016 10:59:46 PM",
-    "topic": "Peter Thiel to enter Trump inner circle as tech adviser",
-    "url": "https://www.cnet.com/news/peter-thiel-to-enter-trump-inner-circle-as-technology-adviser/",
-    "votes": 10,
-    "posted": "Nov 10, 2016 10:35:13 PM"
-  },
-  {
-    "id": "12924604",
-    "timestamp": "Nov 10, 2016 10:59:46 PM",
-    "topic": "Trump’s sweep could be a big setback to Tesla and Elon Musk",
-    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/09/trumps-sweep-could-be-a-big-setback-to-tesla-and-elon-musk/",
-    "votes": 7,
-    "posted": "Nov 10, 2016 10:32:45 PM"
-  },
-  {
-    "id": "12924564",
-    "timestamp": "Nov 10, 2016 10:49:45 PM",
-    "topic": "I’m a Coastal Elite from the Midwest: The Real Bubble Is Rural America",
-    "url": "http://www.rollcall.com/news/opinion/im-a-coastal-elite-from-the-midwest-the-real-bubble-is-rural-america",
-    "votes": 5,
-    "posted": "Nov 10, 2016 10:29:05 PM"
-  },
-  {
-    "id": "12924340",
-    "timestamp": "Nov 11, 2016 1:19:59 AM",
-    "topic": "Grub Hub CEO – If you support Trump, I want your resignation",
-    "url": "http://www.foxnews.com/us/2016/11/10/boss-tells-pro-trump-employees-to-resign.html",
-    "votes": 27,
-    "posted": "Nov 10, 2016 10:06:43 PM"
   }
 ];
