@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12976719",
+    "timestamp": "Nov 17, 2016 1:35:37 PM",
+    "topic": "Why is airline food so bad?",
+    "url": "http://www.bbc.com/autos/story/20161115-why-is-airline-food-so-bad",
+    "votes": 7,
+    "posted": "Nov 17, 2016 1:13:01 PM"
+  },
+  {
+    "id": "12976642",
+    "timestamp": "Nov 17, 2016 1:35:37 PM",
+    "topic": "The FCC Just Caved in to Republican Demands That It Halt Work on Major Issues",
+    "url": "http://motherboard.vice.com/read/the-fcc-just-caved-in-to-republican-demands-that-it-halt-work-on-major-issues",
+    "votes": 3,
+    "posted": "Nov 17, 2016 1:00:48 PM"
+  },
+  {
+    "id": "12976393",
+    "timestamp": "Nov 17, 2016 1:25:36 PM",
+    "topic": "The mathematics of science’s broken reward system",
+    "url": "http://www.nature.com/news/the-mathematics-of-science-s-broken-reward-system-1.20987",
+    "votes": 7,
+    "posted": "Nov 17, 2016 12:15:42 PM"
+  },
+  {
     "id": "12976347",
     "timestamp": "Nov 17, 2016 12:15:30 PM",
     "topic": "Tesla ‘Easter Egg’ Makes the World’s Fastest Car Even Faster",
@@ -45,6 +69,14 @@ var newsArray = [
     "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html",
     "votes": 3,
     "posted": "Nov 17, 2016 9:41:38 AM"
+  },
+  {
+    "id": "12975548",
+    "timestamp": "Nov 17, 2016 1:45:38 PM",
+    "topic": "A Hackerrank for sysadmins, devops, SREs",
+    "url": "https://blog.sysadminsarena.com/not-only-coders-are-hard-to-recruit-54c74ba9f742#.a2w0dd852",
+    "votes": 5,
+    "posted": "Nov 17, 2016 9:33:23 AM"
   },
   {
     "id": "12975506",
@@ -8664,84 +8696,5 @@ var newsArray = [
     "url": "https://www.eff.org/deeplinks/2016/11/battle-against-tpp-isnt-over-it-has-shifted",
     "votes": 3,
     "posted": "Nov 10, 2016 1:58:28 PM"
-  },
-  {
-    "id": "12919938",
-    "timestamp": "Nov 11, 2016 9:00:41 AM",
-    "topic": "Ask HN: How to teach/learn advanced programming?",
-    "votes": 5,
-    "posted": "Nov 10, 2016 1:51:39 PM"
-  },
-  {
-    "id": "12919894",
-    "timestamp": "Nov 10, 2016 1:58:53 PM",
-    "topic": "“Trump will be the first anti-science president we have ever had”",
-    "url": "http://www.nature.com/news/donald-trump-s-us-election-win-stuns-scientists-1.20952",
-    "votes": 4,
-    "posted": "Nov 10, 2016 1:42:46 PM"
-  },
-  {
-    "id": "12919817",
-    "timestamp": "Nov 10, 2016 3:59:04 PM",
-    "topic": "Peter Thiel’s Bet on Donald Trump Pays Off",
-    "url": "http://www.nytimes.com/2016/11/10/technology/peter-thiel-bet-donald-trump-wins-big.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 1:28:06 PM"
-  },
-  {
-    "id": "12919780",
-    "timestamp": "Nov 10, 2016 1:48:52 PM",
-    "topic": "Scouts and guides provide \u0027mental health boost for life\u0027",
-    "url": "http://www.bbc.co.uk/news/uk-scotland-37923133",
-    "votes": 5,
-    "posted": "Nov 10, 2016 1:21:35 PM"
-  },
-  {
-    "id": "12919758",
-    "timestamp": "Nov 10, 2016 4:19:06 PM",
-    "topic": "Facebook demonstrates record-breaking data rate using millimeter-wave technology",
-    "url": "https://code.facebook.com/posts/1197678800270377/facebook-demonstrates-record-breaking-data-rate-using-millimeter-wave-technology/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 1:17:41 PM"
-  },
-  {
-    "id": "12919746",
-    "timestamp": "Nov 10, 2016 2:48:57 PM",
-    "topic": "When Pseudosex Is Better Than the Real Thing",
-    "url": "http://nautil.us/issue/42/fakes/when-pseudosex-is-better-than-the-real-thing",
-    "votes": 6,
-    "posted": "Nov 10, 2016 1:15:04 PM"
-  },
-  {
-    "id": "12919700",
-    "timestamp": "Nov 10, 2016 7:09:25 PM",
-    "topic": "Work/Life Balance Will Make You a Better Software Engineer",
-    "url": "https://codewithoutrules.com/2016/11/10/work-life-balance-software-engineer/",
-    "votes": 6,
-    "posted": "Nov 10, 2016 1:04:51 PM"
-  },
-  {
-    "id": "12919693",
-    "timestamp": "Nov 10, 2016 1:48:52 PM",
-    "topic": "Tesla made more money last quarter than the US oil industry made last year",
-    "url": "https://electrek.co/2016/11/10/tesla-made-more-money-last-quarter-than-the-entire-us-oil-industry-made-last-year/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 1:03:49 PM"
-  },
-  {
-    "id": "12919685",
-    "timestamp": "Nov 10, 2016 4:29:07 PM",
-    "topic": "Google’s miniature radars can now identify objects",
-    "url": "http://www.theverge.com/2016/11/10/13582700/google-soli-radarcat-object-recognition",
-    "votes": 5,
-    "posted": "Nov 10, 2016 1:02:01 PM"
-  },
-  {
-    "id": "12919683",
-    "timestamp": "Nov 10, 2016 2:48:57 PM",
-    "topic": "1983 Iphone Prototype",
-    "url": "http://www.ua-magazine.com/1983-iphone-prototype/",
-    "votes": 11,
-    "posted": "Nov 10, 2016 1:01:31 PM"
   }
 ];
