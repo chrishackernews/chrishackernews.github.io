@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12979424",
+    "timestamp": "Nov 17, 2016 6:46:04 PM",
+    "topic": "Trump administration will ban lobbyists",
+    "url": "https://www.washingtonpost.com/news/powerpost/wp/2016/11/16/trump-administration-will-ban-lobbyists-enact-five-year-lobbying-ban-after-leaving-government/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 6:27:06 PM"
+  },
+  {
+    "id": "12979401",
+    "timestamp": "Nov 17, 2016 6:46:04 PM",
+    "topic": "The Joy of Linux Desktop Environments",
+    "url": "https://medium.com/@steven_ovadia/the-joy-of-linux-desktop-environments-365d6cc8de72",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:25:22 PM"
+  },
+  {
+    "id": "12979312",
+    "timestamp": "Nov 17, 2016 6:46:04 PM",
+    "topic": "Sand\u0027s End",
+    "url": "http://www.theverge.com/2016/11/17/13660014/miami-beach-sand-erosion-nourishment-climate-change",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:16:58 PM"
+  },
+  {
+    "id": "12979195",
+    "timestamp": "Nov 17, 2016 6:16:00 PM",
+    "topic": "Apple\u0027s new storage technology reversed",
+    "url": "http://ramtin-amin.fr/#nvmepcie",
+    "votes": 4,
+    "posted": "Nov 17, 2016 6:05:06 PM"
+  },
+  {
+    "id": "12979074",
+    "timestamp": "Nov 17, 2016 6:16:01 PM",
+    "topic": "Why Catholics Built Secret Astronomical Features into Churches",
+    "url": "http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls",
+    "votes": 5,
+    "posted": "Nov 17, 2016 5:53:41 PM"
+  },
+  {
     "id": "12978893",
     "timestamp": "Nov 17, 2016 5:45:58 PM",
     "topic": "The .blog Bait and Switch",
@@ -38,6 +78,14 @@ var newsArray = [
     "url": "https://www.techdirt.com/articles/20161113/06093636030/appeals-court-to-cops-if-you-dont-have-time-constitutional-bullshit-you-dont-get-immunity.shtml",
     "votes": 5,
     "posted": "Nov 17, 2016 4:54:39 PM"
+  },
+  {
+    "id": "12978452",
+    "timestamp": "Nov 17, 2016 6:06:00 PM",
+    "topic": "Reinforcement Learning with Unsupervised Auxiliary Tasks (DeepMind)",
+    "url": "https://arxiv.org/abs/1611.05397",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:49:03 PM"
   },
   {
     "id": "12978427",
@@ -405,6 +453,22 @@ var newsArray = [
     "posted": "Nov 17, 2016 6:22:54 AM"
   },
   {
+    "id": "12974560",
+    "timestamp": "Nov 17, 2016 6:26:02 PM",
+    "topic": "Better Docker Images for Big Data Tools",
+    "url": "https://github.com/mustafaakin/big-data-docker",
+    "votes": 5,
+    "posted": "Nov 17, 2016 6:17:04 AM"
+  },
+  {
+    "id": "12974499",
+    "timestamp": "Nov 17, 2016 6:26:02 PM",
+    "topic": "Patients May Still Get a ‘Surprise’ Bill After an In-Network ER Visit",
+    "url": "http://www.wsj.com/articles/patients-may-still-get-a-surprise-bill-after-an-in-network-er-visit-study-finds-1479333600",
+    "votes": 4,
+    "posted": "Nov 17, 2016 6:05:42 AM"
+  },
+  {
     "id": "12974403",
     "timestamp": "Nov 17, 2016 6:05:01 AM",
     "topic": "Introducing Boards in Asana",
@@ -755,6 +819,14 @@ var newsArray = [
     "posted": "Nov 17, 2016 12:19:27 AM"
   },
   {
+    "id": "12972547",
+    "timestamp": "Nov 17, 2016 6:26:02 PM",
+    "topic": "New, Lower Pricing for the Talos Secure Workstation",
+    "url": "https://www.crowdsupply.com/raptor-computing-systems/talos-secure-workstation/updates/new-lower-pricing",
+    "votes": 3,
+    "posted": "Nov 17, 2016 12:18:42 AM"
+  },
+  {
     "id": "12972531",
     "timestamp": "Nov 17, 2016 3:24:47 AM",
     "topic": "Ask HN: Do you still buy/read technical books?",
@@ -982,6 +1054,14 @@ var newsArray = [
     "url": "https://qubitsnews.com/2016/11/16/ancient-sea-monster-found-in-antarctica/",
     "votes": 4,
     "posted": "Nov 16, 2016 10:19:11 PM"
+  },
+  {
+    "id": "12971633",
+    "timestamp": "Nov 17, 2016 6:36:03 PM",
+    "topic": "Azure Bot Service – Intelligent, serverless bot service",
+    "url": "https://azure.microsoft.com/en-us/services/bot-service/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 10:18:48 PM"
   },
   {
     "id": "12971503",
@@ -8590,85 +8670,5 @@ var newsArray = [
     "url": "http://scroll.in/article/821100/how-would-the-media-cover-donald-trumps-victory-if-america-were-a-third-world-country",
     "votes": 3,
     "posted": "Nov 10, 2016 6:59:24 PM"
-  },
-  {
-    "id": "12922520",
-    "timestamp": "Nov 10, 2016 7:09:25 PM",
-    "topic": "New Ukrainian Rocket Launcher Appears to Use Raspberry Pi",
-    "url": "http://www.popularmechanics.com/military/weapons/a23774/raspberry-pi-ukrainian-weapon-system/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 6:46:41 PM"
-  },
-  {
-    "id": "12922514",
-    "timestamp": "Nov 10, 2016 7:09:24 PM",
-    "topic": "Show HN: Reorganize pixels of a painting into a smooth color palette using PCA",
-    "url": "https://github.com/ardila/paintingReorganize",
-    "votes": 5,
-    "posted": "Nov 10, 2016 6:46:02 PM"
-  },
-  {
-    "id": "12922457",
-    "timestamp": "Nov 10, 2016 7:09:25 PM",
-    "topic": "Silicon Valley Braces for Uncertainty After Donald Trump’s Victory",
-    "url": "http://www.wsj.com/articles/silicon-valley-braces-for-uncertainty-after-donald-trumps-victory-1478716165",
-    "votes": 5,
-    "posted": "Nov 10, 2016 6:40:00 PM"
-  },
-  {
-    "id": "12922318",
-    "timestamp": "Nov 10, 2016 8:09:30 PM",
-    "topic": "Facebook admits it must do more to stop the spread of misinformation",
-    "url": "https://techcrunch.com/2016/11/10/facebook-admits-it-must-do-more-to-stop-the-spread-of-misinformation-on-its-platform/",
-    "votes": 11,
-    "posted": "Nov 10, 2016 6:27:30 PM"
-  },
-  {
-    "id": "12922218",
-    "timestamp": "Nov 11, 2016 3:20:10 AM",
-    "topic": "Show HN: Hyperdeck – a new client-side programming notebook",
-    "url": "https://www.hyperdeck.io",
-    "votes": 10,
-    "posted": "Nov 10, 2016 6:18:19 PM"
-  },
-  {
-    "id": "12922202",
-    "timestamp": "Nov 10, 2016 6:49:23 PM",
-    "topic": "The WikiLeaks AMA is now live at Reddit",
-    "url": "https://www.reddit.com/r/IAmA/comments/5c8u9l/we_are_the_wikileaks_staff_despite_our_editor/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 6:16:14 PM"
-  },
-  {
-    "id": "12922147",
-    "timestamp": "Nov 10, 2016 6:19:18 PM",
-    "topic": "FrontApp (YC S14) is hiring software engineers",
-    "url": "https://frontapp.com/jobs",
-    "votes": 1,
-    "posted": "Nov 10, 2016 6:09:50 PM"
-  },
-  {
-    "id": "12922141",
-    "timestamp": "Nov 10, 2016 6:39:22 PM",
-    "topic": "Alibaba Posts $1B in Sales in 5 Minutes on Singles’ Day",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-10/alibaba-posts-1-billion-in-sales-in-5-minutes-on-singles-day",
-    "votes": 7,
-    "posted": "Nov 10, 2016 6:09:10 PM"
-  },
-  {
-    "id": "12922130",
-    "timestamp": "Nov 10, 2016 6:49:23 PM",
-    "topic": "How Stephen Wolfram Figured Out Interstellar Travel in One Night",
-    "url": "https://backchannel.com/i-had-one-night-to-invent-interstellar-travel-b2466882ef5c#.xy5as4r0d",
-    "votes": 4,
-    "posted": "Nov 10, 2016 6:08:18 PM"
-  },
-  {
-    "id": "12922068",
-    "timestamp": "Nov 10, 2016 6:09:16 PM",
-    "topic": "Show HN: [short story] What if something like Morris Worm never happened?",
-    "url": "https://stories.shrikrishnaholla.in/what-if-1557e226c6d#.26dp7o3ce?ref\u003dhn",
-    "votes": 5,
-    "posted": "Nov 10, 2016 6:01:43 PM"
   }
 ];
