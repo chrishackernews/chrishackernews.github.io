@@ -1,5 +1,77 @@
 var newsArray = [
   {
+    "id": "12981392",
+    "timestamp": "Nov 17, 2016 9:56:21 PM",
+    "topic": "The risks of becoming “Default Alive”",
+    "url": "https://hajak.se/the-danger-of-being-default-alive-6a9afee2f05e#.epail4h8x",
+    "votes": 3,
+    "posted": "Nov 17, 2016 9:48:55 PM"
+  },
+  {
+    "id": "12981289",
+    "timestamp": "Nov 17, 2016 9:56:21 PM",
+    "topic": "Just Started the Hawaii iOS Developer Meetup",
+    "url": "https://davidneely.wordpress.com/2016/11/17/just-started-the-hawaii-ios-developer-meetup/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 9:38:49 PM"
+  },
+  {
+    "id": "12981181",
+    "timestamp": "Nov 17, 2016 9:36:19 PM",
+    "topic": "8M GitHub profiles were leaked from GeekedIn\u0027s MongoDB",
+    "url": "https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/",
+    "votes": 12,
+    "posted": "Nov 17, 2016 9:28:45 PM"
+  },
+  {
+    "id": "12981152",
+    "timestamp": "Nov 17, 2016 9:56:21 PM",
+    "topic": "“Suck it up, Buttercup”",
+    "url": "http://www.csmonitor.com/USA/2016/1116/Iowa-bill-named-Suck-it-up-Buttercup-seeks-to-stop-student-coddling",
+    "votes": 7,
+    "posted": "Nov 17, 2016 9:26:04 PM"
+  },
+  {
+    "id": "12981114",
+    "timestamp": "Nov 17, 2016 9:26:19 PM",
+    "topic": "Auro Robotics (YC S15) Is Hiring Software Engineer – Santa Clara,California",
+    "url": "https://jobs.lever.co/aurobots?lever-source\u003dYC",
+    "votes": 1,
+    "posted": "Nov 17, 2016 9:21:43 PM"
+  },
+  {
+    "id": "12981060",
+    "timestamp": "Nov 17, 2016 9:36:20 PM",
+    "topic": "Carmakers Plot a Future Without Google and Apple",
+    "url": "http://www.forbes.com/sites/bertelschmitt/2016/11/17/carmakers-plot-a-future-without-google-and-apple/#540d4c631079",
+    "votes": 4,
+    "posted": "Nov 17, 2016 9:15:59 PM"
+  },
+  {
+    "id": "12981055",
+    "timestamp": "Nov 17, 2016 9:26:19 PM",
+    "topic": "In 63 days Trump will inherit mass surveillance from Obama",
+    "url": "http://unplugthensa.org",
+    "votes": 13,
+    "posted": "Nov 17, 2016 9:15:15 PM"
+  },
+  {
+    "id": "12980888",
+    "timestamp": "Nov 17, 2016 9:16:18 PM",
+    "topic": "Half of US F-15s Need Overhauls or Retirement",
+    "url": "http://www.defenseone.com/technology/2016/11/decision-time-half-americas-f-15s-need-overhauls-or-retirement/133206/?oref\u003dsite-defenseone-flyin-sailthru",
+    "votes": 3,
+    "posted": "Nov 17, 2016 9:00:37 PM"
+  },
+  {
+    "id": "12980857",
+    "timestamp": "Nov 17, 2016 9:16:18 PM",
+    "topic": "Welcome Aaron, Gustaf, Lyle, Immad and Marcus",
+    "url": "http://ycblog.ycombinator.com/welcome-aaron-gustaf-lyle-immad-and-marcus",
+    "votes": 7,
+    "posted": "Nov 17, 2016 8:56:13 PM"
+  },
+  {
     "id": "12980648",
     "timestamp": "Nov 17, 2016 8:56:15 PM",
     "topic": "Global warming: The state of the climate in 2016",
@@ -32,12 +104,28 @@ var newsArray = [
     "posted": "Nov 17, 2016 8:07:20 PM"
   },
   {
+    "id": "12980236",
+    "timestamp": "Nov 17, 2016 9:56:21 PM",
+    "topic": "Udacity Blitz: On-Demand Software from Udacity Grads",
+    "url": "https://blitz.com/",
+    "votes": 7,
+    "posted": "Nov 17, 2016 7:53:22 PM"
+  },
+  {
     "id": "12980140",
     "timestamp": "Nov 17, 2016 8:56:15 PM",
     "topic": "Facebook stops collecting WhatsApp user data in Europe after government pressure",
     "url": "http://www.theverge.com/2016/11/17/13662804/facebook-stops-collecting-whatsapp-data-government-pressure",
     "votes": 3,
     "posted": "Nov 17, 2016 7:43:50 PM"
+  },
+  {
+    "id": "12980029",
+    "timestamp": "Nov 17, 2016 9:06:16 PM",
+    "topic": "An Intro to Integer Programming for Engineers: Simplified Bus Scheduling",
+    "url": "https://blog.remix.com/an-intro-to-integer-programming-for-engineers-simplified-bus-scheduling-bd3d64895e92#.llj20js9f",
+    "votes": 6,
+    "posted": "Nov 17, 2016 7:32:14 PM"
   },
   {
     "id": "12979967",
@@ -8559,107 +8647,5 @@ var newsArray = [
     "url": "http://www.foxnews.com/us/2016/11/10/boss-tells-pro-trump-employees-to-resign.html",
     "votes": 27,
     "posted": "Nov 10, 2016 10:06:43 PM"
-  },
-  {
-    "id": "12924218",
-    "timestamp": "Nov 10, 2016 9:59:40 PM",
-    "topic": "Heap (YC W13) is hiring engineers to build a new approach to analytics",
-    "url": "https://heapanalytics.com/jobs#engineer",
-    "votes": 1,
-    "posted": "Nov 10, 2016 9:51:27 PM"
-  },
-  {
-    "id": "12924180",
-    "timestamp": "Nov 10, 2016 11:19:49 PM",
-    "topic": "Will Trump’s Victory Be Silicon Valley’s Wake-Up Call?",
-    "url": "http://www.theatlantic.com/technology/archive/2016/11/trumps-the-president-and-youre-a-publisher/507278/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dfeed%3a+best-of-the-atlantic+%28the+atlantic+-+best+of%29\u0026amp;single_page\u003dtrue",
-    "votes": 5,
-    "posted": "Nov 10, 2016 9:47:42 PM"
-  },
-  {
-    "id": "12924173",
-    "timestamp": "Nov 10, 2016 10:09:42 PM",
-    "topic": "TDD Doesn\u0027t Work",
-    "url": "http://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html",
-    "votes": 5,
-    "posted": "Nov 10, 2016 9:46:57 PM"
-  },
-  {
-    "id": "12924051",
-    "timestamp": "Nov 10, 2016 9:39:39 PM",
-    "topic": "Warning: 2016 MacBook Pro is not compatible with Linux",
-    "url": "https://www.reddit.com/r/Ubuntu/comments/5c8s1k/warning_2016_macbook_pro_is_not_compatible_with/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 9:32:28 PM"
-  },
-  {
-    "id": "12924020",
-    "timestamp": "Nov 10, 2016 9:59:41 PM",
-    "topic": "Introduction to Machine Learning for Developers",
-    "url": "http://blog.algorithmia.com/introduction-machine-learning-developers/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 9:29:01 PM"
-  },
-  {
-    "id": "12923955",
-    "timestamp": "Nov 14, 2016 8:48:16 PM",
-    "topic": "“Let Us Calculate”: Leibniz, Llull, and the Computational Imagination",
-    "url": "http://publicdomainreview.org/2016/11/10/let-us-calculate-leibniz-llull-and-computational-imagination/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 9:22:47 PM"
-  },
-  {
-    "id": "12923925",
-    "timestamp": "Nov 10, 2016 10:39:44 PM",
-    "topic": "Offshoring Roulette:lessons from Outsourcing to India, China and the Philippines",
-    "url": "https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 9:20:02 PM"
-  },
-  {
-    "id": "12923879",
-    "timestamp": "Nov 10, 2016 9:59:41 PM",
-    "topic": "Ask HN: Good resources/sites for things every programmer should know?",
-    "votes": 3,
-    "posted": "Nov 10, 2016 9:16:20 PM"
-  },
-  {
-    "id": "12923834",
-    "timestamp": "Nov 10, 2016 11:19:48 PM",
-    "topic": "Unums 2.0: an interview with John L. Gustafson",
-    "url": "http://ubiquity.acm.org/article.cfm?id\u003d3001758",
-    "votes": 3,
-    "posted": "Nov 10, 2016 9:11:49 PM"
-  },
-  {
-    "id": "12923809",
-    "timestamp": "Nov 11, 2016 9:10:42 AM",
-    "topic": "Show HN: Helping refugees finding a job",
-    "url": "http://www.fujobee.com",
-    "votes": 4,
-    "posted": "Nov 10, 2016 9:09:05 PM"
-  },
-  {
-    "id": "12923761",
-    "timestamp": "Nov 10, 2016 10:39:44 PM",
-    "topic": "Tell HN: Let\u0027s get back to HACKER news",
-    "votes": 8,
-    "posted": "Nov 10, 2016 9:03:17 PM"
-  },
-  {
-    "id": "12923692",
-    "timestamp": "Nov 10, 2016 9:09:36 PM",
-    "topic": "Announcing Rust 1.13",
-    "url": "https://blog.rust-lang.org/2016/11/10/Rust-1.13.html",
-    "votes": 11,
-    "posted": "Nov 10, 2016 8:57:30 PM"
-  },
-  {
-    "id": "12923677",
-    "timestamp": "Nov 10, 2016 9:19:37 PM",
-    "topic": "Halite: An AI Programming Challenge",
-    "url": "https://halite.io/",
-    "votes": 6,
-    "posted": "Nov 10, 2016 8:56:20 PM"
   }
 ];
