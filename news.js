@@ -1,11 +1,57 @@
 var newsArray = [
   {
+    "id": "12974121",
+    "timestamp": "Nov 17, 2016 5:44:59 AM",
+    "topic": "The $5 PoisonTap quickly, completely hijacks even a locked computer’s internet",
+    "url": "https://techcrunch.com/2016/11/16/the-5-poisontap-quickly-completely-hijacks-even-a-locked-computers-internet/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 4:59:53 AM"
+  },
+  {
+    "id": "12974055",
+    "timestamp": "Nov 17, 2016 5:04:56 AM",
+    "topic": "Ask HN: How do I make my HOA to make their online payment page secure?",
+    "votes": 4,
+    "posted": "Nov 17, 2016 4:46:13 AM"
+  },
+  {
+    "id": "12974051",
+    "timestamp": "Nov 17, 2016 5:55:00 AM",
+    "topic": "Insomnia Progress Report 1",
+    "url": "https://insomnia.rest/blog/progress-report-1/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 4:45:24 AM"
+  },
+  {
+    "id": "12973993",
+    "timestamp": "Nov 17, 2016 5:04:56 AM",
+    "topic": "Place recognition with WiFi fingerprints using Autoencoders and Neural Networks",
+    "url": "https://github.com/aqibsaeed/Place-Recognition-using-Autoencoders-and-NN",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:31:55 AM"
+  },
+  {
+    "id": "12973979",
+    "timestamp": "Nov 17, 2016 5:44:59 AM",
+    "topic": "Ask HN: How much do Uber drivers really make?",
+    "votes": 7,
+    "posted": "Nov 17, 2016 4:29:08 AM"
+  },
+  {
     "id": "12973967",
     "timestamp": "Nov 17, 2016 4:44:54 AM",
     "topic": "Todoist uses machine learning to predict your task due dates",
     "url": "http://blog.todoist.com/2016/11/16/todoist-smart-schedule",
     "votes": 3,
     "posted": "Nov 17, 2016 4:25:17 AM"
+  },
+  {
+    "id": "12973964",
+    "timestamp": "Nov 17, 2016 5:04:56 AM",
+    "topic": "Algorithmic fitting of japanese candy",
+    "url": "https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:23:47 AM"
   },
   {
     "id": "12973939",
@@ -8679,21 +8725,5 @@ var newsArray = [
     "url": "https://lwn.net/Articles/705262/",
     "votes": 7,
     "posted": "Nov 10, 2016 6:10:07 AM"
-  },
-  {
-    "id": "12917751",
-    "timestamp": "Nov 10, 2016 11:48:43 AM",
-    "topic": "Colorado Voters Accept Right-To-Die Measure",
-    "url": "http://www.npr.org/sections/thetwo-way/2016/11/09/501476275/colorado-voters-accept-right-to-die-measure",
-    "votes": 3,
-    "posted": "Nov 10, 2016 5:33:49 AM"
-  },
-  {
-    "id": "12917640",
-    "timestamp": "Nov 10, 2016 1:58:53 PM",
-    "topic": "Laws or comets?",
-    "url": "https://aeon.co/essays/how-chance-and-probability-affect-the-path-of-big-history",
-    "votes": 3,
-    "posted": "Nov 10, 2016 5:08:50 AM"
   }
 ];
