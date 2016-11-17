@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12978139",
+    "timestamp": "Nov 17, 2016 4:45:52 PM",
+    "topic": "Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL",
+    "url": "https://hackerlists.com/learn-sql-online/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 4:19:14 PM"
+  },
+  {
+    "id": "12978025",
+    "timestamp": "Nov 17, 2016 4:25:51 PM",
+    "topic": "Google Gets a Seat on the Trump Transition Team",
+    "url": "https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/",
+    "votes": 7,
+    "posted": "Nov 17, 2016 4:09:08 PM"
+  },
+  {
+    "id": "12977904",
+    "timestamp": "Nov 17, 2016 4:15:50 PM",
+    "topic": "iPhone secretly sends call history to Apple even when iCloud backup switched off",
+    "url": "https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/",
+    "votes": 12,
+    "posted": "Nov 17, 2016 3:54:30 PM"
+  },
+  {
+    "id": "12977878",
+    "timestamp": "Nov 17, 2016 4:05:49 PM",
+    "topic": "Apple Keeps Constant Log of iPhone Calls in iCloud, Warns Cop Contractor",
+    "url": "http://www.forbes.com/sites/thomasbrewster/2016/11/17/iphone-call-logs-in-icloud-warns-elcomsoft-hackers/#7f66682a2936",
+    "votes": 11,
+    "posted": "Nov 17, 2016 3:52:49 PM"
+  },
+  {
     "id": "12977789",
     "timestamp": "Nov 17, 2016 3:55:48 PM",
     "topic": "Proposal to Twitter. I want to pay for my account",
@@ -8600,61 +8632,5 @@ var newsArray = [
     "url": "https://engineering.tumblr.com/post/152998126990/php-7-at-tumblr",
     "votes": 5,
     "posted": "Nov 10, 2016 5:08:03 PM"
-  },
-  {
-    "id": "12921397",
-    "timestamp": "Nov 10, 2016 5:09:11 PM",
-    "topic": "The Threat of a Brain Drain Under a Trump Presidency Is Real",
-    "url": "http://motherboard.vice.com/read/trump-election-science-tech",
-    "votes": 3,
-    "posted": "Nov 10, 2016 4:52:05 PM"
-  },
-  {
-    "id": "12921389",
-    "timestamp": "Nov 10, 2016 4:59:09 PM",
-    "topic": "Show HN: Amazon S3, Microsoft Azure, Rackspace, Backblaze via a Single API",
-    "url": "https://cloudrail.com/enterprise-cloud-storage-interface/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 4:50:56 PM"
-  },
-  {
-    "id": "12921209",
-    "timestamp": "Nov 10, 2016 6:29:18 PM",
-    "topic": "Facebook and Twitter Contend with Their Role in Trump\u0027s Victory",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-09/facebook-and-twitter-contend-with-their-role-in-trump-s-victory",
-    "votes": 5,
-    "posted": "Nov 10, 2016 4:33:41 PM"
-  },
-  {
-    "id": "12921154",
-    "timestamp": "Nov 10, 2016 4:39:08 PM",
-    "topic": "Is America Great Yet?",
-    "url": "http://isamericagreatyet.io/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 4:29:25 PM"
-  },
-  {
-    "id": "12921116",
-    "timestamp": "Nov 11, 2016 2:50:07 AM",
-    "topic": "Erlang Patterns",
-    "url": "http://www.erlangpatterns.org/patterns.html",
-    "votes": 3,
-    "posted": "Nov 10, 2016 4:25:01 PM"
-  },
-  {
-    "id": "12920994",
-    "timestamp": "Nov 10, 2016 4:29:06 PM",
-    "topic": "Atom 1.12 released",
-    "url": "http://blog.atom.io/2016/11/09/atom-1-12.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 4:14:21 PM"
-  },
-  {
-    "id": "12920905",
-    "timestamp": "Nov 10, 2016 7:09:25 PM",
-    "topic": "Airflow: a workflow management platform – Airbnb Engineering",
-    "url": "http://nerds.airbnb.com/airflow/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 4:03:57 PM"
   }
 ];
