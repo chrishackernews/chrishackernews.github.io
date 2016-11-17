@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12973852",
+    "timestamp": "Nov 17, 2016 3:54:50 AM",
+    "topic": "PlanGrid (YC W12) Is Hiring Full Stack, Front End, Security and More",
+    "url": "https://www.plangrid.com/jobs/",
+    "votes": 1,
+    "posted": "Nov 17, 2016 3:52:53 AM"
+  },
+  {
+    "id": "12973716",
+    "timestamp": "Nov 17, 2016 3:34:48 AM",
+    "topic": "Go fonts",
+    "url": "https://blog.golang.org/go-fonts",
+    "votes": 12,
+    "posted": "Nov 17, 2016 3:26:59 AM"
+  },
+  {
+    "id": "12973663",
+    "timestamp": "Nov 17, 2016 3:44:49 AM",
+    "topic": "The Damage of Social Media",
+    "url": "http://www.travelfordifference.com/damage-social-media/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 3:18:43 AM"
+  },
+  {
+    "id": "12973572",
+    "timestamp": "Nov 17, 2016 3:44:49 AM",
+    "topic": "EU Commission reveals plans for \u0027travel tax\u0027 on British citizens after Brexit",
+    "url": "http://www.independent.co.uk/news/uk/politics/travel-tax-eu-commission-visa-waiver-british-citizens-brexit-a7421626.html",
+    "votes": 3,
+    "posted": "Nov 17, 2016 3:02:38 AM"
+  },
+  {
+    "id": "12973535",
+    "timestamp": "Nov 17, 2016 3:14:46 AM",
+    "topic": "Touch Bar MacBook Pro teardown finds some unpleasant surprises",
+    "url": "http://arstechnica.com/apple/2016/11/touch-bar-mbp-teardown-soldered-ssd-cosmetic-speaker-holes-and-more/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:56:42 AM"
+  },
+  {
+    "id": "12973344",
+    "timestamp": "Nov 17, 2016 3:04:46 AM",
+    "topic": "GridDB vs. Cassandra Benchmarks pitting the two found within",
+    "url": "https://www.griddb.net/en/blog/griddb-and-cassandra-ycsb-benchmarks/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 2:23:23 AM"
+  },
+  {
+    "id": "12973338",
+    "timestamp": "Nov 17, 2016 3:24:47 AM",
+    "topic": "Sybil – a fast and simple NoSQL OLAP",
+    "url": "https://github.com/logv/sybil",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:22:03 AM"
+  },
+  {
     "id": "12973326",
     "timestamp": "Nov 17, 2016 2:54:45 AM",
     "topic": "Mexican pyramid has two more inside",
@@ -46,6 +102,14 @@ var newsArray = [
     "url": "https://lolware.net/2016/11/17/requesting_bank_login.html",
     "votes": 5,
     "posted": "Nov 17, 2016 1:52:28 AM"
+  },
+  {
+    "id": "12973057",
+    "timestamp": "Nov 17, 2016 3:44:49 AM",
+    "topic": "15kb of CSS is all you’ll ever need ️",
+    "url": "https://medium.com/@philipardeljan/15kb-of-css-is-all-youll-ever-need-%EF%B8%8F-634da7258338#.s7ejsmt0l",
+    "votes": 4,
+    "posted": "Nov 17, 2016 1:32:41 AM"
   },
   {
     "id": "12972931",
@@ -110,6 +174,13 @@ var newsArray = [
     "url": "http://www.dansdeals.com/archives/98444",
     "votes": 13,
     "posted": "Nov 17, 2016 12:19:27 AM"
+  },
+  {
+    "id": "12972531",
+    "timestamp": "Nov 17, 2016 3:24:47 AM",
+    "topic": "Ask HN: Do you still buy/read technical books?",
+    "votes": 7,
+    "posted": "Nov 17, 2016 12:15:40 AM"
   },
   {
     "id": "12972403",
@@ -2920,6 +2991,13 @@ var newsArray = [
     "url": "http://chaos-reins.com/2016-11-14-arch-yoga-910/",
     "votes": 3,
     "posted": "Nov 15, 2016 2:25:51 AM"
+  },
+  {
+    "id": "12954868",
+    "timestamp": "Nov 17, 2016 3:54:50 AM",
+    "topic": "Ask HN: How to improve vim productivity and workflow?",
+    "votes": 8,
+    "posted": "Nov 15, 2016 2:22:33 AM"
   },
   {
     "id": "12954839",
@@ -8592,45 +8670,5 @@ var newsArray = [
     "url": "https://www.reddit.com/r/environment/comments/5byi0k/lets_get_trump_to_accept_climate_change/",
     "votes": 3,
     "posted": "Nov 10, 2016 3:58:20 AM"
-  },
-  {
-    "id": "12917301",
-    "timestamp": "Nov 10, 2016 4:18:04 AM",
-    "topic": "The Future of USDS: Trump, Civic Tech and the Lesson of GDS",
-    "url": "https://medium.com/@daeaves/the-future-of-usds-trump-civic-tech-and-the-lesson-of-gds-ccdc904976fa#.12d28q15c",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:52:47 AM"
-  },
-  {
-    "id": "12917223",
-    "timestamp": "Nov 10, 2016 4:28:05 AM",
-    "topic": "Tech founders want California to secede",
-    "url": "http://money.cnn.com/2016/11/09/technology/shervin-pishevar-california/index.html",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:34:04 AM"
-  },
-  {
-    "id": "12917169",
-    "timestamp": "Nov 10, 2016 3:58:03 AM",
-    "topic": "How President-Elect Trump Views Science",
-    "url": "https://www.scientificamerican.com/article/how-president-elect-trump-views-science/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 3:23:50 AM"
-  },
-  {
-    "id": "12917071",
-    "timestamp": "Nov 10, 2016 12:28:46 PM",
-    "topic": "Davy Crockett Portable Nuclear Weapon",
-    "url": "https://www.damninteresting.com/davy-crockett-king-of-the-atomic-frontier/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:05:37 AM"
-  },
-  {
-    "id": "12917043",
-    "timestamp": "Nov 10, 2016 3:58:03 AM",
-    "topic": "The first ever photograph of light as both a particle and wave",
-    "url": "http://m.phys.org/news/2015-03-particle.html",
-    "votes": 6,
-    "posted": "Nov 10, 2016 3:01:25 AM"
   }
 ];
