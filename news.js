@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12974588",
+    "timestamp": "Nov 17, 2016 6:45:04 AM",
+    "topic": "Portable systemd services",
+    "url": "https://lwn.net/Articles/706025/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:22:54 AM"
+  },
+  {
+    "id": "12974403",
+    "timestamp": "Nov 17, 2016 6:05:01 AM",
+    "topic": "Introducing Boards in Asana",
+    "url": "https://blog.asana.com/2016/11/introducing-boards/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 5:50:04 AM"
+  },
+  {
+    "id": "12974302",
+    "timestamp": "Nov 17, 2016 6:15:02 AM",
+    "topic": "How journalists and activists can identify and counter physical surveillance",
+    "url": "https://medium.com/@roryireland/how-journalists-and-activists-can-identify-and-counter-physical-surveillance-1ad19b6a8981#.jdztsk9z6",
+    "votes": 3,
+    "posted": "Nov 17, 2016 5:34:32 AM"
+  },
+  {
+    "id": "12974281",
+    "timestamp": "Nov 17, 2016 6:05:01 AM",
+    "topic": "The Lost Civilization of Dial-Up Bulletin Board Systems",
+    "url": "http://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/?single_page\u003dtrue",
+    "votes": 3,
+    "posted": "Nov 17, 2016 5:30:44 AM"
+  },
+  {
+    "id": "12974265",
+    "timestamp": "Nov 17, 2016 6:05:01 AM",
+    "topic": "What New York City Sounded Like in the 1920s",
+    "url": "http://paleofuture.gizmodo.com/what-new-york-city-sounded-like-in-the-1920s-1445950942",
+    "votes": 3,
+    "posted": "Nov 17, 2016 5:28:17 AM"
+  },
+  {
+    "id": "12974239",
+    "timestamp": "Nov 17, 2016 6:05:01 AM",
+    "topic": "Show HN: Flock, fast and free team messenger",
+    "url": "https://www.flock.co",
+    "votes": 5,
+    "posted": "Nov 17, 2016 5:21:13 AM"
+  },
+  {
+    "id": "12974161",
+    "timestamp": "Nov 17, 2016 6:05:01 AM",
+    "topic": "Theranos CEO Elizabeth Holmes Is a Victim Says VC Tim Draper",
+    "url": "http://www.cnbc.com/2016/11/15/theranos-ceo-elizabeth-holmes-is-a-victim-venture-capitalist-tim-draper-says.html",
+    "votes": 4,
+    "posted": "Nov 17, 2016 5:09:36 AM"
+  },
+  {
+    "id": "12974132",
+    "timestamp": "Nov 17, 2016 6:05:01 AM",
+    "topic": "Make R a Legitimate Part of Your Organization",
+    "url": "https://www.rstudio.com/rviews/2016/11/16/make-r-a-legitimate-part-of-your-organization/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 5:02:48 AM"
+  },
+  {
     "id": "12974121",
     "timestamp": "Nov 17, 2016 5:44:59 AM",
     "topic": "The $5 PoisonTap quickly, completely hijacks even a locked computer’s internet",
@@ -92,6 +156,14 @@ var newsArray = [
     "url": "http://www.independent.co.uk/news/uk/politics/travel-tax-eu-commission-visa-waiver-british-citizens-brexit-a7421626.html",
     "votes": 3,
     "posted": "Nov 17, 2016 3:02:38 AM"
+  },
+  {
+    "id": "12973542",
+    "timestamp": "Nov 17, 2016 6:15:02 AM",
+    "topic": "Like by smiling? Facebook acquires emotion detection startup FacioMetrics",
+    "url": "https://techcrunch.com/2016/11/16/facial-gesture-controls/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:58:28 AM"
   },
   {
     "id": "12973535",
@@ -275,6 +347,14 @@ var newsArray = [
     "topic": "Ask HN: Do you still buy/read technical books?",
     "votes": 7,
     "posted": "Nov 17, 2016 12:15:40 AM"
+  },
+  {
+    "id": "12972412",
+    "timestamp": "Nov 17, 2016 6:45:05 AM",
+    "topic": "Reviving a computer system of 25 years ago – Wirth (2014)",
+    "url": "https://www.youtube.com/watch?v\u003dEXY78gPMvl0",
+    "votes": 4,
+    "posted": "Nov 16, 2016 11:58:19 PM"
   },
   {
     "id": "12972403",
@@ -8701,29 +8781,5 @@ var newsArray = [
     "url": "http://www.bbc.com/news/technology-37932661",
     "votes": 7,
     "posted": "Nov 10, 2016 7:19:24 AM"
-  },
-  {
-    "id": "12917929",
-    "timestamp": "Nov 10, 2016 7:08:20 AM",
-    "topic": "Nasty Gal is expected to file for bankruptcy",
-    "url": "http://www.recode.net/2016/11/9/13578718/nasty-gal-is-expected-to-file-for-bankruptcy",
-    "votes": 4,
-    "posted": "Nov 10, 2016 6:15:00 AM"
-  },
-  {
-    "id": "12917924",
-    "timestamp": "Nov 10, 2016 7:18:22 AM",
-    "topic": "How Japan Prepares Its Children for Independence",
-    "url": "http://savvytokyo.com/japan-prepares-children-independence/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 6:13:12 AM"
-  },
-  {
-    "id": "12917912",
-    "timestamp": "Nov 10, 2016 7:18:22 AM",
-    "topic": "The status of Linux kernel hardening",
-    "url": "https://lwn.net/Articles/705262/",
-    "votes": 7,
-    "posted": "Nov 10, 2016 6:10:07 AM"
   }
 ];
