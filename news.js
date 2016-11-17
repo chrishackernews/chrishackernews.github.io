@@ -40,6 +40,14 @@ var newsArray = [
     "posted": "Nov 17, 2016 5:28:17 AM"
   },
   {
+    "id": "12974240",
+    "timestamp": "Nov 17, 2016 7:35:08 AM",
+    "topic": "You Are Not Paid to Write Code",
+    "url": "http://bravenewgeek.com/you-are-not-paid-to-write-code/",
+    "votes": 8,
+    "posted": "Nov 17, 2016 5:21:17 AM"
+  },
+  {
     "id": "12974239",
     "timestamp": "Nov 17, 2016 6:05:01 AM",
     "topic": "Show HN: Flock, fast and free team messenger",
@@ -8749,37 +8757,5 @@ var newsArray = [
     "topic": "Ask HN: How to learn to stop worrying and love pair programming?",
     "votes": 7,
     "posted": "Nov 10, 2016 8:16:02 AM"
-  },
-  {
-    "id": "12918211",
-    "timestamp": "Nov 10, 2016 8:18:26 AM",
-    "topic": "Joyent’s Bryan Cantrill on technology, fear, and the rise of Trump",
-    "url": "http://www.structureevents.com/joyents-bryan-cantrill-on-technology-fear-and-the-rise-of-trump/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 7:36:04 AM"
-  },
-  {
-    "id": "12918209",
-    "timestamp": "Nov 10, 2016 1:28:50 PM",
-    "topic": "Trump’s Win Isn’t the Death of Data",
-    "url": "https://www.wired.com/2016/11/trumps-win-isnt-death-data-flawed-along/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 7:35:33 AM"
-  },
-  {
-    "id": "12918191",
-    "timestamp": "Nov 10, 2016 7:48:24 AM",
-    "topic": "WOT is selling your PII and browsing history",
-    "url": "http://lifehacker.com/web-of-trust-sells-your-browsing-history-uninstall-it-1788667989",
-    "votes": 3,
-    "posted": "Nov 10, 2016 7:31:40 AM"
-  },
-  {
-    "id": "12918150",
-    "timestamp": "Nov 10, 2016 9:48:33 AM",
-    "topic": "What Trump means for tech",
-    "url": "http://www.bbc.com/news/technology-37932661",
-    "votes": 7,
-    "posted": "Nov 10, 2016 7:19:24 AM"
   }
 ];
