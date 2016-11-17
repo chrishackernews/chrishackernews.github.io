@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12975715",
+    "timestamp": "Nov 17, 2016 11:45:27 AM",
+    "topic": "Silicon Valley Wake Up Call",
+    "url": "https://medium.com/@justinkan/silicon-valley-wake-up-call-eba3dfaa82c3#.3mp0gfos0",
+    "votes": 3,
+    "posted": "Nov 17, 2016 10:05:39 AM"
+  },
+  {
     "id": "12975690",
     "timestamp": "Nov 17, 2016 10:35:22 AM",
     "topic": "Sal Soghoian Departs Apple",
@@ -30,6 +38,14 @@ var newsArray = [
     "url": "http://www.abc.net.au/news/2016-11-17/apple-drops-indigenous-app-creator-warns-of-digital-colonisation/8032904",
     "votes": 3,
     "posted": "Nov 17, 2016 9:07:18 AM"
+  },
+  {
+    "id": "12975282",
+    "timestamp": "Nov 17, 2016 11:45:27 AM",
+    "topic": "Vulnerabilities induced by migrating to 64-bit platforms",
+    "url": "https://blog.acolyer.org/2016/11/17/twice-the-bits-twice-the-trouble-vulnerabilities-induced-by-migrating-to-64-bit-platforms/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 8:45:53 AM"
   },
   {
     "id": "12975060",
@@ -78,6 +94,14 @@ var newsArray = [
     "url": "http://michaellynn.github.io/2016/10/04/mDMacOS/",
     "votes": 3,
     "posted": "Nov 17, 2016 6:50:53 AM"
+  },
+  {
+    "id": "12974686",
+    "timestamp": "Nov 17, 2016 11:05:24 AM",
+    "topic": "Still Running at 119? Not So Fast",
+    "url": "http://www.nytimes.com/2016/11/20/sports/119-year-old-runner-world-masters-championships.html?smid\u003dfb-share",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:43:29 AM"
   },
   {
     "id": "12974589",
@@ -8712,36 +8736,5 @@ var newsArray = [
     "url": "https://www.buzzfeed.com/sheerafrenkel/silicon-valley-is-worried-that-trump-is-going-to-g",
     "votes": 5,
     "posted": "Nov 10, 2016 12:02:07 PM"
-  },
-  {
-    "id": "12919257",
-    "timestamp": "Nov 10, 2016 3:29:01 PM",
-    "topic": "Ask HN: Will the US electoral voting system ever change?",
-    "votes": 8,
-    "posted": "Nov 10, 2016 11:33:57 AM"
-  },
-  {
-    "id": "12919255",
-    "timestamp": "Nov 10, 2016 12:08:44 PM",
-    "topic": "DDoS attack halts heating in Finland amidst winter",
-    "url": "https://metropolitan.fi/entry/ddos-attack-halts-heating-in-finland-amidst-winter",
-    "votes": 7,
-    "posted": "Nov 10, 2016 11:33:43 AM"
-  },
-  {
-    "id": "12919141",
-    "timestamp": "Nov 10, 2016 5:39:13 PM",
-    "topic": "Show HN: Obfuscate JavaScript files using amazing javascript-obfuscator",
-    "url": "https://github.com/tomasz-oponowicz/grunt-javascript-obfuscator",
-    "votes": 7,
-    "posted": "Nov 10, 2016 11:09:18 AM"
-  },
-  {
-    "id": "12919107",
-    "timestamp": "Nov 10, 2016 5:29:13 PM",
-    "topic": "Enforcing Content Security by Default Within Firefox",
-    "url": "https://blog.mozilla.org/security/2016/11/10/enforcing-content-security-by-default-within-firefox/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 11:02:02 AM"
   }
 ];
