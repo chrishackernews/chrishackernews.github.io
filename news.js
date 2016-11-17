@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12975411",
+    "timestamp": "Nov 17, 2016 9:45:18 AM",
+    "topic": "Apple rejection of Indigenous app described as symptom of \u0027digital colonisation\u0027",
+    "url": "http://www.abc.net.au/news/2016-11-17/apple-drops-indigenous-app-creator-warns-of-digital-colonisation/8032904",
+    "votes": 3,
+    "posted": "Nov 17, 2016 9:07:18 AM"
+  },
+  {
     "id": "12975060",
     "timestamp": "Nov 17, 2016 8:55:14 AM",
     "topic": "Demand an Audit of the 2016 Presidential Election",
@@ -8727,53 +8735,5 @@ var newsArray = [
     "url": "https://www.good.is/articles/moore-five-point-plan?sid\u003dsst314956uh",
     "votes": 3,
     "posted": "Nov 10, 2016 10:32:33 AM"
-  },
-  {
-    "id": "12918756",
-    "timestamp": "Nov 10, 2016 10:18:35 AM",
-    "topic": "Bernie Sanders statement on Trump",
-    "url": "http://www.sanders.senate.gov/newsroom/press-releases/sanders-statement-on-trump",
-    "votes": 10,
-    "posted": "Nov 10, 2016 9:47:12 AM"
-  },
-  {
-    "id": "12918711",
-    "timestamp": "Nov 10, 2016 11:48:43 AM",
-    "topic": "The Dutch prison crisis: A shortage of prisoners",
-    "url": "http://www.bbc.co.uk/news/magazine-37904263",
-    "votes": 7,
-    "posted": "Nov 10, 2016 9:37:37 AM"
-  },
-  {
-    "id": "12918704",
-    "timestamp": "Nov 10, 2016 10:18:35 AM",
-    "topic": "The fastest Clojure REPL in the world",
-    "url": "https://anmonteiro.com/2016/11/the-fastest-clojure-repl-in-the-world/",
-    "votes": 8,
-    "posted": "Nov 10, 2016 9:36:18 AM"
-  },
-  {
-    "id": "12918699",
-    "timestamp": "Nov 10, 2016 10:18:35 AM",
-    "topic": "700 megapixels served in under 700 miliseconds",
-    "url": "http://mag.prodibi.com/2016/11/10/700-megapixels-through-the-interwebs-in-under-700-miliseconds/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 9:34:55 AM"
-  },
-  {
-    "id": "12918665",
-    "timestamp": "Nov 10, 2016 9:58:34 AM",
-    "topic": "General Motors announces plans to lay off 2,000 employees",
-    "url": "http://www.dailymail.co.uk/news/article-3921304/General-Motors-announces-plans-lay-2-000-employees-two-plants-just-hours-Donald-Trump-wins-election.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 9:25:44 AM"
-  },
-  {
-    "id": "12918547",
-    "timestamp": "Nov 10, 2016 8:58:29 AM",
-    "topic": "New NASA Emdrive paper shows force of 1.2 millinewtons per kilowatt",
-    "url": "http://www.nextbigfuture.com/2016/11/new-nasa-emdrive-paper-shows-force-of.html",
-    "votes": 3,
-    "posted": "Nov 10, 2016 8:56:49 AM"
   }
 ];
