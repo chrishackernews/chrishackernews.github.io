@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12973967",
+    "timestamp": "Nov 17, 2016 4:44:54 AM",
+    "topic": "Todoist uses machine learning to predict your task due dates",
+    "url": "http://blog.todoist.com/2016/11/16/todoist-smart-schedule",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:25:17 AM"
+  },
+  {
+    "id": "12973939",
+    "timestamp": "Nov 17, 2016 4:54:55 AM",
+    "topic": "Twitter Suspends Prominent Alt-Right Accounts",
+    "url": "http://www.npr.org/sections/thetwo-way/2016/11/16/502349250/twitter-suspends-prominent-alt-right-accounts",
+    "votes": 6,
+    "posted": "Nov 17, 2016 4:17:09 AM"
+  },
+  {
     "id": "12973852",
     "timestamp": "Nov 17, 2016 3:54:50 AM",
     "topic": "PlanGrid (YC W12) Is Hiring Full Stack, Front End, Security and More",
@@ -38,6 +54,14 @@ var newsArray = [
     "url": "http://arstechnica.com/apple/2016/11/touch-bar-mbp-teardown-soldered-ssd-cosmetic-speaker-holes-and-more/",
     "votes": 3,
     "posted": "Nov 17, 2016 2:56:42 AM"
+  },
+  {
+    "id": "12973436",
+    "timestamp": "Nov 17, 2016 4:34:53 AM",
+    "topic": "USGS Estimates 20B Barrels of Oil in Texas’ Wolfcamp Shale Formation",
+    "url": "https://www.usgs.gov/news/usgs-estimates-20-billion-barrels-oil-texas-wolfcamp-shale-formation",
+    "votes": 5,
+    "posted": "Nov 17, 2016 2:38:42 AM"
   },
   {
     "id": "12973344",
@@ -80,6 +104,14 @@ var newsArray = [
     "posted": "Nov 17, 2016 2:13:12 AM"
   },
   {
+    "id": "12973264",
+    "timestamp": "Nov 17, 2016 4:14:51 AM",
+    "topic": "Tesla ‘Easter Egg’ Makes the World’s Fastest Car Even Faster",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-16/tesla-easter-egg-makes-the-world-s-fastest-car-even-faster",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:09:15 AM"
+  },
+  {
     "id": "12973223",
     "timestamp": "Nov 17, 2016 2:24:42 AM",
     "topic": "SpaceX FCC Application for 4,425 Internet Satellites",
@@ -104,6 +136,14 @@ var newsArray = [
     "posted": "Nov 17, 2016 1:52:28 AM"
   },
   {
+    "id": "12973176",
+    "timestamp": "Nov 17, 2016 4:54:55 AM",
+    "topic": "14 Year Old Builds Communication Device for Brain-Injured Friend",
+    "url": "http://makezine.com/2016/11/16/14-year-old-builds-communication-device-brain-injured-friend/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 1:51:37 AM"
+  },
+  {
     "id": "12973057",
     "timestamp": "Nov 17, 2016 3:44:49 AM",
     "topic": "15kb of CSS is all you’ll ever need ️",
@@ -118,6 +158,14 @@ var newsArray = [
     "url": "https://www.weforum.org/press/2016/01/five-million-jobs-by-2020-the-real-challenge-of-the-fourth-industrial-revolution/",
     "votes": 3,
     "posted": "Nov 17, 2016 1:11:09 AM"
+  },
+  {
+    "id": "12972837",
+    "timestamp": "Nov 17, 2016 4:44:54 AM",
+    "topic": "Judge set to toss charges against Backpage.com CEO, cites shield law",
+    "url": "http://www.reuters.com/article/us-usa-backpage-ruling-idUSKBN13B2O7?il\u003d0",
+    "votes": 3,
+    "posted": "Nov 17, 2016 12:56:58 AM"
   },
   {
     "id": "12972754",
@@ -578,6 +626,14 @@ var newsArray = [
     "url": "http://cfenollosa.com/blog/what-do-pro-users-want.html",
     "votes": 3,
     "posted": "Nov 16, 2016 8:58:53 PM"
+  },
+  {
+    "id": "12970855",
+    "timestamp": "Nov 17, 2016 4:44:54 AM",
+    "topic": "Show HN: Videobolt – Video design marketplace with online customization",
+    "url": "https://videobolt.net",
+    "votes": 7,
+    "posted": "Nov 16, 2016 8:56:41 PM"
   },
   {
     "id": "12970820",
@@ -1333,12 +1389,28 @@ var newsArray = [
     "posted": "Nov 16, 2016 8:45:07 AM"
   },
   {
+    "id": "12965094",
+    "timestamp": "Nov 17, 2016 4:24:52 AM",
+    "topic": "Former NYTimes editor on policy of matching coverage to predetermined narrative",
+    "url": "http://deadline.com/2016/11/shocked-by-trump-new-york-times-finds-time-for-soul-searching-1201852490/",
+    "votes": 4,
+    "posted": "Nov 16, 2016 8:07:18 AM"
+  },
+  {
     "id": "12965033",
     "timestamp": "Nov 16, 2016 9:01:56 AM",
     "topic": "Bram Cohen vs. Linus Torvalds",
     "url": "http://www.wincent.com/a/about/wincent/weblog/archives/2007/07/a_look_back_bra.php",
     "votes": 3,
     "posted": "Nov 16, 2016 7:50:51 AM"
+  },
+  {
+    "id": "12964952",
+    "timestamp": "Nov 17, 2016 4:44:54 AM",
+    "topic": "Show HN: Build native iOS apps using declarative markup",
+    "url": "https://github.com/mcudich/TemplateKit",
+    "votes": 4,
+    "posted": "Nov 16, 2016 7:25:26 AM"
   },
   {
     "id": "12964951",
@@ -8623,52 +8695,5 @@ var newsArray = [
     "url": "https://aeon.co/essays/how-chance-and-probability-affect-the-path-of-big-history",
     "votes": 3,
     "posted": "Nov 10, 2016 5:08:50 AM"
-  },
-  {
-    "id": "12917538",
-    "timestamp": "Nov 10, 2016 6:28:17 AM",
-    "topic": "NeuroEvolution – Flappy Bird",
-    "url": "https://xviniette.github.io/FlappyLearning/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 4:42:51 AM"
-  },
-  {
-    "id": "12917493",
-    "timestamp": "Nov 10, 2016 7:09:25 PM",
-    "topic": "Teju Cole Reminds Us of Life Beyond Politics, and the Beauty of Art",
-    "url": "http://lithub.com/teju-cole-reminds-us-of-life-beyond-politics-and-the-beauty-of-art/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 4:32:42 AM"
-  },
-  {
-    "id": "12917466",
-    "timestamp": "Nov 10, 2016 12:28:46 PM",
-    "topic": "Silicon Valley Reels After Trump’s Election",
-    "url": "http://www.nytimes.com/2016/11/10/technology/trump-election-silicon-valley-reels.html",
-    "votes": 5,
-    "posted": "Nov 10, 2016 4:26:55 AM"
-  },
-  {
-    "id": "12917407",
-    "timestamp": "Nov 10, 2016 4:58:10 AM",
-    "topic": "Lenovo is ditching its own brand name to make way for \u0027Moto\u0027",
-    "url": "http://thenextweb.com/mobile/2016/11/09/lenovo-is-ditching-its-own-brand-name-to-make-way-for-moto/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 4:15:03 AM"
-  },
-  {
-    "id": "12917398",
-    "timestamp": "Nov 10, 2016 4:18:04 AM",
-    "topic": "Want to Leave the US? – UserGems (YC S14) Is Hiring Full-Stack Devs in Austria",
-    "votes": 1,
-    "posted": "Nov 10, 2016 4:14:09 AM"
-  },
-  {
-    "id": "12917324",
-    "timestamp": "Nov 10, 2016 4:08:03 AM",
-    "topic": "Let\u0027s get Trump to accept climate change",
-    "url": "https://www.reddit.com/r/environment/comments/5byi0k/lets_get_trump_to_accept_climate_change/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 3:58:20 AM"
   }
 ];
