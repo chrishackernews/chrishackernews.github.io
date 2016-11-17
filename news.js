@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12972662",
+    "timestamp": "Nov 17, 2016 12:34:34 AM",
+    "topic": "Cratejoy (YC S13) Is Hiring Senior UX, PM and Marketing in Austin",
+    "url": "https://jobs.lever.co/cratejoy",
+    "votes": 1,
+    "posted": "Nov 17, 2016 12:34:21 AM"
+  },
+  {
+    "id": "12972557",
+    "timestamp": "Nov 17, 2016 12:24:33 AM",
+    "topic": "Announcing iD v2 editor for OpenStreetMap",
+    "url": "https://www.mapbox.com/blog/announcing-id-v2/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 12:19:44 AM"
+  },
+  {
+    "id": "12972403",
+    "timestamp": "Nov 17, 2016 12:44:35 AM",
+    "topic": "Margaret Hamilton and Grace Hopper to receive presidential medals of freedom",
+    "url": "https://www.whitehouse.gov/the-press-office/2016/11/16/president-obama-names-recipients-presidential-medal-freedom",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:57:04 PM"
+  },
+  {
+    "id": "12972388",
+    "timestamp": "Nov 17, 2016 12:14:32 AM",
+    "topic": "Theranos Whistleblower Shook the Company–And His Family",
+    "url": "http://www.wsj.com/articles/theranos-whistleblower-shook-the-companyand-his-family-1479335963",
+    "votes": 7,
+    "posted": "Nov 16, 2016 11:54:41 PM"
+  },
+  {
+    "id": "12972368",
+    "timestamp": "Nov 17, 2016 12:34:34 AM",
+    "topic": "Blood from human teens rejuvenates body and brains of old mice",
+    "url": "https://www.newscientist.com/article/2112829-blood-from-human-teens-rejuvenates-body-and-brains-of-old-mice/",
+    "votes": 5,
+    "posted": "Nov 16, 2016 11:52:17 PM"
+  },
+  {
+    "id": "12972348",
+    "timestamp": "Nov 17, 2016 12:14:32 AM",
+    "topic": "NSA Head Openly Accuses Russia of Using Wikileaks to Get Trump Elected",
+    "url": "http://theslot.jezebel.com/nsa-head-openly-accuses-russia-of-using-wikileaks-to-ge-1789051302",
+    "votes": 5,
+    "posted": "Nov 16, 2016 11:50:12 PM"
+  },
+  {
+    "id": "12972300",
+    "timestamp": "Nov 17, 2016 12:04:31 AM",
+    "topic": "Virtual reality is the new tech frontier, but it\u0027s still a boys\u0027 club",
+    "url": "http://www.recode.net/2016/11/16/13654246/women-engineers-virtual-augmented-reality-artificial-intelligence",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:44:36 PM"
+  },
+  {
     "id": "12972266",
     "timestamp": "Nov 16, 2016 11:44:29 PM",
     "topic": "NSA chief: \u0027Nation state\u0027 intervened in presidential election",
@@ -38,6 +94,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
     "votes": 4,
     "posted": "Nov 16, 2016 11:26:32 PM"
+  },
+  {
+    "id": "12972185",
+    "timestamp": "Nov 17, 2016 12:24:33 AM",
+    "topic": "Fundraising isn\u0027t predictable",
+    "url": "http://www.aaronkharris.com/fundraising-isnt-predictable",
+    "votes": 10,
+    "posted": "Nov 16, 2016 11:26:02 PM"
   },
   {
     "id": "12972106",
@@ -8519,61 +8583,5 @@ var newsArray = [
     "url": "http://www.infoworld.com/article/3139891/javascript/angular-3-is-hot-on-the-heels-of-angular-2.html",
     "votes": 4,
     "posted": "Nov 10, 2016 1:09:18 AM"
-  },
-  {
-    "id": "12916082",
-    "timestamp": "Nov 10, 2016 1:07:48 AM",
-    "topic": "Pangu Team talk: iOS 9 internals [pdf]",
-    "url": "http://blog.pangu.io/wp-content/uploads/2016/08/us-16-Pangu9-Internals.pdf",
-    "votes": 3,
-    "posted": "Nov 10, 2016 12:43:19 AM"
-  },
-  {
-    "id": "12915904",
-    "timestamp": "Nov 10, 2016 12:37:45 AM",
-    "topic": "TDD Dijkstra\u0027s Algorithm as Performed by Uncle Bob",
-    "url": "http://blog.cleancoder.com/uncle-bob/2016/10/26/DijkstrasAlg.html",
-    "votes": 4,
-    "posted": "Nov 10, 2016 12:23:10 AM"
-  },
-  {
-    "id": "12915850",
-    "timestamp": "Nov 10, 2016 6:28:17 AM",
-    "topic": "Andrew Ng – What Artificial Intelligence Can and Can’t Do Right Now",
-    "url": "https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now",
-    "votes": 4,
-    "posted": "Nov 10, 2016 12:18:05 AM"
-  },
-  {
-    "id": "12915809",
-    "timestamp": "Nov 10, 2016 12:37:45 AM",
-    "topic": "The One Method I’ve Used to Eliminate Bad Tech Hires",
-    "url": "https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 12:13:47 AM"
-  },
-  {
-    "id": "12915797",
-    "timestamp": "Nov 10, 2016 12:47:46 AM",
-    "topic": "Icahn Left Trump Victory Party to Bet $1B on Stocks",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-09/icahn-left-trump-victory-party-to-bet-1-billion-on-u-s-stocks",
-    "votes": 5,
-    "posted": "Nov 10, 2016 12:12:43 AM"
-  },
-  {
-    "id": "12915773",
-    "timestamp": "Nov 10, 2016 12:17:42 AM",
-    "topic": "Abacus (YC W14) is looking for a designer",
-    "url": "https://jobs.lever.co/abacus/1ecd9f74-03ca-4741-9fba-bcd5656425b7",
-    "votes": 1,
-    "posted": "Nov 10, 2016 12:09:28 AM"
-  },
-  {
-    "id": "12915749",
-    "timestamp": "Nov 10, 2016 12:27:44 AM",
-    "topic": "Well written blog post explaining Trump\u0027s victory",
-    "url": "https://medium.com/@trentlapinski/dear-democrats-read-this-if-you-do-not-understand-why-trump-won-5a0cdb13c597#.naed8cy1v",
-    "votes": 7,
-    "posted": "Nov 10, 2016 12:05:01 AM"
   }
 ];
