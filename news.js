@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12978893",
+    "timestamp": "Nov 17, 2016 5:45:58 PM",
+    "topic": "The .blog Bait and Switch",
+    "url": "http://chrisschidle.com/the-dot-blog-bait-and-switch/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 5:35:46 PM"
+  },
+  {
+    "id": "12978725",
+    "timestamp": "Nov 17, 2016 5:35:57 PM",
+    "topic": "Keybase chooses Zcash",
+    "url": "https://keybase.io/blog/keybase-and-zcash",
+    "votes": 17,
+    "posted": "Nov 17, 2016 5:17:27 PM"
+  },
+  {
+    "id": "12978677",
+    "timestamp": "Nov 17, 2016 5:15:55 PM",
+    "topic": "Mux is hiring its first salesperson. Join the team behind Zencoder and Video.js",
+    "url": "https://muxhq.workable.com/jobs/379433",
+    "votes": 1,
+    "posted": "Nov 17, 2016 5:12:25 PM"
+  },
+  {
+    "id": "12978613",
+    "timestamp": "Nov 17, 2016 5:55:59 PM",
+    "topic": "Ukraine\u0027s Top File-Hosting Site Closes Amid Cyberpolice Crackdown",
+    "url": "http://www.rferl.org/a/ukraine-file-hosting-site-ex-ua-cyberpolice-crackdown-fire-sharing/28123869.html",
+    "votes": 3,
+    "posted": "Nov 17, 2016 5:05:04 PM"
+  },
+  {
+    "id": "12978511",
+    "timestamp": "Nov 17, 2016 5:15:55 PM",
+    "topic": "Court to Cops: No Immunity If You \u0027Don\u0027t Have Time Constitutional Bullshit\u0027",
+    "url": "https://www.techdirt.com/articles/20161113/06093636030/appeals-court-to-cops-if-you-dont-have-time-constitutional-bullshit-you-dont-get-immunity.shtml",
+    "votes": 5,
+    "posted": "Nov 17, 2016 4:54:39 PM"
+  },
+  {
+    "id": "12978427",
+    "timestamp": "Nov 17, 2016 5:35:57 PM",
+    "topic": "Show HN: LogRocket – Record and Replay for Redux Apps",
+    "url": "https://logrocket.com",
+    "votes": 12,
+    "posted": "Nov 17, 2016 4:47:07 PM"
+  },
+  {
+    "id": "12978300",
+    "timestamp": "Nov 17, 2016 5:25:56 PM",
+    "topic": "Britain passed the “most extreme surveillance law ever passed in a democracy”",
+    "url": "http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:34:24 PM"
+  },
+  {
+    "id": "12978179",
+    "timestamp": "Nov 17, 2016 5:05:54 PM",
+    "topic": "How Python Makes Working with Data More Difficult in the Long Run",
+    "url": "https://medium.com/@jeffknupp/how-python-makes-working-with-data-more-difficult-in-the-long-run-8da7c8e083fe",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:22:49 PM"
+  },
+  {
     "id": "12978139",
     "timestamp": "Nov 17, 2016 4:45:52 PM",
     "topic": "Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL",
@@ -30,6 +94,13 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/thomasbrewster/2016/11/17/iphone-call-logs-in-icloud-warns-elcomsoft-hackers/#7f66682a2936",
     "votes": 11,
     "posted": "Nov 17, 2016 3:52:49 PM"
+  },
+  {
+    "id": "12977860",
+    "timestamp": "Nov 17, 2016 5:35:57 PM",
+    "topic": "Ask HN: How do you stay focused while it\u0027s compiling?",
+    "votes": 5,
+    "posted": "Nov 17, 2016 3:50:13 PM"
   },
   {
     "id": "12977789",
@@ -112,6 +183,13 @@ var newsArray = [
     "posted": "Nov 17, 2016 3:16:06 PM"
   },
   {
+    "id": "12977572",
+    "timestamp": "Nov 17, 2016 5:55:59 PM",
+    "topic": "Ask HN:Any way to measure how much I speak?",
+    "votes": 4,
+    "posted": "Nov 17, 2016 3:14:03 PM"
+  },
+  {
     "id": "12977556",
     "timestamp": "Nov 17, 2016 3:35:46 PM",
     "topic": "Facebook fake news writer: Trump supporters lapped up stuff I completely made up",
@@ -134,6 +212,14 @@ var newsArray = [
     "url": "http://www.thememo.com/2016/11/17/paper-helmet-paper-cycle-helmet-dyson-award-cycling-news/",
     "votes": 7,
     "posted": "Nov 17, 2016 2:17:00 PM"
+  },
+  {
+    "id": "12977088",
+    "timestamp": "Nov 17, 2016 5:05:54 PM",
+    "topic": "LinkedIn is now officially blocked in Russia",
+    "url": "https://techcrunch.com/2016/11/17/linkedin-is-now-officially-blocked-in-russia/",
+    "votes": 5,
+    "posted": "Nov 17, 2016 2:08:58 PM"
   },
   {
     "id": "12976719",
@@ -181,6 +267,14 @@ var newsArray = [
     "url": "https://tahoe-lafs.org/trac/zfec/",
     "votes": 4,
     "posted": "Nov 17, 2016 11:30:38 AM"
+  },
+  {
+    "id": "12976152",
+    "timestamp": "Nov 17, 2016 5:45:58 PM",
+    "topic": "Steve Bannon Suggests There Are Too Many Asian CEOs in Silicon Valley",
+    "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
+    "votes": 5,
+    "posted": "Nov 17, 2016 11:27:46 AM"
   },
   {
     "id": "12975715",
@@ -849,6 +943,13 @@ var newsArray = [
     "url": "https://msdn.microsoft.com/magazine/mt790184",
     "votes": 6,
     "posted": "Nov 16, 2016 10:41:06 PM"
+  },
+  {
+    "id": "12971821",
+    "timestamp": "Nov 17, 2016 5:45:58 PM",
+    "topic": "Ask HN: First 10 minutes on new MacOS machine?",
+    "votes": 4,
+    "posted": "Nov 16, 2016 10:39:06 PM"
   },
   {
     "id": "12971819",
@@ -8569,68 +8670,5 @@ var newsArray = [
     "url": "https://stories.shrikrishnaholla.in/what-if-1557e226c6d#.26dp7o3ce?ref\u003dhn",
     "votes": 5,
     "posted": "Nov 10, 2016 6:01:43 PM"
-  },
-  {
-    "id": "12921967",
-    "timestamp": "Nov 10, 2016 6:09:17 PM",
-    "topic": "American Elections Will Be Hacked",
-    "url": "https://www.schneier.com/essays/archives/2016/11/american_elections_w.html",
-    "votes": 3,
-    "posted": "Nov 10, 2016 5:49:23 PM"
-  },
-  {
-    "id": "12921949",
-    "timestamp": "Nov 10, 2016 6:39:22 PM",
-    "topic": "Wind Waker Graphics Analysis",
-    "url": "https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127",
-    "votes": 6,
-    "posted": "Nov 10, 2016 5:47:18 PM"
-  },
-  {
-    "id": "12921822",
-    "timestamp": "Nov 10, 2016 6:09:16 PM",
-    "topic": "Rigged: The Facebook bubble just popped",
-    "url": "https://techcrunch.com/2016/11/09/rigged/",
-    "votes": 6,
-    "posted": "Nov 10, 2016 5:30:42 PM"
-  },
-  {
-    "id": "12921794",
-    "timestamp": "Nov 11, 2016 1:30:00 AM",
-    "topic": "A rash of racist attacks have broken out in the US after Donald Trump’s victory",
-    "url": "http://qz.com/833607/us-election-a-rash-of-racist-attacks-have-broken-out-in-the-us-after-donald-trumps-victory/",
-    "votes": 4,
-    "posted": "Nov 10, 2016 5:28:52 PM"
-  },
-  {
-    "id": "12921774",
-    "timestamp": "Nov 14, 2016 8:18:13 PM",
-    "topic": "Protect Your Library the Medieval Way, with Horrifying Book Curses",
-    "url": "http://www.atlasobscura.com/articles/protect-your-library-the-medieval-way-with-horrifying-book-curses",
-    "votes": 3,
-    "posted": "Nov 10, 2016 5:26:37 PM"
-  },
-  {
-    "id": "12921652",
-    "timestamp": "Nov 10, 2016 5:29:12 PM",
-    "topic": "Show HN: End to end encryption for Twitter direct messages",
-    "votes": 3,
-    "posted": "Nov 10, 2016 5:15:58 PM"
-  },
-  {
-    "id": "12921606",
-    "timestamp": "Nov 10, 2016 9:19:37 PM",
-    "topic": "NET Core Data Access",
-    "url": "https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 5:11:13 PM"
-  },
-  {
-    "id": "12921570",
-    "timestamp": "Nov 10, 2016 5:49:14 PM",
-    "topic": "PHP 7 at Tumblr",
-    "url": "https://engineering.tumblr.com/post/152998126990/php-7-at-tumblr",
-    "votes": 5,
-    "posted": "Nov 10, 2016 5:08:03 PM"
   }
 ];
