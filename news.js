@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "12973326",
+    "timestamp": "Nov 17, 2016 2:54:45 AM",
+    "topic": "Mexican pyramid has two more inside",
+    "url": "https://www.theguardian.com/world/2016/nov/17/mexican-pyramid-has-two-more-inside-scientists-discover",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:19:43 AM"
+  },
+  {
+    "id": "12973299",
+    "timestamp": "Nov 17, 2016 2:54:45 AM",
+    "topic": "Newsgate 2016",
+    "url": "https://sharylattkisson.com/newsgate-2016/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:14:39 AM"
+  },
+  {
+    "id": "12973292",
+    "timestamp": "Nov 17, 2016 2:54:45 AM",
+    "topic": "China Tells Trump That Climate Change Is No Hoax It Invented",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-16/china-tells-trump-that-climate-change-is-no-hoax-it-invented",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:13:12 AM"
+  },
+  {
+    "id": "12973223",
+    "timestamp": "Nov 17, 2016 2:24:42 AM",
+    "topic": "SpaceX FCC Application for 4,425 Internet Satellites",
+    "url": "http://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/swr031b.hts?q_set\u003dV_SITE_ANTENNA_FREQ.file_numberC/File+Number/%3D/SATLOA2016111500118\u0026prepare\u003d\u0026column\u003dV_SITE_ANTENNA_FREQ.file_numberC/File+Number",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:01:09 AM"
+  },
+  {
+    "id": "12973203",
+    "timestamp": "Nov 17, 2016 2:14:42 AM",
+    "topic": "Why Wikipedia is Dying",
+    "url": "https://medium.com/@andrewjho/why-wikipedia-is-dying-f2e5604df62f#.uwtahyxqf",
+    "votes": 3,
+    "posted": "Nov 17, 2016 1:56:29 AM"
+  },
+  {
+    "id": "12973181",
+    "timestamp": "Nov 17, 2016 2:04:41 AM",
+    "topic": "Site requests bank logins for online purchases",
+    "url": "https://lolware.net/2016/11/17/requesting_bank_login.html",
+    "votes": 5,
+    "posted": "Nov 17, 2016 1:52:28 AM"
+  },
+  {
+    "id": "12972931",
+    "timestamp": "Nov 17, 2016 2:04:41 AM",
+    "topic": "5M jobs will be lost by 2020",
+    "url": "https://www.weforum.org/press/2016/01/five-million-jobs-by-2020-the-real-challenge-of-the-fourth-industrial-revolution/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 1:11:09 AM"
+  },
+  {
     "id": "12972754",
     "timestamp": "Nov 17, 2016 1:24:38 AM",
     "topic": "Wire’s end-to-end encrypted bot API is coming",
@@ -94,6 +150,14 @@ var newsArray = [
     "url": "http://www.recode.net/2016/11/16/13654246/women-engineers-virtual-augmented-reality-artificial-intelligence",
     "votes": 3,
     "posted": "Nov 16, 2016 11:44:36 PM"
+  },
+  {
+    "id": "12972284",
+    "timestamp": "Nov 17, 2016 2:34:43 AM",
+    "topic": "Oculus Rift vs. HTC Vive: Present Situation",
+    "url": "https://skarredghost.wordpress.com/2016/11/17/oculus-vs-vive-november-2016-update",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:40:41 PM"
   },
   {
     "id": "12972266",
@@ -8568,37 +8632,5 @@ var newsArray = [
     "url": "http://m.phys.org/news/2015-03-particle.html",
     "votes": 6,
     "posted": "Nov 10, 2016 3:01:25 AM"
-  },
-  {
-    "id": "12916950",
-    "timestamp": "Nov 10, 2016 2:57:57 AM",
-    "topic": "Serve America",
-    "url": "https://www.greatagain.gov/serve-america.html",
-    "votes": 11,
-    "posted": "Nov 10, 2016 2:45:49 AM"
-  },
-  {
-    "id": "12916928",
-    "timestamp": "Nov 10, 2016 2:57:57 AM",
-    "topic": "Trump Picks Top Climate Skeptic to Lead EPA Transition",
-    "url": "https://www.scientificamerican.com/article/trump-picks-top-climate-skeptic-to-lead-epa-transition/?wt.mc\u003dSA_Twitter-Share",
-    "votes": 27,
-    "posted": "Nov 10, 2016 2:41:43 AM"
-  },
-  {
-    "id": "12916747",
-    "timestamp": "Nov 10, 2016 2:57:58 AM",
-    "topic": "Understanding is Dangerous",
-    "url": "https://thepointmag.com/2016/politics/understanding-is-dangerous",
-    "votes": 3,
-    "posted": "Nov 10, 2016 2:14:16 AM"
-  },
-  {
-    "id": "12916729",
-    "timestamp": "Nov 10, 2016 2:37:56 AM",
-    "topic": "National Popular Vote Interstate Compact",
-    "url": "https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact",
-    "votes": 3,
-    "posted": "Nov 10, 2016 2:11:36 AM"
   }
 ];
