@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12979967",
+    "timestamp": "Nov 17, 2016 7:36:09 PM",
+    "topic": "“Edward Snowden is a fucking idiot” (sic)",
+    "url": "http://gizmodo.com/edward-snowden-is-a-fucking-idiot-1789039598",
+    "votes": 12,
+    "posted": "Nov 17, 2016 7:25:48 PM"
+  },
+  {
+    "id": "12979681",
+    "timestamp": "Nov 17, 2016 7:06:06 PM",
+    "topic": "HTML 5.1 is the gold standard",
+    "url": "https://www.w3.org/blog/2016/11/html-5-1-is-the-gold-standard/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 6:53:09 PM"
+  },
+  {
+    "id": "12979614",
+    "timestamp": "Nov 17, 2016 7:06:06 PM",
+    "topic": "How \u0027Minority Report\u0027 Trapped Us in a World of Bad Interfaces",
+    "url": "https://theawl.com/how-minority-report-trapped-us-in-a-world-of-bad-interfaces-d8d2d2af41da#.rwihipewn",
+    "votes": 5,
+    "posted": "Nov 17, 2016 6:45:38 PM"
+  },
+  {
+    "id": "12979489",
+    "timestamp": "Nov 17, 2016 7:06:06 PM",
+    "topic": "Show HN: SiteZen – Complete Web Design, Hosting and Domain Name for $50 a Month",
+    "url": "https://sitezen.co",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:33:41 PM"
+  },
+  {
     "id": "12979424",
     "timestamp": "Nov 17, 2016 6:46:04 PM",
     "topic": "Trump administration will ban lobbyists",
@@ -16,12 +48,27 @@ var newsArray = [
     "posted": "Nov 17, 2016 6:25:22 PM"
   },
   {
+    "id": "12979383",
+    "timestamp": "Nov 17, 2016 7:06:06 PM",
+    "topic": "Ask HN: What simple tools or products made you loads of money?",
+    "votes": 3,
+    "posted": "Nov 17, 2016 6:23:43 PM"
+  },
+  {
     "id": "12979312",
     "timestamp": "Nov 17, 2016 6:46:04 PM",
     "topic": "Sand\u0027s End",
     "url": "http://www.theverge.com/2016/11/17/13660014/miami-beach-sand-erosion-nourishment-climate-change",
     "votes": 3,
     "posted": "Nov 17, 2016 6:16:58 PM"
+  },
+  {
+    "id": "12979278",
+    "timestamp": "Nov 17, 2016 7:16:07 PM",
+    "topic": "Kubernetes Helm just shipped a stable 2.0",
+    "url": "https://deis.com/blog/2016/helm-is-now-stable/",
+    "votes": 9,
+    "posted": "Nov 17, 2016 6:14:24 PM"
   },
   {
     "id": "12979195",
@@ -38,6 +85,13 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls",
     "votes": 5,
     "posted": "Nov 17, 2016 5:53:41 PM"
+  },
+  {
+    "id": "12978961",
+    "timestamp": "Nov 17, 2016 7:06:06 PM",
+    "topic": "Ask HN: What privacy-conserving measures should be taken post-snooper\u0027s charter?",
+    "votes": 3,
+    "posted": "Nov 17, 2016 5:43:09 PM"
   },
   {
     "id": "12978893",
@@ -102,6 +156,14 @@ var newsArray = [
     "url": "http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/",
     "votes": 3,
     "posted": "Nov 17, 2016 4:34:24 PM"
+  },
+  {
+    "id": "12978294",
+    "timestamp": "Nov 17, 2016 7:06:06 PM",
+    "topic": "Director of National Intelligence James Clapper Resigns",
+    "url": "http://www.nbcnews.com/news/us-news/director-national-intelligence-james-clapper-resigns-n685301",
+    "votes": 3,
+    "posted": "Nov 17, 2016 4:33:43 PM"
   },
   {
     "id": "12978179",
@@ -379,6 +441,13 @@ var newsArray = [
     "url": "https://blog.acolyer.org/2016/11/17/twice-the-bits-twice-the-trouble-vulnerabilities-induced-by-migrating-to-64-bit-platforms/",
     "votes": 3,
     "posted": "Nov 17, 2016 8:45:53 AM"
+  },
+  {
+    "id": "12975192",
+    "timestamp": "Nov 17, 2016 7:06:07 PM",
+    "topic": "Ask HN: Should big tech companies be considered monopolies?",
+    "votes": 8,
+    "posted": "Nov 17, 2016 8:29:16 AM"
   },
   {
     "id": "12975060",
@@ -1086,6 +1155,14 @@ var newsArray = [
     "url": "https://www.youtube.com/playlist?list\u003dPLj6h78yzYM2PqgIGU1Qmi8nY7dqn9PCr4",
     "votes": 3,
     "posted": "Nov 16, 2016 9:53:01 PM"
+  },
+  {
+    "id": "12971390",
+    "timestamp": "Nov 17, 2016 7:36:09 PM",
+    "topic": "Square Virtual Terminal",
+    "url": "https://squareup.com/virtual-terminal",
+    "votes": 4,
+    "posted": "Nov 16, 2016 9:52:35 PM"
   },
   {
     "id": "12971363",
@@ -8599,76 +8676,5 @@ var newsArray = [
     "topic": "Ask HN: Which is your favorite source of non Tech news?",
     "votes": 7,
     "posted": "Nov 10, 2016 8:05:10 PM"
-  },
-  {
-    "id": "12923104",
-    "timestamp": "Nov 10, 2016 8:59:36 PM",
-    "topic": "Why MacBook Pros Don\u0027t Need 32GB of RAM",
-    "url": "http://www.zdnet.com/article/why-macbook-pros-dont-need-32gb-of-ram/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 7:55:00 PM"
-  },
-  {
-    "id": "12923054",
-    "timestamp": "Nov 10, 2016 10:39:44 PM",
-    "topic": "Peter Thiel’s Big Gamble",
-    "url": "https://techcrunch.com/2016/11/09/peter-thiels-big-gamble/",
-    "votes": 3,
-    "posted": "Nov 10, 2016 7:49:59 PM"
-  },
-  {
-    "id": "12923045",
-    "timestamp": "Nov 11, 2016 2:40:06 AM",
-    "topic": "Ask HN: Would America be better off as 50 separate countries?",
-    "votes": 8,
-    "posted": "Nov 10, 2016 7:49:01 PM"
-  },
-  {
-    "id": "12922936",
-    "timestamp": "Nov 10, 2016 8:09:30 PM",
-    "topic": "Variational Lossy Autoencoder",
-    "url": "https://arxiv.org/abs/1611.02731",
-    "votes": 4,
-    "posted": "Nov 10, 2016 7:35:57 PM"
-  },
-  {
-    "id": "12922921",
-    "timestamp": "Nov 10, 2016 7:49:28 PM",
-    "topic": "Show HN: Generate Database Driven Web Apps and API\u0027s with Fields from a YAML File",
-    "url": "https://github.com/Leo-G/Flask-Scaffold",
-    "votes": 4,
-    "posted": "Nov 10, 2016 7:34:25 PM"
-  },
-  {
-    "id": "12922853",
-    "timestamp": "Nov 10, 2016 7:49:29 PM",
-    "topic": "Trump transition team picks regulation foe as telecom point man",
-    "url": "http://www.politico.com/story/2016/10/trump-transition-team-jeffrey-eisenach-229276",
-    "votes": 6,
-    "posted": "Nov 10, 2016 7:27:15 PM"
-  },
-  {
-    "id": "12922811",
-    "timestamp": "Nov 10, 2016 8:39:33 PM",
-    "topic": "Facebook\u0027s Second-Generation Modular Open Switch: Backpack",
-    "url": "https://code.facebook.com/posts/864213503715814/introducing-backpack-our-second-generation-modular-open-switch/",
-    "votes": 5,
-    "posted": "Nov 10, 2016 7:23:37 PM"
-  },
-  {
-    "id": "12922643",
-    "timestamp": "Nov 11, 2016 3:10:09 AM",
-    "topic": "Show HN: Winds, an open source RSS reader built using React/Redux and Sails",
-    "url": "https://github.com/GetStream/Winds",
-    "votes": 12,
-    "posted": "Nov 10, 2016 7:02:11 PM"
-  },
-  {
-    "id": "12922625",
-    "timestamp": "Nov 10, 2016 7:19:26 PM",
-    "topic": "How would the media cover Trump\u0027s victory if America were a third-world country?",
-    "url": "http://scroll.in/article/821100/how-would-the-media-cover-donald-trumps-victory-if-america-were-a-third-world-country",
-    "votes": 3,
-    "posted": "Nov 10, 2016 6:59:24 PM"
   }
 ];
