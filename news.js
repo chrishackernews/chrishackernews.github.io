@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "12986649",
+    "timestamp": "Nov 18, 2016 2:57:54 PM",
+    "topic": "The unlikely origin story of Google Analytics, 1996–2005-ish",
+    "url": "https://urchin.biz/urchin-software-corp-89a1f5292999",
+    "votes": 5,
+    "posted": "Nov 18, 2016 2:42:25 PM"
+  },
+  {
+    "id": "12986597",
+    "timestamp": "Nov 18, 2016 2:57:55 PM",
+    "topic": "Apple admits to iPhone ‘touch disease,’ blames users and offers $149 fix",
+    "url": "http://www.siliconbeat.com/2016/11/17/apple-admits-iphone-touch-disease-blames-users-offers-149-fix/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 2:34:02 PM"
+  },
+  {
+    "id": "12986513",
+    "timestamp": "Nov 18, 2016 2:27:51 PM",
+    "topic": "[Tesla] Solar Roof Cheaper Than Regular Roof BEFORE Solar Energy",
+    "url": "https://electrek.co/2016/11/17/tesla-solar-roof-cost-less-than-regular-roof-even-before-energy-production-elon-musk/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:21:10 PM"
+  },
+  {
+    "id": "12986433",
+    "timestamp": "Nov 18, 2016 2:17:50 PM",
+    "topic": "Gmail Backup Software",
+    "url": "https://github.com/gaubert/gmvault",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:07:15 PM"
+  },
+  {
+    "id": "12986349",
+    "timestamp": "Nov 18, 2016 2:47:54 PM",
+    "topic": "Ask HN: Rules of thumb to test feasibility of Machine learning applications?",
+    "votes": 3,
+    "posted": "Nov 18, 2016 1:49:12 PM"
+  },
+  {
+    "id": "12986272",
+    "timestamp": "Nov 18, 2016 2:17:50 PM",
+    "topic": "Xiaomi Mi Mix review–This is what the future of smartphones looks like",
+    "url": "http://arstechnica.com/gadgets/2016/11/xiaomi-mi-mix-review-this-is-what-the-future-of-smartphones-looks-like/",
+    "votes": 6,
+    "posted": "Nov 18, 2016 1:34:00 PM"
+  },
+  {
     "id": "12986060",
     "timestamp": "Nov 18, 2016 1:17:45 PM",
     "topic": "Microsoft Replaces Command Prompt with PowerShell in Latest Windows 10 Build",
@@ -157,6 +204,14 @@ var newsArray = [
     "url": "https://sheep.horse/2016/11/rip_apple_macbook.html",
     "votes": 6,
     "posted": "Nov 18, 2016 10:37:15 AM"
+  },
+  {
+    "id": "12985526",
+    "timestamp": "Nov 18, 2016 2:17:50 PM",
+    "topic": "Touch Bar MacBook Pro teardown finds some unpleasant surprises",
+    "url": "http://arstechnica.com/apple/2016/11/touch-bar-mbp-teardown-soldered-ssd-cosmetic-speaker-holes-and-more/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 10:37:13 AM"
   },
   {
     "id": "12985525",
@@ -621,6 +676,13 @@ var newsArray = [
     "url": "https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/",
     "votes": 6,
     "posted": "Nov 18, 2016 2:19:50 AM"
+  },
+  {
+    "id": "12983505",
+    "timestamp": "Nov 18, 2016 2:37:52 PM",
+    "topic": "Ask HN: How to structure coaching/mentoring for best results",
+    "votes": 6,
+    "posted": "Nov 18, 2016 2:19:40 AM"
   },
   {
     "id": "12983495",
