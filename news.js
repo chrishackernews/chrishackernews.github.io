@@ -1,11 +1,97 @@
 var newsArray = [
   {
+    "id": "12982895",
+    "timestamp": "Nov 18, 2016 12:46:40 AM",
+    "topic": "SimplyInsured (YC W13) Is Hiring Software Engineers to Change Healthcare",
+    "url": "https://simplyinsured.com/jobs",
+    "votes": 1,
+    "posted": "Nov 18, 2016 12:39:13 AM"
+  },
+  {
+    "id": "12982831",
+    "timestamp": "Nov 18, 2016 12:56:40 AM",
+    "topic": "Ask HN: What\u0027s your go-to back end for simple projects?",
+    "votes": 5,
+    "posted": "Nov 18, 2016 12:32:11 AM"
+  },
+  {
+    "id": "12982738",
+    "timestamp": "Nov 18, 2016 12:36:39 AM",
+    "topic": "Airbnb expands to experiences",
+    "url": "http://airbnb.com/new",
+    "votes": 10,
+    "posted": "Nov 18, 2016 12:20:41 AM"
+  },
+  {
+    "id": "12982453",
+    "timestamp": "Nov 18, 2016 12:06:36 AM",
+    "topic": "A brutal chart from Bridgewater explains the rise of Trump",
+    "url": "http://www.businessinsider.com/a-brutal-chart-from-bridgewater-explains-the-rise-of-trump-2016-11",
+    "votes": 6,
+    "posted": "Nov 17, 2016 11:43:14 PM"
+  },
+  {
+    "id": "12982422",
+    "timestamp": "Nov 18, 2016 12:06:36 AM",
+    "topic": "Enzymes from nine organisms combined to create new pathway to use CO2",
+    "url": "http://arstechnica.com/science/2016/11/enzymes-from-nine-organisms-combined-to-create-new-pathway-to-use-co2/",
+    "votes": 9,
+    "posted": "Nov 17, 2016 11:40:05 PM"
+  },
+  {
+    "id": "12982418",
+    "timestamp": "Nov 18, 2016 12:06:35 AM",
+    "topic": "SpaceX plans worldwide satellite Internet with low latency, gigabit speed",
+    "url": "http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/",
+    "votes": 20,
+    "posted": "Nov 17, 2016 11:39:46 PM"
+  },
+  {
+    "id": "12982321",
+    "timestamp": "Nov 18, 2016 12:16:37 AM",
+    "topic": "A History of Hard Drives",
+    "url": "https://www.backblaze.com/blog/history-hard-drives/",
+    "votes": 4,
+    "posted": "Nov 17, 2016 11:25:38 PM"
+  },
+  {
+    "id": "12982312",
+    "timestamp": "Nov 18, 2016 12:16:37 AM",
+    "topic": "Signal: Safety number updates",
+    "url": "https://www.whispersystems.org/blog/safety-number-updates/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 11:25:04 PM"
+  },
+  {
+    "id": "12982309",
+    "timestamp": "Nov 18, 2016 12:06:35 AM",
+    "topic": "ORCA (RISC-V Implementation) Updated",
+    "url": "https://github.com/VectorBlox/orca",
+    "votes": 6,
+    "posted": "Nov 17, 2016 11:24:40 PM"
+  },
+  {
     "id": "12982285",
     "timestamp": "Nov 17, 2016 11:36:33 PM",
     "topic": "Pixel Security",
     "url": "https://security.googleblog.com/2016/11/pixel-security-better-faster-stronger.html",
     "votes": 4,
     "posted": "Nov 17, 2016 11:22:29 PM"
+  },
+  {
+    "id": "12982135",
+    "timestamp": "Nov 18, 2016 12:46:40 AM",
+    "topic": "8m^s, 16-bit “Big Hex Machine” makes computation visual, macro",
+    "url": "https://bighexmachine.github.io",
+    "votes": 8,
+    "posted": "Nov 17, 2016 11:01:00 PM"
+  },
+  {
+    "id": "12981965",
+    "timestamp": "Nov 18, 2016 12:26:38 AM",
+    "topic": "Visiting the Valley and planning my next move in life, thoughts?",
+    "votes": 3,
+    "posted": "Nov 17, 2016 10:42:58 PM"
   },
   {
     "id": "12981942",
@@ -102,6 +188,14 @@ var newsArray = [
     "url": "https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/",
     "votes": 12,
     "posted": "Nov 17, 2016 9:28:45 PM"
+  },
+  {
+    "id": "12981169",
+    "timestamp": "Nov 18, 2016 12:36:39 AM",
+    "topic": "Yellowstone Park accident victim dissolved in boiling acidic pool",
+    "url": "http://www.bbc.com/news/world-us-canada-38018209",
+    "votes": 5,
+    "posted": "Nov 17, 2016 9:27:10 PM"
   },
   {
     "id": "12981152",
@@ -221,6 +315,14 @@ var newsArray = [
     "url": "http://gizmodo.com/edward-snowden-is-a-fucking-idiot-1789039598",
     "votes": 12,
     "posted": "Nov 17, 2016 7:25:48 PM"
+  },
+  {
+    "id": "12979896",
+    "timestamp": "Nov 18, 2016 12:06:36 AM",
+    "topic": "Your Password Sucks. Sincerely, Edward",
+    "url": "https://www.ymedialabs.com/password-security/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 7:17:31 PM"
   },
   {
     "id": "12979681",
@@ -8622,61 +8724,5 @@ var newsArray = [
     "url": "https://github.com/gundb/gun-starter-app",
     "votes": 3,
     "posted": "Nov 11, 2016 1:13:05 AM"
-  },
-  {
-    "id": "12925682",
-    "timestamp": "Nov 11, 2016 1:19:59 AM",
-    "topic": "Want to Make a Difference After the Election? Move to the Midwest",
-    "url": "http://chicagoinno.streetwise.co/2016/11/10/want-to-make-a-difference-after-the-election-move-to-the-midwest/",
-    "votes": 6,
-    "posted": "Nov 11, 2016 12:29:56 AM"
-  },
-  {
-    "id": "12925665",
-    "timestamp": "Nov 11, 2016 12:39:56 AM",
-    "topic": "Grubhub CEO tells pro-Trump employees to resign",
-    "url": "https://i.sli.mg/vB95ZB.jpg",
-    "votes": 8,
-    "posted": "Nov 11, 2016 12:28:08 AM"
-  },
-  {
-    "id": "12925621",
-    "timestamp": "Nov 11, 2016 12:49:57 AM",
-    "topic": "Dilbert Creator Scott Adams on Predicting Trump Winning in a Landslide",
-    "url": "https://www.youtube.com/watch?v\u003dc-sBO6OppAc",
-    "votes": 4,
-    "posted": "Nov 11, 2016 12:23:27 AM"
-  },
-  {
-    "id": "12925507",
-    "timestamp": "Nov 11, 2016 12:19:54 AM",
-    "topic": "Deck.gl: Large-Scale WebGL-Powered Data Visualization by Uber",
-    "url": "https://uber.github.io/deck.gl/#/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 12:12:12 AM"
-  },
-  {
-    "id": "12925467",
-    "timestamp": "Nov 11, 2016 12:29:55 AM",
-    "topic": "Lessons learnt from monetising my Chrome Extension",
-    "url": "https://mikerogers.io/2016/10/29/lessons-learnt-from-monetising-my-chrome-extension.html",
-    "votes": 9,
-    "posted": "Nov 11, 2016 12:08:28 AM"
-  },
-  {
-    "id": "12925449",
-    "timestamp": "Nov 11, 2016 12:29:55 AM",
-    "topic": "How Sidekiq makes $80,000 a month",
-    "url": "https://www.indiehackers.com/businesses/sidekiq?utm_source\u003dnewsletter\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003demail\u0026utm_source\u003dIndie+Hackers+Newsletter\u0026utm_campaign\u003dec2594295f-EMAIL_CAMPAIGN_2016_11_10\u0026utm_medium\u003demail\u0026utm_term\u003d0_43062afaa5-ec2594295f-118903173",
-    "votes": 3,
-    "posted": "Nov 11, 2016 12:06:41 AM"
-  },
-  {
-    "id": "12925406",
-    "timestamp": "Nov 11, 2016 10:00:46 AM",
-    "topic": "Apple Leak Reveals Massive New iPhone Cancellation",
-    "url": "http://www.forbes.com/sites/gordonkelly/2016/11/09/apple-iphone-2017-cancellation/",
-    "votes": 7,
-    "posted": "Nov 11, 2016 12:01:33 AM"
   }
 ];
