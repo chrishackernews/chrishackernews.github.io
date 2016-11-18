@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12985978",
+    "timestamp": "Nov 18, 2016 12:37:39 PM",
+    "topic": "Having-a-work-spouse-makes-you-happier",
+    "url": "http://www.bbc.com/capital/story/20161106-having-a-work-spouse-makes-you-happier",
+    "votes": 5,
+    "posted": "Nov 18, 2016 12:24:33 PM"
+  },
+  {
+    "id": "12985974",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "So I bought a surveillance camera",
+    "url": "https://twitter.com/ErrataRob/status/799556482719162368",
+    "votes": 3,
+    "posted": "Nov 18, 2016 12:23:09 PM"
+  },
+  {
+    "id": "12985880",
+    "timestamp": "Nov 18, 2016 12:07:37 PM",
+    "topic": "A love letter to s7 Scheme",
+    "url": "http://carloscarrasco.com/a-love-letter-to-s7-scheme.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 12:00:29 PM"
+  },
+  {
+    "id": "12985866",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "Stephen Hawking has figured out exactly how much time humans have left on earth",
+    "url": "http://www.techly.com.au/2016/11/18/stephen-hawking-has-figured-out-exactly-how-much-time-humans-have-left-on-earth/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:58:46 AM"
+  },
+  {
+    "id": "12985862",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "6 Quick and Proven Tips to Help You Learn JavaScript",
+    "url": "https://medium.com/@AlexDevero/6-quick-proven-tips-to-help-you-learn-javascript-1f27fabf006#.bmrmieawv",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:57:19 AM"
+  },
+  {
+    "id": "12985838",
+    "timestamp": "Nov 18, 2016 12:37:39 PM",
+    "topic": "Front-end Front is a place where front-end developers",
+    "url": "https://frontendfront.com",
+    "votes": 5,
+    "posted": "Nov 18, 2016 11:51:07 AM"
+  },
+  {
     "id": "12985768",
     "timestamp": "Nov 18, 2016 11:47:34 AM",
     "topic": "The strange psychology of stress and burnout",
@@ -16,12 +64,27 @@ var newsArray = [
     "posted": "Nov 18, 2016 11:30:11 AM"
   },
   {
+    "id": "12985728",
+    "timestamp": "Nov 18, 2016 12:27:38 PM",
+    "topic": "Silicon Valley Helped Create Trump, and That’s Bad for It",
+    "url": "http://mobile.nytimes.com/2016/11/18/opinion/silicon-valley-helped-create-trump-and-thats-bad-for-it.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:25:02 AM"
+  },
+  {
     "id": "12985724",
     "timestamp": "Nov 18, 2016 11:57:36 AM",
     "topic": "Automated Pro-Trump Bots Overwhelmed Pro-Clinton Messages",
     "url": "http://www.nytimes.com/2016/11/18/technology/automated-pro-trump-bots-overwhelmed-pro-clinton-messages-researchers-say.html",
     "votes": 3,
     "posted": "Nov 18, 2016 11:24:16 AM"
+  },
+  {
+    "id": "12985721",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "Ask HN: Plain, unstyled html to clean, well design page",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:22:23 AM"
   },
   {
     "id": "12985703",
@@ -48,6 +111,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 11:04:30 AM"
   },
   {
+    "id": "12985590",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "A Magnetized Needle and a Steady Hand",
+    "url": "http://nullprogram.com/blog/2016/11/17/",
+    "votes": 7,
+    "posted": "Nov 18, 2016 10:53:10 AM"
+  },
+  {
     "id": "12985583",
     "timestamp": "Nov 18, 2016 11:47:34 AM",
     "topic": "Open Sourcing the Microsoft JDBC Driver and Maven Support",
@@ -62,6 +133,14 @@ var newsArray = [
     "url": "https://sheep.horse/2016/11/rip_apple_macbook.html",
     "votes": 6,
     "posted": "Nov 18, 2016 10:37:15 AM"
+  },
+  {
+    "id": "12985525",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "DIY Kubernetes cluster with x86 stick-pcs",
+    "url": "https://hackernoon.com/diy-kubernetes-cluster-with-x86-stick-pcs-b0b6b879f8a7#.vdx36xv73",
+    "votes": 5,
+    "posted": "Nov 18, 2016 10:36:46 AM"
   },
   {
     "id": "12985509",
@@ -86,6 +165,14 @@ var newsArray = [
     "url": "https://translate.google.com/translate?sl\u003dauto\u0026tl\u003den\u0026js\u003dy\u0026prev\u003d_t\u0026hl\u003den\u0026ie\u003dUTF-8\u0026u\u003dhttp%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Funternehmen%2Frocket-internet-baut-in-berlin-massiv-personal-ab-a-1121905.html\u0026edit-text\u003d\u0026act\u003durl",
     "votes": 3,
     "posted": "Nov 18, 2016 10:07:32 AM"
+  },
+  {
+    "id": "12985334",
+    "timestamp": "Nov 18, 2016 12:37:40 PM",
+    "topic": "Capitol Hill Babysitting Co-Op",
+    "url": "https://en.wikipedia.org/wiki/Capitol_Hill_Babysitting_Co-op",
+    "votes": 5,
+    "posted": "Nov 18, 2016 9:52:13 AM"
   },
   {
     "id": "12985192",
@@ -915,6 +1002,14 @@ var newsArray = [
     "url": "https://www.ymedialabs.com/password-security/",
     "votes": 3,
     "posted": "Nov 17, 2016 7:17:31 PM"
+  },
+  {
+    "id": "12979749",
+    "timestamp": "Nov 18, 2016 12:47:41 PM",
+    "topic": "Show HN: Redis-cell, an API rate limiter as a Redis module, written in Rust",
+    "url": "https://github.com/brandur/redis-cell",
+    "votes": 10,
+    "posted": "Nov 17, 2016 7:00:57 PM"
   },
   {
     "id": "12979681",
@@ -8873,37 +8968,5 @@ var newsArray = [
     "url": "https://www.hackerrank.com/tests/527036edb11ff/0ca5532381fbebad9fffaa28dc90475f",
     "votes": 1,
     "posted": "Nov 11, 2016 1:05:39 PM"
-  },
-  {
-    "id": "12929741",
-    "timestamp": "Nov 11, 2016 1:01:03 PM",
-    "topic": "Embed, encode, attend, predict: the new deep learning formula for NLP models",
-    "url": "https://explosion.ai/blog/deep-learning-formula-nlp",
-    "votes": 3,
-    "posted": "Nov 11, 2016 12:34:27 PM"
-  },
-  {
-    "id": "12929725",
-    "timestamp": "Nov 11, 2016 1:11:04 PM",
-    "topic": "How Nintendo create or renew its games",
-    "url": "https://www.youtube.com/watch?v\u003d2u6HTG8LuXQ",
-    "votes": 4,
-    "posted": "Nov 11, 2016 12:28:16 PM"
-  },
-  {
-    "id": "12929690",
-    "timestamp": "Nov 11, 2016 12:51:02 PM",
-    "topic": "The unbearable smugness of the press",
-    "url": "http://www.cbsnews.com/news/commentary-the-unbearable-smugness-of-the-press-presidential-election-2016/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 12:17:53 PM"
-  },
-  {
-    "id": "12929621",
-    "timestamp": "Nov 11, 2016 12:10:57 PM",
-    "topic": "Running Docker in production for 6 months",
-    "url": "http://racknole.com/blog/running-docker-in-production-for-6-months/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 12:02:29 PM"
   }
 ];
