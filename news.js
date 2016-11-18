@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12990556",
+    "timestamp": "Nov 18, 2016 11:59:03 PM",
+    "topic": "Trump Presidency – Indian students unsure about pursuing US higher education",
+    "url": "http://economictimes.indiatimes.com/news/politics-and-nation/donald-trumps-rhetoric-leaves-indian-students-unsure-about-pursuing-higher-education-in-us/articleshow/55484871.cms",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:19:26 PM"
+  },
+  {
+    "id": "12990488",
+    "timestamp": "Nov 18, 2016 11:49:01 PM",
+    "topic": "NLP and Machine Learning with small data sets (CNNs)",
+    "url": "https://quid.com/feed/how-quid-uses-deep-learning-with-small-data",
+    "votes": 4,
+    "posted": "Nov 18, 2016 11:06:25 PM"
+  },
+  {
+    "id": "12990460",
+    "timestamp": "Nov 18, 2016 11:08:57 PM",
+    "topic": "Too racist for US District Court in 1986, now he\u0027s set to be US Attorney General",
+    "url": "https://theintercept.com/2016/11/18/career-racist-jeff-sessions-is-donald-trumps-pick-for-attorney-general/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:02:13 PM"
+  },
+  {
+    "id": "12990454",
+    "timestamp": "Nov 18, 2016 11:59:03 PM",
+    "topic": "Markets Sent a Strong Signal on Trump - Then Changed Their Minds",
+    "url": "http://www.nytimes.com/2016/11/19/upshot/markets-sent-a-strong-signal-on-trump-then-changed-their-minds.html?_r\u003d0",
+    "votes": 4,
+    "posted": "Nov 18, 2016 11:01:40 PM"
+  },
+  {
     "id": "12990410",
     "timestamp": "Nov 18, 2016 10:58:56 PM",
     "topic": "PiinPoint (YC W14) Is Hiring in Spatial Statistics/Data Science (Waterloo,CA)",
@@ -24,12 +56,28 @@ var newsArray = [
     "posted": "Nov 18, 2016 10:41:12 PM"
   },
   {
+    "id": "12990234",
+    "timestamp": "Nov 18, 2016 11:59:03 PM",
+    "topic": "Robot Goes Rogue at Shenzhen Fair, Injures Bystander",
+    "url": "http://www.sixthtone.com/news/robot-goes-rogue-shenzhen-fair-injures-bystander",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:28:45 PM"
+  },
+  {
     "id": "12990179",
     "timestamp": "Nov 18, 2016 10:58:56 PM",
     "topic": "Net neutrality: Battles are being won, but the war\u0027s still raging",
     "url": "http://www.digitaljournal.com/tech-and-science/technology/net-neutrality-battles-are-being-won-but-the-war-s-still-raging/article/479907",
     "votes": 3,
     "posted": "Nov 18, 2016 10:20:36 PM"
+  },
+  {
+    "id": "12990116",
+    "timestamp": "Nov 18, 2016 11:59:03 PM",
+    "topic": "Pro-Trump bots overwhelmed pro-Clinton messages, researchers say",
+    "url": "http://www.sfgate.com/business/article/Pro-Trump-bots-overwhelmed-pro-Clinton-messages-10623221.php",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:12:18 PM"
   },
   {
     "id": "12990111",
@@ -45,6 +93,14 @@ var newsArray = [
     "url": "https://apply.ptt.gov/yourstory/",
     "votes": 7,
     "posted": "Nov 18, 2016 10:06:00 PM"
+  },
+  {
+    "id": "12989954",
+    "timestamp": "Nov 18, 2016 11:29:00 PM",
+    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
+    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#.6cjs8pcmm",
+    "votes": 4,
+    "posted": "Nov 18, 2016 9:48:14 PM"
   },
   {
     "id": "12989901",
@@ -103,12 +159,27 @@ var newsArray = [
     "posted": "Nov 18, 2016 8:12:31 PM"
   },
   {
+    "id": "12989249",
+    "timestamp": "Nov 18, 2016 11:59:03 PM",
+    "topic": "Bruce Schneier: \u0027The Internet Era of Fun and Games Is Over\u0027",
+    "url": "http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 8:10:02 PM"
+  },
+  {
     "id": "12989243",
     "timestamp": "Nov 18, 2016 8:28:25 PM",
     "topic": "Best chrome extension for css ever",
     "url": "http://tachyons.io/xray/",
     "votes": 3,
     "posted": "Nov 18, 2016 8:09:22 PM"
+  },
+  {
+    "id": "12989221",
+    "timestamp": "Nov 18, 2016 11:18:59 PM",
+    "topic": "Ask HN: Chrome extension to verify credibility of articles",
+    "votes": 3,
+    "posted": "Nov 18, 2016 8:05:36 PM"
   },
   {
     "id": "12989093",
@@ -149,6 +220,14 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/time-for-a-rigorous-national-debate-about-surveillance-1451856106",
     "votes": 26,
     "posted": "Nov 18, 2016 7:27:09 PM"
+  },
+  {
+    "id": "12988865",
+    "timestamp": "Nov 18, 2016 11:39:00 PM",
+    "topic": "Automatic Racial Discrimination via Artificial Intelligence",
+    "url": "https://arxiv.org/abs/1611.04135",
+    "votes": 5,
+    "posted": "Nov 18, 2016 7:22:24 PM"
   },
   {
     "id": "12988803",
@@ -8915,60 +8994,5 @@ var newsArray = [
     "url": "http://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/?utm_content\u003dbufferc746a\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook-hub\u0026utm_campaign\u003dbuffer",
     "votes": 3,
     "posted": "Nov 12, 2016 12:00:45 AM"
-  },
-  {
-    "id": "12935264",
-    "timestamp": "Nov 12, 2016 12:12:10 AM",
-    "topic": "U.S. judge: websites OK to publish moves from World Chess Championship",
-    "url": "http://www.reuters.com/article/us-chess-world-lawsuit-idUSKBN13600V",
-    "votes": 6,
-    "posted": "Nov 11, 2016 11:56:52 PM"
-  },
-  {
-    "id": "12935244",
-    "timestamp": "Nov 12, 2016 4:12:32 AM",
-    "topic": "The Linux Foundation Renews Funding for Reproducible Builds Project",
-    "url": "https://www.coreinfrastructure.org/news/announcements/2016/11/linux-foundations-core-infrastructure-initiative-renews-funding",
-    "votes": 3,
-    "posted": "Nov 11, 2016 11:52:39 PM"
-  },
-  {
-    "id": "12935218",
-    "timestamp": "Nov 13, 2016 3:15:36 PM",
-    "topic": "‘No Vacancy’ Signs Are Vanishing from America’s Highways",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-11/-no-vacancy-signs-are-vanishing-from-america-s-highways",
-    "votes": 3,
-    "posted": "Nov 11, 2016 11:49:36 PM"
-  },
-  {
-    "id": "12935216",
-    "timestamp": "Nov 12, 2016 12:32:12 AM",
-    "topic": "Why did ProtonMail vanish from Google search results for months?",
-    "url": "https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/",
-    "votes": 11,
-    "posted": "Nov 11, 2016 11:49:33 PM"
-  },
-  {
-    "id": "12934915",
-    "timestamp": "Nov 11, 2016 11:12:05 PM",
-    "topic": "Streak (YC S11) Hiring a Senior Back End Engineer",
-    "url": "https://www.streak.com/careers#BackendTechLead",
-    "votes": 1,
-    "posted": "Nov 11, 2016 11:05:53 PM"
-  },
-  {
-    "id": "12934905",
-    "timestamp": "Nov 11, 2016 11:42:08 PM",
-    "topic": "Climate change escalating so fast it could be \u0027game over\u0027, scientists warn",
-    "url": "http://www.independent.co.uk/news/science/climate-change-game-over-global-warming-climate-sensitivity-seven-degrees-a7407881.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 11:04:24 PM"
-  },
-  {
-    "id": "12934882",
-    "timestamp": "Nov 12, 2016 2:22:22 AM",
-    "topic": "Show HN: The Lean Party",
-    "votes": 3,
-    "posted": "Nov 11, 2016 11:01:19 PM"
   }
 ];
