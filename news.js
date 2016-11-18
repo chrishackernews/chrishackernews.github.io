@@ -1,11 +1,67 @@
 var newsArray = [
   {
+    "id": "12989357",
+    "timestamp": "Nov 18, 2016 8:58:33 PM",
+    "topic": "New CIA director thinks Snowden should be killed",
+    "url": "http://www.washingtonexaminer.com/lawmaker-traitor-snowden-deserves-death-penalty/article/2583023",
+    "votes": 9,
+    "posted": "Nov 18, 2016 8:23:23 PM"
+  },
+  {
+    "id": "12989278",
+    "timestamp": "Nov 18, 2016 8:28:25 PM",
+    "topic": "What Test Engineers Do at Google: Building Test Infrastructure",
+    "url": "https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 8:12:31 PM"
+  },
+  {
+    "id": "12989243",
+    "timestamp": "Nov 18, 2016 8:28:25 PM",
+    "topic": "Best chrome extension for css ever",
+    "url": "http://tachyons.io/xray/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 8:09:22 PM"
+  },
+  {
+    "id": "12989093",
+    "timestamp": "Nov 18, 2016 8:28:25 PM",
+    "topic": "China clarifies for Trump: Global warming is not a Chinese hoax",
+    "url": "http://www.vox.com/energy-and-environment/2016/11/16/13655058/trump-global-warming-hoax-china",
+    "votes": 4,
+    "posted": "Nov 18, 2016 7:48:45 PM"
+  },
+  {
+    "id": "12989074",
+    "timestamp": "Nov 18, 2016 8:28:25 PM",
+    "topic": "IRS Demands Identities of All US Coinbase Traders Over Three Year Period",
+    "url": "https://motherboard.vice.com/en_ca/read/irs-demands-identities-of-all-coinbase-traders-over-two-year-period",
+    "votes": 5,
+    "posted": "Nov 18, 2016 7:46:28 PM"
+  },
+  {
+    "id": "12989068",
+    "timestamp": "Nov 18, 2016 8:48:27 PM",
+    "topic": "Two guys create massive VR robot ride in Brooklyn warehouse",
+    "url": "https://www.youtube.com/watch?v\u003dBsahjcrF1QI",
+    "votes": 3,
+    "posted": "Nov 18, 2016 7:46:02 PM"
+  },
+  {
     "id": "12988970",
     "timestamp": "Nov 18, 2016 7:38:20 PM",
     "topic": "OneSignal Is Hiring a Technical Account Manager",
     "url": "http://jobs.onesignal.com/apply/Iu0Ong/Technical-Account-Manager",
     "votes": 1,
     "posted": "Nov 18, 2016 7:35:00 PM"
+  },
+  {
+    "id": "12988916",
+    "timestamp": "Nov 18, 2016 8:08:23 PM",
+    "topic": "Incoming CIA director: Strong encryption in personal communications a red flag",
+    "url": "http://www.wsj.com/articles/time-for-a-rigorous-national-debate-about-surveillance-1451856106",
+    "votes": 26,
+    "posted": "Nov 18, 2016 7:27:09 PM"
   },
   {
     "id": "12988803",
@@ -214,6 +270,14 @@ var newsArray = [
     "url": "https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a",
     "votes": 4,
     "posted": "Nov 18, 2016 3:10:58 PM"
+  },
+  {
+    "id": "12986759",
+    "timestamp": "Nov 18, 2016 8:08:23 PM",
+    "topic": "How I stopped the RSI pain that almost destroyed my programming career",
+    "url": "https://codewithoutrules.com/2016/11/18/rsi-solution/",
+    "votes": 9,
+    "posted": "Nov 18, 2016 2:59:32 PM"
   },
   {
     "id": "12986688",
@@ -9001,60 +9065,5 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.53fulpyly",
     "votes": 4,
     "posted": "Nov 11, 2016 9:00:55 PM"
-  },
-  {
-    "id": "12933701",
-    "timestamp": "Nov 11, 2016 11:42:08 PM",
-    "topic": "Ask HN: Why are Twitter and Facebook so poor at moderating hate speech?",
-    "votes": 4,
-    "posted": "Nov 11, 2016 8:47:55 PM"
-  },
-  {
-    "id": "12933695",
-    "timestamp": "Nov 11, 2016 9:01:52 PM",
-    "topic": "Trump Era Real-Time Hate Crime Mapper",
-    "url": "http://www.h8map.com/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:47:19 PM"
-  },
-  {
-    "id": "12933563",
-    "timestamp": "Nov 11, 2016 9:01:52 PM",
-    "topic": "Hololens facial recognition prototype",
-    "url": "https://github.com/UoA-eResearch/hololens_facial_recognition",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:30:56 PM"
-  },
-  {
-    "id": "12933562",
-    "timestamp": "Nov 11, 2016 10:01:58 PM",
-    "topic": "Infineon chip solves Rubik’s Cube in 637 milliseconds",
-    "url": "http://sciencebulletin.org/archives/7723.html",
-    "votes": 5,
-    "posted": "Nov 11, 2016 8:30:48 PM"
-  },
-  {
-    "id": "12933542",
-    "timestamp": "Nov 11, 2016 8:41:50 PM",
-    "topic": "[JS] How to make a nextgen 3D game with physics in browser",
-    "url": "https://whsjs.io/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:28:11 PM"
-  },
-  {
-    "id": "12933529",
-    "timestamp": "Nov 11, 2016 9:31:55 PM",
-    "topic": "IMAX raised $50M to fund creation of VR experiences",
-    "url": "http://www.gamasutra.com/view/news/285396/IMAX_raised_50_million_to_fund_creation_of_VR_experiences.php",
-    "votes": 5,
-    "posted": "Nov 11, 2016 8:27:08 PM"
-  },
-  {
-    "id": "12933471",
-    "timestamp": "Nov 11, 2016 8:51:51 PM",
-    "topic": "What we learned after using React Native for a year?",
-    "url": "https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:20:22 PM"
   }
 ];
