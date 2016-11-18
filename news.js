@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12983331",
+    "timestamp": "Nov 18, 2016 1:56:44 AM",
+    "topic": "#open-rethinkdb meeting notes #3 – November 15",
+    "url": "https://docs.google.com/document/d/13TsZoWckcvJpprpL1zU54xsf0Zqm8mfmLkCHZcZbTMI/edit",
+    "votes": 4,
+    "posted": "Nov 18, 2016 1:48:45 AM"
+  },
+  {
+    "id": "12983076",
+    "timestamp": "Nov 18, 2016 1:56:45 AM",
+    "topic": "Why Twitter\u0027s Alt-Right Banning Campaign Is Alt-Right\u0027s Best Recruitment Tool",
+    "url": "https://www.techdirt.com/articles/20161117/09343936070/why-twitters-alt-right-banning-campaign-will-become-alt-rights-best-recruitment-tool.shtml",
+    "votes": 3,
+    "posted": "Nov 18, 2016 1:04:39 AM"
+  },
+  {
+    "id": "12983013",
+    "timestamp": "Nov 18, 2016 1:16:42 AM",
+    "topic": "Google Think Tank Launches New Weapon in Fight Against ISIS",
+    "url": "http://www.nbcnews.com/news/us-news/google-think-tank-launches-new-weapon-fight-against-isis-n682036",
+    "votes": 3,
+    "posted": "Nov 18, 2016 12:55:09 AM"
+  },
+  {
     "id": "12982895",
     "timestamp": "Nov 18, 2016 12:46:40 AM",
     "topic": "SimplyInsured (YC W13) Is Hiring Software Engineers to Change Healthcare",
@@ -8669,60 +8693,5 @@ var newsArray = [
     "url": "http://www.niemanlab.org/2016/11/the-forces-that-drove-this-elections-media-failure-are-likely-to-get-worse",
     "votes": 7,
     "posted": "Nov 11, 2016 1:59:24 AM"
-  },
-  {
-    "id": "12926343",
-    "timestamp": "Nov 11, 2016 2:10:03 AM",
-    "topic": "Peter Thiel Is Poised to Become a National Villain",
-    "url": "http://nymag.com/selectall/2016/11/peter-thiel-is-poised-to-become-a-national-villain.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 1:50:48 AM"
-  },
-  {
-    "id": "12926297",
-    "timestamp": "Nov 11, 2016 2:40:06 AM",
-    "topic": "China\u0027s \u0027Artificial Sun\u0027 achieves fusion breakthrough",
-    "url": "http://en.people.cn/n3/2016/1103/c90000-9136786.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 1:43:49 AM"
-  },
-  {
-    "id": "12926270",
-    "timestamp": "Nov 11, 2016 2:00:02 AM",
-    "topic": "Grubhub CEO\u0027s email to employees",
-    "url": "http://www.chicagotribune.com/bluesky/originals/ct-matt-maloney-grubhub-email-resign-bsi-20161110-story.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 1:39:02 AM"
-  },
-  {
-    "id": "12926184",
-    "timestamp": "Nov 11, 2016 2:40:06 AM",
-    "topic": "Ask HN: What are you using for project management?",
-    "votes": 5,
-    "posted": "Nov 11, 2016 1:27:13 AM"
-  },
-  {
-    "id": "12926119",
-    "timestamp": "Nov 11, 2016 1:19:59 AM",
-    "topic": "Gusto is hiring an experienced Data Engineer in SF",
-    "url": "https://boards.greenhouse.io/gusto/jobs/188188#.WCUCoeErI4M",
-    "votes": 1,
-    "posted": "Nov 11, 2016 1:19:14 AM"
-  },
-  {
-    "id": "12926082",
-    "timestamp": "Nov 11, 2016 1:50:01 AM",
-    "topic": "Clintons data-driven campaign relied on a algorithm named Ada. What did it miss?",
-    "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/09/clintons-data-driven-campaign-relied-heavily-on-an-algorithm-named-ada-what-didnt-she-see/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 1:15:26 AM"
-  },
-  {
-    "id": "12926064",
-    "timestamp": "Nov 11, 2016 1:19:59 AM",
-    "topic": "Show HN: GUN Starter App Boilerplate – An Easy Open Source Firebase Replacement",
-    "url": "https://github.com/gundb/gun-starter-app",
-    "votes": 3,
-    "posted": "Nov 11, 2016 1:13:05 AM"
   }
 ];
