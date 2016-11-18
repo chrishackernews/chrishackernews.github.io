@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12988970",
+    "timestamp": "Nov 18, 2016 7:38:20 PM",
+    "topic": "OneSignal Is Hiring a Technical Account Manager",
+    "url": "http://jobs.onesignal.com/apply/Iu0Ong/Technical-Account-Manager",
+    "votes": 1,
+    "posted": "Nov 18, 2016 7:35:00 PM"
+  },
+  {
+    "id": "12988803",
+    "timestamp": "Nov 18, 2016 7:58:22 PM",
+    "topic": "The monkey and the apple (Steve Yegge blog post)",
+    "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html?m\u003d1",
+    "votes": 7,
+    "posted": "Nov 18, 2016 7:15:57 PM"
+  },
+  {
+    "id": "12988789",
+    "timestamp": "Nov 18, 2016 7:38:21 PM",
+    "topic": "It\u0027s time: Edward Snowden just issued a call to his former colleagues on Twitter",
+    "url": "http://uk.businessinsider.com/edward-snowden-issued-a-cryptic-warning-on-twitter-2016-8",
+    "votes": 4,
+    "posted": "Nov 18, 2016 7:15:02 PM"
+  },
+  {
+    "id": "12988696",
+    "timestamp": "Nov 18, 2016 7:18:18 PM",
+    "topic": "Constexpr-8cc: Compile-time C Compile",
+    "url": "https://github.com/kw-udon/constexpr-8cc",
+    "votes": 3,
+    "posted": "Nov 18, 2016 7:06:06 PM"
+  },
+  {
+    "id": "12988630",
+    "timestamp": "Nov 18, 2016 7:28:20 PM",
+    "topic": "Trump’s CIA Director Wants to Return to a Pre-Snowden World",
+    "url": "http://www.theatlantic.com/technology/archive/2016/11/trumps-cia-director-wants-to-return-to-a-pre-snowden-world/508136/?single_page\u003dtrue",
+    "votes": 9,
+    "posted": "Nov 18, 2016 6:57:20 PM"
+  },
+  {
+    "id": "12988442",
+    "timestamp": "Nov 18, 2016 7:48:22 PM",
+    "topic": "Peter Thiel\u0027s \u0027Plum List\u0027 to Screen and \u0027fast-track\u0027 Talent for Trump",
+    "url": "http://www.dailymail.co.uk/news/article-3949670/Peter-Thiel-created-secret-database-called-Plum-List-screen-fast-track-talent-shown-loyalty-Trump-come-outside-Beltway.html",
+    "votes": 6,
+    "posted": "Nov 18, 2016 6:37:08 PM"
+  },
+  {
     "id": "12988389",
     "timestamp": "Nov 18, 2016 6:58:16 PM",
     "topic": "Non-citizen voting likely changed outcomes of 2008 US elections",
@@ -16,12 +64,28 @@ var newsArray = [
     "posted": "Nov 18, 2016 6:29:48 PM"
   },
   {
+    "id": "12988342",
+    "timestamp": "Nov 18, 2016 7:48:22 PM",
+    "topic": "Apple\u0027s Chip Choices May Leave Some iPhone Users in Slow Lane",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-18/apple-chip-choices-may-leave-some-iphone-users-in-slow-lane",
+    "votes": 6,
+    "posted": "Nov 18, 2016 6:25:40 PM"
+  },
+  {
     "id": "12988289",
     "timestamp": "Nov 18, 2016 6:38:14 PM",
     "topic": "ICQ: 20 Years Is No Limit",
     "url": "https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.ioi9ez4k2",
     "votes": 3,
     "posted": "Nov 18, 2016 6:17:08 PM"
+  },
+  {
+    "id": "12987927",
+    "timestamp": "Nov 18, 2016 7:28:20 PM",
+    "topic": "Compile-time C Compiler implemented as C++14 constant expressions",
+    "url": "https://github.com/kw-udon/constexpr-8cc#constexpr-8cc-compile-time-c-compiler-",
+    "votes": 8,
+    "posted": "Nov 18, 2016 5:33:32 PM"
   },
   {
     "id": "12987900",
@@ -213,6 +277,14 @@ var newsArray = [
     "url": "http://arstechnica.com/gadgets/2016/11/xiaomi-mi-mix-review-this-is-what-the-future-of-smartphones-looks-like/",
     "votes": 6,
     "posted": "Nov 18, 2016 1:34:00 PM"
+  },
+  {
+    "id": "12986173",
+    "timestamp": "Nov 18, 2016 7:08:18 PM",
+    "topic": "Hezbollah has U.S. armored personnel carriers. But how did they get them?",
+    "url": "https://www.washingtonpost.com/news/checkpoint/wp/2016/11/16/hezbollah-has-u-s-armored-personnel-carriers-but-how-did-they-get-them/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 1:10:45 PM"
   },
   {
     "id": "12986060",
@@ -925,6 +997,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 1:48:45 AM"
   },
   {
+    "id": "12983308",
+    "timestamp": "Nov 18, 2016 7:38:21 PM",
+    "topic": "A Conversation with Dan Ariely About What Shapes Our Motivations",
+    "url": "https://blog.longreads.com/2016/11/17/a-conversation-with-dan-ariely-on-what-shapes-our-motivations/?utm_content\u003dbuffer6608a\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter.com\u0026utm_campaign\u003dbuffer",
+    "votes": 5,
+    "posted": "Nov 18, 2016 1:45:31 AM"
+  },
+  {
     "id": "12983222",
     "timestamp": "Nov 18, 2016 3:27:57 PM",
     "topic": "The Genius and the Laborer: The Troubled Friendship of Leo Tolstoy and Maxim Gorky",
@@ -1129,6 +1209,13 @@ var newsArray = [
     "url": "https://twitter.com/whatcd/status/799361263121866752",
     "votes": 5,
     "posted": "Nov 17, 2016 10:22:34 PM"
+  },
+  {
+    "id": "12981740",
+    "timestamp": "Nov 18, 2016 7:18:19 PM",
+    "topic": "Ask HN: Structure for Canadian working remote for Bay Area startup?",
+    "votes": 9,
+    "posted": "Nov 17, 2016 10:21:27 PM"
   },
   {
     "id": "12981736",
@@ -1605,6 +1692,14 @@ var newsArray = [
     "topic": "Ask HN: How do you stay focused while it\u0027s compiling?",
     "votes": 5,
     "posted": "Nov 17, 2016 3:50:13 PM"
+  },
+  {
+    "id": "12977846",
+    "timestamp": "Nov 18, 2016 7:18:19 PM",
+    "topic": "Show HN: Ava – an app to make conversations accessible for the deaf/hoh",
+    "url": "http://www.ava.me",
+    "votes": 7,
+    "posted": "Nov 17, 2016 3:48:45 PM"
   },
   {
     "id": "12977789",
@@ -8961,93 +9056,5 @@ var newsArray = [
     "url": "https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp",
     "votes": 3,
     "posted": "Nov 11, 2016 8:20:22 PM"
-  },
-  {
-    "id": "12933252",
-    "timestamp": "Nov 11, 2016 8:11:47 PM",
-    "topic": "A few drawings about Linux",
-    "url": "https://jvns.ca/blog/2016/11/10/a-few-drawings-about-linux/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 7:58:14 PM"
-  },
-  {
-    "id": "12933237",
-    "timestamp": "Nov 11, 2016 8:11:47 PM",
-    "topic": "Is globalization to blame?",
-    "url": "http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2016/11/is-globalization-to-blame.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 7:57:09 PM"
-  },
-  {
-    "id": "12933154",
-    "timestamp": "Nov 11, 2016 8:11:47 PM",
-    "topic": "Will Trump\u0027s Victory Be Silicon Valley\u0027s Wake-Up Call?",
-    "url": "https://www.theatlantic.com/technology/archive/2016/11/trumps-the-president-and-youre-a-publisher/507278/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 11, 2016 7:49:33 PM"
-  },
-  {
-    "id": "12933149",
-    "timestamp": "Nov 11, 2016 8:21:48 PM",
-    "topic": "Donald Trump Won Because of Facebook",
-    "url": "http://nymag.com/selectall/2016/11/donald-trump-won-because-of-facebook.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 7:49:19 PM"
-  },
-  {
-    "id": "12933048",
-    "timestamp": "Nov 11, 2016 8:11:47 PM",
-    "topic": "Trump’s FCC: Tom Wheeler to be replaced, set-top box reform could be dead",
-    "url": "http://arstechnica.com/tech-policy/2016/11/trumps-fcc-tom-wheeler-to-be-replaced-set-top-box-reform-could-be-dead/",
-    "votes": 7,
-    "posted": "Nov 11, 2016 7:39:18 PM"
-  },
-  {
-    "id": "12933010",
-    "timestamp": "Nov 11, 2016 7:41:43 PM",
-    "topic": "OneSignal Is Hiring Mobile and Full-Stack Developers in Mountain View",
-    "url": "http://jobs.onesignal.com/",
-    "votes": 1,
-    "posted": "Nov 11, 2016 7:33:30 PM"
-  },
-  {
-    "id": "12933005",
-    "timestamp": "Nov 11, 2016 8:11:47 PM",
-    "topic": "Peter Thiel Said to Join Trump’s Presidential Transition Team",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-11/peter-thiel-joins-trump-s-presidential-transition-team",
-    "votes": 6,
-    "posted": "Nov 11, 2016 7:32:44 PM"
-  },
-  {
-    "id": "12932987",
-    "timestamp": "Nov 11, 2016 7:41:44 PM",
-    "topic": "The Real Lesson in Grubhub CEO Telling Trump Supporters to Resign",
-    "url": "http://www.wirepoints.com/the-real-lesson-in-grubhub-ceo-telling-trump-supporters-to-resign-plus-an-earlier-personal-one-wp-original/",
-    "votes": 9,
-    "posted": "Nov 11, 2016 7:30:42 PM"
-  },
-  {
-    "id": "12932957",
-    "timestamp": "Nov 11, 2016 9:31:55 PM",
-    "topic": "UEFI boot: how does that actually work, then?",
-    "url": "https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 7:25:53 PM"
-  },
-  {
-    "id": "12932931",
-    "timestamp": "Nov 11, 2016 7:41:43 PM",
-    "topic": "Going Serverless: AWS and Compelling Science Fiction",
-    "url": "http://compellingsciencefiction.com/blog/2016-11-10.html",
-    "votes": 8,
-    "posted": "Nov 11, 2016 7:20:04 PM"
-  },
-  {
-    "id": "12932771",
-    "timestamp": "Nov 11, 2016 8:11:47 PM",
-    "topic": "The Great Firewall, China’s New Cybersecurity Law",
-    "url": "https://edgylabs.com/2016/11/11/the-great-firewall-china-cybersecurity/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 6:59:11 PM"
   }
 ];
