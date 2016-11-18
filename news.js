@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "12989729",
+    "timestamp": "Nov 18, 2016 9:48:42 PM",
+    "topic": "New drug dispenser may turn human beings into chemical weapons",
+    "url": "http://www.economist.com/news/science-and-technology/21710243-new-drug-dispenser-may-turn-human-beings-chemical-weapons-biter-bit",
+    "votes": 4,
+    "posted": "Nov 18, 2016 9:13:39 PM"
+  },
+  {
+    "id": "12989646",
+    "timestamp": "Nov 18, 2016 9:58:44 PM",
+    "topic": "Ground Up Review of NN Architecture Used for Google\u0027s Neural Machine Translation",
+    "url": "http://smerity.com/articles/2016/google_nmt_arch.html",
+    "votes": 4,
+    "posted": "Nov 18, 2016 9:02:28 PM"
+  },
+  {
+    "id": "12989574",
+    "timestamp": "Nov 18, 2016 9:18:35 PM",
+    "topic": "The End of Identity Liberalism",
+    "url": "http://www.nytimes.com/2016/11/20/opinion/sunday/the-end-of-identity-liberalism.html",
+    "votes": 5,
+    "posted": "Nov 18, 2016 8:52:38 PM"
+  },
+  {
+    "id": "12989510",
+    "timestamp": "Nov 18, 2016 9:48:42 PM",
+    "topic": "Lessons Learned Earning a Master’s Degree While Working Full-Time",
+    "url": "https://stories.jotform.com/lessons-learned-earning-a-masters-degree-while-working-full-time-3afe2d27535a#.d3rwmplml",
+    "votes": 3,
+    "posted": "Nov 18, 2016 8:44:08 PM"
+  },
+  {
     "id": "12989357",
     "timestamp": "Nov 18, 2016 8:58:33 PM",
     "topic": "New CIA director thinks Snowden should be killed",
@@ -126,6 +158,14 @@ var newsArray = [
     "url": "https://www.bloomberg.com/news/articles/2016-11-18/apple-chip-choices-may-leave-some-iphone-users-in-slow-lane",
     "votes": 6,
     "posted": "Nov 18, 2016 6:25:40 PM"
+  },
+  {
+    "id": "12988339",
+    "timestamp": "Nov 18, 2016 9:48:43 PM",
+    "topic": "Bannon suggests having too many Asian tech CEOs undermines ‘civic society’",
+    "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
+    "votes": 5,
+    "posted": "Nov 18, 2016 6:25:02 PM"
   },
   {
     "id": "12988289",
@@ -262,6 +302,14 @@ var newsArray = [
     "url": "http://www.bleepingcomputer.com/news/security/ransomware-developer-asks-security-researcher-for-help-in-fixing-broken-crypto/",
     "votes": 4,
     "posted": "Nov 18, 2016 3:42:47 PM"
+  },
+  {
+    "id": "12986937",
+    "timestamp": "Nov 18, 2016 9:38:36 PM",
+    "topic": "Microsoft ️ Linux? Microsoft ️ Running Its Windows\u0027 SQL Server Software on Linux",
+    "url": "http://www.theregister.co.uk/2016/11/18/microsoft_running_windows_apps_on_linux/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:26:39 PM"
   },
   {
     "id": "12986840",
@@ -8962,108 +9010,5 @@ var newsArray = [
     "url": "https://ssd.eff.org/",
     "votes": 5,
     "posted": "Nov 11, 2016 10:03:04 PM"
-  },
-  {
-    "id": "12934256",
-    "timestamp": "Nov 11, 2016 10:01:58 PM",
-    "topic": "Facebook bug is telling people they\u0027re dead",
-    "url": "http://www.businessinsider.com/facebook-death-bug-tells-people-they-died-2016-11",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:56:20 PM"
-  },
-  {
-    "id": "12934247",
-    "timestamp": "Nov 11, 2016 10:01:58 PM",
-    "topic": "Facebook is telling everyone that they’re dead",
-    "url": "http://www.theverge.com/2016/11/11/13602824/facebook-just-killed-everyone",
-    "votes": 6,
-    "posted": "Nov 11, 2016 9:55:16 PM"
-  },
-  {
-    "id": "12934240",
-    "timestamp": "Nov 11, 2016 10:01:58 PM",
-    "topic": "Ask HN: Facebook hack",
-    "votes": 4,
-    "posted": "Nov 11, 2016 9:53:57 PM"
-  },
-  {
-    "id": "12934119",
-    "timestamp": "Nov 11, 2016 10:12:00 PM",
-    "topic": "Obama Administration Gives Up on Pacific Trade Deal",
-    "url": "http://www.wsj.com/articles/obama-administration-gives-up-on-pacific-trade-deal-1478895824",
-    "votes": 33,
-    "posted": "Nov 11, 2016 9:39:11 PM"
-  },
-  {
-    "id": "12934089",
-    "timestamp": "Nov 11, 2016 10:01:58 PM",
-    "topic": "Wind Waker Graphics Analysis",
-    "url": "https://medium.com/@gordonnl/wind-waker-graphics-analysis-a0b575a31127",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:36:33 PM"
-  },
-  {
-    "id": "12934046",
-    "timestamp": "Nov 11, 2016 10:01:59 PM",
-    "topic": "Could California Survive as a Separate Country?",
-    "url": "https://www.quora.com/Would-California-be-more-successful-as-an-independent-country-rather-than-as-a-state?share\u003d1",
-    "votes": 4,
-    "posted": "Nov 11, 2016 9:30:49 PM"
-  },
-  {
-    "id": "12934034",
-    "timestamp": "Nov 11, 2016 10:01:59 PM",
-    "topic": "A letter to today’s young people",
-    "url": "https://marco.org/2016/11/11/letter-to-young-people",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:29:35 PM"
-  },
-  {
-    "id": "12933971",
-    "timestamp": "Nov 11, 2016 9:51:57 PM",
-    "topic": "The Recreational Use of the Word “Racist”",
-    "url": "https://www.bostonglobe.com/ideas/2016/11/13/the-recreational-use-racism/TzxwI9Fg03ySKGYrCBv9SL/story.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:22:12 PM"
-  },
-  {
-    "id": "12933915",
-    "timestamp": "Nov 11, 2016 9:51:57 PM",
-    "topic": "The Fall of the House of Clinton",
-    "url": "http://www.vanityfair.com/news/2016/11/the-fall-of-the-house-of-clinton",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:14:03 PM"
-  },
-  {
-    "id": "12933866",
-    "timestamp": "Nov 12, 2016 5:32:38 AM",
-    "topic": "World Chess Championship 2016",
-    "url": "http://worldchess.com/nyc2016/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:08:46 PM"
-  },
-  {
-    "id": "12933842",
-    "timestamp": "Nov 11, 2016 9:31:54 PM",
-    "topic": "Sandstorm now supports RHEL 7, CentOS 7, Arch, and more",
-    "url": "https://sandstorm.io/news/2016-11-10-rhel-centos-arch-support",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:06:17 PM"
-  },
-  {
-    "id": "12933838",
-    "timestamp": "Nov 11, 2016 9:41:56 PM",
-    "topic": "Operation Costs in CPU Clock Cycles",
-    "url": "http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 9:05:32 PM"
-  },
-  {
-    "id": "12933803",
-    "timestamp": "Nov 11, 2016 9:41:56 PM",
-    "topic": "How to encrypt your entire life in less than an hour",
-    "url": "https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.53fulpyly",
-    "votes": 4,
-    "posted": "Nov 11, 2016 9:00:55 PM"
   }
 ];
