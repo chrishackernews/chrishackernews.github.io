@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12987123",
+    "timestamp": "Nov 18, 2016 4:08:01 PM",
+    "topic": "Manifesto for Responsible Software Development",
+    "url": "http://manifesto.responsiblesoftware.org/",
+    "votes": 7,
+    "posted": "Nov 18, 2016 3:56:08 PM"
+  },
+  {
+    "id": "12987115",
+    "timestamp": "Nov 18, 2016 4:08:01 PM",
+    "topic": "Uber Restaurant Guide",
+    "url": "https://www.uber.com/info/restaurant-guide/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:55:05 PM"
+  },
+  {
+    "id": "12987110",
+    "timestamp": "Nov 18, 2016 4:28:03 PM",
+    "topic": "Clear Acceptance Criteria and Why It’s Important",
+    "url": "https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:54:15 PM"
+  },
+  {
+    "id": "12987102",
+    "timestamp": "Nov 18, 2016 4:08:00 PM",
+    "topic": "Life hacks for software developers: how to find a job with relocation to Europe",
+    "url": "http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/",
+    "votes": 12,
+    "posted": "Nov 18, 2016 3:52:16 PM"
+  },
+  {
+    "id": "12987058",
+    "timestamp": "Nov 18, 2016 4:18:02 PM",
+    "topic": "Global Trumpism",
+    "url": "https://www.foreignaffairs.com/articles/2016-11-15/global-trumpism",
+    "votes": 3,
+    "posted": "Nov 18, 2016 3:46:57 PM"
+  },
+  {
+    "id": "12987050",
+    "timestamp": "Nov 18, 2016 4:18:02 PM",
+    "topic": "With More Than 100,000 Farmers Registered, WeFarm Has Raised $1.6 Mln Seed Round",
+    "url": "http://www.iafrikan.com/2016/11/18/wefarm-raises-1-6-million-seed-round-led-by-localglobe-and-surpasses-100-000-farmers-registered-milestone/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 3:45:19 PM"
+  },
+  {
+    "id": "12987037",
+    "timestamp": "Nov 18, 2016 4:08:01 PM",
+    "topic": "Ransomware developers ask for help with CryptoAPI from security researcher",
+    "url": "http://www.bleepingcomputer.com/news/security/ransomware-developer-asks-security-researcher-for-help-in-fixing-broken-crypto/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:42:47 PM"
+  },
+  {
+    "id": "12986688",
+    "timestamp": "Nov 18, 2016 4:48:05 PM",
+    "topic": "MacBook Pro 15“ Touch Bar Teardown",
+    "url": "https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Touch+Bar+Teardown/73395",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:49:23 PM"
+  },
+  {
     "id": "12986649",
     "timestamp": "Nov 18, 2016 2:57:54 PM",
     "topic": "The unlikely origin story of Google Analytics, 1996–2005-ish",
@@ -164,6 +228,14 @@ var newsArray = [
     "url": "http://www.informationliberation.com/?id\u003d55863",
     "votes": 6,
     "posted": "Nov 18, 2016 11:18:07 AM"
+  },
+  {
+    "id": "12985689",
+    "timestamp": "Nov 18, 2016 4:18:02 PM",
+    "topic": "Should You Review Requirements and Design Documents?",
+    "url": "http://www.daedtech.com/review-requirements-design-documents/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:15:42 AM"
   },
   {
     "id": "12985645",
@@ -749,6 +821,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 1:27:27 AM"
   },
   {
+    "id": "12983096",
+    "timestamp": "Nov 18, 2016 4:28:03 PM",
+    "topic": "How we structure our work and teams at Basecamp",
+    "url": "https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.2ii2en90c",
+    "votes": 5,
+    "posted": "Nov 18, 2016 1:08:18 AM"
+  },
+  {
     "id": "12983076",
     "timestamp": "Nov 18, 2016 1:56:45 AM",
     "topic": "Why Twitter\u0027s Alt-Right Banning Campaign Is Alt-Right\u0027s Best Recruitment Tool",
@@ -826,6 +906,14 @@ var newsArray = [
     "url": "http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/",
     "votes": 20,
     "posted": "Nov 17, 2016 11:39:46 PM"
+  },
+  {
+    "id": "12982364",
+    "timestamp": "Nov 18, 2016 4:28:03 PM",
+    "topic": "World’s largest music torrent site goes dark after French police seize servers",
+    "url": "http://arstechnica.com/tech-policy/2016/11/worlds-largest-music-torrent-site-goes-dark-after-french-police-seize-servers/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 11:31:33 PM"
   },
   {
     "id": "12982353",
@@ -1080,6 +1168,14 @@ var newsArray = [
     "url": "https://www.google.com/patents/US20150004280",
     "votes": 4,
     "posted": "Nov 17, 2016 8:17:57 PM"
+  },
+  {
+    "id": "12980466",
+    "timestamp": "Nov 18, 2016 4:28:03 PM",
+    "topic": "Inside the world of Australian opal miners who live underground",
+    "url": "https://www.washingtonpost.com/news/in-sight/wp/2016/11/16/inside-the-world-of-australian-opal-miners-who-live-underground/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 8:14:49 PM"
   },
   {
     "id": "12980440",
@@ -8959,60 +9055,5 @@ var newsArray = [
     "topic": "Ask HN: Hands hurts from coding too long?",
     "votes": 3,
     "posted": "Nov 11, 2016 5:08:24 PM"
-  },
-  {
-    "id": "12931764",
-    "timestamp": "Nov 11, 2016 7:41:44 PM",
-    "topic": "A version control visualization tool",
-    "url": "http://gource.io/",
-    "votes": 5,
-    "posted": "Nov 11, 2016 4:57:48 PM"
-  },
-  {
-    "id": "12931620",
-    "timestamp": "Nov 11, 2016 5:11:28 PM",
-    "topic": "Building a Cross Platform 360-degree Video Experience at The New York Times",
-    "url": "http://open.blogs.nytimes.com/2016/11/11/building-a-cross-platform-360-degree-video-experience-at-the-new-york-times/",
-    "votes": 20,
-    "posted": "Nov 11, 2016 4:45:27 PM"
-  },
-  {
-    "id": "12931447",
-    "timestamp": "Nov 11, 2016 5:01:27 PM",
-    "topic": "Some advanced bash scripting",
-    "url": "https://medium.com/@starkcoffee/some-advanced-bash-scripting-a00524e29f8#.jyioghsku",
-    "votes": 6,
-    "posted": "Nov 11, 2016 4:30:30 PM"
-  },
-  {
-    "id": "12931443",
-    "timestamp": "Nov 11, 2016 5:31:31 PM",
-    "topic": "Highway to Hitler [pdf]",
-    "url": "http://www.anderson.ucla.edu/faculty/nico.v/Research/Highway_to_Hitler.pdf",
-    "votes": 6,
-    "posted": "Nov 11, 2016 4:29:49 PM"
-  },
-  {
-    "id": "12931370",
-    "timestamp": "Nov 11, 2016 7:41:44 PM",
-    "topic": "What Percent of the Top-Voted Comments in Reddit Threads Were Also First Comment?",
-    "url": "http://minimaxir.com/2016/11/first-comment/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 4:21:49 PM"
-  },
-  {
-    "id": "12931352",
-    "timestamp": "Nov 11, 2016 4:51:26 PM",
-    "topic": "Ask HN: Please add a warrant canary to the footer",
-    "votes": 16,
-    "posted": "Nov 11, 2016 4:19:35 PM"
-  },
-  {
-    "id": "12931162",
-    "timestamp": "Nov 11, 2016 4:41:25 PM",
-    "topic": "Spotify is writing massive amounts of junk data to storage drives",
-    "url": "http://arstechnica.co.uk/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/",
-    "votes": 6,
-    "posted": "Nov 11, 2016 4:00:15 PM"
   }
 ];
