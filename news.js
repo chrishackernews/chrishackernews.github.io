@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12985527",
+    "timestamp": "Nov 18, 2016 10:57:29 AM",
+    "topic": "RIP Apple MacBook",
+    "url": "https://sheep.horse/2016/11/rip_apple_macbook.html",
+    "votes": 6,
+    "posted": "Nov 18, 2016 10:37:15 AM"
+  },
+  {
+    "id": "12985397",
+    "timestamp": "Nov 18, 2016 10:47:28 AM",
+    "topic": "Rocket Berlin lays off 75% of staff in surprise workforce reduction",
+    "url": "https://translate.google.com/translate?sl\u003dauto\u0026tl\u003den\u0026js\u003dy\u0026prev\u003d_t\u0026hl\u003den\u0026ie\u003dUTF-8\u0026u\u003dhttp%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Funternehmen%2Frocket-internet-baut-in-berlin-massiv-personal-ab-a-1121905.html\u0026edit-text\u003d\u0026act\u003durl",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:07:32 AM"
+  },
+  {
+    "id": "12985192",
+    "timestamp": "Nov 18, 2016 10:07:25 AM",
+    "topic": "Volkswagen Set to Slash Up to 30,000 Jobs",
+    "url": "http://www.wsj.com/articles/volkswagen-set-to-slash-up-to-30-000-jobs-1479455462",
+    "votes": 3,
+    "posted": "Nov 18, 2016 9:15:22 AM"
+  },
+  {
     "id": "12985114",
     "timestamp": "Nov 18, 2016 9:27:22 AM",
     "topic": "WikipediaP2P",
@@ -8816,29 +8840,5 @@ var newsArray = [
     "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.q0ba3hxfp",
     "votes": 5,
     "posted": "Nov 11, 2016 11:14:29 AM"
-  },
-  {
-    "id": "12929230",
-    "timestamp": "Nov 11, 2016 11:00:51 AM",
-    "topic": "That’s It. I’ve Had Enough",
-    "url": "https://eugene.kaspersky.com/2016/11/10/thats-it-ive-had-enough/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:40:49 AM"
-  },
-  {
-    "id": "12929121",
-    "timestamp": "Nov 11, 2016 9:01:52 PM",
-    "topic": "Show HN: Pogi – high level Node.js lib for PostgreSQL",
-    "url": "https://github.com/holdfenytolvaj/pogi/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:13:05 AM"
-  },
-  {
-    "id": "12929106",
-    "timestamp": "Nov 11, 2016 3:01:12 PM",
-    "topic": "Nonlinear climate sensitivity and its implications for future greenhouse warming",
-    "url": "http://advances.sciencemag.org/content/2/11/e1501923",
-    "votes": 3,
-    "posted": "Nov 11, 2016 10:09:40 AM"
   }
 ];
