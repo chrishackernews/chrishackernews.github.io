@@ -1,11 +1,83 @@
 var newsArray = [
   {
+    "id": "12985768",
+    "timestamp": "Nov 18, 2016 11:47:34 AM",
+    "topic": "The strange psychology of stress and burnout",
+    "url": "http://www.bbc.com/capital/story/20161116-stress-is-good-for-you-until-it-isnt?ocid\u003dglobal_capital_rss",
+    "votes": 5,
+    "posted": "Nov 18, 2016 11:34:02 AM"
+  },
+  {
+    "id": "12985753",
+    "timestamp": "Nov 18, 2016 11:37:32 AM",
+    "topic": "Gigster (on demand software development) is hiring in engineering and sales",
+    "url": "https://jobs.lever.co/gigster",
+    "votes": 1,
+    "posted": "Nov 18, 2016 11:30:11 AM"
+  },
+  {
+    "id": "12985724",
+    "timestamp": "Nov 18, 2016 11:57:36 AM",
+    "topic": "Automated Pro-Trump Bots Overwhelmed Pro-Clinton Messages",
+    "url": "http://www.nytimes.com/2016/11/18/technology/automated-pro-trump-bots-overwhelmed-pro-clinton-messages-researchers-say.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:24:16 AM"
+  },
+  {
+    "id": "12985703",
+    "timestamp": "Nov 18, 2016 11:57:36 AM",
+    "topic": "Twitter User Replaces Word \u0027White\u0027 with \u0027Black,\u0027 Gets Banned",
+    "url": "http://www.informationliberation.com/?id\u003d55863",
+    "votes": 6,
+    "posted": "Nov 18, 2016 11:18:07 AM"
+  },
+  {
+    "id": "12985645",
+    "timestamp": "Nov 18, 2016 11:37:32 AM",
+    "topic": "Which Windows laptop could replace a MacBook Pro?",
+    "url": "https://www.theguardian.com/technology/askjack/2016/nov/17/which-windows-laptop-could-replace-apple-macbook-pro",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:04:39 AM"
+  },
+  {
+    "id": "12985644",
+    "timestamp": "Nov 18, 2016 11:47:34 AM",
+    "topic": "Clickclickclick.click",
+    "url": "https://clickclickclick.click",
+    "votes": 5,
+    "posted": "Nov 18, 2016 11:04:30 AM"
+  },
+  {
+    "id": "12985583",
+    "timestamp": "Nov 18, 2016 11:47:34 AM",
+    "topic": "Open Sourcing the Microsoft JDBC Driver and Maven Support",
+    "url": "https://blogs.msdn.microsoft.com/jdbcteam/2016/11/17/open-source-jdbc-maven/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 10:51:37 AM"
+  },
+  {
     "id": "12985527",
     "timestamp": "Nov 18, 2016 10:57:29 AM",
     "topic": "RIP Apple MacBook",
     "url": "https://sheep.horse/2016/11/rip_apple_macbook.html",
     "votes": 6,
     "posted": "Nov 18, 2016 10:37:15 AM"
+  },
+  {
+    "id": "12985509",
+    "timestamp": "Nov 18, 2016 11:57:36 AM",
+    "topic": "Side-Project",
+    "url": "http://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg",
+    "votes": 6,
+    "posted": "Nov 18, 2016 10:33:07 AM"
+  },
+  {
+    "id": "12985503",
+    "timestamp": "Nov 18, 2016 11:07:30 AM",
+    "topic": "IA Writer 4",
+    "url": "https://ia.net/writer/updates/ia-writer-4",
+    "votes": 6,
+    "posted": "Nov 18, 2016 10:29:58 AM"
   },
   {
     "id": "12985397",
@@ -62,6 +134,14 @@ var newsArray = [
     "url": "https://captain401.com/careers",
     "votes": 1,
     "posted": "Nov 18, 2016 7:39:21 AM"
+  },
+  {
+    "id": "12984797",
+    "timestamp": "Nov 18, 2016 11:57:36 AM",
+    "topic": "Tesla and SolarCity shareholders approve $2.6B merger",
+    "url": "http://arstechnica.com/business/2016/11/tesla-and-solarcity-shareholders-approve-2-6-billion-merger/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 7:29:59 AM"
   },
   {
     "id": "12984709",
@@ -8825,20 +8905,5 @@ var newsArray = [
     "url": "http://racknole.com/blog/running-docker-in-production-for-6-months/",
     "votes": 3,
     "posted": "Nov 11, 2016 12:02:29 PM"
-  },
-  {
-    "id": "12929514",
-    "timestamp": "Nov 11, 2016 4:51:26 PM",
-    "topic": "Ask HN: Can new graduates get (good) remote work?",
-    "votes": 4,
-    "posted": "Nov 11, 2016 11:41:26 AM"
-  },
-  {
-    "id": "12929382",
-    "timestamp": "Nov 11, 2016 11:30:54 AM",
-    "topic": "Why I\u0027m Leaving the Thiel Fellowship",
-    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.q0ba3hxfp",
-    "votes": 5,
-    "posted": "Nov 11, 2016 11:14:29 AM"
   }
 ];
