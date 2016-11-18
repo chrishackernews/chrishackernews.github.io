@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12983507",
+    "timestamp": "Nov 18, 2016 2:46:48 AM",
+    "topic": "Decrypting TLS Browser Traffic with Wireshark – The Easy Way",
+    "url": "https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/",
+    "votes": 6,
+    "posted": "Nov 18, 2016 2:19:50 AM"
+  },
+  {
     "id": "12983331",
     "timestamp": "Nov 18, 2016 1:56:44 AM",
     "topic": "#open-rethinkdb meeting notes #3 – November 15",
@@ -69,6 +77,14 @@ var newsArray = [
     "url": "http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/",
     "votes": 20,
     "posted": "Nov 17, 2016 11:39:46 PM"
+  },
+  {
+    "id": "12982339",
+    "timestamp": "Nov 18, 2016 2:36:47 AM",
+    "topic": "What.CD Nukes Data After Servers Seized",
+    "url": "https://torrentfreak.com/what-cd-shuts-down-following-reported-raids-in-france-161117/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 11:28:20 PM"
   },
   {
     "id": "12982321",
@@ -8622,76 +8638,5 @@ var newsArray = [
     "url": "http://leonardcohen.com/",
     "votes": 38,
     "posted": "Nov 11, 2016 3:06:42 AM"
-  },
-  {
-    "id": "12926684",
-    "timestamp": "Nov 11, 2016 3:00:08 AM",
-    "topic": "Leonard Cohen Dead at 82",
-    "url": "http://www.rollingstone.com/music/news/leonard-cohen-dead-at-82-w449792",
-    "votes": 11,
-    "posted": "Nov 11, 2016 2:47:00 AM"
-  },
-  {
-    "id": "12926678",
-    "timestamp": "Nov 11, 2016 2:50:07 AM",
-    "topic": "YC Partner Peter Thiel, Joins Trump Transition Team",
-    "url": "https://www.linkedin.com/pulse/peter-thiel-join-trump-transition-team-dan-primack",
-    "votes": 3,
-    "posted": "Nov 11, 2016 2:45:33 AM"
-  },
-  {
-    "id": "12926651",
-    "timestamp": "Nov 11, 2016 3:00:08 AM",
-    "topic": "Democrats once represented the working class. Not any more",
-    "url": "https://www.theguardian.com/commentisfree/2016/nov/10/democrats-working-class-americans-us-election",
-    "votes": 3,
-    "posted": "Nov 11, 2016 2:41:59 AM"
-  },
-  {
-    "id": "12926632",
-    "timestamp": "Nov 11, 2016 2:50:07 AM",
-    "topic": "Island Generator",
-    "url": "http://exupero.org/hazard/post/islands/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 2:39:19 AM"
-  },
-  {
-    "id": "12926576",
-    "timestamp": "Nov 11, 2016 10:20:48 AM",
-    "topic": "Ask HN: Do you regret using an obscure language for something?",
-    "votes": 4,
-    "posted": "Nov 11, 2016 2:30:37 AM"
-  },
-  {
-    "id": "12926510",
-    "timestamp": "Nov 11, 2016 9:40:45 AM",
-    "topic": "LinkedIn to be blocked in Russia; Google, eBay, Uber, and Booking.com have moved",
-    "url": "https://www.washingtonpost.com/business/economy/first-record-close-for-dow-in-three-months/2016/11/10/642e9aae-a74e-11e6-8042-f4d111c862d1_story.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 2:19:58 AM"
-  },
-  {
-    "id": "12926484",
-    "timestamp": "Nov 11, 2016 3:00:08 AM",
-    "topic": "Nvidia Reports Huge Data Center Business Boom, Stock Is Jumping",
-    "url": "http://www.forbes.com/sites/aarontilley/2016/11/10/nvidia-reports-huge-data-center-business-boom-stock-is-jumping/#2c7266b079db",
-    "votes": 3,
-    "posted": "Nov 11, 2016 2:15:01 AM"
-  },
-  {
-    "id": "12926436",
-    "timestamp": "Nov 12, 2016 2:43:25 PM",
-    "topic": "The Good Man Stanley",
-    "url": "https://lareviewofbooks.org/article/the-good-man-stanley#!",
-    "votes": 3,
-    "posted": "Nov 11, 2016 2:06:55 AM"
-  },
-  {
-    "id": "12926395",
-    "timestamp": "Nov 11, 2016 4:30:15 AM",
-    "topic": "The forces that drove this election’s media failure are likely to get worse",
-    "url": "http://www.niemanlab.org/2016/11/the-forces-that-drove-this-elections-media-failure-are-likely-to-get-worse",
-    "votes": 7,
-    "posted": "Nov 11, 2016 1:59:24 AM"
   }
 ];
