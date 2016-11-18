@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12986060",
+    "timestamp": "Nov 18, 2016 1:17:45 PM",
+    "topic": "Microsoft Replaces Command Prompt with PowerShell in Latest Windows 10 Build",
+    "url": "http://news.softpedia.com/news/microsoft-replaces-command-prompt-with-powershell-in-latest-windows-10-build-510328.shtml",
+    "votes": 5,
+    "posted": "Nov 18, 2016 12:42:55 PM"
+  },
+  {
     "id": "12985978",
     "timestamp": "Nov 18, 2016 12:37:39 PM",
     "topic": "Having-a-work-spouse-makes-you-happier",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "https://twitter.com/ErrataRob/status/799556482719162368",
     "votes": 3,
     "posted": "Nov 18, 2016 12:23:09 PM"
+  },
+  {
+    "id": "12985963",
+    "timestamp": "Nov 18, 2016 1:07:43 PM",
+    "topic": "Volkswagen plans 30,000 job cuts worldwide",
+    "url": "http://www.bbc.com/news/business",
+    "votes": 4,
+    "posted": "Nov 18, 2016 12:20:36 PM"
   },
   {
     "id": "12985880",
@@ -117,6 +133,14 @@ var newsArray = [
     "url": "http://nullprogram.com/blog/2016/11/17/",
     "votes": 7,
     "posted": "Nov 18, 2016 10:53:10 AM"
+  },
+  {
+    "id": "12985584",
+    "timestamp": "Nov 18, 2016 1:07:43 PM",
+    "topic": "Weekly Inspiration for Designers #77",
+    "url": "https://medium.muz.li/weekly-inspiration-for-designers-77-c6561015893e#.vcqcoq2ve",
+    "votes": 5,
+    "posted": "Nov 18, 2016 10:51:45 AM"
   },
   {
     "id": "12985583",
@@ -8936,37 +8960,5 @@ var newsArray = [
     "url": "http://arstechnica.com/tech-policy/2016/11/fbi-operated-23-tor-hidden-child-porn-sites-deployed-malware-from-them/",
     "votes": 3,
     "posted": "Nov 11, 2016 3:12:05 PM"
-  },
-  {
-    "id": "12930082",
-    "timestamp": "Nov 11, 2016 2:21:10 PM",
-    "topic": "Python 3 is largely ignored",
-    "url": "https://semaphoreci.com/blog/2016/11/11/python-versions-used-in-commercial-projects-2016-edition.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 1:41:30 PM"
-  },
-  {
-    "id": "12930051",
-    "timestamp": "Nov 12, 2016 10:13:02 AM",
-    "topic": "Show HN: Hacker News Night Mode – A Firefox Addon",
-    "url": "https://addons.mozilla.org/en-US/firefox/addon/hacker-news-night-mode/",
-    "votes": 5,
-    "posted": "Nov 11, 2016 1:36:22 PM"
-  },
-  {
-    "id": "12930004",
-    "timestamp": "Nov 11, 2016 2:11:09 PM",
-    "topic": "Voters Backed Donald Trump Because He ‘Just Got It,’ Says Investor Peter Thiel",
-    "url": "http://www.wsj.com/articles/voters-backed-donald-trump-because-he-just-got-it-says-investor-peter-thiel-1478800508",
-    "votes": 12,
-    "posted": "Nov 11, 2016 1:28:34 PM"
-  },
-  {
-    "id": "12929892",
-    "timestamp": "Nov 11, 2016 1:11:03 PM",
-    "topic": "Drchrono (YC W11) Looking for Python/Django Engineers",
-    "url": "https://www.hackerrank.com/tests/527036edb11ff/0ca5532381fbebad9fffaa28dc90475f",
-    "votes": 1,
-    "posted": "Nov 11, 2016 1:05:39 PM"
   }
 ];
