@@ -55,6 +55,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 12:42:55 PM"
   },
   {
+    "id": "12986049",
+    "timestamp": "Nov 18, 2016 3:27:57 PM",
+    "topic": "New Metallica album “HARDWIRED…TO SELF-DESTRUCT” is out",
+    "url": "https://www.youtube.com/playlist?list\u003dPLJvQXRgtxlumAHceNRk3cx3P7MZVUCdBl",
+    "votes": 5,
+    "posted": "Nov 18, 2016 12:39:58 PM"
+  },
+  {
     "id": "12985978",
     "timestamp": "Nov 18, 2016 12:37:39 PM",
     "topic": "Having-a-work-spouse-makes-you-happier",
@@ -222,6 +230,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 10:36:46 AM"
   },
   {
+    "id": "12985517",
+    "timestamp": "Nov 18, 2016 3:37:58 PM",
+    "topic": "Cancer girl, 14, is cryogenically frozen",
+    "url": "http://www.telegraph.co.uk/news/2016/11/18/cancer-girl-14-is-cryogenically-frozen-after-telling-judge-she-w/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 10:35:04 AM"
+  },
+  {
     "id": "12985509",
     "timestamp": "Nov 18, 2016 11:57:36 AM",
     "topic": "Side-Project",
@@ -236,6 +252,14 @@ var newsArray = [
     "url": "https://ia.net/writer/updates/ia-writer-4",
     "votes": 6,
     "posted": "Nov 18, 2016 10:29:58 AM"
+  },
+  {
+    "id": "12985480",
+    "timestamp": "Nov 18, 2016 3:17:56 PM",
+    "topic": "Updating my plane’s very old GPS data in a very modern way",
+    "url": "http://dmitry.gr/index.php?r\u003d05.Projects\u0026proj\u003d21.%20KLN89",
+    "votes": 4,
+    "posted": "Nov 18, 2016 10:25:48 AM"
   },
   {
     "id": "12985397",
@@ -308,6 +332,14 @@ var newsArray = [
     "url": "http://arstechnica.com/business/2016/11/tesla-and-solarcity-shareholders-approve-2-6-billion-merger/",
     "votes": 3,
     "posted": "Nov 18, 2016 7:29:59 AM"
+  },
+  {
+    "id": "12984734",
+    "timestamp": "Nov 18, 2016 3:17:56 PM",
+    "topic": "Obama Reckons with a Trump Presidency",
+    "url": "http://www.newyorker.com/magazine/2016/11/28/obama-reckons-with-a-trump-presidency",
+    "votes": 4,
+    "posted": "Nov 18, 2016 7:14:01 AM"
   },
   {
     "id": "12984709",
@@ -638,6 +670,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 2:52:53 AM"
   },
   {
+    "id": "12983584",
+    "timestamp": "Nov 18, 2016 3:47:59 PM",
+    "topic": "An Alarm Designer on How to Annoy People in the Most Effective Ways",
+    "url": "http://www.atlasobscura.com/articles/an-alarm-designer-on-how-to-annoy-people-in-the-most-effective-ways",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:33:08 AM"
+  },
+  {
     "id": "12983571",
     "timestamp": "Nov 18, 2016 6:57:09 AM",
     "topic": "Microsoft to Retire DataMarket in March 2017",
@@ -699,6 +739,14 @@ var newsArray = [
     "url": "https://docs.google.com/document/d/13TsZoWckcvJpprpL1zU54xsf0Zqm8mfmLkCHZcZbTMI/edit",
     "votes": 4,
     "posted": "Nov 18, 2016 1:48:45 AM"
+  },
+  {
+    "id": "12983222",
+    "timestamp": "Nov 18, 2016 3:27:57 PM",
+    "topic": "The Genius and the Laborer: The Troubled Friendship of Leo Tolstoy and Maxim Gorky",
+    "url": "http://www.laphamsquarterly.org/roundtable/genius-and-laborer",
+    "votes": 3,
+    "posted": "Nov 18, 2016 1:27:27 AM"
   },
   {
     "id": "12983076",
@@ -1090,6 +1138,14 @@ var newsArray = [
     "posted": "Nov 17, 2016 7:17:31 PM"
   },
   {
+    "id": "12979805",
+    "timestamp": "Nov 18, 2016 3:27:57 PM",
+    "topic": "If I Had More Time, I Would Have Written a Shorter Letter (2012)",
+    "url": "http://quoteinvestigator.com/2012/04/28/shorter-letter/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 7:07:58 PM"
+  },
+  {
     "id": "12979749",
     "timestamp": "Nov 18, 2016 12:47:41 PM",
     "topic": "Show HN: Redis-cell, an API rate limiter as a Redis module, written in Rust",
@@ -1467,6 +1523,14 @@ var newsArray = [
     "url": "http://motherboard.vice.com/read/the-fcc-just-caved-in-to-republican-demands-that-it-halt-work-on-major-issues",
     "votes": 3,
     "posted": "Nov 17, 2016 1:00:48 PM"
+  },
+  {
+    "id": "12976508",
+    "timestamp": "Nov 18, 2016 3:37:58 PM",
+    "topic": "Show HN: Daily Curated Color Inspiration",
+    "url": "http://color.farm",
+    "votes": 10,
+    "posted": "Nov 17, 2016 12:40:04 PM"
   },
   {
     "id": "12976393",
@@ -8950,77 +9014,5 @@ var newsArray = [
     "url": "http://arstechnica.co.uk/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/",
     "votes": 6,
     "posted": "Nov 11, 2016 4:00:15 PM"
-  },
-  {
-    "id": "12931113",
-    "timestamp": "Nov 11, 2016 4:21:21 PM",
-    "topic": "The macabre fate of ‘beating heart corpses’",
-    "url": "http://www.bbc.com/future/story/20161103-the-macabre-fate-of-beating-heart-corpses",
-    "votes": 4,
-    "posted": "Nov 11, 2016 3:54:43 PM"
-  },
-  {
-    "id": "12931083",
-    "timestamp": "Nov 11, 2016 7:41:44 PM",
-    "topic": "The BlackNurse Attack [pdf]",
-    "url": "http://soc.tdc.dk/blacknurse/blacknurse.pdf",
-    "votes": 3,
-    "posted": "Nov 11, 2016 3:51:56 PM"
-  },
-  {
-    "id": "12931053",
-    "timestamp": "Nov 11, 2016 4:41:25 PM",
-    "topic": "Grubhub app faces hate reviews in reaction to his email",
-    "url": "https://itunes.apple.com/us/app/grubhub-food-delivery-takeout/id302920553?mt\u003d8",
-    "votes": 4,
-    "posted": "Nov 11, 2016 3:48:23 PM"
-  },
-  {
-    "id": "12931009",
-    "timestamp": "Nov 11, 2016 4:31:24 PM",
-    "topic": "A Very Simple Genetic Algorithm Written in Swift 3",
-    "url": "https://gist.github.com/blainerothrock/efda6e12fe10792c99c990f8ff3daeba",
-    "votes": 5,
-    "posted": "Nov 11, 2016 3:44:47 PM"
-  },
-  {
-    "id": "12930990",
-    "timestamp": "Nov 11, 2016 5:31:31 PM",
-    "topic": "Breakthrough in the quantum transfer of information between matter and light",
-    "url": "http://sciencebulletin.org/archives/7696.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 3:43:00 PM"
-  },
-  {
-    "id": "12930928",
-    "timestamp": "Nov 11, 2016 5:41:32 PM",
-    "topic": "Implementation of Parallel Network File System (pNFS)",
-    "url": "http://calsoftinc.com/resources/whitepapers/implicit-replication-network-file-server/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 3:35:51 PM"
-  },
-  {
-    "id": "12930811",
-    "timestamp": "Nov 11, 2016 3:41:16 PM",
-    "topic": "Brain implants allow paralysed monkeys to walk",
-    "url": "http://www.nature.com/news/brain-implants-allow-paralysed-monkeys-to-walk-1.20967",
-    "votes": 5,
-    "posted": "Nov 11, 2016 3:21:40 PM"
-  },
-  {
-    "id": "12930748",
-    "timestamp": "Nov 11, 2016 4:51:26 PM",
-    "topic": "Fooling Facial Recognition Systems",
-    "url": "https://www.schneier.com/blog/archives/2016/11/fooling_facial_.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 3:13:56 PM"
-  },
-  {
-    "id": "12930735",
-    "timestamp": "Nov 11, 2016 4:01:17 PM",
-    "topic": "FBI operated 23 Tor-hidden child porn sites, deployed malware from them",
-    "url": "http://arstechnica.com/tech-policy/2016/11/fbi-operated-23-tor-hidden-child-porn-sites-deployed-malware-from-them/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 3:12:05 PM"
   }
 ];
