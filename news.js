@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12984454",
+    "timestamp": "Nov 18, 2016 6:47:09 AM",
+    "topic": "A deep learning approach to colorizing images, specifically for Pokemon.",
+    "url": "https://github.com/cameronfabbri/Colorful-Image-Colorization",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:50:27 AM"
+  },
+  {
+    "id": "12984455",
+    "timestamp": "Nov 18, 2016 6:27:07 AM",
+    "topic": "Google, an Obama ally, may face policy setbacks under Trump",
+    "url": "http://www.reuters.com/article/us-usa-trump-google-analysis-idUSKBN13C2XK?utm_campaign\u003dtrueAnthem:+Trending+Content\u0026utm_content\u003d582e61d104d3016d6d9e6a82\u0026utm_medium\u003dtrueAnthem\u0026utm_source\u003dtwitter",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:50:27 AM"
+  },
+  {
     "id": "12984433",
     "timestamp": "Nov 18, 2016 5:57:05 AM",
     "topic": "The reason Silicon Valley beat out Boston for VC dominance",
     "url": "https://hbr.org/2016/11/the-reason-silicon-valley-beat-out-boston-for-vc-dominance",
     "votes": 4,
     "posted": "Nov 18, 2016 5:45:56 AM"
+  },
+  {
+    "id": "12984426",
+    "timestamp": "Nov 18, 2016 6:07:06 AM",
+    "topic": "Stephen Hawking warns humans may have only 1,000 years left on Earth",
+    "url": "https://www.engadget.com/2016/11/17/stephen-hawking-warns-humans-may-have-only-1-000-years-left-on-e/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:44:01 AM"
+  },
+  {
+    "id": "12984335",
+    "timestamp": "Nov 18, 2016 6:07:06 AM",
+    "topic": "Real or not? USC study finds many political tweets come from fake accounts",
+    "url": "http://news.usc.edu/110565/rigged-usc-study-finds-many-political-tweets-come-from-fake-accounts/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 5:24:30 AM"
   },
   {
     "id": "12984234",
@@ -190,6 +222,14 @@ var newsArray = [
     "url": "http://www.esquire.com/news-politics/a49791/russian-dnc-emails-hacked/",
     "votes": 3,
     "posted": "Nov 18, 2016 2:52:53 AM"
+  },
+  {
+    "id": "12983571",
+    "timestamp": "Nov 18, 2016 6:57:09 AM",
+    "topic": "Microsoft to Retire DataMarket in March 2017",
+    "url": "https://social.msdn.microsoft.com/Forums/en-US/1005630f-a6da-4b00-ad4e-adfc968d9416/azure-datamarket-to-retire-on-march-31-2017?forum\u003dDataMarket",
+    "votes": 5,
+    "posted": "Nov 18, 2016 2:29:19 AM"
   },
   {
     "id": "12983554",
@@ -8719,21 +8759,5 @@ var newsArray = [
     "url": "http://graphics.wsj.com/blue-feed-red-feed/#/president-trump",
     "votes": 3,
     "posted": "Nov 11, 2016 7:11:31 AM"
-  },
-  {
-    "id": "12928173",
-    "timestamp": "Nov 11, 2016 7:50:34 AM",
-    "topic": "Is Model-View-Controller dead on the front end?",
-    "url": "https://medium.freecodecamp.com/is-mvc-dead-for-the-frontend-35b4d1fe39ec?imm_mid\u003d0ea80e\u0026cmp\u003dem-web-na-na-newsltr_20161109",
-    "votes": 3,
-    "posted": "Nov 11, 2016 6:21:43 AM"
-  },
-  {
-    "id": "12928172",
-    "timestamp": "Nov 11, 2016 7:00:30 AM",
-    "topic": "6 Reasons for Trump\u0027s Rise That No One Talks About",
-    "url": "http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/?",
-    "votes": 3,
-    "posted": "Nov 11, 2016 6:21:11 AM"
   }
 ];
