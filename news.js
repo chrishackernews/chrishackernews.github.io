@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12987900",
+    "timestamp": "Nov 18, 2016 5:48:10 PM",
+    "topic": "Google reverses its ‘digital death sentence’ for Pixel phone resellers",
+    "url": "https://techcrunch.com/2016/11/18/google-reverses-its-digital-death-sentence-for-pixel-phone-resellers/",
+    "votes": 6,
+    "posted": "Nov 18, 2016 5:30:05 PM"
+  },
+  {
+    "id": "12987699",
+    "timestamp": "Nov 18, 2016 5:28:08 PM",
+    "topic": "Office Depot Diagnosing Computers with Nonexistent Viruses to Meet Sales Goals",
+    "url": "https://consumerist.com/2016/11/16/office-depot-allegedly-diagnosing-computers-with-nonexistent-viruses-to-meet-sales-goals/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 5:08:36 PM"
+  },
+  {
+    "id": "12987635",
+    "timestamp": "Nov 18, 2016 5:58:11 PM",
+    "topic": "IBM rolls out new cloud data services and features on Bluemix",
+    "url": "http://www.zdnet.com/article/ibm-rolls-out-new-cloud-data-services-and-features-on-bluemix/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 5:00:45 PM"
+  },
+  {
+    "id": "12987461",
+    "timestamp": "Nov 18, 2016 5:58:11 PM",
+    "topic": "Show HN: Code2flow – easy flowcharts with no mouse, no dragging and no hassle",
+    "url": "https://code2flow.com",
+    "votes": 12,
+    "posted": "Nov 18, 2016 4:40:44 PM"
+  },
+  {
+    "id": "12987380",
+    "timestamp": "Nov 18, 2016 5:08:07 PM",
+    "topic": "Ultraprecise measurements in XXL",
+    "url": "http://news.fnal.gov/2016/11/ultraprecise-measurements-xxl/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 4:30:07 PM"
+  },
+  {
     "id": "12987123",
     "timestamp": "Nov 18, 2016 4:08:01 PM",
     "topic": "Manifesto for Responsible Software Development",
@@ -56,6 +96,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 3:42:47 PM"
   },
   {
+    "id": "12986840",
+    "timestamp": "Nov 18, 2016 5:48:10 PM",
+    "topic": "How to start a company with no free time",
+    "url": "https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:10:58 PM"
+  },
+  {
     "id": "12986688",
     "timestamp": "Nov 18, 2016 4:48:05 PM",
     "topic": "MacBook Pro 15“ Touch Bar Teardown",
@@ -86,6 +134,14 @@ var newsArray = [
     "url": "https://electrek.co/2016/11/17/tesla-solar-roof-cost-less-than-regular-roof-even-before-energy-production-elon-musk/",
     "votes": 3,
     "posted": "Nov 18, 2016 2:21:10 PM"
+  },
+  {
+    "id": "12986492",
+    "timestamp": "Nov 18, 2016 5:38:09 PM",
+    "topic": "Why did we redesign Thunderbird?",
+    "url": "http://monterail.com/blog/2016/the-power-of-email-clients-why-did-we-redesign-thunderbird/?utm_campaign\u003dThunderbird\u0026utm_medium\u003dsocial\u0026utm_source\u003dhackernews",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:18:16 PM"
   },
   {
     "id": "12986433",
@@ -662,6 +718,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 4:00:43 AM"
   },
   {
+    "id": "12983961",
+    "timestamp": "Nov 18, 2016 5:58:11 PM",
+    "topic": "Priceonomics Idea Tester",
+    "url": "https://priceonomics.com/priceonomics-idea-tester/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:59:56 AM"
+  },
+  {
     "id": "12983939",
     "timestamp": "Nov 18, 2016 4:06:54 AM",
     "topic": "Tech Companies, Fix These Technical Issues Before It’s Too Late",
@@ -851,6 +915,14 @@ var newsArray = [
     "url": "http://www.nbcnews.com/news/us-news/google-think-tank-launches-new-weapon-fight-against-isis-n682036",
     "votes": 3,
     "posted": "Nov 18, 2016 12:55:09 AM"
+  },
+  {
+    "id": "12982982",
+    "timestamp": "Nov 18, 2016 5:28:08 PM",
+    "topic": "Creating the Philosopher\u0027s Stone: The Medieval Science of Color and Alchemy",
+    "url": "http://www.forbes.com/sites/drsarahbond/2016/11/16/creating-the-philosophers-stone-the-medieval-science-of-color-and-alchemy/#5ecde6e14f1f",
+    "votes": 5,
+    "posted": "Nov 18, 2016 12:51:29 AM"
   },
   {
     "id": "12982895",
@@ -8993,67 +9065,5 @@ var newsArray = [
     "url": "http://winds.getstream.io/",
     "votes": 3,
     "posted": "Nov 11, 2016 6:08:12 PM"
-  },
-  {
-    "id": "12932317",
-    "timestamp": "Nov 11, 2016 6:51:38 PM",
-    "topic": "Go, Swift, Rust, Java, C++ – Active GitHub repositories, per month since 2014",
-    "url": "https://github.com/emmanuel-keller/github-language-statistics#number-of-active-repositories-in-github",
-    "votes": 9,
-    "posted": "Nov 11, 2016 5:55:24 PM"
-  },
-  {
-    "id": "12932307",
-    "timestamp": "Nov 12, 2016 6:52:45 AM",
-    "topic": "Facebook Says It Will Stop Allowing Some Advertisers to Exclude Users by Race",
-    "url": "https://www.propublica.org/article/facebook-to-stop-allowing-some-advertisers-to-exclude-users-by-race",
-    "votes": 6,
-    "posted": "Nov 11, 2016 5:54:04 PM"
-  },
-  {
-    "id": "12932175",
-    "timestamp": "Nov 11, 2016 6:01:33 PM",
-    "topic": "Donald Trump may end net neutrality and bring a rise in zero-rating",
-    "url": "http://www.businessinsider.com/donald-trump-fcc-net-neutrality-zero-rating-policy-future-2016-11",
-    "votes": 3,
-    "posted": "Nov 11, 2016 5:39:01 PM"
-  },
-  {
-    "id": "12932011",
-    "timestamp": "Nov 11, 2016 6:01:34 PM",
-    "topic": "Millions of ordinary Americans support Donald Trump. Here\u0027s why",
-    "url": "https://www.theguardian.com/commentisfree/2016/mar/07/donald-trump-why-americans-support",
-    "votes": 3,
-    "posted": "Nov 11, 2016 5:20:34 PM"
-  },
-  {
-    "id": "12931994",
-    "timestamp": "Nov 11, 2016 8:21:48 PM",
-    "topic": "An XMPP IM Platform with REST API Ease: MongooseIM 2.0.0 [Webinar 24 Nov]",
-    "url": "https://www.erlang-solutions.com/resources/webinars.html#/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 5:18:34 PM"
-  },
-  {
-    "id": "12931943",
-    "timestamp": "Nov 11, 2016 7:41:44 PM",
-    "topic": "Ask HN: What will happen to Obama\u0027s new “startup visa”?",
-    "votes": 4,
-    "posted": "Nov 11, 2016 5:14:17 PM"
-  },
-  {
-    "id": "12931888",
-    "timestamp": "Nov 11, 2016 7:31:42 PM",
-    "topic": "Nginx on Autopilot: easy scaling and automatic SSL",
-    "url": "https://www.joyent.com/blog/nginx-and-letsencrypt-on-autopilot",
-    "votes": 3,
-    "posted": "Nov 11, 2016 5:08:34 PM"
-  },
-  {
-    "id": "12931885",
-    "timestamp": "Nov 11, 2016 7:31:43 PM",
-    "topic": "Ask HN: Hands hurts from coding too long?",
-    "votes": 3,
-    "posted": "Nov 11, 2016 5:08:24 PM"
   }
 ];
