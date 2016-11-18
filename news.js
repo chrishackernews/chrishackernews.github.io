@@ -1,5 +1,93 @@
 var newsArray = [
   {
+    "id": "12984023",
+    "timestamp": "Nov 18, 2016 4:36:58 AM",
+    "topic": "Chinese scientists use gene-editing techniques (CRISPR-Cas9) in humans",
+    "url": "http://www.cnn.com/2016/11/15/health/china-human-gene-testing-crispr-cas9/index.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:20:57 AM"
+  },
+  {
+    "id": "12984006",
+    "timestamp": "Nov 18, 2016 4:16:56 AM",
+    "topic": "Facebook Exaggerated Key Ad Metrics",
+    "url": "http://nypost.com/2016/11/17/facebooks-ad-metric-problem-is-becoming-zuckerbergs-headache/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:14:23 AM"
+  },
+  {
+    "id": "12983998",
+    "timestamp": "Nov 18, 2016 4:16:55 AM",
+    "topic": "Gusto is hiring a Site Reliability Engineer in SF to help us scale",
+    "url": "https://boards.greenhouse.io/gusto/jobs/33667",
+    "votes": 1,
+    "posted": "Nov 18, 2016 4:11:35 AM"
+  },
+  {
+    "id": "12983982",
+    "timestamp": "Nov 18, 2016 4:57:00 AM",
+    "topic": "Fake News on Facebook? In Foreign Elections, That’s Not New",
+    "url": "http://www.nytimes.com/2016/11/18/technology/fake-news-on-facebook-in-foreign-elections-thats-not-new.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:06:54 AM"
+  },
+  {
+    "id": "12983965",
+    "timestamp": "Nov 18, 2016 4:26:57 AM",
+    "topic": "OpenAI and Microsoft",
+    "url": "https://openai.com/blog/openai-and-microsoft/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:01:45 AM"
+  },
+  {
+    "id": "12983963",
+    "timestamp": "Nov 18, 2016 4:36:58 AM",
+    "topic": "One Behavior Separates the Successful from the Average",
+    "url": "https://medium.com/the-mission/one-behavior-separates-the-successful-from-the-average-936f7ff04793#.l8otxkroa",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:00:43 AM"
+  },
+  {
+    "id": "12983939",
+    "timestamp": "Nov 18, 2016 4:06:54 AM",
+    "topic": "Tech Companies, Fix These Technical Issues Before It’s Too Late",
+    "url": "https://www.eff.org/deeplinks/2016/11/tech-companies-fix-these-technical-issues-its-too-late",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:54:09 AM"
+  },
+  {
+    "id": "12983934",
+    "timestamp": "Nov 18, 2016 4:16:55 AM",
+    "topic": "Introducing code reviews to a team – Part 1",
+    "url": "http://www.depthinfinity.com/2016/03/introducing-code-reviews-to-a-team-part-1/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:52:48 AM"
+  },
+  {
+    "id": "12983874",
+    "timestamp": "Nov 18, 2016 4:16:56 AM",
+    "topic": "Police are using software to predict crime. Is it biased against minorities?",
+    "url": "https://www.washingtonpost.com/local/public-safety/police-are-using-software-to-predict-crime-is-it-a-holy-grail-or-biased-against-minorities/2016/11/17/525a6649-0472-440a-aae1-b283aa8e5de8_story.html",
+    "votes": 4,
+    "posted": "Nov 18, 2016 3:37:11 AM"
+  },
+  {
+    "id": "12983841",
+    "timestamp": "Nov 18, 2016 4:16:56 AM",
+    "topic": "Why the World Needs WikiLeaks",
+    "url": "http://www.nytimes.com/2016/11/17/opinion/why-the-world-needs-wikileaks.html",
+    "votes": 6,
+    "posted": "Nov 18, 2016 3:30:42 AM"
+  },
+  {
+    "id": "12983827",
+    "timestamp": "Nov 18, 2016 4:06:54 AM",
+    "topic": "Automated Inference on Criminality Using Face Images",
+    "url": "https://arxiv.org/abs/1611.04135",
+    "votes": 5,
+    "posted": "Nov 18, 2016 3:27:53 AM"
+  },
+  {
     "id": "12983798",
     "timestamp": "Nov 18, 2016 3:56:54 AM",
     "topic": "Clones: If Apple doesn’t want to innovate the desktop Mac, it should let others",
@@ -24,12 +112,28 @@ var newsArray = [
     "posted": "Nov 18, 2016 3:05:17 AM"
   },
   {
+    "id": "12983669",
+    "timestamp": "Nov 18, 2016 4:16:56 AM",
+    "topic": "How Russia Pulled Off the Biggest Election Hack in U.S. History",
+    "url": "http://www.esquire.com/news-politics/a49791/russian-dnc-emails-hacked/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:52:53 AM"
+  },
+  {
     "id": "12983554",
     "timestamp": "Nov 18, 2016 3:26:51 AM",
     "topic": "Trump offers retired Lt. Gen. Michael Flynn the job of national security adviser",
     "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/17/trump-offers-retired-lt-gen-michael-flynn-the-job-of-national-security-adviser-a-person-close-to-the-transition-says/",
     "votes": 5,
     "posted": "Nov 18, 2016 2:26:49 AM"
+  },
+  {
+    "id": "12983509",
+    "timestamp": "Nov 18, 2016 4:26:57 AM",
+    "topic": "New Way of Transforming CO2 Is More Efficient Than What Plants Do",
+    "url": "http://www.popularmechanics.com/science/energy/a23938/fix-carbon-dioxide-useful-products/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:20:15 AM"
   },
   {
     "id": "12983507",
@@ -62,6 +166,14 @@ var newsArray = [
     "url": "https://www.techdirt.com/articles/20161117/09343936070/why-twitters-alt-right-banning-campaign-will-become-alt-rights-best-recruitment-tool.shtml",
     "votes": 3,
     "posted": "Nov 18, 2016 1:04:39 AM"
+  },
+  {
+    "id": "12983027",
+    "timestamp": "Nov 18, 2016 4:06:55 AM",
+    "topic": "Digital nomads social network",
+    "url": "http://www.social-nomads.com",
+    "votes": 3,
+    "posted": "Nov 18, 2016 12:56:43 AM"
   },
   {
     "id": "12983013",
@@ -125,6 +237,14 @@ var newsArray = [
     "url": "http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/",
     "votes": 20,
     "posted": "Nov 17, 2016 11:39:46 PM"
+  },
+  {
+    "id": "12982353",
+    "timestamp": "Nov 18, 2016 4:06:55 AM",
+    "topic": "Privacy made simple with Firefox Focus",
+    "url": "https://blog.mozilla.org/blog/2016/11/17/privacy-made-simple-with-firefox-focus/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 11:30:34 PM"
   },
   {
     "id": "12982339",
@@ -292,6 +412,14 @@ var newsArray = [
     "url": "http://www.csmonitor.com/USA/2016/1116/Iowa-bill-named-Suck-it-up-Buttercup-seeks-to-stop-student-coddling",
     "votes": 7,
     "posted": "Nov 17, 2016 9:26:04 PM"
+  },
+  {
+    "id": "12981119",
+    "timestamp": "Nov 18, 2016 4:46:59 AM",
+    "topic": "In two weeks, it will be easier for Uncle Sam to search your computer",
+    "url": "http://arstechnica.com/tech-policy/2016/11/judges-getting-new-powers-to-expand-electronic-surveillance-state/",
+    "votes": 3,
+    "posted": "Nov 17, 2016 9:22:22 PM"
   },
   {
     "id": "12981114",
@@ -1936,6 +2064,14 @@ var newsArray = [
     "url": "https://www.tizen.org/blogs/dh0922/2016/tizen-.net-developer-preview",
     "votes": 5,
     "posted": "Nov 16, 2016 6:46:08 PM"
+  },
+  {
+    "id": "12969363",
+    "timestamp": "Nov 18, 2016 4:36:58 AM",
+    "topic": "Show HN: #CrissCross- Naive AI Enabled Tic-Tac-Toe Game",
+    "url": "https://github.com/MinhasKamal/TicTacToe",
+    "votes": 4,
+    "posted": "Nov 16, 2016 6:43:12 PM"
   },
   {
     "id": "12969185",
@@ -8567,68 +8703,5 @@ var newsArray = [
     "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.7zevfjrzi",
     "votes": 11,
     "posted": "Nov 11, 2016 5:06:12 AM"
-  },
-  {
-    "id": "12927570",
-    "timestamp": "Nov 11, 2016 9:00:40 AM",
-    "topic": "Facebook forces user to use messenger on mobile site",
-    "votes": 5,
-    "posted": "Nov 11, 2016 4:52:55 AM"
-  },
-  {
-    "id": "12927560",
-    "timestamp": "Nov 11, 2016 5:00:18 AM",
-    "topic": "Bodyport (YC S15) Is Hiring a Data Engineer",
-    "url": "https://jobs.lever.co/bodyport/994596b9-13c1-4f61-a89f-b4033e233232",
-    "votes": 1,
-    "posted": "Nov 11, 2016 4:51:37 AM"
-  },
-  {
-    "id": "12927527",
-    "timestamp": "Nov 12, 2016 4:13:32 PM",
-    "topic": "Can We Escape from Time?",
-    "url": "http://www.nybooks.com/articles/2016/11/24/can-we-escape-from-time-james-gleick/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 4:47:15 AM"
-  },
-  {
-    "id": "12927451",
-    "timestamp": "Nov 11, 2016 7:30:33 AM",
-    "topic": "Pollsters who predicted Trump win benefit from industry\u0027s miss",
-    "url": "http://www.reuters.com/article/us-usa-election-polling-industry-idUSKBN136015",
-    "votes": 3,
-    "posted": "Nov 11, 2016 4:36:27 AM"
-  },
-  {
-    "id": "12927432",
-    "timestamp": "Nov 11, 2016 5:20:19 AM",
-    "topic": "HTC Vive Goes Wireless with $220 Add-On",
-    "url": "http://uploadvr.com/htc-vive-wireless-kit/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 4:33:49 AM"
-  },
-  {
-    "id": "12927317",
-    "timestamp": "Nov 11, 2016 12:00:56 PM",
-    "topic": "Track Donald J Trump\u0027s Electoral Promises with Trump Tracker",
-    "url": "https://trumptracker.github.io/",
-    "votes": 8,
-    "posted": "Nov 11, 2016 4:18:38 AM"
-  },
-  {
-    "id": "12927293",
-    "timestamp": "Nov 12, 2016 2:13:22 PM",
-    "topic": "The Art of Hidden Faces: Anthropomorphic Landscapes",
-    "url": "http://publicdomainreview.org/collections/the-art-of-hidden-faces-anthropomorphic-landscapes/",
-    "votes": 5,
-    "posted": "Nov 11, 2016 4:14:31 AM"
-  },
-  {
-    "id": "12927173",
-    "timestamp": "Nov 11, 2016 4:40:16 AM",
-    "topic": "A Glance into Web Tech.-Based Text Editors\u0027 Text Management",
-    "url": "https://ecc-comp.blogspot.com/2016/11/a-glance-into-web-tech-based-text.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 3:58:31 AM"
   }
 ];
