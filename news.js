@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12985114",
+    "timestamp": "Nov 18, 2016 9:27:22 AM",
+    "topic": "WikipediaP2P",
+    "url": "https://www.wikipediap2p.org/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 8:56:54 AM"
+  },
+  {
     "id": "12985074",
     "timestamp": "Nov 18, 2016 8:57:20 AM",
     "topic": "Kaspersky OS",
     "url": "https://eugene.kaspersky.com/2016/11/15/finally-our-own-os-oh-yes/",
     "votes": 5,
     "posted": "Nov 18, 2016 8:42:39 AM"
+  },
+  {
+    "id": "12985041",
+    "timestamp": "Nov 18, 2016 9:27:22 AM",
+    "topic": "Dreaming in Reverse Engineering",
+    "url": "https://sweetcode.io/dreaming-reverse-engineering/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 8:33:47 AM"
   },
   {
     "id": "12985032",
