@@ -1,5 +1,60 @@
 var newsArray = [
   {
+    "id": "12990410",
+    "timestamp": "Nov 18, 2016 10:58:56 PM",
+    "topic": "PiinPoint (YC W14) Is Hiring in Spatial Statistics/Data Science (Waterloo,CA)",
+    "url": "https://angel.co/piinpoint/jobs/",
+    "votes": 1,
+    "posted": "Nov 18, 2016 10:55:29 PM"
+  },
+  {
+    "id": "12990339",
+    "timestamp": "Nov 18, 2016 10:58:56 PM",
+    "topic": "China using CRISPR for Cancer on Live Humans",
+    "url": "https://www.wired.com/2016/11/china-used-crispr-fight-cancer-real-live-human/?mbid\u003dsocial_fb",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:45:38 PM"
+  },
+  {
+    "id": "12990311",
+    "timestamp": "Nov 18, 2016 10:48:54 PM",
+    "topic": "A Mirai Botnet infection in real time",
+    "url": "https://storify.com/yurisagalov/rob-graham",
+    "votes": 4,
+    "posted": "Nov 18, 2016 10:41:12 PM"
+  },
+  {
+    "id": "12990179",
+    "timestamp": "Nov 18, 2016 10:58:56 PM",
+    "topic": "Net neutrality: Battles are being won, but the war\u0027s still raging",
+    "url": "http://www.digitaljournal.com/tech-and-science/technology/net-neutrality-battles-are-being-won-but-the-war-s-still-raging/article/479907",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:20:36 PM"
+  },
+  {
+    "id": "12990111",
+    "timestamp": "Nov 18, 2016 10:38:54 PM",
+    "topic": "Ask HN: Books you would recommended for starting out in product management?",
+    "votes": 4,
+    "posted": "Nov 18, 2016 10:11:32 PM"
+  },
+  {
+    "id": "12990073",
+    "timestamp": "Nov 18, 2016 10:28:47 PM",
+    "topic": "Tell Trump How to Make America Great",
+    "url": "https://apply.ptt.gov/yourstory/",
+    "votes": 7,
+    "posted": "Nov 18, 2016 10:06:00 PM"
+  },
+  {
+    "id": "12989901",
+    "timestamp": "Nov 18, 2016 10:08:45 PM",
+    "topic": "The Non-Technical Guide to Machine Learning and Artificial Intelligence",
+    "url": "https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0#.a8xlu9uin",
+    "votes": 4,
+    "posted": "Nov 18, 2016 9:40:32 PM"
+  },
+  {
     "id": "12989729",
     "timestamp": "Nov 18, 2016 9:48:42 PM",
     "topic": "New drug dispenser may turn human beings into chemical weapons",
@@ -238,6 +293,14 @@ var newsArray = [
     "url": "https://code2flow.com",
     "votes": 12,
     "posted": "Nov 18, 2016 4:40:44 PM"
+  },
+  {
+    "id": "12987384",
+    "timestamp": "Nov 18, 2016 10:28:47 PM",
+    "topic": "Show HN: Use AWS ECR and Hyper.sh to run a Hubot bot for less than $3 per month",
+    "url": "https://hyper.sh/howto/how-to-use-hyper.sh-and-ecr-to-run-a-hubot-for-3-dollars-per-month.html",
+    "votes": 8,
+    "posted": "Nov 18, 2016 4:30:47 PM"
   },
   {
     "id": "12987380",
@@ -8907,108 +8970,5 @@ var newsArray = [
     "topic": "Show HN: The Lean Party",
     "votes": 3,
     "posted": "Nov 11, 2016 11:01:19 PM"
-  },
-  {
-    "id": "12934835",
-    "timestamp": "Nov 11, 2016 11:12:05 PM",
-    "topic": "‘I had it easy: I was never beaten’: fighting segregation in the US south",
-    "url": "https://www.theguardian.com/us-news/2016/nov/11/sit-in-atlanta-georgia-1963-all-white-restaurant",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:55:51 PM"
-  },
-  {
-    "id": "12934795",
-    "timestamp": "Nov 12, 2016 12:22:11 AM",
-    "topic": "History Tells Us What Will Happen Next with Brexit and Trump",
-    "url": "http://www.huffingtonpost.com/tobias-stone/history-tells-us-what-will-brexit-trump_b_11179774.html?",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:52:24 PM"
-  },
-  {
-    "id": "12934759",
-    "timestamp": "Nov 11, 2016 11:12:06 PM",
-    "topic": "Trump\u0027s opposition to H-1B visas has experts concerned",
-    "url": "http://www.techrepublic.com/article/trumps-opposition-to-h-1b-visas-has-experts-concerned-about-filling-high-skilled-jobs/?linkId\u003d31056932",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:47:38 PM"
-  },
-  {
-    "id": "12934692",
-    "timestamp": "Nov 12, 2016 2:02:20 AM",
-    "topic": "Fooled by Randomness, with the Narrative to Prove It",
-    "url": "http://ritholtz.com/2016/11/fooled-randomness-narrative-prove/?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+TheBigPicture+%28The+Big+Picture%29",
-    "votes": 3,
-    "posted": "Nov 11, 2016 10:42:01 PM"
-  },
-  {
-    "id": "12934649",
-    "timestamp": "Nov 11, 2016 10:52:03 PM",
-    "topic": "See You in Court. It\u0027s Time to Fight",
-    "url": "https://action.aclu.org/secure/timetofight",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:39:28 PM"
-  },
-  {
-    "id": "12934634",
-    "timestamp": "Nov 12, 2016 12:52:14 AM",
-    "topic": "Trump Wants to Keep Parts of ACA: Pre-Existing Conditions and Coverage to Age 27",
-    "url": "http://www.wsj.com/articles/donald-trump-willing-to-keep-parts-of-health-law-1478895339",
-    "votes": 7,
-    "posted": "Nov 11, 2016 10:37:49 PM"
-  },
-  {
-    "id": "12934617",
-    "timestamp": "Nov 12, 2016 1:12:16 AM",
-    "topic": "Ask HN: What are good resources for studying Dynamic Programming?",
-    "votes": 5,
-    "posted": "Nov 11, 2016 10:36:08 PM"
-  },
-  {
-    "id": "12934493",
-    "timestamp": "Nov 11, 2016 10:52:03 PM",
-    "topic": "Farewell, America",
-    "url": "http://billmoyers.com/story/farewell-america/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:23:48 PM"
-  },
-  {
-    "id": "12934423",
-    "timestamp": "Nov 12, 2016 2:02:20 AM",
-    "topic": "Snapchat Spectacles – here\u0027s what it\u0027s like",
-    "url": "https://www.cnet.com/products/snapchat-spectacles/preview/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 10:18:56 PM"
-  },
-  {
-    "id": "12934420",
-    "timestamp": "Nov 11, 2016 11:02:04 PM",
-    "topic": "Commander-In-Chief Donald Trump Will Have Terrifying Powers. Thanks, Obama",
-    "url": "https://theintercept.com/2016/11/11/commander-in-chief-donald-trump-will-have-terrifying-powers-thanks-obama/",
-    "votes": 5,
-    "posted": "Nov 11, 2016 10:18:42 PM"
-  },
-  {
-    "id": "12934388",
-    "timestamp": "Nov 11, 2016 10:52:04 PM",
-    "topic": "Y Combinator blacklists founder of Gab.ai for saying “build the wall”",
-    "url": "https://twitter.com/torbahax/status/797180049698983936",
-    "votes": 5,
-    "posted": "Nov 11, 2016 10:13:59 PM"
-  },
-  {
-    "id": "12934374",
-    "timestamp": "Nov 11, 2016 10:42:02 PM",
-    "topic": "D\u0026D rolls a 20, makes it into the Toy Hall of Fame this year",
-    "url": "http://arstechnica.com/gaming/2016/11/dd-rolls-a-20-makes-it-into-the-toy-hall-of-fame-this-year/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 10:12:01 PM"
-  },
-  {
-    "id": "12934310",
-    "timestamp": "Nov 11, 2016 10:12:00 PM",
-    "topic": "Surveillance Self Defence",
-    "url": "https://ssd.eff.org/",
-    "votes": 5,
-    "posted": "Nov 11, 2016 10:03:04 PM"
   }
 ];
