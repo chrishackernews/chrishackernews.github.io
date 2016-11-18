@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12985074",
+    "timestamp": "Nov 18, 2016 8:57:20 AM",
+    "topic": "Kaspersky OS",
+    "url": "https://eugene.kaspersky.com/2016/11/15/finally-our-own-os-oh-yes/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 8:42:39 AM"
+  },
+  {
+    "id": "12985032",
+    "timestamp": "Nov 18, 2016 8:47:19 AM",
+    "topic": "China’s Happy to Take U.S. Tech Immigrants That Trump Blocks",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-18/china-s-happy-to-take-u-s-tech-immigrants-that-trump-blocks",
+    "votes": 6,
+    "posted": "Nov 18, 2016 8:32:16 AM"
+  },
+  {
     "id": "12984831",
     "timestamp": "Nov 18, 2016 7:47:14 AM",
     "topic": "Captain401 (YC S15) is hiring engineers to help more businesses offer a 401(k)",
@@ -30,6 +46,14 @@ var newsArray = [
     "url": "https://theintercept.com/document/2016/11/16/skidrowe-program/",
     "votes": 3,
     "posted": "Nov 18, 2016 6:30:01 AM"
+  },
+  {
+    "id": "12984588",
+    "timestamp": "Nov 18, 2016 8:17:17 AM",
+    "topic": "Jay W. Forrester Dies at 98; a Pioneer in Computer Models",
+    "url": "http://www.nytimes.com/2016/11/18/technology/jay-forrester-dead.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 6:28:48 AM"
   },
   {
     "id": "12984572",
@@ -286,6 +310,14 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1611.04135",
     "votes": 5,
     "posted": "Nov 18, 2016 3:27:53 AM"
+  },
+  {
+    "id": "12983801",
+    "timestamp": "Nov 18, 2016 8:17:17 AM",
+    "topic": "Why Power Women Are Micro-Dosing LSD at Work",
+    "url": "http://www.marieclaire.com/culture/news/a23669/power-women-microdosing-lsd/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 3:22:55 AM"
   },
   {
     "id": "12983798",
@@ -598,6 +630,14 @@ var newsArray = [
     "posted": "Nov 17, 2016 9:48:55 PM"
   },
   {
+    "id": "12981389",
+    "timestamp": "Nov 18, 2016 8:17:17 AM",
+    "topic": "Opus Codec: royalty-free, better quality and lower latency than Vorbis/AAC/MP3",
+    "url": "http://www.opus-codec.org/comparison/",
+    "votes": 6,
+    "posted": "Nov 17, 2016 9:48:45 PM"
+  },
+  {
     "id": "12981289",
     "timestamp": "Nov 17, 2016 9:56:21 PM",
     "topic": "Just Started the Hawaii iOS Developer Meetup",
@@ -826,6 +866,14 @@ var newsArray = [
     "url": "https://deis.com/blog/2016/helm-is-now-stable/",
     "votes": 9,
     "posted": "Nov 17, 2016 6:14:24 PM"
+  },
+  {
+    "id": "12979270",
+    "timestamp": "Nov 18, 2016 8:57:20 AM",
+    "topic": "Show HN: Video conferencing web app with positioned audio",
+    "url": "https://inthelocus.com",
+    "votes": 5,
+    "posted": "Nov 17, 2016 6:13:13 PM"
   },
   {
     "id": "12979195",
@@ -8776,69 +8824,5 @@ var newsArray = [
     "url": "http://advances.sciencemag.org/content/2/11/e1501923",
     "votes": 3,
     "posted": "Nov 11, 2016 10:09:40 AM"
-  },
-  {
-    "id": "12928758",
-    "timestamp": "Nov 11, 2016 3:21:14 PM",
-    "topic": "Finland to Become the First Country in World to Get Rid of All School Subjects",
-    "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 8:42:16 AM"
-  },
-  {
-    "id": "12928733",
-    "timestamp": "Nov 11, 2016 3:11:13 PM",
-    "topic": "Why robots, not trade, are behind so many factory job losses",
-    "url": "http://www.chicagotribune.com/bluesky/technology/ct-robots-trade-factory-job-losses-ap-bsi-20161103-story.html",
-    "votes": 4,
-    "posted": "Nov 11, 2016 8:35:46 AM"
-  },
-  {
-    "id": "12928694",
-    "timestamp": "Nov 11, 2016 8:50:39 AM",
-    "topic": "Cohen v. Trump",
-    "url": "http://www.plainsite.org/dockets/2ict5dwyt/california-southern-district-court/cohen-v-trump/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:24:16 AM"
-  },
-  {
-    "id": "12928693",
-    "timestamp": "Nov 11, 2016 8:30:37 AM",
-    "topic": "Gigster (on demand software development) is hiring in engineering and sales",
-    "url": "https://jobs.lever.co/gigster",
-    "votes": 1,
-    "posted": "Nov 11, 2016 8:24:01 AM"
-  },
-  {
-    "id": "12928683",
-    "timestamp": "Nov 11, 2016 10:40:49 AM",
-    "topic": "Tesla Model S is great, except",
-    "url": "https://medium.com/@michaelmeier_90534/tesla-model-s-is-great-except-1638f3f4d96f#.cjg00xmfp",
-    "votes": 4,
-    "posted": "Nov 11, 2016 8:22:29 AM"
-  },
-  {
-    "id": "12928682",
-    "timestamp": "Nov 11, 2016 11:10:52 AM",
-    "topic": "Supermoon science: November 2016 moon biggest and brightest in 60 years",
-    "url": "https://www.theguardian.com/science/2016/nov/10/the-science-of-supermoons-the-lunar-lowdown-on-the-biggest-and-brightest-in-60-years",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:22:00 AM"
-  },
-  {
-    "id": "12928666",
-    "timestamp": "Nov 11, 2016 9:20:44 AM",
-    "topic": "Liberating the Smalltalk lurking in C and Unix",
-    "url": "https://www.youtube.com/watch?v\u003dLwicN2u6Dro",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:18:13 AM"
-  },
-  {
-    "id": "12928598",
-    "timestamp": "Nov 11, 2016 9:00:40 AM",
-    "topic": "Complete Study of Factors Contributing to Air Pollution",
-    "url": "https://www.analyticsvidhya.com/blog/2016/10/complete-study-of-factors-contributing-to-air-pollution/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 8:01:39 AM"
   }
 ];
