@@ -1,5 +1,77 @@
 var newsArray = [
   {
+    "id": "12984433",
+    "timestamp": "Nov 18, 2016 5:57:05 AM",
+    "topic": "The reason Silicon Valley beat out Boston for VC dominance",
+    "url": "https://hbr.org/2016/11/the-reason-silicon-valley-beat-out-boston-for-vc-dominance",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:45:56 AM"
+  },
+  {
+    "id": "12984234",
+    "timestamp": "Nov 18, 2016 5:37:03 AM",
+    "topic": "Elon Musk Says His Smart Solar Roof Could Cost Less Than Regular Roof",
+    "url": "http://gizmodo.com/elon-musk-says-his-smart-solar-roof-could-cost-less-tha-1789121778",
+    "votes": 6,
+    "posted": "Nov 18, 2016 5:04:34 AM"
+  },
+  {
+    "id": "12984224",
+    "timestamp": "Nov 18, 2016 5:37:03 AM",
+    "topic": "Amazon is expanding Prime Video service to over 200 nations",
+    "url": "http://mashable.com/2016/11/18/amazon-global-expansion-grand-tour-200-nations",
+    "votes": 5,
+    "posted": "Nov 18, 2016 5:02:37 AM"
+  },
+  {
+    "id": "12984191",
+    "timestamp": "Nov 18, 2016 5:37:03 AM",
+    "topic": "Bounty program for improvements to Tcl and certain Tcl packages",
+    "url": "https://github.com/flightaware/Tcl-bounties",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:56:54 AM"
+  },
+  {
+    "id": "12984156",
+    "timestamp": "Nov 18, 2016 5:07:01 AM",
+    "topic": "In under 24 hours, two people will die unless we get drones out to Joshua Tree",
+    "url": "https://twitter.com/emblem21CEO/status/799458786792439808",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:50:08 AM"
+  },
+  {
+    "id": "12984135",
+    "timestamp": "Nov 18, 2016 5:47:04 AM",
+    "topic": "The Josephus Problem",
+    "url": "https://www.youtube.com/watch?v\u003duCsD3ZGzMgE",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:45:35 AM"
+  },
+  {
+    "id": "12984121",
+    "timestamp": "Nov 18, 2016 5:07:01 AM",
+    "topic": "20B bbl of oil found in Texas\u0027 Permian Basin",
+    "url": "https://www.theguardian.com/environment/2016/nov/17/untapped-oil-texas-permian-basin-900-billion",
+    "votes": 4,
+    "posted": "Nov 18, 2016 4:43:26 AM"
+  },
+  {
+    "id": "12984093",
+    "timestamp": "Nov 18, 2016 5:07:01 AM",
+    "topic": "Fake News on Facebook? In Foreign Elections, That’s Not New",
+    "url": "http://www.nytimes.com/2016/11/18/technology/fake-news-on-facebook-in-foreign-elections-thats-not-new.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003db-lede-package-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
+    "votes": 4,
+    "posted": "Nov 18, 2016 4:37:12 AM"
+  },
+  {
+    "id": "12984077",
+    "timestamp": "Nov 18, 2016 5:07:00 AM",
+    "topic": "Domino raises $10.5M in funding for collaborative, reproducible data science",
+    "url": "https://blog.dominodatalab.com/domino-raises-10-5m-in-funding-for-collaborative-reproducible-data-science/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 4:34:04 AM"
+  },
+  {
     "id": "12984023",
     "timestamp": "Nov 18, 2016 4:36:58 AM",
     "topic": "Chinese scientists use gene-editing techniques (CRISPR-Cas9) in humans",
@@ -8663,45 +8735,5 @@ var newsArray = [
     "url": "http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/?",
     "votes": 3,
     "posted": "Nov 11, 2016 6:21:11 AM"
-  },
-  {
-    "id": "12928001",
-    "timestamp": "Nov 11, 2016 7:20:32 AM",
-    "topic": "Is There Anything Good About Men?",
-    "url": "http://www.denisdutton.com/baumeister.htm",
-    "votes": 10,
-    "posted": "Nov 11, 2016 5:55:54 AM"
-  },
-  {
-    "id": "12927861",
-    "timestamp": "Nov 11, 2016 6:50:29 AM",
-    "topic": "Let\u0027s Encrypt Team – Reddit AMA",
-    "url": "https://np.reddit.com/r/IAmA/comments/5c9ku9/lets_encrypt_team_a_nonprofit_working_to_secure/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 5:33:16 AM"
-  },
-  {
-    "id": "12927850",
-    "timestamp": "Nov 11, 2016 6:20:24 AM",
-    "topic": "I’m a Coastal Elite from the Midwest: The Real Bubble Is Rural America",
-    "url": "http://www.rollcall.com/im-a-coastal-elite-from-the-midwest-the-real-bubble-is-rural-america",
-    "votes": 6,
-    "posted": "Nov 11, 2016 5:31:40 AM"
-  },
-  {
-    "id": "12927723",
-    "timestamp": "Nov 11, 2016 5:50:22 AM",
-    "topic": "IBM and the Holocaust",
-    "url": "https://en.wikipedia.org/wiki/IBM_and_the_Holocaust",
-    "votes": 3,
-    "posted": "Nov 11, 2016 5:15:51 AM"
-  },
-  {
-    "id": "12927657",
-    "timestamp": "Nov 11, 2016 5:20:20 AM",
-    "topic": "Why I’m Leaving the Thiel Fellowship",
-    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.7zevfjrzi",
-    "votes": 11,
-    "posted": "Nov 11, 2016 5:06:12 AM"
   }
 ];
