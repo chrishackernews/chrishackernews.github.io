@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "12984831",
+    "timestamp": "Nov 18, 2016 7:47:14 AM",
+    "topic": "Captain401 (YC S15) is hiring engineers to help more businesses offer a 401(k)",
+    "url": "https://captain401.com/careers",
+    "votes": 1,
+    "posted": "Nov 18, 2016 7:39:21 AM"
+  },
+  {
+    "id": "12984709",
+    "timestamp": "Nov 18, 2016 7:57:15 AM",
+    "topic": "Koto.js – a D3.js charting framework written in ES6",
+    "url": "http://kotojs.org/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 7:06:39 AM"
+  },
+  {
+    "id": "12984668",
+    "timestamp": "Nov 18, 2016 7:17:11 AM",
+    "topic": "Kubernetes Founders Launched Startup Heptio to Bring Containers to Enterprise",
+    "url": "http://blog.calsoftinc.com/industry_insights/kubernetes-founders-create-company-heptio-to-bring-kubernetes-and-containers-to-the-enterprise",
+    "votes": 4,
+    "posted": "Nov 18, 2016 6:54:43 AM"
+  },
+  {
+    "id": "12984592",
+    "timestamp": "Nov 18, 2016 7:17:11 AM",
+    "topic": "NSA SKIDROWE program",
+    "url": "https://theintercept.com/document/2016/11/16/skidrowe-program/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 6:30:01 AM"
+  },
+  {
+    "id": "12984572",
+    "timestamp": "Nov 18, 2016 7:27:13 AM",
+    "topic": "Lazarus 1.6.2 – Released",
+    "url": "http://forum.lazarus.freepascal.org/index.php/topic,34807.0.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 6:23:54 AM"
+  },
+  {
+    "id": "12984547",
+    "timestamp": "Nov 18, 2016 7:07:10 AM",
+    "topic": "The Trump effect? Apple \u0027could start building iPhones in the US\u0027",
+    "url": "http://www.dailymail.co.uk/news/article-3947626/The-Trump-effect-Apple-looking-assembling-iPhones-outsourcing-abroad.html?ito\u003dsocial-facebook",
+    "votes": 3,
+    "posted": "Nov 18, 2016 6:17:41 AM"
+  },
+  {
+    "id": "12984507",
+    "timestamp": "Nov 18, 2016 7:17:11 AM",
+    "topic": "GL4ES, a GL 1.5 to GL ES 1.1 translation",
+    "url": "https://github.com/ptitSeb/gl4es",
+    "votes": 3,
+    "posted": "Nov 18, 2016 6:03:20 AM"
+  },
+  {
+    "id": "12984488",
+    "timestamp": "Nov 18, 2016 7:27:13 AM",
+    "topic": "North Korea Had No Idea What Their Hostages Were Signaling in This Photo",
+    "url": "http://www.atlasobscura.com/articles/north-korean-officials-had-no-idea-what-their-hostages-were-signaling-in-this-photo",
+    "votes": 4,
+    "posted": "Nov 18, 2016 6:00:07 AM"
+  },
+  {
     "id": "12984454",
     "timestamp": "Nov 18, 2016 6:47:09 AM",
     "topic": "A deep learning approach to colorizing images, specifically for Pokemon.",
@@ -32,12 +96,36 @@ var newsArray = [
     "posted": "Nov 18, 2016 5:44:01 AM"
   },
   {
+    "id": "12984383",
+    "timestamp": "Nov 18, 2016 7:17:11 AM",
+    "topic": "GNU Health",
+    "url": "http://health.gnu.org/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:35:28 AM"
+  },
+  {
+    "id": "12984337",
+    "timestamp": "Nov 18, 2016 7:17:12 AM",
+    "topic": "Miami beach has run out of sand",
+    "url": "http://www.theverge.com/2016/11/17/13660014/miami-beach-sand-erosion-nourishment-climate-change",
+    "votes": 8,
+    "posted": "Nov 18, 2016 5:25:28 AM"
+  },
+  {
     "id": "12984335",
     "timestamp": "Nov 18, 2016 6:07:06 AM",
     "topic": "Real or not? USC study finds many political tweets come from fake accounts",
     "url": "http://news.usc.edu/110565/rigged-usc-study-finds-many-political-tweets-come-from-fake-accounts/",
     "votes": 3,
     "posted": "Nov 18, 2016 5:24:30 AM"
+  },
+  {
+    "id": "12984319",
+    "timestamp": "Nov 18, 2016 7:17:12 AM",
+    "topic": "NASA realizes SLS and Orion are too expensive, opens door to competitors",
+    "url": "http://arstechnica.com/science/2016/11/nasa-realizes-sls-and-orion-are-too-expensive-opens-door-to-competitors/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 5:19:58 AM"
   },
   {
     "id": "12984234",
@@ -86,6 +174,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/environment/2016/nov/17/untapped-oil-texas-permian-basin-900-billion",
     "votes": 4,
     "posted": "Nov 18, 2016 4:43:26 AM"
+  },
+  {
+    "id": "12984100",
+    "timestamp": "Nov 18, 2016 7:47:14 AM",
+    "topic": "Show HN: NYTimesArchive – Python Wrapper for the New York Times Archive API",
+    "url": "https://github.com/davidcox143/nytimesarchive/blob/master/README.md",
+    "votes": 6,
+    "posted": "Nov 18, 2016 4:38:47 AM"
   },
   {
     "id": "12984093",
@@ -238,6 +334,14 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/17/trump-offers-retired-lt-gen-michael-flynn-the-job-of-national-security-adviser-a-person-close-to-the-transition-says/",
     "votes": 5,
     "posted": "Nov 18, 2016 2:26:49 AM"
+  },
+  {
+    "id": "12983551",
+    "timestamp": "Nov 18, 2016 7:47:14 AM",
+    "topic": "Everything you need to know about pointers in C",
+    "url": "http://boredzo.org/pointers/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 2:26:05 AM"
   },
   {
     "id": "12983509",
@@ -8736,28 +8840,5 @@ var newsArray = [
     "url": "https://www.analyticsvidhya.com/blog/2016/10/complete-study-of-factors-contributing-to-air-pollution/",
     "votes": 3,
     "posted": "Nov 11, 2016 8:01:39 AM"
-  },
-  {
-    "id": "12928526",
-    "timestamp": "Nov 11, 2016 8:00:35 AM",
-    "topic": "Qt for Go which supports Windows/macOS/Linux/Android/iOS/SailfishOS/RaspberryPi",
-    "url": "https://github.com/therecipe/qt",
-    "votes": 8,
-    "posted": "Nov 11, 2016 7:45:48 AM"
-  },
-  {
-    "id": "12928513",
-    "timestamp": "Nov 11, 2016 9:00:40 AM",
-    "topic": "Increase Hacker News Font Size?",
-    "votes": 5,
-    "posted": "Nov 11, 2016 7:42:33 AM"
-  },
-  {
-    "id": "12928405",
-    "timestamp": "Nov 11, 2016 8:10:36 AM",
-    "topic": "Blue Feed, Red Feed",
-    "url": "http://graphics.wsj.com/blue-feed-red-feed/#/president-trump",
-    "votes": 3,
-    "posted": "Nov 11, 2016 7:11:31 AM"
   }
 ];
