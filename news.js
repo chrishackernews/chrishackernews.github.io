@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "12983798",
+    "timestamp": "Nov 18, 2016 3:56:54 AM",
+    "topic": "Clones: If Apple doesn’t want to innovate the desktop Mac, it should let others",
+    "url": "https://9to5mac.com/2016/11/17/apples-future-in-the-desktop-computer-business/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 3:22:11 AM"
+  },
+  {
+    "id": "12983759",
+    "timestamp": "Nov 18, 2016 3:56:53 AM",
+    "topic": "Launch of new Galileo navigation quartet",
+    "url": "http://www.esa.int/Our_Activities/Navigation/Galileo/Launching_Galileo/Launch_of_new_Galileo_navigation_quartet",
+    "votes": 3,
+    "posted": "Nov 18, 2016 3:11:01 AM"
+  },
+  {
+    "id": "12983740",
+    "timestamp": "Nov 18, 2016 3:26:51 AM",
+    "topic": "Jay W. Forrester Dies at 98; a Pioneer in Computer Models",
+    "url": "http://mobile.nytimes.com/2016/11/18/technology/jay-forrester-dead.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 3:05:17 AM"
+  },
+  {
+    "id": "12983554",
+    "timestamp": "Nov 18, 2016 3:26:51 AM",
+    "topic": "Trump offers retired Lt. Gen. Michael Flynn the job of national security adviser",
+    "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/17/trump-offers-retired-lt-gen-michael-flynn-the-job-of-national-security-adviser-a-person-close-to-the-transition-says/",
+    "votes": 5,
+    "posted": "Nov 18, 2016 2:26:49 AM"
+  },
+  {
     "id": "12983507",
     "timestamp": "Nov 18, 2016 2:46:48 AM",
     "topic": "Decrypting TLS Browser Traffic with Wireshark – The Easy Way",
     "url": "https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/",
     "votes": 6,
     "posted": "Nov 18, 2016 2:19:50 AM"
+  },
+  {
+    "id": "12983495",
+    "timestamp": "Nov 18, 2016 3:16:50 AM",
+    "topic": "Navy identifies mystery plane over Denver; Its mission still a secret",
+    "url": "http://www.thedenverchannel.com/news/local-news/navy-identifies-mystery-plane-over-denver-its-mission-still-a-secret",
+    "votes": 3,
+    "posted": "Nov 18, 2016 2:17:06 AM"
   },
   {
     "id": "12983331",
@@ -53,6 +93,14 @@ var newsArray = [
     "url": "http://airbnb.com/new",
     "votes": 10,
     "posted": "Nov 18, 2016 12:20:41 AM"
+  },
+  {
+    "id": "12982559",
+    "timestamp": "Nov 18, 2016 3:36:52 AM",
+    "topic": "How Google has knowingly enabled piracy for years, and still does",
+    "url": "https://blog.turbo.run/how-google-has-knowingly-enabled-piracy-for-years-and-still-does/",
+    "votes": 9,
+    "posted": "Nov 17, 2016 11:57:53 PM"
   },
   {
     "id": "12982453",
@@ -8582,61 +8630,5 @@ var newsArray = [
     "url": "https://ecc-comp.blogspot.com/2016/11/a-glance-into-web-tech-based-text.html",
     "votes": 4,
     "posted": "Nov 11, 2016 3:58:31 AM"
-  },
-  {
-    "id": "12927156",
-    "timestamp": "Nov 11, 2016 4:30:15 AM",
-    "topic": "Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure",
-    "url": "https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/",
-    "votes": 4,
-    "posted": "Nov 11, 2016 3:56:17 AM"
-  },
-  {
-    "id": "12927142",
-    "timestamp": "Nov 11, 2016 4:30:15 AM",
-    "topic": "Amazon drivers “work illegal hours”",
-    "url": "http://www.bbc.co.uk/news/uk-england-37708996",
-    "votes": 5,
-    "posted": "Nov 11, 2016 3:54:29 AM"
-  },
-  {
-    "id": "12927098",
-    "timestamp": "Nov 11, 2016 5:20:20 AM",
-    "topic": "Spanish prime minister\u0027s party suggests ban on internet memes",
-    "url": "http://www.telegraph.co.uk/news/2016/11/10/no-joke-spanish-prime-ministers-party-suggests-ban-on-internet-m/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 3:49:12 AM"
-  },
-  {
-    "id": "12927072",
-    "timestamp": "Nov 11, 2016 4:50:17 AM",
-    "topic": "California Secession Making Headway in Silicon Valley Community",
-    "url": "https://techcrunch.com/2016/11/10/calexit-is-silicon-valleys-plan-to-pack-up-its-toys-and-leave/",
-    "votes": 14,
-    "posted": "Nov 11, 2016 3:46:19 AM"
-  },
-  {
-    "id": "12927011",
-    "timestamp": "Nov 14, 2016 9:18:20 PM",
-    "topic": "Leonard Cohen on Poetry, Music and Why He Left the Zen Monastery",
-    "url": "http://www.npr.org/2016/10/21/498810429/leonard-cohen-on-poetry-music-and-why-he-left-the-zen-monastery",
-    "votes": 5,
-    "posted": "Nov 11, 2016 3:40:15 AM"
-  },
-  {
-    "id": "12926823",
-    "timestamp": "Nov 11, 2016 3:40:11 AM",
-    "topic": "Grubhub CEO Asks Staffers with \u0027Hateful Attitudes\u0027 to Resign After Trump Win",
-    "url": "http://gizmodo.com/grubhub-ceo-asks-staffers-with-hateful-attitudes-to-res-1788839605",
-    "votes": 7,
-    "posted": "Nov 11, 2016 3:10:29 AM"
-  },
-  {
-    "id": "12926805",
-    "timestamp": "Nov 11, 2016 3:30:11 AM",
-    "topic": "Leonard Cohen has passed away",
-    "url": "http://leonardcohen.com/",
-    "votes": 38,
-    "posted": "Nov 11, 2016 3:06:42 AM"
   }
 ];
