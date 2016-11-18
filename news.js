@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12988389",
+    "timestamp": "Nov 18, 2016 6:58:16 PM",
+    "topic": "Non-citizen voting likely changed outcomes of 2008 US elections",
+    "url": "http://www.sciencedirect.com/science/article/pii/S0261379414000973",
+    "votes": 5,
+    "posted": "Nov 18, 2016 6:30:27 PM"
+  },
+  {
+    "id": "12988380",
+    "timestamp": "Nov 18, 2016 6:48:15 PM",
+    "topic": "New Features in C# 7.0",
+    "url": "https://channel9.msdn.com/Events/Connect/2016/105",
+    "votes": 5,
+    "posted": "Nov 18, 2016 6:29:48 PM"
+  },
+  {
+    "id": "12988289",
+    "timestamp": "Nov 18, 2016 6:38:14 PM",
+    "topic": "ICQ: 20 Years Is No Limit",
+    "url": "https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.ioi9ez4k2",
+    "votes": 3,
+    "posted": "Nov 18, 2016 6:17:08 PM"
+  },
+  {
     "id": "12987900",
     "timestamp": "Nov 18, 2016 5:48:10 PM",
     "topic": "Google reverses its ‘digital death sentence’ for Pixel phone resellers",
     "url": "https://techcrunch.com/2016/11/18/google-reverses-its-digital-death-sentence-for-pixel-phone-resellers/",
     "votes": 6,
     "posted": "Nov 18, 2016 5:30:05 PM"
+  },
+  {
+    "id": "12987701",
+    "timestamp": "Nov 18, 2016 6:08:12 PM",
+    "topic": "This is what Apple should tell you when you lose your iPhone",
+    "url": "https://hackernoon.com/this-is-what-apple-should-tell-you-when-you-lose-your-iphone-8f07cf73cf82#.j5n1lsqmv",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:09:01 PM"
   },
   {
     "id": "12987699",
@@ -16,12 +48,28 @@ var newsArray = [
     "posted": "Nov 18, 2016 5:08:36 PM"
   },
   {
+    "id": "12987683",
+    "timestamp": "Nov 18, 2016 6:08:12 PM",
+    "topic": "Gosubc: a C89 compiler written in Go",
+    "url": "https://github.com/qeedquan/gosubc",
+    "votes": 9,
+    "posted": "Nov 18, 2016 5:07:21 PM"
+  },
+  {
     "id": "12987635",
     "timestamp": "Nov 18, 2016 5:58:11 PM",
     "topic": "IBM rolls out new cloud data services and features on Bluemix",
     "url": "http://www.zdnet.com/article/ibm-rolls-out-new-cloud-data-services-and-features-on-bluemix/",
     "votes": 3,
     "posted": "Nov 18, 2016 5:00:45 PM"
+  },
+  {
+    "id": "12987537",
+    "timestamp": "Nov 18, 2016 6:08:12 PM",
+    "topic": "How to start a company with no free time",
+    "url": "https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a?_hsenc\u003dp2ANqtz-8XF6JxEsNsoDkX4Nh1vXUm7BW13ZDeL7A8zh7qXhZCq8kkP9GI97HtMDxtAlRVUJkRIoriVRO23_Q7xZxTjQ5EqbOiXg\u0026_hsmi\u003d37851568#.aoxnxfl7o",
+    "votes": 6,
+    "posted": "Nov 18, 2016 4:50:02 PM"
   },
   {
     "id": "12987461",
@@ -978,6 +1026,14 @@ var newsArray = [
     "url": "http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/",
     "votes": 20,
     "posted": "Nov 17, 2016 11:39:46 PM"
+  },
+  {
+    "id": "12982407",
+    "timestamp": "Nov 18, 2016 6:28:14 PM",
+    "topic": "Unfathomable: The Invention of Modern Deep-Sea Diving",
+    "url": "http://unfathomable.epicmagazine.com",
+    "votes": 4,
+    "posted": "Nov 17, 2016 11:37:44 PM"
   },
   {
     "id": "12982364",
@@ -8993,77 +9049,5 @@ var newsArray = [
     "url": "https://edgylabs.com/2016/11/11/the-great-firewall-china-cybersecurity/",
     "votes": 4,
     "posted": "Nov 11, 2016 6:59:11 PM"
-  },
-  {
-    "id": "12932753",
-    "timestamp": "Nov 11, 2016 7:21:41 PM",
-    "topic": "Regex that only matches itself",
-    "url": "http://codegolf.stackexchange.com/a/31863",
-    "votes": 6,
-    "posted": "Nov 11, 2016 6:56:48 PM"
-  },
-  {
-    "id": "12932700",
-    "timestamp": "Nov 11, 2016 7:21:41 PM",
-    "topic": "Web Scraping with Beautiful Soup",
-    "url": "http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html",
-    "votes": 7,
-    "posted": "Nov 11, 2016 6:49:40 PM"
-  },
-  {
-    "id": "12932654",
-    "timestamp": "Nov 11, 2016 7:11:40 PM",
-    "topic": "How to encrypt your entire life in less than an hour",
-    "url": "https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.ng2gfv9yj",
-    "votes": 5,
-    "posted": "Nov 11, 2016 6:41:51 PM"
-  },
-  {
-    "id": "12932601",
-    "timestamp": "Nov 11, 2016 7:31:42 PM",
-    "topic": "In College and Hiding from Scary Ideas",
-    "url": "http://www.nytimes.com/2015/03/22/opinion/sunday/judith-shulevitz-hiding-from-scary-ideas.html",
-    "votes": 5,
-    "posted": "Nov 11, 2016 6:34:02 PM"
-  },
-  {
-    "id": "12932592",
-    "timestamp": "Nov 11, 2016 8:01:46 PM",
-    "topic": "Show HN: Blink Shell for iOS, an Open-Source, Mosh and SSH Terminal for Pros",
-    "url": "http://blink.sh",
-    "votes": 7,
-    "posted": "Nov 11, 2016 6:31:43 PM"
-  },
-  {
-    "id": "12932521",
-    "timestamp": "Nov 11, 2016 9:41:56 PM",
-    "topic": "Dark matter may be hiding in a hidden sector",
-    "url": "http://phys.org/news/2016-11-dark-hidden-sector.html",
-    "votes": 3,
-    "posted": "Nov 11, 2016 6:22:53 PM"
-  },
-  {
-    "id": "12932518",
-    "timestamp": "Nov 11, 2016 6:51:39 PM",
-    "topic": "Font Awesome 5 has raised $620 000 in 15 days",
-    "url": "https://www.kickstarter.com/projects/232193852/font-awesome-5",
-    "votes": 4,
-    "posted": "Nov 11, 2016 6:22:36 PM"
-  },
-  {
-    "id": "12932469",
-    "timestamp": "Nov 11, 2016 7:31:42 PM",
-    "topic": "An idea for encrypted, verifiable voting",
-    "url": "https://blag.mpcsh.xyz/0001",
-    "votes": 4,
-    "posted": "Nov 11, 2016 6:13:55 PM"
-  },
-  {
-    "id": "12932429",
-    "timestamp": "Nov 11, 2016 7:01:39 PM",
-    "topic": "Winds – An Open Source Personalized RSS Reader",
-    "url": "http://winds.getstream.io/",
-    "votes": 3,
-    "posted": "Nov 11, 2016 6:08:12 PM"
   }
 ];
