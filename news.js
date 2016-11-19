@@ -1,10 +1,34 @@
 var newsArray = [
   {
+    "id": "12991581",
+    "timestamp": "Nov 19, 2016 3:09:22 AM",
+    "topic": "Why Don\u0027t Computer Scientists Learn Math?",
+    "url": "http://research.microsoft.com/en-us/um/people/lamport/tla/math-knowledge.html",
+    "votes": 5,
+    "posted": "Nov 19, 2016 3:01:10 AM"
+  },
+  {
+    "id": "12991524",
+    "timestamp": "Nov 19, 2016 3:09:22 AM",
+    "topic": "Grace Hopper and Margaret Hamilton Awarded Presidential Medal of Freedom",
+    "url": "https://techcrunch.com/2016/11/17/grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:45:14 AM"
+  },
+  {
     "id": "12991490",
     "timestamp": "Nov 19, 2016 2:39:19 AM",
     "topic": "Upcall, an on-demand API Callforce, is hiring an Operations Manager",
     "votes": 1,
     "posted": "Nov 19, 2016 2:37:05 AM"
+  },
+  {
+    "id": "12991398",
+    "timestamp": "Nov 19, 2016 3:19:22 AM",
+    "topic": "It’s time to get rid of the Facebook “news feed,” because it’s not news",
+    "url": "http://arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 2:12:33 AM"
   },
   {
     "id": "12991293",
@@ -29,6 +53,14 @@ var newsArray = [
     "url": "https://devpost.com/software/fib",
     "votes": 4,
     "posted": "Nov 19, 2016 1:45:01 AM"
+  },
+  {
+    "id": "12991253",
+    "timestamp": "Nov 19, 2016 3:59:25 AM",
+    "topic": "Show HN: ContactOut – Find Anyone\u0027s  Email and Phone#",
+    "url": "http://contactout.io/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 1:44:02 AM"
   },
   {
     "id": "12991190",
@@ -9019,52 +9051,5 @@ var newsArray = [
     "url": "http://kmunger.github.io/pdfs/Twitter_harassment_final.pdf",
     "votes": 4,
     "posted": "Nov 12, 2016 4:00:08 AM"
-  },
-  {
-    "id": "12936337",
-    "timestamp": "Nov 12, 2016 4:32:33 AM",
-    "topic": "Finland to Get Rid of All School Subjects",
-    "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
-    "votes": 4,
-    "posted": "Nov 12, 2016 3:55:00 AM"
-  },
-  {
-    "id": "12936315",
-    "timestamp": "Nov 12, 2016 2:03:21 PM",
-    "topic": "Ask HN: What is the most significant turning point in society in our lifetime?",
-    "votes": 6,
-    "posted": "Nov 12, 2016 3:50:01 AM"
-  },
-  {
-    "id": "12936276",
-    "timestamp": "Nov 12, 2016 4:22:33 AM",
-    "topic": "The Southern Strategy",
-    "url": "https://en.wikipedia.org/wiki/Southern_strategy",
-    "votes": 3,
-    "posted": "Nov 12, 2016 3:35:37 AM"
-  },
-  {
-    "id": "12936249",
-    "timestamp": "Nov 12, 2016 4:02:31 AM",
-    "topic": "Feds Can Unlock Most Devices They Need to Get Into, FBI Admits",
-    "url": "https://motherboard.vice.com/read/feds-can-unlock-most-devices-they-need-to-get-into-fbi-admits",
-    "votes": 3,
-    "posted": "Nov 12, 2016 3:28:47 AM"
-  },
-  {
-    "id": "12936243",
-    "timestamp": "Nov 12, 2016 3:52:30 AM",
-    "topic": "Show HN: Did Donald do it? Tracking Trump\u0027s promises",
-    "url": "https://www.diddonalddoit.com/",
-    "votes": 5,
-    "posted": "Nov 12, 2016 3:27:53 AM"
-  },
-  {
-    "id": "12936234",
-    "timestamp": "Nov 12, 2016 3:32:28 AM",
-    "topic": "GrubHub CEO Matthew M. Maloney Sells 14,491 Shares of Stock",
-    "url": "https://baseballnewssource.com/markets/grubhub-inc-grub-ceo-matthew-m-maloney-sells-14491-shares-of-stock/212741.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 3:25:48 AM"
   }
 ];
