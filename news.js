@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "12991490",
+    "timestamp": "Nov 19, 2016 2:39:19 AM",
+    "topic": "Upcall, an on-demand API Callforce, is hiring an Operations Manager",
+    "votes": 1,
+    "posted": "Nov 19, 2016 2:37:05 AM"
+  },
+  {
+    "id": "12991293",
+    "timestamp": "Nov 19, 2016 2:49:20 AM",
+    "topic": "UN Report: Robots Will Replace Two-Thirds of All Workers in the Developing World [pdf]",
+    "url": "http://unctad.org/en/PublicationsLibrary/presspb2016d6_en.pdf",
+    "votes": 4,
+    "posted": "Nov 19, 2016 1:51:50 AM"
+  },
+  {
+    "id": "12991292",
+    "timestamp": "Nov 19, 2016 2:39:19 AM",
+    "topic": "Michigan State University employee and student records hacked",
+    "url": "http://www.lansingstatejournal.com/story/news/local/2016/11/18/msu-names-and-social-security-numbers-accessed-data-breach/94086880/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 1:51:36 AM"
+  },
+  {
+    "id": "12991259",
+    "timestamp": "Nov 19, 2016 2:29:18 AM",
+    "topic": "FiB: Fake news detector built in a hackathon by a Princeton student team",
+    "url": "https://devpost.com/software/fib",
+    "votes": 4,
+    "posted": "Nov 19, 2016 1:45:01 AM"
+  },
+  {
     "id": "12991190",
     "timestamp": "Nov 19, 2016 1:49:15 AM",
     "topic": "The artic is 36 degrees F warmer than normal",
@@ -40,12 +71,28 @@ var newsArray = [
     "posted": "Nov 19, 2016 12:55:02 AM"
   },
   {
+    "id": "12990998",
+    "timestamp": "Nov 19, 2016 2:39:19 AM",
+    "topic": "The lessons that changed my life.",
+    "url": "https://sivers.org/kimo",
+    "votes": 5,
+    "posted": "Nov 19, 2016 12:51:15 AM"
+  },
+  {
     "id": "12990994",
     "timestamp": "Nov 19, 2016 1:29:13 AM",
     "topic": "Cursing Linked to Higher F*#@%$* Intelligence",
     "url": "http://losangeles.cbslocal.com/2016/11/17/is-cursing-bad-or-good-for-you/",
     "votes": 3,
     "posted": "Nov 19, 2016 12:49:20 AM"
+  },
+  {
+    "id": "12990992",
+    "timestamp": "Nov 19, 2016 2:49:20 AM",
+    "topic": "React Server-Side Rendering in Node.js at Pinterest",
+    "url": "https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react",
+    "votes": 7,
+    "posted": "Nov 19, 2016 12:49:01 AM"
   },
   {
     "id": "12990828",
@@ -70,6 +117,14 @@ var newsArray = [
     "url": "http://time.com/3024606/millennials-marriage-sex-relationships-hook-ups/",
     "votes": 3,
     "posted": "Nov 19, 2016 12:02:05 AM"
+  },
+  {
+    "id": "12990764",
+    "timestamp": "Nov 19, 2016 2:29:18 AM",
+    "topic": "Show HN: Paperworks.io – All your receipts, invoices, and payments in one place",
+    "url": "https://paperworks.io",
+    "votes": 4,
+    "posted": "Nov 18, 2016 11:57:05 PM"
   },
   {
     "id": "12990740",
@@ -9011,100 +9066,5 @@ var newsArray = [
     "url": "https://baseballnewssource.com/markets/grubhub-inc-grub-ceo-matthew-m-maloney-sells-14491-shares-of-stock/212741.html",
     "votes": 3,
     "posted": "Nov 12, 2016 3:25:48 AM"
-  },
-  {
-    "id": "12936123",
-    "timestamp": "Nov 12, 2016 3:02:25 AM",
-    "topic": "Relativity (YC W16) Is Hiring a Lead Weld Engineer/Metallurgist (LA)",
-    "url": "https://jobs.lever.co/relativityspace/e79a5673-3ec0-43a7-97b3-6e21be729d1a",
-    "votes": 1,
-    "posted": "Nov 12, 2016 2:56:48 AM"
-  },
-  {
-    "id": "12936078",
-    "timestamp": "Nov 12, 2016 3:02:25 AM",
-    "topic": "A Time to Act: Some Suggestions for Silicon Valley",
-    "url": "https://kevnull.com/a-time-to-act-d6f068ef0d70",
-    "votes": 9,
-    "posted": "Nov 12, 2016 2:45:39 AM"
-  },
-  {
-    "id": "12936061",
-    "timestamp": "Nov 12, 2016 3:32:28 AM",
-    "topic": "Codehash.db: a public database of software and firmware hashes",
-    "url": "https://github.com/rootkovska/codehash.db",
-    "votes": 5,
-    "posted": "Nov 12, 2016 2:41:13 AM"
-  },
-  {
-    "id": "12936032",
-    "timestamp": "Nov 12, 2016 2:52:24 AM",
-    "topic": "[Whitestorm.js] Creating a basic sphere that falls down on the plane",
-    "url": "http://whsjs.io/#/api/basic",
-    "votes": 5,
-    "posted": "Nov 12, 2016 2:32:53 AM"
-  },
-  {
-    "id": "12936005",
-    "timestamp": "Nov 12, 2016 3:02:25 AM",
-    "topic": "Professor Who Called Trump’s Win Predicts Trump Will Be Impeached",
-    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/11/prediction-professor-who-called-trumps-big-win-also-made-another-forecast-trump-will-be-impeached/",
-    "votes": 6,
-    "posted": "Nov 12, 2016 2:26:25 AM"
-  },
-  {
-    "id": "12935986",
-    "timestamp": "Nov 12, 2016 7:22:47 AM",
-    "topic": "What Hilary and I -and Ricardo- got wrong about trade; and Trump got dead right",
-    "url": "https://medium.com/@russellirvinjohnston/what-hilary-and-i-and-ricardo-got-wrong-about-trade-and-trump-got-dead-right-688cab9e1e11#.dx4b0s1ra",
-    "votes": 4,
-    "posted": "Nov 12, 2016 2:22:27 AM"
-  },
-  {
-    "id": "12935978",
-    "timestamp": "Nov 12, 2016 2:13:22 PM",
-    "topic": "He Collected 12,000 Road Maps–Now We’re Discovering Their Secrets",
-    "url": "http://news.nationalgeographic.com/2016/11/robert-berlo-map-collection/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 2:19:54 AM"
-  },
-  {
-    "id": "12935974",
-    "timestamp": "Nov 12, 2016 7:12:47 AM",
-    "topic": "Compact Tunnel Boring Machines Are Major Players in North America",
-    "url": "http://trenchlessonline.com/compact-tunnel-boring-machines-major-players-north-america/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 2:18:45 AM"
-  },
-  {
-    "id": "12935953",
-    "timestamp": "Nov 12, 2016 3:02:26 AM",
-    "topic": "Trump Says He May Keep Parts of Obama Health Care Act",
-    "url": "http://www.nytimes.com/2016/11/12/business/insurers-unprepared-for-obamacare-repeal.html",
-    "votes": 5,
-    "posted": "Nov 12, 2016 2:10:30 AM"
-  },
-  {
-    "id": "12935935",
-    "timestamp": "Nov 12, 2016 3:32:28 AM",
-    "topic": "Ask HN: Question for Parents of HN",
-    "votes": 4,
-    "posted": "Nov 12, 2016 2:05:03 AM"
-  },
-  {
-    "id": "12935930",
-    "timestamp": "Nov 12, 2016 3:12:26 AM",
-    "topic": "Show HN: Hearthstone-like card game builder for humans",
-    "url": "https://dulst.com",
-    "votes": 3,
-    "posted": "Nov 12, 2016 2:04:44 AM"
-  },
-  {
-    "id": "12935922",
-    "timestamp": "Nov 12, 2016 3:42:29 AM",
-    "topic": "Nonlinear climate sensitivity and its implications for future greenhouse warming",
-    "url": "http://advances.sciencemag.org/content/2/11/e1501923.full",
-    "votes": 3,
-    "posted": "Nov 12, 2016 2:02:26 AM"
   }
 ];
