@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "12995493",
+    "timestamp": "Nov 19, 2016 9:51:04 PM",
+    "topic": "Trump’s attorney general pick could restart the encryption fight",
+    "url": "http://www.theverge.com/2016/11/18/13677798/attorney-general-jeff-sessions-encryption-san-bernardino-trump",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:38:04 PM"
+  },
+  {
+    "id": "12995338",
+    "timestamp": "Nov 19, 2016 9:41:03 PM",
+    "topic": "A Muslim “registry” doesn\u0027t require a single registration, just data",
+    "url": "http://jthess.com/blog/2016/11/17/and-i-did-not-speak-out.html",
+    "votes": 4,
+    "posted": "Nov 19, 2016 9:09:55 PM"
+  },
+  {
+    "id": "12995241",
+    "timestamp": "Nov 19, 2016 9:41:03 PM",
+    "topic": "The USE Method (2014)",
+    "url": "http://www.brendangregg.com/usemethod.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 8:49:21 PM"
+  },
+  {
+    "id": "12995181",
+    "timestamp": "Nov 19, 2016 9:11:00 PM",
+    "topic": "Intel is laying off a major portion of its wearables group",
+    "url": "https://techcrunch.com/2016/11/18/intel-layoffs/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 8:34:52 PM"
+  },
+  {
+    "id": "12995180",
+    "timestamp": "Nov 19, 2016 9:11:00 PM",
+    "topic": "NASA C Style Guide [pdf]",
+    "url": "http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf",
+    "votes": 4,
+    "posted": "Nov 19, 2016 8:34:01 PM"
+  },
+  {
     "id": "12995125",
     "timestamp": "Nov 19, 2016 8:50:58 PM",
     "topic": "EmDrive study officially published, produces 1.2mN/kW",
     "url": "http://arc.aiaa.org/doi/full/10.2514/1.B36120",
     "votes": 6,
     "posted": "Nov 19, 2016 8:23:09 PM"
+  },
+  {
+    "id": "12995116",
+    "timestamp": "Nov 19, 2016 9:21:02 PM",
+    "topic": "102M dead California trees \u0027unprecedented in our modern history\u0027",
+    "url": "http://www.latimes.com/local/lanow/la-me-dead-trees-20161118-story.html",
+    "votes": 4,
+    "posted": "Nov 19, 2016 8:20:09 PM"
   },
   {
     "id": "12995077",
@@ -1346,6 +1394,13 @@ var newsArray = [
     "posted": "Nov 18, 2016 4:30:07 PM"
   },
   {
+    "id": "12987211",
+    "timestamp": "Nov 19, 2016 9:41:03 PM",
+    "topic": "Ask HN: What do you keep at/on/in your desk?",
+    "votes": 7,
+    "posted": "Nov 18, 2016 4:07:52 PM"
+  },
+  {
     "id": "12987123",
     "timestamp": "Nov 18, 2016 4:08:01 PM",
     "topic": "Manifesto for Responsible Software Development",
@@ -2229,6 +2284,14 @@ var newsArray = [
     "url": "http://www.thedenverchannel.com/news/local-news/navy-identifies-mystery-plane-over-denver-its-mission-still-a-secret",
     "votes": 3,
     "posted": "Nov 18, 2016 2:17:06 AM"
+  },
+  {
+    "id": "12983417",
+    "timestamp": "Nov 19, 2016 9:51:04 PM",
+    "topic": "Who Will Command the Robot Armies?",
+    "url": "http://idlewords.com/talks/robot_armies.htm",
+    "votes": 14,
+    "posted": "Nov 18, 2016 2:05:04 AM"
   },
   {
     "id": "12983347",
@@ -3534,6 +3597,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/world/2016/nov/17/mexican-pyramid-has-two-more-inside-scientists-discover",
     "votes": 3,
     "posted": "Nov 17, 2016 2:19:43 AM"
+  },
+  {
+    "id": "12973323",
+    "timestamp": "Nov 19, 2016 9:11:01 PM",
+    "topic": "On vagueness, or, when is a heap of sand not a heap of sand?",
+    "url": "https://aeon.co/ideas/on-vagueness-when-is-a-heap-of-sand-not-a-heap-of-sand",
+    "votes": 3,
+    "posted": "Nov 17, 2016 2:18:50 AM"
   },
   {
     "id": "12973299",
@@ -9089,60 +9160,5 @@ var newsArray = [
     "topic": "Ask HN: Have you faced burnout for days?",
     "votes": 6,
     "posted": "Nov 12, 2016 10:00:10 PM"
-  },
-  {
-    "id": "12940058",
-    "timestamp": "Nov 14, 2016 4:46:47 AM",
-    "topic": "Ask HN: Torrent client (Mac) recommendations?",
-    "votes": 4,
-    "posted": "Nov 12, 2016 9:40:55 PM"
-  },
-  {
-    "id": "12940051",
-    "timestamp": "Nov 12, 2016 10:34:08 PM",
-    "topic": "Ctrl+Z: Silicon Valley Leaders U-turn on Donald Trump",
-    "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?CMP\u003dshare_btn_tw",
-    "votes": 4,
-    "posted": "Nov 12, 2016 9:39:54 PM"
-  },
-  {
-    "id": "12939928",
-    "timestamp": "Nov 15, 2016 11:11:02 PM",
-    "topic": "Archeological 3D Mapping: The Structure from Motion Revolution",
-    "url": "https://drive.google.com/file/d/0B4p1SsI5fon7NFVGc1I0MG03S1k/view",
-    "votes": 6,
-    "posted": "Nov 12, 2016 9:14:34 PM"
-  },
-  {
-    "id": "12939912",
-    "timestamp": "Nov 13, 2016 4:25:42 PM",
-    "topic": "Stranger Things: The Rise and Fall of UFOs and Life on the Moon",
-    "url": "http://bostonreview.net/literature-culture/john-crowley-stranger-things-rise-and-fall-ufos-and-life-moon",
-    "votes": 4,
-    "posted": "Nov 12, 2016 9:11:34 PM"
-  },
-  {
-    "id": "12939877",
-    "timestamp": "Nov 12, 2016 9:54:04 PM",
-    "topic": "Silicon Valley frets over foreign worker crackdown",
-    "url": "https://www.ft.com/content/b42f40c2-a6df-11e6-8b69-02899e8bd9d1",
-    "votes": 3,
-    "posted": "Nov 12, 2016 9:02:37 PM"
-  },
-  {
-    "id": "12939856",
-    "timestamp": "Nov 12, 2016 9:44:02 PM",
-    "topic": "How We Knew It Was Time to Leave the Cloud",
-    "url": "https://about.gitlab.com/2016/11/10/why-choose-bare-metal/?",
-    "votes": 7,
-    "posted": "Nov 12, 2016 8:58:09 PM"
-  },
-  {
-    "id": "12939839",
-    "timestamp": "Nov 12, 2016 9:34:01 PM",
-    "topic": "Trump-Supporting CEO Kicked Out of Y Combinator Startup Incubator",
-    "url": "https://www.buzzfeed.com/nitashatiku/trump-supporting-startup-ceo-kicked-out-of-y-combinator",
-    "votes": 4,
-    "posted": "Nov 12, 2016 8:54:51 PM"
   }
 ];
