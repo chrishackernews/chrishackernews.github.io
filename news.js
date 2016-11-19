@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12992400",
+    "timestamp": "Nov 19, 2016 7:59:44 AM",
+    "topic": "Mark Zuckerburg – Dead at 32 – Denies Facebook Has Problem with Fake News",
+    "url": "http://www.theshovel.com.au/2016/11/17/mark-zuckerburg-dead-at-32-denies-facebook-has-problem-with-fake-news/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 7:52:16 AM"
+  },
+  {
+    "id": "12992208",
+    "timestamp": "Nov 19, 2016 7:49:44 AM",
+    "topic": "NASA under Trump",
+    "url": "http://www.planetary.org/blogs/casey-dreier/2016/1118-nasa-under-trump.html",
+    "votes": 5,
+    "posted": "Nov 19, 2016 6:19:17 AM"
+  },
+  {
     "id": "12992145",
     "timestamp": "Nov 19, 2016 5:59:36 AM",
     "topic": "Streak (YC S11) Hiring a Senior Back End Engineer",
@@ -9044,21 +9060,5 @@ var newsArray = [
     "url": "http://metropolitan.fi/entry/finnish-alcohol-monopoly-alko-to-deploy-booze-trucks",
     "votes": 3,
     "posted": "Nov 12, 2016 8:23:02 AM"
-  },
-  {
-    "id": "12936891",
-    "timestamp": "Nov 12, 2016 8:32:53 AM",
-    "topic": "Why is machine learning \u0027hard\u0027?",
-    "url": "http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html",
-    "votes": 5,
-    "posted": "Nov 12, 2016 7:24:57 AM"
-  },
-  {
-    "id": "12936862",
-    "timestamp": "Nov 12, 2016 10:33:05 AM",
-    "topic": "GrubHub CEO Says People Who Support Trump Have No Place in His Company",
-    "url": "http://www.inc.com/suzanne-lucas/no-you-cant-fire-people-for-voting-trump.html",
-    "votes": 5,
-    "posted": "Nov 12, 2016 7:13:09 AM"
   }
 ];
