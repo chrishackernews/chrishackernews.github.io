@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12994704",
+    "timestamp": "Nov 19, 2016 7:20:40 PM",
+    "topic": "It’s 2016, why is video conferencing still terrible?",
+    "url": "https://medium.com/@chris_82106/https-medium-com-chris-82106-its-2016-why-is-video-conferencing-still-terrible-1b8802032aae#.rcalpw337",
+    "votes": 3,
+    "posted": "Nov 19, 2016 7:13:17 PM"
+  },
+  {
+    "id": "12994447",
+    "timestamp": "Nov 19, 2016 7:20:40 PM",
+    "topic": "New MacBook Pros have non-upgradeable SSDs, seemingly under-sized batteries",
+    "url": "https://9to5mac.com/2016/11/15/2016-macbook-pro-non-removable-ssd-small-batteries/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 6:33:32 PM"
+  },
+  {
     "id": "12994291",
     "timestamp": "Nov 19, 2016 6:30:36 PM",
     "topic": "The Real Secret to Asian American Success Wasn\u0027t Education",
@@ -384,6 +400,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 6:55:16 AM"
   },
   {
+    "id": "12992249",
+    "timestamp": "Nov 19, 2016 7:30:41 PM",
+    "topic": "Making Machines That Make Music",
+    "url": "https://www.youtube.com/watch?v\u003dZvSSeuzN_b4",
+    "votes": 3,
+    "posted": "Nov 19, 2016 6:32:27 AM"
+  },
+  {
     "id": "12992240",
     "timestamp": "Nov 19, 2016 1:30:10 PM",
     "topic": "Tails: Call for testing: 3.0~alpha1",
@@ -446,6 +470,14 @@ var newsArray = [
     "url": "http://www.cse.cuhk.edu.hk/~ttwong/papers/asciiart/asciiart.pdf",
     "votes": 3,
     "posted": "Nov 19, 2016 4:28:24 AM"
+  },
+  {
+    "id": "12991899",
+    "timestamp": "Nov 19, 2016 7:30:41 PM",
+    "topic": "AI learns things humans didn\u0027t teach it",
+    "url": "https://www.google.com/amp/futurism.com/ai-learns-things-that-humans-didnt-teach-it/amp/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 4:23:57 AM"
   },
   {
     "id": "12991806",
@@ -517,6 +549,14 @@ var newsArray = [
     "url": "https://morningconsult.com/2016/11/18/senators-call-fcc-crack-harmful-zero-rating-offerings/",
     "votes": 3,
     "posted": "Nov 19, 2016 2:35:19 AM"
+  },
+  {
+    "id": "12991470",
+    "timestamp": "Nov 19, 2016 7:00:38 PM",
+    "topic": "National Security Agency Said to Use Manhattan Tower as Listening Post",
+    "url": "http://www.nytimes.com/2016/11/18/nyregion/national-security-agency-said-to-use-manhattan-tower-as-listening-post.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 2:32:31 AM"
   },
   {
     "id": "12991458",
@@ -9103,61 +9143,5 @@ var newsArray = [
     "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
     "votes": 4,
     "posted": "Nov 12, 2016 7:54:02 PM"
-  },
-  {
-    "id": "12939411",
-    "timestamp": "Nov 13, 2016 2:54:31 AM",
-    "topic": "Autocracy: Rules for Survival",
-    "url": "http://www2.nybooks.com/daily/s3/nov/10/trump-election-autocracy-rules-for-survival.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 7:45:03 PM"
-  },
-  {
-    "id": "12939407",
-    "timestamp": "Nov 13, 2016 2:15:28 PM",
-    "topic": "Why Does Moby-Dick Sometimes Have a Hyphen? (2015)",
-    "url": "http://www.smithsonianmag.com/smart-news/moby-dick-has-mysterious-hyphen-180957512/?no-ist",
-    "votes": 3,
-    "posted": "Nov 12, 2016 7:44:23 PM"
-  },
-  {
-    "id": "12939245",
-    "timestamp": "Nov 12, 2016 7:53:53 PM",
-    "topic": "Leaked from NASA: A Rocket Propulsion System That Ejects No Mass",
-    "url": "http://www.theregister.co.uk/2016/11/09/em_drive_tested_by_nasa_works/",
-    "votes": 4,
-    "posted": "Nov 12, 2016 7:18:35 PM"
-  },
-  {
-    "id": "12939238",
-    "timestamp": "Nov 12, 2016 8:23:56 PM",
-    "topic": "When Not to Translate",
-    "url": "http://www.newyorker.com/humor/borowitz-report/trump-confirms-that-he-just-googled-obamacare?mbid\u003dsocial_twitter",
-    "votes": 3,
-    "posted": "Nov 12, 2016 7:17:46 PM"
-  },
-  {
-    "id": "12939232",
-    "timestamp": "Nov 12, 2016 7:53:53 PM",
-    "topic": "Blueprint – A React UI toolkit for the web",
-    "url": "http://blueprintjs.com/",
-    "votes": 14,
-    "posted": "Nov 12, 2016 7:17:01 PM"
-  },
-  {
-    "id": "12939215",
-    "timestamp": "Nov 12, 2016 7:23:50 PM",
-    "topic": "Building better government, Seneca Systems (S16) is hiring",
-    "url": "http://seneca.systems/careers",
-    "votes": 1,
-    "posted": "Nov 12, 2016 7:15:38 PM"
-  },
-  {
-    "id": "12939197",
-    "timestamp": "Nov 12, 2016 7:53:53 PM",
-    "topic": "A river of lost souls runs through western Colorado",
-    "url": "https://www.washingtonpost.com/national/health-science/a-river-of-lost-souls-runs-through-western-colorado/2016/11/03/154fd1a0-8651-11e6-a3ef-f35afb41797f_story.html",
-    "votes": 4,
-    "posted": "Nov 12, 2016 7:12:23 PM"
   }
 ];
