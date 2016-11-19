@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12992448",
+    "timestamp": "Nov 19, 2016 8:39:48 AM",
+    "topic": "Autonomous Shipping Containers – Self-Driving Cars – Medium",
+    "url": "https://medium.com/self-driving-cars/autonomous-shipping-containers-a35943fe53a3#.ld4vwngwb",
+    "votes": 3,
+    "posted": "Nov 19, 2016 8:20:37 AM"
+  },
+  {
     "id": "12992400",
     "timestamp": "Nov 19, 2016 7:59:44 AM",
     "topic": "Mark Zuckerburg – Dead at 32 – Denies Facebook Has Problem with Fake News",
     "url": "http://www.theshovel.com.au/2016/11/17/mark-zuckerburg-dead-at-32-denies-facebook-has-problem-with-fake-news/",
     "votes": 5,
     "posted": "Nov 19, 2016 7:52:16 AM"
+  },
+  {
+    "id": "12992348",
+    "timestamp": "Nov 19, 2016 8:19:46 AM",
+    "topic": "John Horton Conway: the world’s most charismatic mathematician (2015)",
+    "url": "https://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world",
+    "votes": 5,
+    "posted": "Nov 19, 2016 7:28:55 AM"
+  },
+  {
+    "id": "12992298",
+    "timestamp": "Nov 19, 2016 8:49:49 AM",
+    "topic": "Learning to reinforcement learn",
+    "url": "https://arxiv.org/abs/1611.05763",
+    "votes": 5,
+    "posted": "Nov 19, 2016 7:00:13 AM"
+  },
+  {
+    "id": "12992289",
+    "timestamp": "Nov 19, 2016 8:19:46 AM",
+    "topic": "Digg: Making the Switch from Node.js to Golang",
+    "url": "http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang",
+    "votes": 4,
+    "posted": "Nov 19, 2016 6:55:16 AM"
   },
   {
     "id": "12992208",
@@ -40,6 +72,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 4:42:24 AM"
   },
   {
+    "id": "12991910",
+    "timestamp": "Nov 19, 2016 8:19:46 AM",
+    "topic": "Structure-Based ASCII Art Generation [pdf]",
+    "url": "http://www.cse.cuhk.edu.hk/~ttwong/papers/asciiart/asciiart.pdf",
+    "votes": 3,
+    "posted": "Nov 19, 2016 4:28:24 AM"
+  },
+  {
     "id": "12991806",
     "timestamp": "Nov 19, 2016 4:29:28 AM",
     "topic": "Overton Window",
@@ -72,6 +112,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 3:01:10 AM"
   },
   {
+    "id": "12991576",
+    "timestamp": "Nov 19, 2016 8:29:47 AM",
+    "topic": "Announcing the new Streamup – live streaming music community",
+    "url": "https://medium.com/@streamup/announcing-the-new-streamup-tada-190a8822627f#.31433cn7h",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:59:28 AM"
+  },
+  {
     "id": "12991533",
     "timestamp": "Nov 19, 2016 4:19:27 AM",
     "topic": "Navy SEAL Mental Toughness Techniques",
@@ -101,6 +149,14 @@ var newsArray = [
     "url": "https://morningconsult.com/2016/11/18/senators-call-fcc-crack-harmful-zero-rating-offerings/",
     "votes": 3,
     "posted": "Nov 19, 2016 2:35:19 AM"
+  },
+  {
+    "id": "12991458",
+    "timestamp": "Nov 19, 2016 8:59:50 AM",
+    "topic": "ServiceWorker\u0027s Link leads to botnet-like persistent JavaScript worker",
+    "url": "https://bugs.chromium.org/p/chromium/issues/detail?id\u003d662443",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:28:13 AM"
   },
   {
     "id": "12991406",
@@ -149,6 +205,14 @@ var newsArray = [
     "url": "http://contactout.io/",
     "votes": 3,
     "posted": "Nov 19, 2016 1:44:02 AM"
+  },
+  {
+    "id": "12991208",
+    "timestamp": "Nov 19, 2016 8:59:50 AM",
+    "topic": "Building web applications on top of encrypted data using Mylar (2016) [pdf]",
+    "url": "https://people.csail.mit.edu/nickolai/papers/popa-mylar-2016-08-29.pdf",
+    "votes": 5,
+    "posted": "Nov 19, 2016 1:38:23 AM"
   },
   {
     "id": "12991190",
@@ -9044,21 +9108,5 @@ var newsArray = [
     "url": "http://www.smarking.org/",
     "votes": 1,
     "posted": "Nov 12, 2016 9:43:05 AM"
-  },
-  {
-    "id": "12937013",
-    "timestamp": "Nov 12, 2016 10:03:00 AM",
-    "topic": "Finland to Get Rid of All School Subjects",
-    "url": "https://brightside.me/wonder-curiosities/finland-will-become-the-first-country-in-the-world-to-get-rid-of-all-school-subjects-259910/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 8:26:31 AM"
-  },
-  {
-    "id": "12937003",
-    "timestamp": "Nov 12, 2016 1:13:17 PM",
-    "topic": "Finnish alcohol monopoly Alko to deploy booze trucks",
-    "url": "http://metropolitan.fi/entry/finnish-alcohol-monopoly-alko-to-deploy-booze-trucks",
-    "votes": 3,
-    "posted": "Nov 12, 2016 8:23:02 AM"
   }
 ];
