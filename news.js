@@ -8,12 +8,36 @@ var newsArray = [
     "posted": "Nov 19, 2016 1:16:11 PM"
   },
   {
+    "id": "12993142",
+    "timestamp": "Nov 19, 2016 2:30:15 PM",
+    "topic": "Ex-WWII tanks still used as paddock bashers on Australian farms",
+    "url": "http://www.abc.net.au/news/2016-11-19/tinkering-with-tanks-and-preserving-australian-farming-history/8017194",
+    "votes": 3,
+    "posted": "Nov 19, 2016 1:15:06 PM"
+  },
+  {
+    "id": "12993029",
+    "timestamp": "Nov 19, 2016 2:50:16 PM",
+    "topic": "Obama bans new oil drilling in Arctic Ocean",
+    "url": "http://www.bbc.com/news/world-us-canada-38034518",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:42:56 PM"
+  },
+  {
     "id": "12992777",
     "timestamp": "Nov 19, 2016 11:50:03 AM",
     "topic": "This is a graph of total global sea ice. The red line is this year",
     "url": "https://twitter.com/billmckibben/status/799783145356886016",
     "votes": 4,
     "posted": "Nov 19, 2016 11:12:04 AM"
+  },
+  {
+    "id": "12992775",
+    "timestamp": "Nov 19, 2016 2:50:17 PM",
+    "topic": "Inside Racket Seminar 6 – Sam Tobin-Hochstadt on Match",
+    "url": "https://www.youtube.com/watch?v\u003dIikGK8XP5_Q",
+    "votes": 3,
+    "posted": "Nov 19, 2016 11:10:43 AM"
   },
   {
     "id": "12992672",
@@ -9061,60 +9085,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/global-opinions/wp/2016/11/10/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump",
     "votes": 4,
     "posted": "Nov 12, 2016 2:57:10 PM"
-  },
-  {
-    "id": "12937734",
-    "timestamp": "Nov 12, 2016 5:03:37 PM",
-    "topic": "Data to Money: How Much Does Google Owe You?",
-    "url": "https://www.youtube.com/watch?v\u003dW8kA-EZReA0",
-    "votes": 4,
-    "posted": "Nov 12, 2016 2:36:38 PM"
-  },
-  {
-    "id": "12937717",
-    "timestamp": "Nov 12, 2016 2:33:24 PM",
-    "topic": "Flexport is hiring for pretty much everything",
-    "url": "https://flexport.com/careers",
-    "votes": 1,
-    "posted": "Nov 12, 2016 2:29:23 PM"
-  },
-  {
-    "id": "12937676",
-    "timestamp": "Nov 12, 2016 3:13:27 PM",
-    "topic": "Next EPA chief does not believe in climate change, aligned with coal industry",
-    "url": "http://www.nytimes.com/2016/11/12/science/myron-ebell-trump-epa.html",
-    "votes": 6,
-    "posted": "Nov 12, 2016 2:17:01 PM"
-  },
-  {
-    "id": "12937661",
-    "timestamp": "Nov 12, 2016 11:04:10 PM",
-    "topic": "Ask HN: Do you use Google Inbox? Do you find it incredibly slow on desktop?",
-    "votes": 6,
-    "posted": "Nov 12, 2016 2:11:16 PM"
-  },
-  {
-    "id": "12937658",
-    "timestamp": "Nov 12, 2016 2:23:23 PM",
-    "topic": "Rs 500, Rs 1,000 cash ban: Govt failed those without bank accounts",
-    "url": "http://www.firstpost.com/india/rs-500-rs-1000-ban-modi-govts-intention-was-fair-but-failed-those-who-dont-have-bank-accounts-3102384.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 2:07:52 PM"
-  },
-  {
-    "id": "12937644",
-    "timestamp": "Nov 13, 2016 9:25:02 AM",
-    "topic": "Massive ID database seen as threat to personal freedom",
-    "url": "http://www.cbc.ca/news/world/france-database-security-1.3845206",
-    "votes": 3,
-    "posted": "Nov 12, 2016 2:02:09 PM"
-  },
-  {
-    "id": "12937635",
-    "timestamp": "Nov 13, 2016 1:14:23 AM",
-    "topic": "Indian tea workers\u0027 conditions remain very poor",
-    "url": "http://www.bbc.co.uk/news/world-asia-india-37936349",
-    "votes": 4,
-    "posted": "Nov 12, 2016 1:58:59 PM"
   }
 ];
