@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12991957",
+    "timestamp": "Nov 19, 2016 4:59:30 AM",
+    "topic": "Trump’s fake-news presidency",
+    "url": "https://www.washingtonpost.com/opinions/trumps-fake-news-presidency/2016/11/18/72cc7b14-ad96-11e6-977a-1030f822fc35_story.html",
+    "votes": 8,
+    "posted": "Nov 19, 2016 4:42:24 AM"
+  },
+  {
+    "id": "12991806",
+    "timestamp": "Nov 19, 2016 4:29:28 AM",
+    "topic": "Overton Window",
+    "url": "https://en.wikipedia.org/wiki/Overton_window",
+    "votes": 4,
+    "posted": "Nov 19, 2016 3:56:55 AM"
+  },
+  {
     "id": "12991581",
     "timestamp": "Nov 19, 2016 3:09:22 AM",
     "topic": "Why Don\u0027t Computer Scientists Learn Math?",
     "url": "http://research.microsoft.com/en-us/um/people/lamport/tla/math-knowledge.html",
     "votes": 5,
     "posted": "Nov 19, 2016 3:01:10 AM"
+  },
+  {
+    "id": "12991533",
+    "timestamp": "Nov 19, 2016 4:19:27 AM",
+    "topic": "Navy SEAL Mental Toughness Techniques",
+    "url": "https://betterhumans.coach.me/bulletproof-mind-6-secrets-of-mental-toughness-from-the-navy-seals-836154bec989",
+    "votes": 5,
+    "posted": "Nov 19, 2016 2:47:31 AM"
   },
   {
     "id": "12991524",
@@ -21,6 +45,22 @@ var newsArray = [
     "topic": "Upcall, an on-demand API Callforce, is hiring an Operations Manager",
     "votes": 1,
     "posted": "Nov 19, 2016 2:37:05 AM"
+  },
+  {
+    "id": "12991482",
+    "timestamp": "Nov 19, 2016 4:19:27 AM",
+    "topic": "Senators Want FCC to Crack Down on ‘Harmful Zero-Rating Offerings’",
+    "url": "https://morningconsult.com/2016/11/18/senators-call-fcc-crack-harmful-zero-rating-offerings/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 2:35:19 AM"
+  },
+  {
+    "id": "12991406",
+    "timestamp": "Nov 19, 2016 4:49:30 AM",
+    "topic": "United Will Not Allow Lowest-Fare Passengers to Use Overhead Bins",
+    "url": "http://www.huffingtonpost.com/entry/united-carry-on_us_582b3a6be4b02d21bbcab640",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:14:18 AM"
   },
   {
     "id": "12991398",
@@ -79,6 +119,13 @@ var newsArray = [
     "posted": "Nov 19, 2016 1:22:04 AM"
   },
   {
+    "id": "12991114",
+    "timestamp": "Nov 19, 2016 4:39:29 AM",
+    "topic": "Can someone please critique my developer resume after startup layoff?",
+    "votes": 5,
+    "posted": "Nov 19, 2016 1:15:41 AM"
+  },
+  {
     "id": "12991092",
     "timestamp": "Nov 19, 2016 1:39:14 AM",
     "topic": "The North Pole is an insane 20C warmer than normal as winter descends",
@@ -125,6 +172,13 @@ var newsArray = [
     "url": "https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react",
     "votes": 7,
     "posted": "Nov 19, 2016 12:49:01 AM"
+  },
+  {
+    "id": "12990902",
+    "timestamp": "Nov 19, 2016 4:19:27 AM",
+    "topic": "Ask HN: 6502 or Z80?",
+    "votes": 5,
+    "posted": "Nov 19, 2016 12:28:09 AM"
   },
   {
     "id": "12990828",
@@ -9027,29 +9081,5 @@ var newsArray = [
     "url": "https://dev.office.com/fabric",
     "votes": 5,
     "posted": "Nov 12, 2016 5:00:38 AM"
-  },
-  {
-    "id": "12936511",
-    "timestamp": "Nov 12, 2016 5:02:36 AM",
-    "topic": "‘We Couldn’t Believe Our Eyes’: A Lost World of Shipwrecks Is Found",
-    "url": "http://www.nytimes.com/2016/11/12/science/shipwrecks-black-sea-archaeology.html",
-    "votes": 4,
-    "posted": "Nov 12, 2016 4:56:03 AM"
-  },
-  {
-    "id": "12936418",
-    "timestamp": "Nov 12, 2016 6:42:44 AM",
-    "topic": "Government pot is less potent than commercial pot",
-    "url": "http://www.sciencemag.org/news/2016/11/government-pot-less-potent-commercial-pot-questioning-dozens-scientific-studies",
-    "votes": 4,
-    "posted": "Nov 12, 2016 4:20:28 AM"
-  },
-  {
-    "id": "12936353",
-    "timestamp": "Nov 12, 2016 5:23:39 PM",
-    "topic": "Tweetment Effects on the Tweeted: Experimentally Reducing Racist Harassment [pdf]",
-    "url": "http://kmunger.github.io/pdfs/Twitter_harassment_final.pdf",
-    "votes": 4,
-    "posted": "Nov 12, 2016 4:00:08 AM"
   }
 ];
