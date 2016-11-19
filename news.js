@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12993594",
+    "timestamp": "Nov 19, 2016 3:40:20 PM",
+    "topic": "Show HN: Tensorflow implementation of Conditional PixelCNN",
+    "url": "https://github.com/anantzoid/Conditional-PixelCNN-decoder",
+    "votes": 4,
+    "posted": "Nov 19, 2016 3:24:39 PM"
+  },
+  {
+    "id": "12993521",
+    "timestamp": "Nov 19, 2016 3:50:21 PM",
+    "topic": "New GNU Octave website",
+    "url": "https://www.gnu.org/software/octave/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 3:05:04 PM"
+  },
+  {
+    "id": "12993442",
+    "timestamp": "Nov 19, 2016 3:30:20 PM",
+    "topic": "The trolley problem (Relevant to autopilot mode in cars)",
+    "url": "https://en.wikipedia.org/wiki/Trolley_problem",
+    "votes": 3,
+    "posted": "Nov 19, 2016 2:42:21 PM"
+  },
+  {
+    "id": "12993350",
+    "timestamp": "Nov 19, 2016 3:10:18 PM",
+    "topic": "Exploratory Haskell (2015)",
+    "url": "http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 2:20:21 PM"
+  },
+  {
+    "id": "12993289",
+    "timestamp": "Nov 19, 2016 3:30:19 PM",
+    "topic": "Antarcticans Database Project",
+    "url": "http://www.coolantarctica.com/Community/Antarcticans-database-project.php",
+    "votes": 5,
+    "posted": "Nov 19, 2016 1:59:12 PM"
+  },
+  {
     "id": "12993144",
     "timestamp": "Nov 19, 2016 1:50:12 PM",
     "topic": "Switching to Ubuntu from Apple",
@@ -14,6 +54,14 @@ var newsArray = [
     "url": "http://www.abc.net.au/news/2016-11-19/tinkering-with-tanks-and-preserving-australian-farming-history/8017194",
     "votes": 3,
     "posted": "Nov 19, 2016 1:15:06 PM"
+  },
+  {
+    "id": "12993079",
+    "timestamp": "Nov 19, 2016 3:20:19 PM",
+    "topic": "How a tectonic plate sank",
+    "url": "https://qubitsnews.com/2016/11/19/geologists-discover-how-a-tectonic-plate-sank/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:58:53 PM"
   },
   {
     "id": "12993029",
@@ -538,6 +586,14 @@ var newsArray = [
     "url": "https://angel.co/piinpoint/jobs/",
     "votes": 1,
     "posted": "Nov 18, 2016 10:55:29 PM"
+  },
+  {
+    "id": "12990389",
+    "timestamp": "Nov 19, 2016 3:50:21 PM",
+    "topic": "Drilling into the Chicxulub Crater, Ground Zero of the Dinosaur Extinction",
+    "url": "http://www.nytimes.com/2016/11/18/science/chicxulub-crater-dinosaur-extinction.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dmini-moth\u0026region\u003dtop-stories-below\u0026WT.nav\u003dtop-stories-below",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:52:36 PM"
   },
   {
     "id": "12990339",
@@ -9029,61 +9085,5 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/do-you-live-in-a-mailorder-sears-kit-home-these-house-hunters-will-find-you?utm_source\u003dfacebook.com\u0026utm_medium\u003datlas-pagehttp://www.atlasobscura.com/articles/do-you-live-in-a-mailorder-sears-kit-home-these-house-hunters-will-find-you",
     "votes": 3,
     "posted": "Nov 12, 2016 3:59:04 PM"
-  },
-  {
-    "id": "12938052",
-    "timestamp": "Nov 13, 2016 1:14:22 AM",
-    "topic": "Stress \u0027changes brains of boys and girls differently\u0027",
-    "url": "http://www.bbc.com/news/health-37936514",
-    "votes": 3,
-    "posted": "Nov 12, 2016 3:50:09 PM"
-  },
-  {
-    "id": "12938039",
-    "timestamp": "Nov 12, 2016 5:43:40 PM",
-    "topic": "What So Many People Don’t Get About the U.S. Working Class",
-    "url": "https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class",
-    "votes": 6,
-    "posted": "Nov 12, 2016 3:47:54 PM"
-  },
-  {
-    "id": "12938016",
-    "timestamp": "Nov 12, 2016 5:03:37 PM",
-    "topic": "Nvidia  on new self-driving system: It’s basically 5 yrs ahead and coming in 2017",
-    "url": "https://electrek.co/2016/11/11/tesla-autopilot-chip-supplier-self-driving-hardware-its-five-years-ahead/",
-    "votes": 5,
-    "posted": "Nov 12, 2016 3:43:16 PM"
-  },
-  {
-    "id": "12937966",
-    "timestamp": "Nov 13, 2016 1:14:23 AM",
-    "topic": "The Dark Side of Silicon Valley: A Note from Gizmodo\u0027s Editor Katie Drummond",
-    "url": "http://digg.com/2016/gizmodo-takeover",
-    "votes": 4,
-    "posted": "Nov 12, 2016 3:33:41 PM"
-  },
-  {
-    "id": "12937845",
-    "timestamp": "Nov 12, 2016 5:03:37 PM",
-    "topic": "Stateless 3.0 – A State Machine Library for .NET Core",
-    "url": "http://www.hanselman.com/blog/Stateless30AStateMachineLibraryForNETCore.aspx",
-    "votes": 3,
-    "posted": "Nov 12, 2016 3:08:12 PM"
-  },
-  {
-    "id": "12937818",
-    "timestamp": "Nov 12, 2016 6:03:42 PM",
-    "topic": "Quant Job Interview Questions [pdf]",
-    "url": "http://www.math.kent.edu/~oana/math60070/InterviewProblems.pdf",
-    "votes": 9,
-    "posted": "Nov 12, 2016 3:01:40 PM"
-  },
-  {
-    "id": "12937807",
-    "timestamp": "Nov 12, 2016 3:03:26 PM",
-    "topic": "I’m a Muslim, a woman and an immigrant. I voted for Trump",
-    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2016/11/10/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump",
-    "votes": 4,
-    "posted": "Nov 12, 2016 2:57:10 PM"
   }
 ];
