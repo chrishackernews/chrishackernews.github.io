@@ -9060,29 +9060,5 @@ var newsArray = [
     "url": "http://www.inc.com/suzanne-lucas/no-you-cant-fire-people-for-voting-trump.html",
     "votes": 5,
     "posted": "Nov 12, 2016 7:13:09 AM"
-  },
-  {
-    "id": "12936797",
-    "timestamp": "Nov 12, 2016 3:33:29 PM",
-    "topic": "Show HN: Header-only, extensible C++17 argument parser",
-    "url": "https://github.com/sailormoon/flags",
-    "votes": 5,
-    "posted": "Nov 12, 2016 6:51:59 AM"
-  },
-  {
-    "id": "12936782",
-    "timestamp": "Nov 12, 2016 10:53:07 AM",
-    "topic": "Reasons not to use Uber",
-    "url": "http://stallman.org/uber.html",
-    "votes": 6,
-    "posted": "Nov 12, 2016 6:43:20 AM"
-  },
-  {
-    "id": "12936720",
-    "timestamp": "Nov 12, 2016 6:22:43 AM",
-    "topic": "Zapier is hiring a product engineer – remote welcome",
-    "url": "https://zapier.com/jobs/product-engineer-fall-2016/",
-    "votes": 1,
-    "posted": "Nov 12, 2016 6:15:19 AM"
   }
 ];
