@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12994291",
+    "timestamp": "Nov 19, 2016 6:30:36 PM",
+    "topic": "The Real Secret to Asian American Success Wasn\u0027t Education",
+    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/19/the-real-secret-to-asian-american-success-was-not-education/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 6:00:14 PM"
+  },
+  {
+    "id": "12994262",
+    "timestamp": "Nov 19, 2016 6:20:35 PM",
+    "topic": "Why Stoicism is one of the best mind-hacks ever devised",
+    "url": "https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised?utm_source\u003dTheAtlantic\u0026utm_campaign\u003dWeek1-TheAtlantic-Swap\u0026utm_medium\u003dsocial",
+    "votes": 9,
+    "posted": "Nov 19, 2016 5:55:47 PM"
+  },
+  {
     "id": "12994132",
     "timestamp": "Nov 19, 2016 5:50:33 PM",
     "topic": "DeepLearningKit: Open source framework for Apple platforms using Swift",
@@ -64,6 +80,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 3:24:39 PM"
   },
   {
+    "id": "12993593",
+    "timestamp": "Nov 19, 2016 6:40:37 PM",
+    "topic": "Firefox 51 to Enable WebGL 2, FLAC Audio, Skia Content Rendering on Linux",
+    "url": "https://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dFirefox-51-Beta",
+    "votes": 5,
+    "posted": "Nov 19, 2016 3:24:38 PM"
+  },
+  {
     "id": "12993549",
     "timestamp": "Nov 19, 2016 4:10:23 PM",
     "topic": "NIH Scientists Identify Potent Antibody That Neutralizes Nearly All HIV Strains",
@@ -78,6 +102,14 @@ var newsArray = [
     "url": "https://www.gnu.org/software/octave/",
     "votes": 4,
     "posted": "Nov 19, 2016 3:05:04 PM"
+  },
+  {
+    "id": "12993464",
+    "timestamp": "Nov 19, 2016 6:40:37 PM",
+    "topic": "Google’s iron grip on Android (2013)",
+    "url": "http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:49:14 PM"
   },
   {
     "id": "12993442",
@@ -112,6 +144,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 2:04:18 PM"
   },
   {
+    "id": "12993290",
+    "timestamp": "Nov 19, 2016 6:20:35 PM",
+    "topic": "Why bcrypt is not optimally secure",
+    "url": "http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage#answer-6415",
+    "votes": 3,
+    "posted": "Nov 19, 2016 1:59:14 PM"
+  },
+  {
     "id": "12993289",
     "timestamp": "Nov 19, 2016 3:30:19 PM",
     "topic": "Antarcticans Database Project",
@@ -126,6 +166,14 @@ var newsArray = [
     "url": "https://medium.com/@Genymotion/android-os-now-available-as-an-amazon-machine-image-72748130436b#.xxiouodep",
     "votes": 4,
     "posted": "Nov 19, 2016 1:50:13 PM"
+  },
+  {
+    "id": "12993248",
+    "timestamp": "Nov 19, 2016 6:20:35 PM",
+    "topic": "How Amazon Web Services (AWS) Achieved an $11.5B Run Rate by Working Backwards",
+    "url": "https://hitenism.com/amazon-working-backwards/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 1:47:52 PM"
   },
   {
     "id": "12993212",
@@ -477,6 +525,14 @@ var newsArray = [
     "url": "https://bugs.chromium.org/p/chromium/issues/detail?id\u003d662443",
     "votes": 4,
     "posted": "Nov 19, 2016 2:28:13 AM"
+  },
+  {
+    "id": "12991431",
+    "timestamp": "Nov 19, 2016 6:00:34 PM",
+    "topic": "Q and A: The future of artificial intelligence",
+    "url": "http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:20:00 AM"
   },
   {
     "id": "12991406",
@@ -2085,6 +2141,14 @@ var newsArray = [
     "url": "http://www.thedenverchannel.com/news/local-news/navy-identifies-mystery-plane-over-denver-its-mission-still-a-secret",
     "votes": 3,
     "posted": "Nov 18, 2016 2:17:06 AM"
+  },
+  {
+    "id": "12983347",
+    "timestamp": "Nov 19, 2016 6:30:36 PM",
+    "topic": "The Intrusion Artist: Robert Bresson",
+    "url": "http://www.publicbooks.org//artmedia/the-intrusion-artist",
+    "votes": 3,
+    "posted": "Nov 18, 2016 1:52:56 AM"
   },
   {
     "id": "12983331",
@@ -9095,61 +9159,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/national/health-science/a-river-of-lost-souls-runs-through-western-colorado/2016/11/03/154fd1a0-8651-11e6-a3ef-f35afb41797f_story.html",
     "votes": 4,
     "posted": "Nov 12, 2016 7:12:23 PM"
-  },
-  {
-    "id": "12939044",
-    "timestamp": "Nov 12, 2016 9:44:02 PM",
-    "topic": "Deep Learning with Generative Adverserial Networks – ICLR 2017 Discoveries",
-    "url": "https://amundtveit.com/2016/11/12/deep-learning-with-generative-and-generative-adverserial-networks-iclr-2017-discoveries/",
-    "votes": 5,
-    "posted": "Nov 12, 2016 6:50:15 PM"
-  },
-  {
-    "id": "12938966",
-    "timestamp": "Nov 12, 2016 6:53:47 PM",
-    "topic": "Donald Trump’s Election Leaves Angela Merkel as the Liberal West’s Last Defender",
-    "url": "http://www.nytimes.com/2016/11/13/world/europe/germany-merkel-trump-election.html",
-    "votes": 12,
-    "posted": "Nov 12, 2016 6:37:29 PM"
-  },
-  {
-    "id": "12938871",
-    "timestamp": "Nov 12, 2016 9:54:04 PM",
-    "topic": "Deep Learning for Natural Language Processing – ICLR 2017 Discoveries",
-    "url": "https://amundtveit.com/2016/11/12/deep-learning-for-natural-language-processing-iclr-2017-discoveries/",
-    "votes": 5,
-    "posted": "Nov 12, 2016 6:21:40 PM"
-  },
-  {
-    "id": "12938863",
-    "timestamp": "Nov 12, 2016 7:03:48 PM",
-    "topic": "Rook – Open, Cloud Native, and Universal Distributed Storage in Alpha",
-    "url": "https://github.com/rook/rook",
-    "votes": 5,
-    "posted": "Nov 12, 2016 6:20:16 PM"
-  },
-  {
-    "id": "12938744",
-    "timestamp": "Nov 12, 2016 6:13:43 PM",
-    "topic": "How Green Is That Grocery Bag Ban? [pdf]",
-    "url": "http://reason.org/files/how_green_bag_ban.pdf",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:55:26 PM"
-  },
-  {
-    "id": "12938742",
-    "timestamp": "Nov 12, 2016 6:13:43 PM",
-    "topic": "How to accept Bitcoin payments yourself (without running a full node)",
-    "url": "http://incoherency.co.uk/blog/stories/how-to-accept-bitcoin-payments.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:55:21 PM"
-  },
-  {
-    "id": "12938727",
-    "timestamp": "Nov 12, 2016 8:43:57 PM",
-    "topic": "Clifford Algebra: A visual introduction (2014)",
-    "url": "https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/",
-    "votes": 4,
-    "posted": "Nov 12, 2016 5:53:05 PM"
   }
 ];
