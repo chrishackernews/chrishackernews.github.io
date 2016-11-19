@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12992145",
+    "timestamp": "Nov 19, 2016 5:59:36 AM",
+    "topic": "Streak (YC S11) Hiring a Senior Back End Engineer",
+    "url": "https://www.streak.com/careers#BackendTechLead",
+    "votes": 1,
+    "posted": "Nov 19, 2016 5:55:37 AM"
+  },
+  {
+    "id": "12991986",
+    "timestamp": "Nov 19, 2016 5:29:34 AM",
+    "topic": "Blender Project: Miyazaki Tribute",
+    "url": "https://www.blender.org/user-stories/miyazaki-tribute/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 4:53:30 AM"
+  },
+  {
     "id": "12991957",
     "timestamp": "Nov 19, 2016 4:59:30 AM",
     "topic": "Trump’s fake-news presidency",
@@ -14,6 +30,22 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/Overton_window",
     "votes": 4,
     "posted": "Nov 19, 2016 3:56:55 AM"
+  },
+  {
+    "id": "12991788",
+    "timestamp": "Nov 19, 2016 5:29:34 AM",
+    "topic": "Stop Wasting Time: Pair Programming Rocks",
+    "url": "https://medium.com/javascript-scene/stop-wasting-time-pair-programming-rocks-4a99604cb09d",
+    "votes": 4,
+    "posted": "Nov 19, 2016 3:51:32 AM"
+  },
+  {
+    "id": "12991764",
+    "timestamp": "Nov 19, 2016 5:39:35 AM",
+    "topic": "Three Powerful Conversations Managers Must Have to Develop Their People",
+    "url": "http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 3:47:10 AM"
   },
   {
     "id": "12991581",
@@ -172,6 +204,14 @@ var newsArray = [
     "url": "https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react",
     "votes": 7,
     "posted": "Nov 19, 2016 12:49:01 AM"
+  },
+  {
+    "id": "12990981",
+    "timestamp": "Nov 19, 2016 5:29:34 AM",
+    "topic": "China Presses Tech Firms to Police the Internet",
+    "url": "http://www.wsj.com/articles/china-presses-tech-firms-to-police-the-internet-1479467851",
+    "votes": 4,
+    "posted": "Nov 19, 2016 12:46:45 AM"
   },
   {
     "id": "12990902",
@@ -353,6 +393,14 @@ var newsArray = [
     "url": "https://apply.ptt.gov/yourstory/",
     "votes": 7,
     "posted": "Nov 18, 2016 10:06:00 PM"
+  },
+  {
+    "id": "12989971",
+    "timestamp": "Nov 19, 2016 5:09:32 AM",
+    "topic": "IRS to Coinbase: please identify active US traders between 2013 and 2015",
+    "url": "http://arstechnica.com/tech-policy/2016/11/irs-to-coinbase-please-identify-active-us-traders-between-2013-and-2015/",
+    "votes": 10,
+    "posted": "Nov 18, 2016 9:50:55 PM"
   },
   {
     "id": "12989954",
@@ -544,6 +592,14 @@ var newsArray = [
     "url": "http://www.theatlantic.com/technology/archive/2016/11/trumps-cia-director-wants-to-return-to-a-pre-snowden-world/508136/?single_page\u003dtrue",
     "votes": 9,
     "posted": "Nov 18, 2016 6:57:20 PM"
+  },
+  {
+    "id": "12988594",
+    "timestamp": "Nov 19, 2016 5:29:34 AM",
+    "topic": "How complex systems fail",
+    "url": "http://muratbuffalo.blogspot.com/2016/11/how-complex-systems-fail.html",
+    "votes": 7,
+    "posted": "Nov 18, 2016 6:53:37 PM"
   },
   {
     "id": "12988442",
@@ -9028,58 +9084,5 @@ var newsArray = [
     "url": "https://zapier.com/jobs/product-engineer-fall-2016/",
     "votes": 1,
     "posted": "Nov 12, 2016 6:15:19 AM"
-  },
-  {
-    "id": "12936662",
-    "timestamp": "Nov 12, 2016 8:02:51 AM",
-    "topic": "Ask HN: How do you perform Usability testing?",
-    "votes": 4,
-    "posted": "Nov 12, 2016 5:49:07 AM"
-  },
-  {
-    "id": "12936658",
-    "timestamp": "Nov 12, 2016 5:52:40 AM",
-    "topic": "Make Hacker News Great Again",
-    "votes": 6,
-    "posted": "Nov 12, 2016 5:47:21 AM"
-  },
-  {
-    "id": "12936656",
-    "timestamp": "Nov 13, 2016 2:45:32 PM",
-    "topic": "The Taste Makers (2009)",
-    "url": "http://www.newyorker.com/magazine/2009/11/23/the-taste-makers?currentPage\u003dall",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:46:18 AM"
-  },
-  {
-    "id": "12936650",
-    "timestamp": "Nov 12, 2016 6:02:41 AM",
-    "topic": "Ask HN: An idea that you could not implement?",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:45:54 AM"
-  },
-  {
-    "id": "12936641",
-    "timestamp": "Nov 12, 2016 6:22:42 AM",
-    "topic": "Bernie Sanders: Where the Democrats Go from Here",
-    "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
-    "votes": 10,
-    "posted": "Nov 12, 2016 5:40:47 AM"
-  },
-  {
-    "id": "12936586",
-    "timestamp": "Nov 12, 2016 7:42:49 AM",
-    "topic": "China ends anonymity on its internet starting June 2017",
-    "url": "https://www.techinasia.com/china-ends-anonymity-internet",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:23:52 AM"
-  },
-  {
-    "id": "12936524",
-    "timestamp": "Nov 12, 2016 5:52:40 AM",
-    "topic": "Office UI Fabric by Microsoft",
-    "url": "https://dev.office.com/fabric",
-    "votes": 5,
-    "posted": "Nov 12, 2016 5:00:38 AM"
   }
 ];
