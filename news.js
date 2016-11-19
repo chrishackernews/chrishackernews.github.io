@@ -882,6 +882,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 4:50:02 PM"
   },
   {
+    "id": "12987520",
+    "timestamp": "Nov 19, 2016 12:20:05 PM",
+    "topic": "Show HN: Try Swift without a mac! 150+ Online Exercises",
+    "url": "https://www.weheartswift.com/online-exercises/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 4:47:27 PM"
+  },
+  {
     "id": "12987461",
     "timestamp": "Nov 18, 2016 5:58:11 PM",
     "topic": "Show HN: Code2flow – easy flowcharts with no mouse, no dragging and no hassle",
@@ -9092,45 +9100,5 @@ var newsArray = [
     "url": "http://nathanjurgenson.com/post/152938927255/factiness",
     "votes": 3,
     "posted": "Nov 12, 2016 1:34:18 PM"
-  },
-  {
-    "id": "12937465",
-    "timestamp": "Nov 12, 2016 1:33:19 PM",
-    "topic": "The Scientist Who Helped Amy Adams Talk to Aliens in “Arrival”",
-    "url": "http://nautil.us/blog/the-scientist-who-helped-amy-adams-talk-to-aliens-in-arrival",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:28:16 PM"
-  },
-  {
-    "id": "12937456",
-    "timestamp": "Nov 12, 2016 1:23:18 PM",
-    "topic": "NES Classic Mini boot image dump method via UART and USB",
-    "url": "https://translate.google.com/translate?sl\u003dja\u0026tl\u003den\u0026js\u003dy\u0026prev\u003d_t\u0026hl\u003den\u0026ie\u003dUTF-8\u0026u\u003dhttps%3A%2F%2Fwww.ns-koubou.com%2Fblog%2F2016%2F11%2F11%2Fnes_classic%2F\u0026edit-text\u003d",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:23:01 PM"
-  },
-  {
-    "id": "12937441",
-    "timestamp": "Nov 12, 2016 1:23:18 PM",
-    "topic": "Donald Trump Could Put Climate Change on Course for ‘Danger Zone’",
-    "url": "http://www.nytimes.com/2016/11/11/us/politics/donald-trump-climate-change.html",
-    "votes": 4,
-    "posted": "Nov 12, 2016 12:15:20 PM"
-  },
-  {
-    "id": "12937420",
-    "timestamp": "Nov 12, 2016 12:53:15 PM",
-    "topic": "I’m Arab and Many of Us Are Glad That Trump Won",
-    "url": "https://medium.com/@omarkamel/im-arab-and-many-of-us-are-glad-that-trump-won-c98e1c6ae891#.do345jz6r",
-    "votes": 4,
-    "posted": "Nov 12, 2016 12:06:04 PM"
-  },
-  {
-    "id": "12937418",
-    "timestamp": "Nov 12, 2016 1:13:17 PM",
-    "topic": "Stallman: Why it is important not to have children (2012)",
-    "url": "https://stallman.org/articles/children.html",
-    "votes": 5,
-    "posted": "Nov 12, 2016 12:05:41 PM"
   }
 ];
