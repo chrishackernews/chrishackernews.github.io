@@ -1,5 +1,60 @@
 var newsArray = [
   {
+    "id": "12990828",
+    "timestamp": "Nov 19, 2016 12:39:09 AM",
+    "topic": "Stephen Colbert Goes Off on Oxford Dictionaries’ Word of the Year",
+    "url": "http://www.huffingtonpost.com/entry/stephen-colbert-post-truth_us_582ed0b5e4b030997bbed536",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:09:34 AM"
+  },
+  {
+    "id": "12990811",
+    "timestamp": "Nov 19, 2016 12:39:08 AM",
+    "topic": "AI beating humans? Not in my lifetime, says Google’s cloud chief",
+    "url": "https://www.airsassociation.org/services-new/airs-knowledge-network-n/blog/entry/ai-beating-humans-not-in-my-lifetime-says-google-s-cloud-chief",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:04:56 AM"
+  },
+  {
+    "id": "12990791",
+    "timestamp": "Nov 19, 2016 12:59:11 AM",
+    "topic": "The Beta Marriage: How Millennials Approach \u0027I Do\u0027",
+    "url": "http://time.com/3024606/millennials-marriage-sex-relationships-hook-ups/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:02:05 AM"
+  },
+  {
+    "id": "12990740",
+    "timestamp": "Nov 19, 2016 12:49:10 AM",
+    "topic": "Omnidirectional Belts",
+    "url": "https://www.youtube.com/watch?list\u003dPLKfWL8IXgKBte4TfD53pLaHONfSYCX0RH\u0026v\u003dtqLYhhV7u7Y",
+    "votes": 5,
+    "posted": "Nov 18, 2016 11:53:29 PM"
+  },
+  {
+    "id": "12990722",
+    "timestamp": "Nov 19, 2016 12:09:04 AM",
+    "topic": "World’s First Photonic Neural Network Unveiled",
+    "url": "https://www.technologyreview.com/s/602938/worlds-first-photonic-neural-network-unveiled/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:50:13 PM"
+  },
+  {
+    "id": "12990718",
+    "timestamp": "Nov 19, 2016 12:09:04 AM",
+    "topic": "Trump University Settles Fraud Claims for $25M",
+    "url": "http://www.bloomberg.com/politics/articles/2016-11-18/trump-university-settles-fraud-claims-for-25-million",
+    "votes": 3,
+    "posted": "Nov 18, 2016 11:48:58 PM"
+  },
+  {
+    "id": "12990612",
+    "timestamp": "Nov 19, 2016 12:19:06 AM",
+    "topic": "Show HN: Get a great domain by translating your keyword into 30+ languages",
+    "votes": 4,
+    "posted": "Nov 18, 2016 11:29:14 PM"
+  },
+  {
     "id": "12990556",
     "timestamp": "Nov 18, 2016 11:59:03 PM",
     "topic": "Trump Presidency – Indian students unsure about pursuing US higher education",
@@ -62,6 +117,14 @@ var newsArray = [
     "url": "http://www.sixthtone.com/news/robot-goes-rogue-shenzhen-fair-injures-bystander",
     "votes": 3,
     "posted": "Nov 18, 2016 10:28:45 PM"
+  },
+  {
+    "id": "12990180",
+    "timestamp": "Nov 19, 2016 12:49:10 AM",
+    "topic": "How the Cult of “Fact-Checking” Helped Trump Win",
+    "url": "https://medium.com/@mtracey/how-the-cult-of-fact-checking-helped-trump-win-bc51f7b69f49#.x4bb2uywu",
+    "votes": 3,
+    "posted": "Nov 18, 2016 10:20:42 PM"
   },
   {
     "id": "12990179",
@@ -143,6 +206,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 8:44:08 PM"
   },
   {
+    "id": "12989489",
+    "timestamp": "Nov 19, 2016 12:09:05 AM",
+    "topic": "China Used Crispr to Fight Cancer in a Real, Live Human",
+    "url": "https://www.wired.com/2016/11/china-used-crispr-fight-cancer-real-live-human/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 8:41:40 PM"
+  },
+  {
     "id": "12989357",
     "timestamp": "Nov 18, 2016 8:58:33 PM",
     "topic": "New CIA director thinks Snowden should be killed",
@@ -222,12 +293,28 @@ var newsArray = [
     "posted": "Nov 18, 2016 7:27:09 PM"
   },
   {
+    "id": "12988905",
+    "timestamp": "Nov 19, 2016 12:09:05 AM",
+    "topic": "Will Donald Trump send the marijuana industry up in smoke?",
+    "url": "http://finance.yahoo.com/news/will-donald-trump-send-the-marijuana-industry-up-in-smoke-232828404.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 7:26:08 PM"
+  },
+  {
     "id": "12988865",
     "timestamp": "Nov 18, 2016 11:39:00 PM",
     "topic": "Automatic Racial Discrimination via Artificial Intelligence",
     "url": "https://arxiv.org/abs/1611.04135",
     "votes": 5,
     "posted": "Nov 18, 2016 7:22:24 PM"
+  },
+  {
+    "id": "12988843",
+    "timestamp": "Nov 19, 2016 12:09:05 AM",
+    "topic": "How the Trump Campaign Used Facebook Ads to Win the Election",
+    "url": "https://medium.com/@MedicalReport/how-the-trump-campaign-built-an-identity-database-and-used-facebook-ads-to-win-the-election-4ff7d24269ac#.1wmilha2n",
+    "votes": 3,
+    "posted": "Nov 18, 2016 7:20:21 PM"
   },
   {
     "id": "12988803",
@@ -310,6 +397,22 @@ var newsArray = [
     "posted": "Nov 18, 2016 6:17:08 PM"
   },
   {
+    "id": "12987946",
+    "timestamp": "Nov 19, 2016 12:09:05 AM",
+    "topic": "Facing Immigration Crackdown, Silicon Valley Rethinks Its Dreams",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-17/facing-immigration-crackdown-silicon-valley-rethinks-its-dreams",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:35:18 PM"
+  },
+  {
+    "id": "12987942",
+    "timestamp": "Nov 19, 2016 12:09:04 AM",
+    "topic": "National Security Agency Said to Use Manhattan Tower as Listening Post",
+    "url": "http://www.nytimes.com/2016/11/18/nyregion/national-security-agency-said-to-use-manhattan-tower-as-listening-post.html",
+    "votes": 3,
+    "posted": "Nov 18, 2016 5:34:38 PM"
+  },
+  {
     "id": "12987927",
     "timestamp": "Nov 18, 2016 7:28:20 PM",
     "topic": "Compile-time C Compiler implemented as C++14 constant expressions",
@@ -324,6 +427,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/18/google-reverses-its-digital-death-sentence-for-pixel-phone-resellers/",
     "votes": 6,
     "posted": "Nov 18, 2016 5:30:05 PM"
+  },
+  {
+    "id": "12987807",
+    "timestamp": "Nov 19, 2016 12:09:05 AM",
+    "topic": "Turkey’s Free Press Withers as Erdogan Jails 120 Journalists",
+    "url": "http://www.nytimes.com/2016/11/18/world/europe/turkey-press-erdogan-coup.html",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:20:28 PM"
   },
   {
     "id": "12987701",
@@ -372,6 +483,14 @@ var newsArray = [
     "url": "https://code2flow.com",
     "votes": 12,
     "posted": "Nov 18, 2016 4:40:44 PM"
+  },
+  {
+    "id": "12987446",
+    "timestamp": "Nov 19, 2016 12:09:05 AM",
+    "topic": "Why Silicon Valley May Warm to Trump",
+    "url": "http://www.theatlantic.com/technology/archive/2016/11/what-trump-means-for-silicon-valley/508091/?utm_source\u003datlgp\u0026amp;single_page\u003dtrue",
+    "votes": 7,
+    "posted": "Nov 18, 2016 4:38:55 PM"
   },
   {
     "id": "12987384",
@@ -486,6 +605,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 2:42:25 PM"
   },
   {
+    "id": "12986611",
+    "timestamp": "Nov 19, 2016 12:19:07 AM",
+    "topic": "Chrome Extension which warns against fake news and Satire in FB",
+    "url": "https://chrome.google.com/webstore/detail/news-guardian/iinonikkakojeckpagjdodleifjdaeae",
+    "votes": 4,
+    "posted": "Nov 18, 2016 2:37:03 PM"
+  },
+  {
     "id": "12986597",
     "timestamp": "Nov 18, 2016 2:57:55 PM",
     "topic": "Apple admits to iPhone ‘touch disease,’ blames users and offers $149 fix",
@@ -557,6 +684,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 12:39:58 PM"
   },
   {
+    "id": "12985995",
+    "timestamp": "Nov 19, 2016 12:29:07 AM",
+    "topic": "Talk at Princeton High About Privacy Takes a Controversial Turn",
+    "url": "https://planetprinceton.com/2016/11/17/talk-at-princeton-high-about-digital-privacy-takes-a-controversial-turn-principal-apologizes/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 12:28:40 PM"
+  },
+  {
     "id": "12985978",
     "timestamp": "Nov 18, 2016 12:37:39 PM",
     "topic": "Having-a-work-spouse-makes-you-happier",
@@ -571,6 +706,14 @@ var newsArray = [
     "url": "https://twitter.com/ErrataRob/status/799556482719162368",
     "votes": 3,
     "posted": "Nov 18, 2016 12:23:09 PM"
+  },
+  {
+    "id": "12985965",
+    "timestamp": "Nov 19, 2016 12:29:07 AM",
+    "topic": "IRS Seeks Transaction Records of All Coinbase Users Over Two Years",
+    "url": "https://goldsilverbitcoin.com/irs-seeks-transaction-records-of-all-coinbase-users/",
+    "votes": 6,
+    "posted": "Nov 18, 2016 12:20:48 PM"
   },
   {
     "id": "12985963",
@@ -1322,6 +1465,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 12:32:11 AM"
   },
   {
+    "id": "12982811",
+    "timestamp": "Nov 19, 2016 12:39:09 AM",
+    "topic": "Some genetic disorders may be caused by defects we couldn’t detect",
+    "url": "http://arstechnica.com/science/2016/11/some-genetic-disorders-may-be-caused-by-defects-we-couldnt-detect/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 12:30:31 AM"
+  },
+  {
     "id": "12982738",
     "timestamp": "Nov 18, 2016 12:36:39 AM",
     "topic": "Airbnb expands to experiences",
@@ -1368,6 +1519,14 @@ var newsArray = [
     "url": "http://unfathomable.epicmagazine.com",
     "votes": 4,
     "posted": "Nov 17, 2016 11:37:44 PM"
+  },
+  {
+    "id": "12982397",
+    "timestamp": "Nov 19, 2016 12:39:09 AM",
+    "topic": "Twitter\u0027s Misbegotten Censorship",
+    "url": "http://www.theatlantic.com/politics/archive/2016/11/twitter-censorship-will-only-empower-the-alt-right/507929/?single_page\u003dtrue",
+    "votes": 8,
+    "posted": "Nov 17, 2016 11:36:20 PM"
   },
   {
     "id": "12982364",
@@ -2911,6 +3070,14 @@ var newsArray = [
     "url": "https://github.com/samyk/poisontap",
     "votes": 5,
     "posted": "Nov 16, 2016 10:04:43 PM"
+  },
+  {
+    "id": "12971500",
+    "timestamp": "Nov 19, 2016 12:39:09 AM",
+    "topic": "Dual-Port 2A USB Chargers Only $1.95",
+    "url": "http://www.eetimes.com/author.asp?doc_id\u003d1330825\u0026section_id\u003d216",
+    "votes": 4,
+    "posted": "Nov 16, 2016 10:04:29 PM"
   },
   {
     "id": "12971493",
@@ -8930,69 +9097,5 @@ var newsArray = [
     "url": "https://aeon.co/essays/how-a-medieval-mystic-was-the-first-creator-of-fanfiction",
     "votes": 3,
     "posted": "Nov 12, 2016 1:06:08 AM"
-  },
-  {
-    "id": "12935604",
-    "timestamp": "Nov 12, 2016 1:32:17 AM",
-    "topic": "Microsoft\u0027s iOS app augments hues for color-blind folks",
-    "url": "https://www.engadget.com/2016/11/11/color-binoculars-color-blind-app-free-ios/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:56:28 AM"
-  },
-  {
-    "id": "12935579",
-    "timestamp": "Nov 12, 2016 4:53:35 PM",
-    "topic": "What’s in a Brand name?",
-    "url": "http://www.newyorker.com/magazine/2016/11/14/whats-in-a-brand-name",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:52:10 AM"
-  },
-  {
-    "id": "12935565",
-    "timestamp": "Nov 12, 2016 1:12:16 AM",
-    "topic": "Why FiveThirtyEight Gave Trump a Better Chance Than Almost Anyone Else",
-    "url": "http://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:49:20 AM"
-  },
-  {
-    "id": "12935495",
-    "timestamp": "Nov 12, 2016 12:52:14 AM",
-    "topic": "Apache Solr 6.3.0 released",
-    "url": "http://mail-archives.apache.org/mod_mbox/www-announce/201611.mbox/%3CCAOOKt51%3D9nAzaUXJZgE5M04JyoZYeD7WdWvan3jAE%3Dz0UD49BA%40mail.gmail.com%3E",
-    "votes": 7,
-    "posted": "Nov 12, 2016 12:40:32 AM"
-  },
-  {
-    "id": "12935446",
-    "timestamp": "Nov 12, 2016 5:02:36 AM",
-    "topic": "Why I don\u0027t use Gnome Shell",
-    "url": "http://liam-on-linux.livejournal.com/52807.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:31:15 AM"
-  },
-  {
-    "id": "12935417",
-    "timestamp": "Nov 12, 2016 1:02:15 AM",
-    "topic": "How Digital Industry Can Solve the Sustainable Development Goals",
-    "url": "http://allafrica.com/stories/201611031068.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:26:35 AM"
-  },
-  {
-    "id": "12935362",
-    "timestamp": "Nov 12, 2016 12:32:12 AM",
-    "topic": "Nintendowned: Amazon sells out of the NES Classic Edition in (null) seconds",
-    "url": "https://techcrunch.com/2016/11/11/nintendowned-amazon-sells-out-of-nes-classic-editions-in-null-seconds/",
-    "votes": 4,
-    "posted": "Nov 12, 2016 12:15:24 AM"
-  },
-  {
-    "id": "12935281",
-    "timestamp": "Nov 12, 2016 1:52:19 AM",
-    "topic": "Massive Disruption Is Coming with Quantum Computing",
-    "url": "http://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/?utm_content\u003dbufferc746a\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook-hub\u0026utm_campaign\u003dbuffer",
-    "votes": 3,
-    "posted": "Nov 12, 2016 12:00:45 AM"
   }
 ];
