@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12995972",
+    "timestamp": "Nov 19, 2016 11:51:17 PM",
+    "topic": "First power drawn from tidal turbines off the coast of Scotland",
+    "url": "http://arstechnica.com/business/2016/11/first-power-drawn-from-tidal-turbines-off-the-coast-of-scotland/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 11:09:23 PM"
+  },
+  {
+    "id": "12995857",
+    "timestamp": "Nov 19, 2016 11:01:11 PM",
+    "topic": "Send in the Clones: If Apple doesn’t want to innovate the desktop Mac",
+    "url": "https://9to5mac.com/2016/11/17/apples-future-in-the-desktop-computer-business/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 10:43:39 PM"
+  },
+  {
     "id": "12995851",
     "timestamp": "Nov 19, 2016 10:51:09 PM",
     "topic": "EquipmentShare (YC W15) Looking for Engineers to Connect Machines [Remote/MO]",
     "url": "https://equipmentshare.com/jobs",
     "votes": 1,
     "posted": "Nov 19, 2016 10:42:14 PM"
+  },
+  {
+    "id": "12995517",
+    "timestamp": "Nov 19, 2016 11:21:13 PM",
+    "topic": "The Film J.D. Salinger Nearly Made",
+    "url": "http://www.newyorker.com/magazine/2016/11/21/the-film-jd-salinger-nearly-made",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:43:15 PM"
   },
   {
     "id": "12995508",
@@ -16,12 +40,28 @@ var newsArray = [
     "posted": "Nov 19, 2016 9:41:44 PM"
   },
   {
+    "id": "12995495",
+    "timestamp": "Nov 19, 2016 11:51:16 PM",
+    "topic": "The high-tech ideas of Bucky Fuller",
+    "url": "https://aeon.co/essays/why-the-high-tech-ideas-of-bucky-fuller-are-back-in-vogue",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:38:43 PM"
+  },
+  {
     "id": "12995493",
     "timestamp": "Nov 19, 2016 9:51:04 PM",
     "topic": "Trump’s attorney general pick could restart the encryption fight",
     "url": "http://www.theverge.com/2016/11/18/13677798/attorney-general-jeff-sessions-encryption-san-bernardino-trump",
     "votes": 3,
     "posted": "Nov 19, 2016 9:38:04 PM"
+  },
+  {
+    "id": "12995435",
+    "timestamp": "Nov 19, 2016 11:51:17 PM",
+    "topic": "World\u0027s poorest countries to aim for 100% green energy",
+    "url": "http://www.bbc.com/news/science-environment-38028130",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:27:51 PM"
   },
   {
     "id": "12995405",
@@ -54,6 +94,14 @@ var newsArray = [
     "url": "http://www.brendangregg.com/usemethod.html",
     "votes": 3,
     "posted": "Nov 19, 2016 8:49:21 PM"
+  },
+  {
+    "id": "12995197",
+    "timestamp": "Nov 19, 2016 11:51:16 PM",
+    "topic": "The defunct language of nautical flags",
+    "url": "http://www.theparisreview.org/blog/2016/11/18/at-sea/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 8:38:45 PM"
   },
   {
     "id": "12995181",
@@ -94,6 +142,22 @@ var newsArray = [
     "url": "https://www.gnu.org/philosophy/surveillance-vs-democracy.html",
     "votes": 3,
     "posted": "Nov 19, 2016 8:14:26 PM"
+  },
+  {
+    "id": "12994899",
+    "timestamp": "Nov 19, 2016 11:01:11 PM",
+    "topic": "A Painless Guide to CRC Error Detections Algorithms (1993)",
+    "url": "http://www.zlib.net/crc_v3.txt",
+    "votes": 3,
+    "posted": "Nov 19, 2016 7:44:57 PM"
+  },
+  {
+    "id": "12994890",
+    "timestamp": "Nov 19, 2016 11:31:14 PM",
+    "topic": "2016 Ipsum",
+    "url": "https://www.2016ipsum.co",
+    "votes": 3,
+    "posted": "Nov 19, 2016 7:43:31 PM"
   },
   {
     "id": "12994871",
@@ -214,6 +278,14 @@ var newsArray = [
     "url": "https://www.dropboxforum.com/t5/Desktop-client-builds/Beta-Build-15-3-19/m-p/194282#M3484",
     "votes": 5,
     "posted": "Nov 19, 2016 3:54:51 PM"
+  },
+  {
+    "id": "12993610",
+    "timestamp": "Nov 19, 2016 11:01:11 PM",
+    "topic": "63 days to make these 5 changes to protect your users before Trump is sworn in",
+    "url": "https://boingboing.net/2016/11/18/tech-companies-you-have-63-da.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 3:28:54 PM"
   },
   {
     "id": "12993594",
@@ -9106,76 +9178,5 @@ var newsArray = [
     "url": "https://github.com/MicheleBertoli/css-in-js",
     "votes": 5,
     "posted": "Nov 13, 2016 12:02:36 AM"
-  },
-  {
-    "id": "12940615",
-    "timestamp": "Nov 12, 2016 11:54:14 PM",
-    "topic": "Writing an HTTP server in Prolog",
-    "url": "http://jamesbvaughan.com/writing-an-http-server-in-prolog/",
-    "votes": 6,
-    "posted": "Nov 12, 2016 11:42:31 PM"
-  },
-  {
-    "id": "12940598",
-    "timestamp": "Nov 13, 2016 12:04:15 AM",
-    "topic": "Celery 4.0",
-    "url": "http://docs.celeryproject.org/en/latest/whatsnew-4.0.html",
-    "votes": 6,
-    "posted": "Nov 12, 2016 11:38:38 PM"
-  },
-  {
-    "id": "12940581",
-    "timestamp": "Nov 12, 2016 11:54:14 PM",
-    "topic": "Apple is doubling down on open source",
-    "url": "http://www.techrepublic.com/google-amp/article/apple-is-doubling-down-on-open-source/",
-    "votes": 8,
-    "posted": "Nov 12, 2016 11:34:00 PM"
-  },
-  {
-    "id": "12940580",
-    "timestamp": "Nov 13, 2016 12:34:17 AM",
-    "topic": "Ask HN: Someone here to team up with me on a project to learn react together?",
-    "votes": 3,
-    "posted": "Nov 12, 2016 11:33:43 PM"
-  },
-  {
-    "id": "12940512",
-    "timestamp": "Nov 14, 2016 5:57:59 PM",
-    "topic": "Facebook Is Said to Question Its Influence in Election",
-    "url": "http://www.nytimes.com/2016/11/14/technology/facebook-is-said-to-question-its-influence-in-election.html?_r\u003d0`",
-    "votes": 4,
-    "posted": "Nov 12, 2016 11:17:26 PM"
-  },
-  {
-    "id": "12940505",
-    "timestamp": "Nov 13, 2016 1:55:26 PM",
-    "topic": "Self-driving grocery vehicles introduced in Norway",
-    "url": "http://news.xinhuanet.com/english/2016-11/12/c_135824781.htm",
-    "votes": 4,
-    "posted": "Nov 12, 2016 11:15:29 PM"
-  },
-  {
-    "id": "12940470",
-    "timestamp": "Nov 13, 2016 1:14:21 AM",
-    "topic": "Apple Deprecated All My Stuff",
-    "url": "https://leejo.github.io/2016/11/12/apple_deprecated_all_my_stuff/",
-    "votes": 10,
-    "posted": "Nov 12, 2016 11:06:25 PM"
-  },
-  {
-    "id": "12940467",
-    "timestamp": "Nov 13, 2016 1:14:21 AM",
-    "topic": "The Head Girl Syndrome",
-    "url": "https://iqpersonalitygenius.blogspot.com/2013/07/the-head-girl-syndrome-opposite-of.html",
-    "votes": 5,
-    "posted": "Nov 12, 2016 11:05:37 PM"
-  },
-  {
-    "id": "12940464",
-    "timestamp": "Nov 13, 2016 1:04:20 AM",
-    "topic": "The Happiest People Don\u0027t Let Their Minds Wander, According to a Harvard Study",
-    "url": "http://www.inc.com/quora/the-happiest-people-dont-let-their-minds-wander-according-to-a-harvard-study.html?utm_source\u003dpocket\u0026utm_medium\u003demail\u0026utm_campaign\u003dpockethits",
-    "votes": 4,
-    "posted": "Nov 12, 2016 11:04:34 PM"
   }
 ];
