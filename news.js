@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12994132",
+    "timestamp": "Nov 19, 2016 5:50:33 PM",
+    "topic": "DeepLearningKit: Open source framework for Apple platforms using Swift",
+    "url": "http://deeplearningkit.org",
+    "votes": 6,
+    "posted": "Nov 19, 2016 5:25:33 PM"
+  },
+  {
+    "id": "12994004",
+    "timestamp": "Nov 19, 2016 5:30:31 PM",
+    "topic": "Introduction to Swift Intermediate Language – Alex Blewitt",
+    "url": "https://www.youtube.com/watch?v\u003dNH-qIKOoKgA",
+    "votes": 3,
+    "posted": "Nov 19, 2016 5:00:54 PM"
+  },
+  {
+    "id": "12993862",
+    "timestamp": "Nov 19, 2016 5:10:28 PM",
+    "topic": "Heavy Screen Time Rewires Young Brains, for Better and Worse",
+    "url": "http://www.npr.org/sections/health-shots/2016/11/19/502610055/heavy-screen-time-rewires-young-brains-for-better-and-worse",
+    "votes": 3,
+    "posted": "Nov 19, 2016 4:30:48 PM"
+  },
+  {
+    "id": "12993759",
+    "timestamp": "Nov 19, 2016 5:20:29 PM",
+    "topic": "Your Startup Is About to Fail. Here Are 20 Reasons Why:",
+    "url": "https://medium.com/the-mission/your-startup-is-about-to-fail-here-are-20-reasons-why-26d18a2077bf#.dqcip8j76",
+    "votes": 4,
+    "posted": "Nov 19, 2016 4:06:08 PM"
+  },
+  {
+    "id": "12993720",
+    "timestamp": "Nov 19, 2016 5:30:31 PM",
+    "topic": "60 Minutes Goes to Sweden to Film Peaceful Refugees, Gets Assaulted by Refugees",
+    "url": "https://theamericanrevenant.com/2016/11/18/60-minutes-goes-to-sweden-to-show-how-peaceful-refugees-are-entire-crew-gets-assaulted-by-refugees/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 3:57:52 PM"
+  },
+  {
     "id": "12993718",
     "timestamp": "Nov 19, 2016 4:10:23 PM",
     "topic": "Introducing Custom Elements",
@@ -80,6 +120,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 1:59:12 PM"
   },
   {
+    "id": "12993258",
+    "timestamp": "Nov 19, 2016 5:20:30 PM",
+    "topic": "Android OS Now Available as an Amazon Machine Image",
+    "url": "https://medium.com/@Genymotion/android-os-now-available-as-an-amazon-machine-image-72748130436b#.xxiouodep",
+    "votes": 4,
+    "posted": "Nov 19, 2016 1:50:13 PM"
+  },
+  {
     "id": "12993212",
     "timestamp": "Nov 19, 2016 4:30:25 PM",
     "topic": "It’s time to get rid of the Facebook “news feed,” because it’s not news",
@@ -112,12 +160,36 @@ var newsArray = [
     "posted": "Nov 19, 2016 12:58:53 PM"
   },
   {
+    "id": "12993054",
+    "timestamp": "Nov 19, 2016 5:20:30 PM",
+    "topic": "World’s First Photonic Neural Network Unveiled",
+    "url": "https://www.technologyreview.com/s/602938/worlds-first-photonic-neural-network-unveiled/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 12:49:11 PM"
+  },
+  {
     "id": "12993029",
     "timestamp": "Nov 19, 2016 2:50:16 PM",
     "topic": "Obama bans new oil drilling in Arctic Ocean",
     "url": "http://www.bbc.com/news/world-us-canada-38034518",
     "votes": 3,
     "posted": "Nov 19, 2016 12:42:56 PM"
+  },
+  {
+    "id": "12993021",
+    "timestamp": "Nov 19, 2016 5:20:29 PM",
+    "topic": "Google Cloud is 50% cheaper than AWS",
+    "url": "https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/",
+    "votes": 12,
+    "posted": "Nov 19, 2016 12:40:31 PM"
+  },
+  {
+    "id": "12992874",
+    "timestamp": "Nov 19, 2016 5:20:30 PM",
+    "topic": "Best Data Science Courses at Imarticus",
+    "url": "http://imarticus.org/best-data-science-courses-imarticus",
+    "votes": 3,
+    "posted": "Nov 19, 2016 11:52:09 AM"
   },
   {
     "id": "12992777",
@@ -144,12 +216,28 @@ var newsArray = [
     "posted": "Nov 19, 2016 11:05:17 AM"
   },
   {
+    "id": "12992691",
+    "timestamp": "Nov 19, 2016 5:30:31 PM",
+    "topic": "Play pictionary against an AI",
+    "url": "https://quickdraw.withgoogle.com/#",
+    "votes": 3,
+    "posted": "Nov 19, 2016 10:25:23 AM"
+  },
+  {
     "id": "12992672",
     "timestamp": "Nov 19, 2016 11:09:59 AM",
     "topic": "Extreme surveillance\u0027 becomes UK law with barely a whimper",
     "url": "https://www.theguardian.com/world/2016/nov/19/extreme-surveillance-becomes-uk-law-with-barely-a-whimper",
     "votes": 5,
     "posted": "Nov 19, 2016 10:13:07 AM"
+  },
+  {
+    "id": "12992660",
+    "timestamp": "Nov 19, 2016 5:30:31 PM",
+    "topic": "Elasticsearch: Adventures in scaling a multitenant platform",
+    "url": "http://www.bigeng.io/elasticsearch-scaling-multitenant/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 10:08:32 AM"
   },
   {
     "id": "12992634",
@@ -405,6 +493,14 @@ var newsArray = [
     "url": "http://arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news/",
     "votes": 5,
     "posted": "Nov 19, 2016 2:12:33 AM"
+  },
+  {
+    "id": "12991295",
+    "timestamp": "Nov 19, 2016 5:30:31 PM",
+    "topic": "Glacially Slow IP Over QR Code Tunnel",
+    "url": "http://seiferteric.com/?p\u003d356",
+    "votes": 6,
+    "posted": "Nov 19, 2016 1:52:02 AM"
   },
   {
     "id": "12991293",
@@ -1048,6 +1144,14 @@ var newsArray = [
     "url": "http://www.zdnet.com/article/ibm-rolls-out-new-cloud-data-services-and-features-on-bluemix/",
     "votes": 3,
     "posted": "Nov 18, 2016 5:00:45 PM"
+  },
+  {
+    "id": "12987608",
+    "timestamp": "Nov 19, 2016 5:30:31 PM",
+    "topic": "Enquire: Everything you wanted to know about your C Compiler and Machine (1993)",
+    "url": "http://homepages.cwi.nl/~steven/enquire.html",
+    "votes": 4,
+    "posted": "Nov 18, 2016 4:57:20 PM"
   },
   {
     "id": "12987537",
@@ -9047,60 +9151,5 @@ var newsArray = [
     "url": "https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/",
     "votes": 4,
     "posted": "Nov 12, 2016 5:53:05 PM"
-  },
-  {
-    "id": "12938712",
-    "timestamp": "Nov 12, 2016 6:23:44 PM",
-    "topic": "‘Maybe Americans Should Know What It’s Like to Have a Dictator’",
-    "url": "http://nymag.com/daily/intelligencer/2016/11/a-syrian-refugee-on-trumps-election.html",
-    "votes": 4,
-    "posted": "Nov 12, 2016 5:49:51 PM"
-  },
-  {
-    "id": "12938686",
-    "timestamp": "Nov 12, 2016 6:23:44 PM",
-    "topic": "History Tells Us What Will Happen Next with Brexit and Trump",
-    "url": "http://www.huffingtonpost.com/tobias-stone/history-tells-us-what-will-brexit-trump_b_11179774.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:45:14 PM"
-  },
-  {
-    "id": "12938636",
-    "timestamp": "Nov 12, 2016 5:53:41 PM",
-    "topic": "Show HN: Gridmaster – A “Code School” for Learning Spreadsheets",
-    "url": "http://gridmaster.io",
-    "votes": 8,
-    "posted": "Nov 12, 2016 5:34:23 PM"
-  },
-  {
-    "id": "12938629",
-    "timestamp": "Nov 12, 2016 9:34:01 PM",
-    "topic": "PyPy2.7 v5.6 released – stdlib 2.7.12 support, C-API improvements, and more",
-    "url": "https://morepypy.blogspot.com/2016/11/pypy27-v56-released-stdlib-2712-support.html",
-    "votes": 6,
-    "posted": "Nov 12, 2016 5:32:46 PM"
-  },
-  {
-    "id": "12938524",
-    "timestamp": "Nov 12, 2016 7:13:49 PM",
-    "topic": "Probiotics improve cognition in Alzheimer\u0027s patients",
-    "url": "https://www.sciencedaily.com/releases/2016/11/161110162840.htm",
-    "votes": 3,
-    "posted": "Nov 12, 2016 5:11:50 PM"
-  },
-  {
-    "id": "12938484",
-    "timestamp": "Nov 12, 2016 6:23:44 PM",
-    "topic": "I will quit my job as a PM to join a coding bootcamp. Am I crazy?",
-    "votes": 6,
-    "posted": "Nov 12, 2016 5:03:35 PM"
-  },
-  {
-    "id": "12938449",
-    "timestamp": "Nov 12, 2016 5:13:38 PM",
-    "topic": "President Obama Should Shut Down the NSA’s Mass Spying Before It’s Too Late",
-    "url": "http://time.com/4565149/obama-trump-nsa-surveillance/",
-    "votes": 17,
-    "posted": "Nov 12, 2016 4:56:28 PM"
   }
 ];
