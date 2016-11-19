@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12992777",
+    "timestamp": "Nov 19, 2016 11:50:03 AM",
+    "topic": "This is a graph of total global sea ice. The red line is this year",
+    "url": "https://twitter.com/billmckibben/status/799783145356886016",
+    "votes": 4,
+    "posted": "Nov 19, 2016 11:12:04 AM"
+  },
+  {
+    "id": "12992672",
+    "timestamp": "Nov 19, 2016 11:09:59 AM",
+    "topic": "Extreme surveillance\u0027 becomes UK law with barely a whimper",
+    "url": "https://www.theguardian.com/world/2016/nov/19/extreme-surveillance-becomes-uk-law-with-barely-a-whimper",
+    "votes": 5,
+    "posted": "Nov 19, 2016 10:13:07 AM"
+  },
+  {
+    "id": "12992623",
+    "timestamp": "Nov 19, 2016 11:30:01 AM",
+    "topic": "New Tesla Full Self Driving Video",
+    "url": "https://www.tesla.com/en_GB/videos/autopilot-self-driving-hardware-neighborhood-short",
+    "votes": 15,
+    "posted": "Nov 19, 2016 9:53:25 AM"
+  },
+  {
+    "id": "12992549",
+    "timestamp": "Nov 19, 2016 11:40:02 AM",
+    "topic": "NASA\u0027s peer-reviewed EM Drive paper published – and the drive appears to work",
+    "url": "http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published",
+    "votes": 6,
+    "posted": "Nov 19, 2016 9:09:43 AM"
+  },
+  {
+    "id": "12992536",
+    "timestamp": "Nov 19, 2016 11:20:00 AM",
+    "topic": "Measurement of Impulsive Thrust from a Closed Radio-Frequency Cavity in Vacuum",
+    "url": "http://arc.aiaa.org/doi/10.2514/1.B36120",
+    "votes": 6,
+    "posted": "Nov 19, 2016 9:03:13 AM"
+  },
+  {
     "id": "12992521",
     "timestamp": "Nov 19, 2016 9:19:52 AM",
     "topic": "This researcher programmed bots to fight racism on Twitter. It worked",
@@ -78,6 +118,14 @@ var newsArray = [
     "url": "https://www.streak.com/careers#BackendTechLead",
     "votes": 1,
     "posted": "Nov 19, 2016 5:55:37 AM"
+  },
+  {
+    "id": "12992050",
+    "timestamp": "Nov 19, 2016 11:20:00 AM",
+    "topic": "Tesla Vision Demonstration (Autopilot Full Self-Driving Hardware)",
+    "url": "https://www.tesla.com/videos/autopilot-self-driving-hardware-neighborhood-long",
+    "votes": 8,
+    "posted": "Nov 19, 2016 5:19:55 AM"
   },
   {
     "id": "12991986",
@@ -9084,21 +9132,5 @@ var newsArray = [
     "url": "https://stallman.org/articles/children.html",
     "votes": 5,
     "posted": "Nov 12, 2016 12:05:41 PM"
-  },
-  {
-    "id": "12937367",
-    "timestamp": "Nov 13, 2016 3:24:34 AM",
-    "topic": "Show HN: Addictive puzzle based on “Graph Theory”",
-    "url": "http://treksit.com/?theory",
-    "votes": 13,
-    "posted": "Nov 12, 2016 11:45:57 AM"
-  },
-  {
-    "id": "12937324",
-    "timestamp": "Nov 12, 2016 2:43:25 PM",
-    "topic": "Never, never, never normalize this",
-    "url": "http://www.scottaaronson.com/blog/?p\u003d2969",
-    "votes": 4,
-    "posted": "Nov 12, 2016 11:27:08 AM"
   }
 ];
