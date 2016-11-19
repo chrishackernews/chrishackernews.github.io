@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12995125",
+    "timestamp": "Nov 19, 2016 8:50:58 PM",
+    "topic": "EmDrive study officially published, produces 1.2mN/kW",
+    "url": "http://arc.aiaa.org/doi/full/10.2514/1.B36120",
+    "votes": 6,
+    "posted": "Nov 19, 2016 8:23:09 PM"
+  },
+  {
+    "id": "12995077",
+    "timestamp": "Nov 19, 2016 8:30:47 PM",
+    "topic": "How Much Surveillance Can Democracy Withstand?",
+    "url": "https://www.gnu.org/philosophy/surveillance-vs-democracy.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 8:14:26 PM"
+  },
+  {
+    "id": "12994871",
+    "timestamp": "Nov 19, 2016 8:10:44 PM",
+    "topic": "Humans \u0027will bully robot cars\u0027, Mercedes chief warns",
+    "url": "http://www.telegraph.co.uk/technology/2016/11/17/humans-will-bully-robot-cars-mercedes-chief-warns/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 7:41:08 PM"
+  },
+  {
     "id": "12994704",
     "timestamp": "Nov 19, 2016 7:20:40 PM",
     "topic": "It’s 2016, why is video conferencing still terrible?",
@@ -14,6 +38,22 @@ var newsArray = [
     "url": "https://9to5mac.com/2016/11/15/2016-macbook-pro-non-removable-ssd-small-batteries/",
     "votes": 4,
     "posted": "Nov 19, 2016 6:33:32 PM"
+  },
+  {
+    "id": "12994400",
+    "timestamp": "Nov 19, 2016 8:00:43 PM",
+    "topic": "It\u0027s official: NASA\u0027s peer-reviewed EM Drive paper has finally been published",
+    "url": "http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published",
+    "votes": 4,
+    "posted": "Nov 19, 2016 6:24:08 PM"
+  },
+  {
+    "id": "12994304",
+    "timestamp": "Nov 19, 2016 8:50:59 PM",
+    "topic": "Show HN: Commit – Tech News for Activist Coders",
+    "url": "https://commit.ws/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 6:02:25 PM"
   },
   {
     "id": "12994291",
@@ -518,6 +558,14 @@ var newsArray = [
     "url": "https://medium.com/@streamup/announcing-the-new-streamup-tada-190a8822627f#.31433cn7h",
     "votes": 4,
     "posted": "Nov 19, 2016 2:59:28 AM"
+  },
+  {
+    "id": "12991569",
+    "timestamp": "Nov 19, 2016 8:10:44 PM",
+    "topic": "Cohort – A New Professional Social Graph",
+    "url": "https://medium.com/@EamonLeonard/cohort-a-new-professional-social-graph-1596ad6ca6ea#.an7c65vjb",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:57:42 AM"
   },
   {
     "id": "12991533",
@@ -9096,52 +9144,5 @@ var newsArray = [
     "url": "https://www.buzzfeed.com/nitashatiku/trump-supporting-startup-ceo-kicked-out-of-y-combinator",
     "votes": 4,
     "posted": "Nov 12, 2016 8:54:51 PM"
-  },
-  {
-    "id": "12939787",
-    "timestamp": "Nov 12, 2016 9:44:03 PM",
-    "topic": "Sci-Fi Filmmaker Hilariously Imagines Donald Trump’s Air Force One and Motorcade",
-    "url": "http://qz.com/835850/director-neill-blomkamp-imagines-donald-trumps-air-force-one/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 8:45:20 PM"
-  },
-  {
-    "id": "12939747",
-    "timestamp": "Nov 13, 2016 2:04:27 AM",
-    "topic": "TitanPad shutting down",
-    "url": "http://blog.titanpad.com/2016/11/shutting-down-titanpad_12.html",
-    "votes": 3,
-    "posted": "Nov 12, 2016 8:39:18 PM"
-  },
-  {
-    "id": "12939733",
-    "timestamp": "Nov 13, 2016 2:15:28 PM",
-    "topic": "Ask HN: What are some of your favorite documentaries?",
-    "votes": 5,
-    "posted": "Nov 12, 2016 8:36:56 PM"
-  },
-  {
-    "id": "12939690",
-    "timestamp": "Nov 12, 2016 10:14:06 PM",
-    "topic": "Sqlite Performance",
-    "url": "http://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite",
-    "votes": 4,
-    "posted": "Nov 12, 2016 8:28:29 PM"
-  },
-  {
-    "id": "12939547",
-    "timestamp": "Nov 12, 2016 8:53:58 PM",
-    "topic": "HyperNormalisation by Adam Curtis",
-    "url": "https://www.youtube.com/watch?v\u003dnz6u7xRznjY",
-    "votes": 3,
-    "posted": "Nov 12, 2016 8:04:22 PM"
-  },
-  {
-    "id": "12939475",
-    "timestamp": "Nov 13, 2016 1:04:20 AM",
-    "topic": "The Cognitive Dissonance Cluster Bomb",
-    "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
-    "votes": 4,
-    "posted": "Nov 12, 2016 7:54:02 PM"
   }
 ];
