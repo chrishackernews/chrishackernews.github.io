@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12993144",
+    "timestamp": "Nov 19, 2016 1:50:12 PM",
+    "topic": "Switching to Ubuntu from Apple",
+    "url": "http://support.system76.com/articles/switch/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 1:16:11 PM"
+  },
+  {
     "id": "12992777",
     "timestamp": "Nov 19, 2016 11:50:03 AM",
     "topic": "This is a graph of total global sea ice. The red line is this year",
@@ -14,6 +22,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/world/2016/nov/19/extreme-surveillance-becomes-uk-law-with-barely-a-whimper",
     "votes": 5,
     "posted": "Nov 19, 2016 10:13:07 AM"
+  },
+  {
+    "id": "12992634",
+    "timestamp": "Nov 19, 2016 1:20:09 PM",
+    "topic": "What are the 10 algorithms every CS student must implement at least once?",
+    "url": "https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life/answer/Soham-Mehta-1?ref\u003dfb_page\u0026amp;share\u003d1",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:57:15 AM"
   },
   {
     "id": "12992623",
@@ -104,6 +120,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 6:55:16 AM"
   },
   {
+    "id": "12992240",
+    "timestamp": "Nov 19, 2016 1:30:10 PM",
+    "topic": "Tails: Call for testing: 3.0~alpha1",
+    "url": "https://tails.boum.org/news/test_3.0-alpha1/index.en.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 6:28:52 AM"
+  },
+  {
     "id": "12992208",
     "timestamp": "Nov 19, 2016 7:49:44 AM",
     "topic": "NASA under Trump",
@@ -126,6 +150,14 @@ var newsArray = [
     "url": "https://www.tesla.com/videos/autopilot-self-driving-hardware-neighborhood-long",
     "votes": 8,
     "posted": "Nov 19, 2016 5:19:55 AM"
+  },
+  {
+    "id": "12992047",
+    "timestamp": "Nov 19, 2016 1:40:11 PM",
+    "topic": "PlantUML: Easily create UML Diagrams from simple textual description",
+    "url": "http://plantuml.com/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 5:17:16 AM"
   },
   {
     "id": "12991986",
@@ -9084,21 +9116,5 @@ var newsArray = [
     "url": "http://www.bbc.co.uk/news/world-asia-india-37936349",
     "votes": 4,
     "posted": "Nov 12, 2016 1:58:59 PM"
-  },
-  {
-    "id": "12937607",
-    "timestamp": "Nov 12, 2016 2:13:22 PM",
-    "topic": "Spotify is writing massive amounts of junk data to storage drives",
-    "url": "http://arstechnica.com/information-technology/2016/11/for-five-months-spotify-has-badly-abused-users-storage-drives/",
-    "votes": 6,
-    "posted": "Nov 12, 2016 1:44:38 PM"
-  },
-  {
-    "id": "12937585",
-    "timestamp": "Nov 12, 2016 2:03:21 PM",
-    "topic": "Factiness",
-    "url": "http://nathanjurgenson.com/post/152938927255/factiness",
-    "votes": 3,
-    "posted": "Nov 12, 2016 1:34:18 PM"
   }
 ];
