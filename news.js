@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12992521",
+    "timestamp": "Nov 19, 2016 9:19:52 AM",
+    "topic": "This researcher programmed bots to fight racism on Twitter. It worked",
+    "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/17/this-researcher-programmed-bots-to-fight-racism-on-twitter-it-worked/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 8:57:00 AM"
+  },
+  {
+    "id": "12992497",
+    "timestamp": "Nov 19, 2016 9:09:51 AM",
+    "topic": "The Rise and Fall of the Open Source Mobile (2014)",
+    "url": "https://relay70.metatron.ai/the-rise-and-fall-of-the-open-source-mobile/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 8:41:52 AM"
+  },
+  {
     "id": "12992448",
     "timestamp": "Nov 19, 2016 8:39:48 AM",
     "topic": "Autonomous Shipping Containers – Self-Driving Cars – Medium",
@@ -9092,21 +9108,5 @@ var newsArray = [
     "url": "https://blog.exploratory.io/analyzing-emotions-using-facial-expressions-in-video-with-microsoft-ai-and-r-8f7585dd0780",
     "votes": 4,
     "posted": "Nov 12, 2016 10:05:03 AM"
-  },
-  {
-    "id": "12937164",
-    "timestamp": "Nov 13, 2016 1:24:24 AM",
-    "topic": "Harvard scientists think they\u0027ve pinpointed the physical source of consciousness",
-    "url": "http://www.sciencealert.com/harvard-scientists-think-they-ve-pinpointed-the-neural-source-of-consciousness",
-    "votes": 3,
-    "posted": "Nov 12, 2016 9:54:25 AM"
-  },
-  {
-    "id": "12937138",
-    "timestamp": "Nov 12, 2016 9:52:59 AM",
-    "topic": "Smarking (YC W15) Is Hiring Sr. Generalist Engineers in SF",
-    "url": "http://www.smarking.org/",
-    "votes": 1,
-    "posted": "Nov 12, 2016 9:43:05 AM"
   }
 ];
