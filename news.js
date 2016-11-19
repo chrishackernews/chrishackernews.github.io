@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 8:41:52 AM"
   },
   {
+    "id": "12992461",
+    "timestamp": "Nov 19, 2016 10:59:58 AM",
+    "topic": "Chomsky: The U.S. behaves nothing like a democracy (2013)",
+    "url": "http://www.salon.com/2013/08/17/chomsky_the_u_s_behaves_nothing_like_a_democracy/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 8:26:16 AM"
+  },
+  {
     "id": "12992448",
     "timestamp": "Nov 19, 2016 8:39:48 AM",
     "topic": "Autonomous Shipping Containers – Self-Driving Cars – Medium",
@@ -9092,21 +9100,5 @@ var newsArray = [
     "url": "http://www.scottaaronson.com/blog/?p\u003d2969",
     "votes": 4,
     "posted": "Nov 12, 2016 11:27:08 AM"
-  },
-  {
-    "id": "12937221",
-    "timestamp": "Nov 12, 2016 1:53:20 PM",
-    "topic": "Alibaba Singles Day event sales totaled $17.8B, up more than 24%",
-    "url": "http://www.marketwatch.com/story/apple-nike-and-playboy-among-most-popular-us-brands-on-alibabas-singles-day-2016-11-11",
-    "votes": 4,
-    "posted": "Nov 12, 2016 10:39:51 AM"
-  },
-  {
-    "id": "12937183",
-    "timestamp": "Nov 12, 2016 1:13:17 PM",
-    "topic": "Analyzing Emotions Using Facial Expressions in Video with Microsoft AI and R",
-    "url": "https://blog.exploratory.io/analyzing-emotions-using-facial-expressions-in-video-with-microsoft-ai-and-r-8f7585dd0780",
-    "votes": 4,
-    "posted": "Nov 12, 2016 10:05:03 AM"
   }
 ];
