@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "12993718",
+    "timestamp": "Nov 19, 2016 4:10:23 PM",
+    "topic": "Introducing Custom Elements",
+    "url": "https://webkit.org/blog/7027/introducing-custom-elements/",
+    "votes": 7,
+    "posted": "Nov 19, 2016 3:57:30 PM"
+  },
+  {
+    "id": "12993709",
+    "timestamp": "Nov 19, 2016 4:30:25 PM",
+    "topic": "Dropbox doesn\u0027t write change logs for their builds, but expects feedback",
+    "url": "https://www.dropboxforum.com/t5/Desktop-client-builds/Beta-Build-15-3-19/m-p/194282#M3484",
+    "votes": 5,
+    "posted": "Nov 19, 2016 3:54:51 PM"
+  },
+  {
     "id": "12993594",
     "timestamp": "Nov 19, 2016 3:40:20 PM",
     "topic": "Show HN: Tensorflow implementation of Conditional PixelCNN",
     "url": "https://github.com/anantzoid/Conditional-PixelCNN-decoder",
     "votes": 4,
     "posted": "Nov 19, 2016 3:24:39 PM"
+  },
+  {
+    "id": "12993549",
+    "timestamp": "Nov 19, 2016 4:10:23 PM",
+    "topic": "NIH Scientists Identify Potent Antibody That Neutralizes Nearly All HIV Strains",
+    "url": "https://www.niaid.nih.gov/news-events/nih-scientists-identify-potent-antibody-neutralizes-nearly-all-hiv-strains",
+    "votes": 4,
+    "posted": "Nov 19, 2016 3:13:27 PM"
   },
   {
     "id": "12993521",
@@ -32,12 +56,36 @@ var newsArray = [
     "posted": "Nov 19, 2016 2:20:21 PM"
   },
   {
+    "id": "12993344",
+    "timestamp": "Nov 19, 2016 4:50:26 PM",
+    "topic": "Go 1.8 toolchain improvements",
+    "url": "https://dave.cheney.net/2016/11/19/go-1-8-toolchain-improvements",
+    "votes": 6,
+    "posted": "Nov 19, 2016 2:18:23 PM"
+  },
+  {
+    "id": "12993303",
+    "timestamp": "Nov 19, 2016 4:00:22 PM",
+    "topic": "We Have a Bad News Problem, Not a Fake News Problem",
+    "url": "http://www.snopes.com/2016/11/17/we-have-a-bad-news-problem-not-a-fake-news-problem/",
+    "votes": 5,
+    "posted": "Nov 19, 2016 2:04:18 PM"
+  },
+  {
     "id": "12993289",
     "timestamp": "Nov 19, 2016 3:30:19 PM",
     "topic": "Antarcticans Database Project",
     "url": "http://www.coolantarctica.com/Community/Antarcticans-database-project.php",
     "votes": 5,
     "posted": "Nov 19, 2016 1:59:12 PM"
+  },
+  {
+    "id": "12993212",
+    "timestamp": "Nov 19, 2016 4:30:25 PM",
+    "topic": "It’s time to get rid of the Facebook “news feed,” because it’s not news",
+    "url": "http://arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 1:35:07 PM"
   },
   {
     "id": "12993144",
@@ -86,6 +134,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dIikGK8XP5_Q",
     "votes": 3,
     "posted": "Nov 19, 2016 11:10:43 AM"
+  },
+  {
+    "id": "12992762",
+    "timestamp": "Nov 19, 2016 4:50:26 PM",
+    "topic": "Confessions of a Google Spammer",
+    "url": "https://readthink.com/confessions-of-a-google-spammer-4f2e0c3e9869#.yskwscj4t",
+    "votes": 3,
+    "posted": "Nov 19, 2016 11:05:17 AM"
   },
   {
     "id": "12992672",
@@ -723,6 +779,14 @@ var newsArray = [
     "posted": "Nov 18, 2016 8:41:40 PM"
   },
   {
+    "id": "12989431",
+    "timestamp": "Nov 19, 2016 4:50:26 PM",
+    "topic": "A Working-Class Hero, Part 1",
+    "url": "http://www.filfre.net/2016/11/a-working-class-hero-part-1/",
+    "votes": 3,
+    "posted": "Nov 18, 2016 8:31:58 PM"
+  },
+  {
     "id": "12989357",
     "timestamp": "Nov 18, 2016 8:58:33 PM",
     "topic": "New CIA director thinks Snowden should be killed",
@@ -1183,6 +1247,14 @@ var newsArray = [
     "url": "http://arstechnica.com/gadgets/2016/11/xiaomi-mi-mix-review-this-is-what-the-future-of-smartphones-looks-like/",
     "votes": 6,
     "posted": "Nov 18, 2016 1:34:00 PM"
+  },
+  {
+    "id": "12986249",
+    "timestamp": "Nov 19, 2016 4:20:24 PM",
+    "topic": "What Math Do You Need for Physics?",
+    "url": "https://www.math.columbia.edu/~woit/wordpress/?p\u003d8940",
+    "votes": 3,
+    "posted": "Nov 18, 2016 1:27:13 PM"
   },
   {
     "id": "12986173",
@@ -9030,60 +9102,5 @@ var newsArray = [
     "url": "http://time.com/4565149/obama-trump-nsa-surveillance/",
     "votes": 17,
     "posted": "Nov 12, 2016 4:56:28 PM"
-  },
-  {
-    "id": "12938358",
-    "timestamp": "Nov 12, 2016 7:43:52 PM",
-    "topic": "Using deep learning to remove glasses from faces",
-    "url": "https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f",
-    "votes": 4,
-    "posted": "Nov 12, 2016 4:41:50 PM"
-  },
-  {
-    "id": "12938315",
-    "timestamp": "Nov 12, 2016 4:53:35 PM",
-    "topic": "China warns Trump against abandoning climate change deal",
-    "url": "https://www.ft.com/content/35803636-a82a-11e6-8898-79a99e2a4de6",
-    "votes": 6,
-    "posted": "Nov 12, 2016 4:34:47 PM"
-  },
-  {
-    "id": "12938304",
-    "timestamp": "Nov 13, 2016 9:25:03 AM",
-    "topic": "Are Americans Enamored with the Wrong Kinds of Entrepreneurs?",
-    "url": "https://hbr.org/2016/11/are-americans-enamored-with-the-wrong-kinds-of-entrepreneurs",
-    "votes": 4,
-    "posted": "Nov 12, 2016 4:33:38 PM"
-  },
-  {
-    "id": "12938295",
-    "timestamp": "Nov 12, 2016 7:53:53 PM",
-    "topic": "Your slow email replies are causing serious anxiety",
-    "url": "http://www.bbc.com/capital/story/20161103-your-slow-email-replies-are-causing-serious-anxiety",
-    "votes": 6,
-    "posted": "Nov 12, 2016 4:32:07 PM"
-  },
-  {
-    "id": "12938269",
-    "timestamp": "Nov 12, 2016 4:53:35 PM",
-    "topic": "Show HN: A Web-To-RSS Parser in Common Lisp",
-    "url": "https://bitbucket.org/tux_/rssparser.lisp",
-    "votes": 4,
-    "posted": "Nov 12, 2016 4:26:50 PM"
-  },
-  {
-    "id": "12938195",
-    "timestamp": "Nov 12, 2016 9:34:01 PM",
-    "topic": "Ask HN: How can I as a coder contribute to climate change?",
-    "votes": 6,
-    "posted": "Nov 12, 2016 4:16:03 PM"
-  },
-  {
-    "id": "12938093",
-    "timestamp": "Nov 13, 2016 9:25:02 AM",
-    "topic": "Hunting for Sears DIY Kit Home",
-    "url": "http://www.atlasobscura.com/articles/do-you-live-in-a-mailorder-sears-kit-home-these-house-hunters-will-find-you?utm_source\u003dfacebook.com\u0026utm_medium\u003datlas-pagehttp://www.atlasobscura.com/articles/do-you-live-in-a-mailorder-sears-kit-home-these-house-hunters-will-find-you",
-    "votes": 3,
-    "posted": "Nov 12, 2016 3:59:04 PM"
   }
 ];
