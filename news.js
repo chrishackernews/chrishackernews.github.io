@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "12991190",
+    "timestamp": "Nov 19, 2016 1:49:15 AM",
+    "topic": "The artic is 36 degrees F warmer than normal",
+    "url": "http://www.pbs.org/wgbh/nova/next/earth/the-arctic-is-36-degrees-f-warmer-than-normal/?utm_medium\u003dnovasocial\u0026utm_campaign\u003dnova_next\u0026linkId\u003d31327062",
+    "votes": 4,
+    "posted": "Nov 19, 2016 1:34:14 AM"
+  },
+  {
+    "id": "12991139",
+    "timestamp": "Nov 19, 2016 1:29:14 AM",
+    "topic": "Donald Trump Agrees to Pay $25M in Trump University Settlement",
+    "url": "http://nytimes.com/2016/11/19/us/politics/trump-university.html",
+    "votes": 5,
+    "posted": "Nov 19, 2016 1:22:04 AM"
+  },
+  {
+    "id": "12991092",
+    "timestamp": "Nov 19, 2016 1:39:14 AM",
+    "topic": "The North Pole is an insane 20C warmer than normal as winter descends",
+    "url": "http://www.smh.com.au/environment/weather/the-north-pole-is-an-insane-20c-warmer-than-normal-as-winter-descends-20161117-gss3bg.html",
+    "votes": 6,
+    "posted": "Nov 19, 2016 1:09:13 AM"
+  },
+  {
+    "id": "12991035",
+    "timestamp": "Nov 19, 2016 1:19:12 AM",
+    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
+    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#.wkh03tvg4",
+    "votes": 3,
+    "posted": "Nov 19, 2016 1:00:15 AM"
+  },
+  {
+    "id": "12991010",
+    "timestamp": "Nov 19, 2016 1:09:12 AM",
+    "topic": "Facebook Sucks at Machine Learning",
+    "url": "http://blog.eladgil.com/2016/11/facebook-must-really-suck-at-machine.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:55:02 AM"
+  },
+  {
+    "id": "12990994",
+    "timestamp": "Nov 19, 2016 1:29:13 AM",
+    "topic": "Cursing Linked to Higher F*#@%$* Intelligence",
+    "url": "http://losangeles.cbslocal.com/2016/11/17/is-cursing-bad-or-good-for-you/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 12:49:20 AM"
+  },
+  {
     "id": "12990828",
     "timestamp": "Nov 19, 2016 12:39:09 AM",
     "topic": "Stephen Colbert Goes Off on Oxford Dictionaries’ Word of the Year",
@@ -46,6 +94,14 @@ var newsArray = [
     "url": "http://www.bloomberg.com/politics/articles/2016-11-18/trump-university-settles-fraud-claims-for-25-million",
     "votes": 3,
     "posted": "Nov 18, 2016 11:48:58 PM"
+  },
+  {
+    "id": "12990709",
+    "timestamp": "Nov 19, 2016 1:29:13 AM",
+    "topic": "Frequentists should more often consider using Bayesian methods",
+    "url": "http://thestatsgeek.com/2016/11/18/frequentists-should-more-often-consider-using-bayesian-methods/",
+    "votes": 4,
+    "posted": "Nov 18, 2016 11:47:19 PM"
   },
   {
     "id": "12990612",
@@ -9050,52 +9106,5 @@ var newsArray = [
     "url": "http://advances.sciencemag.org/content/2/11/e1501923.full",
     "votes": 3,
     "posted": "Nov 12, 2016 2:02:26 AM"
-  },
-  {
-    "id": "12935872",
-    "timestamp": "Nov 12, 2016 7:32:48 AM",
-    "topic": "Ask HN: What\u0027s the best remote desktop viewing software for Windows?",
-    "votes": 5,
-    "posted": "Nov 12, 2016 1:52:52 AM"
-  },
-  {
-    "id": "12935805",
-    "timestamp": "Nov 12, 2016 2:02:20 AM",
-    "topic": "Google Pixel pwned in 60 seconds",
-    "url": "http://www.theregister.co.uk/2016/11/11/google_pixel_pwned_in_60_seconds/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 1:36:39 AM"
-  },
-  {
-    "id": "12935804",
-    "timestamp": "Nov 12, 2016 2:02:20 AM",
-    "topic": "China launches pulsar navigation satellite",
-    "url": "http://timesofindia.indiatimes.com/world/china/China-launches-pulsar-navigation-satellite/articleshow/55347011.cms",
-    "votes": 3,
-    "posted": "Nov 12, 2016 1:36:12 AM"
-  },
-  {
-    "id": "12935708",
-    "timestamp": "Nov 12, 2016 5:23:39 PM",
-    "topic": "Forever Words: A new book collects the unpublished poems of Johnny Cash",
-    "url": "https://www.poetryfoundation.org/features/articles/detail/91017",
-    "votes": 3,
-    "posted": "Nov 12, 2016 1:16:56 AM"
-  },
-  {
-    "id": "12935651",
-    "timestamp": "Nov 12, 2016 1:12:15 AM",
-    "topic": "Peter Thiel joins Trump\u0027s transition team",
-    "url": "http://www.theverge.com/2016/11/11/13602026/peter-thiel-trump-transition-team-facebook",
-    "votes": 3,
-    "posted": "Nov 12, 2016 1:06:59 AM"
-  },
-  {
-    "id": "12935643",
-    "timestamp": "Nov 12, 2016 3:13:27 PM",
-    "topic": "Full-body reading",
-    "url": "https://aeon.co/essays/how-a-medieval-mystic-was-the-first-creator-of-fanfiction",
-    "votes": 3,
-    "posted": "Nov 12, 2016 1:06:08 AM"
   }
 ];
