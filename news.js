@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12995851",
+    "timestamp": "Nov 19, 2016 10:51:09 PM",
+    "topic": "EquipmentShare (YC W15) Looking for Engineers to Connect Machines [Remote/MO]",
+    "url": "https://equipmentshare.com/jobs",
+    "votes": 1,
+    "posted": "Nov 19, 2016 10:42:14 PM"
+  },
+  {
+    "id": "12995508",
+    "timestamp": "Nov 19, 2016 10:51:09 PM",
+    "topic": "Julian Assange Status – Time since last proof of life: 46 days",
+    "url": "http://assange.net/",
+    "votes": 12,
+    "posted": "Nov 19, 2016 9:41:44 PM"
+  },
+  {
     "id": "12995493",
     "timestamp": "Nov 19, 2016 9:51:04 PM",
     "topic": "Trump’s attorney general pick could restart the encryption fight",
@@ -8,12 +24,28 @@ var newsArray = [
     "posted": "Nov 19, 2016 9:38:04 PM"
   },
   {
+    "id": "12995405",
+    "timestamp": "Nov 19, 2016 10:51:09 PM",
+    "topic": "GiveDirectly.org Results of All Cash Transfers Now Updated in Real Time",
+    "url": "https://live.givedirectly.org/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:22:23 PM"
+  },
+  {
     "id": "12995338",
     "timestamp": "Nov 19, 2016 9:41:03 PM",
     "topic": "A Muslim “registry” doesn\u0027t require a single registration, just data",
     "url": "http://jthess.com/blog/2016/11/17/and-i-did-not-speak-out.html",
     "votes": 4,
     "posted": "Nov 19, 2016 9:09:55 PM"
+  },
+  {
+    "id": "12995277",
+    "timestamp": "Nov 19, 2016 10:51:09 PM",
+    "topic": "Atari Transputer Workstation",
+    "url": "https://en.wikipedia.org/wiki/Atari_Transputer_Workstation",
+    "votes": 5,
+    "posted": "Nov 19, 2016 8:56:48 PM"
   },
   {
     "id": "12995241",
@@ -78,6 +110,14 @@ var newsArray = [
     "url": "https://medium.com/@chris_82106/https-medium-com-chris-82106-its-2016-why-is-video-conferencing-still-terrible-1b8802032aae#.rcalpw337",
     "votes": 3,
     "posted": "Nov 19, 2016 7:13:17 PM"
+  },
+  {
+    "id": "12994455",
+    "timestamp": "Nov 19, 2016 10:11:06 PM",
+    "topic": "Alien life could be so advanced it becomes indistinguishable from physics",
+    "url": "http://nautil.us/issue/42/fakes/is-physical-law-an-alien-intelligence",
+    "votes": 4,
+    "posted": "Nov 19, 2016 6:34:29 PM"
   },
   {
     "id": "12994447",
@@ -566,6 +606,14 @@ var newsArray = [
     "url": "https://www.google.com/amp/futurism.com/ai-learns-things-that-humans-didnt-teach-it/amp/",
     "votes": 5,
     "posted": "Nov 19, 2016 4:23:57 AM"
+  },
+  {
+    "id": "12991887",
+    "timestamp": "Nov 19, 2016 10:01:05 PM",
+    "topic": "Smart people need more time alone, according to this study",
+    "url": "https://www.indy100.com/article/study-finds-intelligent-people-need-more-time-alone-to-be-happy-7423191",
+    "votes": 3,
+    "posted": "Nov 19, 2016 4:18:37 AM"
   },
   {
     "id": "12991806",
@@ -9129,36 +9177,5 @@ var newsArray = [
     "url": "http://www.inc.com/quora/the-happiest-people-dont-let-their-minds-wander-according-to-a-harvard-study.html?utm_source\u003dpocket\u0026utm_medium\u003demail\u0026utm_campaign\u003dpockethits",
     "votes": 4,
     "posted": "Nov 12, 2016 11:04:34 PM"
-  },
-  {
-    "id": "12940398",
-    "timestamp": "Nov 12, 2016 10:54:09 PM",
-    "topic": "Segment (YC S11) Is Hiring Senior Solutions Engineers in NYC",
-    "url": "https://boards.greenhouse.io/segment/jobs/462268",
-    "votes": 1,
-    "posted": "Nov 12, 2016 10:48:03 PM"
-  },
-  {
-    "id": "12940396",
-    "timestamp": "Nov 13, 2016 1:14:21 AM",
-    "topic": "What I learned from competing against a ConvNet on ImageNet",
-    "url": "http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 10:47:16 PM"
-  },
-  {
-    "id": "12940364",
-    "timestamp": "Nov 13, 2016 1:24:24 AM",
-    "topic": "Quick, How Might the Alien Spacecraft Work?",
-    "url": "http://blog.stephenwolfram.com/2016/11/quick-how-might-the-alien-spacecraft-work/",
-    "votes": 3,
-    "posted": "Nov 12, 2016 10:41:05 PM"
-  },
-  {
-    "id": "12940178",
-    "timestamp": "Nov 13, 2016 9:25:03 AM",
-    "topic": "Ask HN: Have you faced burnout for days?",
-    "votes": 6,
-    "posted": "Nov 12, 2016 10:00:10 PM"
   }
 ];
