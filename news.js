@@ -8,6 +8,22 @@ var newsArray = [
     "posted": "Nov 20, 2016 4:06:26 AM"
   },
   {
+    "id": "12997033",
+    "timestamp": "Nov 20, 2016 5:41:45 AM",
+    "topic": "A $900B Oil Treasure Lies Beneath West Texas Desert",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-15/permian-s-wolfcamp-holds-20-billion-barrels-of-oil-u-s-says",
+    "votes": 3,
+    "posted": "Nov 20, 2016 4:03:52 AM"
+  },
+  {
+    "id": "12997025",
+    "timestamp": "Nov 20, 2016 5:31:44 AM",
+    "topic": "Inside Gmail: Modern Anti-Spam and E2E Crypto",
+    "url": "https://moderncrypto.org/mail-archive/messaging/2014/000780.html",
+    "votes": 3,
+    "posted": "Nov 20, 2016 4:01:59 AM"
+  },
+  {
     "id": "12996835",
     "timestamp": "Nov 20, 2016 4:11:38 AM",
     "topic": "Why the MacBook Pro Is Limited to 16GB of RAM",
@@ -9256,37 +9272,5 @@ var newsArray = [
     "topic": "Ask HN: May I sit in on an interview for an ansible-focused role?",
     "votes": 8,
     "posted": "Nov 13, 2016 5:55:54 AM"
-  },
-  {
-    "id": "12941919",
-    "timestamp": "Nov 13, 2016 3:55:40 PM",
-    "topic": "﻿ Why It Matters That Women Do Most of the Housework",
-    "url": "https://www.thenation.com/article/why-it-matters-women-do-most-housework/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 5:46:03 AM"
-  },
-  {
-    "id": "12941893",
-    "timestamp": "Nov 13, 2016 6:04:46 AM",
-    "topic": "Unified Theory of Evolution",
-    "url": "https://aeon.co/essays/on-epigenetics-we-need-both-darwin-s-and-lamarck-s-theories",
-    "votes": 4,
-    "posted": "Nov 13, 2016 5:35:31 AM"
-  },
-  {
-    "id": "12941840",
-    "timestamp": "Nov 13, 2016 7:44:54 AM",
-    "topic": "Python __Underscore__ Methods",
-    "url": "http://www.siafoo.net/article/57",
-    "votes": 3,
-    "posted": "Nov 13, 2016 5:19:27 AM"
-  },
-  {
-    "id": "12941790",
-    "timestamp": "Nov 13, 2016 6:14:47 AM",
-    "topic": "Docker user? Haven\u0027t patched Dirty COW yet? Got bad news for you",
-    "url": "http://www.theregister.co.uk/2016/11/01/docker_user_havent_patched_dirty_cow_yet_bad_news/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 5:03:53 AM"
   }
 ];
