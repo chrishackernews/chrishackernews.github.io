@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13000445",
+    "timestamp": "Nov 20, 2016 8:03:00 PM",
+    "topic": "Let’s replace Twitter with something much better. (hint: it\u0027s blogs)",
+    "url": "https://cpbotha.net/2016/11/19/lets-replace-twitter-with-something-much-better/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 7:58:11 PM"
+  },
+  {
     "id": "13000172",
     "timestamp": "Nov 20, 2016 7:22:57 PM",
     "topic": "Bay Area job market rebounds from earlier ‘false scares’",
@@ -8,12 +16,36 @@ var newsArray = [
     "posted": "Nov 20, 2016 7:11:20 PM"
   },
   {
+    "id": "13000158",
+    "timestamp": "Nov 20, 2016 8:03:00 PM",
+    "topic": "Yet another collection of Computer Science video lectures",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "votes": 4,
+    "posted": "Nov 20, 2016 7:09:15 PM"
+  },
+  {
+    "id": "13000153",
+    "timestamp": "Nov 20, 2016 8:23:04 PM",
+    "topic": "What Was the Nerd?",
+    "url": "http://reallifemag.com/what-was-the-nerd/",
+    "votes": 4,
+    "posted": "Nov 20, 2016 7:07:55 PM"
+  },
+  {
     "id": "13000145",
     "timestamp": "Nov 20, 2016 7:22:56 PM",
     "topic": "The mystery of why you can\u0027t remember being a baby",
     "url": "http://www.bbc.com/future/story/20160726-the-mystery-of-why-you-cant-remember-being-a-baby",
     "votes": 3,
     "posted": "Nov 20, 2016 7:06:08 PM"
+  },
+  {
+    "id": "13000120",
+    "timestamp": "Nov 20, 2016 8:03:00 PM",
+    "topic": "Show HN: StockDroids.com – a curated list of near stock Android devices",
+    "url": "http://www.StockDroids.com",
+    "votes": 3,
+    "posted": "Nov 20, 2016 7:02:23 PM"
   },
   {
     "id": "13000089",
@@ -45,6 +77,14 @@ var newsArray = [
     "topic": "Ask HN: What\u0027s your backup solution?",
     "votes": 7,
     "posted": "Nov 20, 2016 6:28:00 PM"
+  },
+  {
+    "id": "12999933",
+    "timestamp": "Nov 20, 2016 8:03:00 PM",
+    "topic": "AWS Serverless Application Model (SAM)",
+    "url": "https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md",
+    "votes": 4,
+    "posted": "Nov 20, 2016 6:27:28 PM"
   },
   {
     "id": "12999767",
@@ -393,6 +433,14 @@ var newsArray = [
     "url": "http://www.bbc.com/future/story/20161117-the-rise-of-miniature-microfactories",
     "votes": 4,
     "posted": "Nov 20, 2016 2:21:39 AM"
+  },
+  {
+    "id": "12996681",
+    "timestamp": "Nov 20, 2016 8:13:01 PM",
+    "topic": "Show HN: Defeating the Snooper\u0027s Charter by Visiting Bad Sites All the Time",
+    "url": "https://github.com/twak/hot-fuzz",
+    "votes": 3,
+    "posted": "Nov 20, 2016 2:04:26 AM"
   },
   {
     "id": "12996656",
@@ -4679,6 +4727,14 @@ var newsArray = [
     "url": "http://www.aaronkharris.com/fundraising-isnt-predictable",
     "votes": 10,
     "posted": "Nov 16, 2016 11:26:02 PM"
+  },
+  {
+    "id": "12972133",
+    "timestamp": "Nov 20, 2016 8:13:01 PM",
+    "topic": "Archeology Gives History a Makeover",
+    "url": "http://www.thedailybeast.com/articles/2016/10/30/how-archeology-gives-history-a-makeover.html",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:19:59 PM"
   },
   {
     "id": "12972106",
@@ -9062,61 +9118,5 @@ var newsArray = [
     "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.pahyb84f5",
     "votes": 6,
     "posted": "Nov 13, 2016 9:04:40 PM"
-  },
-  {
-    "id": "12945221",
-    "timestamp": "Nov 13, 2016 8:56:07 PM",
-    "topic": "Trigger Happy: An opensource clone of IFTTT",
-    "url": "https://trigger-happy.eu/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 8:45:01 PM"
-  },
-  {
-    "id": "12945201",
-    "timestamp": "Nov 13, 2016 11:36:21 PM",
-    "topic": "Aramid: Create Strongly-Typed HTML Components in C#",
-    "url": "https://github.com/edamtoft/Aramid",
-    "votes": 3,
-    "posted": "Nov 13, 2016 8:40:52 PM"
-  },
-  {
-    "id": "12945169",
-    "timestamp": "Nov 13, 2016 9:06:08 PM",
-    "topic": "Overlay.NET: An easy-to-use overlay library written in C#",
-    "url": "https://github.com/lolp1/Overlay.NET",
-    "votes": 3,
-    "posted": "Nov 13, 2016 8:36:05 PM"
-  },
-  {
-    "id": "12945015",
-    "timestamp": "Nov 13, 2016 9:06:08 PM",
-    "topic": "How I cloned patio11\u0027s Appointment Reminder for $2,000 MRR",
-    "url": "https://www.indiehackers.com/businesses/terminerinnerung?utm_source\u003dhacker-news\u0026utm_campaign\u003dinterview-promotion\u0026utm_medium\u003dcommunity",
-    "votes": 9,
-    "posted": "Nov 13, 2016 8:13:16 PM"
-  },
-  {
-    "id": "12944961",
-    "timestamp": "Nov 13, 2016 8:26:04 PM",
-    "topic": "The 14 Characteristics of Fascism (2003)",
-    "url": "https://ratical.org/ratville/CAH/fasci14chars.html",
-    "votes": 4,
-    "posted": "Nov 13, 2016 8:04:39 PM"
-  },
-  {
-    "id": "12944914",
-    "timestamp": "Nov 13, 2016 8:36:05 PM",
-    "topic": "The Mirror Effect: The rise of mirrors in the fifteenth century",
-    "url": "http://laphamsquarterly.org/roundtable/mirror-effect",
-    "votes": 3,
-    "posted": "Nov 13, 2016 7:56:06 PM"
-  },
-  {
-    "id": "12944913",
-    "timestamp": "Nov 13, 2016 8:16:03 PM",
-    "topic": "The Apache Cassandra battle highlights major problem with open source projects",
-    "url": "http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/",
-    "votes": 6,
-    "posted": "Nov 13, 2016 7:56:02 PM"
   }
 ];
