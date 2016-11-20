@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "12996789",
+    "timestamp": "Nov 20, 2016 3:11:33 AM",
+    "topic": "How Tech Usurped the Word “Empathy”",
+    "url": "http://venturebeat.com/2016/11/19/how-tech-usurped-the-word-empathy/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 2:38:22 AM"
+  },
+  {
     "id": "12996728",
     "timestamp": "Nov 20, 2016 2:51:31 AM",
     "topic": "The rise of miniature \u0027microfactories\u0027",
     "url": "http://www.bbc.com/future/story/20161117-the-rise-of-miniature-microfactories",
     "votes": 4,
     "posted": "Nov 20, 2016 2:21:39 AM"
+  },
+  {
+    "id": "12996656",
+    "timestamp": "Nov 20, 2016 3:41:35 AM",
+    "topic": "Conan Visits YouTube\u0027s VR Lab",
+    "url": "https://www.youtube.com/watch?v\u003dQqugCQzWOYA",
+    "votes": 4,
+    "posted": "Nov 20, 2016 1:56:55 AM"
   },
   {
     "id": "12996573",
@@ -22,6 +38,14 @@ var newsArray = [
     "url": "http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf",
     "votes": 3,
     "posted": "Nov 20, 2016 1:02:19 AM"
+  },
+  {
+    "id": "12996439",
+    "timestamp": "Nov 20, 2016 3:11:33 AM",
+    "topic": "SMS Privacy- building a profitable service to buy phone numbers anonymously",
+    "url": "https://www.indiehackers.com/businesses/sms-privacy",
+    "votes": 5,
+    "posted": "Nov 20, 2016 1:00:17 AM"
   },
   {
     "id": "12996411",
@@ -77,6 +101,13 @@ var newsArray = [
     "url": "http://fivethirtyeight.com/features/world-chess-championship-game-6-carlsen-karjakin/",
     "votes": 3,
     "posted": "Nov 19, 2016 10:26:02 PM"
+  },
+  {
+    "id": "12995562",
+    "timestamp": "Nov 20, 2016 3:41:35 AM",
+    "topic": "Ask HN: How do you hack your food budget without a full kitchen?",
+    "votes": 5,
+    "posted": "Nov 19, 2016 9:48:36 PM"
   },
   {
     "id": "12995517",
@@ -261,6 +292,28 @@ var newsArray = [
     "url": "https://medium.com/@chris_82106/https-medium-com-chris-82106-its-2016-why-is-video-conferencing-still-terrible-1b8802032aae#.rcalpw337",
     "votes": 3,
     "posted": "Nov 19, 2016 7:13:17 PM"
+  },
+  {
+    "id": "12994503",
+    "timestamp": "Nov 20, 2016 3:41:35 AM",
+    "topic": "Ask HN: Where do you look for jobs?",
+    "votes": 10,
+    "posted": "Nov 19, 2016 6:41:54 PM"
+  },
+  {
+    "id": "12994487",
+    "timestamp": "Nov 20, 2016 3:41:36 AM",
+    "topic": "Ask HN: Where can I find a list of flagged HN submissions?",
+    "votes": 6,
+    "posted": "Nov 19, 2016 6:38:35 PM"
+  },
+  {
+    "id": "12994482",
+    "timestamp": "Nov 20, 2016 3:41:35 AM",
+    "topic": "250 GB/day of logs with Graylog: The good, the bad and the ugly",
+    "url": "https://thehftguy.wordpress.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 6:37:43 PM"
   },
   {
     "id": "12994455",
@@ -845,6 +898,13 @@ var newsArray = [
     "url": "https://www.indy100.com/article/study-finds-intelligent-people-need-more-time-alone-to-be-happy-7423191",
     "votes": 3,
     "posted": "Nov 19, 2016 4:18:37 AM"
+  },
+  {
+    "id": "12991827",
+    "timestamp": "Nov 20, 2016 3:41:36 AM",
+    "topic": "Ask HN: What is your method of submitting a project to Product Hunt",
+    "votes": 5,
+    "posted": "Nov 19, 2016 4:01:34 AM"
   },
   {
     "id": "12991806",
@@ -1694,6 +1754,13 @@ var newsArray = [
     "topic": "Ask HN: What do you keep at/on/in your desk?",
     "votes": 7,
     "posted": "Nov 18, 2016 4:07:52 PM"
+  },
+  {
+    "id": "12987177",
+    "timestamp": "Nov 20, 2016 3:51:37 AM",
+    "topic": "Ask HN: How many of the startups here use Microsoft Stack?",
+    "votes": 5,
+    "posted": "Nov 18, 2016 4:03:03 PM"
   },
   {
     "id": "12987123",
@@ -9211,21 +9278,5 @@ var newsArray = [
     "url": "https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/",
     "votes": 3,
     "posted": "Nov 13, 2016 4:19:56 AM"
-  },
-  {
-    "id": "12941409",
-    "timestamp": "Nov 13, 2016 2:15:28 PM",
-    "topic": "Dostoevsky’s Empathy",
-    "url": "http://www.theparisreview.org/blog/2016/11/11/dostoevskys-empathy/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:57:10 AM"
-  },
-  {
-    "id": "12941399",
-    "timestamp": "Nov 13, 2016 3:14:33 AM",
-    "topic": "Muslim woman: I\u0027m one of Trump\u0027s “silent voters”",
-    "url": "http://www.cnn.com/2016/11/11/politics/muslim-silent-voter/index.html",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:54:54 AM"
   }
 ];
