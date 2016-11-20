@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12998102",
+    "timestamp": "Nov 20, 2016 11:32:16 AM",
+    "topic": "WebExtensions in Firefox 52",
+    "url": "https://blog.mozilla.org/addons/2016/11/18/webextensions-in-firefox-52/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 10:55:31 AM"
+  },
+  {
+    "id": "12998039",
+    "timestamp": "Nov 20, 2016 11:32:16 AM",
+    "topic": "Currying – The Underrated Concept in JavaScript",
+    "url": "https://medium.com/@iquardt/currying-the-underestimated-concept-in-javascript-c95d9a823fc6#.qk1kk6y77",
+    "votes": 4,
+    "posted": "Nov 20, 2016 10:17:22 AM"
+  },
+  {
     "id": "12997935",
     "timestamp": "Nov 20, 2016 9:52:04 AM",
     "topic": "Build a Legacy. The Muse (YC W12) Is Hiring a Head of Enterprise Sales",
@@ -16,12 +32,36 @@ var newsArray = [
     "posted": "Nov 20, 2016 9:26:24 AM"
   },
   {
+    "id": "12997883",
+    "timestamp": "Nov 20, 2016 11:22:15 AM",
+    "topic": "President Obama Claims He Cannot Pardon Snowden; He\u0027s Wrong",
+    "url": "https://www.techdirt.com/articles/20161118/17160636087/president-obama-claims-he-cannot-pardon-snowden-hes-wrong.shtml",
+    "votes": 4,
+    "posted": "Nov 20, 2016 9:21:43 AM"
+  },
+  {
     "id": "12997830",
     "timestamp": "Nov 20, 2016 10:22:11 AM",
     "topic": "Learning to Superoptimize Programs",
     "url": "https://arxiv.org/abs/1611.01787",
     "votes": 4,
     "posted": "Nov 20, 2016 9:00:29 AM"
+  },
+  {
+    "id": "12997476",
+    "timestamp": "Nov 20, 2016 11:42:17 AM",
+    "topic": "Scientists Accidentally Discover Efficient Process to Turn CO2 into Ethanol",
+    "url": "http://www.popularmechanics.com/science/green-tech/a23417/convert-co2-into-ethanol/?linkId\u003d31295308",
+    "votes": 6,
+    "posted": "Nov 20, 2016 6:45:53 AM"
+  },
+  {
+    "id": "12997473",
+    "timestamp": "Nov 20, 2016 11:42:18 AM",
+    "topic": "DDD and REST – Domain Driven APIs for the Web",
+    "url": "https://www.infoq.com/presentations/ddd-rest#.WDE3wOP-bgs.hackernews",
+    "votes": 3,
+    "posted": "Nov 20, 2016 6:42:47 AM"
   },
   {
     "id": "12997357",
@@ -148,6 +188,13 @@ var newsArray = [
     "url": "http://nymag.com/daily/intelligencer/2016/11/a-billionaires-dreams-of-creating-a-guns-empire.html",
     "votes": 3,
     "posted": "Nov 20, 2016 1:33:19 AM"
+  },
+  {
+    "id": "12996519",
+    "timestamp": "Nov 20, 2016 11:52:18 AM",
+    "topic": "Ask HN: Play music remotely for my Dad",
+    "votes": 3,
+    "posted": "Nov 20, 2016 1:21:43 AM"
   },
   {
     "id": "12996449",
@@ -9169,85 +9216,5 @@ var newsArray = [
     "url": "http://dilbert.com/strip/2016-11-13",
     "votes": 5,
     "posted": "Nov 13, 2016 11:53:58 AM"
-  },
-  {
-    "id": "12942734",
-    "timestamp": "Nov 13, 2016 2:35:30 PM",
-    "topic": "How Brocade totally missed the boat with Vyatta (2014)",
-    "url": "http://dotbalm.org/brocade-missed-the-boat-with-vyatta/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:40:45 AM"
-  },
-  {
-    "id": "12942732",
-    "timestamp": "Nov 13, 2016 3:05:34 PM",
-    "topic": "Why CPU Frequency Stalled",
-    "url": "http://spectrum.ieee.org/computing/hardware/why-cpu-frequency-stalled",
-    "votes": 6,
-    "posted": "Nov 13, 2016 11:39:44 AM"
-  },
-  {
-    "id": "12942729",
-    "timestamp": "Nov 13, 2016 3:05:35 PM",
-    "topic": "Secret is coming back",
-    "url": "https://techcrunch.com/2016/11/12/secret-is-coming-back/?ncid\u003drss",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:39:03 AM"
-  },
-  {
-    "id": "12942715",
-    "timestamp": "Nov 13, 2016 1:25:22 PM",
-    "topic": "The Real Clinton Conspiracy That Backfired",
-    "url": "https://www.armstrongeconomics.com/international-news/north_america/2016-u-s-presidential-election/the-real-clinton-conspiracy-that-backfired-the-worst-candiate-in-american-history/",
-    "votes": 5,
-    "posted": "Nov 13, 2016 11:33:04 AM"
-  },
-  {
-    "id": "12942700",
-    "timestamp": "Nov 13, 2016 1:25:23 PM",
-    "topic": "Investigation Reveals Silicon Valley’s Abuse of Immigrant Tech Workers",
-    "url": "https://www.wired.com/2014/11/investigation-reveals-silicon-valleys-abuse-immigrant-tech-workers/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:29:34 AM"
-  },
-  {
-    "id": "12942697",
-    "timestamp": "Nov 13, 2016 7:05:56 PM",
-    "topic": "The Cognitive Dissonance Cluster Bomb",
-    "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:28:14 AM"
-  },
-  {
-    "id": "12942696",
-    "timestamp": "Nov 13, 2016 1:35:23 PM",
-    "topic": "First home brain implant lets ‘locked-in’ woman play games",
-    "url": "https://www.newscientist.com/article/2112562-first-home-brain-implant-lets-locked-in-woman-play-games/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:27:27 AM"
-  },
-  {
-    "id": "12942654",
-    "timestamp": "Nov 13, 2016 1:55:26 PM",
-    "topic": "Zero-allocation Trie Traversal",
-    "url": "http://nullprogram.com/blog/2016/11/13/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:10:58 AM"
-  },
-  {
-    "id": "12942651",
-    "timestamp": "Nov 13, 2016 7:25:58 PM",
-    "topic": "How many scientific papers just aren’t true?",
-    "url": "http://www.spectator.co.uk/2016/10/how-many-scientific-papers-just-arent-true/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 11:09:47 AM"
-  },
-  {
-    "id": "12942607",
-    "timestamp": "Nov 13, 2016 2:05:27 PM",
-    "topic": "Show HN: Tap curl in your editor before it gets to sh",
-    "url": "https://github.com/awalGarg/curl-tap-sh",
-    "votes": 4,
-    "posted": "Nov 13, 2016 10:57:03 AM"
   }
 ];
