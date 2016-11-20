@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12997357",
+    "timestamp": "Nov 20, 2016 6:11:47 AM",
+    "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
+    "url": "http://grnh.se/dik0jy1",
+    "votes": 1,
+    "posted": "Nov 20, 2016 6:05:30 AM"
+  },
+  {
+    "id": "12997204",
+    "timestamp": "Nov 20, 2016 6:31:48 AM",
+    "topic": "Increasing Attacker Cost Using Immutable Infrastructure",
+    "url": "https://diogomonica.com/2016/11/19/increasing-attacker-cost-using-immutable-infrastructure/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 5:02:32 AM"
+  },
+  {
+    "id": "12997047",
+    "timestamp": "Nov 20, 2016 6:21:48 AM",
+    "topic": "Attn: Jeff Bezos",
+    "url": "http://scripting.com/2016/11/18/attnJeffBezos.html",
+    "votes": 3,
+    "posted": "Nov 20, 2016 4:12:56 AM"
+  },
+  {
     "id": "12997038",
     "timestamp": "Nov 20, 2016 4:31:39 AM",
     "topic": "Hate Crimes, Hoaxes, and Hyperbole",
@@ -101,6 +125,14 @@ var newsArray = [
     "url": "https://egghead.io/courses/getting-started-with-redux",
     "votes": 4,
     "posted": "Nov 20, 2016 12:45:21 AM"
+  },
+  {
+    "id": "12996184",
+    "timestamp": "Nov 20, 2016 6:31:49 AM",
+    "topic": "Linux 4.9 Is Showing Some Performance Improvements",
+    "url": "http://phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dLinux-4.9-Initial-6800K-Results",
+    "votes": 4,
+    "posted": "Nov 19, 2016 11:51:13 PM"
   },
   {
     "id": "12996032",
@@ -9242,35 +9274,5 @@ var newsArray = [
     "url": "http://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/",
     "votes": 3,
     "posted": "Nov 13, 2016 7:31:01 AM"
-  },
-  {
-    "id": "12941997",
-    "timestamp": "Nov 13, 2016 7:34:53 AM",
-    "topic": "Ask HN: Best Git workflow for small teams",
-    "votes": 5,
-    "posted": "Nov 13, 2016 6:23:33 AM"
-  },
-  {
-    "id": "12941979",
-    "timestamp": "Nov 13, 2016 7:04:51 AM",
-    "topic": "Native apps are doomed",
-    "url": "https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0#.p4aazx6vn",
-    "votes": 3,
-    "posted": "Nov 13, 2016 6:17:15 AM"
-  },
-  {
-    "id": "12941947",
-    "timestamp": "Nov 13, 2016 6:04:46 AM",
-    "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
-    "url": "http://grnh.se/dik0jy1",
-    "votes": 1,
-    "posted": "Nov 13, 2016 6:02:03 AM"
-  },
-  {
-    "id": "12941934",
-    "timestamp": "Nov 13, 2016 10:56:18 PM",
-    "topic": "Ask HN: May I sit in on an interview for an ansible-focused role?",
-    "votes": 8,
-    "posted": "Nov 13, 2016 5:55:54 AM"
   }
 ];
