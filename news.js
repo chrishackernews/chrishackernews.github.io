@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12997935",
+    "timestamp": "Nov 20, 2016 9:52:04 AM",
+    "topic": "Build a Legacy. The Muse (YC W12) Is Hiring a Head of Enterprise Sales",
+    "url": "https://www.themuse.com/jobs/themuse/head-of-enterprise-8e622c",
+    "votes": 1,
+    "posted": "Nov 20, 2016 9:42:30 AM"
+  },
+  {
+    "id": "12997893",
+    "timestamp": "Nov 20, 2016 9:52:04 AM",
+    "topic": "German Cities Are Solving the Age-Old Public Toilet Problem",
+    "url": "https://www.fastcoexist.com/3065278/german-cities-are-solving-the-age-old-public-toilet-problem?utm_content\u003dbuffer06058\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter.com\u0026utm_campaign\u003dbuffer",
+    "votes": 3,
+    "posted": "Nov 20, 2016 9:26:24 AM"
+  },
+  {
     "id": "12997357",
     "timestamp": "Nov 20, 2016 6:11:47 AM",
     "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
@@ -9234,52 +9250,5 @@ var newsArray = [
     "url": "http://davidgerard.co.uk/notes/2016/11/12/two-factor-authentication-on-wikipedia-for-admins-and-up/",
     "votes": 3,
     "posted": "Nov 13, 2016 10:13:37 AM"
-  },
-  {
-    "id": "12942465",
-    "timestamp": "Nov 13, 2016 11:25:12 AM",
-    "topic": "Dear Google, Apple, Mozilla, and MS: Please End Auto-Playing Media in Browsers",
-    "votes": 6,
-    "posted": "Nov 13, 2016 9:48:12 AM"
-  },
-  {
-    "id": "12942461",
-    "timestamp": "Nov 13, 2016 4:55:45 PM",
-    "topic": "My Subconscious Is a Better Developer Than I Am",
-    "url": "http://blog.johnnyreilly.com/2016/11/my-subconscious-is-better-developer.html",
-    "votes": 5,
-    "posted": "Nov 13, 2016 9:45:02 AM"
-  },
-  {
-    "id": "12942437",
-    "timestamp": "Nov 13, 2016 9:35:04 AM",
-    "topic": "Time for a Data Party? Join the Muse (YC W12) as a Data Engineer",
-    "url": "https://www.themuse.com/jobs/themuse/data-engineer-bea745",
-    "votes": 1,
-    "posted": "Nov 13, 2016 9:34:30 AM"
-  },
-  {
-    "id": "12942368",
-    "timestamp": "Nov 13, 2016 9:25:02 AM",
-    "topic": "Leibniz – a digital scientific notation",
-    "url": "https://github.com/khinsen/leibniz",
-    "votes": 3,
-    "posted": "Nov 13, 2016 8:58:32 AM"
-  },
-  {
-    "id": "12942359",
-    "timestamp": "Nov 13, 2016 9:45:04 AM",
-    "topic": "Frameworks are fundamentally broken",
-    "url": "http://timperrett.com/2016/11/12/frameworks-are-fundimentally-broken/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 8:56:33 AM"
-  },
-  {
-    "id": "12942357",
-    "timestamp": "Nov 13, 2016 1:25:23 PM",
-    "topic": "Movies Featuring the Nmap Security Scanner",
-    "url": "https://nmap.org/movies/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 8:55:50 AM"
   }
 ];
