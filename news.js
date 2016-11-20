@@ -8,6 +8,13 @@ var newsArray = [
     "posted": "Nov 20, 2016 6:05:30 AM"
   },
   {
+    "id": "12997338",
+    "timestamp": "Nov 20, 2016 8:51:58 AM",
+    "topic": "Ask HN: How much do you earn from side project or passive income?",
+    "votes": 5,
+    "posted": "Nov 20, 2016 5:53:53 AM"
+  },
+  {
     "id": "12997204",
     "timestamp": "Nov 20, 2016 6:31:48 AM",
     "topic": "Increasing Attacker Cost Using Immutable Infrastructure",
@@ -22,6 +29,14 @@ var newsArray = [
     "url": "https://theintercept.com/2016/11/18/the-stark-contrast-between-the-gops-self-criticism-in-2012-and-the-democrats-blame-everyone-else-posture-now/",
     "votes": 4,
     "posted": "Nov 20, 2016 5:02:27 AM"
+  },
+  {
+    "id": "12997140",
+    "timestamp": "Nov 20, 2016 8:01:55 AM",
+    "topic": "Show HN: An Interpreter for Extended Relational Algebra (Scheme Based)",
+    "url": "https://github.com/scvalencia/Coddie",
+    "votes": 3,
+    "posted": "Nov 20, 2016 4:41:49 AM"
   },
   {
     "id": "12997047",
@@ -1913,6 +1928,14 @@ var newsArray = [
     "url": "http://www.bleepingcomputer.com/news/security/ransomware-developer-asks-security-researcher-for-help-in-fixing-broken-crypto/",
     "votes": 4,
     "posted": "Nov 18, 2016 3:42:47 PM"
+  },
+  {
+    "id": "12987010",
+    "timestamp": "Nov 20, 2016 8:51:59 AM",
+    "topic": "Walmart Tackles Food Safety with Test of Blockchain Technology",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-18/wal-mart-tackles-food-safety-with-test-of-blockchain-technology",
+    "votes": 3,
+    "posted": "Nov 18, 2016 3:37:59 PM"
   },
   {
     "id": "12986937",
@@ -9258,13 +9281,5 @@ var newsArray = [
     "url": "https://nmap.org/movies/",
     "votes": 4,
     "posted": "Nov 13, 2016 8:55:50 AM"
-  },
-  {
-    "id": "12942290",
-    "timestamp": "Nov 13, 2016 1:45:25 PM",
-    "topic": "An interactive demo of amplitude modulation in browser",
-    "url": "https://academo.org/demos/amplitude-modulation/",
-    "votes": 5,
-    "posted": "Nov 13, 2016 8:34:53 AM"
   }
 ];
