@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "12997038",
+    "timestamp": "Nov 20, 2016 4:31:39 AM",
+    "topic": "Hate Crimes, Hoaxes, and Hyperbole",
+    "url": "http://reason.com/blog/2016/11/18/election-hate-crimes-hoaxes-hyperbole",
+    "votes": 3,
+    "posted": "Nov 20, 2016 4:06:26 AM"
+  },
+  {
+    "id": "12996835",
+    "timestamp": "Nov 20, 2016 4:11:38 AM",
+    "topic": "Why the MacBook Pro Is Limited to 16GB of RAM",
+    "url": "https://macdaddy.io/macbook-pro-limited-16gb-ram/",
+    "votes": 4,
+    "posted": "Nov 20, 2016 2:50:10 AM"
+  },
+  {
     "id": "12996789",
     "timestamp": "Nov 20, 2016 3:11:33 AM",
     "topic": "How Tech Usurped the Word “Empathy”",
@@ -22,6 +38,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dQqugCQzWOYA",
     "votes": 4,
     "posted": "Nov 20, 2016 1:56:55 AM"
+  },
+  {
+    "id": "12996651",
+    "timestamp": "Nov 20, 2016 4:11:38 AM",
+    "topic": "The Math That’s Too Difficult for Physics",
+    "url": "https://www.quantamagazine.org/20161118-the-math-thats-too-difficult-for-physics/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 1:55:28 AM"
   },
   {
     "id": "12996573",
@@ -55,6 +79,14 @@ var newsArray = [
     "posted": "Nov 20, 2016 12:51:02 AM"
   },
   {
+    "id": "12996396",
+    "timestamp": "Nov 20, 2016 4:21:39 AM",
+    "topic": "Getting Started with Redux",
+    "url": "https://egghead.io/courses/getting-started-with-redux",
+    "votes": 4,
+    "posted": "Nov 20, 2016 12:45:21 AM"
+  },
+  {
     "id": "12996032",
     "timestamp": "Nov 20, 2016 2:11:27 AM",
     "topic": "Introducing code reviews to a team – Part 2",
@@ -77,6 +109,14 @@ var newsArray = [
     "url": "http://arstechnica.com/business/2016/11/first-power-drawn-from-tidal-turbines-off-the-coast-of-scotland/",
     "votes": 3,
     "posted": "Nov 19, 2016 11:09:23 PM"
+  },
+  {
+    "id": "12995876",
+    "timestamp": "Nov 20, 2016 4:41:40 AM",
+    "topic": "When Women Stopped Coding",
+    "url": "http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding",
+    "votes": 4,
+    "posted": "Nov 19, 2016 10:48:24 PM"
   },
   {
     "id": "12995857",
@@ -9248,35 +9288,5 @@ var newsArray = [
     "url": "http://www.theregister.co.uk/2016/11/01/docker_user_havent_patched_dirty_cow_yet_bad_news/",
     "votes": 4,
     "posted": "Nov 13, 2016 5:03:53 AM"
-  },
-  {
-    "id": "12941757",
-    "timestamp": "Nov 13, 2016 8:24:57 AM",
-    "topic": "Ask HN: Counting # of protestors?",
-    "votes": 3,
-    "posted": "Nov 13, 2016 4:50:14 AM"
-  },
-  {
-    "id": "12941715",
-    "timestamp": "Nov 13, 2016 11:56:23 PM",
-    "topic": "Ask HN: What projects have you worked on that ended up failing",
-    "votes": 4,
-    "posted": "Nov 13, 2016 4:35:31 AM"
-  },
-  {
-    "id": "12941673",
-    "timestamp": "Nov 13, 2016 4:34:39 AM",
-    "topic": "OAuth 2.0 Hack Exposes 1B Mobile Apps to Account Hijacking",
-    "url": "https://threatpost.com/oauth-2-0-hack-exposes-1-billion-mobile-apps-to-account-hijacking/121889/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 4:21:31 AM"
-  },
-  {
-    "id": "12941669",
-    "timestamp": "Nov 13, 2016 5:34:44 AM",
-    "topic": "RStudio IDE Easy Tricks You Might’ve Missed",
-    "url": "https://www.rstudio.com/rviews/2016/11/11/easy-tricks-you-mightve-missed/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 4:19:56 AM"
   }
 ];
