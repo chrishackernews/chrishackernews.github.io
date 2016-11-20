@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "13001511",
+    "timestamp": "Nov 20, 2016 11:53:21 PM",
+    "topic": "Proof of Stake by Fred Wilson",
+    "url": "http://avc.com/2016/11/proof-of-stake/",
+    "votes": 4,
+    "posted": "Nov 20, 2016 11:00:45 PM"
+  },
+  {
     "id": "13001213",
     "timestamp": "Nov 20, 2016 10:23:14 PM",
     "topic": "Inside Gab: The New Twitter Alternative Championed by the Alt-Right",
     "url": "https://www.fastcompany.com/3065777/inside-gab-the-new-twitter-alternative-championed-by-the-alt-right",
     "votes": 4,
     "posted": "Nov 20, 2016 10:04:05 PM"
+  },
+  {
+    "id": "13001146",
+    "timestamp": "Nov 20, 2016 11:43:20 PM",
+    "topic": "When and Why Nationalism Beats Globalism",
+    "url": "http://www.the-american-interest.com/2016/07/10/when-and-why-nationalism-beats-globalism/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 9:53:56 PM"
   },
   {
     "id": "13001068",
@@ -21,6 +37,14 @@ var newsArray = [
     "topic": "As a developer, how can i take advantage of time spent driving to work?",
     "votes": 8,
     "posted": "Nov 20, 2016 9:05:19 PM"
+  },
+  {
+    "id": "13000840",
+    "timestamp": "Nov 20, 2016 11:43:19 PM",
+    "topic": "Winning the Information War",
+    "url": "http://cepa.org/reports/winning-the-Information-War",
+    "votes": 3,
+    "posted": "Nov 20, 2016 9:02:50 PM"
   },
   {
     "id": "13000445",
@@ -116,6 +140,14 @@ var newsArray = [
     "url": "https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md",
     "votes": 4,
     "posted": "Nov 20, 2016 6:27:28 PM"
+  },
+  {
+    "id": "12999926",
+    "timestamp": "Nov 20, 2016 11:43:19 PM",
+    "topic": "Microsoft to Tie Executive Bonuses to Company Diversity Goals",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-17/microsoft-to-tie-executive-bonuses-to-company-diversity-goals",
+    "votes": 3,
+    "posted": "Nov 20, 2016 6:26:42 PM"
   },
   {
     "id": "12999767",
@@ -9045,37 +9077,5 @@ var newsArray = [
     "url": "https://github.com/neuecc/ZeroFormatter",
     "votes": 3,
     "posted": "Nov 14, 2016 12:11:55 AM"
-  },
-  {
-    "id": "12946202",
-    "timestamp": "Nov 14, 2016 12:16:24 AM",
-    "topic": "Self-Taught Software Engineers: Why Open Source Is Important to Us",
-    "url": "https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576",
-    "votes": 4,
-    "posted": "Nov 13, 2016 11:51:48 PM"
-  },
-  {
-    "id": "12946018",
-    "timestamp": "Nov 14, 2016 2:16:34 AM",
-    "topic": "Secure the Network Part #1 – OpenVPN and DNSCrypt",
-    "url": "https://snehesh.me/blog/secure-the-network-part-1-openvpn-and-dnscrypt",
-    "votes": 4,
-    "posted": "Nov 13, 2016 11:21:26 PM"
-  },
-  {
-    "id": "12946015",
-    "timestamp": "Nov 13, 2016 11:56:23 PM",
-    "topic": "Price of Lab-Grown Burger Falls from $325K to $11.36",
-    "url": "http://bigthink.com/ideafeed/answering-how-a-sausage-gets-made-will-be-more-complicated-in-2020",
-    "votes": 4,
-    "posted": "Nov 13, 2016 11:20:33 PM"
-  },
-  {
-    "id": "12945989",
-    "timestamp": "Nov 16, 2016 5:51:40 AM",
-    "topic": "British Airways Flight 5390",
-    "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_5390",
-    "votes": 4,
-    "posted": "Nov 13, 2016 11:14:38 PM"
   }
 ];
