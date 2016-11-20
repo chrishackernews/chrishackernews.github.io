@@ -1,11 +1,42 @@
 var newsArray = [
   {
+    "id": "12996728",
+    "timestamp": "Nov 20, 2016 2:51:31 AM",
+    "topic": "The rise of miniature \u0027microfactories\u0027",
+    "url": "http://www.bbc.com/future/story/20161117-the-rise-of-miniature-microfactories",
+    "votes": 4,
+    "posted": "Nov 20, 2016 2:21:39 AM"
+  },
+  {
+    "id": "12996573",
+    "timestamp": "Nov 20, 2016 2:01:26 AM",
+    "topic": "The billionaire that dreamed of creating a guns empire",
+    "url": "http://nymag.com/daily/intelligencer/2016/11/a-billionaires-dreams-of-creating-a-guns-empire.html",
+    "votes": 3,
+    "posted": "Nov 20, 2016 1:33:19 AM"
+  },
+  {
     "id": "12996449",
     "timestamp": "Nov 20, 2016 1:11:23 AM",
     "topic": "Scheduling Algorithms in Big Data: A Survey [pdf]",
     "url": "http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf",
     "votes": 3,
     "posted": "Nov 20, 2016 1:02:19 AM"
+  },
+  {
+    "id": "12996411",
+    "timestamp": "Nov 20, 2016 2:01:26 AM",
+    "topic": "Ask HN: What\u0027s a good US address parsing library?",
+    "votes": 3,
+    "posted": "Nov 20, 2016 12:51:02 AM"
+  },
+  {
+    "id": "12996032",
+    "timestamp": "Nov 20, 2016 2:11:27 AM",
+    "topic": "Introducing code reviews to a team – Part 2",
+    "url": "http://www.depthinfinity.com/2016/05/introducing-code-reviews-to-a-team-part-2/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 11:19:40 PM"
   },
   {
     "id": "12996019",
@@ -38,6 +69,14 @@ var newsArray = [
     "url": "https://equipmentshare.com/jobs",
     "votes": 1,
     "posted": "Nov 19, 2016 10:42:14 PM"
+  },
+  {
+    "id": "12995779",
+    "timestamp": "Nov 20, 2016 2:21:28 AM",
+    "topic": "Are Computers Draining the Beauty Out of Chess?",
+    "url": "http://fivethirtyeight.com/features/world-chess-championship-game-6-carlsen-karjakin/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 10:26:02 PM"
   },
   {
     "id": "12995517",
@@ -94,6 +133,14 @@ var newsArray = [
     "url": "https://live.givedirectly.org/",
     "votes": 3,
     "posted": "Nov 19, 2016 9:22:23 PM"
+  },
+  {
+    "id": "12995400",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "Bayesian linear regression step by step",
+    "url": "https://github.com/liviu-/notebooks/blob/master/bayesian_linear_regression.ipynb",
+    "votes": 5,
+    "posted": "Nov 19, 2016 9:21:42 PM"
   },
   {
     "id": "12995338",
@@ -240,6 +287,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 6:24:08 PM"
   },
   {
+    "id": "12994329",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
+    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#.y3uj8jdat",
+    "votes": 7,
+    "posted": "Nov 19, 2016 6:07:41 PM"
+  },
+  {
     "id": "12994304",
     "timestamp": "Nov 19, 2016 8:50:59 PM",
     "topic": "Show HN: Commit – Tech News for Activist Coders",
@@ -270,6 +325,22 @@ var newsArray = [
     "url": "http://deeplearningkit.org",
     "votes": 6,
     "posted": "Nov 19, 2016 5:25:33 PM"
+  },
+  {
+    "id": "12994122",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "How a Serial Con Man Fooled Silicon Valley and Took an NFL Star\u0027s Millions",
+    "url": "http://www.inc.com/salvador-rodriguez/eren-niazi-patrick-willis.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 5:23:50 PM"
+  },
+  {
+    "id": "12994108",
+    "timestamp": "Nov 20, 2016 2:31:30 AM",
+    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
+    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#",
+    "votes": 5,
+    "posted": "Nov 19, 2016 5:20:46 PM"
   },
   {
     "id": "12994004",
@@ -318,6 +389,14 @@ var newsArray = [
     "url": "https://www.dropboxforum.com/t5/Desktop-client-builds/Beta-Build-15-3-19/m-p/194282#M3484",
     "votes": 5,
     "posted": "Nov 19, 2016 3:54:51 PM"
+  },
+  {
+    "id": "12993699",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "What I Discovered About Trump/Clinton from Analyzing 4M Facebook Posts",
+    "url": "https://shift.newco.co/what-i-discovered-about-trump-and-clinton-from-analyzing-4-million-facebook-posts-922a4381fd2f",
+    "votes": 3,
+    "posted": "Nov 19, 2016 3:51:37 PM"
   },
   {
     "id": "12993610",
@@ -440,6 +519,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 1:35:07 PM"
   },
   {
+    "id": "12993183",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "Air Defense Network of the Warsaw Pact",
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid\u003d1YEk08dihkpwcnZ3HOuAA9UzP21o\u0026shorturl\u003d1\u0026ll\u003d58.15572120289618%2C91.766924697876\u0026z\u003d3",
+    "votes": 3,
+    "posted": "Nov 19, 2016 1:25:04 PM"
+  },
+  {
     "id": "12993144",
     "timestamp": "Nov 19, 2016 1:50:12 PM",
     "topic": "Switching to Ubuntu from Apple",
@@ -496,6 +583,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 11:52:09 AM"
   },
   {
+    "id": "12992778",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "An Excerpt from They Thought They Were Free the Germans, 1933-45",
+    "url": "http://www.press.uchicago.edu/Misc/Chicago/511928.html",
+    "votes": 6,
+    "posted": "Nov 19, 2016 11:12:31 AM"
+  },
+  {
     "id": "12992777",
     "timestamp": "Nov 19, 2016 11:50:03 AM",
     "topic": "This is a graph of total global sea ice. The red line is this year",
@@ -518,6 +613,14 @@ var newsArray = [
     "url": "https://readthink.com/confessions-of-a-google-spammer-4f2e0c3e9869#.yskwscj4t",
     "votes": 3,
     "posted": "Nov 19, 2016 11:05:17 AM"
+  },
+  {
+    "id": "12992761",
+    "timestamp": "Nov 20, 2016 2:51:31 AM",
+    "topic": "When student journos start banning newspapers we know we\u0027ve hit peak censorship",
+    "url": "http://www.independent.co.uk/voices/city-university-tabloid-ban-sun-mail-express-peak-censorship-a7425156.html",
+    "votes": 4,
+    "posted": "Nov 19, 2016 11:05:01 AM"
   },
   {
     "id": "12992691",
@@ -672,6 +775,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 5:55:37 AM"
   },
   {
+    "id": "12992102",
+    "timestamp": "Nov 20, 2016 2:31:30 AM",
+    "topic": "Steve Bannon blasted in letter by 685 Harvard Business School women",
+    "url": "http://money.cnn.com/2016/11/18/technology/steve-bannon-harvard-business-school/index.html",
+    "votes": 4,
+    "posted": "Nov 19, 2016 5:38:12 AM"
+  },
+  {
     "id": "12992050",
     "timestamp": "Nov 19, 2016 11:20:00 AM",
     "topic": "Tesla Vision Demonstration (Autopilot Full Self-Driving Hardware)",
@@ -702,6 +813,14 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/opinions/trumps-fake-news-presidency/2016/11/18/72cc7b14-ad96-11e6-977a-1030f822fc35_story.html",
     "votes": 8,
     "posted": "Nov 19, 2016 4:42:24 AM"
+  },
+  {
+    "id": "12991922",
+    "timestamp": "Nov 20, 2016 2:31:30 AM",
+    "topic": "Silicon Valley Helped Create Trump, and That’s Bad for It",
+    "url": "http://nytimes.com/2016/11/18/opinion/silicon-valley-helped-create-trump-and-thats-bad-for-it.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 4:31:27 AM"
   },
   {
     "id": "12991910",
@@ -750,6 +869,14 @@ var newsArray = [
     "url": "http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/",
     "votes": 3,
     "posted": "Nov 19, 2016 3:47:10 AM"
+  },
+  {
+    "id": "12991724",
+    "timestamp": "Nov 20, 2016 2:31:29 AM",
+    "topic": "Data Wrangling Westworld",
+    "url": "https://blog.modeanalytics.com/data-mining-westworld/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 3:36:46 AM"
   },
   {
     "id": "12991581",
@@ -9100,36 +9227,5 @@ var newsArray = [
     "url": "http://www.cnn.com/2016/11/11/politics/muslim-silent-voter/index.html",
     "votes": 3,
     "posted": "Nov 13, 2016 2:54:54 AM"
-  },
-  {
-    "id": "12941366",
-    "timestamp": "Nov 13, 2016 2:54:31 AM",
-    "topic": "Ask HN: What should I plan to do on a 6 month sabbatical?",
-    "votes": 4,
-    "posted": "Nov 13, 2016 2:46:29 AM"
-  },
-  {
-    "id": "12941279",
-    "timestamp": "Nov 13, 2016 4:14:38 AM",
-    "topic": "Facebook bug \u0027kills\u0027 users in \u0027terrible error\u0027",
-    "url": "http://www.bbc.com/news/technology-37957593",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:24:23 AM"
-  },
-  {
-    "id": "12941261",
-    "timestamp": "Nov 13, 2016 2:24:29 AM",
-    "topic": "Run a profitable operation – Craft Coffee is hiring ops associate",
-    "url": "http://craftcoffee.applytojob.com/apply/RDvbKv/Operations-Associate?source\u003dhn",
-    "votes": 1,
-    "posted": "Nov 13, 2016 2:20:26 AM"
-  },
-  {
-    "id": "12941225",
-    "timestamp": "Nov 13, 2016 3:55:40 PM",
-    "topic": "A minimalist Openbox desktop for Vim freaks",
-    "url": "http://blog.johnnovak.net/2016/11/13/a-minimalist-openbox-desktop-for-vim-freaks/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 2:09:42 AM"
   }
 ];
