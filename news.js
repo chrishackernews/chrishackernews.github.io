@@ -315,6 +315,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 11:51:13 PM"
   },
   {
+    "id": "12996153",
+    "timestamp": "Nov 20, 2016 3:32:35 PM",
+    "topic": "Programming Has Changed My Life",
+    "url": "http://blog.professorbeekums.com/2016/11/programming-has-changed-my-life.html",
+    "votes": 3,
+    "posted": "Nov 19, 2016 11:45:29 PM"
+  },
+  {
     "id": "12996032",
     "timestamp": "Nov 20, 2016 2:11:27 AM",
     "topic": "Introducing code reviews to a team – Part 2",
@@ -638,6 +646,14 @@ var newsArray = [
     "url": "https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised?utm_source\u003dTheAtlantic\u0026utm_campaign\u003dWeek1-TheAtlantic-Swap\u0026utm_medium\u003dsocial",
     "votes": 9,
     "posted": "Nov 19, 2016 5:55:47 PM"
+  },
+  {
+    "id": "12994218",
+    "timestamp": "Nov 20, 2016 3:42:36 PM",
+    "topic": "On teaching mathematics, by V.I. Arnold (1997)",
+    "url": "http://pauli.uni-muenster.de/~munsteg/arnold.html",
+    "votes": 4,
+    "posted": "Nov 19, 2016 5:46:10 PM"
   },
   {
     "id": "12994132",
@@ -9135,61 +9151,5 @@ var newsArray = [
     "url": "https://www.reddit.com/r/haskell/comments/3lwom1/prezi_uses_haskell/cvad02a/",
     "votes": 3,
     "posted": "Nov 13, 2016 3:56:10 PM"
-  },
-  {
-    "id": "12943495",
-    "timestamp": "Nov 14, 2016 4:16:45 AM",
-    "topic": "Show HN: Find the color of your IP address",
-    "url": "https://sacert.github.io/IPAddressColor/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 3:44:18 PM"
-  },
-  {
-    "id": "12943418",
-    "timestamp": "Nov 13, 2016 3:45:39 PM",
-    "topic": "Sexual secrets for hundreds of millions exposed in largest hack of 2016",
-    "url": "https://www.leakedsource.com/blog/friendfinder",
-    "votes": 5,
-    "posted": "Nov 13, 2016 3:24:06 PM"
-  },
-  {
-    "id": "12943358",
-    "timestamp": "Nov 13, 2016 8:16:03 PM",
-    "topic": "Peter Thiel goes \u0027big league\u0027, joining Trump\u0027s presidential transition team",
-    "url": "https://www.theguardian.com/technology/2016/nov/11/peter-thiel-joins-donald-trump-transition-team",
-    "votes": 6,
-    "posted": "Nov 13, 2016 3:07:42 PM"
-  },
-  {
-    "id": "12943350",
-    "timestamp": "Nov 13, 2016 3:35:38 PM",
-    "topic": "India\u0027s air pollution in five charts",
-    "url": "http://www.hindustantimes.com/static/pollution-india-five-charts/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 3:05:54 PM"
-  },
-  {
-    "id": "12943329",
-    "timestamp": "Nov 13, 2016 3:35:38 PM",
-    "topic": "How the SoC Is Displacing the CPU",
-    "url": "https://medium.com/@magicsilicon/how-the-soc-is-displacing-the-cpu-49bc7503edab#.z2n19ipfm",
-    "votes": 5,
-    "posted": "Nov 13, 2016 2:58:29 PM"
-  },
-  {
-    "id": "12943316",
-    "timestamp": "Nov 13, 2016 3:25:36 PM",
-    "topic": "Where Even Nightmares Are Classified: Psychiatric Care at Guantánamo",
-    "url": "http://www.nytimes.com/2016/11/13/world/guantanamo-bay-doctors-abuse.html?src\u003dme",
-    "votes": 5,
-    "posted": "Nov 13, 2016 2:54:18 PM"
-  },
-  {
-    "id": "12943307",
-    "timestamp": "Nov 13, 2016 3:05:34 PM",
-    "topic": "The Trabant Is the Best Commie Car Made of Cotton We\u0027ve Ever Driven",
-    "url": "http://jalopnik.com/the-trabant-is-the-best-commie-car-made-of-cotton-weve-1788844883",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:53:05 PM"
   }
 ];
