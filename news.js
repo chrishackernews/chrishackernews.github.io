@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 20, 2016 5:02:32 AM"
   },
   {
+    "id": "12997202",
+    "timestamp": "Nov 20, 2016 7:41:53 AM",
+    "topic": "Dem\u0027s Strategy After Loss Not Inclusive of Introspection",
+    "url": "https://theintercept.com/2016/11/18/the-stark-contrast-between-the-gops-self-criticism-in-2012-and-the-democrats-blame-everyone-else-posture-now/",
+    "votes": 4,
+    "posted": "Nov 20, 2016 5:02:27 AM"
+  },
+  {
     "id": "12997047",
     "timestamp": "Nov 20, 2016 6:21:48 AM",
     "topic": "Attn: Jeff Bezos",
@@ -9258,21 +9266,5 @@ var newsArray = [
     "url": "https://academo.org/demos/amplitude-modulation/",
     "votes": 5,
     "posted": "Nov 13, 2016 8:34:53 AM"
-  },
-  {
-    "id": "12942169",
-    "timestamp": "Nov 13, 2016 11:35:13 AM",
-    "topic": "Just how close are we to solving vision? – Piekniewski\u0027s blog",
-    "url": "http://blog.piekniewski.info/2016/08/12/how-close-are-we-to-vision/",
-    "votes": 5,
-    "posted": "Nov 13, 2016 7:36:30 AM"
-  },
-  {
-    "id": "12942153",
-    "timestamp": "Nov 13, 2016 8:04:55 AM",
-    "topic": "Article claims quantum supremacy will come in the next 12 to 18 months",
-    "url": "http://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 7:31:01 AM"
   }
 ];
