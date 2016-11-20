@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "12998698",
+    "timestamp": "Nov 20, 2016 2:32:31 PM",
+    "topic": "Quit Social Media. Your Career May Depend on It",
+    "url": "http://mobile.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html",
+    "votes": 3,
+    "posted": "Nov 20, 2016 2:17:08 PM"
+  },
+  {
+    "id": "12998589",
+    "timestamp": "Nov 20, 2016 2:22:30 PM",
+    "topic": "Smalltalk vs. Scheme, JavaScript, and Java",
+    "url": "https://medium.com/smalltalk-talk/smalltalk-vs-scheme-javascript-and-java-e031fa6d3528",
+    "votes": 3,
+    "posted": "Nov 20, 2016 1:47:41 PM"
+  },
+  {
+    "id": "12998505",
+    "timestamp": "Nov 20, 2016 2:52:32 PM",
+    "topic": "Reinforcement learning with unsupervised auxiliary tasks",
+    "url": "https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 1:21:18 PM"
+  },
+  {
     "id": "12998395",
     "timestamp": "Nov 20, 2016 1:32:26 PM",
     "topic": "Seaweed can nearly eliminate methane from cow burps and farts",
@@ -22,6 +46,13 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/11/19/u-s-launches-next-generation-weather-satellite-that-will-revolutionize-forecasting/",
     "votes": 3,
     "posted": "Nov 20, 2016 12:42:34 PM"
+  },
+  {
+    "id": "12998320",
+    "timestamp": "Nov 20, 2016 2:12:29 PM",
+    "topic": "Ask HN: Anything Like Carl Sagan\u0027s Cosmos for Computer Science?",
+    "votes": 5,
+    "posted": "Nov 20, 2016 12:33:34 PM"
   },
   {
     "id": "12998217",
@@ -9160,53 +9191,5 @@ var newsArray = [
     "url": "http://jalopnik.com/the-trabant-is-the-best-commie-car-made-of-cotton-weve-1788844883",
     "votes": 3,
     "posted": "Nov 13, 2016 2:53:05 PM"
-  },
-  {
-    "id": "12943303",
-    "timestamp": "Nov 13, 2016 3:25:37 PM",
-    "topic": "Service Objects (No More Fat Models)",
-    "url": "http://stackoverflow.com/documentation/ruby-on-rails/1207/rails-best-practices/25516/service-objects-no-more-fat-models#t\u003d201611131349087582972",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:52:03 PM"
-  },
-  {
-    "id": "12943250",
-    "timestamp": "Nov 13, 2016 3:05:34 PM",
-    "topic": "2 METRE TSUNAMI DETECTED IN NEW ZEALAND",
-    "url": "http://www.weatherwatch.co.nz/content/tsunami-warning-issued-new-zealand",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:40:15 PM"
-  },
-  {
-    "id": "12943243",
-    "timestamp": "Nov 13, 2016 3:05:34 PM",
-    "topic": "New Zealand earthquake: Tsunami arrives after powerful tremor hits",
-    "url": "http://www.bbc.co.uk/news/world-asia-37967178",
-    "votes": 4,
-    "posted": "Nov 13, 2016 2:37:28 PM"
-  },
-  {
-    "id": "12943197",
-    "timestamp": "Nov 13, 2016 3:25:37 PM",
-    "topic": "Bernie Sanders: Where the Democrats Go from Here",
-    "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
-    "votes": 13,
-    "posted": "Nov 13, 2016 2:27:16 PM"
-  },
-  {
-    "id": "12943175",
-    "timestamp": "Nov 13, 2016 3:45:39 PM",
-    "topic": "Is SVG 2 really on life support?",
-    "url": "http://libregraphicsworld.org/blog/entry/is-svg-2-really-on-life-support",
-    "votes": 3,
-    "posted": "Nov 13, 2016 2:20:49 PM"
-  },
-  {
-    "id": "12943150",
-    "timestamp": "Nov 13, 2016 2:55:33 PM",
-    "topic": "GNU Parallel Tutorial",
-    "url": "https://www.gnu.org/software/parallel/parallel_tutorial.html#GNU-Parallel-Tutorial",
-    "votes": 4,
-    "posted": "Nov 13, 2016 2:11:49 PM"
   }
 ];
