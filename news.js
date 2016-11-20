@@ -16,6 +16,14 @@ var newsArray = [
     "posted": "Nov 20, 2016 9:26:24 AM"
   },
   {
+    "id": "12997830",
+    "timestamp": "Nov 20, 2016 10:22:11 AM",
+    "topic": "Learning to Superoptimize Programs",
+    "url": "https://arxiv.org/abs/1611.01787",
+    "votes": 4,
+    "posted": "Nov 20, 2016 9:00:29 AM"
+  },
+  {
     "id": "12997357",
     "timestamp": "Nov 20, 2016 6:11:47 AM",
     "topic": "Lob (YC S13) Is Hiring Senior Software Engineers",
@@ -101,6 +109,13 @@ var newsArray = [
     "url": "http://venturebeat.com/2016/11/19/how-tech-usurped-the-word-empathy/",
     "votes": 3,
     "posted": "Nov 20, 2016 2:38:22 AM"
+  },
+  {
+    "id": "12996771",
+    "timestamp": "Nov 20, 2016 10:12:05 AM",
+    "topic": "Ask HN: What is your favorite book on English grammar?",
+    "votes": 4,
+    "posted": "Nov 20, 2016 2:34:02 AM"
   },
   {
     "id": "12996728",
@@ -9234,21 +9249,5 @@ var newsArray = [
     "url": "https://github.com/awalGarg/curl-tap-sh",
     "votes": 4,
     "posted": "Nov 13, 2016 10:57:03 AM"
-  },
-  {
-    "id": "12942534",
-    "timestamp": "Nov 13, 2016 1:05:21 PM",
-    "topic": "World Chess Championship: Game 2, Draw",
-    "url": "https://worldchess.com/2016/11/12/world-championship-game-2-draw/",
-    "votes": 6,
-    "posted": "Nov 13, 2016 10:17:21 AM"
-  },
-  {
-    "id": "12942526",
-    "timestamp": "Nov 13, 2016 3:05:35 PM",
-    "topic": "Two-factor authentication on Wikipedia for admins and up",
-    "url": "http://davidgerard.co.uk/notes/2016/11/12/two-factor-authentication-on-wikipedia-for-admins-and-up/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 10:13:37 AM"
   }
 ];
