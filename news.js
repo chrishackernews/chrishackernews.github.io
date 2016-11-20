@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "12998395",
+    "timestamp": "Nov 20, 2016 1:32:26 PM",
+    "topic": "Seaweed can nearly eliminate methane from cow burps and farts",
+    "url": "http://www.cbc.ca/news/canada/prince-edward-http://www.cbc.ca/news/canada/prince-edward-island/pei-cow-farting-1.3856202island/pei-cow-farting-1.3856202",
+    "votes": 6,
+    "posted": "Nov 20, 2016 12:57:34 PM"
+  },
+  {
+    "id": "12998358",
+    "timestamp": "Nov 20, 2016 1:12:24 PM",
+    "topic": "Four years, three hundred books – Lessons learned",
+    "url": "http://www.jovicailic.org/2016/11/lessons-learned-300-books-4-years/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 12:45:04 PM"
+  },
+  {
+    "id": "12998343",
+    "timestamp": "Nov 20, 2016 1:12:24 PM",
+    "topic": "US launches next-gen weather satellite that will revolutionize forecasting",
+    "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/11/19/u-s-launches-next-generation-weather-satellite-that-will-revolutionize-forecasting/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 12:42:34 PM"
+  },
+  {
+    "id": "12998217",
+    "timestamp": "Nov 20, 2016 1:32:26 PM",
+    "topic": "The North Pole is an insane 20 C warmer than normal as winter descends",
+    "url": "https://www.thestar.com/news/world/2016/11/18/the-north-pole-is-an-insane-20-c-warmer-than-normal-as-winter-descends.html",
+    "votes": 4,
+    "posted": "Nov 20, 2016 11:44:52 AM"
+  },
+  {
+    "id": "12998178",
+    "timestamp": "Nov 20, 2016 1:22:25 PM",
+    "topic": "Smells of Success – Bill Gates Notes",
+    "url": "https://www.youtube.com/watch?v\u003doXbk7kotVlw",
+    "votes": 3,
+    "posted": "Nov 20, 2016 11:29:23 AM"
+  },
+  {
     "id": "12998163",
     "timestamp": "Nov 20, 2016 12:32:21 PM",
     "topic": "I had a health crisis in France",
@@ -9168,45 +9208,5 @@ var newsArray = [
     "url": "https://www.gnu.org/software/parallel/parallel_tutorial.html#GNU-Parallel-Tutorial",
     "votes": 4,
     "posted": "Nov 13, 2016 2:11:49 PM"
-  },
-  {
-    "id": "12943091",
-    "timestamp": "Nov 13, 2016 2:55:33 PM",
-    "topic": "Service Workers: an Introduction",
-    "url": "https://developers.google.com/web/fundamentals/getting-started/primers/service-workers",
-    "votes": 3,
-    "posted": "Nov 13, 2016 1:51:32 PM"
-  },
-  {
-    "id": "12943067",
-    "timestamp": "Nov 13, 2016 2:15:28 PM",
-    "topic": "Interactive Machine Learning",
-    "url": "http://iml.media.mit.edu/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 1:42:35 PM"
-  },
-  {
-    "id": "12943028",
-    "timestamp": "Nov 13, 2016 1:45:24 PM",
-    "topic": "Orbiter Space Flight Simulator 2016 Edition",
-    "url": "http://orbit.medphys.ucl.ac.uk/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 1:31:42 PM"
-  },
-  {
-    "id": "12942997",
-    "timestamp": "Nov 13, 2016 1:55:26 PM",
-    "topic": "How an accused drug dealer revealed Jacksonville\u0027s facial recognition network",
-    "url": "http://jacksonville.com/public-safety/2016-11-11/how-accused-drug-dealer-revealed-jso-s-facial-recognition-network",
-    "votes": 7,
-    "posted": "Nov 13, 2016 1:22:26 PM"
-  },
-  {
-    "id": "12942989",
-    "timestamp": "Nov 13, 2016 1:55:26 PM",
-    "topic": "KiTTY – A fork of PuTTY 0.67 with many additional features",
-    "url": "http://www.9bis.net/kitty/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 1:20:07 PM"
   }
 ];
