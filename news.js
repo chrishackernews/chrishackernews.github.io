@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12996019",
+    "timestamp": "Nov 20, 2016 12:31:20 AM",
+    "topic": "Why 12-Foot Traffic Lanes Are Disastrous for Safety and Must Be Replaced (2014)",
+    "url": "http://www.citylab.com/design/2014/10/why-12-foot-traffic-lanes-are-disastrous-for-safety-and-must-be-replaced-now/381117/",
+    "votes": 4,
+    "posted": "Nov 19, 2016 11:18:17 PM"
+  },
+  {
     "id": "12995972",
     "timestamp": "Nov 19, 2016 11:51:17 PM",
     "topic": "First power drawn from tidal turbines off the coast of Scotland",
@@ -80,12 +88,28 @@ var newsArray = [
     "posted": "Nov 19, 2016 9:09:55 PM"
   },
   {
+    "id": "12995300",
+    "timestamp": "Nov 20, 2016 12:11:18 AM",
+    "topic": "Long before internet porn, this pervy pixelated playground prevailed",
+    "url": "http://narrative.ly/long-before-internet-porn-this-pervy-pixelated-playground-prevailed/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 9:03:08 PM"
+  },
+  {
     "id": "12995277",
     "timestamp": "Nov 19, 2016 10:51:09 PM",
     "topic": "Atari Transputer Workstation",
     "url": "https://en.wikipedia.org/wiki/Atari_Transputer_Workstation",
     "votes": 5,
     "posted": "Nov 19, 2016 8:56:48 PM"
+  },
+  {
+    "id": "12995244",
+    "timestamp": "Nov 20, 2016 12:11:18 AM",
+    "topic": "Beginning Woodworking",
+    "url": "http://woodgears.ca/beginner/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 8:49:32 PM"
   },
   {
     "id": "12995241",
@@ -9138,45 +9162,5 @@ var newsArray = [
     "url": "http://www.rosieleizrowice.com/blog/6lessons",
     "votes": 3,
     "posted": "Nov 13, 2016 12:53:20 AM"
-  },
-  {
-    "id": "12940859",
-    "timestamp": "Nov 13, 2016 12:54:19 AM",
-    "topic": "World of Commodore 2016",
-    "url": "http://www.tpug.ca/world-of-commodore-16/about/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 12:40:41 AM"
-  },
-  {
-    "id": "12940829",
-    "timestamp": "Nov 13, 2016 6:54:50 AM",
-    "topic": "New attack reportedly lets 1 modest laptop knock big servers offline",
-    "url": "http://arstechnica.com/security/2016/11/new-attack-reportedly-lets-1-modest-laptop-knock-big-servers-offline/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 12:35:17 AM"
-  },
-  {
-    "id": "12940815",
-    "timestamp": "Nov 13, 2016 5:24:43 AM",
-    "topic": "The No-BS Approach to Building Your SaaS Startup\u0027s Launch List (Epic Guide P2)",
-    "url": "https://medium.com/@cliffordoravec/the-no-bs-approach-to-building-your-saas-startups-launch-list-part-2-of-the-epic-guide-to-8cc371be772c#.8ji4e9kdd",
-    "votes": 4,
-    "posted": "Nov 13, 2016 12:31:11 AM"
-  },
-  {
-    "id": "12940752",
-    "timestamp": "Nov 13, 2016 6:55:55 PM",
-    "topic": "Six Designers Take on Some of the World’s Toughest Redesign Challenges",
-    "url": "http://www.nytimes.com/interactive/2016/11/13/magazine/design-issue-redesign-challenge.html?smid\u003dfb-nytscience\u0026smtyp\u003dcur\u0026_r\u003d0",
-    "votes": 4,
-    "posted": "Nov 13, 2016 12:17:28 AM"
-  },
-  {
-    "id": "12940695",
-    "timestamp": "Nov 13, 2016 2:54:31 AM",
-    "topic": "React – CSS in JavaScript techniques comparison",
-    "url": "https://github.com/MicheleBertoli/css-in-js",
-    "votes": 5,
-    "posted": "Nov 13, 2016 12:02:36 AM"
   }
 ];
