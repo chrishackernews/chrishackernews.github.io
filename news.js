@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12998163",
+    "timestamp": "Nov 20, 2016 12:32:21 PM",
+    "topic": "I had a health crisis in France",
+    "url": "http://www.latimes.com/opinion/op-ed/la-oe-lamar-french-healthcare-20161118-story.html",
+    "votes": 13,
+    "posted": "Nov 20, 2016 11:22:19 AM"
+  },
+  {
     "id": "12998102",
     "timestamp": "Nov 20, 2016 11:32:16 AM",
     "topic": "WebExtensions in Firefox 52",
@@ -9200,21 +9208,5 @@ var newsArray = [
     "url": "http://www.9bis.net/kitty/",
     "votes": 4,
     "posted": "Nov 13, 2016 1:20:07 PM"
-  },
-  {
-    "id": "12942888",
-    "timestamp": "Nov 13, 2016 2:55:33 PM",
-    "topic": "Lost Cause: Seeing America Through the Losing Candidates’ Map",
-    "url": "https://projects.propublica.org/graphics/lost-cause",
-    "votes": 3,
-    "posted": "Nov 13, 2016 12:41:24 PM"
-  },
-  {
-    "id": "12942768",
-    "timestamp": "Nov 13, 2016 3:25:37 PM",
-    "topic": "“I have a great idea for an app.” – Dilbert Comic",
-    "url": "http://dilbert.com/strip/2016-11-13",
-    "votes": 5,
-    "posted": "Nov 13, 2016 11:53:58 AM"
   }
 ];
