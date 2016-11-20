@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13001213",
+    "timestamp": "Nov 20, 2016 10:23:14 PM",
+    "topic": "Inside Gab: The New Twitter Alternative Championed by the Alt-Right",
+    "url": "https://www.fastcompany.com/3065777/inside-gab-the-new-twitter-alternative-championed-by-the-alt-right",
+    "votes": 4,
+    "posted": "Nov 20, 2016 10:04:05 PM"
+  },
+  {
     "id": "13001068",
     "timestamp": "Nov 20, 2016 9:53:11 PM",
     "topic": "CS294: Program Synthesis for Everyone",
@@ -21,6 +29,14 @@ var newsArray = [
     "url": "https://cpbotha.net/2016/11/19/lets-replace-twitter-with-something-much-better/",
     "votes": 3,
     "posted": "Nov 20, 2016 7:58:11 PM"
+  },
+  {
+    "id": "13000306",
+    "timestamp": "Nov 20, 2016 10:13:13 PM",
+    "topic": "Uber updated its Terms of Use, has unlimited rights to modify and sell your data",
+    "url": "https://twitter.com/Doug_Laney/status/799020701428682752",
+    "votes": 6,
+    "posted": "Nov 20, 2016 7:37:13 PM"
   },
   {
     "id": "13000172",
@@ -108,6 +124,21 @@ var newsArray = [
     "url": "https://aws.amazon.com/blogs/aws/new-for-aws-lambda-environment-variables-and-serverless-application-model/",
     "votes": 10,
     "posted": "Nov 20, 2016 5:59:34 PM"
+  },
+  {
+    "id": "12999706",
+    "timestamp": "Nov 20, 2016 10:03:12 PM",
+    "topic": "Ask HN: Who is using Docker/rkt containers in production?",
+    "votes": 3,
+    "posted": "Nov 20, 2016 5:49:29 PM"
+  },
+  {
+    "id": "12999565",
+    "timestamp": "Nov 20, 2016 10:43:15 PM",
+    "topic": "To-Do Lists Are Not the Answer to Getting Things Done",
+    "url": "https://medium.com/personal-growth/to-do-lists-are-not-the-answer-to-getting-things-done-f38ff04c53d4",
+    "votes": 8,
+    "posted": "Nov 20, 2016 5:24:11 PM"
   },
   {
     "id": "12999487",
@@ -9046,36 +9077,5 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/British_Airways_Flight_5390",
     "votes": 4,
     "posted": "Nov 13, 2016 11:14:38 PM"
-  },
-  {
-    "id": "12945832",
-    "timestamp": "Nov 14, 2016 3:56:43 AM",
-    "topic": "The Supermanagerial Reich",
-    "url": "https://lareviewofbooks.org/article/the-supermanagerial-reich/",
-    "votes": 6,
-    "posted": "Nov 13, 2016 10:42:28 PM"
-  },
-  {
-    "id": "12945803",
-    "timestamp": "Nov 13, 2016 11:16:19 PM",
-    "topic": "What It’s Like to Have a VR Orgy with Loads of Random People",
-    "url": "http://www.unilad.co.uk/featured/what-its-like-to-have-a-vr-orgy-with-loads-of-random-people/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 10:34:40 PM"
-  },
-  {
-    "id": "12945770",
-    "timestamp": "Nov 13, 2016 10:56:17 PM",
-    "topic": "Ask HN: Have you done / plan to do any basic “prepping” (tinned food etc)",
-    "votes": 5,
-    "posted": "Nov 13, 2016 10:27:04 PM"
-  },
-  {
-    "id": "12945736",
-    "timestamp": "Nov 14, 2016 2:16:34 AM",
-    "topic": "Semantic Scholar Adds Neuroscience Papers",
-    "url": "https://www.engadget.com/2016/11/11/semantic-scholar-search-engine-ai-research-papers-neuroscience/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 10:19:44 PM"
   }
 ];
