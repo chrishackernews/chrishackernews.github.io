@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "13001068",
+    "timestamp": "Nov 20, 2016 9:53:11 PM",
+    "topic": "CS294: Program Synthesis for Everyone",
+    "url": "https://people.eecs.berkeley.edu/~bodik/cs294fa12",
+    "votes": 4,
+    "posted": "Nov 20, 2016 9:39:37 PM"
+  },
+  {
+    "id": "13000859",
+    "timestamp": "Nov 20, 2016 9:53:11 PM",
+    "topic": "As a developer, how can i take advantage of time spent driving to work?",
+    "votes": 8,
+    "posted": "Nov 20, 2016 9:05:19 PM"
+  },
+  {
     "id": "13000445",
     "timestamp": "Nov 20, 2016 8:03:00 PM",
     "topic": "Let’s replace Twitter with something much better. (hint: it\u0027s blogs)",
@@ -9062,61 +9077,5 @@ var newsArray = [
     "url": "https://www.engadget.com/2016/11/11/semantic-scholar-search-engine-ai-research-papers-neuroscience/",
     "votes": 3,
     "posted": "Nov 13, 2016 10:19:44 PM"
-  },
-  {
-    "id": "12945596",
-    "timestamp": "Nov 14, 2016 5:26:51 AM",
-    "topic": "The Best Pen (2015)",
-    "url": "http://thewirecutter.com/reviews/the-best-pen/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 9:53:08 PM"
-  },
-  {
-    "id": "12945516",
-    "timestamp": "Nov 13, 2016 11:36:21 PM",
-    "topic": "Learn to Code by Building Projects",
-    "url": "https://enlight.ml",
-    "votes": 6,
-    "posted": "Nov 13, 2016 9:37:40 PM"
-  },
-  {
-    "id": "12945483",
-    "timestamp": "Nov 13, 2016 10:06:14 PM",
-    "topic": "New theory of gravity might explain dark matter",
-    "url": "http://m.phys.org/news/2016-11-theory-gravity-dark.html",
-    "votes": 5,
-    "posted": "Nov 13, 2016 9:32:16 PM"
-  },
-  {
-    "id": "12945406",
-    "timestamp": "Nov 13, 2016 9:46:12 PM",
-    "topic": "Cuba\u0027s Lung Cancer Vaccine in USA",
-    "url": "https://www.theatlantic.com/health/archive/2016/11/cubas-lung-cancer-vaccine/505778/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 13, 2016 9:18:49 PM"
-  },
-  {
-    "id": "12945386",
-    "timestamp": "Nov 13, 2016 9:46:12 PM",
-    "topic": "If Prisoners Ran Prisons",
-    "url": "https://www.themarshallproject.org/2016/10/23/if-prisoners-ran-prisons#.xm20Sygvd",
-    "votes": 3,
-    "posted": "Nov 13, 2016 9:14:47 PM"
-  },
-  {
-    "id": "12945359",
-    "timestamp": "Nov 13, 2016 9:46:12 PM",
-    "topic": "AT\u0026T will lower the quality of most video to 480p starting next year",
-    "url": "http://finance.yahoo.com/news/t-lower-quality-most-video-192210655.html",
-    "votes": 4,
-    "posted": "Nov 13, 2016 9:11:15 PM"
-  },
-  {
-    "id": "12945314",
-    "timestamp": "Nov 13, 2016 9:36:10 PM",
-    "topic": "Why I’m Leaving the Thiel Fellowship",
-    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b#.pahyb84f5",
-    "votes": 6,
-    "posted": "Nov 13, 2016 9:04:40 PM"
   }
 ];
