@@ -1,5 +1,60 @@
 var newsArray = [
   {
+    "id": "12999767",
+    "timestamp": "Nov 20, 2016 6:12:47 PM",
+    "topic": "New for AWS Lambda – Environment Variables and Serverless Application Model",
+    "url": "https://aws.amazon.com/blogs/aws/new-for-aws-lambda-environment-variables-and-serverless-application-model/",
+    "votes": 10,
+    "posted": "Nov 20, 2016 5:59:34 PM"
+  },
+  {
+    "id": "12999487",
+    "timestamp": "Nov 20, 2016 6:22:48 PM",
+    "topic": "Announcing pydoc.io beta",
+    "url": "https://blog.readthedocs.com/announcing-pydoc-io/",
+    "votes": 8,
+    "posted": "Nov 20, 2016 5:08:14 PM"
+  },
+  {
+    "id": "12999454",
+    "timestamp": "Nov 20, 2016 6:52:54 PM",
+    "topic": "Bursting the bubble: we asked voters on the left and right to swap feeds",
+    "url": "https://www.theguardian.com/us-news/2016/nov/16/facebook-bias-bubble-us-election-conservative-liberal-news-feed",
+    "votes": 3,
+    "posted": "Nov 20, 2016 5:01:04 PM"
+  },
+  {
+    "id": "12999363",
+    "timestamp": "Nov 20, 2016 6:02:46 PM",
+    "topic": "Programmers discussing the unethical and illegal things they’ve been asked to do",
+    "url": "http://uk.businessinsider.com/programmers-confess-unethical-illegal-tasks-asked-of-them-2016-11?r\u003dUS\u0026IR\u003dT",
+    "votes": 4,
+    "posted": "Nov 20, 2016 4:44:12 PM"
+  },
+  {
+    "id": "12999337",
+    "timestamp": "Nov 20, 2016 6:32:50 PM",
+    "topic": "Ask HN: Why do you hire H1-B workers instead of natives?",
+    "votes": 7,
+    "posted": "Nov 20, 2016 4:39:39 PM"
+  },
+  {
+    "id": "12999284",
+    "timestamp": "Nov 20, 2016 6:12:47 PM",
+    "topic": "Learn X in Y minutes",
+    "url": "https://learnxinyminutes.com/",
+    "votes": 7,
+    "posted": "Nov 20, 2016 4:32:00 PM"
+  },
+  {
+    "id": "12999027",
+    "timestamp": "Nov 20, 2016 6:12:47 PM",
+    "topic": "Show HN: Stop the Bullshit",
+    "url": "https://github.com/jacquerie/stop-the-bullshit",
+    "votes": 5,
+    "posted": "Nov 20, 2016 3:37:48 PM"
+  },
+  {
     "id": "12998973",
     "timestamp": "Nov 20, 2016 4:32:40 PM",
     "topic": "The One Score That Can Improve Your Writing with a Single Click",
@@ -22,6 +77,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/commentisfree/2016/nov/20/how-my-father-jg-ballard-foresaw-our-strange-present",
     "votes": 4,
     "posted": "Nov 20, 2016 3:08:43 PM"
+  },
+  {
+    "id": "12998897",
+    "timestamp": "Nov 20, 2016 6:22:48 PM",
+    "topic": "Tutorial – Write a System Call",
+    "url": "https://brennan.io/2016/11/14/kernel-dev-ep3/",
+    "votes": 4,
+    "posted": "Nov 20, 2016 3:08:35 PM"
   },
   {
     "id": "12998698",
@@ -2039,6 +2102,13 @@ var newsArray = [
     "url": "https://www.weheartswift.com/online-exercises/",
     "votes": 4,
     "posted": "Nov 18, 2016 4:47:27 PM"
+  },
+  {
+    "id": "12987491",
+    "timestamp": "Nov 20, 2016 6:42:52 PM",
+    "topic": "Ask HN: What does the more intensive work in Rails/similar look like?",
+    "votes": 5,
+    "posted": "Nov 18, 2016 4:44:28 PM"
   },
   {
     "id": "12987461",
@@ -9079,53 +9149,5 @@ var newsArray = [
     "url": "https://twitter.com/olesovhcom/status/797856360926953472",
     "votes": 8,
     "posted": "Nov 13, 2016 7:01:57 PM"
-  },
-  {
-    "id": "12944519",
-    "timestamp": "Nov 13, 2016 7:46:00 PM",
-    "topic": "Black hole jets can influence star formation in galaxies",
-    "url": "http://phys.org/news/2016-11-black-hole-jets-star-formation.html",
-    "votes": 4,
-    "posted": "Nov 13, 2016 6:45:22 PM"
-  },
-  {
-    "id": "12944506",
-    "timestamp": "Nov 13, 2016 6:45:54 PM",
-    "topic": "Remote volunteering at Zidisha (YC microlending nonprofit)",
-    "url": "https://www.zidisha.org/volunteer",
-    "votes": 1,
-    "posted": "Nov 13, 2016 6:43:57 PM"
-  },
-  {
-    "id": "12944464",
-    "timestamp": "Nov 13, 2016 6:55:55 PM",
-    "topic": "Diamonds Suck (2006)",
-    "url": "http://diamondssuck.com/",
-    "votes": 13,
-    "posted": "Nov 13, 2016 6:35:56 PM"
-  },
-  {
-    "id": "12944439",
-    "timestamp": "Nov 14, 2016 12:16:25 AM",
-    "topic": "A Letter to the US from John Cleese",
-    "url": "http://cogink.com/cleese/",
-    "votes": 5,
-    "posted": "Nov 13, 2016 6:33:32 PM"
-  },
-  {
-    "id": "12944290",
-    "timestamp": "Nov 13, 2016 6:35:53 PM",
-    "topic": "Tango: Distributed Data Structures Over a Shared Log",
-    "url": "https://www.microsoft.com/en-us/research/publication/tango-distributed-data-structures-over-a-shared-log/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 6:06:33 PM"
-  },
-  {
-    "id": "12944272",
-    "timestamp": "Nov 13, 2016 11:06:18 PM",
-    "topic": "University “opens” without any teachers",
-    "url": "http://www.bbc.co.uk/news/business-37694248",
-    "votes": 3,
-    "posted": "Nov 13, 2016 6:04:31 PM"
   }
 ];
