@@ -183,6 +183,14 @@ var newsArray = [
     "posted": "Nov 20, 2016 6:05:30 AM"
   },
   {
+    "id": "12997344",
+    "timestamp": "Nov 20, 2016 5:12:43 PM",
+    "topic": "The Rise of Small Farm Robots",
+    "url": "https://medium.com/food-is-the-new-internet/the-rise-of-small-farm-robots-365e76dbdac1#.tg3jeqcis",
+    "votes": 3,
+    "posted": "Nov 20, 2016 5:56:21 AM"
+  },
+  {
     "id": "12997338",
     "timestamp": "Nov 20, 2016 8:51:58 AM",
     "topic": "Ask HN: How much do you earn from side project or passive income?",
@@ -9119,37 +9127,5 @@ var newsArray = [
     "url": "http://www.bbc.co.uk/news/business-37694248",
     "votes": 3,
     "posted": "Nov 13, 2016 6:04:31 PM"
-  },
-  {
-    "id": "12944109",
-    "timestamp": "Nov 13, 2016 7:05:56 PM",
-    "topic": "17 Awesome Things You Can Take Out of Libraries",
-    "url": "http://melodykramer.github.io/17-awesome-things-you-can-take-out-of-libraries/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 5:36:06 PM"
-  },
-  {
-    "id": "12944077",
-    "timestamp": "Nov 13, 2016 8:16:03 PM",
-    "topic": "Show HN: Pact – a safe smart contract language (web editor)",
-    "url": "http://kadena.io/try-pact/",
-    "votes": 7,
-    "posted": "Nov 13, 2016 5:30:19 PM"
-  },
-  {
-    "id": "12943984",
-    "timestamp": "Nov 13, 2016 8:56:07 PM",
-    "topic": "Show HN: Python library for keyboard hooks and macros",
-    "url": "https://github.com/boppreh/keyboard",
-    "votes": 3,
-    "posted": "Nov 13, 2016 5:12:44 PM"
-  },
-  {
-    "id": "12943889",
-    "timestamp": "Nov 13, 2016 7:46:00 PM",
-    "topic": "Show HN: A tech conference aggregator",
-    "url": "http://www.techconferences.io/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 4:54:23 PM"
   }
 ];
