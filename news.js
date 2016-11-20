@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "12998973",
+    "timestamp": "Nov 20, 2016 4:32:40 PM",
+    "topic": "The One Score That Can Improve Your Writing with a Single Click",
+    "url": "http://www.jamesaltucher.com/2015/04/the-one-score-that-can-improve-your-writing-with-a-single-click/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 3:26:31 PM"
+  },
+  {
+    "id": "12998899",
+    "timestamp": "Nov 20, 2016 4:02:38 PM",
+    "topic": "Spikey Spheres",
+    "url": "http://www.solipsys.co.uk/new/SpikeySpheres.html?HN_20161120",
+    "votes": 3,
+    "posted": "Nov 20, 2016 3:09:00 PM"
+  },
+  {
+    "id": "12998898",
+    "timestamp": "Nov 20, 2016 4:42:41 PM",
+    "topic": "How my father, JG Ballard, foresaw our strange present",
+    "url": "https://www.theguardian.com/commentisfree/2016/nov/20/how-my-father-jg-ballard-foresaw-our-strange-present",
+    "votes": 4,
+    "posted": "Nov 20, 2016 3:08:43 PM"
+  },
+  {
     "id": "12998698",
     "timestamp": "Nov 20, 2016 2:32:31 PM",
     "topic": "Quit Social Media. Your Career May Depend on It",
     "url": "http://mobile.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html",
     "votes": 3,
     "posted": "Nov 20, 2016 2:17:08 PM"
+  },
+  {
+    "id": "12998673",
+    "timestamp": "Nov 20, 2016 4:32:40 PM",
+    "topic": "Anatomy of a Program in Memory (2009)",
+    "url": "http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/",
+    "votes": 5,
+    "posted": "Nov 20, 2016 2:12:43 PM"
   },
   {
     "id": "12998589",
@@ -9119,37 +9151,5 @@ var newsArray = [
     "url": "http://www.techconferences.io/",
     "votes": 3,
     "posted": "Nov 13, 2016 4:54:23 PM"
-  },
-  {
-    "id": "12943807",
-    "timestamp": "Nov 13, 2016 7:15:57 PM",
-    "topic": "Silicon Valley is right to be worried about a Trump presidency",
-    "url": "http://www.economist.com/news/business/21710008-silicon-valley-right-be-worried-about-trump-presidency-it-helped-get-him",
-    "votes": 5,
-    "posted": "Nov 13, 2016 4:37:41 PM"
-  },
-  {
-    "id": "12943744",
-    "timestamp": "Nov 13, 2016 4:55:45 PM",
-    "topic": "The Happiest People Don\u0027t Let Their Minds Wander, According to a Harvard Study",
-    "url": "http://www.inc.com/quora/the-happiest-people-dont-let-their-minds-wander-according-to-a-harvard-study.html",
-    "votes": 5,
-    "posted": "Nov 13, 2016 4:25:10 PM"
-  },
-  {
-    "id": "12943643",
-    "timestamp": "Nov 13, 2016 7:56:01 PM",
-    "topic": "When and Why Nationalism Beats Globalism",
-    "url": "http://www.the-american-interest.com/2016/07/10/when-and-why-nationalism-beats-globalism/",
-    "votes": 5,
-    "posted": "Nov 13, 2016 4:10:18 PM"
-  },
-  {
-    "id": "12943553",
-    "timestamp": "Nov 13, 2016 7:15:57 PM",
-    "topic": "Shortcomings of Haskell in production",
-    "url": "https://www.reddit.com/r/haskell/comments/3lwom1/prezi_uses_haskell/cvad02a/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 3:56:10 PM"
   }
 ];
