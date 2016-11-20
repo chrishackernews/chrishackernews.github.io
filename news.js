@@ -1,5 +1,52 @@
 var newsArray = [
   {
+    "id": "13000172",
+    "timestamp": "Nov 20, 2016 7:22:57 PM",
+    "topic": "Bay Area job market rebounds from earlier ‘false scares’",
+    "url": "http://www.siliconvalley.com/2016/11/18/strong-job-gains-are-reported-for-october-in-california/",
+    "votes": 4,
+    "posted": "Nov 20, 2016 7:11:20 PM"
+  },
+  {
+    "id": "13000145",
+    "timestamp": "Nov 20, 2016 7:22:56 PM",
+    "topic": "The mystery of why you can\u0027t remember being a baby",
+    "url": "http://www.bbc.com/future/story/20160726-the-mystery-of-why-you-cant-remember-being-a-baby",
+    "votes": 3,
+    "posted": "Nov 20, 2016 7:06:08 PM"
+  },
+  {
+    "id": "13000089",
+    "timestamp": "Nov 20, 2016 7:22:56 PM",
+    "topic": "Second Chinese Firm in a Week Found Hiding Backdoor in Android Devices",
+    "url": "http://www.bleepingcomputer.com/news/security/second-chinese-firm-in-a-week-found-hiding-backdoor-in-firmware-of-android-devices/",
+    "votes": 7,
+    "posted": "Nov 20, 2016 6:54:42 PM"
+  },
+  {
+    "id": "13000035",
+    "timestamp": "Nov 20, 2016 7:32:57 PM",
+    "topic": "Wal-Mart Tells Workers: Don’t Download Labor Group’s Chat App",
+    "url": "http://www.wsj.com/articles/wal-mart-tells-workers-dont-download-labor-groups-chat-app-1479214510",
+    "votes": 12,
+    "posted": "Nov 20, 2016 6:46:56 PM"
+  },
+  {
+    "id": "12999991",
+    "timestamp": "Nov 20, 2016 7:22:56 PM",
+    "topic": "Fujitsu Improves Artificial Photosynthesis Efficiency 100-fold",
+    "url": "http://www.fujitsu.com/global/about/resources/news/press-releases/2016/1107-02.html",
+    "votes": 5,
+    "posted": "Nov 20, 2016 6:39:20 PM"
+  },
+  {
+    "id": "12999934",
+    "timestamp": "Nov 20, 2016 7:32:57 PM",
+    "topic": "Ask HN: What\u0027s your backup solution?",
+    "votes": 7,
+    "posted": "Nov 20, 2016 6:28:00 PM"
+  },
+  {
     "id": "12999767",
     "timestamp": "Nov 20, 2016 6:12:47 PM",
     "topic": "New for AWS Lambda – Environment Variables and Serverless Application Model",
@@ -4602,6 +4649,14 @@ var newsArray = [
     "posted": "Nov 16, 2016 11:29:48 PM"
   },
   {
+    "id": "12972206",
+    "timestamp": "Nov 20, 2016 7:42:58 PM",
+    "topic": "Sharing Photographs",
+    "url": "https://publicdomainreview.org/collections/sharing-photographs/",
+    "votes": 3,
+    "posted": "Nov 16, 2016 11:28:34 PM"
+  },
+  {
     "id": "12972202",
     "timestamp": "Nov 16, 2016 11:54:30 PM",
     "topic": "After 36 years of it… it\u0027s mostly just typing",
@@ -9063,91 +9118,5 @@ var newsArray = [
     "url": "http://www.techrepublic.com/article/the-battle-for-apache-cassandra-highlights-major-problem-with-open-source-projects/",
     "votes": 6,
     "posted": "Nov 13, 2016 7:56:02 PM"
-  },
-  {
-    "id": "12944890",
-    "timestamp": "Nov 13, 2016 9:16:09 PM",
-    "topic": "Epitaph for a Bronx Accent",
-    "url": "http://www.tabletmag.com/jewish-life-and-religion/215862/epitaph-for-a-bronx-accent",
-    "votes": 3,
-    "posted": "Nov 13, 2016 7:52:16 PM"
-  },
-  {
-    "id": "12944888",
-    "timestamp": "Nov 14, 2016 1:36:31 AM",
-    "topic": "Show HN: Procedural world generation example: Prague with elevation data data",
-    "url": "https://www.youtube.com/watch?v\u003dmZzOWsoM5EY",
-    "votes": 3,
-    "posted": "Nov 13, 2016 7:51:44 PM"
-  },
-  {
-    "id": "12944873",
-    "timestamp": "Nov 13, 2016 8:16:03 PM",
-    "topic": "Win3mu – Seamless 16-bit Windows 3.* Emulation for Modern Windows",
-    "url": "http://www.win3mu.com/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 7:48:29 PM"
-  },
-  {
-    "id": "12944792",
-    "timestamp": "Nov 13, 2016 7:45:59 PM",
-    "topic": "Another crypto-currency is born",
-    "url": "http://www.economist.com/news/finance-and-economics/21709329-another-crypto-currency-born-known-unknown",
-    "votes": 6,
-    "posted": "Nov 13, 2016 7:35:10 PM"
-  },
-  {
-    "id": "12944791",
-    "timestamp": "Nov 13, 2016 8:06:02 PM",
-    "topic": "The Real Spectre",
-    "url": "https://www.1843magazine.com/features/the-real-spectre",
-    "votes": 3,
-    "posted": "Nov 13, 2016 7:34:14 PM"
-  },
-  {
-    "id": "12944767",
-    "timestamp": "Nov 13, 2016 8:46:06 PM",
-    "topic": "Ask HN: Why is modern webdesign so ugly?",
-    "votes": 5,
-    "posted": "Nov 13, 2016 7:30:23 PM"
-  },
-  {
-    "id": "12944747",
-    "timestamp": "Nov 13, 2016 8:36:05 PM",
-    "topic": "Ask HN: I\u0027ll die about 2068, will most games still be written in C/C++?",
-    "votes": 7,
-    "posted": "Nov 13, 2016 7:25:29 PM"
-  },
-  {
-    "id": "12944717",
-    "timestamp": "Nov 13, 2016 7:56:01 PM",
-    "topic": "Martin Luther King on “Guaranteed Income” (1967)",
-    "url": "https://www.youtube.com/watch?v\u003dBY1OKSObkH0",
-    "votes": 5,
-    "posted": "Nov 13, 2016 7:20:51 PM"
-  },
-  {
-    "id": "12944680",
-    "timestamp": "Nov 16, 2016 5:51:40 AM",
-    "topic": "Moissanite",
-    "url": "https://en.wikipedia.org/wiki/Moissanite",
-    "votes": 4,
-    "posted": "Nov 13, 2016 7:16:23 PM"
-  },
-  {
-    "id": "12944655",
-    "timestamp": "Nov 13, 2016 7:46:00 PM",
-    "topic": "How I use Facebook\u0027s tracking pixel",
-    "url": "https://github.com/adam-s/facebook-pixel-guide/blob/master/README.md",
-    "votes": 5,
-    "posted": "Nov 13, 2016 7:13:34 PM"
-  },
-  {
-    "id": "12944592",
-    "timestamp": "Nov 13, 2016 7:46:00 PM",
-    "topic": "OVH automatically migrated unpaid SSL to Let\u0027s Encrypt certificate",
-    "url": "https://twitter.com/olesovhcom/status/797856360926953472",
-    "votes": 8,
-    "posted": "Nov 13, 2016 7:01:57 PM"
   }
 ];
