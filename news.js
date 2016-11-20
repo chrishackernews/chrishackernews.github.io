@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "12996449",
+    "timestamp": "Nov 20, 2016 1:11:23 AM",
+    "topic": "Scheduling Algorithms in Big Data: A Survey [pdf]",
+    "url": "http://www.ijecs.in/issue/v5-i8/53%20ijecs.pdf",
+    "votes": 3,
+    "posted": "Nov 20, 2016 1:02:19 AM"
+  },
+  {
     "id": "12996019",
     "timestamp": "Nov 20, 2016 12:31:20 AM",
     "topic": "Why 12-Foot Traffic Lanes Are Disastrous for Safety and Must Be Replaced (2014)",
@@ -62,6 +70,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/18/13677798/attorney-general-jeff-sessions-encryption-san-bernardino-trump",
     "votes": 3,
     "posted": "Nov 19, 2016 9:38:04 PM"
+  },
+  {
+    "id": "12995473",
+    "timestamp": "Nov 20, 2016 1:21:23 AM",
+    "topic": "Homestuck in review",
+    "url": "https://medium.com/@bbctol/homestuck-in-review-the-internets-first-masterpiece-989a84548767#.pbp2spgx4",
+    "votes": 4,
+    "posted": "Nov 19, 2016 9:35:14 PM"
   },
   {
     "id": "12995435",
@@ -1209,6 +1225,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/china-used-crispr-fight-cancer-real-live-human/",
     "votes": 4,
     "posted": "Nov 18, 2016 8:41:40 PM"
+  },
+  {
+    "id": "12989442",
+    "timestamp": "Nov 20, 2016 1:01:22 AM",
+    "topic": "Show HN: WordPress Product Demos SaaS",
+    "url": "https://wpdemo.cloud/",
+    "votes": 10,
+    "posted": "Nov 18, 2016 8:34:21 PM"
   },
   {
     "id": "12989431",
@@ -9107,60 +9131,5 @@ var newsArray = [
     "url": "http://blog.johnnovak.net/2016/11/13/a-minimalist-openbox-desktop-for-vim-freaks/",
     "votes": 4,
     "posted": "Nov 13, 2016 2:09:42 AM"
-  },
-  {
-    "id": "12941094",
-    "timestamp": "Nov 13, 2016 1:44:26 AM",
-    "topic": "Tell HN: Will design for food",
-    "votes": 13,
-    "posted": "Nov 13, 2016 1:33:49 AM"
-  },
-  {
-    "id": "12941071",
-    "timestamp": "Nov 13, 2016 3:34:35 AM",
-    "topic": "Why 30 is the decade friends disappear – and what to do about it",
-    "url": "http://www.vox.com/2016/7/12/12148938/friendship-adult-challenges-solutions",
-    "votes": 11,
-    "posted": "Nov 13, 2016 1:28:22 AM"
-  },
-  {
-    "id": "12941060",
-    "timestamp": "Nov 13, 2016 3:44:36 AM",
-    "topic": "A 10-Digit Key Code to Your Private Life: Your Cellphone Number",
-    "url": "http://www.nytimes.com/2016/11/13/business/cellphone-number-social-security-number-10-digit-key-code-to-private-life.html",
-    "votes": 4,
-    "posted": "Nov 13, 2016 1:26:59 AM"
-  },
-  {
-    "id": "12941001",
-    "timestamp": "Nov 13, 2016 5:54:45 AM",
-    "topic": "MUI a Super Lightweight Material Design Framework",
-    "url": "https://www.muicss.com/",
-    "votes": 3,
-    "posted": "Nov 13, 2016 1:12:21 AM"
-  },
-  {
-    "id": "12940989",
-    "timestamp": "Nov 13, 2016 4:54:41 AM",
-    "topic": "Extracting PIN by monitoring how phone WiFi signal changes as you type it",
-    "url": "https://blog.acolyer.org/2016/11/10/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals/",
-    "votes": 4,
-    "posted": "Nov 13, 2016 1:10:22 AM"
-  },
-  {
-    "id": "12940975",
-    "timestamp": "Nov 13, 2016 1:34:25 AM",
-    "topic": "How to balance a chain of inverted pendulums",
-    "url": "http://fermatslibrary.com/s/a-pendulum-theorem",
-    "votes": 9,
-    "posted": "Nov 13, 2016 1:06:27 AM"
-  },
-  {
-    "id": "12940921",
-    "timestamp": "Nov 13, 2016 1:35:24 PM",
-    "topic": "6 months ago I got rid of 90% of my possessions.  what I have learned",
-    "url": "http://www.rosieleizrowice.com/blog/6lessons",
-    "votes": 3,
-    "posted": "Nov 13, 2016 12:53:20 AM"
   }
 ];
