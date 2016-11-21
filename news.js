@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13002342",
+    "timestamp": "Nov 21, 2016 2:33:33 AM",
+    "topic": "Hierarchical Object Detection with Deep Reinforcement Learning",
+    "url": "http://www.gitxiv.com/posts/TRuAac6yxSCfp2era/hierarchical-object-detection-with-deep-reinforcement",
+    "votes": 3,
+    "posted": "Nov 21, 2016 2:10:44 AM"
+  },
+  {
+    "id": "13002149",
+    "timestamp": "Nov 21, 2016 2:03:31 AM",
+    "topic": "Beyond Nokia",
+    "url": "https://techcrunch.com/2016/11/20/a-love-story",
+    "votes": 3,
+    "posted": "Nov 21, 2016 1:22:33 AM"
+  },
+  {
+    "id": "13002144",
+    "timestamp": "Nov 21, 2016 2:53:34 AM",
+    "topic": "How Bad Would It Have Smelled In A Medieval City?",
+    "url": "https://www.reddit.com/r/AskHistorians/comments/5dwk60/how_bad_would_it_have_smelled_in_a_medieval_city/da84g7z/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 1:21:34 AM"
+  },
+  {
     "id": "13002125",
     "timestamp": "Nov 21, 2016 1:23:27 AM",
     "topic": "Run a profitable operation – Craft Coffee hiring ops associate",
@@ -9021,53 +9045,5 @@ var newsArray = [
     "url": "http://phys.org/news/2016-11-method-dissipate-electronic-devices.html",
     "votes": 3,
     "posted": "Nov 14, 2016 2:54:52 AM"
-  },
-  {
-    "id": "12946976",
-    "timestamp": "Nov 14, 2016 3:26:40 AM",
-    "topic": "Poor people pay for parking even when they can’t afford a car",
-    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/06/15/why-free-parking-is-a-big-problem/",
-    "votes": 6,
-    "posted": "Nov 14, 2016 2:53:14 AM"
-  },
-  {
-    "id": "12946960",
-    "timestamp": "Nov 14, 2016 4:56:48 AM",
-    "topic": "Trump Wants NASA to Visit Jupiter’s Moon Europa and Explore the Solar System",
-    "url": "http://www.inquisitr.com/3710152/forget-mars-trump-wants-nasa-to-visit-jupiters-moon-europa-and-explore-the-solar-system/",
-    "votes": 6,
-    "posted": "Nov 14, 2016 2:50:35 AM"
-  },
-  {
-    "id": "12946881",
-    "timestamp": "Nov 14, 2016 3:16:39 AM",
-    "topic": "Pascal GPUs on All Fronts Push Nvidia to New Highs",
-    "url": "https://www.nextplatform.com/2016/11/12/pascal-gpus-fronts-push-nvidia-new-highs/",
-    "votes": 6,
-    "posted": "Nov 14, 2016 2:34:12 AM"
-  },
-  {
-    "id": "12946824",
-    "timestamp": "Nov 14, 2016 3:06:38 AM",
-    "topic": "Users Around the World Reject Europe\u0027s Upload Filtering Proposal",
-    "url": "https://www.eff.org/deeplinks/2016/11/users-around-world-reject-europes-upload-filtering-proposal",
-    "votes": 3,
-    "posted": "Nov 14, 2016 2:19:02 AM"
-  },
-  {
-    "id": "12946752",
-    "timestamp": "Nov 14, 2016 3:26:40 AM",
-    "topic": "SHA-1 certificate error on Google.com",
-    "url": "https://twitter.com/AndreDeMarre/status/797965638757060608",
-    "votes": 4,
-    "posted": "Nov 14, 2016 2:01:32 AM"
-  },
-  {
-    "id": "12946728",
-    "timestamp": "Nov 14, 2016 4:26:46 AM",
-    "topic": "An open source framework for auditing web applications firewalls",
-    "url": "http://seclist.us/lightbulb-is-an-open-source-python-framework-for-auditing-web-applications-firewalls.html",
-    "votes": 3,
-    "posted": "Nov 14, 2016 1:53:57 AM"
   }
 ];
