@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13007891",
+    "timestamp": "Nov 21, 2016 7:45:03 PM",
+    "topic": "Lever is hiring an engineering manager in SF – Join a 50/50 men and women team",
+    "url": "https://www.lever.co/jobs?site\u003dHacker%20News\u0026instance\u003d32\u0026copy\u003dL",
+    "votes": 1,
+    "posted": "Nov 21, 2016 7:39:21 PM"
+  },
+  {
+    "id": "13007616",
+    "timestamp": "Nov 21, 2016 7:35:02 PM",
+    "topic": "Markdown-in-js: inline markdown for react/jsx",
+    "url": "https://github.com/threepointone/markdown-in-js",
+    "votes": 3,
+    "posted": "Nov 21, 2016 7:17:49 PM"
+  },
+  {
+    "id": "13007610",
+    "timestamp": "Nov 21, 2016 7:35:02 PM",
+    "topic": "Riot releases end-to-end encryption: get ready to chat securely",
+    "url": "https://medium.com/@RiotChat/exciting-new-riot-release-get-ready-for-chatting-securely-acc93ecfe0a#.nrt6p0t6z",
+    "votes": 4,
+    "posted": "Nov 21, 2016 7:17:20 PM"
+  },
+  {
+    "id": "13007538",
+    "timestamp": "Nov 21, 2016 7:35:02 PM",
+    "topic": "Taps go dry as Bolivia declares water emergency for drought",
+    "url": "http://www.bigstory.ap.org/article/cf976c1e333543a59acc848b466cb3a3/taps-go-dry-bolivia-declares-water-emergency-drought",
+    "votes": 3,
+    "posted": "Nov 21, 2016 7:11:26 PM"
+  },
+  {
     "id": "13007235",
     "timestamp": "Nov 21, 2016 6:54:59 PM",
     "topic": "Homeopathy \u0027treatments\u0027 must be labelled to say they do not work, US gov orders",
@@ -15,12 +47,36 @@ var newsArray = [
     "posted": "Nov 21, 2016 6:40:32 PM"
   },
   {
+    "id": "13007210",
+    "timestamp": "Nov 21, 2016 7:35:02 PM",
+    "topic": "Personality Patterns of Problematic Projects",
+    "url": "https://neilonsoftware.com/books/personality-patterns-of-problematic-projects/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:37:25 PM"
+  },
+  {
+    "id": "13007035",
+    "timestamp": "Nov 21, 2016 7:35:03 PM",
+    "topic": "5 Tactics to teach a novice about Machine Learning",
+    "url": "https://medium.com/@rajendramishra18/5-tactics-to-teach-a-novice-about-machine-learning-6eb813ac795b#.b5fdcsmm7",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:17:32 PM"
+  },
+  {
     "id": "13006896",
     "timestamp": "Nov 21, 2016 6:24:56 PM",
     "topic": "German NSA Committee May Interview Snowden (Der Spiegel)",
     "url": "https://translate.google.com/translate?hl\u003den\u0026sl\u003dauto\u0026tl\u003den\u0026u\u003dhttp%3A%2F%2Fwww.spiegel.de%2Fpolitik%2Fdeutschland%2Fbundesgerichtshof-nsa-ausschuss-darf-edward-snowden-vorladen-a-1122370.html",
     "votes": 4,
     "posted": "Nov 21, 2016 6:00:58 PM"
+  },
+  {
+    "id": "13006693",
+    "timestamp": "Nov 21, 2016 7:55:04 PM",
+    "topic": "Why VCs sometimes push companies to burn too fast",
+    "url": "https://blog.ycombinator.com/why-vcs-sometimes-push-companies-to-burn-too-fast/",
+    "votes": 7,
+    "posted": "Nov 21, 2016 5:37:52 PM"
   },
   {
     "id": "13006555",
@@ -197,6 +253,14 @@ var newsArray = [
     "url": "http://thenextweb.com/google/2016/11/21/google-isnt-google/",
     "votes": 11,
     "posted": "Nov 21, 2016 1:13:55 PM"
+  },
+  {
+    "id": "13004635",
+    "timestamp": "Nov 21, 2016 7:05:00 PM",
+    "topic": "Tech worker visas face uncertain future under Trump, Sessions",
+    "url": "http://www.reuters.com/article/us-trump-immigration-analysis-idUSKBN13G0J7",
+    "votes": 4,
+    "posted": "Nov 21, 2016 12:41:42 PM"
   },
   {
     "id": "13004621",
@@ -461,6 +525,14 @@ var newsArray = [
     "url": "https://www.quora.com/How-did-Andrew-Ng-become-so-good-at-Machine-Learning?share\u003d1",
     "votes": 4,
     "posted": "Nov 21, 2016 4:19:51 AM"
+  },
+  {
+    "id": "13002844",
+    "timestamp": "Nov 21, 2016 7:45:03 PM",
+    "topic": "Ladies in Waiting",
+    "url": "http://www.iasc-culture.org/THR/THR_article_2016_Fall_Rothfeld.php",
+    "votes": 3,
+    "posted": "Nov 21, 2016 4:12:11 AM"
   },
   {
     "id": "13002642",
@@ -9063,124 +9135,5 @@ var newsArray = [
     "url": "http://spectrum.ieee.org/video/geek-life/tools-toys/this-water-jet-cutter-can-slice-through-anything-steel-glass-or-steak",
     "votes": 4,
     "posted": "Nov 14, 2016 8:03:13 PM"
-  },
-  {
-    "id": "12952255",
-    "timestamp": "Nov 14, 2016 8:48:16 PM",
-    "topic": "Internet Freedom Wanes as Governments Target Messaging, Social Apps",
-    "url": "http://www.npr.org/sections/alltechconsidered/2016/11/14/500214959/internet-freedom-wanes-as-governments-target-messaging-social-apps",
-    "votes": 3,
-    "posted": "Nov 14, 2016 7:55:04 PM"
-  },
-  {
-    "id": "12952249",
-    "timestamp": "Nov 14, 2016 8:08:12 PM",
-    "topic": "Introducing Visual Studio for Mac",
-    "url": "https://webcache.googleusercontent.com/search?q\u003dcache:Vk2On-9psscJ:https://msdn.microsoft.com/en-us/magazine/mt790182.aspx+\u0026cd\u003d23\u0026hl\u003den\u0026ct\u003dclnk\u0026gl\u003dus",
-    "votes": 15,
-    "posted": "Nov 14, 2016 7:54:15 PM"
-  },
-  {
-    "id": "12952226",
-    "timestamp": "Nov 15, 2016 4:50:13 PM",
-    "topic": "The irrational rationality of Jonathan Swift",
-    "url": "http://www.newstatesman.com/culture/books/2016/11/irrational-rationality-jonathan-swift",
-    "votes": 3,
-    "posted": "Nov 14, 2016 7:51:26 PM"
-  },
-  {
-    "id": "12952199",
-    "timestamp": "Nov 14, 2016 8:38:15 PM",
-    "topic": "Hierarchical Object Detection with Deep Reinforcement Learning",
-    "url": "https://imatge-upc.github.io/detection-2016-nipsws/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 7:48:28 PM"
-  },
-  {
-    "id": "12952086",
-    "timestamp": "Nov 14, 2016 7:58:11 PM",
-    "topic": "Don\u0027t give it away for free",
-    "url": "https://supportedsource.org",
-    "votes": 6,
-    "posted": "Nov 14, 2016 7:34:32 PM"
-  },
-  {
-    "id": "12951975",
-    "timestamp": "Nov 15, 2016 3:39:05 AM",
-    "topic": "Reading Russian Classics in the Era of Donald Trump",
-    "url": "https://medium.com/@leonardapeltsin/reading-russian-classics-after-trumps-triumph-8ad674545d56",
-    "votes": 3,
-    "posted": "Nov 14, 2016 7:22:37 PM"
-  },
-  {
-    "id": "12951929",
-    "timestamp": "Nov 14, 2016 8:08:12 PM",
-    "topic": "Visual Studio for Mac Will Launch in November",
-    "url": "https://techcrunch.com/2016/11/14/microsoft-announces-visual-studio-for-mac-will-launch-in-november/",
-    "votes": 9,
-    "posted": "Nov 14, 2016 7:17:06 PM"
-  },
-  {
-    "id": "12951912",
-    "timestamp": "Nov 14, 2016 7:48:10 PM",
-    "topic": "2016 MacBook Pro with Touch Bar Review",
-    "url": "http://arstechnica.com/apple/2016/11/macbook-pro-touch-bar-13-15-inch-touch-bar-review/",
-    "votes": 8,
-    "posted": "Nov 14, 2016 7:14:43 PM"
-  },
-  {
-    "id": "12951893",
-    "timestamp": "Nov 14, 2016 11:58:41 PM",
-    "topic": "Divshot, acquired and shut down a year ago, just billed me",
-    "votes": 8,
-    "posted": "Nov 14, 2016 7:11:50 PM"
-  },
-  {
-    "id": "12951857",
-    "timestamp": "Nov 16, 2016 12:11:08 AM",
-    "topic": "The State and Extent of Online Tracking",
-    "url": "https://medium.com/cliqz-blog/the-state-and-extent-of-online-tracking-d12979d2abdc",
-    "votes": 12,
-    "posted": "Nov 14, 2016 7:08:09 PM"
-  },
-  {
-    "id": "12951777",
-    "timestamp": "Nov 15, 2016 3:59:07 AM",
-    "topic": "Show HN: Lumber – a CLI to generate your admin microservice",
-    "url": "http://www.forestadmin.com/lumber",
-    "votes": 7,
-    "posted": "Nov 14, 2016 7:00:06 PM"
-  },
-  {
-    "id": "12951767",
-    "timestamp": "Nov 15, 2016 4:00:08 PM",
-    "topic": "Nuance as a virtue",
-    "url": "http://arnoldwaldstein.com/2016/10/nuance-as-a-virtue/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 6:59:14 PM"
-  },
-  {
-    "id": "12951747",
-    "timestamp": "Nov 14, 2016 7:18:07 PM",
-    "topic": "What if you got $1,000 a month, just for being alive? I decided to find out",
-    "url": "http://www.vox.com/first-person/2016/11/14/13513066/universal-basic-income-crowdfund",
-    "votes": 5,
-    "posted": "Nov 14, 2016 6:57:48 PM"
-  },
-  {
-    "id": "12951735",
-    "timestamp": "Nov 15, 2016 5:20:16 PM",
-    "topic": "Hunting submarines with magnets",
-    "url": "http://www.economist.com/news/science-and-technology/21709948-new-way-detect-even-quietest-boats-hunting-submarines-magnets",
-    "votes": 3,
-    "posted": "Nov 14, 2016 6:56:15 PM"
-  },
-  {
-    "id": "12951724",
-    "timestamp": "Nov 15, 2016 4:00:08 PM",
-    "topic": "Iran\u0027s Great Wall Is Now Buried and Forgotten",
-    "url": "http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten",
-    "votes": 4,
-    "posted": "Nov 14, 2016 6:55:11 PM"
   }
 ];
