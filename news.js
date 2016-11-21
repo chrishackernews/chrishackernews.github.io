@@ -9152,28 +9152,5 @@ var newsArray = [
     "url": "https://outercorner.com/secrets/?utm_source\u003dhn",
     "votes": 10,
     "posted": "Nov 14, 2016 10:57:54 AM"
-  },
-  {
-    "id": "12948611",
-    "timestamp": "Nov 14, 2016 11:47:26 AM",
-    "topic": "Ask HN: Is Xamarin worth learning?",
-    "votes": 5,
-    "posted": "Nov 14, 2016 10:37:01 AM"
-  },
-  {
-    "id": "12948600",
-    "timestamp": "Nov 14, 2016 12:57:31 PM",
-    "topic": "International Human Cell Atlas Initiative",
-    "url": "http://www.sanger.ac.uk/news/view/international-human-cell-atlas-initiative",
-    "votes": 5,
-    "posted": "Nov 14, 2016 10:35:13 AM"
-  },
-  {
-    "id": "12948503",
-    "timestamp": "Nov 14, 2016 11:57:27 AM",
-    "topic": "Dissolve My Nobel Prize Fast (A True Story)",
-    "url": "http://www.npr.org/sections/krulwich/2011/10/03/140815154/dissolve-my-nobel-prize-fast-a-true-story?sc\u003dtw\u0026cc\u003dshare",
-    "votes": 3,
-    "posted": "Nov 14, 2016 10:10:14 AM"
   }
 ];
