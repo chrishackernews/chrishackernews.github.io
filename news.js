@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13001714",
+    "timestamp": "Nov 21, 2016 12:33:24 AM",
+    "topic": "Giant Corporations Are Hoarding the World’s AI Talent",
+    "url": "https://www.wired.com/2016/11/giant-corporations-hoarding-worlds-ai-talent/?utm_content\u003dbufferd5ce6\u0026utm_medium\u003dsocial\u0026utm_source\u003dlinkedin.com\u0026utm_campaign\u003dbuffer",
+    "votes": 6,
+    "posted": "Nov 20, 2016 11:40:13 PM"
+  },
+  {
     "id": "13001511",
     "timestamp": "Nov 20, 2016 11:53:21 PM",
     "topic": "Proof of Stake by Fred Wilson",
@@ -148,6 +156,14 @@ var newsArray = [
     "url": "https://www.bloomberg.com/news/articles/2016-11-17/microsoft-to-tie-executive-bonuses-to-company-diversity-goals",
     "votes": 3,
     "posted": "Nov 20, 2016 6:26:42 PM"
+  },
+  {
+    "id": "12999884",
+    "timestamp": "Nov 21, 2016 12:23:23 AM",
+    "topic": "Show HN: ZangoDB Is a MongoDB-Like Interface for HTML5 IndexedDB",
+    "url": "https://github.com/erikolson186/zangodb",
+    "votes": 4,
+    "posted": "Nov 20, 2016 6:21:17 PM"
   },
   {
     "id": "12999767",
@@ -9045,37 +9061,5 @@ var newsArray = [
     "url": "http://www.transmissionzero.co.uk/computing/win16-apps-in-c/",
     "votes": 3,
     "posted": "Nov 14, 2016 12:54:25 AM"
-  },
-  {
-    "id": "12946505",
-    "timestamp": "Nov 14, 2016 5:16:50 AM",
-    "topic": "Some Chimps Are Putting Grass in Their Ears–For No Particular Reason",
-    "url": "http://www.smithsonianmag.com/smart-news/animal-fashion-some-chimps-are-putting-grass-ears-and-nobody-knows-why-180951888/?no-ist",
-    "votes": 3,
-    "posted": "Nov 14, 2016 12:51:22 AM"
-  },
-  {
-    "id": "12946425",
-    "timestamp": "Nov 14, 2016 1:16:29 AM",
-    "topic": "Iocage – A FreeBSD jail manager",
-    "url": "https://iocage.readthedocs.io/en/latest/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 12:31:56 AM"
-  },
-  {
-    "id": "12946392",
-    "timestamp": "Nov 14, 2016 5:46:53 AM",
-    "topic": "GLL Parsing (2010) [pdf]",
-    "url": "http://dotat.at/tmp/gll.pdf",
-    "votes": 6,
-    "posted": "Nov 14, 2016 12:23:42 AM"
-  },
-  {
-    "id": "12946320",
-    "timestamp": "Nov 14, 2016 1:36:30 AM",
-    "topic": "Fastest C# Serializer and Deserializer for .NET, .NET Core and Unity",
-    "url": "https://github.com/neuecc/ZeroFormatter",
-    "votes": 3,
-    "posted": "Nov 14, 2016 12:11:55 AM"
   }
 ];
