@@ -1,11 +1,123 @@
 var newsArray = [
   {
+    "id": "13002642",
+    "timestamp": "Nov 21, 2016 3:53:40 AM",
+    "topic": "Programmers are discussing unethical and illegal things they’ve been asked to do",
+    "url": "http://www.businessinsider.com/programmers-confess-unethical-illegal-tasks-asked-of-them-2016-11",
+    "votes": 5,
+    "posted": "Nov 21, 2016 3:31:35 AM"
+  },
+  {
+    "id": "13002598",
+    "timestamp": "Nov 21, 2016 3:53:40 AM",
+    "topic": "Why Native Apps Really Are Doomed: Native Apps Are Doomed Pt 2",
+    "url": "https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9",
+    "votes": 4,
+    "posted": "Nov 21, 2016 3:22:41 AM"
+  },
+  {
+    "id": "13002588",
+    "timestamp": "Nov 21, 2016 3:43:39 AM",
+    "topic": "Texas Floats Radical New Abortion Laws",
+    "url": "http://www.thedailybeast.com/articles/2016/11/15/texas-floats-radical-new-abortion-laws.html",
+    "votes": 5,
+    "posted": "Nov 21, 2016 3:20:28 AM"
+  },
+  {
+    "id": "13002570",
+    "timestamp": "Nov 21, 2016 3:43:39 AM",
+    "topic": "MacOS: How to investigate high kernel task memory usage?",
+    "url": "http://apple.stackexchange.com/questions/178281/how-to-investigate-high-kernel-task-memory-usage",
+    "votes": 4,
+    "posted": "Nov 21, 2016 3:17:10 AM"
+  },
+  {
+    "id": "13002567",
+    "timestamp": "Nov 21, 2016 3:43:38 AM",
+    "topic": "That Time I Brought Down Millions of WordPress Sites",
+    "url": "http://jeremyaboyd.com/that-time-i-brought-down-millions-of-wordpress-sites/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 3:16:34 AM"
+  },
+  {
+    "id": "13002565",
+    "timestamp": "Nov 21, 2016 3:43:39 AM",
+    "topic": "3D Printing Stainless Steel with Giant Robot Arms",
+    "url": "https://www.youtube.com/watch?v\u003dy9pknU0zv9c",
+    "votes": 3,
+    "posted": "Nov 21, 2016 3:15:55 AM"
+  },
+  {
+    "id": "13002545",
+    "timestamp": "Nov 21, 2016 3:53:40 AM",
+    "topic": "New immigration rules make it easier for Americans to work and stay in Canada",
+    "url": "http://globalnews.ca/news/3075089/new-immigration-rules-make-it-easier-for-americans-to-work-and-stay-in-canada/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 3:10:31 AM"
+  },
+  {
+    "id": "13002530",
+    "timestamp": "Nov 21, 2016 3:53:40 AM",
+    "topic": "Kafka: An End or a Beginning?",
+    "url": "https://lareviewofbooks.org/article/kafka-end-beginning/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 3:06:23 AM"
+  },
+  {
+    "id": "13002527",
+    "timestamp": "Nov 21, 2016 3:53:40 AM",
+    "topic": "AI can predict the future criminals based on facial features",
+    "url": "https://theintercept.com/2016/11/18/troubling-study-says-artificial-intelligence-can-predict-who-will-be-criminals-based-on-facial-features/",
+    "votes": 8,
+    "posted": "Nov 21, 2016 3:04:55 AM"
+  },
+  {
+    "id": "13002494",
+    "timestamp": "Nov 21, 2016 3:23:37 AM",
+    "topic": "How fake news goes viral",
+    "url": "http://www.nytimes.com/2016/11/20/business/media/how-fake-news-spreads.html?mtrref\u003dundefined\u0026gwh\u003dB3AA27688CB9AB211A9616FDF1273E32\u0026gwt\u003dpay",
+    "votes": 8,
+    "posted": "Nov 21, 2016 2:55:08 AM"
+  },
+  {
+    "id": "13002483",
+    "timestamp": "Nov 21, 2016 3:43:38 AM",
+    "topic": "Intel Declares War on GPUs at Disputed HPC, AI Border",
+    "url": "https://www.nextplatform.com/2016/11/20/intel-declares-war-gpus-disputed-hpc-ai-border/",
+    "votes": 9,
+    "posted": "Nov 21, 2016 2:53:12 AM"
+  },
+  {
+    "id": "13002471",
+    "timestamp": "Nov 21, 2016 3:53:40 AM",
+    "topic": "Fermat, the Internet of People and the Person to Person Economy",
+    "url": "https://medium.com/@luisfernandomolina/fermat-the-internet-of-people-and-the-person-to-person-economy-ce933865a0b0",
+    "votes": 4,
+    "posted": "Nov 21, 2016 2:50:09 AM"
+  },
+  {
+    "id": "13002453",
+    "timestamp": "Nov 21, 2016 3:23:37 AM",
+    "topic": "Linode Cost Comparison (2TB Bandwidth Factored In)",
+    "url": "http://welcome.linode.com/pricing-comparison/?r\u003d6b44fd00604f7059c77db8cb6e821a8c91fa5f8b",
+    "votes": 5,
+    "posted": "Nov 21, 2016 2:45:15 AM"
+  },
+  {
     "id": "13002342",
     "timestamp": "Nov 21, 2016 2:33:33 AM",
     "topic": "Hierarchical Object Detection with Deep Reinforcement Learning",
     "url": "http://www.gitxiv.com/posts/TRuAac6yxSCfp2era/hierarchical-object-detection-with-deep-reinforcement",
     "votes": 3,
     "posted": "Nov 21, 2016 2:10:44 AM"
+  },
+  {
+    "id": "13002265",
+    "timestamp": "Nov 21, 2016 3:03:35 AM",
+    "topic": "Adobe Voco \u0027Photoshop-for-voice\u0027 causes concern",
+    "url": "http://www.bbc.com/news/technology-37899902",
+    "votes": 5,
+    "posted": "Nov 21, 2016 1:49:50 AM"
   },
   {
     "id": "13002149",
@@ -70,6 +182,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/giant-corporations-hoarding-worlds-ai-talent/?utm_content\u003dbufferd5ce6\u0026utm_medium\u003dsocial\u0026utm_source\u003dlinkedin.com\u0026utm_campaign\u003dbuffer",
     "votes": 6,
     "posted": "Nov 20, 2016 11:40:13 PM"
+  },
+  {
+    "id": "13001543",
+    "timestamp": "Nov 21, 2016 3:43:39 AM",
+    "topic": "Mark Zuckerberg\u0027s update on fake news",
+    "url": "https://www.facebook.com/zuck/posts/10103269806149061",
+    "votes": 3,
+    "posted": "Nov 20, 2016 11:05:50 PM"
   },
   {
     "id": "13001511",
@@ -8990,60 +9110,5 @@ var newsArray = [
     "url": "https://www.facebook.com/zuck/posts/10103253901916271",
     "votes": 3,
     "posted": "Nov 14, 2016 3:58:35 AM"
-  },
-  {
-    "id": "12947173",
-    "timestamp": "Nov 15, 2016 11:41:05 PM",
-    "topic": "The Beautiful, Magical World of Rajput Art",
-    "url": "http://www.nybooks.com/articles/2016/11/24/the-beautiful-magical-world-of-rajput-art/",
-    "votes": 11,
-    "posted": "Nov 14, 2016 3:46:54 AM"
-  },
-  {
-    "id": "12947170",
-    "timestamp": "Nov 14, 2016 4:06:44 AM",
-    "topic": "Uses deep learning to caption img tags within page and fills out alt attributes",
-    "url": "https://github.com/ParhamP/altify",
-    "votes": 3,
-    "posted": "Nov 14, 2016 3:46:41 AM"
-  },
-  {
-    "id": "12947156",
-    "timestamp": "Nov 14, 2016 4:06:44 AM",
-    "topic": "The Conversation About VR Struggles to Get Real",
-    "url": "http://motherboard.vice.com/read/the-conversation-about-vr-struggles-to-get-real",
-    "votes": 3,
-    "posted": "Nov 14, 2016 3:43:48 AM"
-  },
-  {
-    "id": "12947107",
-    "timestamp": "Nov 14, 2016 4:16:45 AM",
-    "topic": "The code I’m still ashamed of",
-    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.n1o94vd8a",
-    "votes": 4,
-    "posted": "Nov 14, 2016 3:28:07 AM"
-  },
-  {
-    "id": "12947106",
-    "timestamp": "Nov 14, 2016 3:56:42 AM",
-    "topic": "Direct Sparse Odometry (DSO) open sourced",
-    "url": "https://github.com/JakobEngel/dso",
-    "votes": 3,
-    "posted": "Nov 14, 2016 3:28:01 AM"
-  },
-  {
-    "id": "12947026",
-    "timestamp": "Nov 14, 2016 7:17:00 AM",
-    "topic": "Best laptop for Hololens development?",
-    "votes": 4,
-    "posted": "Nov 14, 2016 3:06:02 AM"
-  },
-  {
-    "id": "12946986",
-    "timestamp": "Nov 14, 2016 3:16:39 AM",
-    "topic": "Researchers discover new method to dissipate heat in electronic devices",
-    "url": "http://phys.org/news/2016-11-method-dissipate-electronic-devices.html",
-    "votes": 3,
-    "posted": "Nov 14, 2016 2:54:52 AM"
   }
 ];
