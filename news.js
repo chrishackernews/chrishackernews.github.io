@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13008908",
+    "timestamp": "Nov 21, 2016 9:55:18 PM",
+    "topic": "True Link (YC S13) is launching an investment division",
+    "url": "https://medium.com/@kaistinchcombe/why-true-link-is-launching-an-investment-division-today-1bd30aff34a4",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:30:36 PM"
+  },
+  {
+    "id": "13008646",
+    "timestamp": "Nov 21, 2016 9:25:16 PM",
+    "topic": "Drone Video Shows Police Using Water Cannon on Dakota Access Pipeline Protesters",
+    "url": "https://www.inverse.com/article/24114-drone-video-standing-rock-water-cannon",
+    "votes": 4,
+    "posted": "Nov 21, 2016 9:03:52 PM"
+  },
+  {
+    "id": "13008620",
+    "timestamp": "Nov 21, 2016 9:15:14 PM",
+    "topic": "Microsoft planning to enable x86 on ARM64 emulation in Windows 10 by Fall 2017",
+    "url": "http://www.zdnet.com/article/microsofts-x86-on-arm64-emulation-a-windows-10-redstone-3-fall-2017-deliverable/#ftag\u003dRSSbaffb68",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:00:29 PM"
+  },
+  {
     "id": "13008509",
     "timestamp": "Nov 21, 2016 8:55:12 PM",
     "topic": "Trump Picks Staunch Opponents of Net Neutrality to Oversee FCC",
@@ -14,6 +38,38 @@ var newsArray = [
     "url": "https://insights.sei.cmu.edu/cert/2016/11/windows-10-cannot-protect-insecure-applications-like-emet-can.html",
     "votes": 3,
     "posted": "Nov 21, 2016 8:35:57 PM"
+  },
+  {
+    "id": "13008422",
+    "timestamp": "Nov 21, 2016 9:15:14 PM",
+    "topic": "This security camera was infected by malware 98 seconds after it was plugged in",
+    "url": "https://techcrunch.com/2016/11/18/this-security-camera-was-infected-by-malware-in-98-seconds-after-it-was-plugged-in/",
+    "votes": 23,
+    "posted": "Nov 21, 2016 8:35:51 PM"
+  },
+  {
+    "id": "13008423",
+    "timestamp": "Nov 21, 2016 9:05:12 PM",
+    "topic": "AppleScript, the perfect adjunct to iTunes: An open letter to Apple CEO Tim Cook",
+    "url": "http://www.macworld.com/article/3142462/macs/applescript-the-perfect-adjunct-to-itunes.html",
+    "votes": 8,
+    "posted": "Nov 21, 2016 8:35:51 PM"
+  },
+  {
+    "id": "13008408",
+    "timestamp": "Nov 21, 2016 9:05:13 PM",
+    "topic": "4-bit calculator made from cardboard and marbles",
+    "url": "https://lapinozz.github.io/learning/2016/11/19/calculator-with-caordboard-and-marbles.html",
+    "votes": 6,
+    "posted": "Nov 21, 2016 8:34:14 PM"
+  },
+  {
+    "id": "13008368",
+    "timestamp": "Nov 21, 2016 9:25:16 PM",
+    "topic": "Blockchain is best available mechainsm to protect the past from future tyrants",
+    "url": "https://www.youtube.com/watch?v\u003dyQGQXy0RIIo\u0026feature\u003dyoutu.be\u0026t\u003d40m46s",
+    "votes": 5,
+    "posted": "Nov 21, 2016 8:30:26 PM"
   },
   {
     "id": "13008315",
@@ -2456,6 +2512,14 @@ var newsArray = [
     "url": "https://medium.com/@streamup/announcing-the-new-streamup-tada-190a8822627f#.31433cn7h",
     "votes": 4,
     "posted": "Nov 19, 2016 2:59:28 AM"
+  },
+  {
+    "id": "12991571",
+    "timestamp": "Nov 21, 2016 9:15:14 PM",
+    "topic": "Windows 10 informs Chrome and Firefox users that Edge is ‘safer’",
+    "url": "http://venturebeat.com/2016/11/18/windows-10-informs-chrome-and-firefox-users-that-edge-is-safer/",
+    "votes": 3,
+    "posted": "Nov 19, 2016 2:57:52 AM"
   },
   {
     "id": "12991569",
@@ -9049,100 +9113,5 @@ var newsArray = [
     "url": "http://martinfowler.com/bliki/ValueObject.html",
     "votes": 6,
     "posted": "Nov 14, 2016 9:55:27 PM"
-  },
-  {
-    "id": "12953172",
-    "timestamp": "Nov 14, 2016 10:08:24 PM",
-    "topic": "Why Chrome 53 Is Rejecting Chase Bank\u0027s Symantec Certificate",
-    "url": "https://sslmate.com/blog/post/ct_redaction_in_chrome_53",
-    "votes": 3,
-    "posted": "Nov 14, 2016 9:45:46 PM"
-  },
-  {
-    "id": "12953150",
-    "timestamp": "Nov 14, 2016 10:08:24 PM",
-    "topic": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
-    "url": "http://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 9:42:15 PM"
-  },
-  {
-    "id": "12953138",
-    "timestamp": "Nov 15, 2016 5:09:13 AM",
-    "topic": "The Effects of Medical Marijuana on Alzheimer’s Treatment",
-    "url": "http://www.alzheimers.net/6-15-15-effects-of-medical-marijuana-on-alzheimers/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 9:40:41 PM"
-  },
-  {
-    "id": "12953105",
-    "timestamp": "Nov 14, 2016 10:08:25 PM",
-    "topic": "Chelsea Manning Asks President for Clemency and \u0027First Chance at Life\u0027",
-    "url": "http://www.npr.org/sections/thetwo-way/2016/11/14/502026384/chelsea-manning-asks-president-for-clemency-and-first-chance-at-life",
-    "votes": 5,
-    "posted": "Nov 14, 2016 9:37:23 PM"
-  },
-  {
-    "id": "12953045",
-    "timestamp": "Nov 14, 2016 9:38:21 PM",
-    "topic": "90 Days and My Six-Figure Mistake",
-    "url": "https://medium.com/@ben_mathes/90-days-and-my-six-figure-mistake-a495f4a188e2#.xn6mw98h0",
-    "votes": 4,
-    "posted": "Nov 14, 2016 9:29:58 PM"
-  },
-  {
-    "id": "12953002",
-    "timestamp": "Nov 14, 2016 9:48:22 PM",
-    "topic": "Gwen Ifill, Award-Winning Political Reporter and Author, Dies at 61",
-    "url": "http://www.nytimes.com/2016/11/14/business/media/gwen-ifill-dies.html",
-    "votes": 4,
-    "posted": "Nov 14, 2016 9:25:04 PM"
-  },
-  {
-    "id": "12952991",
-    "timestamp": "Nov 14, 2016 9:58:23 PM",
-    "topic": "Ask HN: Consulting options for technologists?",
-    "votes": 3,
-    "posted": "Nov 14, 2016 9:24:16 PM"
-  },
-  {
-    "id": "12952835",
-    "timestamp": "Nov 14, 2016 9:38:21 PM",
-    "topic": "Why India wiped out 86% of its cash overnight",
-    "url": "http://www.bbc.com/news/world-asia-india-37974423",
-    "votes": 15,
-    "posted": "Nov 14, 2016 9:08:58 PM"
-  },
-  {
-    "id": "12952833",
-    "timestamp": "Nov 14, 2016 9:28:20 PM",
-    "topic": "\u0027No one\u0027s making money on Facebook\u0027: Video publishers share what\u0027s on their mind",
-    "url": "http://digiday.com/publishers/no-ones-making-money-facebook-video-publishers-share-whats-minds/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 9:08:51 PM"
-  },
-  {
-    "id": "12952796",
-    "timestamp": "Nov 16, 2016 3:02:37 PM",
-    "topic": "Show HN: Color Perception iOS Puzzle – What’s so special about the color green?",
-    "url": "https://itunes.apple.com/app/id1116125640",
-    "votes": 5,
-    "posted": "Nov 14, 2016 9:05:36 PM"
-  },
-  {
-    "id": "12952715",
-    "timestamp": "Nov 14, 2016 10:08:24 PM",
-    "topic": "RAISR Sharp Images with Machine Learning",
-    "url": "https://research.googleblog.com/2016/11/enhance-raisr-sharp-images-with-machine.html",
-    "votes": 6,
-    "posted": "Nov 14, 2016 8:57:46 PM"
-  },
-  {
-    "id": "12952692",
-    "timestamp": "Nov 14, 2016 9:18:19 PM",
-    "topic": "Webhook Tester",
-    "url": "http://webhook.site",
-    "votes": 5,
-    "posted": "Nov 14, 2016 8:55:18 PM"
   }
 ];
