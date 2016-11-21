@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "13009417",
+    "timestamp": "Nov 21, 2016 10:45:24 PM",
+    "topic": "Japan issues tsunami warning after magnitude 7.3 earthquake",
+    "url": "http://www.bbc.com/news/world-asia-38059371",
+    "votes": 11,
+    "posted": "Nov 21, 2016 10:34:33 PM"
+  },
+  {
+    "id": "13009098",
+    "timestamp": "Nov 21, 2016 10:35:23 PM",
+    "topic": "LibreOffice 5.2: Release Notes",
+    "url": "https://wiki.documentfoundation.org/ReleaseNotes/5.2",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:53:00 PM"
+  },
+  {
+    "id": "13009057",
+    "timestamp": "Nov 21, 2016 10:25:21 PM",
+    "topic": "Inspecting C\u0027s qsort Through Animation",
+    "url": "http://nullprogram.com/blog/2016/09/05/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:48:12 PM"
+  },
+  {
+    "id": "13009044",
+    "timestamp": "Nov 21, 2016 10:15:21 PM",
+    "topic": "These two youngs are making $40k+ a month with fake political news",
+    "url": "http://www.miamiherald.com/news/nation-world/national/article116118398.html#fmp",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:46:52 PM"
+  },
+  {
     "id": "13008908",
     "timestamp": "Nov 21, 2016 9:55:18 PM",
     "topic": "True Link (YC S13) is launching an investment division",
     "url": "https://medium.com/@kaistinchcombe/why-true-link-is-launching-an-investment-division-today-1bd30aff34a4",
     "votes": 3,
     "posted": "Nov 21, 2016 9:30:36 PM"
+  },
+  {
+    "id": "13008784",
+    "timestamp": "Nov 21, 2016 10:25:22 PM",
+    "topic": "Which security measures make sense for a static web site?",
+    "url": "http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:18:56 PM"
   },
   {
     "id": "13008646",
@@ -32,12 +72,36 @@ var newsArray = [
     "posted": "Nov 21, 2016 8:46:19 PM"
   },
   {
+    "id": "13008501",
+    "timestamp": "Nov 21, 2016 10:05:19 PM",
+    "topic": "Worm Spreading Malware via Facebook Using SVG, JavaScript and Google Chrome",
+    "url": "http://react-etc.net/entry/worm-spreading-malware-via-facebook-using-svg-javascript-and-chrome-extension",
+    "votes": 4,
+    "posted": "Nov 21, 2016 8:45:15 PM"
+  },
+  {
+    "id": "13008500",
+    "timestamp": "Nov 21, 2016 10:05:19 PM",
+    "topic": "Eve V: The First-Ever Crowd Developed Computer campaign just started",
+    "url": "https://www.indiegogo.com/projects/eve-v-the-first-ever-crowd-developed-computer-laptop-tablet?ct\u003dt%28Eve_comhero++configs%2C+gtp%2C+referr+16.11.2016%29\u0026mc_cid\u003dc47981a40d#/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 8:45:07 PM"
+  },
+  {
     "id": "13008426",
     "timestamp": "Nov 21, 2016 8:55:11 PM",
     "topic": "Windows 10 Cannot Protect Insecure Applications Like EMET Can",
     "url": "https://insights.sei.cmu.edu/cert/2016/11/windows-10-cannot-protect-insecure-applications-like-emet-can.html",
     "votes": 3,
     "posted": "Nov 21, 2016 8:35:57 PM"
+  },
+  {
+    "id": "13008425",
+    "timestamp": "Nov 21, 2016 10:05:20 PM",
+    "topic": "Remarkable images show how learning an instrument boosts brain power",
+    "url": "http://www.dailymail.co.uk/sciencetech/article-3957092/Music-lessons-pay-Remarkable-images-learning-instrument-boosts-brain-power.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 8:35:55 PM"
   },
   {
     "id": "13008422",
@@ -126,6 +190,14 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/21/police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather/",
     "votes": 7,
     "posted": "Nov 21, 2016 7:35:38 PM"
+  },
+  {
+    "id": "13007726",
+    "timestamp": "Nov 21, 2016 10:15:21 PM",
+    "topic": "Syscall Auditing at Scale",
+    "url": "https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8",
+    "votes": 5,
+    "posted": "Nov 21, 2016 7:25:50 PM"
   },
   {
     "id": "13007722",
@@ -263,6 +335,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 4:55:09 PM"
   },
   {
+    "id": "13005902",
+    "timestamp": "Nov 21, 2016 10:35:23 PM",
+    "topic": "Tesla officially acquires SolarCity",
+    "url": "https://techcrunch.com/2016/11/21/tesla-officially-acquires-solarcity/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 4:08:49 PM"
+  },
+  {
     "id": "13005792",
     "timestamp": "Nov 21, 2016 4:34:46 PM",
     "topic": "Show HN: Publish a Markdown website in 5 minutes",
@@ -277,6 +357,14 @@ var newsArray = [
     "url": "https://www.instapainting.com/blog/company/2015/10/28/how-to-paint-10000-paintings/",
     "votes": 4,
     "posted": "Nov 21, 2016 3:52:58 PM"
+  },
+  {
+    "id": "13005745",
+    "timestamp": "Nov 21, 2016 10:05:20 PM",
+    "topic": "Microsoft exec calls out Apple on its aging Mac hardware; and he\u0027s right",
+    "url": "http://tech.firstpost.com/news-analysis/microsoft-exec-calls-out-apple-on-its-aging-mac-hardware-and-hes-right-328718.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 3:47:00 PM"
   },
   {
     "id": "13005637",
@@ -581,6 +669,13 @@ var newsArray = [
     "url": "https://backchannel.com/according-to-snopes-fake-news-is-not-the-problem-4ca4852b1ff0#.juukjg5v3",
     "votes": 4,
     "posted": "Nov 21, 2016 7:28:19 AM"
+  },
+  {
+    "id": "13003553",
+    "timestamp": "Nov 21, 2016 10:25:22 PM",
+    "topic": "Ask HN: Has anyone calculated the cost of building USS Enterprise or Death Star?",
+    "votes": 3,
+    "posted": "Nov 21, 2016 7:18:31 AM"
   },
   {
     "id": "13003484",
@@ -9010,108 +9105,5 @@ var newsArray = [
     "url": "http://www.bloomberg.com/news/articles/2016-11-14/expedia-s-german-hotel-booking-site-trivago-files-for-u-s-ipo?cmpid\u003dsocialflow-twitter-business\u0026utm_content\u003dbusiness\u0026utm_campaign\u003dsocialflow-organic\u0026utm_source\u003dtwitter\u0026utm_medium\u003dsocial",
     "votes": 4,
     "posted": "Nov 14, 2016 10:56:56 PM"
-  },
-  {
-    "id": "12953706",
-    "timestamp": "Nov 14, 2016 11:28:34 PM",
-    "topic": "Anime master Hayao Miyazaki is coming out of retirement to make one last film",
-    "url": "http://www.wired.co.uk/articlhttp://www.theverge.com/2016/11/14/13621108/hayao-miyazaki-last-film-boro-the-caterpillare/hayao-miyazaki-latest-film-cgi-caterpillar",
-    "votes": 4,
-    "posted": "Nov 14, 2016 10:52:34 PM"
-  },
-  {
-    "id": "12953637",
-    "timestamp": "Nov 15, 2016 4:09:08 AM",
-    "topic": "Microsoft is going to pretend to release Visual Studio for Mac",
-    "url": "http://arstechnica.com/information-technology/2016/11/microsoft-is-going-to-pretend-to-release-visual-studio-for-mac/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 10:43:16 PM"
-  },
-  {
-    "id": "12953587",
-    "timestamp": "Nov 14, 2016 11:08:32 PM",
-    "topic": "Can Libel Laws Be Changed Under Trump?",
-    "url": "http://www.nytimes.com/2016/11/14/business/media/can-libel-laws-be-changed-under-trump.html?em_pos\u003dsmall\u0026emc\u003dedit_dk_20161114\u0026nl\u003ddealbook\u0026nl_art\u003d4\u0026nlid\u003d65508833\u0026ref\u003dheadline\u0026te\u003d1",
-    "votes": 3,
-    "posted": "Nov 14, 2016 10:36:47 PM"
-  },
-  {
-    "id": "12953567",
-    "timestamp": "Nov 15, 2016 8:00:31 PM",
-    "topic": "Charles Boycott was so hated that he is the eponym for the English verb boycott",
-    "url": "http://www.thevintagenews.com/2016/10/25/charles-boycott-was-so-hated-by-the-community-that-he-is-the-eponym-for-the-english-verb-boycott/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 10:33:55 PM"
-  },
-  {
-    "id": "12953526",
-    "timestamp": "Nov 14, 2016 10:48:30 PM",
-    "topic": "Dash for iOS is now open source",
-    "url": "https://github.com/Kapeli/Dash-iOS",
-    "votes": 7,
-    "posted": "Nov 14, 2016 10:27:09 PM"
-  },
-  {
-    "id": "12953524",
-    "timestamp": "Nov 14, 2016 10:28:26 PM",
-    "topic": "Work at Faraday Future\u0027s factory construction site has reportedly stopped",
-    "url": "http://www.autoblog.com/2016/11/14/faraday-futures-factory-construction-stop/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 10:26:41 PM"
-  },
-  {
-    "id": "12953505",
-    "timestamp": "Nov 14, 2016 10:58:31 PM",
-    "topic": "Ask HN: What\u0027s your references to learn SEO?",
-    "votes": 6,
-    "posted": "Nov 14, 2016 10:23:51 PM"
-  },
-  {
-    "id": "12953417",
-    "timestamp": "Nov 14, 2016 11:18:32 PM",
-    "topic": "The Fall of Big Data",
-    "url": "http://www.argmin.net/2016/11/14/fall-of-big-data/",
-    "votes": 6,
-    "posted": "Nov 14, 2016 10:14:24 PM"
-  },
-  {
-    "id": "12953391",
-    "timestamp": "Nov 14, 2016 10:28:26 PM",
-    "topic": "You Don’t Need a Master Plan – You Just Need to Start",
-    "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#.jbuoh9x2n",
-    "votes": 3,
-    "posted": "Nov 14, 2016 10:09:22 PM"
-  },
-  {
-    "id": "12953368",
-    "timestamp": "Nov 14, 2016 10:08:25 PM",
-    "topic": "Shazam Keeps Your Mac’s Microphone Always On, Even When You Turn It Off",
-    "url": "http://motherboard.vice.com/read/shazam-keeps-your-macs-microphone-always-on-even-when-you-turn-it-off",
-    "votes": 3,
-    "posted": "Nov 14, 2016 10:06:25 PM"
-  },
-  {
-    "id": "12953293",
-    "timestamp": "Nov 15, 2016 8:09:29 AM",
-    "topic": "EC2 Price Reduction (C4, M4, and T2 Instances)",
-    "url": "https://aws.amazon.com/blogs/aws/category/price-reduction/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 9:57:55 PM"
-  },
-  {
-    "id": "12953285",
-    "timestamp": "Nov 14, 2016 10:08:25 PM",
-    "topic": "Trump Won Because Leftist Political Correctness Inspired a Terrifying Backlash",
-    "url": "http://reason.com/blog/2016/11/09/trump-won-because-leftist-political-corr",
-    "votes": 4,
-    "posted": "Nov 14, 2016 9:57:03 PM"
-  },
-  {
-    "id": "12953266",
-    "timestamp": "Nov 14, 2016 10:38:27 PM",
-    "topic": "ValueObject",
-    "url": "http://martinfowler.com/bliki/ValueObject.html",
-    "votes": 6,
-    "posted": "Nov 14, 2016 9:55:27 PM"
   }
 ];
