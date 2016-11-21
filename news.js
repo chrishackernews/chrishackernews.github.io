@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13003896",
+    "timestamp": "Nov 21, 2016 9:14:09 AM",
+    "topic": "Show HN: Generate Google Slides from markdown",
+    "url": "https://github.com/googlesamples/md2googleslides",
+    "votes": 9,
+    "posted": "Nov 21, 2016 9:07:09 AM"
+  },
+  {
+    "id": "13003879",
+    "timestamp": "Nov 21, 2016 9:04:09 AM",
+    "topic": "Libcaer",
+    "url": "https://github.com/inilabs/libcaer",
+    "votes": 3,
+    "posted": "Nov 21, 2016 9:02:03 AM"
+  },
+  {
+    "id": "13003877",
+    "timestamp": "Nov 21, 2016 9:14:09 AM",
+    "topic": "The Essential Boilerplate to Authenticate Users on Your React-Native App",
+    "url": "https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.9tfw7alkl",
+    "votes": 5,
+    "posted": "Nov 21, 2016 9:01:11 AM"
+  },
+  {
+    "id": "13003838",
+    "timestamp": "Nov 21, 2016 9:54:12 AM",
+    "topic": "Nude pics as IOU: a new, risky online loan among Chinese university students",
+    "url": "http://en.people.cn/n3/2016/0614/c90000-9071896.html",
+    "votes": 4,
+    "posted": "Nov 21, 2016 8:48:33 AM"
+  },
+  {
     "id": "13003809",
     "timestamp": "Nov 21, 2016 8:54:08 AM",
     "topic": "ECS and Vault: Shhhhh I have a secret",
@@ -9143,13 +9175,5 @@ var newsArray = [
     "url": "http://www.npr.org/sections/krulwich/2011/10/03/140815154/dissolve-my-nobel-prize-fast-a-true-story?sc\u003dtw\u0026cc\u003dshare",
     "votes": 3,
     "posted": "Nov 14, 2016 10:10:14 AM"
-  },
-  {
-    "id": "12948357",
-    "timestamp": "Nov 14, 2016 11:57:27 AM",
-    "topic": "S.D. police use catheters, force to collect urine samples",
-    "url": "http://www.firstcoastnews.com/news/nation-now/sd-police-use-catheters-force-to-collect-urine-samples/261703292",
-    "votes": 3,
-    "posted": "Nov 14, 2016 9:35:22 AM"
   }
 ];
