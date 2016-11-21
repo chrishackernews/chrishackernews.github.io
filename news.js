@@ -1,11 +1,34 @@
 var newsArray = [
   {
+    "id": "13009691",
+    "timestamp": "Nov 21, 2016 11:15:26 PM",
+    "topic": "Sift Science is looking for a Back end Eng who has built distributed systems",
+    "url": "https://boards.greenhouse.io/siftscience/jobs/43188#.WDMt6pMrIUE",
+    "votes": 1,
+    "posted": "Nov 21, 2016 11:11:45 PM"
+  },
+  {
+    "id": "13009598",
+    "timestamp": "Nov 21, 2016 11:35:27 PM",
+    "topic": "Telescope That ‘Ate Astronomy’ Is on Track to Surpass Hubble",
+    "url": "http://www.nytimes.com/2016/11/22/science/nasa-webb-space-telescope-hubble.html?rref\u003dcollection%2Fsectioncollection%2Fscience\u0026action\u003dclick\u0026contentCollection\u003dscience\u0026region\u003drank\u0026module\u003dpackage\u0026version\u003dhighlights\u0026contentPlacement\u003d1\u0026pgtype\u003dsectionfront",
+    "votes": 6,
+    "posted": "Nov 21, 2016 10:57:20 PM"
+  },
+  {
     "id": "13009417",
     "timestamp": "Nov 21, 2016 10:45:24 PM",
     "topic": "Japan issues tsunami warning after magnitude 7.3 earthquake",
     "url": "http://www.bbc.com/news/world-asia-38059371",
     "votes": 11,
     "posted": "Nov 21, 2016 10:34:33 PM"
+  },
+  {
+    "id": "13009135",
+    "timestamp": "Nov 21, 2016 11:45:28 PM",
+    "topic": "Ask HN: How much you pay for servers?",
+    "votes": 4,
+    "posted": "Nov 21, 2016 9:56:52 PM"
   },
   {
     "id": "13009098",
@@ -245,6 +268,14 @@ var newsArray = [
     "topic": "Riseup.net fails to update canary; Cert fingerprints deleted without notice",
     "votes": 7,
     "posted": "Nov 21, 2016 6:40:32 PM"
+  },
+  {
+    "id": "13007232",
+    "timestamp": "Nov 21, 2016 11:35:28 PM",
+    "topic": "UK Government Confirm Move to Force ISPs into Blocking “Adult” Sites",
+    "url": "http://www.ispreview.co.uk/index.php/2016/11/uk-government-confirm-move-force-isps-blocking-adult-sites.html",
+    "votes": 8,
+    "posted": "Nov 21, 2016 6:40:20 PM"
   },
   {
     "id": "13007210",
@@ -9033,77 +9064,5 @@ var newsArray = [
     "url": "https://medium.com/@datalab/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34",
     "votes": 4,
     "posted": "Nov 14, 2016 11:57:59 PM"
-  },
-  {
-    "id": "12954116",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "Who cares if someone hacks my driveway camera?",
-    "url": "http://sobersecurity.blogspot.com/2016/11/who-cares-if-someone-hacks-my-driveway.html",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:54:52 PM"
-  },
-  {
-    "id": "12954115",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "Mary Jo White to Step Down as S.E.C. Chief",
-    "url": "http://www.nytimes.com/2016/11/15/business/dealbook/mary-jo-white-securities-and-exchange-commission.html",
-    "votes": 3,
-    "posted": "Nov 14, 2016 11:54:51 PM"
-  },
-  {
-    "id": "12954032",
-    "timestamp": "Nov 15, 2016 12:18:43 AM",
-    "topic": "Five years of Fanout",
-    "url": "http://blog.fanout.io/2016/11/14/five-years-of-fanout/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 11:42:12 PM"
-  },
-  {
-    "id": "12953836",
-    "timestamp": "Nov 14, 2016 11:58:41 PM",
-    "topic": "What I learnt from my 14 year journey writing software without a CS degree",
-    "url": "https://medium.com/@owahab/what-i-learnt-from-my-14-year-journey-writing-software-without-a-cs-degree-2a47941279f6#.j5i4zpnwo",
-    "votes": 3,
-    "posted": "Nov 14, 2016 11:12:22 PM"
-  },
-  {
-    "id": "12953810",
-    "timestamp": "Nov 14, 2016 11:18:33 PM",
-    "topic": "Smallest sliver of time yet measured sees electrons fleeing atom",
-    "url": "https://www.newscientist.com/article/2112537-smallest-sliver-of-time-yet-measured-sees-electrons-fleeing-atom/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 11:08:43 PM"
-  },
-  {
-    "id": "12953807",
-    "timestamp": "Nov 14, 2016 11:18:33 PM",
-    "topic": "Two-thirds of the world\u0027s internet users live under government censorship",
-    "url": "http://www.theverge.com/2016/11/14/13596974/internet-freedom-decline-global-censorship-facebook-whatsapp",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:08:11 PM"
-  },
-  {
-    "id": "12953799",
-    "timestamp": "Nov 14, 2016 11:38:34 PM",
-    "topic": "Chernobyl disaster: Giant shield begins move towards reactor",
-    "url": "http://www.bbc.com/news/world-europe-37978482",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:07:36 PM"
-  },
-  {
-    "id": "12953776",
-    "timestamp": "Nov 15, 2016 5:50:19 PM",
-    "topic": "Time Warp",
-    "url": "http://anguspmitchell.com/index.php/2016/11/10/time-warp/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:03:47 PM"
-  },
-  {
-    "id": "12953738",
-    "timestamp": "Nov 15, 2016 12:28:45 AM",
-    "topic": "Expedia’s German Hotel-Booking Site Trivago Files for IPO",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-14/expedia-s-german-hotel-booking-site-trivago-files-for-u-s-ipo?cmpid\u003dsocialflow-twitter-business\u0026utm_content\u003dbusiness\u0026utm_campaign\u003dsocialflow-organic\u0026utm_source\u003dtwitter\u0026utm_medium\u003dsocial",
-    "votes": 4,
-    "posted": "Nov 14, 2016 10:56:56 PM"
   }
 ];
