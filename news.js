@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "13003809",
+    "timestamp": "Nov 21, 2016 8:54:08 AM",
+    "topic": "ECS and Vault: Shhhhh I have a secret",
+    "url": "https://www.kickstarter.com/backing-and-hacking/ecs-and-vault-shhhhh-i-have-a-secret",
+    "votes": 4,
+    "posted": "Nov 21, 2016 8:39:41 AM"
+  },
+  {
+    "id": "13003609",
+    "timestamp": "Nov 21, 2016 8:54:08 AM",
+    "topic": "The Norwegian Secret to Enjoying a Long Winter",
+    "url": "https://www.fastcompany.com/3052970/how-to-be-a-success-at-everything/the-norwegian-secret-to-enjoying-a-long-winter",
+    "votes": 4,
+    "posted": "Nov 21, 2016 7:31:32 AM"
+  },
+  {
+    "id": "13003588",
+    "timestamp": "Nov 21, 2016 8:14:03 AM",
+    "topic": "According to Snopes, Fake News Is Not the Problem",
+    "url": "https://backchannel.com/according-to-snopes-fake-news-is-not-the-problem-4ca4852b1ff0#.juukjg5v3",
+    "votes": 4,
+    "posted": "Nov 21, 2016 7:28:19 AM"
+  },
+  {
     "id": "13003484",
     "timestamp": "Nov 21, 2016 7:03:56 AM",
     "topic": "Symantec to Buy Identity Theft Protection Company LifeLock for $2.3bn",
     "url": "http://www.wsj.com/articles/symantec-to-buy-identity-theft-protection-company-lifelock-1479692089",
     "votes": 3,
     "posted": "Nov 21, 2016 7:01:15 AM"
+  },
+  {
+    "id": "13003448",
+    "timestamp": "Nov 21, 2016 8:24:04 AM",
+    "topic": "Physicists Uncover Strange Numbers in Particle Collisions",
+    "url": "https://www.wired.com/2016/11/physicists-uncover-strange-numbers-particle-collisions/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:50:09 AM"
   },
   {
     "id": "13003415",
@@ -22,6 +54,14 @@ var newsArray = [
     "url": "http://benicetobears.com/2016/11/17/the-better-alternative-to-small-houses-that-nobody-is-talking-about/",
     "votes": 17,
     "posted": "Nov 21, 2016 6:25:39 AM"
+  },
+  {
+    "id": "13003360",
+    "timestamp": "Nov 21, 2016 8:04:03 AM",
+    "topic": "Trump tower in Pune, India",
+    "url": "http://www.nytimes.com/2016/11/21/us/politics/donald-trump-india-business.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:23:01 AM"
   },
   {
     "id": "13003345",
@@ -46,6 +86,14 @@ var newsArray = [
     "url": "https://www.technologyreview.com/s/602934/obama-advisers-urge-action-against-crispr-bioterror-threat/",
     "votes": 3,
     "posted": "Nov 21, 2016 6:14:24 AM"
+  },
+  {
+    "id": "13003237",
+    "timestamp": "Nov 21, 2016 8:34:05 AM",
+    "topic": "Scrum Board – Simple JavaScript Task Managament App",
+    "url": "https://i-break-codes.github.io/scrum-board/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 5:48:52 AM"
   },
   {
     "id": "13003057",
@@ -158,6 +206,14 @@ var newsArray = [
     "url": "https://theintercept.com/2016/11/18/troubling-study-says-artificial-intelligence-can-predict-who-will-be-criminals-based-on-facial-features/",
     "votes": 8,
     "posted": "Nov 21, 2016 3:04:55 AM"
+  },
+  {
+    "id": "13002498",
+    "timestamp": "Nov 21, 2016 8:24:04 AM",
+    "topic": "Nintendo Ninja – An FPGA-Based Mario Bros AI [2013]",
+    "url": "http://www.nintendoninja.com/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 2:56:12 AM"
   },
   {
     "id": "13002494",
@@ -288,6 +344,14 @@ var newsArray = [
     "posted": "Nov 20, 2016 11:40:13 PM"
   },
   {
+    "id": "13001641",
+    "timestamp": "Nov 21, 2016 8:34:06 AM",
+    "topic": "PUPPICAD",
+    "url": "http://pupi.co/",
+    "votes": 3,
+    "posted": "Nov 20, 2016 11:23:31 PM"
+  },
+  {
     "id": "13001543",
     "timestamp": "Nov 21, 2016 3:43:39 AM",
     "topic": "Mark Zuckerberg\u0027s update on fake news",
@@ -302,6 +366,14 @@ var newsArray = [
     "url": "http://avc.com/2016/11/proof-of-stake/",
     "votes": 4,
     "posted": "Nov 20, 2016 11:00:45 PM"
+  },
+  {
+    "id": "13001488",
+    "timestamp": "Nov 21, 2016 8:44:07 AM",
+    "topic": "Secret Wood ring collection",
+    "url": "https://www.mysecretwood.com/collections/our-rings",
+    "votes": 3,
+    "posted": "Nov 20, 2016 10:55:51 PM"
   },
   {
     "id": "13001213",
@@ -9079,44 +9151,5 @@ var newsArray = [
     "url": "http://www.firstcoastnews.com/news/nation-now/sd-police-use-catheters-force-to-collect-urine-samples/261703292",
     "votes": 3,
     "posted": "Nov 14, 2016 9:35:22 AM"
-  },
-  {
-    "id": "12948155",
-    "timestamp": "Nov 14, 2016 9:27:10 AM",
-    "topic": "What I learned leading Ops at GitHub, Heroku, DigitalOcean, and more.…",
-    "url": "http://www.slideshare.net/MarkImbriaco/what-i-learned-leading-ops-at-github-heroku-digitalocean-and-more",
-    "votes": 6,
-    "posted": "Nov 14, 2016 8:46:10 AM"
-  },
-  {
-    "id": "12948112",
-    "timestamp": "Nov 14, 2016 5:57:59 PM",
-    "topic": "A Confession of Liberal Intolerance",
-    "url": "http://www.nytimes.com/2016/05/08/opinion/sunday/a-confession-of-liberal-intolerance.html?_r\u003d0",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:33:19 AM"
-  },
-  {
-    "id": "12948089",
-    "timestamp": "Nov 14, 2016 11:47:26 AM",
-    "topic": "Ask HN: Will we have time to understand that singularity happened?",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:24:43 AM"
-  },
-  {
-    "id": "12948043",
-    "timestamp": "Nov 14, 2016 8:27:06 AM",
-    "topic": "Introducing Visual Studio for Mac",
-    "url": "https://msdn.microsoft.com/en-us/magazine/mt790182.aspx",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:11:25 AM"
-  },
-  {
-    "id": "12948022",
-    "timestamp": "Nov 14, 2016 8:07:04 AM",
-    "topic": "Remix (YC W15) is hiring engineers to make our cities better",
-    "url": "https://www.remix.com/jobs",
-    "votes": 1,
-    "posted": "Nov 14, 2016 8:02:56 AM"
   }
 ];
