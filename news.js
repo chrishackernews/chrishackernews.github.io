@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13005792",
+    "timestamp": "Nov 21, 2016 4:34:46 PM",
+    "topic": "Show HN: Publish a Markdown website in 5 minutes",
+    "url": "http://www.markdownsites.com/",
+    "votes": 7,
+    "posted": "Nov 21, 2016 3:55:34 PM"
+  },
+  {
+    "id": "13005778",
+    "timestamp": "Nov 21, 2016 4:34:47 PM",
+    "topic": "Inside The Fine Art Factories of Yiwu, China",
+    "url": "https://www.instapainting.com/blog/company/2015/10/28/how-to-paint-10000-paintings/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 3:52:58 PM"
+  },
+  {
     "id": "13005619",
     "timestamp": "Nov 21, 2016 3:54:44 PM",
     "topic": "Skip the Soylent, Make a Meal Instead",
@@ -9140,101 +9156,5 @@ var newsArray = [
     "url": "https://gizmodo.com/facebooks-fight-against-fake-news-was-undercut-by-fear-1788808204",
     "votes": 7,
     "posted": "Nov 14, 2016 5:13:38 PM"
-  },
-  {
-    "id": "12950566",
-    "timestamp": "Nov 14, 2016 5:17:55 PM",
-    "topic": "Maine Enacts Ranked Choice/Instant Runoff Voting",
-    "url": "https://ballotpedia.org/Maine_Ranked_Choice_Voting_Initiative,_Question_5_(2016)",
-    "votes": 13,
-    "posted": "Nov 14, 2016 4:54:05 PM"
-  },
-  {
-    "id": "12950559",
-    "timestamp": "Nov 14, 2016 6:48:03 PM",
-    "topic": "JTAGing Mobile Phones",
-    "url": "https://sysforensics.org/2016/08/jtaging-mobile-phones/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 4:53:22 PM"
-  },
-  {
-    "id": "12950501",
-    "timestamp": "Nov 14, 2016 4:57:53 PM",
-    "topic": "Dan Rather: Now, More Than Ever, We Must Stand Up for Science",
-    "url": "https://blogs.scientificamerican.com/guest-blog/dan-rather-now-more-than-ever-we-must-stand-up-for-science/",
-    "votes": 8,
-    "posted": "Nov 14, 2016 4:48:04 PM"
-  },
-  {
-    "id": "12950449",
-    "timestamp": "Nov 14, 2016 6:48:03 PM",
-    "topic": "Show HN: Git-brag shows stargazers from important companies",
-    "url": "https://github.com/turbo/git-brag",
-    "votes": 7,
-    "posted": "Nov 14, 2016 4:41:50 PM"
-  },
-  {
-    "id": "12950432",
-    "timestamp": "Nov 14, 2016 4:57:53 PM",
-    "topic": "Donald Trump will now control drone assassinations and mass surveillance",
-    "url": "http://www.salon.com/2016/11/14/donald-trump-will-now-control-drone-assassinations-and-mass-surveillance-still-love-them-democrats/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 4:38:59 PM"
-  },
-  {
-    "id": "12950426",
-    "timestamp": "Nov 14, 2016 4:57:53 PM",
-    "topic": "Commander-In-Chief Donald Trump Will Have Terrifying Powers. Thanks, Obama",
-    "url": "https://theintercept.com/2016/11/11/commander-in-chief-donald-trump-will-have-terrifying-powers-thanks-obama/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 4:38:18 PM"
-  },
-  {
-    "id": "12950353",
-    "timestamp": "Nov 14, 2016 4:37:51 PM",
-    "topic": "Miles Deep – Open Source Porn Video Classifier/Editor with Deep Learning",
-    "url": "https://github.com/ryanjay0/miles-deep",
-    "votes": 8,
-    "posted": "Nov 14, 2016 4:27:33 PM"
-  },
-  {
-    "id": "12950343",
-    "timestamp": "Nov 14, 2016 4:57:53 PM",
-    "topic": "Blacknurse – low bandwidth ICMP firewall attack",
-    "url": "http://blacknurse.dk/",
-    "votes": 7,
-    "posted": "Nov 14, 2016 4:26:40 PM"
-  },
-  {
-    "id": "12950276",
-    "timestamp": "Nov 14, 2016 6:18:01 PM",
-    "topic": "Andreessen Horowitz, Point72 Invest in Crowd-Sourced Quantopian",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-14/andreessen-horowitz-point72-invest-in-crowd-sourced-quantopian",
-    "votes": 6,
-    "posted": "Nov 14, 2016 4:18:08 PM"
-  },
-  {
-    "id": "12950227",
-    "timestamp": "Nov 14, 2016 4:17:48 PM",
-    "topic": "Impraise (YC S14) hires Product Manager to enable feedback between coworkers",
-    "url": "http://jobs.impraise.com/o/sr-product-manager",
-    "votes": 1,
-    "posted": "Nov 14, 2016 4:12:25 PM"
-  },
-  {
-    "id": "12950146",
-    "timestamp": "Nov 14, 2016 4:57:53 PM",
-    "topic": "The Perfect Bug Report – Debugging with Elm 0.18",
-    "url": "http://elm-lang.org/blog/the-perfect-bug-report",
-    "votes": 25,
-    "posted": "Nov 14, 2016 3:57:14 PM"
-  },
-  {
-    "id": "12950138",
-    "timestamp": "Nov 14, 2016 4:37:51 PM",
-    "topic": "Creating a Personal Masterplan",
-    "url": "https://joshkaufman.net/creating-a-personal-masterplan/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 3:56:43 PM"
   }
 ];
