@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13002125",
+    "timestamp": "Nov 21, 2016 1:23:27 AM",
+    "topic": "Run a profitable operation – Craft Coffee hiring ops associate",
+    "url": "http://craftcoffee.applytojob.com/apply/RDvbKv/Operations-Associate",
+    "votes": 1,
+    "posted": "Nov 21, 2016 1:15:15 AM"
+  },
+  {
+    "id": "13002004",
+    "timestamp": "Nov 21, 2016 1:03:26 AM",
+    "topic": "Trump Has Called Climate Change a Chinese Hoax. Beijing Says It Is Anything But",
+    "url": "http://www.nytimes.com/2016/11/19/world/asia/china-trump-climate-change.html?ribbon-ad-idx\u003d2\u0026rref\u003dscience\u0026module\u003dRibbon\u0026version\u003dcontext\u0026region\u003dHeader\u0026action\u003dclick\u0026contentCollection\u003dScience\u0026pgtype\u003darticle",
+    "votes": 24,
+    "posted": "Nov 21, 2016 12:51:01 AM"
+  },
+  {
+    "id": "13001994",
+    "timestamp": "Nov 21, 2016 1:43:29 AM",
+    "topic": "Yiwu: The Chinese city where Christmas is made and sold",
+    "url": "http://www.bbc.com/future/story/20141218-the-hidden-home-of-christmas",
+    "votes": 3,
+    "posted": "Nov 21, 2016 12:49:25 AM"
+  },
+  {
+    "id": "13001987",
+    "timestamp": "Nov 21, 2016 1:43:29 AM",
+    "topic": "Elixir for Rubyists: Basics of Pattern Matching and Recursion",
+    "url": "https://medium.com/@harry_dev/elixir-for-rubyists-pattern-matching-and-recursion-37a4416ba9c#.55uxpebmt",
+    "votes": 4,
+    "posted": "Nov 21, 2016 12:47:30 AM"
+  },
+  {
+    "id": "13001806",
+    "timestamp": "Nov 21, 2016 1:43:30 AM",
+    "topic": "Scientists have figured out the reason London fog killed 12,000 people",
+    "url": "http://www.sciencealert.com/researchers-have-finally-figured-out-what-caused-london-s-deadly-fog",
+    "votes": 5,
+    "posted": "Nov 21, 2016 12:08:58 AM"
+  },
+  {
     "id": "13001714",
     "timestamp": "Nov 21, 2016 12:33:24 AM",
     "topic": "Giant Corporations Are Hoarding the World’s AI Talent",
@@ -9029,37 +9069,5 @@ var newsArray = [
     "url": "http://seclist.us/lightbulb-is-an-open-source-python-framework-for-auditing-web-applications-firewalls.html",
     "votes": 3,
     "posted": "Nov 14, 2016 1:53:57 AM"
-  },
-  {
-    "id": "12946673",
-    "timestamp": "Nov 14, 2016 2:16:34 AM",
-    "topic": "How can I avoid my MacBook Pro giving me minor shocks?",
-    "url": "http://apple.stackexchange.com/questions/32417/how-can-i-avoid-my-macbook-pro-giving-me-minor-shocks",
-    "votes": 14,
-    "posted": "Nov 14, 2016 1:35:08 AM"
-  },
-  {
-    "id": "12946652",
-    "timestamp": "Nov 14, 2016 2:36:35 AM",
-    "topic": "India raises withdrawal limit as rupee anger mounts",
-    "url": "http://www.bbc.com/news/business-37969604",
-    "votes": 6,
-    "posted": "Nov 14, 2016 1:28:27 AM"
-  },
-  {
-    "id": "12946603",
-    "timestamp": "Nov 14, 2016 2:06:33 AM",
-    "topic": "Why Medical Bills Are Killing Us (2013) [pdf]",
-    "url": "http://www.uta.edu/faculty/story/2311/Misc/2013,2,26,MedicalCostsDemandAndGreed.pdf",
-    "votes": 5,
-    "posted": "Nov 14, 2016 1:13:48 AM"
-  },
-  {
-    "id": "12946518",
-    "timestamp": "Nov 14, 2016 1:16:29 AM",
-    "topic": "Building Win16 GUI Applications in C",
-    "url": "http://www.transmissionzero.co.uk/computing/win16-apps-in-c/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 12:54:25 AM"
   }
 ];
