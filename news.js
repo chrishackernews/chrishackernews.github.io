@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13005321",
+    "timestamp": "Nov 21, 2016 2:54:36 PM",
+    "topic": "EasyPost is hiring more developers",
+    "url": "https://www.easypost.com/jobs",
+    "votes": 1,
+    "posted": "Nov 21, 2016 2:53:04 PM"
+  },
+  {
+    "id": "13005242",
+    "timestamp": "Nov 21, 2016 2:54:36 PM",
+    "topic": "Oracle acquires Dyn",
+    "url": "http://www.streetinsider.com/Corporate+News/Oracle+(ORCL)+Enters+Agreement+to+Acquire+DNS+Provider+Dyn/12270020.html",
+    "votes": 6,
+    "posted": "Nov 21, 2016 2:38:54 PM"
+  },
+  {
+    "id": "13005172",
+    "timestamp": "Nov 21, 2016 2:54:36 PM",
+    "topic": "Oracle buys Dyn",
+    "url": "https://www.oracle.com/corporate/acquisitions/dyn/index.html",
+    "votes": 26,
+    "posted": "Nov 21, 2016 2:27:24 PM"
+  },
+  {
     "id": "13004856",
     "timestamp": "Nov 21, 2016 1:44:29 PM",
     "topic": "Lua: A Guide for Redis Users",
@@ -14,6 +38,14 @@ var newsArray = [
     "url": "http://www.bbc.com/news/health-38026393",
     "votes": 8,
     "posted": "Nov 21, 2016 1:32:59 PM"
+  },
+  {
+    "id": "13004833",
+    "timestamp": "Nov 21, 2016 2:14:32 PM",
+    "topic": "API Discovery: Can we do better?",
+    "url": "https://blog.apis.guru/api-discovery-can-we-do-better-2336706d5407",
+    "votes": 3,
+    "posted": "Nov 21, 2016 1:28:35 PM"
   },
   {
     "id": "13004790",
@@ -56,6 +88,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 12:34:24 PM"
   },
   {
+    "id": "13004531",
+    "timestamp": "Nov 21, 2016 2:34:34 PM",
+    "topic": "Openfood.ch – open access info about barcoded food products sold in Switzerland",
+    "url": "https://www.openfood.ch/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 12:11:25 PM"
+  },
+  {
     "id": "13004484",
     "timestamp": "Nov 21, 2016 12:24:23 PM",
     "topic": "Crisis and Openings: Introduction to Marxism – Richard D Wolff (2012)",
@@ -78,6 +118,14 @@ var newsArray = [
     "url": "http://feederio.com/book/12/analyzing-big-data-with-aws",
     "votes": 3,
     "posted": "Nov 21, 2016 11:19:55 AM"
+  },
+  {
+    "id": "13004251",
+    "timestamp": "Nov 21, 2016 2:44:35 PM",
+    "topic": "These are the most innovative countries in the world",
+    "url": "https://www.weforum.org/agenda/2016/11/the-most-innovative-countries-in-the-world/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 10:50:30 AM"
   },
   {
     "id": "13004221",
@@ -166,6 +214,14 @@ var newsArray = [
     "url": "https://www.kickstarter.com/backing-and-hacking/ecs-and-vault-shhhhh-i-have-a-secret",
     "votes": 4,
     "posted": "Nov 21, 2016 8:39:41 AM"
+  },
+  {
+    "id": "13003622",
+    "timestamp": "Nov 21, 2016 2:34:34 PM",
+    "topic": "Assemblers and Loaders (1993) [pdf]",
+    "url": "http://www.davidsalomon.name/assem.advertis/asl.pdf",
+    "votes": 5,
+    "posted": "Nov 21, 2016 7:35:48 AM"
   },
   {
     "id": "13003609",
@@ -573,6 +629,14 @@ var newsArray = [
     "url": "http://cepa.org/reports/winning-the-Information-War",
     "votes": 3,
     "posted": "Nov 20, 2016 9:02:50 PM"
+  },
+  {
+    "id": "13000477",
+    "timestamp": "Nov 21, 2016 2:44:35 PM",
+    "topic": "Show HN: CSV 2 PowerPoint, a seamless way to generate personalized slide decks",
+    "url": "http://slides.vocus.io",
+    "votes": 7,
+    "posted": "Nov 20, 2016 8:02:50 PM"
   },
   {
     "id": "13000445",
@@ -9154,52 +9218,5 @@ var newsArray = [
     "url": "http://blockgeeks.com/guides/what-is-cryptocurrency-everything-you-need-to-know-ultimate-guide/",
     "votes": 7,
     "posted": "Nov 14, 2016 3:17:12 PM"
-  },
-  {
-    "id": "12949735",
-    "timestamp": "Nov 14, 2016 8:48:17 PM",
-    "topic": "Why are we so surprised by the outcome of the 2016 presidential election?",
-    "url": "http://allendowney.blogspot.com/2016/11/why-are-we-so-surprised.html",
-    "votes": 5,
-    "posted": "Nov 14, 2016 2:41:25 PM"
-  },
-  {
-    "id": "12949734",
-    "timestamp": "Nov 14, 2016 5:47:58 PM",
-    "topic": "Ask HN: Self Hosted Google Inbox Alternative?",
-    "votes": 4,
-    "posted": "Nov 14, 2016 2:41:19 PM"
-  },
-  {
-    "id": "12949717",
-    "timestamp": "Nov 15, 2016 2:09:57 PM",
-    "topic": "Show HN: WereSync Clone Linux Drive Incrementally",
-    "url": "https://github.com/DonyorM/weresync",
-    "votes": 5,
-    "posted": "Nov 14, 2016 2:37:37 PM"
-  },
-  {
-    "id": "12949678",
-    "timestamp": "Nov 14, 2016 8:48:16 PM",
-    "topic": "Show HN: Markdown as a Service – Convert Markdown to HTML, or Use in a Frame",
-    "url": "https://stdlib.com/services/stdlib/markdown",
-    "votes": 5,
-    "posted": "Nov 14, 2016 2:29:35 PM"
-  },
-  {
-    "id": "12949510",
-    "timestamp": "Nov 14, 2016 4:07:47 PM",
-    "topic": "Machine Learning explained to my girlfriend, Part 2",
-    "url": "https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html",
-    "votes": 3,
-    "posted": "Nov 14, 2016 2:02:00 PM"
-  },
-  {
-    "id": "12949479",
-    "timestamp": "Nov 14, 2016 2:27:39 PM",
-    "topic": "China, Japan, Russia, and South Korea Plan Renewable Energy Super Grid",
-    "url": "https://cleantechnica.com/2016/09/21/china-japan-russia-south-korea-plan-renewable-energy-super-grid/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 1:55:49 PM"
   }
 ];
