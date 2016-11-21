@@ -1380,6 +1380,14 @@ var newsArray = [
     "posted": "Nov 19, 2016 4:30:48 PM"
   },
   {
+    "id": "12993803",
+    "timestamp": "Nov 21, 2016 11:24:18 AM",
+    "topic": "The IRS Believes All Bitcoin Users Are Tax Cheats",
+    "url": "https://www.cato.org/blog",
+    "votes": 6,
+    "posted": "Nov 19, 2016 4:15:50 PM"
+  },
+  {
     "id": "12993759",
     "timestamp": "Nov 19, 2016 5:20:29 PM",
     "topic": "Your Startup Is About to Fail. Here Are 20 Reasons Why:",
@@ -9121,36 +9129,5 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?utm_content\u003dbuffer796ee\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter.com\u0026utm_campaign\u003dbuffer",
     "votes": 3,
     "posted": "Nov 14, 2016 11:59:33 AM"
-  },
-  {
-    "id": "12948890",
-    "timestamp": "Nov 14, 2016 3:47:46 PM",
-    "topic": "Big Tech Companies Pounce as the Allure of Startups Fades",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-14/big-tech-companies-pounce-as-the-allure-of-startups-fades",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:49:37 AM"
-  },
-  {
-    "id": "12948861",
-    "timestamp": "Nov 14, 2016 1:27:34 PM",
-    "topic": "Photographer Tracks Down People He Snapped in His Hometown Almost 40 Years Ago",
-    "url": "http://designyoutrust.com/2016/11/photographer-tracks-down-people-he-snapped-in-his-hometown-almost-40-years-ago-to-recreate-the-remarkable-images/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 11:43:35 AM"
-  },
-  {
-    "id": "12948776",
-    "timestamp": "Nov 16, 2016 6:33:22 PM",
-    "topic": "Ask HN: Open Source Project for Udemy/Coursera Functionality",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:26:59 AM"
-  },
-  {
-    "id": "12948674",
-    "timestamp": "Nov 14, 2016 11:07:23 AM",
-    "topic": "Show HN: Secrets 2 – Simple, secure password manager for Mac and iOS",
-    "url": "https://outercorner.com/secrets/?utm_source\u003dhn",
-    "votes": 10,
-    "posted": "Nov 14, 2016 10:57:54 AM"
   }
 ];
