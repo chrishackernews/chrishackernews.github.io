@@ -8,12 +8,28 @@ var newsArray = [
     "posted": "Nov 21, 2016 3:31:35 AM"
   },
   {
+    "id": "13002630",
+    "timestamp": "Nov 21, 2016 4:03:41 AM",
+    "topic": "How 196 lines of C code won an Academy Award",
+    "url": "http://cims.nyu.edu/~perlin/doc/oscar.html#noise",
+    "votes": 7,
+    "posted": "Nov 21, 2016 3:29:20 AM"
+  },
+  {
     "id": "13002598",
     "timestamp": "Nov 21, 2016 3:53:40 AM",
     "topic": "Why Native Apps Really Are Doomed: Native Apps Are Doomed Pt 2",
     "url": "https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9",
     "votes": 4,
     "posted": "Nov 21, 2016 3:22:41 AM"
+  },
+  {
+    "id": "13002596",
+    "timestamp": "Nov 21, 2016 4:13:42 AM",
+    "topic": "U.S. Citizens Now Hold About $1.3 Trillion in Student Loan Debt",
+    "url": "http://financeography.com/us-citizens-hold-about-13-trillion-student-loan-debt/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 3:22:37 AM"
   },
   {
     "id": "13002588",
@@ -102,6 +118,14 @@ var newsArray = [
     "url": "http://welcome.linode.com/pricing-comparison/?r\u003d6b44fd00604f7059c77db8cb6e821a8c91fa5f8b",
     "votes": 5,
     "posted": "Nov 21, 2016 2:45:15 AM"
+  },
+  {
+    "id": "13002369",
+    "timestamp": "Nov 21, 2016 4:13:42 AM",
+    "topic": "Children exploitation via YouTube",
+    "url": "http://thespinoff.co.nz/society/21-11-2016/hello-my-name-is-ally-how-children-are-being-exploited-by-youtube-predators/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 2:17:45 AM"
   },
   {
     "id": "13002342",
@@ -9078,37 +9102,5 @@ var newsArray = [
     "url": "http://www.historytoday.com/oren-falk/barbaric-beauty",
     "votes": 3,
     "posted": "Nov 14, 2016 4:56:11 AM"
-  },
-  {
-    "id": "12947418",
-    "timestamp": "Nov 14, 2016 6:06:54 AM",
-    "topic": "Ghost in the Shell Official Trailer",
-    "url": "https://www.youtube.com/watch?v\u003dG4VmJcZR0Yg",
-    "votes": 3,
-    "posted": "Nov 14, 2016 4:50:20 AM"
-  },
-  {
-    "id": "12947394",
-    "timestamp": "Nov 14, 2016 7:37:02 AM",
-    "topic": "Switzerland Tries to Save Rhone Glacier by Covering It in Blankets",
-    "url": "https://www.wired.com/2016/11/stefan-schlumpf-hidden-landscapes-rhone-glacier/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 4:44:48 AM"
-  },
-  {
-    "id": "12947307",
-    "timestamp": "Nov 14, 2016 8:47:08 AM",
-    "topic": "Teslas in the Trailer Park",
-    "url": "http://www.nytimes.com/2016/11/14/business/mountain-view-california-confronts-housing-crisis.html",
-    "votes": 4,
-    "posted": "Nov 14, 2016 4:25:39 AM"
-  },
-  {
-    "id": "12947213",
-    "timestamp": "Nov 14, 2016 4:56:48 AM",
-    "topic": "Zuck\u0027s response",
-    "url": "https://www.facebook.com/zuck/posts/10103253901916271",
-    "votes": 3,
-    "posted": "Nov 14, 2016 3:58:35 AM"
   }
 ];
