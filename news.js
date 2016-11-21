@@ -88,6 +88,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 3:10:31 AM"
   },
   {
+    "id": "13002543",
+    "timestamp": "Nov 21, 2016 6:03:52 AM",
+    "topic": "Washington pot sales surpass $200M in one quarter",
+    "url": "http://www.king5.com/news/local/pot-sales-surpass-200m-in-washington/354247564",
+    "votes": 5,
+    "posted": "Nov 21, 2016 3:10:22 AM"
+  },
+  {
     "id": "13002530",
     "timestamp": "Nov 21, 2016 3:53:40 AM",
     "topic": "Kafka: An End or a Beginning?",
@@ -3158,6 +3166,14 @@ var newsArray = [
     "url": "https://www.engadget.com/2016/11/17/stephen-hawking-warns-humans-may-have-only-1-000-years-left-on-e/",
     "votes": 4,
     "posted": "Nov 18, 2016 5:44:01 AM"
+  },
+  {
+    "id": "12984404",
+    "timestamp": "Nov 21, 2016 6:23:53 AM",
+    "topic": "Show HN: Reverse Engineer your app online to see API tokens and secrets",
+    "url": "https://android.fallible.co",
+    "votes": 4,
+    "posted": "Nov 18, 2016 5:39:44 AM"
   },
   {
     "id": "12984383",
@@ -9062,21 +9078,5 @@ var newsArray = [
     "url": "https://jakebian.github.io/quiver/",
     "votes": 3,
     "posted": "Nov 14, 2016 6:58:30 AM"
-  },
-  {
-    "id": "12947792",
-    "timestamp": "Nov 14, 2016 7:37:02 AM",
-    "topic": "Fun Linux commands",
-    "url": "http://www.binarytides.com/linux-fun-commands/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 6:46:20 AM"
-  },
-  {
-    "id": "12947739",
-    "timestamp": "Nov 14, 2016 7:06:59 AM",
-    "topic": "You Don’t Need a Master Plan – You Just Need to Start",
-    "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#.n2c6xn1hg",
-    "votes": 4,
-    "posted": "Nov 14, 2016 6:27:30 AM"
   }
 ];
