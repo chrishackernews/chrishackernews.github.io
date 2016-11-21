@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13006555",
+    "timestamp": "Nov 21, 2016 5:44:52 PM",
+    "topic": "What I learned from spending 3 months applying to jobs after a coding bootcamp",
+    "url": "https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.uwwwin7a8",
+    "votes": 3,
+    "posted": "Nov 21, 2016 5:22:37 PM"
+  },
+  {
+    "id": "13006459",
+    "timestamp": "Nov 21, 2016 5:24:50 PM",
+    "topic": "Swift and the Legacy of Functional Programming",
+    "url": "https://realm.io/news/tryswift-rob-napier-swift-legacy-functional-programming/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 5:09:08 PM"
+  },
+  {
+    "id": "13006394",
+    "timestamp": "Nov 21, 2016 5:54:53 PM",
+    "topic": "DDOS Attacks: Four Best Practices for Prevention and Response",
+    "url": "https://insights.sei.cmu.edu/sei_blog/2016/11/distributed-denial-of-service-attacks-four-best-practices-for-prevention-and-response.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 5:02:05 PM"
+  },
+  {
     "id": "13005792",
     "timestamp": "Nov 21, 2016 4:34:46 PM",
     "topic": "Show HN: Publish a Markdown website in 5 minutes",
@@ -16,12 +40,28 @@ var newsArray = [
     "posted": "Nov 21, 2016 3:52:58 PM"
   },
   {
+    "id": "13005637",
+    "timestamp": "Nov 21, 2016 5:24:50 PM",
+    "topic": "Google’s DeepMind AI can lip-read TV shows better than a pro",
+    "url": "https://www.newscientist.com/article/2113299-googles-deepmind-ai-can-lip-read-tv-shows-better-than-a-pro",
+    "votes": 7,
+    "posted": "Nov 21, 2016 3:34:22 PM"
+  },
+  {
     "id": "13005619",
     "timestamp": "Nov 21, 2016 3:54:44 PM",
     "topic": "Skip the Soylent, Make a Meal Instead",
     "url": "http://abraintrust.com/strive-to-make-food-more-difficult/",
     "votes": 12,
     "posted": "Nov 21, 2016 3:32:00 PM"
+  },
+  {
+    "id": "13005508",
+    "timestamp": "Nov 21, 2016 5:04:49 PM",
+    "topic": "The Balanced Ternary Machines of Soviet Russia",
+    "url": "https://dev.to/buntine/the-balanced-ternary-machines-of-soviet-russia",
+    "votes": 3,
+    "posted": "Nov 21, 2016 3:17:57 PM"
   },
   {
     "id": "13005484",
@@ -592,6 +632,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 12:47:30 AM"
   },
   {
+    "id": "13001960",
+    "timestamp": "Nov 21, 2016 5:04:49 PM",
+    "topic": "The Influencing Machine (2004)",
+    "url": "http://cabinetmagazine.org/issues/14/turner.php",
+    "votes": 3,
+    "posted": "Nov 21, 2016 12:42:23 AM"
+  },
+  {
     "id": "13001806",
     "timestamp": "Nov 21, 2016 1:43:30 AM",
     "topic": "Scientists have figured out the reason London fog killed 12,000 people",
@@ -614,6 +662,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/giant-corporations-hoarding-worlds-ai-talent/?utm_content\u003dbufferd5ce6\u0026utm_medium\u003dsocial\u0026utm_source\u003dlinkedin.com\u0026utm_campaign\u003dbuffer",
     "votes": 6,
     "posted": "Nov 20, 2016 11:40:13 PM"
+  },
+  {
+    "id": "13001677",
+    "timestamp": "Nov 21, 2016 5:34:51 PM",
+    "topic": "New Zealand\u0027s Tectonic Dragon Awakens",
+    "url": "http://www.newyorker.com/tech/elements/new-zealands-tectonic-dragon-awakens",
+    "votes": 3,
+    "posted": "Nov 20, 2016 11:30:22 PM"
   },
   {
     "id": "13001641",
@@ -9102,59 +9158,5 @@ var newsArray = [
     "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
     "votes": 3,
     "posted": "Nov 14, 2016 5:58:28 PM"
-  },
-  {
-    "id": "12951109",
-    "timestamp": "Nov 14, 2016 10:58:31 PM",
-    "topic": "Ask HN: Has it become harder to rank on the front page of HN?",
-    "votes": 5,
-    "posted": "Nov 14, 2016 5:52:26 PM"
-  },
-  {
-    "id": "12951102",
-    "timestamp": "Nov 14, 2016 6:08:00 PM",
-    "topic": "So You\u0027ve Been Paged: A Guide to Incident Response",
-    "url": "http://blog.scalyr.com/2016/09/so-youve-been-paged/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 5:51:20 PM"
-  },
-  {
-    "id": "12950904",
-    "timestamp": "Nov 14, 2016 5:57:59 PM",
-    "topic": "British NHS DDOS attacks itself via email sent to 1.2M staff",
-    "url": "http://www.telegraph.co.uk/news/2016/11/14/nhs-it-blunder-sees-system-clogged-after-email-sent-to-12-millio/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 5:32:09 PM"
-  },
-  {
-    "id": "12950874",
-    "timestamp": "Nov 14, 2016 6:08:00 PM",
-    "topic": "Ask HN: If you were to build a CRM today what would your stack be?",
-    "votes": 6,
-    "posted": "Nov 14, 2016 5:29:36 PM"
-  },
-  {
-    "id": "12950830",
-    "timestamp": "Nov 14, 2016 5:37:57 PM",
-    "topic": "The NHS\u0027s 1.2M employees are trapped in a \u0027reply-all\u0027 email hell",
-    "url": "http://uk.businessinsider.com/reply-all-email-chain-1-2-million-nhs-employees-2016-11?r\u003dUS\u0026IR\u003dT",
-    "votes": 4,
-    "posted": "Nov 14, 2016 5:25:33 PM"
-  },
-  {
-    "id": "12950781",
-    "timestamp": "Nov 14, 2016 6:58:04 PM",
-    "topic": "This Smart Watch Will Charge Itself Using Heat from Your Skin",
-    "url": "http://spectrum.ieee.org/view-from-the-valley/consumer-electronics/gadgets/this-smart-watch-will-charge-itself-using-the-heat-of-your-skin",
-    "votes": 5,
-    "posted": "Nov 14, 2016 5:20:43 PM"
-  },
-  {
-    "id": "12950715",
-    "timestamp": "Nov 14, 2016 11:48:35 PM",
-    "topic": "Facebook\u0027s Fight Against Fake News",
-    "url": "https://gizmodo.com/facebooks-fight-against-fake-news-was-undercut-by-fear-1788808204",
-    "votes": 7,
-    "posted": "Nov 14, 2016 5:13:38 PM"
   }
 ];
