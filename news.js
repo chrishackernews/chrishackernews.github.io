@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "13004611",
+    "timestamp": "Nov 21, 2016 12:44:24 PM",
+    "topic": "NET CoreCLR is now building on Linux/armhf",
+    "url": "https://github.com/dotnet/coreclr/issues/3977#issuecomment-260608276",
+    "votes": 3,
+    "posted": "Nov 21, 2016 12:35:46 PM"
+  },
+  {
+    "id": "13004484",
+    "timestamp": "Nov 21, 2016 12:24:23 PM",
+    "topic": "Crisis and Openings: Introduction to Marxism – Richard D Wolff (2012)",
+    "url": "https://www.youtube.com/watch?v\u003dT9Whccunka4",
+    "votes": 3,
+    "posted": "Nov 21, 2016 11:55:06 AM"
+  },
+  {
+    "id": "13004369",
+    "timestamp": "Nov 21, 2016 12:14:22 PM",
+    "topic": "Android user locked out of Google after moving cities",
+    "url": "https://www.reddit.com/r/Android/comments/5dif8j/psa_google_can_lock_your_account_forcing_you_to/?st\u003divrx9yoo\u0026sh\u003d5afe2044",
+    "votes": 6,
+    "posted": "Nov 21, 2016 11:21:40 AM"
+  },
+  {
+    "id": "13004359",
+    "timestamp": "Nov 21, 2016 12:24:23 PM",
+    "topic": "Two Uses of Amazon Web Services to Process Big Data",
+    "url": "http://feederio.com/book/12/analyzing-big-data-with-aws",
+    "votes": 3,
+    "posted": "Nov 21, 2016 11:19:55 AM"
+  },
+  {
+    "id": "13004211",
+    "timestamp": "Nov 21, 2016 12:24:23 PM",
+    "topic": "List of spacecraft in the Culture series",
+    "url": "https://en.wikipedia.org/wiki/List_of_spacecraft_in_the_Culture_series",
+    "votes": 7,
+    "posted": "Nov 21, 2016 10:40:12 AM"
+  },
+  {
+    "id": "13004183",
+    "timestamp": "Nov 21, 2016 12:14:22 PM",
+    "topic": "Remote work: 6 months later",
+    "url": "https://tailordev.fr/blog/2016/11/18/remote-work-6-months-later/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 10:30:32 AM"
+  },
+  {
+    "id": "13004103",
+    "timestamp": "Nov 21, 2016 12:24:23 PM",
+    "topic": "Medallion fund: a remarkably successful quant trading firm built by scientists",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-21/how-renaissance-s-medallion-fund-became-finance-s-blackest-box",
+    "votes": 5,
+    "posted": "Nov 21, 2016 10:11:11 AM"
+  },
+  {
+    "id": "13004073",
+    "timestamp": "Nov 21, 2016 12:14:22 PM",
+    "topic": "Facebook\u0027s Zuckerberg discloses steps to fight fake news",
+    "url": "http://www.reuters.com/article/us-usa-election-facebook-idUSKBN13E0QN",
+    "votes": 5,
+    "posted": "Nov 21, 2016 10:00:17 AM"
+  },
+  {
     "id": "13003896",
     "timestamp": "Nov 21, 2016 9:14:09 AM",
     "topic": "Show HN: Generate Google Slides from markdown",
@@ -9097,37 +9161,5 @@ var newsArray = [
     "url": "http://www.independent.co.uk/news/business/news/donald-trump-china-iphone-cars-cut-trade-war-threat-us-auto-industry-a7415846.html",
     "votes": 4,
     "posted": "Nov 14, 2016 1:03:33 PM"
-  },
-  {
-    "id": "12949181",
-    "timestamp": "Nov 14, 2016 2:17:38 PM",
-    "topic": "Practical Cryptography",
-    "url": "http://practicalcryptography.com/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 12:51:00 PM"
-  },
-  {
-    "id": "12949154",
-    "timestamp": "Nov 14, 2016 12:57:31 PM",
-    "topic": "Kill the newsletter: Convert newsletters into RSS feeds",
-    "url": "https://www.kill-the-newsletter.com/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 12:45:42 PM"
-  },
-  {
-    "id": "12949114",
-    "timestamp": "Nov 14, 2016 12:47:31 PM",
-    "topic": "I have toyota corola",
-    "url": "https://daniel.haxx.se/blog/2016/11/14/i-have-toyota-corola/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 12:38:19 PM"
-  },
-  {
-    "id": "12948938",
-    "timestamp": "Nov 15, 2016 3:49:06 AM",
-    "topic": "Ctrl+Z: Silicon Valley Leaders U-turn on Donald Trump",
-    "url": "https://www.theguardian.com/technology/2016/nov/11/silicon-valley-donald-trump-critics-tech-reactions?utm_content\u003dbuffer796ee\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter.com\u0026utm_campaign\u003dbuffer",
-    "votes": 3,
-    "posted": "Nov 14, 2016 11:59:33 AM"
   }
 ];
