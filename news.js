@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "13004856",
+    "timestamp": "Nov 21, 2016 1:44:29 PM",
+    "topic": "Lua: A Guide for Redis Users",
+    "url": "https://www.redisgreen.net/blog/intro-to-lua-for-redis-programmers/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 1:33:42 PM"
+  },
+  {
+    "id": "13004851",
+    "timestamp": "Nov 21, 2016 1:54:31 PM",
+    "topic": "The all sci-fi inventions that became reality",
+    "url": "http://www.bbc.com/news/health-38026393",
+    "votes": 8,
+    "posted": "Nov 21, 2016 1:32:59 PM"
+  },
+  {
+    "id": "13004790",
+    "timestamp": "Nov 21, 2016 1:34:29 PM",
+    "topic": "Interactive visualization by Google about fair machine learning",
+    "url": "http://research.google.com/bigpicture/attacking-discrimination-in-ml/",
+    "votes": 10,
+    "posted": "Nov 21, 2016 1:19:37 PM"
+  },
+  {
+    "id": "13004762",
+    "timestamp": "Nov 21, 2016 1:44:30 PM",
+    "topic": "ɢoogle.com isn’t the same as Google.com",
+    "url": "http://thenextweb.com/google/2016/11/21/google-isnt-google/",
+    "votes": 11,
+    "posted": "Nov 21, 2016 1:13:55 PM"
+  },
+  {
+    "id": "13004621",
+    "timestamp": "Nov 21, 2016 1:14:27 PM",
+    "topic": "Show HN: TB-303 Synth, Drum Machine and Sequencer in Web Audio",
+    "url": "http://www.errozero.co.uk/acid-machine/",
+    "votes": 6,
+    "posted": "Nov 21, 2016 12:39:03 PM"
+  },
+  {
     "id": "13004611",
     "timestamp": "Nov 21, 2016 12:44:24 PM",
     "topic": "NET CoreCLR is now building on Linux/armhf",
     "url": "https://github.com/dotnet/coreclr/issues/3977#issuecomment-260608276",
     "votes": 3,
     "posted": "Nov 21, 2016 12:35:46 PM"
+  },
+  {
+    "id": "13004604",
+    "timestamp": "Nov 21, 2016 1:14:27 PM",
+    "topic": "Ruby 2.3.3 released",
+    "url": "https://www.ruby-lang.org/en/news/2016/11/21/ruby-2-3-3-released/",
+    "votes": 6,
+    "posted": "Nov 21, 2016 12:34:24 PM"
   },
   {
     "id": "13004484",
@@ -32,6 +80,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 11:19:55 AM"
   },
   {
+    "id": "13004221",
+    "timestamp": "Nov 21, 2016 1:24:28 PM",
+    "topic": "Ad blockers are part of the problem",
+    "url": "https://www.troyhunt.com/ad-blockers-are-part-of-the-problem/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 10:41:08 AM"
+  },
+  {
     "id": "13004211",
     "timestamp": "Nov 21, 2016 12:24:23 PM",
     "topic": "List of spacecraft in the Culture series",
@@ -46,6 +102,14 @@ var newsArray = [
     "url": "https://tailordev.fr/blog/2016/11/18/remote-work-6-months-later/",
     "votes": 4,
     "posted": "Nov 21, 2016 10:30:32 AM"
+  },
+  {
+    "id": "13004128",
+    "timestamp": "Nov 21, 2016 1:34:29 PM",
+    "topic": "Passports Were a “Temporary” War Measure",
+    "url": "https://fee.org/articles/passports-were-a-temporary-war-measure",
+    "votes": 5,
+    "posted": "Nov 21, 2016 10:17:33 AM"
   },
   {
     "id": "13004103",
@@ -9137,29 +9201,5 @@ var newsArray = [
     "url": "https://cleantechnica.com/2016/09/21/china-japan-russia-south-korea-plan-renewable-energy-super-grid/",
     "votes": 5,
     "posted": "Nov 14, 2016 1:55:49 PM"
-  },
-  {
-    "id": "12949469",
-    "timestamp": "Nov 14, 2016 2:47:41 PM",
-    "topic": "Making Time for Side Projects",
-    "url": "https://medium.com/@bgilham/making-time-for-side-projects-22fbee546b45#.4ncedu481",
-    "votes": 4,
-    "posted": "Nov 14, 2016 1:54:11 PM"
-  },
-  {
-    "id": "12949366",
-    "timestamp": "Nov 14, 2016 2:07:37 PM",
-    "topic": "Siemens buys mentor graphics",
-    "url": "http://www.reuters.com/article/us-mentor-graphics-m-a-siemens-idUSKBN1390Q4",
-    "votes": 5,
-    "posted": "Nov 14, 2016 1:30:38 PM"
-  },
-  {
-    "id": "12949242",
-    "timestamp": "Nov 14, 2016 2:07:37 PM",
-    "topic": "China threatens to cut iPhone sales, replace Boeing if Trump starts a trade war",
-    "url": "http://www.independent.co.uk/news/business/news/donald-trump-china-iphone-cars-cut-trade-war-threat-us-auto-industry-a7415846.html",
-    "votes": 4,
-    "posted": "Nov 14, 2016 1:03:33 PM"
   }
 ];
