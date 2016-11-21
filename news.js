@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13003057",
+    "timestamp": "Nov 21, 2016 5:13:48 AM",
+    "topic": "What is “:-!!” in C code?",
+    "url": "http://stackoverflow.com/questions/9229601/what-is-in-c-code",
+    "votes": 3,
+    "posted": "Nov 21, 2016 4:59:18 AM"
+  },
+  {
+    "id": "13002881",
+    "timestamp": "Nov 21, 2016 5:43:50 AM",
+    "topic": "How did Andrew Ng become so good at Machine Learning?",
+    "url": "https://www.quora.com/How-did-Andrew-Ng-become-so-good-at-Machine-Learning?share\u003d1",
+    "votes": 4,
+    "posted": "Nov 21, 2016 4:19:51 AM"
+  },
+  {
     "id": "13002642",
     "timestamp": "Nov 21, 2016 3:53:40 AM",
     "topic": "Programmers are discussing unethical and illegal things they’ve been asked to do",
@@ -9062,45 +9078,5 @@ var newsArray = [
     "url": "https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#.n2c6xn1hg",
     "votes": 4,
     "posted": "Nov 14, 2016 6:27:30 AM"
-  },
-  {
-    "id": "12947596",
-    "timestamp": "Nov 14, 2016 7:17:00 AM",
-    "topic": "A list of modern C++ features",
-    "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
-    "votes": 5,
-    "posted": "Nov 14, 2016 5:33:36 AM"
-  },
-  {
-    "id": "12947581",
-    "timestamp": "Nov 14, 2016 5:46:53 AM",
-    "topic": "One year later [after quitting the tech industry]",
-    "url": "https://eev.ee/blog/2016/06/12/one-year-later/",
-    "votes": 4,
-    "posted": "Nov 14, 2016 5:30:08 AM"
-  },
-  {
-    "id": "12947551",
-    "timestamp": "Nov 14, 2016 5:46:52 AM",
-    "topic": "The man who created a tiny country he can no longer enter",
-    "url": "http://www.bbc.com/news/magazine-37941931?ocid\u003dsocialflow_twitter",
-    "votes": 4,
-    "posted": "Nov 14, 2016 5:23:29 AM"
-  },
-  {
-    "id": "12947497",
-    "timestamp": "Nov 14, 2016 3:07:43 PM",
-    "topic": "New York City\u0027s Graveyard Shift",
-    "url": "http://www.newyorker.com/culture/portfolio/new-york-citys-graveyard-shift",
-    "votes": 3,
-    "posted": "Nov 14, 2016 5:09:26 AM"
-  },
-  {
-    "id": "12947446",
-    "timestamp": "Nov 14, 2016 3:07:42 PM",
-    "topic": "Barbaric Beauty",
-    "url": "http://www.historytoday.com/oren-falk/barbaric-beauty",
-    "votes": 3,
-    "posted": "Nov 14, 2016 4:56:11 AM"
   }
 ];
