@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "13003484",
+    "timestamp": "Nov 21, 2016 7:03:56 AM",
+    "topic": "Symantec to Buy Identity Theft Protection Company LifeLock for $2.3bn",
+    "url": "http://www.wsj.com/articles/symantec-to-buy-identity-theft-protection-company-lifelock-1479692089",
+    "votes": 3,
+    "posted": "Nov 21, 2016 7:01:15 AM"
+  },
+  {
+    "id": "13003415",
+    "timestamp": "Nov 21, 2016 7:13:57 AM",
+    "topic": "The firm that starts work at 9.06am",
+    "url": "http://www.bbc.com/news/business-37998577",
+    "votes": 4,
+    "posted": "Nov 21, 2016 6:40:00 AM"
+  },
+  {
+    "id": "13003370",
+    "timestamp": "Nov 21, 2016 7:03:56 AM",
+    "topic": "The Better Alternative to Small Houses That Nobody Is Talking About",
+    "url": "http://benicetobears.com/2016/11/17/the-better-alternative-to-small-houses-that-nobody-is-talking-about/",
+    "votes": 17,
+    "posted": "Nov 21, 2016 6:25:39 AM"
+  },
+  {
+    "id": "13003345",
+    "timestamp": "Nov 21, 2016 7:03:56 AM",
+    "topic": "Implementing Test Automation in Agile Environments",
+    "url": "http://www.bagtheweb.com/b/0qddaM",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:17:45 AM"
+  },
+  {
+    "id": "13003330",
+    "timestamp": "Nov 21, 2016 7:03:57 AM",
+    "topic": "Obama says he can’t pardon Snowden",
+    "url": "http://arstechnica.com/tech-policy/2016/11/obama-says-he-cant-pardon-snowden/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 6:15:28 AM"
+  },
+  {
+    "id": "13003326",
+    "timestamp": "Nov 21, 2016 7:33:59 AM",
+    "topic": "Obama Advisers Urge Action Against CRISPR Bioterror Threat",
+    "url": "https://www.technologyreview.com/s/602934/obama-advisers-urge-action-against-crispr-bioterror-threat/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:14:24 AM"
+  },
+  {
     "id": "13003057",
     "timestamp": "Nov 21, 2016 5:13:48 AM",
     "topic": "What is “:-!!” in C code?",
@@ -222,6 +270,14 @@ var newsArray = [
     "url": "http://www.sciencealert.com/researchers-have-finally-figured-out-what-caused-london-s-deadly-fog",
     "votes": 5,
     "posted": "Nov 21, 2016 12:08:58 AM"
+  },
+  {
+    "id": "13001753",
+    "timestamp": "Nov 21, 2016 7:43:59 AM",
+    "topic": "Laggy phones and misleading benchmarks",
+    "url": "http://taras.glek.net/post/Laggy-phones-and-misleading-benchmarks/",
+    "votes": 17,
+    "posted": "Nov 20, 2016 11:53:08 PM"
   },
   {
     "id": "13001714",
@@ -9062,21 +9118,5 @@ var newsArray = [
     "url": "https://www.remix.com/jobs",
     "votes": 1,
     "posted": "Nov 14, 2016 8:02:56 AM"
-  },
-  {
-    "id": "12947892",
-    "timestamp": "Nov 14, 2016 11:27:24 AM",
-    "topic": "Stone money (Rai stones)",
-    "url": "https://en.wikipedia.org/wiki/Rai_stones",
-    "votes": 3,
-    "posted": "Nov 14, 2016 7:21:17 AM"
-  },
-  {
-    "id": "12947830",
-    "timestamp": "Nov 14, 2016 7:17:00 AM",
-    "topic": "Show HN: interactive deep convnet visualization for Keras and Tensorflow",
-    "url": "https://jakebian.github.io/quiver/",
-    "votes": 3,
-    "posted": "Nov 14, 2016 6:58:30 AM"
   }
 ];
