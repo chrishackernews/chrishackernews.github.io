@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "13007235",
+    "timestamp": "Nov 21, 2016 6:54:59 PM",
+    "topic": "Homeopathy \u0027treatments\u0027 must be labelled to say they do not work, US gov orders",
+    "url": "http://www.independent.co.uk/news/science/homeopathy-treatments-must-be-labelled-to-say-they-do-not-work-us-government-orders-a7429776.html",
+    "votes": 14,
+    "posted": "Nov 21, 2016 6:40:47 PM"
+  },
+  {
+    "id": "13007234",
+    "timestamp": "Nov 21, 2016 6:54:59 PM",
+    "topic": "Riseup.net fails to update canary; Cert fingerprints deleted without notice",
+    "votes": 7,
+    "posted": "Nov 21, 2016 6:40:32 PM"
+  },
+  {
+    "id": "13006896",
+    "timestamp": "Nov 21, 2016 6:24:56 PM",
+    "topic": "German NSA Committee May Interview Snowden (Der Spiegel)",
+    "url": "https://translate.google.com/translate?hl\u003den\u0026sl\u003dauto\u0026tl\u003den\u0026u\u003dhttp%3A%2F%2Fwww.spiegel.de%2Fpolitik%2Fdeutschland%2Fbundesgerichtshof-nsa-ausschuss-darf-edward-snowden-vorladen-a-1122370.html",
+    "votes": 4,
+    "posted": "Nov 21, 2016 6:00:58 PM"
+  },
+  {
     "id": "13006555",
     "timestamp": "Nov 21, 2016 5:44:52 PM",
     "topic": "What I learned from spending 3 months applying to jobs after a coding bootcamp",
@@ -22,6 +45,22 @@ var newsArray = [
     "url": "https://insights.sei.cmu.edu/sei_blog/2016/11/distributed-denial-of-service-attacks-four-best-practices-for-prevention-and-response.html",
     "votes": 3,
     "posted": "Nov 21, 2016 5:02:05 PM"
+  },
+  {
+    "id": "13006354",
+    "timestamp": "Nov 21, 2016 6:14:56 PM",
+    "topic": "How to Learn Machine Learning, the Self-Starter Way",
+    "url": "https://elitedatascience.com/learn-machine-learning",
+    "votes": 3,
+    "posted": "Nov 21, 2016 4:59:50 PM"
+  },
+  {
+    "id": "13006296",
+    "timestamp": "Nov 21, 2016 6:34:57 PM",
+    "topic": "$15 Production Kubernetes Cluster on DigitalOcean",
+    "url": "https://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/",
+    "votes": 5,
+    "posted": "Nov 21, 2016 4:55:09 PM"
   },
   {
     "id": "13005792",
@@ -807,6 +846,14 @@ var newsArray = [
     "posted": "Nov 20, 2016 7:02:23 PM"
   },
   {
+    "id": "13000111",
+    "timestamp": "Nov 21, 2016 6:44:58 PM",
+    "topic": "OpenBazaar: Truly Free Trade Through Crypto",
+    "url": "http://www.alexkyte.me/2016/11/openbazaar-truly-free-trade-through.html",
+    "votes": 4,
+    "posted": "Nov 20, 2016 6:59:31 PM"
+  },
+  {
     "id": "13000089",
     "timestamp": "Nov 20, 2016 7:22:56 PM",
     "topic": "Second Chinese Firm in a Week Found Hiding Backdoor in Android Devices",
@@ -875,6 +922,14 @@ var newsArray = [
     "topic": "Ask HN: Who is using Docker/rkt containers in production?",
     "votes": 3,
     "posted": "Nov 20, 2016 5:49:29 PM"
+  },
+  {
+    "id": "12999665",
+    "timestamp": "Nov 21, 2016 6:04:55 PM",
+    "topic": "There\u0027s the Wrong Way and Jacques Pépin\u0027s Way (2011)",
+    "url": "http://www.nytimes.com/2011/10/19/dining/jacques-pepin-demonstrates-cooking-techniques.html?_r\u003d0",
+    "votes": 3,
+    "posted": "Nov 20, 2016 5:41:28 PM"
   },
   {
     "id": "12999565",
@@ -9127,36 +9182,5 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/irans-great-wall-is-now-buried-and-forgotten",
     "votes": 4,
     "posted": "Nov 14, 2016 6:55:11 PM"
-  },
-  {
-    "id": "12951720",
-    "timestamp": "Nov 16, 2016 11:22:07 AM",
-    "topic": "Show HN: DIY Kubernetes cluster with x86 stick-pcs",
-    "url": "https://medium.com/@moondev/diy-kubernetes-cluster-with-x86-stick-pcs-b0b6b879f8a7",
-    "votes": 4,
-    "posted": "Nov 14, 2016 6:54:54 PM"
-  },
-  {
-    "id": "12951503",
-    "timestamp": "Nov 14, 2016 7:08:05 PM",
-    "topic": "[0day] [exploit] Compromising a Linux desktop using 6502 opcodes on the NES?",
-    "url": "http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-compromising-linux-desktop.html",
-    "votes": 4,
-    "posted": "Nov 14, 2016 6:30:34 PM"
-  },
-  {
-    "id": "12951488",
-    "timestamp": "Nov 15, 2016 12:08:42 AM",
-    "topic": "Ask HN: How would you choose which language to learn?",
-    "votes": 4,
-    "posted": "Nov 14, 2016 6:29:29 PM"
-  },
-  {
-    "id": "12951175",
-    "timestamp": "Nov 14, 2016 6:48:03 PM",
-    "topic": "The Cognitive Dissonance Cluster Bomb",
-    "url": "http://blog.dilbert.com/post/153080448451/the-cognitive-dissonance-cluster-bomb",
-    "votes": 3,
-    "posted": "Nov 14, 2016 5:58:28 PM"
   }
 ];
