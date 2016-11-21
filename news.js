@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13005619",
+    "timestamp": "Nov 21, 2016 3:54:44 PM",
+    "topic": "Skip the Soylent, Make a Meal Instead",
+    "url": "http://abraintrust.com/strive-to-make-food-more-difficult/",
+    "votes": 12,
+    "posted": "Nov 21, 2016 3:32:00 PM"
+  },
+  {
+    "id": "13005484",
+    "timestamp": "Nov 21, 2016 3:54:44 PM",
+    "topic": "98.01% of sites on Cloudflare now use IPv6",
+    "url": "https://blog.cloudflare.com/98-percent-ipv6/",
+    "votes": 7,
+    "posted": "Nov 21, 2016 3:15:05 PM"
+  },
+  {
+    "id": "13005456",
+    "timestamp": "Nov 21, 2016 3:44:43 PM",
+    "topic": "Is Blockchain Technology Going to Disrupt Our Political System: We Hope So",
+    "url": "http://blockgeeks.com/blockchain-voting/",
+    "votes": 10,
+    "posted": "Nov 21, 2016 3:12:00 PM"
+  },
+  {
     "id": "13005321",
     "timestamp": "Nov 21, 2016 2:54:36 PM",
     "topic": "EasyPost is hiring more developers",
@@ -8,12 +32,28 @@ var newsArray = [
     "posted": "Nov 21, 2016 2:53:04 PM"
   },
   {
+    "id": "13005272",
+    "timestamp": "Nov 21, 2016 3:14:39 PM",
+    "topic": "IRS wants info on all Coinbase users between 2013 and 2015",
+    "url": "http://fortune.com/2016/11/20/irs-bitcoin-tax-evasion-case/",
+    "votes": 6,
+    "posted": "Nov 21, 2016 2:45:10 PM"
+  },
+  {
     "id": "13005242",
     "timestamp": "Nov 21, 2016 2:54:36 PM",
     "topic": "Oracle acquires Dyn",
     "url": "http://www.streetinsider.com/Corporate+News/Oracle+(ORCL)+Enters+Agreement+to+Acquire+DNS+Provider+Dyn/12270020.html",
     "votes": 6,
     "posted": "Nov 21, 2016 2:38:54 PM"
+  },
+  {
+    "id": "13005211",
+    "timestamp": "Nov 21, 2016 3:14:39 PM",
+    "topic": "Apple Abandons Development of Wireless Routers",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-21/apple-said-to-abandon-development-of-wireless-routers-ivs0ssec",
+    "votes": 13,
+    "posted": "Nov 21, 2016 2:32:56 PM"
   },
   {
     "id": "13005172",
@@ -985,6 +1025,14 @@ var newsArray = [
     "url": "https://arxiv.org/abs/1611.01787",
     "votes": 4,
     "posted": "Nov 20, 2016 9:00:29 AM"
+  },
+  {
+    "id": "12997730",
+    "timestamp": "Nov 21, 2016 3:34:42 PM",
+    "topic": "Show HN: Debate Trump\u0027s First 100 days",
+    "url": "https://civate.org/debates/10",
+    "votes": 4,
+    "posted": "Nov 20, 2016 8:12:41 AM"
   },
   {
     "id": "12997476",
@@ -9188,35 +9236,5 @@ var newsArray = [
     "url": "https://joshkaufman.net/creating-a-personal-masterplan/",
     "votes": 5,
     "posted": "Nov 14, 2016 3:56:43 PM"
-  },
-  {
-    "id": "12950070",
-    "timestamp": "Nov 14, 2016 4:37:51 PM",
-    "topic": "Ask HN: Did knowing /learning a not-so-famous language benefited you?",
-    "votes": 7,
-    "posted": "Nov 14, 2016 3:48:00 PM"
-  },
-  {
-    "id": "12949995",
-    "timestamp": "Nov 14, 2016 4:17:48 PM",
-    "topic": "Ask HN: How do you handle the business structure and taxes of side projects?",
-    "votes": 6,
-    "posted": "Nov 14, 2016 3:35:35 PM"
-  },
-  {
-    "id": "12949910",
-    "timestamp": "Nov 14, 2016 3:37:45 PM",
-    "topic": "MacBook Pro with Touch Bar review: a touch of the future",
-    "url": "http://www.theverge.com/2016/11/14/13616404/apple-macbook-pro-touch-bar-review-2016-13-inch-15-inch-laptop",
-    "votes": 6,
-    "posted": "Nov 14, 2016 3:18:37 PM"
-  },
-  {
-    "id": "12949899",
-    "timestamp": "Nov 14, 2016 3:47:46 PM",
-    "topic": "What Is Cryptocurrency: Everything You Need to Know [Ultimate Guide]",
-    "url": "http://blockgeeks.com/guides/what-is-cryptocurrency-everything-you-need-to-know-ultimate-guide/",
-    "votes": 7,
-    "posted": "Nov 14, 2016 3:17:12 PM"
   }
 ];
