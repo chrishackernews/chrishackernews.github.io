@@ -1,11 +1,83 @@
 var newsArray = [
   {
+    "id": "13008509",
+    "timestamp": "Nov 21, 2016 8:55:12 PM",
+    "topic": "Trump Picks Staunch Opponents of Net Neutrality to Oversee FCC",
+    "url": "http://fortune.com/2016/11/21/trump-net-neutrality-fcc/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 8:46:19 PM"
+  },
+  {
+    "id": "13008426",
+    "timestamp": "Nov 21, 2016 8:55:11 PM",
+    "topic": "Windows 10 Cannot Protect Insecure Applications Like EMET Can",
+    "url": "https://insights.sei.cmu.edu/cert/2016/11/windows-10-cannot-protect-insecure-applications-like-emet-can.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 8:35:57 PM"
+  },
+  {
+    "id": "13008315",
+    "timestamp": "Nov 21, 2016 8:45:09 PM",
+    "topic": "Doom on the MacBook Pro Touch Bar [video]",
+    "url": "https://www.youtube.com/watch?v\u003dGD0L46y3IqI",
+    "votes": 10,
+    "posted": "Nov 21, 2016 8:24:08 PM"
+  },
+  {
+    "id": "13008266",
+    "timestamp": "Nov 21, 2016 8:25:07 PM",
+    "topic": "SVG Line Animation for the Uninitiated",
+    "url": "http://www.bitmatica.com/blog/svg-line-animation-for-the-uninitiated/",
+    "votes": 6,
+    "posted": "Nov 21, 2016 8:19:19 PM"
+  },
+  {
+    "id": "13008071",
+    "timestamp": "Nov 21, 2016 8:45:09 PM",
+    "topic": "How an engineer can run for office and get 31% of the vote",
+    "url": "http://blog.sheasilverman.com/2016/11/how-to-run-for-florida-office/",
+    "votes": 11,
+    "posted": "Nov 21, 2016 7:58:32 PM"
+  },
+  {
+    "id": "13008056",
+    "timestamp": "Nov 21, 2016 8:35:08 PM",
+    "topic": "Canada Moves Ahead on Carbon Taxes, Leaving the U.S. Behind",
+    "url": "https://www.technologyreview.com/s/602857/canada-moves-ahead-on-carbon-taxes-leaving-the-us-behind/",
+    "votes": 3,
+    "posted": "Nov 21, 2016 7:57:04 PM"
+  },
+  {
+    "id": "13008001",
+    "timestamp": "Nov 21, 2016 8:15:06 PM",
+    "topic": "Who propagates fake news?",
+    "url": "http://www.ronpaullibertyreport.com/archives/revealed-the-real-fake-news-list",
+    "votes": 5,
+    "posted": "Nov 21, 2016 7:51:37 PM"
+  },
+  {
     "id": "13007891",
     "timestamp": "Nov 21, 2016 7:45:03 PM",
     "topic": "Lever is hiring an engineering manager in SF – Join a 50/50 men and women team",
     "url": "https://www.lever.co/jobs?site\u003dHacker%20News\u0026instance\u003d32\u0026copy\u003dL",
     "votes": 1,
     "posted": "Nov 21, 2016 7:39:21 PM"
+  },
+  {
+    "id": "13007857",
+    "timestamp": "Nov 21, 2016 8:05:05 PM",
+    "topic": "Police use water cannons on Dakota Access protesters in freezing weather",
+    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/21/police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather/",
+    "votes": 7,
+    "posted": "Nov 21, 2016 7:35:38 PM"
+  },
+  {
+    "id": "13007722",
+    "timestamp": "Nov 21, 2016 8:25:07 PM",
+    "topic": "Uber’s New Terms of Use Gives It Unlimited Rights to Sell Customer Data",
+    "url": "https://www.nextbigwhat.com/ubers-new-terms-of-use-gives-it-unlimited-rights-to-sell-customer-data-297/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 7:25:36 PM"
   },
   {
     "id": "13007616",
@@ -71,12 +143,28 @@ var newsArray = [
     "posted": "Nov 21, 2016 6:00:58 PM"
   },
   {
+    "id": "13006746",
+    "timestamp": "Nov 21, 2016 8:25:07 PM",
+    "topic": "Why Did Ancient Italians Bury Thousands of Clay Body Parts?",
+    "url": "http://www.atlasobscura.com/articles/why-did-ancient-italians-bury-thousands-of-clay-body-parts",
+    "votes": 4,
+    "posted": "Nov 21, 2016 5:44:36 PM"
+  },
+  {
     "id": "13006693",
     "timestamp": "Nov 21, 2016 7:55:04 PM",
     "topic": "Why VCs sometimes push companies to burn too fast",
     "url": "https://blog.ycombinator.com/why-vcs-sometimes-push-companies-to-burn-too-fast/",
     "votes": 7,
     "posted": "Nov 21, 2016 5:37:52 PM"
+  },
+  {
+    "id": "13006608",
+    "timestamp": "Nov 21, 2016 8:45:09 PM",
+    "topic": "The Problem with Mechanical Switch Reviews",
+    "url": "https://deskthority.net/photos-f62/the-problem-with-mechanical-switch-reviews-t15133.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 5:27:59 PM"
   },
   {
     "id": "13006555",
@@ -9056,84 +9144,5 @@ var newsArray = [
     "url": "http://webhook.site",
     "votes": 5,
     "posted": "Nov 14, 2016 8:55:18 PM"
-  },
-  {
-    "id": "12952682",
-    "timestamp": "Nov 14, 2016 9:48:22 PM",
-    "topic": "Termbox-Go – a minimalistic Go curses library",
-    "url": "https://github.com/nsf/termbox-go",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:54:10 PM"
-  },
-  {
-    "id": "12952663",
-    "timestamp": "Nov 15, 2016 3:59:07 AM",
-    "topic": "Ask HN: Best things happened to you just because of HN?",
-    "votes": 6,
-    "posted": "Nov 14, 2016 8:51:51 PM"
-  },
-  {
-    "id": "12952646",
-    "timestamp": "Nov 15, 2016 12:08:42 AM",
-    "topic": "The UX Fund: Investing $50k in 10 companies, 10 years later",
-    "url": "https://medium.com/habit-of-introspection/the-ux-fund-investing-50-000-in-10-companies-10-years-later-6fc65bd35e7a#.1udd9ep4b",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:49:20 PM"
-  },
-  {
-    "id": "12952629",
-    "timestamp": "Nov 14, 2016 9:08:18 PM",
-    "topic": "Congress will abandon Trans-Pacific Partnership deal, White House concedes",
-    "url": "https://www.theguardian.com/business/2016/nov/12/tpp-trade-deal-congress-obama",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:47:25 PM"
-  },
-  {
-    "id": "12952606",
-    "timestamp": "Nov 14, 2016 9:08:18 PM",
-    "topic": "Twittering every boolean value",
-    "url": "https://twitter.com/everyboolean",
-    "votes": 3,
-    "posted": "Nov 14, 2016 8:44:16 PM"
-  },
-  {
-    "id": "12952579",
-    "timestamp": "Nov 14, 2016 8:48:16 PM",
-    "topic": "Able Health (W16) is hiring senior engineers to advance healthcare",
-    "url": "http://ablehealth.com/jobs/senior-application-engineer/",
-    "votes": 1,
-    "posted": "Nov 14, 2016 8:40:14 PM"
-  },
-  {
-    "id": "12952573",
-    "timestamp": "Nov 14, 2016 8:48:16 PM",
-    "topic": "How We Broke Democracy",
-    "url": "https://medium.com/@tobiasrose/empathy-to-democracy-b7f04ab57eee",
-    "votes": 3,
-    "posted": "Nov 14, 2016 8:39:21 PM"
-  },
-  {
-    "id": "12952522",
-    "timestamp": "Nov 14, 2016 8:38:14 PM",
-    "topic": "Google’s top news link for ‘final election results’ is a fake news site",
-    "url": "https://www.washingtonpost.com/news/the-fix/wp/2016/11/14/googles-top-news-link-for-final-election-results-goes-to-a-fake-news-site-with-false-numbers/",
-    "votes": 5,
-    "posted": "Nov 14, 2016 8:31:15 PM"
-  },
-  {
-    "id": "12952464",
-    "timestamp": "Nov 14, 2016 9:28:21 PM",
-    "topic": "Numenta Compares HTM Tech to Other Machine Learning Methods in New Paper",
-    "url": "http://www.businesswire.com/news/home/20161114006095/en/Numenta-Brings-Brain-Theory-Machine-Learning%C2%A0Compares-HTM",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:20:33 PM"
-  },
-  {
-    "id": "12952329",
-    "timestamp": "Nov 14, 2016 8:38:14 PM",
-    "topic": "This Water-Jet Cutter Can Slice Through Anything: Steel, Glass, or Steak",
-    "url": "http://spectrum.ieee.org/video/geek-life/tools-toys/this-water-jet-cutter-can-slice-through-anything-steel-glass-or-steak",
-    "votes": 4,
-    "posted": "Nov 14, 2016 8:03:13 PM"
   }
 ];
