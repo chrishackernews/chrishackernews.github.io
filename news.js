@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "13016708",
+    "timestamp": "Nov 22, 2016 8:47:25 PM",
+    "topic": "Machine Learning for Everyday Tasks",
+    "url": "http://blog.mailgun.com/machine-learning-for-everyday-tasks/",
+    "votes": 6,
+    "posted": "Nov 22, 2016 8:20:44 PM"
+  },
+  {
+    "id": "13016704",
+    "timestamp": "Nov 22, 2016 8:47:25 PM",
+    "topic": "How to Improve Your Coding Skills",
+    "url": "https://www.pydanny.com/code-code-code.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:20:11 PM"
+  },
+  {
+    "id": "13016587",
+    "timestamp": "Nov 22, 2016 8:27:23 PM",
+    "topic": "Show HN: Java Bullshifier",
+    "url": "https://takipi.github.io/java-bullshifier/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 8:08:09 PM"
+  },
+  {
+    "id": "13016582",
+    "timestamp": "Nov 22, 2016 8:17:22 PM",
+    "topic": "The future of artificial intelligence, via Skype co-founder",
+    "url": "https://medium.com/@TheAppGuy/skype-co-founder-says-our-biggest-existential-threat-is-artificial-intelligence-1aa9d9a901fd",
+    "votes": 3,
+    "posted": "Nov 22, 2016 8:07:16 PM"
+  },
+  {
+    "id": "13016561",
+    "timestamp": "Nov 22, 2016 8:27:23 PM",
+    "topic": "Venezuela’s Nemesis Is a Hardware Salesman at a Home Depot in Alabama",
+    "url": "http://www.wsj.com/articles/venezuelas-nemesis-is-a-screw-salesman-at-a-home-depot-in-alabama-1479672919?mod\u003dtrending_now_1",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:05:46 PM"
+  },
+  {
+    "id": "13016541",
+    "timestamp": "Nov 22, 2016 8:27:22 PM",
+    "topic": "Fake News",
+    "url": "https://stratechery.com/2016/fake-news/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 8:04:43 PM"
+  },
+  {
     "id": "13016192",
     "timestamp": "Nov 22, 2016 7:27:16 PM",
     "topic": "Next Caller (YC W14) Is Hiring a VP of Marketing",
@@ -14,6 +62,22 @@ var newsArray = [
     "url": "https://tonyarcieri.com/4-fatal-flaws-in-deterministic-password-managers",
     "votes": 3,
     "posted": "Nov 22, 2016 7:18:30 PM"
+  },
+  {
+    "id": "13016104",
+    "timestamp": "Nov 22, 2016 8:27:23 PM",
+    "topic": "The BASIC Issue with Retro Computers",
+    "url": "http://hackaday.com/2016/11/18/the-basic-issue-with-retro-computers/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 7:15:43 PM"
+  },
+  {
+    "id": "13015954",
+    "timestamp": "Nov 22, 2016 8:37:24 PM",
+    "topic": "Pilots Strike at Cargo Carrier Serving DHL, Amazon.com",
+    "url": "http://www.wsj.com/articles/pilots-strike-at-cargo-carrier-serving-dhl-amazon-com-1479821378",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:59:22 PM"
   },
   {
     "id": "13015944",
@@ -848,6 +912,14 @@ var newsArray = [
     "url": "https://preactjs.com",
     "votes": 6,
     "posted": "Nov 22, 2016 1:12:44 AM"
+  },
+  {
+    "id": "13010410",
+    "timestamp": "Nov 22, 2016 8:57:26 PM",
+    "topic": "An Unknown Man",
+    "url": "https://newrepublic.com/article/138068/last-unknown-man",
+    "votes": 5,
+    "posted": "Nov 22, 2016 12:52:50 AM"
   },
   {
     "id": "13010401",
@@ -8778,76 +8850,5 @@ var newsArray = [
     "url": "http://www.citylab.com/navigator/2016/11/san-francisco-noir-film-locations-reefsf-brian-hollins/506993/",
     "votes": 4,
     "posted": "Nov 15, 2016 9:07:24 PM"
-  },
-  {
-    "id": "12961514",
-    "timestamp": "Nov 15, 2016 9:00:36 PM",
-    "topic": "CEO Resigns After Social Media Posts Threatening President-Elect Donald Trump",
-    "url": "http://www.nbcsandiego.com/news/local/Matt-Harrigan-PacketSled-CEO-Trump-Threats-401134605.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 8:47:19 PM"
-  },
-  {
-    "id": "12961513",
-    "timestamp": "Nov 15, 2016 9:40:40 PM",
-    "topic": "Hustle: Bernie Sanders\u0027 texting tool raises $3m",
-    "url": "https://techcrunch.com/2016/11/15/blood-sweat-and-text/",
-    "votes": 11,
-    "posted": "Nov 15, 2016 8:47:17 PM"
-  },
-  {
-    "id": "12961451",
-    "timestamp": "Nov 15, 2016 10:00:47 PM",
-    "topic": "Ask HN: How much hours of People / Meeting time does your day have?",
-    "votes": 3,
-    "posted": "Nov 15, 2016 8:41:48 PM"
-  },
-  {
-    "id": "12961450",
-    "timestamp": "Nov 15, 2016 9:00:36 PM",
-    "topic": "Citus 6.0 – A database designed for multi-tenancy",
-    "url": "https://www.citusdata.com/blog/2016/11/14/introducing-citus-6/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 8:41:43 PM"
-  },
-  {
-    "id": "12961392",
-    "timestamp": "Nov 15, 2016 8:40:34 PM",
-    "topic": "The Post Virtual Reality Sadness",
-    "url": "https://medium.com/desk-of-van-schneider/the-post-virtual-reality-sadness-fb4a1ccacae4",
-    "votes": 3,
-    "posted": "Nov 15, 2016 8:34:14 PM"
-  },
-  {
-    "id": "12961333",
-    "timestamp": "Nov 15, 2016 9:20:38 PM",
-    "topic": "Regex 101",
-    "url": "https://regex101.com/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 8:27:33 PM"
-  },
-  {
-    "id": "12961296",
-    "timestamp": "Nov 15, 2016 9:40:40 PM",
-    "topic": "IronFunctions: language agnostic open-source alternative to AWS Lambda",
-    "url": "https://github.com/iron-io/functions",
-    "votes": 31,
-    "posted": "Nov 15, 2016 8:24:23 PM"
-  },
-  {
-    "id": "12961241",
-    "timestamp": "Nov 15, 2016 8:30:33 PM",
-    "topic": "Bouncing bomb",
-    "url": "https://en.wikipedia.org/wiki/Bouncing_bomb",
-    "votes": 5,
-    "posted": "Nov 15, 2016 8:19:10 PM"
-  },
-  {
-    "id": "12961079",
-    "timestamp": "Nov 15, 2016 9:00:37 PM",
-    "topic": "Machine learning: The deplorable state of deployment",
-    "url": "http://www.computerworld.com/article/3136676/application-development/machine-learning-the-deplorable-state-of-deployment.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 7:59:35 PM"
   }
 ];
