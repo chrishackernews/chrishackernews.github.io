@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13013281",
+    "timestamp": "Nov 22, 2016 12:36:35 PM",
+    "topic": "Microsoft reboots war on sleep",
+    "url": "https://m.signalvnoise.com/microsoft-reboots-war-on-sleep-a90da0396fb5#.u5leefz6f",
+    "votes": 4,
+    "posted": "Nov 22, 2016 12:20:42 PM"
+  },
+  {
+    "id": "13013258",
+    "timestamp": "Nov 22, 2016 12:36:35 PM",
+    "topic": "Spot Welding Robot Only Costs $8 per Hr vs. $25 for Human",
+    "url": "https://www.technologyreview.com/s/602869/manufacturing-jobs-arent-coming-back/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 12:13:13 PM"
+  },
+  {
+    "id": "13012880",
+    "timestamp": "Nov 22, 2016 12:46:36 PM",
+    "topic": "Faust: a language for audio applications and plugins",
+    "url": "https://github.com/grame-cncm/faust",
+    "votes": 4,
+    "posted": "Nov 22, 2016 10:33:46 AM"
+  },
+  {
     "id": "13012837",
     "timestamp": "Nov 22, 2016 10:36:27 AM",
     "topic": "What weather imaging is going to look like with the new GOES-R satellite",
@@ -30,6 +54,14 @@ var newsArray = [
     "url": "http://workplace.stackexchange.com/q/79992/979",
     "votes": 3,
     "posted": "Nov 22, 2016 9:19:40 AM"
+  },
+  {
+    "id": "13012442",
+    "timestamp": "Nov 22, 2016 12:36:35 PM",
+    "topic": "Don\u0027t Give Up on the Guitar. Fender Is Begging You",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-21/don-t-give-up-on-the-guitar-fender-is-begging-you",
+    "votes": 5,
+    "posted": "Nov 22, 2016 8:56:45 AM"
   },
   {
     "id": "13012406",
@@ -8865,61 +8897,5 @@ var newsArray = [
     "url": "http://www.mmds.org/",
     "votes": 6,
     "posted": "Nov 15, 2016 1:00:59 PM"
-  },
-  {
-    "id": "12957306",
-    "timestamp": "Nov 15, 2016 9:30:39 PM",
-    "topic": "ICQ: 20 Years Is No Limit",
-    "url": "https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.e8abfoxci",
-    "votes": 14,
-    "posted": "Nov 15, 2016 12:55:08 PM"
-  },
-  {
-    "id": "12957305",
-    "timestamp": "Nov 15, 2016 7:40:29 PM",
-    "topic": "Show HN: Re-coloring images for the color blind",
-    "url": "https://github.com/sacert/ColorCorrection",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:55:05 PM"
-  },
-  {
-    "id": "12957302",
-    "timestamp": "Nov 15, 2016 5:00:14 PM",
-    "topic": "Interview with Ted Chiang, the scifi mastermind behind \u0027Arrival\u0027",
-    "url": "https://medium.com/learning-for-life/stories-of-ted-chiangs-life-and-others-694cb3c80d13",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:54:43 PM"
-  },
-  {
-    "id": "12957293",
-    "timestamp": "Nov 15, 2016 5:00:13 PM",
-    "topic": "People who divide like an amoeba thought experiment",
-    "url": "https://thoughtexperiments.net/people-who-divide-like-an-amoeba/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 12:52:20 PM"
-  },
-  {
-    "id": "12957206",
-    "timestamp": "Nov 15, 2016 1:19:53 PM",
-    "topic": "Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",
-    "url": "http://mobile.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:29:47 PM"
-  },
-  {
-    "id": "12957133",
-    "timestamp": "Nov 15, 2016 2:19:58 PM",
-    "topic": "Show HN: Water Pouring Problem Simulation",
-    "url": "http://www.fyquah.me/projects/cups/simulate/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 12:13:19 PM"
-  },
-  {
-    "id": "12957116",
-    "timestamp": "Nov 15, 2016 3:50:06 PM",
-    "topic": "What is randomness? (2013)",
-    "url": "http://etceterology.com/blog/2013/4/6/what-is-randomness",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:08:17 PM"
   }
 ];
