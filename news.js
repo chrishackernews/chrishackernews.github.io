@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "13010547",
+    "timestamp": "Nov 22, 2016 1:35:37 AM",
+    "topic": "Secessionists formally launch quest for California\u0027s independence",
+    "url": "http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-california-secession-calexit-htmlstory.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 1:19:34 AM"
+  },
+  {
+    "id": "13010396",
+    "timestamp": "Nov 22, 2016 1:25:36 AM",
+    "topic": "How Eve unifies your entire programming stack",
+    "url": "https://hackernoon.com/how-eve-unifies-your-entire-programming-stack-900ca80c58a7#.ozirublqe",
+    "votes": 8,
+    "posted": "Nov 22, 2016 12:49:52 AM"
+  },
+  {
     "id": "13010337",
     "timestamp": "Nov 22, 2016 12:45:33 AM",
     "topic": "Geofeedia cuts half of staff after losing access to Twitter, Facebook",
     "url": "http://www.chicagotribune.com/bluesky/originals/ct-geofeedia-cuts-jobs-surveillance-bsi-20161121-story.html",
     "votes": 3,
     "posted": "Nov 22, 2016 12:39:56 AM"
+  },
+  {
+    "id": "13010333",
+    "timestamp": "Nov 22, 2016 1:15:35 AM",
+    "topic": "Blame the Banks for All Those Boring Chain Stores Ruining Your City",
+    "url": "http://www.bloomberg.com/news/articles/2016-09-22/blame-the-banks-for-all-those-boring-chain-stores-ruining-your-city",
+    "votes": 3,
+    "posted": "Nov 22, 2016 12:39:23 AM"
+  },
+  {
+    "id": "13010324",
+    "timestamp": "Nov 22, 2016 1:15:35 AM",
+    "topic": "Jony Ive\u0027s “Boring” Christmas Tree",
+    "url": "http://money.cnn.com/2016/11/21/technology/jony-ive-christmas-tree-design/index.html",
+    "votes": 5,
+    "posted": "Nov 22, 2016 12:37:41 AM"
   },
   {
     "id": "13010309",
@@ -22,6 +54,14 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/goldman-sachs-drops-out-of-r3-blockchain-group-1479730906",
     "votes": 15,
     "posted": "Nov 21, 2016 11:53:49 PM"
+  },
+  {
+    "id": "13009796",
+    "timestamp": "Nov 22, 2016 1:25:36 AM",
+    "topic": "Slack Engineering Syscall Auditing at Scale",
+    "url": "https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.halk77qct",
+    "votes": 3,
+    "posted": "Nov 21, 2016 11:25:24 PM"
   },
   {
     "id": "13009691",
@@ -326,6 +366,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 6:00:58 PM"
   },
   {
+    "id": "13006877",
+    "timestamp": "Nov 22, 2016 1:55:39 AM",
+    "topic": "The Real War on Science",
+    "url": "http://www.city-journal.org/html/real-war-science-14782.html",
+    "votes": 6,
+    "posted": "Nov 21, 2016 5:58:28 PM"
+  },
+  {
     "id": "13006746",
     "timestamp": "Nov 21, 2016 8:25:07 PM",
     "topic": "Why Did Ancient Italians Bury Thousands of Clay Body Parts?",
@@ -476,6 +524,14 @@ var newsArray = [
     "url": "http://fortune.com/2016/11/20/irs-bitcoin-tax-evasion-case/",
     "votes": 6,
     "posted": "Nov 21, 2016 2:45:10 PM"
+  },
+  {
+    "id": "13005257",
+    "timestamp": "Nov 22, 2016 1:25:36 AM",
+    "topic": "Show HN: GAM Cluster, Massively Distributed Actors for GO",
+    "url": "https://github.com/AsynkronIT/gam/tree/dev/cluster",
+    "votes": 3,
+    "posted": "Nov 21, 2016 2:42:34 PM"
   },
   {
     "id": "13005242",
@@ -8833,116 +8889,5 @@ var newsArray = [
     "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dIntel-Geminilake-Enablement",
     "votes": 3,
     "posted": "Nov 15, 2016 1:57:14 AM"
-  },
-  {
-    "id": "12954740",
-    "timestamp": "Nov 15, 2016 3:09:02 AM",
-    "topic": "Google\u0027s answer to \u0027who won the popular vote\u0027 is a conspiracy blog",
-    "url": "http://www.theverge.com/2016/11/14/13622566/google-search-fake-news-election-results-algorithm",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:50:22 AM"
-  },
-  {
-    "id": "12954737",
-    "timestamp": "Nov 15, 2016 2:38:59 AM",
-    "topic": "Apple’s stock falls after China warns about Trump’s possible tariffs",
-    "url": "http://venturebeat.com/2016/11/14/apples-stock-falls-after-china-warns-about-trumps-possible-tariffs/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:49:49 AM"
-  },
-  {
-    "id": "12954730",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "Apple Considers Expanding into Wearables with Digital Glasses",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-14/apple-said-to-explore-smart-glasses-in-deeper-wearables-push",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:47:55 AM"
-  },
-  {
-    "id": "12954713",
-    "timestamp": "Nov 15, 2016 2:49:00 AM",
-    "topic": "Navy denies it pirated 558K copies of software, says contractor consented",
-    "url": "http://arstechnica.com/tech-policy/2016/11/navy-denies-it-pirated-558k-copies-of-software-says-contractor-consented/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:44:21 AM"
-  },
-  {
-    "id": "12954653",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "Show HN: ReactCasts, a series of short videos explaining React\u0027s APIs and concepts",
-    "url": "https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ",
-    "votes": 6,
-    "posted": "Nov 15, 2016 1:34:25 AM"
-  },
-  {
-    "id": "12954628",
-    "timestamp": "Nov 15, 2016 3:59:07 AM",
-    "topic": "Annotated version of an original Deus Ex design doc surfaces",
-    "url": "http://www.gamasutra.com/view/news/285520/Annotated_version_of_an_original_Deus_Ex_design_doc_surfaces.php",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:29:17 AM"
-  },
-  {
-    "id": "12954626",
-    "timestamp": "Nov 15, 2016 2:18:56 AM",
-    "topic": "FBI: Primer on DarkNet Marketplaces",
-    "url": "https://www.fbi.gov/news/stories/a-primer-on-darknet-marketplaces",
-    "votes": 8,
-    "posted": "Nov 15, 2016 1:28:59 AM"
-  },
-  {
-    "id": "12954614",
-    "timestamp": "Nov 15, 2016 1:38:51 AM",
-    "topic": "1.2M NHS workers hit with \u0027reply-all\u0027 e-mails",
-    "url": "http://www.businessinsider.com.au/reply-all-email-chain-1-2-million-nhs-employees-2016-11?r\u003dUS\u0026IR\u003dT",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:26:34 AM"
-  },
-  {
-    "id": "12954547",
-    "timestamp": "Nov 15, 2016 2:59:01 AM",
-    "topic": "Uikit: a lightweight and modular front-end framework",
-    "url": "https://getuikit.com/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:14:57 AM"
-  },
-  {
-    "id": "12954540",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "JavaScript books by Dr. Axel Rauschmayer (free online!)",
-    "url": "http://exploringjs.com/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:14:09 AM"
-  },
-  {
-    "id": "12954511",
-    "timestamp": "Nov 15, 2016 2:49:00 AM",
-    "topic": "How a No-Name Chinese TV Brand Came to Dominate the Amazon Charts",
-    "url": "http://www.forbes.com/sites/sethporges/2016/11/14/how-a-no-name-chinese-tv-brand-came-to-dominate-the-amazon-charts/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:06:21 AM"
-  },
-  {
-    "id": "12954460",
-    "timestamp": "Nov 15, 2016 1:18:49 AM",
-    "topic": "Ask HN: How can I use my technical skills for good, in our time?",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:58:39 AM"
-  },
-  {
-    "id": "12954458",
-    "timestamp": "Nov 15, 2016 3:59:07 AM",
-    "topic": "Apple Explores Smart Glasses in Wearables Push",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-14/apple-explores-smart-glasses-in-wearables-push",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:58:36 AM"
-  },
-  {
-    "id": "12954451",
-    "timestamp": "Nov 15, 2016 3:49:06 AM",
-    "topic": "The Next Generation of Hedge Fund Stars: Data-Crunching Computers",
-    "url": "http://www.nytimes.com/2016/11/15/business/dealbook/the-next-generation-of-hedge-fund-stars-data-crunching-computers.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:57:27 AM"
   }
 ];
