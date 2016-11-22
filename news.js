@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13012406",
+    "timestamp": "Nov 22, 2016 9:46:22 AM",
+    "topic": "Right approach to content management with reactJS DraftJS Wysiwyg",
+    "url": "https://jpuri.github.io/react-draft-wysiwyg",
+    "votes": 5,
+    "posted": "Nov 22, 2016 8:49:28 AM"
+  },
+  {
     "id": "13012225",
     "timestamp": "Nov 22, 2016 8:16:13 AM",
     "topic": "India\u0027s Misguided War on Cash",
@@ -86,6 +94,14 @@ var newsArray = [
     "url": "http://venturebeat.com/2016/11/21/google-forms-montreal-ai-research-group-gives-3-37-million-grant-to-yoshua-bengio-others/",
     "votes": 6,
     "posted": "Nov 22, 2016 5:41:52 AM"
+  },
+  {
+    "id": "13011679",
+    "timestamp": "Nov 22, 2016 9:46:23 AM",
+    "topic": "Running Doom on the MacBook Pro\u0027s Touch Bar",
+    "url": "http://www.theverge.com/circuitbreaker/2016/11/21/13697058/macbook-touchbar-doom-hack-sure-why-not",
+    "votes": 3,
+    "posted": "Nov 22, 2016 5:40:12 AM"
   },
   {
     "id": "13011618",
@@ -459,6 +475,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 9:53:00 PM"
   },
   {
+    "id": "13009060",
+    "timestamp": "Nov 22, 2016 9:06:20 AM",
+    "topic": "JetBrains Rider EAP Is Now Public",
+    "url": "https://www.jetbrains.com/rider/",
+    "votes": 4,
+    "posted": "Nov 21, 2016 9:48:25 PM"
+  },
+  {
     "id": "13009057",
     "timestamp": "Nov 21, 2016 10:25:21 PM",
     "topic": "Inspecting C\u0027s qsort Through Animation",
@@ -506,6 +530,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 9:18:56 PM"
   },
   {
+    "id": "13008743",
+    "timestamp": "Nov 22, 2016 9:06:19 AM",
+    "topic": "Show HN: Remote Friendly: A website for finding and listing remote jobs",
+    "url": "https://remotefriendly.work",
+    "votes": 4,
+    "posted": "Nov 21, 2016 9:15:01 PM"
+  },
+  {
     "id": "13008646",
     "timestamp": "Nov 21, 2016 9:25:16 PM",
     "topic": "Drone Video Shows Police Using Water Cannon on Dakota Access Pipeline Protesters",
@@ -520,6 +552,14 @@ var newsArray = [
     "url": "http://www.zdnet.com/article/microsofts-x86-on-arm64-emulation-a-windows-10-redstone-3-fall-2017-deliverable/#ftag\u003dRSSbaffb68",
     "votes": 3,
     "posted": "Nov 21, 2016 9:00:29 PM"
+  },
+  {
+    "id": "13008610",
+    "timestamp": "Nov 22, 2016 9:06:20 AM",
+    "topic": "Sccache, Mozilla’s distributed compiler cache, now written in Rust",
+    "url": "https://blog.mozilla.org/ted/2016/11/21/sccache-mozillas-distributed-compiler-cache-now-written-in-rust/",
+    "votes": 6,
+    "posted": "Nov 21, 2016 8:58:53 PM"
   },
   {
     "id": "13008509",
@@ -8904,37 +8944,5 @@ var newsArray = [
     "url": "http://cogink.com/cleese/",
     "votes": 6,
     "posted": "Nov 15, 2016 9:58:43 AM"
-  },
-  {
-    "id": "12956597",
-    "timestamp": "Nov 15, 2016 9:59:38 AM",
-    "topic": "Why it\u0027s worth supporting Chromebooks and Raspberry Pi",
-    "url": "https://headmelted.com/why-we-need-the-best-tools-on-chromebooks-and-raspberry-pi-3ab4c10a611c#.ac4iadzbl",
-    "votes": 3,
-    "posted": "Nov 15, 2016 9:53:37 AM"
-  },
-  {
-    "id": "12956566",
-    "timestamp": "Nov 15, 2016 10:29:40 AM",
-    "topic": "Visual Studio Code for Chromebooks and Raspberry Pi",
-    "url": "https://code.headmelted.com",
-    "votes": 4,
-    "posted": "Nov 15, 2016 9:46:38 AM"
-  },
-  {
-    "id": "12956508",
-    "timestamp": "Nov 15, 2016 9:49:37 AM",
-    "topic": "Chartify – simple and lightweight charts for React.js",
-    "url": "https://github.com/kirillstepkin/chartify",
-    "votes": 3,
-    "posted": "Nov 15, 2016 9:35:16 AM"
-  },
-  {
-    "id": "12956430",
-    "timestamp": "Nov 15, 2016 10:39:41 AM",
-    "topic": "JSNice: Statistical renaming, type inference, and deobfuscation",
-    "url": "http://www.jsnice.org/",
-    "votes": 7,
-    "posted": "Nov 15, 2016 9:14:53 AM"
   }
 ];
