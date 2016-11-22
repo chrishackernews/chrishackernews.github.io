@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13013537",
+    "timestamp": "Nov 22, 2016 1:36:40 PM",
+    "topic": "Almost half the world will be online by end of 2016",
+    "url": "http://economictimes.indiatimes.com/tech/internet/almost-half-the-world-will-be-online-by-end-of-2016-report/articleshow/55561589.cms",
+    "votes": 6,
+    "posted": "Nov 22, 2016 1:18:14 PM"
+  },
+  {
+    "id": "13013517",
+    "timestamp": "Nov 22, 2016 1:36:40 PM",
+    "topic": "Image analogy work with deep learning",
+    "url": "https://phillipi.github.io/pix2pix/",
+    "votes": 7,
+    "posted": "Nov 22, 2016 1:13:47 PM"
+  },
+  {
+    "id": "13013494",
+    "timestamp": "Nov 22, 2016 1:26:39 PM",
+    "topic": "Google Will Tell You How Crowded Places Are in Real Time",
+    "url": "http://www.pcmag.com/news/349783/google-will-tell-you-how-crowded-places-are-in-real-time",
+    "votes": 5,
+    "posted": "Nov 22, 2016 1:09:34 PM"
+  },
+  {
+    "id": "13013480",
+    "timestamp": "Nov 22, 2016 1:16:38 PM",
+    "topic": "The team behind Cookies is joining Klarna",
+    "url": "https://techcrunch.com/2016/11/22/the-team-behind-cookies-is-joining-klarna/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 1:06:56 PM"
+  },
+  {
+    "id": "13013327",
+    "timestamp": "Nov 22, 2016 1:46:41 PM",
+    "topic": "Show HN: Spamnesty: Waste spammers\u0027 time",
+    "url": "https://www.stavros.io/posts/spamnesty-waste-spammers-time/",
+    "votes": 15,
+    "posted": "Nov 22, 2016 12:33:51 PM"
+  },
+  {
     "id": "13013281",
     "timestamp": "Nov 22, 2016 12:36:35 PM",
     "topic": "Microsoft reboots war on sleep",
@@ -14,6 +54,14 @@ var newsArray = [
     "url": "https://www.technologyreview.com/s/602869/manufacturing-jobs-arent-coming-back/",
     "votes": 3,
     "posted": "Nov 22, 2016 12:13:13 PM"
+  },
+  {
+    "id": "13013143",
+    "timestamp": "Nov 22, 2016 1:16:38 PM",
+    "topic": "Sccache, Mozilla’s distributed compiler cache, now written in Rust",
+    "url": "https://blog.mozilla.org/ted/2016/11/21/sccache-mozillas-distributed-compiler-cache-now-written-in-rust/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 11:41:08 AM"
   },
   {
     "id": "13012880",
@@ -70,6 +118,14 @@ var newsArray = [
     "url": "https://jpuri.github.io/react-draft-wysiwyg",
     "votes": 5,
     "posted": "Nov 22, 2016 8:49:28 AM"
+  },
+  {
+    "id": "13012387",
+    "timestamp": "Nov 22, 2016 1:06:37 PM",
+    "topic": "Stop Being Proud of Complexity",
+    "url": "https://danielmiessler.com/blog/stop-being-proud-of-complexity/#gs.R19YCF0",
+    "votes": 3,
+    "posted": "Nov 22, 2016 8:45:07 AM"
   },
   {
     "id": "13012225",
@@ -8826,76 +8882,5 @@ var newsArray = [
     "url": "http://tedium.co/2016/11/10/cheese-curls-creation-story/",
     "votes": 6,
     "posted": "Nov 15, 2016 1:59:46 PM"
-  },
-  {
-    "id": "12957552",
-    "timestamp": "Nov 15, 2016 9:00:36 PM",
-    "topic": "Want to see gaming’s past and future? Dive into the “educational” world of PLATO",
-    "url": "http://arstechnica.com/gaming/2016/10/want-to-see-gamings-past-and-future-dive-into-the-educational-world-of-plato/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:52:01 PM"
-  },
-  {
-    "id": "12957537",
-    "timestamp": "Nov 15, 2016 6:20:21 PM",
-    "topic": "The Fact and Fiction of the NASA EmDrive Paper Leak",
-    "url": "http://motherboard.vice.com/read/the-fact-and-fiction-of-the-nasa-emdrive-paper-leak",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:48:25 PM"
-  },
-  {
-    "id": "12957493",
-    "timestamp": "Nov 15, 2016 7:40:29 PM",
-    "topic": "The New Touch-Bar-Equipped MacBook Pros and the State of the Mac",
-    "url": "http://daringfireball.net/2016/11/new_touch_bar_equipped_macbook_pros",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:39:43 PM"
-  },
-  {
-    "id": "12957476",
-    "timestamp": "Nov 15, 2016 2:19:58 PM",
-    "topic": "“Designed by Apple in California” chronicles 20 years of Apple design",
-    "url": "http://www.apple.com/newsroom/2016/11/designed-by-apple-in-california-chronicles-20-years-of-apple-design.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:37:53 PM"
-  },
-  {
-    "id": "12957465",
-    "timestamp": "Nov 15, 2016 1:49:55 PM",
-    "topic": "Chevrolet Bolt EV Is the 2017 Motor Trend Car of the Year",
-    "url": "http://www.motortrend.com/news/chevrolet-bolt-ev-2017-car-of-the-year/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 1:34:08 PM"
-  },
-  {
-    "id": "12957420",
-    "timestamp": "Nov 15, 2016 6:50:24 PM",
-    "topic": "Climate Models for Lawyers",
-    "url": "https://judithcurry.com/2016/11/12/climate-models-for-lawyers/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 1:22:06 PM"
-  },
-  {
-    "id": "12957371",
-    "timestamp": "Nov 15, 2016 1:49:55 PM",
-    "topic": "Ask HN: What simple tools / products are you most proud of making?",
-    "votes": 7,
-    "posted": "Nov 15, 2016 1:13:03 PM"
-  },
-  {
-    "id": "12957345",
-    "timestamp": "Nov 15, 2016 2:29:59 PM",
-    "topic": "Amazon to remove stack ranking",
-    "url": "http://uk.businessinsider.com/amazon-hunger-games-employee-review-process-change-2016-11?r\u003dUS\u0026IR\u003dT",
-    "votes": 6,
-    "posted": "Nov 15, 2016 1:05:23 PM"
-  },
-  {
-    "id": "12957331",
-    "timestamp": "Nov 15, 2016 8:30:33 PM",
-    "topic": "Mining of Massive Datasets",
-    "url": "http://www.mmds.org/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 1:00:59 PM"
   }
 ];
