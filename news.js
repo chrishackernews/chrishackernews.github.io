@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13013868",
+    "timestamp": "Nov 22, 2016 2:26:44 PM",
+    "topic": "Ultralight IKEA Backpack",
+    "url": "http://sandiegomitch.com/backpacking.html",
+    "votes": 10,
+    "posted": "Nov 22, 2016 2:17:05 PM"
+  },
+  {
+    "id": "13013819",
+    "timestamp": "Nov 22, 2016 2:36:46 PM",
+    "topic": "Unpythonic",
+    "url": "http://thedailywtf.com/articles/unpythonic",
+    "votes": 3,
+    "posted": "Nov 22, 2016 2:08:42 PM"
+  },
+  {
+    "id": "13013813",
+    "timestamp": "Nov 22, 2016 2:16:43 PM",
+    "topic": "Right-wing group launches campaign against Elon Musk, Tesla and SpaceX",
+    "url": "https://electrek.co/2016/11/22/elon-musk-right-wing-trump-propaganda-campaign-against-tesla-spacex/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 2:07:51 PM"
+  },
+  {
+    "id": "13013778",
+    "timestamp": "Nov 22, 2016 2:26:45 PM",
+    "topic": "How to run a Meetup – lessons learned running React Vienna for a year",
+    "url": "https://medium.com/@nikgraf/how-to-run-a-meetup-297ef448d157#.yllwz3hqf",
+    "votes": 4,
+    "posted": "Nov 22, 2016 2:04:19 PM"
+  },
+  {
+    "id": "13013719",
+    "timestamp": "Nov 22, 2016 2:26:45 PM",
+    "topic": "Docker Survey 2016",
+    "url": "http://blog.calsoftinc.com/industry_insights/docker-survey-2016",
+    "votes": 7,
+    "posted": "Nov 22, 2016 1:54:05 PM"
+  },
+  {
     "id": "13013537",
     "timestamp": "Nov 22, 2016 1:36:40 PM",
     "topic": "Almost half the world will be online by end of 2016",
@@ -32,6 +72,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 1:06:56 PM"
   },
   {
+    "id": "13013465",
+    "timestamp": "Nov 22, 2016 2:16:43 PM",
+    "topic": "Guilds, Ethics, and Software Engineering as one of The Professions",
+    "url": "https://medium.com/@fergiemcdowall/why-isnt-software-engineering-a-profession-68d1900112fc",
+    "votes": 4,
+    "posted": "Nov 22, 2016 1:03:39 PM"
+  },
+  {
     "id": "13013327",
     "timestamp": "Nov 22, 2016 1:46:41 PM",
     "topic": "Show HN: Spamnesty: Waste spammers\u0027 time",
@@ -54,6 +102,14 @@ var newsArray = [
     "url": "https://www.technologyreview.com/s/602869/manufacturing-jobs-arent-coming-back/",
     "votes": 3,
     "posted": "Nov 22, 2016 12:13:13 PM"
+  },
+  {
+    "id": "13013172",
+    "timestamp": "Nov 22, 2016 2:26:45 PM",
+    "topic": "The ASP.NET Web API 2 HTTP Message Lifecycle in 43 Easy Steps",
+    "url": "https://www.exceptionnotfound.net/the-asp-net-web-api-2-http-message-lifecycle-in-43-easy-steps-2/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 11:47:30 AM"
   },
   {
     "id": "13013143",
@@ -895,6 +951,14 @@ var newsArray = [
     "url": "https://medium.com/@rajendramishra18/5-tactics-to-teach-a-novice-about-machine-learning-6eb813ac795b#.b5fdcsmm7",
     "votes": 3,
     "posted": "Nov 21, 2016 6:17:32 PM"
+  },
+  {
+    "id": "13006914",
+    "timestamp": "Nov 22, 2016 2:06:42 PM",
+    "topic": "Show HN: Scobido: Crowdsourced front-page of the WWW",
+    "url": "http://scobido.com/hot",
+    "votes": 3,
+    "posted": "Nov 21, 2016 6:03:01 PM"
   },
   {
     "id": "13006896",
@@ -8802,85 +8866,5 @@ var newsArray = [
     "url": "https://gist.github.com/shanielh/ca5ff87d7d7b43394224a34f0ee0d20f",
     "votes": 9,
     "posted": "Nov 15, 2016 2:57:40 PM"
-  },
-  {
-    "id": "12957896",
-    "timestamp": "Nov 15, 2016 3:00:02 PM",
-    "topic": "An Ancient Tsunami That Ended a Civilization Gets Another Look",
-    "url": "http://www.nytimes.com/2016/11/10/science/santorini-akrotiri-tsunami.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 2:46:32 PM"
-  },
-  {
-    "id": "12957873",
-    "timestamp": "Nov 15, 2016 5:40:18 PM",
-    "topic": "ARMv8 in the Datacenter – 96 physical cores 0.50/hr",
-    "url": "https://www.packet.net/bare-metal/servers/type-2a/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 2:43:56 PM"
-  },
-  {
-    "id": "12957808",
-    "timestamp": "Nov 15, 2016 2:50:01 PM",
-    "topic": "VR Sales Analysis: Rift and Vive to Sell Under 500K in 2016, PS VR to Top 2M",
-    "url": "http://uploadvr.com/superdata-headset-sales-analysis/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 2:34:58 PM"
-  },
-  {
-    "id": "12957787",
-    "timestamp": "Nov 15, 2016 3:10:03 PM",
-    "topic": "The Real Leadership Lessons of Steve Jobs",
-    "url": "https://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs",
-    "votes": 4,
-    "posted": "Nov 15, 2016 2:32:05 PM"
-  },
-  {
-    "id": "12957775",
-    "timestamp": "Nov 15, 2016 2:40:00 PM",
-    "topic": "Navy denies it pirated 558K copies of software, says contractor consented",
-    "url": "http://arstechnica.com/tech-policy/2016/11/navy-denies-it-pirated-558k-copies-of-software-says-contractor-consented/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 2:30:08 PM"
-  },
-  {
-    "id": "12957768",
-    "timestamp": "Nov 15, 2016 4:30:10 PM",
-    "topic": "“Radioactive Boy Scout” who tried to build a homemade nuclear reactor dead at 39",
-    "url": "http://arstechnica.co.uk/science/2016/11/this-fall-the-radioactive-boy-scout-died-at-age-39/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 2:28:51 PM"
-  },
-  {
-    "id": "12957745",
-    "timestamp": "Nov 15, 2016 3:00:02 PM",
-    "topic": "Fix Windows 10 Privacy",
-    "url": "https://modzero.github.io/fix-windows-privacy/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 2:26:48 PM"
-  },
-  {
-    "id": "12957672",
-    "timestamp": "Nov 15, 2016 2:40:00 PM",
-    "topic": "You Can Bypass Linux Disk Encryption by Pressing the Enter Key for 70 Seconds",
-    "url": "http://www.bleepingcomputer.com/news/security/you-can-bypass-linux-disk-encryption-by-pressing-the-enter-key-for-70-seconds/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 2:16:31 PM"
-  },
-  {
-    "id": "12957627",
-    "timestamp": "Nov 15, 2016 2:29:59 PM",
-    "topic": "Designed by Apple in California",
-    "url": "http://www.theverge.com/2016/11/15/13635788/apple-coffee-table-book-products-images",
-    "votes": 3,
-    "posted": "Nov 15, 2016 2:07:23 PM"
-  },
-  {
-    "id": "12957594",
-    "timestamp": "Nov 15, 2016 4:40:12 PM",
-    "topic": "How Cheese Curls Were Invented",
-    "url": "http://tedium.co/2016/11/10/cheese-curls-creation-story/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 1:59:46 PM"
   }
 ];
