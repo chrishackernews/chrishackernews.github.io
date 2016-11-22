@@ -1,11 +1,50 @@
 var newsArray = [
   {
+    "id": "13011393",
+    "timestamp": "Nov 22, 2016 4:55:54 AM",
+    "topic": "Nonlinear climate sensitivity and its implications for future greenhouse warming",
+    "url": "http://advances.sciencemag.org/content/2/11/e1501923.full",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:29:37 AM"
+  },
+  {
+    "id": "13011343",
+    "timestamp": "Nov 22, 2016 4:35:53 AM",
+    "topic": "Ask HN: What are the leading causes of Cancer in San Francisco?",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:14:50 AM"
+  },
+  {
+    "id": "13011185",
+    "timestamp": "Nov 22, 2016 4:45:53 AM",
+    "topic": "Bye Bye Emojis: Emacs Hates MacOS",
+    "url": "http://www.lunaryorn.com/posts/bye-bye-emojis-emacs-hates-macos.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 3:37:22 AM"
+  },
+  {
     "id": "13011159",
     "timestamp": "Nov 22, 2016 3:45:48 AM",
     "topic": "Giant \u0027Great Valley\u0027 Found on Mercury",
     "url": "http://thescienceexplorer.com/universe/giant-great-valley-found-mercury",
     "votes": 6,
     "posted": "Nov 22, 2016 3:31:59 AM"
+  },
+  {
+    "id": "13011140",
+    "timestamp": "Nov 22, 2016 4:25:52 AM",
+    "topic": "Learn the basics of data science with these 7 books",
+    "url": "https://hackernoon.com/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34#.7hsu30e4f",
+    "votes": 5,
+    "posted": "Nov 22, 2016 3:27:49 AM"
+  },
+  {
+    "id": "13011129",
+    "timestamp": "Nov 22, 2016 4:25:52 AM",
+    "topic": "Webpack – The Confusing Parts",
+    "url": "https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.rxwvxdfnn",
+    "votes": 4,
+    "posted": "Nov 22, 2016 3:25:15 AM"
   },
   {
     "id": "13011103",
@@ -8864,68 +8903,5 @@ var newsArray = [
     "url": "https://www.troyhunt.com/apples-desensitisation-of-the-human-race-to-fundamental-security-practices/",
     "votes": 5,
     "posted": "Nov 15, 2016 4:55:55 AM"
-  },
-  {
-    "id": "12955457",
-    "timestamp": "Nov 15, 2016 5:19:14 AM",
-    "topic": "YouTube has (apparently) reinstated RSS feeds",
-    "url": "https://brianschrader.com/archive/youtube-has-apparently-reinstated-rss-feeds/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 4:51:17 AM"
-  },
-  {
-    "id": "12955445",
-    "timestamp": "Nov 15, 2016 5:29:15 AM",
-    "topic": "Using Rust for \u0027Scripting\u0027",
-    "url": "http://www.chriskrycho.com/2016/using-rust-for-scripting.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 4:48:44 AM"
-  },
-  {
-    "id": "12955441",
-    "timestamp": "Nov 15, 2016 7:19:24 AM",
-    "topic": "Ask HN: What could developers do to help the Ops Team?",
-    "votes": 4,
-    "posted": "Nov 15, 2016 4:47:21 AM"
-  },
-  {
-    "id": "12955430",
-    "timestamp": "Nov 15, 2016 6:59:22 AM",
-    "topic": "Leaving the Thiel Fellowship",
-    "url": "https://medium.com/@cosmoscharf/why-im-leaving-the-thiel-fellowship-7205ca88766b",
-    "votes": 4,
-    "posted": "Nov 15, 2016 4:44:10 AM"
-  },
-  {
-    "id": "12955363",
-    "timestamp": "Nov 15, 2016 5:59:17 AM",
-    "topic": "The New Touch-Bar-Equipped MacBook Pros and the State of the Mac",
-    "url": "http://daringfireball.net/2016/11/new_touch_bar_equipped_macbook_pros",
-    "votes": 4,
-    "posted": "Nov 15, 2016 4:23:17 AM"
-  },
-  {
-    "id": "12955349",
-    "timestamp": "Nov 15, 2016 5:59:17 AM",
-    "topic": "Facebook Bans Fake News Sites from Using Its Advertising Network",
-    "url": "http://www.wsj.com/articles/facebook-bans-fake-news-sites-from-using-its-advertising-network-1479175778",
-    "votes": 5,
-    "posted": "Nov 15, 2016 4:20:19 AM"
-  },
-  {
-    "id": "12955297",
-    "timestamp": "Nov 15, 2016 5:49:16 AM",
-    "topic": "How Two Psychologists Turned World of Decision Science Upside Down",
-    "url": "http://www.vanityfair.com/news/2016/11/decision-science-daniel-kahneman-amos-tversky",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:07:31 AM"
-  },
-  {
-    "id": "12955287",
-    "timestamp": "Nov 15, 2016 4:19:09 AM",
-    "topic": "It only took 36 hours for these students to solve Facebook\u0027s fake news problem",
-    "url": "http://www.businessinsider.com/students-solve-facebooks-fake-news-problem-in-36-hours-2016-11",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:03:58 AM"
   }
 ];
