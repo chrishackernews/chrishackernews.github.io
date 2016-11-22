@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13011859",
+    "timestamp": "Nov 22, 2016 6:36:04 AM",
+    "topic": "Zapier is hiring an infrastructure engineer – remote welcome",
+    "url": "https://zapier.com/jobs/infrastructure-engineer-winter-2016/",
+    "votes": 1,
+    "posted": "Nov 22, 2016 6:30:23 AM"
+  },
+  {
+    "id": "13011686",
+    "timestamp": "Nov 22, 2016 6:16:02 AM",
+    "topic": "Google forms Montreal AI research group, gives $3.37M",
+    "url": "http://venturebeat.com/2016/11/21/google-forms-montreal-ai-research-group-gives-3-37-million-grant-to-yoshua-bengio-others/",
+    "votes": 6,
+    "posted": "Nov 22, 2016 5:41:52 AM"
+  },
+  {
+    "id": "13011618",
+    "timestamp": "Nov 22, 2016 6:06:00 AM",
+    "topic": "Peter Thiel quietly building Silicon Valley brain trust to help Trump",
+    "url": "http://gizmodo.com/report-peter-thiel-quietly-building-silicon-valley-bra-1789243996",
+    "votes": 4,
+    "posted": "Nov 22, 2016 5:24:26 AM"
+  },
+  {
+    "id": "13011496",
+    "timestamp": "Nov 22, 2016 6:16:02 AM",
+    "topic": "This Pizzeria Is Not a Child-Trafficking Site",
+    "url": "http://www.nytimes.com/2016/11/21/technology/fact-check-this-pizzeria-is-not-a-child-trafficking-site.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:57:37 AM"
+  },
+  {
     "id": "13011462",
     "timestamp": "Nov 22, 2016 5:25:57 AM",
     "topic": "Why Native Apps Really Are Doomed",
@@ -14,6 +46,22 @@ var newsArray = [
     "url": "http://advances.sciencemag.org/content/2/11/e1501923.full",
     "votes": 3,
     "posted": "Nov 22, 2016 4:29:37 AM"
+  },
+  {
+    "id": "13011374",
+    "timestamp": "Nov 22, 2016 6:16:02 AM",
+    "topic": "ASP.NET Kestrel – SuperCharged MemoryPoolIterator (Pull Request)",
+    "url": "https://github.com/aspnet/KestrelHttpServer/pull/1138",
+    "votes": 4,
+    "posted": "Nov 22, 2016 4:24:42 AM"
+  },
+  {
+    "id": "13011358",
+    "timestamp": "Nov 22, 2016 6:36:04 AM",
+    "topic": "Adam Ondra Completes Record Ascent of the Dawn Wall",
+    "url": "http://www.outsideonline.com/2138561/how-adam-ondra-pulled-dawn-wall",
+    "votes": 5,
+    "posted": "Nov 22, 2016 4:20:28 AM"
   },
   {
     "id": "13011343",
@@ -125,6 +173,14 @@ var newsArray = [
     "url": "http://time.com/4578520/julian-assange-donald-trump-person-of-the-year-poll/",
     "votes": 5,
     "posted": "Nov 22, 2016 1:55:24 AM"
+  },
+  {
+    "id": "13010552",
+    "timestamp": "Nov 22, 2016 6:26:03 AM",
+    "topic": "The Alexa Top 1M Sites file has been retired",
+    "url": "https://support.alexa.com/hc/en-us/articles/235229028-The-Alexa-Top-1-Million-Sites-file-has-been-retired-November-2016",
+    "votes": 3,
+    "posted": "Nov 22, 2016 1:21:47 AM"
   },
   {
     "id": "13010547",
@@ -8815,45 +8871,5 @@ var newsArray = [
     "topic": "Scala slack channel",
     "votes": 3,
     "posted": "Nov 15, 2016 7:04:41 AM"
-  },
-  {
-    "id": "12955881",
-    "timestamp": "Nov 15, 2016 9:39:36 AM",
-    "topic": "Zero shot translation learning",
-    "url": "https://arxiv.org/abs/1611.04558",
-    "votes": 3,
-    "posted": "Nov 15, 2016 6:38:06 AM"
-  },
-  {
-    "id": "12955814",
-    "timestamp": "Nov 15, 2016 7:49:26 AM",
-    "topic": "CertiKOS: A breakthrough toward hacker-resistant operating systems",
-    "url": "http://news.yale.edu/2016/11/14/certikos-breakthrough-toward-hacker-resistant-operating-systems",
-    "votes": 6,
-    "posted": "Nov 15, 2016 6:21:36 AM"
-  },
-  {
-    "id": "12955764",
-    "timestamp": "Nov 15, 2016 7:49:26 AM",
-    "topic": "Why cute drawings?",
-    "url": "http://jvns.ca/blog/2016/11/14/why-cute-drawings/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 6:11:29 AM"
-  },
-  {
-    "id": "12955729",
-    "timestamp": "Nov 15, 2016 6:09:18 AM",
-    "topic": "Marijuana Weakens Heart Muscles in Adult Males",
-    "url": "http://www.cnn.com/2016/11/13/health/marijuana-weakens-heart/index.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 6:02:43 AM"
-  },
-  {
-    "id": "12955717",
-    "timestamp": "Nov 15, 2016 7:59:27 AM",
-    "topic": "JetBrains Rider EAP (C# IDE)",
-    "url": "https://www.jetbrains.com/rider/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 5:59:38 AM"
   }
 ];
