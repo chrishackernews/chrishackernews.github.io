@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "13011159",
+    "timestamp": "Nov 22, 2016 3:45:48 AM",
+    "topic": "Giant \u0027Great Valley\u0027 Found on Mercury",
+    "url": "http://thescienceexplorer.com/universe/giant-great-valley-found-mercury",
+    "votes": 6,
+    "posted": "Nov 22, 2016 3:31:59 AM"
+  },
+  {
+    "id": "13011103",
+    "timestamp": "Nov 22, 2016 3:25:47 AM",
+    "topic": "Asian stocks ride Wall Street rally, oil extends gains",
+    "url": "http://www.reuters.com/article/us-global-markets-idUSKBN13H02S?feedType\u003dRSS\u0026feedName\u003dtopNews",
+    "votes": 3,
+    "posted": "Nov 22, 2016 3:20:13 AM"
+  },
+  {
+    "id": "13011038",
+    "timestamp": "Nov 22, 2016 3:25:47 AM",
+    "topic": "Inspiring Young Writers with Minecraft",
+    "url": "https://www.edutopia.org/article/inspiring-young-writers-with-minecraft-matthew-farber",
+    "votes": 8,
+    "posted": "Nov 22, 2016 3:06:37 AM"
+  },
+  {
+    "id": "13011033",
+    "timestamp": "Nov 22, 2016 3:45:49 AM",
+    "topic": "Let\u0027s Say Obamacare Is Repealed. What Then?",
+    "url": "http://www.nytimes.com/2016/11/22/upshot/lets-say-obamacare-is-repealed-what-then.html?mtrref\u003dnuzzel.com\u0026gwh\u003d1A6873C8411AB5E1B70BC36BB5E20C2F\u0026gwt\u003dpay",
+    "votes": 12,
+    "posted": "Nov 22, 2016 3:04:43 AM"
+  },
+  {
+    "id": "13011010",
+    "timestamp": "Nov 22, 2016 3:45:49 AM",
+    "topic": "GothamGo 2016: The Go Open Source Project\u0027s Innards [video]",
+    "url": "https://www.youtube.com/watch?v\u003djC_zMLzCS-8",
+    "votes": 3,
+    "posted": "Nov 22, 2016 3:00:19 AM"
+  },
+  {
+    "id": "13010949",
+    "timestamp": "Nov 22, 2016 3:25:46 AM",
+    "topic": "Amazon S3 and Glacier Price Reductions",
+    "url": "https://aws.amazon.com/blogs/aws/aws-storage-update-s3-glacier-price-reductions/",
+    "votes": 19,
+    "posted": "Nov 22, 2016 2:46:15 AM"
+  },
+  {
+    "id": "13010935",
+    "timestamp": "Nov 22, 2016 3:05:45 AM",
+    "topic": "Does prospect theory explain Trump and Brezit votes?",
+    "url": "http://cognitionandculture.net/blog/christophe-heintzs-blog/does-prospect-theory-explain-trump-and-brexit-votes",
+    "votes": 4,
+    "posted": "Nov 22, 2016 2:43:38 AM"
+  },
+  {
     "id": "13010923",
     "timestamp": "Nov 22, 2016 2:45:43 AM",
     "topic": "Drchrono (YC W11) Looking for Python/Django Engineers",
     "url": "https://www.hackerrank.com/tests/527036edb11ff/0ca5532381fbebad9fffaa28dc90475f",
     "votes": 1,
     "posted": "Nov 22, 2016 2:39:32 AM"
+  },
+  {
+    "id": "13010773",
+    "timestamp": "Nov 22, 2016 3:25:47 AM",
+    "topic": "Binary marble adding machine",
+    "url": "http://woodgears.ca/marbleadd/index.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 2:05:11 AM"
   },
   {
     "id": "13010731",
@@ -40,6 +104,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 12:49:52 AM"
   },
   {
+    "id": "13010392",
+    "timestamp": "Nov 22, 2016 3:05:45 AM",
+    "topic": "How to Work at Google: Example Coding/Engineering Interview",
+    "url": "https://www.youtube.com/watch?v\u003dXKu_SEDAykw",
+    "votes": 5,
+    "posted": "Nov 22, 2016 12:49:11 AM"
+  },
+  {
     "id": "13010337",
     "timestamp": "Nov 22, 2016 12:45:33 AM",
     "topic": "Geofeedia cuts half of staff after losing access to Twitter, Facebook",
@@ -70,6 +142,22 @@ var newsArray = [
     "url": "https://medium.com/@clement.champau/the-wrong-onboarding-of-hillary-clinton-voters-that-made-trump-won-b1600519dd57#.hu0i92w3z",
     "votes": 3,
     "posted": "Nov 22, 2016 12:35:01 AM"
+  },
+  {
+    "id": "13010195",
+    "timestamp": "Nov 22, 2016 3:25:47 AM",
+    "topic": "Welcome Qwiklabs to Google Cloud",
+    "url": "https://blog.google/topics/google-cloud/welcome-qwiklabs-google-cloud/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 12:15:59 AM"
+  },
+  {
+    "id": "13010161",
+    "timestamp": "Nov 22, 2016 3:05:45 AM",
+    "topic": "Advancing exploitation: a scriptless 0day exploit against Linux desktops",
+    "url": "http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html",
+    "votes": 5,
+    "posted": "Nov 22, 2016 12:12:05 AM"
   },
   {
     "id": "13010016",
@@ -8839,37 +8927,5 @@ var newsArray = [
     "url": "http://www.businessinsider.com/students-solve-facebooks-fake-news-problem-in-36-hours-2016-11",
     "votes": 3,
     "posted": "Nov 15, 2016 4:03:58 AM"
-  },
-  {
-    "id": "12955204",
-    "timestamp": "Nov 15, 2016 5:19:14 AM",
-    "topic": "Trump\u0027s plan to stop hackers",
-    "url": "http://money.cnn.com/2016/11/11/technology/donald-trump-cyber-plan/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 3:41:31 AM"
-  },
-  {
-    "id": "12955184",
-    "timestamp": "Nov 15, 2016 4:19:09 AM",
-    "topic": "DroneBase (YC W15) raises from Union Square to pay any pilot for aerial footage",
-    "url": "https://techcrunch.com/2016/11/14/drones-for-hire/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 3:38:16 AM"
-  },
-  {
-    "id": "12955174",
-    "timestamp": "Nov 15, 2016 3:39:05 AM",
-    "topic": "Triplebyte (YC S15) is hiring our first Sales Engineer",
-    "url": "https://jobs.lever.co/triplebyte/6b4d63d5-b8fe-4cbc-9b05-da81cd9d9386",
-    "votes": 1,
-    "posted": "Nov 15, 2016 3:35:52 AM"
-  },
-  {
-    "id": "12955111",
-    "timestamp": "Nov 15, 2016 3:29:04 AM",
-    "topic": "Amazon RDS now supports PostgreSQL 9.6.1",
-    "url": "https://www.postgresql.org/about/news/1717/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 3:17:48 AM"
   }
 ];
