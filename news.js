@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13012837",
+    "timestamp": "Nov 22, 2016 10:36:27 AM",
+    "topic": "What weather imaging is going to look like with the new GOES-R satellite",
+    "url": "https://gfycat.com/PaleCreepyDoe",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:22:22 AM"
+  },
+  {
+    "id": "13012794",
+    "timestamp": "Nov 22, 2016 10:16:25 AM",
+    "topic": "Smarking (YC W15) Is Hiring Customer Success Manager in SF",
+    "url": "https://jobs.lever.co/smarking/db0de8b7-1248-41d4-9025-f0c7b2c1ac08",
+    "votes": 1,
+    "posted": "Nov 22, 2016 10:11:59 AM"
+  },
+  {
+    "id": "13012767",
+    "timestamp": "Nov 22, 2016 10:16:25 AM",
+    "topic": "Meteorite recovered in Australia with the help of stargazers and science app",
+    "url": "http://www.abc.net.au/news/2016-11-22/meteorite-recovered-with-the-help-of-dedicated-star-gazers/8046880",
+    "votes": 5,
+    "posted": "Nov 22, 2016 10:07:10 AM"
+  },
+  {
+    "id": "13012554",
+    "timestamp": "Nov 22, 2016 10:06:24 AM",
+    "topic": "“I was fired because my skills were too far above my coworkers”",
+    "url": "http://workplace.stackexchange.com/q/79992/979",
+    "votes": 3,
+    "posted": "Nov 22, 2016 9:19:40 AM"
+  },
+  {
     "id": "13012406",
     "timestamp": "Nov 22, 2016 9:46:22 AM",
     "topic": "Right approach to content management with reactJS DraftJS Wysiwyg",
@@ -46,6 +78,14 @@ var newsArray = [
     "url": "http://graffiti.gaurs.io/",
     "votes": 3,
     "posted": "Nov 22, 2016 7:15:59 AM"
+  },
+  {
+    "id": "13011957",
+    "timestamp": "Nov 22, 2016 10:16:25 AM",
+    "topic": "Rider, a Crossplatform .Net IDE by Jetbrains Now in Public EAP",
+    "url": "https://blog.jetbrains.com/dotnet/2016/11/21/jetbrains-rider-public-preview/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 7:01:13 AM"
   },
   {
     "id": "13011954",
@@ -8904,45 +8944,5 @@ var newsArray = [
     "topic": "Ask HN: Best encrypted messaging app atm?",
     "votes": 3,
     "posted": "Nov 15, 2016 10:58:11 AM"
-  },
-  {
-    "id": "12956809",
-    "timestamp": "Nov 15, 2016 5:30:17 PM",
-    "topic": "Google will soon ban fake news sites from using its ad network",
-    "url": "http://www.theverge.com/2016/11/14/13630722/google-fake-news-advertising-ban-2016-us-election",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:47:20 AM"
-  },
-  {
-    "id": "12956807",
-    "timestamp": "Nov 15, 2016 5:40:18 PM",
-    "topic": "Why Do We Pay Pure Mathematicians?",
-    "url": "https://mathwithbaddrawings.com/2015/02/24/why-do-we-pay-mathematicians/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:47:06 AM"
-  },
-  {
-    "id": "12956798",
-    "timestamp": "Nov 15, 2016 10:49:42 AM",
-    "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
-    "url": "https://fullstackacademy.workable.com/jobs/186349",
-    "votes": 1,
-    "posted": "Nov 15, 2016 10:45:19 AM"
-  },
-  {
-    "id": "12956687",
-    "timestamp": "Nov 15, 2016 2:40:00 PM",
-    "topic": "Machine learning algorithms",
-    "url": "https://github.com/rushter/MLAlgorithms",
-    "votes": 19,
-    "posted": "Nov 15, 2016 10:20:29 AM"
-  },
-  {
-    "id": "12956612",
-    "timestamp": "Nov 15, 2016 10:29:40 AM",
-    "topic": "A Letter to the US from John Cleese",
-    "url": "http://cogink.com/cleese/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 9:58:43 AM"
   }
 ];
