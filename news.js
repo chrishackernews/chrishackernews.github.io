@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13010337",
+    "timestamp": "Nov 22, 2016 12:45:33 AM",
+    "topic": "Geofeedia cuts half of staff after losing access to Twitter, Facebook",
+    "url": "http://www.chicagotribune.com/bluesky/originals/ct-geofeedia-cuts-jobs-surveillance-bsi-20161121-story.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 12:39:56 AM"
+  },
+  {
+    "id": "13010309",
+    "timestamp": "Nov 22, 2016 12:55:34 AM",
+    "topic": "The wrong onboarding of Hillary supporters that helped Trump win",
+    "url": "https://medium.com/@clement.champau/the-wrong-onboarding-of-hillary-clinton-voters-that-made-trump-won-b1600519dd57#.hu0i92w3z",
+    "votes": 3,
+    "posted": "Nov 22, 2016 12:35:01 AM"
+  },
+  {
+    "id": "13010016",
+    "timestamp": "Nov 22, 2016 12:05:30 AM",
+    "topic": "Goldman Sachs Drops Out of R3 Blockchain Group",
+    "url": "http://www.wsj.com/articles/goldman-sachs-drops-out-of-r3-blockchain-group-1479730906",
+    "votes": 15,
+    "posted": "Nov 21, 2016 11:53:49 PM"
+  },
+  {
     "id": "13009691",
     "timestamp": "Nov 21, 2016 11:15:26 PM",
     "topic": "Sift Science is looking for a Back end Eng who has built distributed systems",
@@ -476,6 +500,14 @@ var newsArray = [
     "url": "https://www.oracle.com/corporate/acquisitions/dyn/index.html",
     "votes": 26,
     "posted": "Nov 21, 2016 2:27:24 PM"
+  },
+  {
+    "id": "13005055",
+    "timestamp": "Nov 22, 2016 12:05:30 AM",
+    "topic": "Show HN: A Launcher that lets you control every aspect of your connected life",
+    "url": "https://play.google.com/store/apps/details?id\u003dcom.thing.launcher",
+    "votes": 3,
+    "posted": "Nov 21, 2016 2:06:30 PM"
   },
   {
     "id": "13004856",
@@ -8912,157 +8944,5 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/15/business/dealbook/the-next-generation-of-hedge-fund-stars-data-crunching-computers.html",
     "votes": 4,
     "posted": "Nov 15, 2016 12:57:27 AM"
-  },
-  {
-    "id": "12954438",
-    "timestamp": "Nov 15, 2016 1:58:54 AM",
-    "topic": "Nero",
-    "url": "https://en.wikipedia.org/wiki/Nero",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:55:12 AM"
-  },
-  {
-    "id": "12954437",
-    "timestamp": "Nov 15, 2016 3:09:02 AM",
-    "topic": "West Nile Virus May Be Deadlier Than Thought",
-    "url": "http://www.sciencemag.org/news/2016/11/west-nile-virus-may-be-deadlier-thought",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:54:56 AM"
-  },
-  {
-    "id": "12954432",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "The malloc challenge",
-    "url": "http://vicsydev.blogspot.com/2016/11/the-malloc-challenge.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:54:23 AM"
-  },
-  {
-    "id": "12954402",
-    "timestamp": "Nov 15, 2016 7:59:28 AM",
-    "topic": "Show HN: Node and Stripe Integration",
-    "url": "https://github.com/mjhea0/node-stripe-charge",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:49:23 AM"
-  },
-  {
-    "id": "12954392",
-    "timestamp": "Nov 15, 2016 1:28:50 AM",
-    "topic": "An App Saw Trump Winning Swing States When Polls Didn\u0027t",
-    "url": "http://www.npr.org/sections/alltechconsidered/2016/11/10/501613521/an-app-saw-trump-winning-swing-states-when-polls-didnt",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:48:04 AM"
-  },
-  {
-    "id": "12954372",
-    "timestamp": "Nov 15, 2016 1:38:51 AM",
-    "topic": "Mocks Aren\u0027t Stubs",
-    "url": "http://martinfowler.com/articles/mocksArentStubs.html",
-    "votes": 5,
-    "posted": "Nov 15, 2016 12:44:15 AM"
-  },
-  {
-    "id": "12954355",
-    "timestamp": "Nov 15, 2016 12:48:47 AM",
-    "topic": "China threatens to cut sales of iPhones if \u0027naive\u0027 Trump pursues trade war",
-    "url": "https://www.theguardian.com/world/2016/nov/14/china-threatens-to-cut-sales-of-iphones-and-us-cars-if-naive-trump-pursues-trade-war?utm_source\u003ddlvr.it\u0026utm_medium\u003dtwitter",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:40:53 AM"
-  },
-  {
-    "id": "12954352",
-    "timestamp": "Nov 15, 2016 12:48:47 AM",
-    "topic": "Too Little Too Late: FCC Finally Realizes AT\u0026T\u0027s Zero Rating Is Anti-Competitive",
-    "url": "https://www.techdirt.com/blog/netneutrality/articles/20161111/08192636020/too-little-too-late-fcc-finally-realizes-ats-zero-rating-is-anti-competitive.shtml",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:40:16 AM"
-  },
-  {
-    "id": "12954349",
-    "timestamp": "Nov 15, 2016 1:28:50 AM",
-    "topic": "The FBI just got its hands on data that Twitter wouldn’t give the CIA",
-    "url": "http://www.theverge.com/2016/11/14/13629248/fbi-dataminr-twitter-surveillance-contract-scanning-police",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:39:46 AM"
-  },
-  {
-    "id": "12954348",
-    "timestamp": "Nov 15, 2016 1:38:51 AM",
-    "topic": "In 13 minutes from Kubernetes to a complete application development tool",
-    "url": "https://about.gitlab.com/2016/11/14/idea-to-production/?",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:39:04 AM"
-  },
-  {
-    "id": "12954334",
-    "timestamp": "Nov 15, 2016 3:19:03 AM",
-    "topic": "Does anyone have a clue to earn the $15 000? HackMyFortress 15 000$ REWARD",
-    "url": "http://hackmyfortress.com/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:36:15 AM"
-  },
-  {
-    "id": "12954322",
-    "timestamp": "Nov 15, 2016 2:38:59 AM",
-    "topic": "Trump and Brexit: why it’s again Not the economy, stupid",
-    "url": "http://blogs.lse.ac.uk/politicsandpolicy/trump-and-brexit-why-its-again-not-the-economy-stupid/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:34:11 AM"
-  },
-  {
-    "id": "12954314",
-    "timestamp": "Nov 15, 2016 2:38:59 AM",
-    "topic": "Trump\u0027s election sets stage for H-1B reform",
-    "url": "http://www.computerworld.com/article/3140711/it-careers/trumps-election-sets-stage-for-h-1b-reform.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:32:10 AM"
-  },
-  {
-    "id": "12954269",
-    "timestamp": "Nov 15, 2016 12:28:44 AM",
-    "topic": "Renegade Facebook Employees Form Task Force to Battle Fake News",
-    "url": "https://www.buzzfeed.com/sheerafrenkel/renegade-facebook-employees-form-task-force-to-battle-fake-n?utm_term\u003d.rgEJwaY7mO#.qs9zlA7qDg",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:22:46 AM"
-  },
-  {
-    "id": "12954248",
-    "timestamp": "Nov 15, 2016 12:38:46 AM",
-    "topic": "Google updating policy for ads on fake news sites",
-    "url": "http://www.reuters.com/article/us-alphabet-advertising-idUSKBN1392MM",
-    "votes": 4,
-    "posted": "Nov 15, 2016 12:17:47 AM"
-  },
-  {
-    "id": "12954241",
-    "timestamp": "Nov 15, 2016 12:18:43 AM",
-    "topic": "BackerKit (YC W13) Is Hiring a Growth Intern",
-    "url": "https://angel.co/backerkit/jobs/142199-growth-internship",
-    "votes": 1,
-    "posted": "Nov 15, 2016 12:17:15 AM"
-  },
-  {
-    "id": "12954240",
-    "timestamp": "Nov 15, 2016 12:28:44 AM",
-    "topic": "Show HN: Priorities for a Rad Progressive Movement",
-    "url": "https://radprogs.com",
-    "votes": 3,
-    "posted": "Nov 15, 2016 12:16:44 AM"
-  },
-  {
-    "id": "12954188",
-    "timestamp": "Nov 15, 2016 1:48:52 AM",
-    "topic": "Nytimes asks readers to stay with them",
-    "url": "http://mobile.nytimes.com/2016/11/13/us/elections/to-our-readers-from-the-publisher-and-executive-editor.html",
-    "votes": 6,
-    "posted": "Nov 15, 2016 12:06:49 AM"
-  },
-  {
-    "id": "12954126",
-    "timestamp": "Nov 15, 2016 12:18:43 AM",
-    "topic": "Wannabe Data Scientists! Learn the basics with these 7 books!",
-    "url": "https://medium.com/@datalab/wannabe-data-scientists-learn-the-basics-with-these-7-books-1a41cfbbdd34",
-    "votes": 4,
-    "posted": "Nov 14, 2016 11:57:59 PM"
   }
 ];
