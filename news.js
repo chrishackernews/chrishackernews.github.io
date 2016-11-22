@@ -1,5 +1,53 @@
 var newsArray = [
   {
+    "id": "13014768",
+    "timestamp": "Nov 22, 2016 4:56:59 PM",
+    "topic": "Trump hires very best, greatest net neut haters to head FCC transition",
+    "url": "http://www.theregister.co.uk/2016/11/21/trump_fcc_net_neutrality_haters/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 4:35:45 PM"
+  },
+  {
+    "id": "13014543",
+    "timestamp": "Nov 22, 2016 4:36:57 PM",
+    "topic": "Doom on the MacBook Pro Touch Bar",
+    "url": "http://www.iclarified.com/57924/doom-on-the-macbook-pro-touch-bar-video",
+    "votes": 4,
+    "posted": "Nov 22, 2016 4:00:16 PM"
+  },
+  {
+    "id": "13014542",
+    "timestamp": "Nov 22, 2016 4:06:54 PM",
+    "topic": "How to Create a Simple Hacker News Reader with Qt Network and JSON",
+    "url": "http://blog.davidecoppola.com/2016/11/qt-network-and-json-example-simple-hacker-news-reader/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:00:10 PM"
+  },
+  {
+    "id": "13014472",
+    "timestamp": "Nov 22, 2016 4:06:54 PM",
+    "topic": "List of Computer Science courses with video lectures",
+    "url": "https://github.com/Developer-Y/cs-video-courses/blob/master/README.md",
+    "votes": 7,
+    "posted": "Nov 22, 2016 3:50:37 PM"
+  },
+  {
+    "id": "13014454",
+    "timestamp": "Nov 22, 2016 4:26:56 PM",
+    "topic": "Agile methods don\u0027t exist So, what does agility mean exactly?",
+    "url": "http://10clouds.com/blog/whats-agile-development/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 3:48:52 PM"
+  },
+  {
+    "id": "13014435",
+    "timestamp": "Nov 22, 2016 4:06:54 PM",
+    "topic": "Now Even Your Headphones Can Spy on You",
+    "url": "https://www.wired.com/2016/11/great-now-even-headphones-can-spy/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 3:46:52 PM"
+  },
+  {
     "id": "13014269",
     "timestamp": "Nov 22, 2016 3:26:50 PM",
     "topic": "Impraise is hiring a Product Manager to change how people share feedback at work",
@@ -102,6 +150,21 @@ var newsArray = [
     "url": "https://medium.com/@fergiemcdowall/why-isnt-software-engineering-a-profession-68d1900112fc",
     "votes": 4,
     "posted": "Nov 22, 2016 1:03:39 PM"
+  },
+  {
+    "id": "13013434",
+    "timestamp": "Nov 22, 2016 4:46:58 PM",
+    "topic": "Show HN: An easy-to-install small chat room, with chat history",
+    "url": "https://github.com/josephernest/talktalktalk",
+    "votes": 3,
+    "posted": "Nov 22, 2016 12:56:55 PM"
+  },
+  {
+    "id": "13013419",
+    "timestamp": "Nov 22, 2016 4:26:56 PM",
+    "topic": "Ask HN: What are your experiences with the Touch Bar so far?",
+    "votes": 7,
+    "posted": "Nov 22, 2016 12:54:23 PM"
   },
   {
     "id": "13013327",
@@ -310,6 +373,14 @@ var newsArray = [
     "url": "http://www.nio.io/",
     "votes": 3,
     "posted": "Nov 22, 2016 6:06:38 AM"
+  },
+  {
+    "id": "13011749",
+    "timestamp": "Nov 22, 2016 4:06:54 PM",
+    "topic": "Finance Is Not the Economy",
+    "url": "http://evonomics.com/finance-is-not-the-economy-bezemer-hudson/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 6:00:39 AM"
   },
   {
     "id": "13011686",
@@ -8748,92 +8819,5 @@ var newsArray = [
     "url": "http://www8.hp.com/us/en/hp-news/press-release.html?id\u003d2364757",
     "votes": 3,
     "posted": "Nov 15, 2016 5:19:16 PM"
-  },
-  {
-    "id": "12958964",
-    "timestamp": "Nov 15, 2016 5:20:16 PM",
-    "topic": "100M Photos – Geotagged, Connected, and Available for All",
-    "url": "http://blog.mapillary.com/update/2016/11/15/100-million-photos-geotagged-connected-and-available-for-all.html",
-    "votes": 7,
-    "posted": "Nov 15, 2016 4:48:39 PM"
-  },
-  {
-    "id": "12958957",
-    "timestamp": "Nov 15, 2016 5:20:16 PM",
-    "topic": "How We Make Money at Stack Overflow: 2016 Edition",
-    "url": "http://stackoverflow.blog/2016/11/How-We-Make-Money-at-Stack-Overflow-2016-Edition/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 4:48:07 PM"
-  },
-  {
-    "id": "12958844",
-    "timestamp": "Nov 15, 2016 5:10:14 PM",
-    "topic": "Ubuntu 16.10 and Unity 8 overview",
-    "url": "http://www.dedoimedo.com/computers/ubuntu-yak-unity-8.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:38:52 PM"
-  },
-  {
-    "id": "12958818",
-    "timestamp": "Nov 15, 2016 5:10:15 PM",
-    "topic": "15-Inch MacBook Pro with Touch Bar Has Non-Removable SSD",
-    "url": "http://www.macrumors.com/2016/11/15/macbook-pro-touch-bar-non-removable-ssd/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:36:06 PM"
-  },
-  {
-    "id": "12958813",
-    "timestamp": "Nov 15, 2016 5:30:17 PM",
-    "topic": "Show HN: Commits.io - Create a poster from your code and logo",
-    "url": "https://commits.io",
-    "votes": 4,
-    "posted": "Nov 15, 2016 4:35:36 PM"
-  },
-  {
-    "id": "12958809",
-    "timestamp": "Nov 15, 2016 6:40:23 PM",
-    "topic": "Secret Backdoor in Some U.S. Phones Sent Data to China, Analysts Say",
-    "url": "http://www.nytimes.com/2016/11/16/us/politics/china-phones-software-security.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:34:59 PM"
-  },
-  {
-    "id": "12958754",
-    "timestamp": "Nov 15, 2016 4:40:12 PM",
-    "topic": "Is Nuclear Power Vital to Hitting CO2 Emissions Targets?",
-    "url": "http://www.wsj.com/articles/is-nuclear-power-vital-to-hitting-co2-emissions-targets-1479092761",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:27:14 PM"
-  },
-  {
-    "id": "12958712",
-    "timestamp": "Nov 17, 2016 10:26:26 PM",
-    "topic": "Ask HN: How do you show off your portfolio of dead side projects?",
-    "votes": 9,
-    "posted": "Nov 15, 2016 4:22:16 PM"
-  },
-  {
-    "id": "12958661",
-    "timestamp": "Nov 15, 2016 4:30:10 PM",
-    "topic": "Mark Zuckerberg Is in Denial",
-    "url": "http://www.nytimes.com/2016/11/15/opinion/mark-zuckerberg-is-in-denial.html?ref\u003dopinion\u0026_r\u003d0",
-    "votes": 5,
-    "posted": "Nov 15, 2016 4:17:11 PM"
-  },
-  {
-    "id": "12958651",
-    "timestamp": "Nov 15, 2016 11:41:06 PM",
-    "topic": "Adversarial Neural Cryptography in TensorFlow",
-    "url": "https://github.com/ankeshanand/neural-cryptography-tensorflow",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:16:30 PM"
-  },
-  {
-    "id": "12958505",
-    "timestamp": "Nov 15, 2016 4:20:09 PM",
-    "topic": "Yammer iOS App ported to Swift 3",
-    "url": "https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1",
-    "votes": 3,
-    "posted": "Nov 15, 2016 4:00:33 PM"
   }
 ];
