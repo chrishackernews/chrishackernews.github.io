@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "13012005",
+    "timestamp": "Nov 22, 2016 7:36:09 AM",
+    "topic": "Show HN: Graffiti – jar analyser",
+    "url": "http://graffiti.gaurs.io/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 7:15:59 AM"
+  },
+  {
+    "id": "13011954",
+    "timestamp": "Nov 22, 2016 7:16:07 AM",
+    "topic": "How we made our React-Rails app 5x faster",
+    "url": "https://blog.progressly.com/how-we-made-our-app-5x-faster-and-set-up-our-dev-team-for-continuous-delivery-193f9b37ff9a#.yurc3d289",
+    "votes": 3,
+    "posted": "Nov 22, 2016 7:00:08 AM"
+  },
+  {
+    "id": "13011932",
+    "timestamp": "Nov 22, 2016 7:16:07 AM",
+    "topic": "Pipfile for Python",
+    "url": "https://github.com/pypa/pipfile",
+    "votes": 10,
+    "posted": "Nov 22, 2016 6:53:07 AM"
+  },
+  {
     "id": "13011859",
     "timestamp": "Nov 22, 2016 6:36:04 AM",
     "topic": "Zapier is hiring an infrastructure engineer – remote welcome",
     "url": "https://zapier.com/jobs/infrastructure-engineer-winter-2016/",
     "votes": 1,
     "posted": "Nov 22, 2016 6:30:23 AM"
+  },
+  {
+    "id": "13011858",
+    "timestamp": "Nov 22, 2016 7:26:08 AM",
+    "topic": "Mastering Time-to-Market with Haskell",
+    "url": "https://www.fpcomplete.com/blog/2016/11/mastering-time-to-market-haskell",
+    "votes": 5,
+    "posted": "Nov 22, 2016 6:29:44 AM"
+  },
+  {
+    "id": "13011764",
+    "timestamp": "Nov 22, 2016 7:26:08 AM",
+    "topic": "NIO EP9 “Fastest Electric Car in the World”",
+    "url": "http://www.nio.io/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 6:06:38 AM"
   },
   {
     "id": "13011686",
@@ -22,6 +62,14 @@ var newsArray = [
     "url": "http://gizmodo.com/report-peter-thiel-quietly-building-silicon-valley-bra-1789243996",
     "votes": 4,
     "posted": "Nov 22, 2016 5:24:26 AM"
+  },
+  {
+    "id": "13011594",
+    "timestamp": "Nov 22, 2016 7:56:11 AM",
+    "topic": "Debian considers merging /usr",
+    "url": "https://dralnux.com/debian-considers-merging-usr/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 5:19:34 AM"
   },
   {
     "id": "13011496",
@@ -135,6 +183,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 3:00:19 AM"
   },
   {
+    "id": "13010983",
+    "timestamp": "Nov 22, 2016 7:16:07 AM",
+    "topic": "Writing Robust Bash Shell Scripts",
+    "url": "http://www.davidpashley.com/articles/writing-robust-shell-scripts/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 2:52:53 AM"
+  },
+  {
     "id": "13010949",
     "timestamp": "Nov 22, 2016 3:25:46 AM",
     "topic": "Amazon S3 and Glacier Price Reductions",
@@ -197,6 +253,14 @@ var newsArray = [
     "url": "https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.1lnibz30j",
     "votes": 3,
     "posted": "Nov 22, 2016 1:19:00 AM"
+  },
+  {
+    "id": "13010509",
+    "timestamp": "Nov 22, 2016 7:16:08 AM",
+    "topic": "New preact website",
+    "url": "https://preactjs.com",
+    "votes": 6,
+    "posted": "Nov 22, 2016 1:12:44 AM"
   },
   {
     "id": "13010396",
@@ -8825,51 +8889,5 @@ var newsArray = [
     "url": "https://jhatax.blogspot.com/2016/11/developers-windows-linux-subsystem-is.html",
     "votes": 4,
     "posted": "Nov 15, 2016 8:00:37 AM"
-  },
-  {
-    "id": "12956160",
-    "timestamp": "Nov 15, 2016 9:39:36 AM",
-    "topic": "Killing Lara Croft",
-    "url": "https://quarterly.camposanto.com/killing-lara-croft-869cd174ae34#.xd4cfcltn",
-    "votes": 3,
-    "posted": "Nov 15, 2016 7:56:05 AM"
-  },
-  {
-    "id": "12956143",
-    "timestamp": "Nov 15, 2016 8:49:32 AM",
-    "topic": "Whatsapp: Video Calling",
-    "url": "https://blog.whatsapp.com/10000629/WhatsApp-Video-Calling",
-    "votes": 5,
-    "posted": "Nov 15, 2016 7:52:07 AM"
-  },
-  {
-    "id": "12956128",
-    "timestamp": "Nov 15, 2016 10:39:41 AM",
-    "topic": "Ask HN: Most of team quit my startup. What to do?",
-    "votes": 5,
-    "posted": "Nov 15, 2016 7:47:53 AM"
-  },
-  {
-    "id": "12956059",
-    "timestamp": "Nov 15, 2016 7:49:26 AM",
-    "topic": "Do you really want an SPA framework? – Michael S. Mikowski",
-    "url": "https://mmikowski.github.io/no-frameworks/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 7:25:08 AM"
-  },
-  {
-    "id": "12956025",
-    "timestamp": "Nov 15, 2016 7:19:24 AM",
-    "topic": "Launch new verticals at iCracked – PMs and Engineers join us",
-    "url": "https://www.icracked.com/careers",
-    "votes": 1,
-    "posted": "Nov 15, 2016 7:17:28 AM"
-  },
-  {
-    "id": "12955967",
-    "timestamp": "Nov 15, 2016 6:10:21 PM",
-    "topic": "Scala slack channel",
-    "votes": 3,
-    "posted": "Nov 15, 2016 7:04:41 AM"
   }
 ];
