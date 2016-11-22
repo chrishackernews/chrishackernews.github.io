@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13014269",
+    "timestamp": "Nov 22, 2016 3:26:50 PM",
+    "topic": "Impraise is hiring a Product Manager to change how people share feedback at work",
+    "url": "http://jobs.impraise.com/o/sr-product-manager",
+    "votes": 1,
+    "posted": "Nov 22, 2016 3:21:19 PM"
+  },
+  {
+    "id": "13014168",
+    "timestamp": "Nov 22, 2016 3:26:51 PM",
+    "topic": "IntelliJ IDEA 2016.3",
+    "url": "https://blog.jetbrains.com/idea/2016/11/intellij-idea-2016-3-ga-java-8-and-es6-debugger-and-ui-improvements-and-a-ton-more/",
+    "votes": 6,
+    "posted": "Nov 22, 2016 3:05:14 PM"
+  },
+  {
     "id": "13013868",
     "timestamp": "Nov 22, 2016 2:26:44 PM",
     "topic": "Ultralight IKEA Backpack",
     "url": "http://sandiegomitch.com/backpacking.html",
     "votes": 10,
     "posted": "Nov 22, 2016 2:17:05 PM"
+  },
+  {
+    "id": "13013867",
+    "timestamp": "Nov 22, 2016 3:16:50 PM",
+    "topic": "The Tableau Drag Race Results",
+    "url": "https://cmtoomey.github.io/speed/2016/11/04/tableaudragrace.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 2:16:52 PM"
   },
   {
     "id": "13013819",
@@ -184,6 +208,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 8:45:07 AM"
   },
   {
+    "id": "13012348",
+    "timestamp": "Nov 22, 2016 3:46:52 PM",
+    "topic": "University of Waterloo created a goose-tracking map, because geese are bullies",
+    "url": "http://www.theverge.com/2016/11/21/13677516/goose-watch-geese-tracking-app-university-of-waterloo",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:36:02 AM"
+  },
+  {
     "id": "13012225",
     "timestamp": "Nov 22, 2016 8:16:13 AM",
     "topic": "India\u0027s Misguided War on Cash",
@@ -246,6 +278,14 @@ var newsArray = [
     "url": "https://github.com/pypa/pipfile",
     "votes": 10,
     "posted": "Nov 22, 2016 6:53:07 AM"
+  },
+  {
+    "id": "13011872",
+    "timestamp": "Nov 22, 2016 3:46:52 PM",
+    "topic": "Thucydides Roundtable, Book IV: History Is Written by the Losers",
+    "url": "http://zenpundit.com/?p\u003d53624",
+    "votes": 3,
+    "posted": "Nov 22, 2016 6:33:42 AM"
   },
   {
     "id": "13011859",
@@ -977,6 +1017,14 @@ var newsArray = [
     "posted": "Nov 21, 2016 5:58:28 PM"
   },
   {
+    "id": "13006834",
+    "timestamp": "Nov 22, 2016 3:56:53 PM",
+    "topic": "Brian Eno\u0027s Oblique Strategies Cards [pdf]",
+    "url": "https://joeribollaerts.files.wordpress.com/2010/04/brianeno_obliquestrategies1.pdf",
+    "votes": 3,
+    "posted": "Nov 21, 2016 5:53:58 PM"
+  },
+  {
     "id": "13006746",
     "timestamp": "Nov 21, 2016 8:25:07 PM",
     "topic": "Why Did Ancient Italians Bury Thousands of Clay Body Parts?",
@@ -1055,6 +1103,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/21/tesla-officially-acquires-solarcity/",
     "votes": 4,
     "posted": "Nov 21, 2016 4:08:49 PM"
+  },
+  {
+    "id": "13005869",
+    "timestamp": "Nov 22, 2016 3:46:52 PM",
+    "topic": "Amazon adds FIFO feature to its Queue Service",
+    "url": "https://aws.amazon.com/blogs/aws/new-for-amazon-simple-queue-service-fifo-queues-with-exactly-once-delivery-deduplication",
+    "votes": 4,
+    "posted": "Nov 21, 2016 4:04:56 PM"
   },
   {
     "id": "13005792",
@@ -8779,92 +8835,5 @@ var newsArray = [
     "url": "https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1",
     "votes": 3,
     "posted": "Nov 15, 2016 4:00:33 PM"
-  },
-  {
-    "id": "12958445",
-    "timestamp": "Nov 15, 2016 6:00:20 PM",
-    "topic": "Show HN: Primitive for macOS",
-    "url": "https://primitive.lol/",
-    "votes": 17,
-    "posted": "Nov 15, 2016 3:54:01 PM"
-  },
-  {
-    "id": "12958403",
-    "timestamp": "Nov 15, 2016 4:20:09 PM",
-    "topic": "Richard Branson reveals prototype for supersonic passenger aircraft",
-    "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom?CMP\u003dtwt_gu",
-    "votes": 3,
-    "posted": "Nov 15, 2016 3:49:55 PM"
-  },
-  {
-    "id": "12958392",
-    "timestamp": "Nov 15, 2016 11:21:04 PM",
-    "topic": "Developers need to learn to negotiate",
-    "url": "http://www.expatsoftware.com/Articles/developers-should-learn-to-negotiate.html",
-    "votes": 5,
-    "posted": "Nov 15, 2016 3:48:44 PM"
-  },
-  {
-    "id": "12958310",
-    "timestamp": "Nov 15, 2016 5:10:15 PM",
-    "topic": "The Stupidly Expensive June Oven Is Actually Stupidly Amazing",
-    "url": "http://gizmodo.com/the-stupidly-expensive-june-oven-is-actually-stupidly-a-1788068498",
-    "votes": 3,
-    "posted": "Nov 15, 2016 3:39:03 PM"
-  },
-  {
-    "id": "12958201",
-    "timestamp": "Nov 15, 2016 3:50:07 PM",
-    "topic": "BBC: Why India wiped out 86% of its cash overnight",
-    "url": "http://www.bbc.co.uk/news/world-asia-india-37974423",
-    "votes": 3,
-    "posted": "Nov 15, 2016 3:26:33 PM"
-  },
-  {
-    "id": "12958156",
-    "timestamp": "Nov 15, 2016 3:50:06 PM",
-    "topic": "Progress on addressing online abuse",
-    "url": "https://blog.twitter.com/2016/progress-on-addressing-online-abuse",
-    "votes": 5,
-    "posted": "Nov 15, 2016 3:20:52 PM"
-  },
-  {
-    "id": "12958132",
-    "timestamp": "Nov 15, 2016 10:00:47 PM",
-    "topic": "A Dinosaur with a Beak and Feathers Unearthed in China",
-    "url": "http://www.nytimes.com/2016/11/11/science/dinosaur-mud-dragon.html?",
-    "votes": 6,
-    "posted": "Nov 15, 2016 3:17:32 PM"
-  },
-  {
-    "id": "12958124",
-    "timestamp": "Nov 15, 2016 3:50:06 PM",
-    "topic": "Russians Fit Cell Towers with Pole-21 Missile Defense System",
-    "url": "https://edgylabs.com/2016/11/15/pole-21-missile-defense-system/",
-    "votes": 8,
-    "posted": "Nov 15, 2016 3:16:58 PM"
-  },
-  {
-    "id": "12958093",
-    "timestamp": "Nov 15, 2016 3:20:04 PM",
-    "topic": "Le Tote (YC S13) Is Hiring a Sr. Full Stack Engineer, Disrupt Fashion with Us",
-    "url": "http://grnh.se/5ybu4t1",
-    "votes": 1,
-    "posted": "Nov 15, 2016 3:13:08 PM"
-  },
-  {
-    "id": "12958065",
-    "timestamp": "Nov 15, 2016 4:40:12 PM",
-    "topic": "Ask HN: Solo founder support group?",
-    "votes": 3,
-    "posted": "Nov 15, 2016 3:10:10 PM"
-  },
-  {
-    "id": "12957965",
-    "timestamp": "Nov 15, 2016 7:40:29 PM",
-    "topic": "Show HN: My friend misspelled “which” command, so I created this script for him",
-    "url": "https://gist.github.com/shanielh/ca5ff87d7d7b43394224a34f0ee0d20f",
-    "votes": 9,
-    "posted": "Nov 15, 2016 2:57:40 PM"
   }
 ];
