@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "13015035",
+    "timestamp": "Nov 22, 2016 5:17:00 PM",
+    "topic": "Keyframes by Facebook",
+    "url": "https://code.facebook.com/posts/354469174916519/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 5:11:40 PM"
+  },
+  {
+    "id": "13014900",
+    "timestamp": "Nov 22, 2016 5:57:06 PM",
+    "topic": "Ask HN: What are the bibles of Computer Science?",
+    "votes": 4,
+    "posted": "Nov 22, 2016 4:57:35 PM"
+  },
+  {
     "id": "13014768",
     "timestamp": "Nov 22, 2016 4:56:59 PM",
     "topic": "Trump hires very best, greatest net neut haters to head FCC transition",
@@ -24,6 +39,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 4:00:10 PM"
   },
   {
+    "id": "13014537",
+    "timestamp": "Nov 22, 2016 5:17:01 PM",
+    "topic": "Bitcoin was supposed to change the world. What happened?",
+    "url": "http://www.vox.com/new-money/2016/11/21/13669662/bitcoin-ethereum-future-explained",
+    "votes": 4,
+    "posted": "Nov 22, 2016 3:58:46 PM"
+  },
+  {
     "id": "13014472",
     "timestamp": "Nov 22, 2016 4:06:54 PM",
     "topic": "List of Computer Science courses with video lectures",
@@ -46,6 +69,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/great-now-even-headphones-can-spy/",
     "votes": 3,
     "posted": "Nov 22, 2016 3:46:52 PM"
+  },
+  {
+    "id": "13014429",
+    "timestamp": "Nov 22, 2016 5:17:00 PM",
+    "topic": "Scott Meyers: Help me sort out the meaning of “{}” as a constructor argument",
+    "url": "http://scottmeyers.blogspot.com/2016/11/help-me-sort-out-meaning-of-as.html",
+    "votes": 10,
+    "posted": "Nov 22, 2016 3:46:22 PM"
   },
   {
     "id": "13014269",
@@ -245,6 +276,14 @@ var newsArray = [
     "url": "http://workplace.stackexchange.com/q/79992/979",
     "votes": 3,
     "posted": "Nov 22, 2016 9:19:40 AM"
+  },
+  {
+    "id": "13012476",
+    "timestamp": "Nov 22, 2016 5:37:02 PM",
+    "topic": "WordPress download server is a SPOF for 26% of top 10M websites",
+    "url": "http://www.openwall.com/lists/oss-security/2016/11/21/3",
+    "votes": 3,
+    "posted": "Nov 22, 2016 9:04:44 AM"
   },
   {
     "id": "13012442",
@@ -516,6 +555,13 @@ var newsArray = [
     "url": "http://www.reuters.com/article/us-global-markets-idUSKBN13H02S?feedType\u003dRSS\u0026feedName\u003dtopNews",
     "votes": 3,
     "posted": "Nov 22, 2016 3:20:13 AM"
+  },
+  {
+    "id": "13011102",
+    "timestamp": "Nov 22, 2016 5:27:01 PM",
+    "topic": "Ask HN: Is there a reason downvotes on HN don\u0027t require comments?",
+    "votes": 6,
+    "posted": "Nov 22, 2016 3:19:52 AM"
   },
   {
     "id": "13011038",
@@ -8780,44 +8826,5 @@ var newsArray = [
     "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dCryptsetup-Security-Fail",
     "votes": 5,
     "posted": "Nov 15, 2016 6:23:39 PM"
-  },
-  {
-    "id": "12959804",
-    "timestamp": "Nov 15, 2016 6:40:23 PM",
-    "topic": "Ask HN: Alternatives to Fogbugz",
-    "votes": 4,
-    "posted": "Nov 15, 2016 5:56:48 PM"
-  },
-  {
-    "id": "12959514",
-    "timestamp": "Nov 16, 2016 3:22:39 PM",
-    "topic": "Neptune’s Navy (2007)",
-    "url": "http://www.newyorker.com/magazine/2007/11/05/neptunes-navy",
-    "votes": 3,
-    "posted": "Nov 15, 2016 5:35:18 PM"
-  },
-  {
-    "id": "12959457",
-    "timestamp": "Nov 15, 2016 5:40:18 PM",
-    "topic": "Backblaze hard drive reliability stats for Q3 2016",
-    "url": "https://www.backblaze.com/blog/hard-drive-failure-rates-q3-2016/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 5:30:16 PM"
-  },
-  {
-    "id": "12959406",
-    "timestamp": "Nov 16, 2016 6:41:44 AM",
-    "topic": "Show HN: Track what\u0027s happening in the top 200 apps",
-    "url": "http://www.mightysignal.com/timeline",
-    "votes": 8,
-    "posted": "Nov 15, 2016 5:26:36 PM"
-  },
-  {
-    "id": "12959313",
-    "timestamp": "Nov 15, 2016 5:30:17 PM",
-    "topic": "HP Unveils Industry’s First-Ever Mini Workstation",
-    "url": "http://www8.hp.com/us/en/hp-news/press-release.html?id\u003d2364757",
-    "votes": 3,
-    "posted": "Nov 15, 2016 5:19:16 PM"
   }
 ];
