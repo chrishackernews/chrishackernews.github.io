@@ -1,5 +1,107 @@
 var newsArray = [
   {
+    "id": "13015778",
+    "timestamp": "Nov 22, 2016 6:57:13 PM",
+    "topic": "Illegal prime",
+    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:41:31 PM"
+  },
+  {
+    "id": "13015777",
+    "timestamp": "Nov 22, 2016 6:57:13 PM",
+    "topic": "MXNet – Deep Learning Framework of Choice at AWS",
+    "url": "http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:41:29 PM"
+  },
+  {
+    "id": "13015631",
+    "timestamp": "Nov 22, 2016 6:47:12 PM",
+    "topic": "How to Become a UX Designer – 5 Steps to Jump-Starting Your UX Career",
+    "url": "http://www.kylejlarson.com/blog/how-to-become-a-ux-designer/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 6:24:29 PM"
+  },
+  {
+    "id": "13015615",
+    "timestamp": "Nov 22, 2016 6:57:13 PM",
+    "topic": "Are videos really the best tool for the job of educating coders?",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:22:04 PM"
+  },
+  {
+    "id": "13015590",
+    "timestamp": "Nov 22, 2016 6:37:10 PM",
+    "topic": "2016 Retina MacBook Pro Caveats",
+    "url": "https://www.lvh.io/posts/2016-rmbp-caveats.html",
+    "votes": 16,
+    "posted": "Nov 22, 2016 6:18:34 PM"
+  },
+  {
+    "id": "13015588",
+    "timestamp": "Nov 22, 2016 6:37:11 PM",
+    "topic": "Chernobyl Is Going to Become a Solar Farm",
+    "url": "http://www.popularmechanics.com/science/green-tech/a23979/solar-farm-chernobyl/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 6:18:09 PM"
+  },
+  {
+    "id": "13015581",
+    "timestamp": "Nov 22, 2016 6:37:11 PM",
+    "topic": "Katana – Modern Swift framework for creating iOS apps, inspired by React/Redux",
+    "url": "https://github.com/BendingSpoons/katana-swift",
+    "votes": 7,
+    "posted": "Nov 22, 2016 6:17:18 PM"
+  },
+  {
+    "id": "13015566",
+    "timestamp": "Nov 22, 2016 6:57:13 PM",
+    "topic": "Ask HN: What sort of SaaS related content do you read?",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:15:27 PM"
+  },
+  {
+    "id": "13015552",
+    "timestamp": "Nov 22, 2016 6:37:10 PM",
+    "topic": "Feynman’s first paper (1939)",
+    "url": "http://fermatslibrary.com/s/the-scattering-of-cosmic-rays-by-the-stars-of-a-galaxy",
+    "votes": 15,
+    "posted": "Nov 22, 2016 6:13:02 PM"
+  },
+  {
+    "id": "13015537",
+    "timestamp": "Nov 22, 2016 6:37:11 PM",
+    "topic": "Webhooks do’s and dont’s: what we learned after integrating +100 APIs",
+    "url": "https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671#.9rl15pi3z",
+    "votes": 7,
+    "posted": "Nov 22, 2016 6:11:28 PM"
+  },
+  {
+    "id": "13015455",
+    "timestamp": "Nov 22, 2016 6:17:08 PM",
+    "topic": "The year you were born predicts flu risk",
+    "url": "https://directorsblog.nih.gov/2016/11/22/birth-year-predicts-bird-flu-risk/#more-7263",
+    "votes": 5,
+    "posted": "Nov 22, 2016 6:00:55 PM"
+  },
+  {
+    "id": "13015421",
+    "timestamp": "Nov 22, 2016 6:17:08 PM",
+    "topic": "The Web Summit: Watching the World Rot",
+    "url": "https://www.theatlantic.com/technology/archive/2016/11/the-warped-world-of-web-summit/508442/?single_page\u003dtrue",
+    "votes": 6,
+    "posted": "Nov 22, 2016 5:57:59 PM"
+  },
+  {
+    "id": "13015350",
+    "timestamp": "Nov 22, 2016 6:07:07 PM",
+    "topic": "Assange and Wikileaks – Some basic facts all in one place",
+    "url": "https://www.reddit.com/r/WhereIsAssange/comments/5e9v1x/some_basic_facts_all_in_one_place_i_wanted_to/",
+    "votes": 10,
+    "posted": "Nov 22, 2016 5:51:12 PM"
+  },
+  {
     "id": "13015035",
     "timestamp": "Nov 22, 2016 5:17:00 PM",
     "topic": "Keyframes by Facebook",
@@ -183,6 +285,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 1:03:39 PM"
   },
   {
+    "id": "13013450",
+    "timestamp": "Nov 22, 2016 6:07:07 PM",
+    "topic": "Billionaires vs. The Press in the Era of Trump",
+    "url": "http://www.nytimes.com/2016/11/22/magazine/billionaires-vs-the-press-in-the-era-of-trump.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 1:00:52 PM"
+  },
+  {
     "id": "13013434",
     "timestamp": "Nov 22, 2016 4:46:58 PM",
     "topic": "Show HN: An easy-to-install small chat room, with chat history",
@@ -316,6 +426,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/21/13677516/goose-watch-geese-tracking-app-university-of-waterloo",
     "votes": 4,
     "posted": "Nov 22, 2016 8:36:02 AM"
+  },
+  {
+    "id": "13012261",
+    "timestamp": "Nov 22, 2016 6:37:11 PM",
+    "topic": "Increasing Testosterone by Shining Light on Your Testicles",
+    "url": "http://biohackersummit.com/2016/10/25/olli-sovijarvi-the-upgraded-doctor-on-testosterone/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:14:41 AM"
   },
   {
     "id": "13012225",
@@ -8763,68 +8881,5 @@ var newsArray = [
     "url": "https://www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design",
     "votes": 5,
     "posted": "Nov 15, 2016 7:07:35 PM"
-  },
-  {
-    "id": "12960365",
-    "timestamp": "Nov 15, 2016 7:00:25 PM",
-    "topic": "$1.44 per terabyte: setting a new world record with Apache Spark",
-    "url": "https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 6:54:35 PM"
-  },
-  {
-    "id": "12960298",
-    "timestamp": "Nov 15, 2016 7:10:26 PM",
-    "topic": "Facebook’s fake news problem is dividing the company’s employees",
-    "url": "https://news.vice.com/story/facebooks-fake-news-problem-is-dividing-the-companys-employees",
-    "votes": 5,
-    "posted": "Nov 15, 2016 6:46:56 PM"
-  },
-  {
-    "id": "12960283",
-    "timestamp": "Nov 15, 2016 9:00:37 PM",
-    "topic": "OpenAI Joins Microsoft on the Cloud’s Next Big Front: Chips",
-    "url": "https://www.wired.com/2016/11/next-battles-clouds-ai-chips/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 6:45:18 PM"
-  },
-  {
-    "id": "12960186",
-    "timestamp": "Nov 15, 2016 7:00:25 PM",
-    "topic": "Ask HN: Best multiplayer game engines for JavaScript/Node.js 2016?",
-    "votes": 5,
-    "posted": "Nov 15, 2016 6:34:42 PM"
-  },
-  {
-    "id": "12960169",
-    "timestamp": "Nov 15, 2016 6:50:24 PM",
-    "topic": "A One-Line Proof of the Infinitude of Primes",
-    "url": "http://fermatslibrary.com/s/a-one-line-proof-of-the-infinitude-of-primes",
-    "votes": 10,
-    "posted": "Nov 15, 2016 6:33:30 PM"
-  },
-  {
-    "id": "12960168",
-    "timestamp": "Nov 16, 2016 12:11:08 AM",
-    "topic": "Hillary only needed to switch 53,650 voters to win",
-    "url": "https://medium.com/p/hillary-only-needed-to-switch-53-650-voters-to-win-94940ff263b7",
-    "votes": 13,
-    "posted": "Nov 15, 2016 6:33:29 PM"
-  },
-  {
-    "id": "12960149",
-    "timestamp": "Nov 15, 2016 6:50:24 PM",
-    "topic": "“I\u0027m sorry Mr. Zuckerberg, but you are wrong”, on compound effects of false news",
-    "url": "https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424#.sg9c81jue",
-    "votes": 4,
-    "posted": "Nov 15, 2016 6:31:37 PM"
-  },
-  {
-    "id": "12960070",
-    "timestamp": "Nov 15, 2016 7:00:25 PM",
-    "topic": "Just hit enter to get a shell of the rooty sort",
-    "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dCryptsetup-Security-Fail",
-    "votes": 5,
-    "posted": "Nov 15, 2016 6:23:39 PM"
   }
 ];
