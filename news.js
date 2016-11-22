@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13011462",
+    "timestamp": "Nov 22, 2016 5:25:57 AM",
+    "topic": "Why Native Apps Really Are Doomed",
+    "url": "https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.wj3r17ufi",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:48:18 AM"
+  },
+  {
     "id": "13011393",
     "timestamp": "Nov 22, 2016 4:55:54 AM",
     "topic": "Nonlinear climate sensitivity and its implications for future greenhouse warming",
@@ -8847,61 +8855,5 @@ var newsArray = [
     "url": "https://www.jetbrains.com/rider/",
     "votes": 3,
     "posted": "Nov 15, 2016 5:59:38 AM"
-  },
-  {
-    "id": "12955697",
-    "timestamp": "Nov 15, 2016 7:59:27 AM",
-    "topic": "MacPaw\u0027s “Netflix for Apps” 40 Apps for 10$ a Month",
-    "url": "http://thenextweb.com/apps/2016/11/06/setapp-wants-netflix-macos-applications/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 5:55:44 AM"
-  },
-  {
-    "id": "12955593",
-    "timestamp": "Nov 15, 2016 6:59:22 AM",
-    "topic": "One Weird Trick to Destroy Western Civilization",
-    "url": "https://medium.com/@jasongoldstein/one-weird-trick-to-destroy-western-civilization-bb857f446634?source\u003dlinkShare-8c0b52057ce3-1479184382",
-    "votes": 4,
-    "posted": "Nov 15, 2016 5:33:55 AM"
-  },
-  {
-    "id": "12955574",
-    "timestamp": "Nov 15, 2016 7:59:27 AM",
-    "topic": "EC2 Price Reduction (C4, M4, and T2 Instances)",
-    "url": "https://aws.amazon.com/blogs/aws/ec2-price-reduction-c4-m4-and-t2-instances/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 5:26:18 AM"
-  },
-  {
-    "id": "12955529",
-    "timestamp": "Nov 15, 2016 7:59:28 AM",
-    "topic": "Primitive Technology: Forge Blower [video]",
-    "url": "https://www.youtube.com/watch?v\u003dVVV4xeWBIxE",
-    "votes": 3,
-    "posted": "Nov 15, 2016 5:13:04 AM"
-  },
-  {
-    "id": "12955503",
-    "timestamp": "Nov 15, 2016 5:59:17 AM",
-    "topic": "Death of the hatchet job",
-    "url": "http://www.newstatesman.com/politics/uk/2016/11/death-hatchet-job",
-    "votes": 3,
-    "posted": "Nov 15, 2016 5:04:18 AM"
-  },
-  {
-    "id": "12955484",
-    "timestamp": "Nov 15, 2016 7:59:28 AM",
-    "topic": "Major linux bug allows root shell by holding enter key",
-    "url": "http://www.zdnet.com/article/major-linux-security-hole-gapes-open/",
-    "votes": 9,
-    "posted": "Nov 15, 2016 4:57:04 AM"
-  },
-  {
-    "id": "12955476",
-    "timestamp": "Nov 15, 2016 5:29:14 AM",
-    "topic": "Apple\u0027s desensitisation of the human race to fundamental security practices",
-    "url": "https://www.troyhunt.com/apples-desensitisation-of-the-human-race-to-fundamental-security-practices/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 4:55:55 AM"
   }
 ];
