@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13016192",
+    "timestamp": "Nov 22, 2016 7:27:16 PM",
+    "topic": "Next Caller (YC W14) Is Hiring a VP of Marketing",
+    "url": "https://jobs.lever.co/nextcaller/bce69be4-ced8-4561-95f7-34603e543ed6",
+    "votes": 1,
+    "posted": "Nov 22, 2016 7:26:02 PM"
+  },
+  {
+    "id": "13016132",
+    "timestamp": "Nov 22, 2016 7:37:18 PM",
+    "topic": "4 fatal flaws in deterministic password managers",
+    "url": "https://tonyarcieri.com/4-fatal-flaws-in-deterministic-password-managers",
+    "votes": 3,
+    "posted": "Nov 22, 2016 7:18:30 PM"
+  },
+  {
+    "id": "13015944",
+    "timestamp": "Nov 22, 2016 7:07:14 PM",
+    "topic": "Before You Grow",
+    "url": "https://blog.ycombinator.com/before-you-grow/",
+    "votes": 11,
+    "posted": "Nov 22, 2016 6:58:14 PM"
+  },
+  {
+    "id": "13015919",
+    "timestamp": "Nov 22, 2016 7:27:17 PM",
+    "topic": "A lighter pull request workflow",
+    "url": "https://medium.com/@krave/a-lighter-pull-request-workflow-972301e30c5#.r2gl6nl13",
+    "votes": 8,
+    "posted": "Nov 22, 2016 6:54:48 PM"
+  },
+  {
+    "id": "13015841",
+    "timestamp": "Nov 22, 2016 7:17:15 PM",
+    "topic": "Did the NOSQL Wave Fail or Succeed?",
+    "url": "http://tapes.scalevp.com/did-nosql-fail-succeed-roger-bodamer-mongodb-mariadb/",
+    "votes": 6,
+    "posted": "Nov 22, 2016 6:48:10 PM"
+  },
+  {
     "id": "13015778",
     "timestamp": "Nov 22, 2016 6:57:13 PM",
     "topic": "Illegal prime",
@@ -29,6 +69,14 @@ var newsArray = [
     "topic": "Are videos really the best tool for the job of educating coders?",
     "votes": 4,
     "posted": "Nov 22, 2016 6:22:04 PM"
+  },
+  {
+    "id": "13015597",
+    "timestamp": "Nov 22, 2016 7:27:17 PM",
+    "topic": "Why LaCroix sparkling water is suddenly everywhere",
+    "url": "http://www.vox.com/2016/6/20/11666314/lacroix-sparkling-water-seltzer",
+    "votes": 3,
+    "posted": "Nov 22, 2016 6:19:56 PM"
   },
   {
     "id": "13015590",
@@ -68,6 +116,14 @@ var newsArray = [
     "url": "http://fermatslibrary.com/s/the-scattering-of-cosmic-rays-by-the-stars-of-a-galaxy",
     "votes": 15,
     "posted": "Nov 22, 2016 6:13:02 PM"
+  },
+  {
+    "id": "13015544",
+    "timestamp": "Nov 22, 2016 7:27:16 PM",
+    "topic": "EnterpriseReady – The Enterprise Ready SaaS Feature Guides",
+    "url": "https://www.enterpriseready.io/",
+    "votes": 8,
+    "posted": "Nov 22, 2016 6:12:10 PM"
   },
   {
     "id": "13015537",
@@ -123,6 +179,14 @@ var newsArray = [
     "url": "http://www.theregister.co.uk/2016/11/21/trump_fcc_net_neutrality_haters/",
     "votes": 5,
     "posted": "Nov 22, 2016 4:35:45 PM"
+  },
+  {
+    "id": "13014731",
+    "timestamp": "Nov 22, 2016 7:07:14 PM",
+    "topic": "No Evidence of Aloe Vera Found in the Aloe Vera at Wal-Mart, CVS",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-22/no-evidence-of-aloe-vera-found-in-the-aloe-vera-at-wal-mart-cvs",
+    "votes": 10,
+    "posted": "Nov 22, 2016 4:29:25 PM"
   },
   {
     "id": "13014543",
@@ -8785,101 +8849,5 @@ var newsArray = [
     "url": "http://www.computerworld.com/article/3136676/application-development/machine-learning-the-deplorable-state-of-deployment.html",
     "votes": 3,
     "posted": "Nov 15, 2016 7:59:35 PM"
-  },
-  {
-    "id": "12961012",
-    "timestamp": "Nov 15, 2016 8:40:34 PM",
-    "topic": "CockroachDB Stability Post-Mortem: From 1 Node to 100 Nodes",
-    "url": "https://www.cockroachlabs.com/blog/cockroachdb-stability-from-1-node-to-100-nodes/",
-    "votes": 11,
-    "posted": "Nov 15, 2016 7:53:42 PM"
-  },
-  {
-    "id": "12960962",
-    "timestamp": "Nov 16, 2016 12:31:10 AM",
-    "topic": "Now your photos look better than ever – even those dusty old prints",
-    "url": "https://blog.google/products/photos/now-your-photos-look-better-ever-even-those-dusty-old-prints/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 7:48:12 PM"
-  },
-  {
-    "id": "12960914",
-    "timestamp": "Nov 15, 2016 8:00:31 PM",
-    "topic": "Firefox 50 is out today: brings massively improved startup speeds",
-    "url": "https://www.neowin.net/news/firefox-50-is-out-today-brings-massively-improved-start-up-speeds",
-    "votes": 3,
-    "posted": "Nov 15, 2016 7:42:55 PM"
-  },
-  {
-    "id": "12960889",
-    "timestamp": "Nov 15, 2016 8:50:35 PM",
-    "topic": "779,236 Java Logging Statements, 1,313 GitHub Repos: ERROR, WARN or FATAL?",
-    "url": "http://blog.takipi.com/779236-java-logging-statements-1313-github-repositories-error-warn-or-fatal/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 7:41:10 PM"
-  },
-  {
-    "id": "12960844",
-    "timestamp": "Nov 15, 2016 9:10:37 PM",
-    "topic": "CRISPR gene-editing tested in a person for the first time",
-    "url": "http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988",
-    "votes": 4,
-    "posted": "Nov 15, 2016 7:36:52 PM"
-  },
-  {
-    "id": "12960799",
-    "timestamp": "Nov 15, 2016 11:11:02 PM",
-    "topic": "PhotoScan by Google",
-    "url": "https://www.google.com/photos/scan/",
-    "votes": 9,
-    "posted": "Nov 15, 2016 7:33:47 PM"
-  },
-  {
-    "id": "12960742",
-    "timestamp": "Nov 15, 2016 7:50:30 PM",
-    "topic": "Mozilla Firefox 50",
-    "url": "https://www.mozilla.org/en%2DUS/firefox/50.0/releasenotes/",
-    "votes": 12,
-    "posted": "Nov 15, 2016 7:28:00 PM"
-  },
-  {
-    "id": "12960715",
-    "timestamp": "Nov 15, 2016 10:51:00 PM",
-    "topic": "Mark Zuckerberg Is in Denial",
-    "url": "http://www.nytimes.com/2016/11/15/opinion/mark-zuckerberg-is-in-denial.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 7:25:16 PM"
-  },
-  {
-    "id": "12960606",
-    "timestamp": "Nov 15, 2016 8:10:32 PM",
-    "topic": "General Electric Buys Vancouver Startup Bit Stew for $153M",
-    "url": "http://www.theglobeandmail.com/technology/general-electric-buys-vancouver-startup-bit-stew-for-153-million/article32841507/?utm_source\u003dShared+Article+Sent+to+User\u0026utm_medium\u003dE-mail:+Newsletters+/+E-Blasts+/+etc.\u0026utm_campaign\u003dShared+Web+Article+Links",
-    "votes": 3,
-    "posted": "Nov 15, 2016 7:16:38 PM"
-  },
-  {
-    "id": "12960561",
-    "timestamp": "Nov 15, 2016 7:20:27 PM",
-    "topic": "Tesorio (YC S15) Is Hiring Senior Back End and Full Stack Engineers",
-    "url": "https://www.tesorio.com/careers/",
-    "votes": 1,
-    "posted": "Nov 15, 2016 7:13:17 PM"
-  },
-  {
-    "id": "12960548",
-    "timestamp": "Nov 15, 2016 7:20:27 PM",
-    "topic": "Fake Facebook News Is a Disaster for Political Discourse",
-    "url": "http://www.forbes.com/sites/jaymcgregor/2016/11/15/fake-facebook-news-is-a-disaster-for-political-discourse/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 7:12:22 PM"
-  },
-  {
-    "id": "12960495",
-    "timestamp": "Nov 15, 2016 7:30:28 PM",
-    "topic": "This $1,500 Toaster Oven Is Everything That\u0027s Wrong with Silicon Valley Design",
-    "url": "https://www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design",
-    "votes": 5,
-    "posted": "Nov 15, 2016 7:07:35 PM"
   }
 ];
