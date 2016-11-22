@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "13018049",
+    "timestamp": "Nov 22, 2016 11:07:37 PM",
+    "topic": "Algolia Is Hiring Solutions Engineers in SF, NYC, Paris, London and Sydney",
+    "url": "https://www.algolia.com/careers#?j\u003d95cd2b04-7123-4b10-99a8-5772b4f231b9#job-description",
+    "votes": 1,
+    "posted": "Nov 22, 2016 10:58:24 PM"
+  },
+  {
+    "id": "13018033",
+    "timestamp": "Nov 22, 2016 11:27:39 PM",
+    "topic": "The world\u0027s most dangerous countries mapped",
+    "url": "http://www.dailymail.co.uk/travel/travel_news/article-3937272/The-world-s-dangerous-countries-mapped-Syria-Afghanistan-Yemen-riskiest-places-visit-Norway-Sweden-Iceland-ranked-safest.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:56:43 PM"
+  },
+  {
+    "id": "13017892",
+    "timestamp": "Nov 22, 2016 11:07:38 PM",
+    "topic": "Barack Obama commuted sentences of more than 1,000 in prison for drug crimes",
+    "url": "http://qz.com/844035/barack-obama-has-now-commuted-the-sentences-of-more-than-1000-people-in-prison-for-drug-crimes/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 10:35:45 PM"
+  },
+  {
+    "id": "13017877",
+    "timestamp": "Nov 22, 2016 11:17:39 PM",
+    "topic": "Ask HN: What home automation platform should I get started with?",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:33:59 PM"
+  },
+  {
+    "id": "13017869",
+    "timestamp": "Nov 22, 2016 11:37:40 PM",
+    "topic": "\u0027Bleak\u0027 – Most students have trouble idenifying fake news, Stanford study finds",
+    "url": "http://mashable.com/2016/11/22/stanford-fake-news-study",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:33:04 PM"
+  },
+  {
     "id": "13017843",
     "timestamp": "Nov 22, 2016 10:57:36 PM",
     "topic": "Elon Musk vs. the Trolls",
@@ -8,12 +47,43 @@ var newsArray = [
     "posted": "Nov 22, 2016 10:29:25 PM"
   },
   {
+    "id": "13017805",
+    "timestamp": "Nov 22, 2016 11:37:40 PM",
+    "topic": "What’s the best feedback you got when you DIDN’T get the job?",
+    "votes": 6,
+    "posted": "Nov 22, 2016 10:24:44 PM"
+  },
+  {
+    "id": "13017766",
+    "timestamp": "Nov 22, 2016 11:17:39 PM",
+    "topic": "It\u0027s not the skills gap: why so many jobs are going unfilled",
+    "url": "http://www.thefiscaltimes.com/2016/11/14/Its-Not-Skills-Gap-Why-So-Many-Jobs-Are-Going-Unfilled",
+    "votes": 5,
+    "posted": "Nov 22, 2016 10:20:10 PM"
+  },
+  {
+    "id": "13017748",
+    "timestamp": "Nov 22, 2016 11:07:37 PM",
+    "topic": "Who’s Hiring? Some good news and Some bad news",
+    "url": "http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/whos-hiring-whos-firing-checking-in-on-tech-jobs-starting-with-bad-news-from-volkswagen#.WDS2ANrN63I.hackernews",
+    "votes": 4,
+    "posted": "Nov 22, 2016 10:18:22 PM"
+  },
+  {
     "id": "13017478",
     "timestamp": "Nov 22, 2016 9:47:31 PM",
     "topic": "Open-V: The World\u0027s First Open Source RISC-V-based 32-bit Microcontroller",
     "url": "https://www.crowdsupply.com/onchip/open-v",
     "votes": 3,
     "posted": "Nov 22, 2016 9:43:24 PM"
+  },
+  {
+    "id": "13017258",
+    "timestamp": "Nov 22, 2016 11:47:41 PM",
+    "topic": "GitLab 8.14 Released with Time Tracking Beta and Chat Commands – GitLab",
+    "url": "https://about.gitlab.com/2016/11/22/gitlab-8-14-released/",
+    "votes": 10,
+    "posted": "Nov 22, 2016 9:16:07 PM"
   },
   {
     "id": "13017249",
@@ -118,6 +188,14 @@ var newsArray = [
     "url": "https://stratechery.com/2016/fake-news/",
     "votes": 5,
     "posted": "Nov 22, 2016 8:04:43 PM"
+  },
+  {
+    "id": "13016240",
+    "timestamp": "Nov 22, 2016 11:07:38 PM",
+    "topic": "11 Bizarre International Idioms Drawn by Award-Winning Illustrator Paul Blow",
+    "url": "http://www.orphicpixel.com/bizarre-international-idioms/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 7:30:58 PM"
   },
   {
     "id": "13016192",
@@ -323,6 +401,14 @@ var newsArray = [
     "topic": "Ask HN: What are the bibles of Computer Science?",
     "votes": 4,
     "posted": "Nov 22, 2016 4:57:35 PM"
+  },
+  {
+    "id": "13014819",
+    "timestamp": "Nov 22, 2016 11:07:38 PM",
+    "topic": "Exxon Mobil Accuses the Rockefellers of a Climate Conspiracy",
+    "url": "http://www.nytimes.com/2016/11/21/science/exxon-mobil-rockefellers-climate-change.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:44:18 PM"
   },
   {
     "id": "13014768",
@@ -8635,108 +8721,5 @@ var newsArray = [
     "url": "https://community.rapid7.com/community/metasploit/blog/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3",
     "votes": 3,
     "posted": "Nov 15, 2016 11:59:15 PM"
-  },
-  {
-    "id": "12962999",
-    "timestamp": "Nov 16, 2016 12:21:09 AM",
-    "topic": "Introducing PhotoScan by Google Photos",
-    "url": "https://www.youtube.com/watch?v\u003dMEyDt0DNjWU",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:42:51 PM"
-  },
-  {
-    "id": "12962990",
-    "timestamp": "Nov 16, 2016 1:31:15 AM",
-    "topic": "Decades after deadly lab accident, a secret Russian bioweapon decoded",
-    "url": "http://arstechnica.com/science/2016/11/decades-after-deadly-lab-accident-a-secret-russian-bioweapon-decoded/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 11:41:01 PM"
-  },
-  {
-    "id": "12962989",
-    "timestamp": "Nov 16, 2016 2:21:19 AM",
-    "topic": "Ask HN: How do you create good key performance indicators? (KPIs)",
-    "votes": 5,
-    "posted": "Nov 15, 2016 11:40:49 PM"
-  },
-  {
-    "id": "12962947",
-    "timestamp": "Nov 16, 2016 1:21:14 AM",
-    "topic": "CIA, NSA ordered to reveal whether they surveilled Occupy Philly",
-    "url": "http://www.philly.com/philly/news/20161115_CIA__NSA_ordered_to_reveal_to_judge_whether_they_were_involved_in_Occupy_Philly_surveillance.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:34:07 PM"
-  },
-  {
-    "id": "12962940",
-    "timestamp": "Nov 16, 2016 12:41:11 AM",
-    "topic": "UN Report: Robots Will Replace Two-Thirds of All Workers in the Developing World",
-    "url": "http://futurism.com/un-report-robots-will-replace-two-thirds-of-all-workers-in-the-developing-world/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:33:33 PM"
-  },
-  {
-    "id": "12962875",
-    "timestamp": "Nov 15, 2016 11:41:06 PM",
-    "topic": "Startup CEO resigns after “joking” about killing Trump",
-    "url": "http://arstechnica.com/tech-policy/2016/11/network-security-company-ceo-resigns-after-joking-about-killing-trump/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 11:23:28 PM"
-  },
-  {
-    "id": "12962872",
-    "timestamp": "Nov 16, 2016 1:01:12 AM",
-    "topic": "A Theory of Taxonomy",
-    "url": "https://arxiv.org/abs/1611.03890",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:23:14 PM"
-  },
-  {
-    "id": "12962853",
-    "timestamp": "Nov 15, 2016 11:41:06 PM",
-    "topic": "Wikileaks latest insurance files don\u0027t match hashes",
-    "url": "https://np.reddit.com/r/crypto/comments/5cz1fz/wikileaks_latest_insurance_files_dont_match_hashes/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 11:21:22 PM"
-  },
-  {
-    "id": "12962776",
-    "timestamp": "Nov 15, 2016 11:21:03 PM",
-    "topic": "The Most Effective Weapon on the Modern Battlefield Is Concrete",
-    "url": "http://mwi.usma.edu/effective-weapon-modern-battlefield-concrete/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:12:49 PM"
-  },
-  {
-    "id": "12962755",
-    "timestamp": "Nov 15, 2016 11:31:05 PM",
-    "topic": "Military Leaders Urge Trump to See Climate as a Security Threat",
-    "url": "https://www.scientificamerican.com/article/military-leaders-urge-trump-to-see-climate-as-a-security-threat/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:09:50 PM"
-  },
-  {
-    "id": "12962684",
-    "timestamp": "Nov 15, 2016 11:41:06 PM",
-    "topic": "ADOBE TO PAY $1 MILLION FOR DATA BREACH",
-    "url": "http://www.ncdoj.gov/News-and-Alerts/News-Releases-and-Advisories/Press-Releases/Adobe-to-pay-$1-million-for-data-breach,-bolster-s.aspx",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:02:30 PM"
-  },
-  {
-    "id": "12962665",
-    "timestamp": "Nov 16, 2016 12:11:08 AM",
-    "topic": "Lyft replaces pink mustache with psychedelic dash display that knows your name",
-    "url": "http://www.theverge.com/2016/11/15/13624152/lyft-amp-led-display-replace-pink-mustache-logo",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:00:19 PM"
-  },
-  {
-    "id": "12962640",
-    "timestamp": "Nov 16, 2016 3:52:41 PM",
-    "topic": "At Last, a Black History Museum",
-    "url": "http://www.nybooks.com/articles/2016/11/24/smithsonian-black-history-museum/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 10:57:39 PM"
   }
 ];
