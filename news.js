@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13010923",
+    "timestamp": "Nov 22, 2016 2:45:43 AM",
+    "topic": "Drchrono (YC W11) Looking for Python/Django Engineers",
+    "url": "https://www.hackerrank.com/tests/527036edb11ff/0ca5532381fbebad9fffaa28dc90475f",
+    "votes": 1,
+    "posted": "Nov 22, 2016 2:39:32 AM"
+  },
+  {
+    "id": "13010731",
+    "timestamp": "Nov 22, 2016 2:55:44 AM",
+    "topic": "Julian Assange Overtakes Donald Trump in TIME Person of the Year Reader’s Poll",
+    "url": "http://time.com/4578520/julian-assange-donald-trump-person-of-the-year-poll/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 1:55:24 AM"
+  },
+  {
     "id": "13010547",
     "timestamp": "Nov 22, 2016 1:35:37 AM",
     "topic": "Secessionists formally launch quest for California\u0027s independence",
     "url": "http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-california-secession-calexit-htmlstory.html",
     "votes": 4,
     "posted": "Nov 22, 2016 1:19:34 AM"
+  },
+  {
+    "id": "13010544",
+    "timestamp": "Nov 22, 2016 2:05:40 AM",
+    "topic": "Syscall Auditing at Scale",
+    "url": "https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.1lnibz30j",
+    "votes": 3,
+    "posted": "Nov 22, 2016 1:19:00 AM"
   },
   {
     "id": "13010396",
@@ -80,12 +104,26 @@ var newsArray = [
     "posted": "Nov 21, 2016 10:57:20 PM"
   },
   {
+    "id": "13009518",
+    "timestamp": "Nov 22, 2016 2:05:40 AM",
+    "topic": "Ask HN: How do you begin to find contracts as a freelancer?",
+    "votes": 4,
+    "posted": "Nov 21, 2016 10:45:51 PM"
+  },
+  {
     "id": "13009417",
     "timestamp": "Nov 21, 2016 10:45:24 PM",
     "topic": "Japan issues tsunami warning after magnitude 7.3 earthquake",
     "url": "http://www.bbc.com/news/world-asia-38059371",
     "votes": 11,
     "posted": "Nov 21, 2016 10:34:33 PM"
+  },
+  {
+    "id": "13009285",
+    "timestamp": "Nov 22, 2016 2:05:40 AM",
+    "topic": "Ask HN: What do you use to build micro-front ends?",
+    "votes": 8,
+    "posted": "Nov 21, 2016 10:16:14 PM"
   },
   {
     "id": "13009135",
@@ -117,6 +155,13 @@ var newsArray = [
     "url": "http://www.miamiherald.com/news/nation-world/national/article116118398.html#fmp",
     "votes": 3,
     "posted": "Nov 21, 2016 9:46:52 PM"
+  },
+  {
+    "id": "13008970",
+    "timestamp": "Nov 22, 2016 2:05:40 AM",
+    "topic": "Ask HN: What domain registrar are you using these days?",
+    "votes": 6,
+    "posted": "Nov 21, 2016 9:38:31 PM"
   },
   {
     "id": "13008908",
@@ -8826,68 +8871,5 @@ var newsArray = [
     "url": "https://www.postgresql.org/about/news/1717/",
     "votes": 5,
     "posted": "Nov 15, 2016 3:17:48 AM"
-  },
-  {
-    "id": "12954995",
-    "timestamp": "Nov 15, 2016 3:29:04 AM",
-    "topic": "Trump insider: New administration won\u0027t attack renewable energy",
-    "url": "http://www.utilitydive.com/news/trump-energy-policy/430205/",
-    "votes": 7,
-    "posted": "Nov 15, 2016 2:51:57 AM"
-  },
-  {
-    "id": "12954891",
-    "timestamp": "Nov 15, 2016 6:39:20 AM",
-    "topic": "From Haskell to Java: modeling your problem domain with types",
-    "url": "https://www.lendup.com/engineering/post/haskell-to-java-modeling-your-problem",
-    "votes": 10,
-    "posted": "Nov 15, 2016 2:29:13 AM"
-  },
-  {
-    "id": "12954878",
-    "timestamp": "Nov 15, 2016 7:59:27 AM",
-    "topic": "Running Arch Linux on the Lenovo Yoga 910",
-    "url": "http://chaos-reins.com/2016-11-14-arch-yoga-910/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 2:25:51 AM"
-  },
-  {
-    "id": "12954868",
-    "timestamp": "Nov 17, 2016 3:54:50 AM",
-    "topic": "Ask HN: How to improve vim productivity and workflow?",
-    "votes": 8,
-    "posted": "Nov 15, 2016 2:22:33 AM"
-  },
-  {
-    "id": "12954839",
-    "timestamp": "Nov 15, 2016 3:09:02 AM",
-    "topic": "Silicon Valley was worried about the wrong bubble",
-    "url": "http://www.businessinsider.com/how-silicon-valley-missed-trump-2016-11",
-    "votes": 5,
-    "posted": "Nov 15, 2016 2:14:36 AM"
-  },
-  {
-    "id": "12954838",
-    "timestamp": "Nov 15, 2016 7:59:28 AM",
-    "topic": "Auto generating CMS based on your GraphQL schema",
-    "url": "https://medium.com/@sarkis.tlt/auto-generating-cms-based-on-your-graphql-schema-5eaa6b07987b#.8v2d0mj7n",
-    "votes": 4,
-    "posted": "Nov 15, 2016 2:14:17 AM"
-  },
-  {
-    "id": "12954825",
-    "timestamp": "Nov 15, 2016 2:59:01 AM",
-    "topic": "Moving machine learning from practice to production",
-    "url": "https://engineering.semantics3.com/2016/11/13/machine-learning-practice-to-production/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 2:10:45 AM"
-  },
-  {
-    "id": "12954773",
-    "timestamp": "Nov 15, 2016 2:38:58 AM",
-    "topic": "Intel Publishes Open-Source Graphics Driver Code for Bringing Up “Geminilake”",
-    "url": "http://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dIntel-Geminilake-Enablement",
-    "votes": 3,
-    "posted": "Nov 15, 2016 1:57:14 AM"
   }
 ];
