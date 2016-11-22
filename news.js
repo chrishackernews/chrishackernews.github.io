@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13017478",
+    "timestamp": "Nov 22, 2016 9:47:31 PM",
+    "topic": "Open-V: The World\u0027s First Open Source RISC-V-based 32-bit Microcontroller",
+    "url": "https://www.crowdsupply.com/onchip/open-v",
+    "votes": 3,
+    "posted": "Nov 22, 2016 9:43:24 PM"
+  },
+  {
+    "id": "13017249",
+    "timestamp": "Nov 22, 2016 9:57:32 PM",
+    "topic": "Visual Studio Code 1.7.2 Release Notes",
+    "url": "https://code.visualstudio.com/updates#_172-recovery-build",
+    "votes": 5,
+    "posted": "Nov 22, 2016 9:15:39 PM"
+  },
+  {
+    "id": "13017098",
+    "timestamp": "Nov 22, 2016 9:17:28 PM",
+    "topic": "Trump hires two net neutrality opponents to oversee FCC transition",
+    "url": "http://arstechnica.com/tech-policy/2016/11/trump-hires-two-net-neutrality-opponents-to-oversee-fcc-transition/",
+    "votes": 5,
+    "posted": "Nov 22, 2016 8:59:34 PM"
+  },
+  {
+    "id": "13017078",
+    "timestamp": "Nov 22, 2016 9:37:30 PM",
+    "topic": "Google is down in all of the Czech Republic",
+    "url": "http://www.praguemorning.cz/google-czech-republic/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:57:23 PM"
+  },
+  {
+    "id": "13016815",
+    "timestamp": "Nov 22, 2016 9:17:28 PM",
+    "topic": "Panasonic invests $60m in world\u0027s first laundry-folding robot",
+    "url": "http://www.telegraph.co.uk/technology/2016/11/21/panasonic-invests-60m-worlds-first-laundry-folding-robot/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 8:32:13 PM"
+  },
+  {
     "id": "13016708",
     "timestamp": "Nov 22, 2016 8:47:25 PM",
     "topic": "Machine Learning for Everyday Tasks",
@@ -120,6 +160,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 6:41:29 PM"
   },
   {
+    "id": "13015647",
+    "timestamp": "Nov 22, 2016 9:57:32 PM",
+    "topic": "How Jared Kushner Won Trump the White House",
+    "url": "http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:26:22 PM"
+  },
+  {
     "id": "13015631",
     "timestamp": "Nov 22, 2016 6:47:12 PM",
     "topic": "How to Become a UX Designer – 5 Steps to Jump-Starting Your UX Career",
@@ -220,6 +268,14 @@ var newsArray = [
     "url": "https://www.reddit.com/r/WhereIsAssange/comments/5e9v1x/some_basic_facts_all_in_one_place_i_wanted_to/",
     "votes": 10,
     "posted": "Nov 22, 2016 5:51:12 PM"
+  },
+  {
+    "id": "13015329",
+    "timestamp": "Nov 22, 2016 9:17:27 PM",
+    "topic": "Show HN: cmdbikes, bike sharing at your terminal",
+    "url": "https://github.com/eskerda/cmdbikes",
+    "votes": 6,
+    "posted": "Nov 22, 2016 5:48:16 PM"
   },
   {
     "id": "13015035",
@@ -698,6 +754,14 @@ var newsArray = [
     "url": "https://dralnux.com/debian-considers-merging-usr/",
     "votes": 4,
     "posted": "Nov 22, 2016 5:19:34 AM"
+  },
+  {
+    "id": "13011509",
+    "timestamp": "Nov 22, 2016 9:27:28 PM",
+    "topic": "Great histories written by losers",
+    "url": "http://scholars-stage.blogspot.com/2016/11/history-is-written-by-losers.html?m\u003d1",
+    "votes": 4,
+    "posted": "Nov 22, 2016 5:01:03 AM"
   },
   {
     "id": "13011496",
@@ -8762,93 +8826,5 @@ var newsArray = [
     "url": "http://ir.amd.com/phoenix.zhtml?c\u003d74093\u0026p\u003dirol-newsArticle\u0026ID\u003d2222685",
     "votes": 4,
     "posted": "Nov 15, 2016 10:01:02 PM"
-  },
-  {
-    "id": "12962135",
-    "timestamp": "Nov 15, 2016 10:20:54 PM",
-    "topic": "Google A.I. Experiments",
-    "url": "https://aiexperiments.withgoogle.com",
-    "votes": 6,
-    "posted": "Nov 15, 2016 9:57:27 PM"
-  },
-  {
-    "id": "12962072",
-    "timestamp": "Nov 15, 2016 10:20:54 PM",
-    "topic": "Unreal Engine 4.14 Released",
-    "url": "https://www.unrealengine.com/blog/unreal-engine-4-14-released",
-    "votes": 5,
-    "posted": "Nov 15, 2016 9:49:09 PM"
-  },
-  {
-    "id": "12962022",
-    "timestamp": "Nov 15, 2016 11:01:01 PM",
-    "topic": "Strange Numbers Found in Particle Collisions",
-    "url": "https://www.quantamagazine.org/20161115-strange-numbers-found-in-particle-collisions/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 9:42:07 PM"
-  },
-  {
-    "id": "12961971",
-    "timestamp": "Nov 16, 2016 5:31:38 AM",
-    "topic": "On metadata",
-    "url": "http://lemire.me/blog/2016/11/15/on-metadata/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 9:36:26 PM"
-  },
-  {
-    "id": "12961914",
-    "timestamp": "Nov 16, 2016 1:31:15 AM",
-    "topic": "How I left behind my silicon dream for a saner place to work",
-    "url": "https://m.signalvnoise.com/how-i-left-behind-my-silicon-dream-for-a-saner-place-to-work-3c58c9bc24ab#.pqu70xkad",
-    "votes": 3,
-    "posted": "Nov 15, 2016 9:29:37 PM"
-  },
-  {
-    "id": "12961907",
-    "timestamp": "Nov 16, 2016 4:22:44 PM",
-    "topic": "How Fujifilm’s cameras and lenses are Made in Japan",
-    "url": "http://www.theverge.com/2016/1/18/10785038/fujifilm-x-pro-2-lens-factory-manufacturing-photos",
-    "votes": 4,
-    "posted": "Nov 15, 2016 9:28:59 PM"
-  },
-  {
-    "id": "12961849",
-    "timestamp": "Nov 15, 2016 9:30:39 PM",
-    "topic": "Amazon\u0027s Blu phone has a back door",
-    "url": "http://arstechnica.com/security/2016/11/chinese-company-installed-secret-backdoor-on-hundreds-of-thousands-of-phones/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 9:23:58 PM"
-  },
-  {
-    "id": "12961739",
-    "timestamp": "Nov 15, 2016 9:40:41 PM",
-    "topic": "Tech company CEO fired after threatening to kill Trump",
-    "url": "http://www.news965.com/news/news/local/tech-company-ceo-fired-after-threatening-kill-trum/ns8KJ/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 9:13:28 PM"
-  },
-  {
-    "id": "12961735",
-    "timestamp": "Nov 15, 2016 9:30:39 PM",
-    "topic": "Trump will control the NSA - what this means for your privacy",
-    "url": "https://protonmail.com/blog/trump-control-nsa-privacy/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 9:13:15 PM"
-  },
-  {
-    "id": "12961721",
-    "timestamp": "Nov 15, 2016 10:20:55 PM",
-    "topic": "Announcing GPUs for Google Cloud Platform",
-    "url": "https://cloudplatform.googleblog.com/2016/11/announcing-GPUs-for-Google-Cloud-Platform.html",
-    "votes": 10,
-    "posted": "Nov 15, 2016 9:11:39 PM"
-  },
-  {
-    "id": "12961686",
-    "timestamp": "Nov 15, 2016 9:20:38 PM",
-    "topic": "One Man Scours San Francisco for the Traces of Film Noir",
-    "url": "http://www.citylab.com/navigator/2016/11/san-francisco-noir-film-locations-reefsf-brian-hollins/506993/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 9:07:24 PM"
   }
 ];
