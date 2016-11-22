@@ -8921,28 +8921,5 @@ var newsArray = [
     "url": "http://etceterology.com/blog/2013/4/6/what-is-randomness",
     "votes": 4,
     "posted": "Nov 15, 2016 12:08:17 PM"
-  },
-  {
-    "id": "12956967",
-    "timestamp": "Nov 15, 2016 12:49:50 PM",
-    "topic": "VodafoneUK says it carries ~10,000TB of 4G traffic a month",
-    "url": "http://blog.vodafone.co.uk/2016/11/09/improving-network-numbers-10-mind-blowing-facts-mobile-signal-uk/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:32:16 AM"
-  },
-  {
-    "id": "12956885",
-    "timestamp": "Nov 15, 2016 8:50:35 PM",
-    "topic": "Show HN: Eskéndereyya – Learn how to read and write Arabic",
-    "url": "https://github.com/samihasan/eskendereyya",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:08:32 AM"
-  },
-  {
-    "id": "12956845",
-    "timestamp": "Nov 15, 2016 11:19:44 AM",
-    "topic": "Ask HN: Best encrypted messaging app atm?",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:58:11 AM"
   }
 ];
