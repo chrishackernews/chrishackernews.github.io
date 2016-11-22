@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13012225",
+    "timestamp": "Nov 22, 2016 8:16:13 AM",
+    "topic": "India\u0027s Misguided War on Cash",
+    "url": "https://www.bloomberg.com/view/articles/2016-11-22/india-s-misguided-war-on-cash",
+    "votes": 5,
+    "posted": "Nov 22, 2016 8:07:05 AM"
+  },
+  {
+    "id": "13012214",
+    "timestamp": "Nov 22, 2016 8:56:17 AM",
+    "topic": "The people trying to save programming from itself",
+    "url": "https://killscreen.com/articles/people-trying-save-programming",
+    "votes": 3,
+    "posted": "Nov 22, 2016 8:04:19 AM"
+  },
+  {
+    "id": "13012146",
+    "timestamp": "Nov 22, 2016 8:06:12 AM",
+    "topic": "Learning to Program Without Writing the Usual Sort of Code",
+    "url": "http://prog21.dadgum.com/226.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 7:44:57 AM"
+  },
+  {
+    "id": "13012077",
+    "timestamp": "Nov 22, 2016 8:36:15 AM",
+    "topic": "Experience of a drive by contribution to Python Cryptography",
+    "url": "http://bitsofpy.blogspot.com/2016/11/python-cryptography-contribution.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 7:33:05 AM"
+  },
+  {
     "id": "13012005",
     "timestamp": "Nov 22, 2016 7:36:09 AM",
     "topic": "Show HN: Graffiti – jar analyser",
@@ -117,6 +149,22 @@ var newsArray = [
     "topic": "Ask HN: What are the leading causes of Cancer in San Francisco?",
     "votes": 3,
     "posted": "Nov 22, 2016 4:14:50 AM"
+  },
+  {
+    "id": "13011329",
+    "timestamp": "Nov 22, 2016 8:16:13 AM",
+    "topic": "The secretive brain trust of Silicon Valley insiders who are helping Trump",
+    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/21/the-secretive-brain-trust-of-silicon-valley-insiders-who-are-helping-trump",
+    "votes": 5,
+    "posted": "Nov 22, 2016 4:10:40 AM"
+  },
+  {
+    "id": "13011214",
+    "timestamp": "Nov 22, 2016 8:16:13 AM",
+    "topic": "The secretive brain trust of Silicon Valley insiders who are helping Trump",
+    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/21/the-secretive-brain-trust-of-silicon-valley-insiders-who-are-helping-trump/?tid\u003dsm_tw",
+    "votes": 4,
+    "posted": "Nov 22, 2016 3:45:52 AM"
   },
   {
     "id": "13011185",
@@ -263,6 +311,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 1:12:44 AM"
   },
   {
+    "id": "13010401",
+    "timestamp": "Nov 22, 2016 8:36:15 AM",
+    "topic": "Persuasion versus Populism",
+    "url": "http://blog.dilbert.com/post/153480921421/persuasion-versus-populism",
+    "votes": 4,
+    "posted": "Nov 22, 2016 12:50:34 AM"
+  },
+  {
     "id": "13010396",
     "timestamp": "Nov 22, 2016 1:25:36 AM",
     "topic": "How Eve unifies your entire programming stack",
@@ -325,6 +381,13 @@ var newsArray = [
     "url": "http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html",
     "votes": 5,
     "posted": "Nov 22, 2016 12:12:05 AM"
+  },
+  {
+    "id": "13010089",
+    "timestamp": "Nov 22, 2016 8:36:15 AM",
+    "topic": "Show HN: Markdown to PDF converter site (www.markdownpdfconverter.com)",
+    "votes": 4,
+    "posted": "Nov 22, 2016 12:03:40 AM"
   },
   {
     "id": "13010016",
@@ -425,6 +488,14 @@ var newsArray = [
     "url": "https://medium.com/@kaistinchcombe/why-true-link-is-launching-an-investment-division-today-1bd30aff34a4",
     "votes": 3,
     "posted": "Nov 21, 2016 9:30:36 PM"
+  },
+  {
+    "id": "13008855",
+    "timestamp": "Nov 22, 2016 8:06:12 AM",
+    "topic": "Show HN: Tourgather makes it easy for solo travellers to connect and meet",
+    "url": "http://www.tourgather.co",
+    "votes": 6,
+    "posted": "Nov 21, 2016 9:25:30 PM"
   },
   {
     "id": "13008784",
@@ -736,6 +807,14 @@ var newsArray = [
     "url": "https://5pi.de/2016/11/20/15-producation-grade-kubernetes-cluster/",
     "votes": 5,
     "posted": "Nov 21, 2016 4:55:09 PM"
+  },
+  {
+    "id": "13006109",
+    "timestamp": "Nov 22, 2016 8:36:15 AM",
+    "topic": "Show HN: The best books for founders, recommended by successful entrepreneurs",
+    "url": "http://founderprint.com",
+    "votes": 5,
+    "posted": "Nov 21, 2016 4:35:19 PM"
   },
   {
     "id": "13005902",
@@ -8857,37 +8936,5 @@ var newsArray = [
     "url": "http://www.jsnice.org/",
     "votes": 7,
     "posted": "Nov 15, 2016 9:14:53 AM"
-  },
-  {
-    "id": "12956363",
-    "timestamp": "Nov 15, 2016 1:39:54 PM",
-    "topic": "To Learn Programming, Do Projects You Actually Care About",
-    "url": "https://datarebellion.com/blog/to-learn-programming-do-projects-you-actually-care-about/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 8:55:53 AM"
-  },
-  {
-    "id": "12956334",
-    "timestamp": "Nov 15, 2016 9:29:35 AM",
-    "topic": "New details emerge on AMD Zen",
-    "url": "https://www.reddit.com/r/Amd/comments/5cffyt/newish_details_about_zen/?st\u003divj74fsq\u0026sh\u003dadb1060e",
-    "votes": 3,
-    "posted": "Nov 15, 2016 8:47:51 AM"
-  },
-  {
-    "id": "12956243",
-    "timestamp": "Nov 15, 2016 8:59:33 AM",
-    "topic": "Show HN: Whosfiring",
-    "url": "https://whosfiring.com",
-    "votes": 11,
-    "posted": "Nov 15, 2016 8:17:46 AM"
-  },
-  {
-    "id": "12956174",
-    "timestamp": "Nov 15, 2016 4:00:07 PM",
-    "topic": "Developers: Try Windows 10 Linux Subsystem Instead of MacOS",
-    "url": "https://jhatax.blogspot.com/2016/11/developers-windows-linux-subsystem-is.html",
-    "votes": 4,
-    "posted": "Nov 15, 2016 8:00:37 AM"
   }
 ];
