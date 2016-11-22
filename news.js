@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13017843",
+    "timestamp": "Nov 22, 2016 10:57:36 PM",
+    "topic": "Elon Musk vs. the Trolls",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-22/elon-musk-vs-the-trolls?cmpid\u003dBBD112216_BIZ\u0026utm_medium\u003demail\u0026utm_source\u003dnewsletter\u0026utm_campaign\u003d",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:29:25 PM"
+  },
+  {
     "id": "13017478",
     "timestamp": "Nov 22, 2016 9:47:31 PM",
     "topic": "Open-V: The World\u0027s First Open Source RISC-V-based 32-bit Microcontroller",
@@ -30,6 +38,30 @@ var newsArray = [
     "url": "http://www.praguemorning.cz/google-czech-republic/",
     "votes": 4,
     "posted": "Nov 22, 2016 8:57:23 PM"
+  },
+  {
+    "id": "13017057",
+    "timestamp": "Nov 22, 2016 10:37:35 PM",
+    "topic": "Revealed: How one Amazon Kindle scam made millions of dollars",
+    "url": "http://www.zdnet.com/article/exclusive-inside-a-million-dollar-amazon-kindle-catfishing-scam/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:56:12 PM"
+  },
+  {
+    "id": "13016980",
+    "timestamp": "Nov 22, 2016 10:07:33 PM",
+    "topic": "I, Pencil (1958)",
+    "url": "https://fee.org/resources/i-pencil-audio-pdf-and-html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 8:48:45 PM"
+  },
+  {
+    "id": "13016948",
+    "timestamp": "Nov 22, 2016 10:27:34 PM",
+    "topic": "NIST’s new password rules – what you need to know",
+    "url": "https://nakedsecurity.sophos.com/2016/08/18/nists-new-password-rules-what-you-need-to-know/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 8:45:31 PM"
   },
   {
     "id": "13016815",
@@ -307,6 +339,14 @@ var newsArray = [
     "url": "http://www.bloomberg.com/news/articles/2016-11-22/no-evidence-of-aloe-vera-found-in-the-aloe-vera-at-wal-mart-cvs",
     "votes": 10,
     "posted": "Nov 22, 2016 4:29:25 PM"
+  },
+  {
+    "id": "13014721",
+    "timestamp": "Nov 22, 2016 10:47:35 PM",
+    "topic": "This 5-second video will crash your iPhone",
+    "url": "http://www.theverge.com/2016/11/22/13713178/iphone-crash-video-mp4-bug",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:26:59 PM"
   },
   {
     "id": "13014543",
@@ -8698,133 +8738,5 @@ var newsArray = [
     "url": "http://www.nybooks.com/articles/2016/11/24/smithsonian-black-history-museum/",
     "votes": 4,
     "posted": "Nov 15, 2016 10:57:39 PM"
-  },
-  {
-    "id": "12962637",
-    "timestamp": "Nov 15, 2016 11:21:04 PM",
-    "topic": "Meet your new language tutors: the Duolingo Bots",
-    "url": "https://www.duolingo.com/comment/18155544",
-    "votes": 4,
-    "posted": "Nov 15, 2016 10:57:32 PM"
-  },
-  {
-    "id": "12962545",
-    "timestamp": "Nov 16, 2016 2:42:36 PM",
-    "topic": "A Bed for Fifty People?",
-    "url": "http://www.theparisreview.org/blog/2016/11/15/bed-fifty-people/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:48:25 PM"
-  },
-  {
-    "id": "12962502",
-    "timestamp": "Nov 16, 2016 3:12:38 PM",
-    "topic": "Show HN: I\u0027m a self-taught developer and this is my first app",
-    "url": "https://itunes.apple.com/us/app/delphi-simplicity-clarity/id1172671058?mt\u003d8/#_\u003d_",
-    "votes": 5,
-    "posted": "Nov 15, 2016 10:42:42 PM"
-  },
-  {
-    "id": "12962477",
-    "timestamp": "Nov 15, 2016 11:21:04 PM",
-    "topic": "Wikileaks latest insurance files don\u0027t match hashes",
-    "url": "https://www.reddit.com/r/crypto/comments/5cz1fz/wikileaks_latest_insurance_files_dont_match_hashes/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 10:39:47 PM"
-  },
-  {
-    "id": "12962442",
-    "timestamp": "Nov 15, 2016 11:01:01 PM",
-    "topic": "Touch Bar MacBook Pro have non-upgradeable SSDs, seemingly under-sized batteries",
-    "url": "https://9to5mac.com/2016/11/15/2016-macbook-pro-non-removable-ssd-small-batteries/",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:35:30 PM"
-  },
-  {
-    "id": "12962410",
-    "timestamp": "Nov 15, 2016 10:40:57 PM",
-    "topic": "LeadGenius Hiring – Big Data Platform Engineer",
-    "url": "https://jobs.lever.co/leadgenius/5a22212b-5ae4-47ca-b732-65d824eb10ad",
-    "votes": 1,
-    "posted": "Nov 15, 2016 10:31:52 PM"
-  },
-  {
-    "id": "12962381",
-    "timestamp": "Nov 16, 2016 4:01:30 AM",
-    "topic": "Quick, Draw",
-    "url": "https://quickdraw.withgoogle.com/",
-    "votes": 4,
-    "posted": "Nov 15, 2016 10:28:16 PM"
-  },
-  {
-    "id": "12962369",
-    "timestamp": "Nov 15, 2016 11:01:01 PM",
-    "topic": "Thorough, not thoroughly fabricated: The truth about global temperature data",
-    "url": "http://arstechnica.com/science/2016/01/thorough-not-thoroughly-fabricated-the-truth-about-global-temperature-data",
-    "votes": 4,
-    "posted": "Nov 15, 2016 10:27:00 PM"
-  },
-  {
-    "id": "12962338",
-    "timestamp": "Nov 15, 2016 10:40:59 PM",
-    "topic": "IBM CEO Ginni Rometty\u0027s Letter to the U.S. President-Elect",
-    "url": "http://www.ibmpolicy.com/ginni_romettys_letter_to_the_president_elect",
-    "votes": 6,
-    "posted": "Nov 15, 2016 10:22:02 PM"
-  },
-  {
-    "id": "12962325",
-    "timestamp": "Nov 15, 2016 10:51:00 PM",
-    "topic": "Altruistic People Have More Sexual Partners",
-    "url": "https://www.scientificamerican.com/article/altruistic-people-have-more-sexual-partners/",
-    "votes": 5,
-    "posted": "Nov 15, 2016 10:19:46 PM"
-  },
-  {
-    "id": "12962317",
-    "timestamp": "Nov 15, 2016 11:11:02 PM",
-    "topic": "Japanese road reopens one week after vast sinkhole appeared",
-    "url": "https://www.theguardian.com/world/2016/nov/15/japan-fixes-vast-fukuoka-city-sinkhole-repaired-two-days",
-    "votes": 4,
-    "posted": "Nov 15, 2016 10:18:31 PM"
-  },
-  {
-    "id": "12962280",
-    "timestamp": "Nov 15, 2016 10:51:00 PM",
-    "topic": "Snap files for IPO",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-15/snapchat-files-confidentially-for-ipo-reuters",
-    "votes": 5,
-    "posted": "Nov 15, 2016 10:13:23 PM"
-  },
-  {
-    "id": "12962270",
-    "timestamp": "Nov 15, 2016 11:21:03 PM",
-    "topic": "Augmenting Human Intellect: A Conceptual Framework",
-    "url": "http://www.1962paper.org/web.html",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:12:07 PM"
-  },
-  {
-    "id": "12962241",
-    "timestamp": "Nov 15, 2016 10:20:54 PM",
-    "topic": "Snapchat has reportedly filed confidentially for its massive IPO",
-    "url": "https://techcrunch.com/2016/11/15/snapchat-has-reportedly-filed-confidentially-for-its-massive-ipo/",
-    "votes": 6,
-    "posted": "Nov 15, 2016 10:09:19 PM"
-  },
-  {
-    "id": "12962178",
-    "timestamp": "Nov 15, 2016 10:20:55 PM",
-    "topic": "\u0027Post-truth\u0027 named word of the year by Oxford Dictionaries",
-    "url": "https://www.theguardian.com/books/2016/nov/15/post-truth-named-word-of-the-year-by-oxford-dictionaries",
-    "votes": 3,
-    "posted": "Nov 15, 2016 10:02:13 PM"
-  },
-  {
-    "id": "12962161",
-    "timestamp": "Nov 16, 2016 1:11:13 AM",
-    "topic": "AMD GPUs to Be Available on Google Cloud Platform in 2017",
-    "url": "http://ir.amd.com/phoenix.zhtml?c\u003d74093\u0026p\u003dirol-newsArticle\u0026ID\u003d2222685",
-    "votes": 4,
-    "posted": "Nov 15, 2016 10:01:02 PM"
   }
 ];
