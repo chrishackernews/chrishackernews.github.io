@@ -1,11 +1,74 @@
 var newsArray = [
   {
+    "id": "13024003",
+    "timestamp": "Nov 23, 2016 6:29:14 PM",
+    "topic": "Ask HN: Why should I use Django?",
+    "votes": 8,
+    "posted": "Nov 23, 2016 6:13:55 PM"
+  },
+  {
+    "id": "13023999",
+    "timestamp": "Nov 23, 2016 6:29:15 PM",
+    "topic": "No, Lawyers Should Not Learn to Code",
+    "url": "https://lawyerist.com/135690/counterpoint-no-lawyers-not-learn-code/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:13:12 PM"
+  },
+  {
+    "id": "13023998",
+    "timestamp": "Nov 23, 2016 6:29:15 PM",
+    "topic": "Be Very Skeptical of Stolen Election Claims",
+    "url": "http://www.vox.com/2016/11/22/13721426/election-hacked-stolen-trump-russia?utm_campaign\u003dvox.social\u0026utm_medium\u003dsocial\u0026utm_content\u003dvoxdotcom\u0026utm_source\u003dtwitter",
+    "votes": 4,
+    "posted": "Nov 23, 2016 6:12:58 PM"
+  },
+  {
+    "id": "13023954",
+    "timestamp": "Nov 23, 2016 6:29:15 PM",
+    "topic": "Breitbart news site blocked by ad exchange",
+    "url": "http://www.bbc.co.uk/news/technology-38076579",
+    "votes": 11,
+    "posted": "Nov 23, 2016 6:06:43 PM"
+  },
+  {
+    "id": "13023918",
+    "timestamp": "Nov 23, 2016 6:29:15 PM",
+    "topic": "How Physics Falls Apart If the EMdrive Works",
+    "url": "http://www.forbes.com/sites/startswithabang/2016/11/23/how-physics-falls-apart-if-the-emdrive-works/#1673149e4b0c",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:02:23 PM"
+  },
+  {
+    "id": "13023823",
+    "timestamp": "Nov 23, 2016 6:19:13 PM",
+    "topic": "MacOS Security and Privacy Guide",
+    "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+    "votes": 6,
+    "posted": "Nov 23, 2016 5:48:46 PM"
+  },
+  {
+    "id": "13023787",
+    "timestamp": "Nov 23, 2016 6:29:14 PM",
+    "topic": "Vote what you want the Webpack team to focus on",
+    "url": "https://webpack.js.org/vote/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 5:43:36 PM"
+  },
+  {
     "id": "13023683",
     "timestamp": "Nov 23, 2016 5:49:11 PM",
     "topic": "GuriVR",
     "url": "https://gurivr.com/",
     "votes": 3,
     "posted": "Nov 23, 2016 5:27:37 PM"
+  },
+  {
+    "id": "13023438",
+    "timestamp": "Nov 23, 2016 6:39:16 PM",
+    "topic": "Mark Zuckerberg is a hypocrite",
+    "url": "http://www.10zenmonkeys.com/2016/11/22/mark-zuckerberg-is-a-hypocrite/",
+    "votes": 18,
+    "posted": "Nov 23, 2016 4:55:59 PM"
   },
   {
     "id": "13023309",
@@ -22,6 +85,14 @@ var newsArray = [
     "url": "https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba#.tuyhjzxvm",
     "votes": 9,
     "posted": "Nov 23, 2016 3:47:22 PM"
+  },
+  {
+    "id": "13022938",
+    "timestamp": "Nov 23, 2016 6:49:16 PM",
+    "topic": "Zuckerberg\u0027s Post on Misinformation, Surrounded by Misinformation",
+    "url": "https://medium.com/@ev/i-found-it-interesting-that-when-i-went-to-read-zuckerbergs-post-about-misinformation-there-were-2ce1393bd76f#.pw32c3tu9",
+    "votes": 3,
+    "posted": "Nov 23, 2016 3:42:16 PM"
   },
   {
     "id": "13022826",
@@ -46,6 +117,14 @@ var newsArray = [
     "url": "http://grnh.se/5ybu4t1",
     "votes": 1,
     "posted": "Nov 23, 2016 3:17:13 PM"
+  },
+  {
+    "id": "13022694",
+    "timestamp": "Nov 23, 2016 6:59:17 PM",
+    "topic": "Subgraph OS: Adversary resistant computing platform",
+    "url": "https://subgraph.com/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 3:08:01 PM"
   },
   {
     "id": "13022686",
@@ -364,6 +443,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 11:50:04 AM"
   },
   {
+    "id": "13021526",
+    "timestamp": "Nov 23, 2016 6:49:16 PM",
+    "topic": "The Unfixable Bug",
+    "url": "http://www.ilikebigbits.com/blog/2016/11/22/the-unfixable-bug",
+    "votes": 6,
+    "posted": "Nov 23, 2016 11:26:13 AM"
+  },
+  {
     "id": "13021520",
     "timestamp": "Nov 23, 2016 5:29:10 PM",
     "topic": "An ancient Chinese bird kept its feathers, and colors, for 130M years",
@@ -386,6 +473,14 @@ var newsArray = [
     "url": "https://fullstackacademy.workable.com/jobs/186349",
     "votes": 1,
     "posted": "Nov 23, 2016 10:07:53 AM"
+  },
+  {
+    "id": "13021203",
+    "timestamp": "Nov 23, 2016 6:29:14 PM",
+    "topic": "Jellyfish Proteins Improve the Polariton Laser",
+    "url": "https://edgylabs.com/2016/11/22/polariton-laser-jellyfish-proteins/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 10:00:37 AM"
   },
   {
     "id": "13021198",
@@ -8688,117 +8783,5 @@ var newsArray = [
     "topic": "Ask HN: Restarting the YC Podcast – who would be most interesting to listen to?",
     "votes": 5,
     "posted": "Nov 16, 2016 7:01:37 PM"
-  },
-  {
-    "id": "12969517",
-    "timestamp": "Nov 16, 2016 11:04:23 PM",
-    "topic": "Word of the Year 2016 is Post-Truth",
-    "url": "https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016",
-    "votes": 4,
-    "posted": "Nov 16, 2016 6:57:00 PM"
-  },
-  {
-    "id": "12969470",
-    "timestamp": "Nov 16, 2016 7:34:01 PM",
-    "topic": "These Professors Make More Than a Thousand Bucks an Hour Peddling Mega-Mergers",
-    "url": "https://www.propublica.org/article/these-professors-make-more-than-thousand-bucks-hour-peddling-mega-mergers",
-    "votes": 3,
-    "posted": "Nov 16, 2016 6:52:51 PM"
-  },
-  {
-    "id": "12969393",
-    "timestamp": "Nov 16, 2016 7:03:25 PM",
-    "topic": "Samsung Tizen .NET Developer Preview",
-    "url": "https://www.tizen.org/blogs/dh0922/2016/tizen-.net-developer-preview",
-    "votes": 5,
-    "posted": "Nov 16, 2016 6:46:08 PM"
-  },
-  {
-    "id": "12969363",
-    "timestamp": "Nov 18, 2016 4:36:58 AM",
-    "topic": "Show HN: #CrissCross- Naive AI Enabled Tic-Tac-Toe Game",
-    "url": "https://github.com/MinhasKamal/TicTacToe",
-    "votes": 4,
-    "posted": "Nov 16, 2016 6:43:12 PM"
-  },
-  {
-    "id": "12969185",
-    "timestamp": "Nov 16, 2016 9:24:12 PM",
-    "topic": "In a wealthy SF neighborhood, residents fight low-income housing",
-    "url": "http://www.sfchronicle.com/bayarea/article/In-a-wealthy-SF-neighborhood-residents-fight-10617213.php",
-    "votes": 4,
-    "posted": "Nov 16, 2016 6:22:31 PM"
-  },
-  {
-    "id": "12969152",
-    "timestamp": "Nov 16, 2016 7:34:01 PM",
-    "topic": "The Non-Technical Guide to Machine Learning and Artificial Intelligence",
-    "url": "https://twitter.com/SamDeBrule/status/798912596116127744",
-    "votes": 3,
-    "posted": "Nov 16, 2016 6:20:29 PM"
-  },
-  {
-    "id": "12969130",
-    "timestamp": "Nov 16, 2016 6:43:23 PM",
-    "topic": "Announcing the Fastest ASP.NET Yet, ASP.NET Core 1.1 RTM",
-    "url": "https://blogs.msdn.microsoft.com/webdev/2016/11/16/announcing-asp-net-core-1-1/",
-    "votes": 10,
-    "posted": "Nov 16, 2016 6:18:40 PM"
-  },
-  {
-    "id": "12969120",
-    "timestamp": "Nov 16, 2016 6:43:23 PM",
-    "topic": "Announcing .NET Core 1.1",
-    "url": "https://blogs.msdn.microsoft.com/dotnet/2016/11/16/announcing-net-core-1-1/",
-    "votes": 10,
-    "posted": "Nov 16, 2016 6:18:02 PM"
-  },
-  {
-    "id": "12969014",
-    "timestamp": "Nov 16, 2016 6:23:21 PM",
-    "topic": "Rust and the Future of Systems Programming",
-    "url": "https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/",
-    "votes": 9,
-    "posted": "Nov 16, 2016 6:08:42 PM"
-  },
-  {
-    "id": "12968995",
-    "timestamp": "Nov 16, 2016 7:24:00 PM",
-    "topic": "Mystery over Dutch WW2 shipwrecks vanished from Java Sea bed",
-    "url": "http://www.bbc.co.uk/news/world-asia-37997640",
-    "votes": 3,
-    "posted": "Nov 16, 2016 6:07:21 PM"
-  },
-  {
-    "id": "12968967",
-    "timestamp": "Nov 16, 2016 11:34:27 PM",
-    "topic": "Nuclear Industry in France in Crisis, 20 Reactors Shut Down",
-    "url": "http://www.ecowatch.com/france-nuclear-power-shut-down-2086414462.html",
-    "votes": 4,
-    "posted": "Nov 16, 2016 6:04:44 PM"
-  },
-  {
-    "id": "12968952",
-    "timestamp": "Nov 16, 2016 6:33:22 PM",
-    "topic": "Show HN: PgRebase, codebase management for postgres",
-    "url": "https://github.com/oelmekki/pgrebase",
-    "votes": 9,
-    "posted": "Nov 16, 2016 6:03:29 PM"
-  },
-  {
-    "id": "12968948",
-    "timestamp": "Nov 16, 2016 8:14:04 PM",
-    "topic": "The First Object Database for Node: Introducing Realm Node.js",
-    "url": "https://realm.io/news/first-object-database-realm-node-js-server/",
-    "votes": 23,
-    "posted": "Nov 16, 2016 6:03:20 PM"
-  },
-  {
-    "id": "12968933",
-    "timestamp": "Nov 16, 2016 7:34:01 PM",
-    "topic": "To Be a Young Black Man Working in an Office Full of White People",
-    "url": "https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8",
-    "votes": 5,
-    "posted": "Nov 16, 2016 6:02:18 PM"
   }
 ];
