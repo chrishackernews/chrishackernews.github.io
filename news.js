@@ -1,11 +1,51 @@
 var newsArray = [
   {
+    "id": "13021218",
+    "timestamp": "Nov 23, 2016 10:08:32 AM",
+    "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
+    "url": "https://fullstackacademy.workable.com/jobs/186349",
+    "votes": 1,
+    "posted": "Nov 23, 2016 10:07:53 AM"
+  },
+  {
+    "id": "13021198",
+    "timestamp": "Nov 23, 2016 10:28:34 AM",
+    "topic": "The economics of the Internet backbone (2004) [pdf]",
+    "url": "https://ideas.repec.org/p/net/wpaper/0423.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 9:59:55 AM"
+  },
+  {
     "id": "13020890",
     "timestamp": "Nov 23, 2016 9:58:31 AM",
     "topic": "Servant leadership",
     "url": "https://en.wikipedia.org/wiki/Servant_leadership",
     "votes": 3,
     "posted": "Nov 23, 2016 8:45:42 AM"
+  },
+  {
+    "id": "13020876",
+    "timestamp": "Nov 23, 2016 10:28:34 AM",
+    "topic": "The Distribution of Users’ Computer Skills: Worse Than You Think",
+    "url": "https://www.nngroup.com/articles/computer-skill-levels/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:41:38 AM"
+  },
+  {
+    "id": "13020692",
+    "timestamp": "Nov 23, 2016 10:08:32 AM",
+    "topic": "Shinatra – A web server in five lines of bash",
+    "url": "https://github.com/benrady/shinatra",
+    "votes": 7,
+    "posted": "Nov 23, 2016 8:01:55 AM"
+  },
+  {
+    "id": "13020601",
+    "timestamp": "Nov 23, 2016 10:48:35 AM",
+    "topic": "Microsoft and Linux and Patents and Tweets",
+    "url": "https://meshedinsights.com/2016/11/22/microsoft-linux-patents-tweets/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 7:41:14 AM"
   },
   {
     "id": "13020523",
@@ -70,6 +110,14 @@ var newsArray = [
     "url": "https://www.yahoo.com/news/female-monkeys-wile-rally-troops-002147976.html",
     "votes": 3,
     "posted": "Nov 23, 2016 5:08:34 AM"
+  },
+  {
+    "id": "13019837",
+    "timestamp": "Nov 23, 2016 10:48:35 AM",
+    "topic": "Vim/neovim: Arbitrary command execution (CVE-2016-1248)",
+    "url": "http://www.openwall.com/lists/oss-security/2016/11/22/20",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:52:43 AM"
   },
   {
     "id": "13019819",
@@ -8770,45 +8818,5 @@ var newsArray = [
     "url": "http://www.thememo.com/2016/11/16/apple-book-designed-by-apple-in-california-book-buy-apple-book/",
     "votes": 6,
     "posted": "Nov 16, 2016 11:25:17 AM"
-  },
-  {
-    "id": "12965589",
-    "timestamp": "Nov 16, 2016 10:42:04 AM",
-    "topic": "The code I’m still ashamed of",
-    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.76pl74cy2",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:30:34 AM"
-  },
-  {
-    "id": "12965584",
-    "timestamp": "Nov 16, 2016 10:32:03 AM",
-    "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
-    "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
-    "votes": 1,
-    "posted": "Nov 16, 2016 10:29:27 AM"
-  },
-  {
-    "id": "12965581",
-    "timestamp": "Nov 16, 2016 10:52:04 AM",
-    "topic": "MacBook Pro 13“ TouchBar Teardown",
-    "url": "https://www.ifixit.com/Teardown/MacBook+Pro+13-Inch+Touch+Bar+Teardown/73480",
-    "votes": 5,
-    "posted": "Nov 16, 2016 10:28:39 AM"
-  },
-  {
-    "id": "12965576",
-    "timestamp": "Nov 16, 2016 10:52:04 AM",
-    "topic": "The code I’m still ashamed of",
-    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.vmbgbtgin",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:27:36 AM"
-  },
-  {
-    "id": "12965492",
-    "timestamp": "Nov 16, 2016 10:32:03 AM",
-    "topic": "The code I’m still ashamed of",
-    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.9i5izevrq",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:08:28 AM"
   }
 ];
