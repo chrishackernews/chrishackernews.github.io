@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13019923",
+    "timestamp": "Nov 23, 2016 5:18:09 AM",
+    "topic": "Female monkeys manipulate males into fighting",
+    "url": "https://www.yahoo.com/news/female-monkeys-wile-rally-troops-002147976.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 5:08:34 AM"
+  },
+  {
+    "id": "13019819",
+    "timestamp": "Nov 23, 2016 5:18:09 AM",
+    "topic": "The Case Against Python 3",
+    "url": "https://learnpythonthehardway.org/book/nopython3.html",
+    "votes": 9,
+    "posted": "Nov 23, 2016 4:50:13 AM"
+  },
+  {
     "id": "13019787",
     "timestamp": "Nov 23, 2016 4:58:07 AM",
     "topic": "The Real War on Science",
     "url": "http://www.city-journal.org/html/real-war-science-14782.html",
     "votes": 3,
     "posted": "Nov 23, 2016 4:41:54 AM"
+  },
+  {
+    "id": "13019735",
+    "timestamp": "Nov 23, 2016 5:18:09 AM",
+    "topic": "Twitter Bans Own CEO Jack Dorsey from Twitter",
+    "url": "http://www.theregister.co.uk/2016/11/23/twitter_jack_dorsey_ban/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 4:28:37 AM"
   },
   {
     "id": "13019643",
@@ -22,6 +46,14 @@ var newsArray = [
     "url": "https://medium.com/@sparkszilla/john-cleese-on-why-creativity-takes-time-d6adee4e3609#.1u3w0a1zy",
     "votes": 4,
     "posted": "Nov 23, 2016 4:08:37 AM"
+  },
+  {
+    "id": "13019616",
+    "timestamp": "Nov 23, 2016 5:08:08 AM",
+    "topic": "The war on drugs has failed: doctors should lead calls for drug policy reform",
+    "url": "http://www.bmj.com/content/355/bmj.i6067",
+    "votes": 7,
+    "posted": "Nov 23, 2016 4:05:52 AM"
   },
   {
     "id": "13019591",
@@ -509,6 +541,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 7:15:43 PM"
   },
   {
+    "id": "13016027",
+    "timestamp": "Nov 23, 2016 5:38:11 AM",
+    "topic": "Grafana Alerting Engine and Rules Guide",
+    "url": "http://docs.grafana.org/alerting/rules/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 7:08:10 PM"
+  },
+  {
     "id": "13015954",
     "timestamp": "Nov 22, 2016 8:37:24 PM",
     "topic": "Pilots Strike at Cargo Carrier Serving DHL, Amazon.com",
@@ -533,6 +573,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 6:54:48 PM"
   },
   {
+    "id": "13015842",
+    "timestamp": "Nov 23, 2016 5:38:11 AM",
+    "topic": "Symantec buys anti-ID fraud firm LifeLock for $2.3B",
+    "url": "http://arstechnica.com/business/2016/11/symantec-to-buy-lifelock-identity-fraud-protection/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:48:13 PM"
+  },
+  {
     "id": "13015841",
     "timestamp": "Nov 22, 2016 7:17:15 PM",
     "topic": "Did the NOSQL Wave Fail or Succeed?",
@@ -555,6 +603,14 @@ var newsArray = [
     "url": "http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html",
     "votes": 4,
     "posted": "Nov 22, 2016 6:41:29 PM"
+  },
+  {
+    "id": "13015752",
+    "timestamp": "Nov 23, 2016 5:38:11 AM",
+    "topic": "Developers: Trash Your Resumes",
+    "url": "http://www.stackoverflow.blog/code-for-a-living/developers-trash-your-resumes",
+    "votes": 4,
+    "posted": "Nov 22, 2016 6:39:39 PM"
   },
   {
     "id": "13015647",
@@ -665,6 +721,13 @@ var newsArray = [
     "url": "https://www.reddit.com/r/WhereIsAssange/comments/5e9v1x/some_basic_facts_all_in_one_place_i_wanted_to/",
     "votes": 10,
     "posted": "Nov 22, 2016 5:51:12 PM"
+  },
+  {
+    "id": "13015331",
+    "timestamp": "Nov 23, 2016 5:38:11 AM",
+    "topic": "Ask HN: Any good case studies of companies for entrepreneurs?",
+    "votes": 4,
+    "posted": "Nov 22, 2016 5:48:46 PM"
   },
   {
     "id": "13015329",
@@ -8762,45 +8825,5 @@ var newsArray = [
     "url": "http://www.macrumors.com/2016/11/15/macbook-pro-touch-bar-non-removable-ssd/",
     "votes": 4,
     "posted": "Nov 16, 2016 6:02:16 AM"
-  },
-  {
-    "id": "12964597",
-    "timestamp": "Nov 16, 2016 6:11:42 AM",
-    "topic": "Microsoft, Elon Musk\u0027s AI Group Strike Partnership, Cloud Deal",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-15/microsoft-elon-musk-s-ai-group-strike-partnership-cloud-deal",
-    "votes": 5,
-    "posted": "Nov 16, 2016 5:47:24 AM"
-  },
-  {
-    "id": "12964595",
-    "timestamp": "Nov 16, 2016 6:31:44 AM",
-    "topic": "Elm – “Designing to infantilize a target audience is how we got Java”",
-    "url": "https://github.com/elm-lang/elm-compiler/issues/621#issuecomment-221053554",
-    "votes": 5,
-    "posted": "Nov 16, 2016 5:45:50 AM"
-  },
-  {
-    "id": "12964582",
-    "timestamp": "Nov 16, 2016 7:31:49 AM",
-    "topic": "Prosecuted for cheating at video games",
-    "url": "http://kotaku.com/man-goes-on-trial-for-allegedly-stealing-millions-from-1788948231",
-    "votes": 3,
-    "posted": "Nov 16, 2016 5:39:12 AM"
-  },
-  {
-    "id": "12964563",
-    "timestamp": "Nov 16, 2016 6:31:43 AM",
-    "topic": "Lindsey Graham Calls for Senate Investigation into Whether Russia Hacked DNC",
-    "url": "http://www.huffingtonpost.com/entry/russia-dnc-hack-lindsey-graham_us_582bb306e4b0e39c1fa703d5",
-    "votes": 5,
-    "posted": "Nov 16, 2016 5:34:58 AM"
-  },
-  {
-    "id": "12964544",
-    "timestamp": "Nov 16, 2016 6:01:41 AM",
-    "topic": "Kids Win the Right to Sue the US Government Over Climate Change",
-    "url": "http://motherboard.vice.com/read/kids-win-the-right-to-sue-the-us-government-over-climate-change",
-    "votes": 3,
-    "posted": "Nov 16, 2016 5:28:20 AM"
   }
 ];
