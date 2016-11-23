@@ -1,10 +1,58 @@
 var newsArray = [
   {
+    "id": "13024998",
+    "timestamp": "Nov 23, 2016 8:39:26 PM",
+    "topic": "Clinton\u0027s lead in the popular vote surpasses 2M",
+    "url": "http://www.politico.com/story/2016/11/clinton-lead-popular-vote-2016-231790",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:17:19 PM"
+  },
+  {
+    "id": "13024987",
+    "timestamp": "Nov 23, 2016 8:39:27 PM",
+    "topic": "Where Google\u0027s first 21 employees are now",
+    "url": "http://www.businessinsider.com/first-google-employees-where-are-they-now-2016-11",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:15:16 PM"
+  },
+  {
+    "id": "13024967",
+    "timestamp": "Nov 23, 2016 8:19:24 PM",
+    "topic": "Humble Unix book bundle",
+    "url": "https://www.humblebundle.com/books/unix-book-bundle",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:12:14 PM"
+  },
+  {
+    "id": "13024736",
+    "timestamp": "Nov 23, 2016 8:19:25 PM",
+    "topic": "On Thanksgiving Week, Native Americans Are Being Tear-Gassed in North Dakota",
+    "url": "http://www.huffingtonpost.com/entry/standing-rock-sioux-tear-gas-thanksgiving_us_583496a3e4b000af95ece35d",
+    "votes": 5,
+    "posted": "Nov 23, 2016 7:41:42 PM"
+  },
+  {
+    "id": "13024702",
+    "timestamp": "Nov 23, 2016 8:19:24 PM",
+    "topic": "Show HN: Functional programming for modern Fortran",
+    "url": "https://github.com/wavebitscientific/functional-fortran",
+    "votes": 3,
+    "posted": "Nov 23, 2016 7:36:36 PM"
+  },
+  {
     "id": "13024547",
     "timestamp": "Nov 23, 2016 7:29:20 PM",
     "topic": "BillForward (YC S14) Is Hiring Engineers (Full Time Only) – London",
     "votes": 1,
     "posted": "Nov 23, 2016 7:21:56 PM"
+  },
+  {
+    "id": "13024352",
+    "timestamp": "Nov 23, 2016 8:19:25 PM",
+    "topic": "Many LASIK patients may wind up with glare, halos or other visual symptoms",
+    "url": "https://www.washingtonpost.com/news/to-your-health/wp/2016/11/23/many-lasik-patients-may-wind-up-with-glare-halos-or-other-visual-symptoms-study-suggests/?hpid\u003dhp_hp-more-top-stories_lasik-1115am%3Ahomepage%2Fstory",
+    "votes": 7,
+    "posted": "Nov 23, 2016 6:58:10 PM"
   },
   {
     "id": "13024139",
@@ -140,6 +188,14 @@ var newsArray = [
     "url": "http://grnh.se/5ybu4t1",
     "votes": 1,
     "posted": "Nov 23, 2016 3:17:13 PM"
+  },
+  {
+    "id": "13022734",
+    "timestamp": "Nov 23, 2016 8:09:23 PM",
+    "topic": "The Manhattan Project Fallacy [Jan 2016?]",
+    "url": "http://aelkus.github.io/essays/ai_manhattan_project.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 3:12:10 PM"
   },
   {
     "id": "13022694",
@@ -8697,68 +8753,5 @@ var newsArray = [
     "url": "https://developers.google.com/gmail/markup/",
     "votes": 4,
     "posted": "Nov 16, 2016 9:00:24 PM"
-  },
-  {
-    "id": "12970884",
-    "timestamp": "Nov 16, 2016 9:24:13 PM",
-    "topic": "DraftKings and FanDuel to Merge",
-    "url": "https://www.linkedin.com/pulse/draftkings-fanduel-merge-dan-primack?published\u003dt",
-    "votes": 3,
-    "posted": "Nov 16, 2016 8:59:10 PM"
-  },
-  {
-    "id": "12970881",
-    "timestamp": "Nov 16, 2016 9:14:11 PM",
-    "topic": "On 2016 Apple: What do “Pro” users want?",
-    "url": "http://cfenollosa.com/blog/what-do-pro-users-want.html",
-    "votes": 3,
-    "posted": "Nov 16, 2016 8:58:53 PM"
-  },
-  {
-    "id": "12970855",
-    "timestamp": "Nov 17, 2016 4:44:54 AM",
-    "topic": "Show HN: Videobolt – Video design marketplace with online customization",
-    "url": "https://videobolt.net",
-    "votes": 7,
-    "posted": "Nov 16, 2016 8:56:41 PM"
-  },
-  {
-    "id": "12970820",
-    "timestamp": "Nov 16, 2016 9:04:10 PM",
-    "topic": "Ask HN: Anyone interested in building tools for showing bias in news?",
-    "votes": 5,
-    "posted": "Nov 16, 2016 8:54:04 PM"
-  },
-  {
-    "id": "12970683",
-    "timestamp": "Nov 16, 2016 8:54:09 PM",
-    "topic": "The NSA’s Spy Hub in New York, Hidden in Plain Sight",
-    "url": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 8:42:17 PM"
-  },
-  {
-    "id": "12970528",
-    "timestamp": "Nov 16, 2016 8:44:06 PM",
-    "topic": "Announcing SSL Labs Grading Changes for 2017",
-    "url": "https://blog.qualys.com/ssllabs/2016/11/16/announcing-ssl-labs-grading-changes-for-2017",
-    "votes": 5,
-    "posted": "Nov 16, 2016 8:28:10 PM"
-  },
-  {
-    "id": "12970501",
-    "timestamp": "Nov 16, 2016 8:54:09 PM",
-    "topic": "Capture 360° living VR photos with PanoMoments. No stitching required",
-    "url": "https://www.kickstarter.com/projects/dustinkerstein/752242439",
-    "votes": 17,
-    "posted": "Nov 16, 2016 8:25:52 PM"
-  },
-  {
-    "id": "12970207",
-    "timestamp": "Nov 16, 2016 11:54:30 PM",
-    "topic": "Show HN: Zero – Fintech CC with 3% cash back",
-    "url": "https://zerofinancial.com/ZERO1626",
-    "votes": 5,
-    "posted": "Nov 16, 2016 8:01:56 PM"
   }
 ];
