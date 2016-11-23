@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13020523",
+    "timestamp": "Nov 23, 2016 7:38:21 AM",
+    "topic": "Computer scientists urge Clinton campaign to challenge election results",
+    "url": "http://www.cnn.com/2016/11/22/politics/hillary-clinton-challenge-results/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 7:22:45 AM"
+  },
+  {
+    "id": "13020358",
+    "timestamp": "Nov 23, 2016 7:58:22 AM",
+    "topic": "GitPlex – a new Git repository management server doing code review right",
+    "url": "https://www.pmease.com/gitplex",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:36:32 AM"
+  },
+  {
+    "id": "13020357",
+    "timestamp": "Nov 23, 2016 7:08:19 AM",
+    "topic": "Trump to scrap Nasa climate research in crackdown on ‘politicized science’",
+    "url": "https://www.theguardian.com/environment/2016/nov/22/nasa-earth-donald-trump-eliminate-climate-change-research",
+    "votes": 4,
+    "posted": "Nov 23, 2016 6:36:26 AM"
+  },
+  {
     "id": "13020240",
     "timestamp": "Nov 23, 2016 6:58:18 AM",
     "topic": "Tesla runs an entire island on solar power",
@@ -8801,53 +8825,5 @@ var newsArray = [
     "url": "http://deadline.com/2016/11/shocked-by-trump-new-york-times-finds-time-for-soul-searching-1201852490/",
     "votes": 4,
     "posted": "Nov 16, 2016 8:07:18 AM"
-  },
-  {
-    "id": "12965033",
-    "timestamp": "Nov 16, 2016 9:01:56 AM",
-    "topic": "Bram Cohen vs. Linus Torvalds",
-    "url": "http://www.wincent.com/a/about/wincent/weblog/archives/2007/07/a_look_back_bra.php",
-    "votes": 3,
-    "posted": "Nov 16, 2016 7:50:51 AM"
-  },
-  {
-    "id": "12964952",
-    "timestamp": "Nov 17, 2016 4:44:54 AM",
-    "topic": "Show HN: Build native iOS apps using declarative markup",
-    "url": "https://github.com/mcudich/TemplateKit",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:25:26 AM"
-  },
-  {
-    "id": "12964951",
-    "timestamp": "Nov 16, 2016 7:51:50 AM",
-    "topic": "Ironclad: allow IronPython to import and use compiled CPython extensions",
-    "url": "https://github.com/IronLanguages/ironclad",
-    "votes": 5,
-    "posted": "Nov 16, 2016 7:25:20 AM"
-  },
-  {
-    "id": "12964917",
-    "timestamp": "Nov 16, 2016 8:11:52 AM",
-    "topic": "Cognitive biases",
-    "url": "https://en.wikipedia.org/wiki/List_of_cognitive_biases",
-    "votes": 3,
-    "posted": "Nov 16, 2016 7:16:21 AM"
-  },
-  {
-    "id": "12964901",
-    "timestamp": "Nov 16, 2016 8:31:53 AM",
-    "topic": "The code I’m still ashamed of",
-    "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.yx291w59i",
-    "votes": 3,
-    "posted": "Nov 16, 2016 7:12:33 AM"
-  },
-  {
-    "id": "12964864",
-    "timestamp": "Nov 16, 2016 8:11:52 AM",
-    "topic": "People are getting sick of working in the “sharing” economy",
-    "url": "http://qz.com/837237/people-are-getting-sick-of-working-in-the-sharing-economy/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:00:49 AM"
   }
 ];
