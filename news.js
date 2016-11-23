@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13025519",
+    "timestamp": "Nov 23, 2016 9:29:31 PM",
+    "topic": "Salesforce Research Unveils Breakthroughs in Deep Learning",
+    "url": "https://medium.com/@salesforce/salesforce-research-deep-learning-breakthroughs-d83c8b2ac4c3#.q2j437c9b",
+    "votes": 3,
+    "posted": "Nov 23, 2016 9:18:46 PM"
+  },
+  {
+    "id": "13025495",
+    "timestamp": "Nov 23, 2016 9:19:30 PM",
+    "topic": "Holding Machine Learning Models Accountable",
+    "url": "https://medium.com/pachyderm-data/hold-your-machine-learning-and-ai-models-accountable-de887177174c#---0-52.en3sp2kbk",
+    "votes": 3,
+    "posted": "Nov 23, 2016 9:15:07 PM"
+  },
+  {
+    "id": "13025204",
+    "timestamp": "Nov 23, 2016 9:09:29 PM",
+    "topic": "Freelance Isn\u0027t Free Act Passes in NYC with 51 Votes",
+    "url": "https://blog.freelancersunion.org/2016/10/27/freelanceisntfreepassed/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:39:45 PM"
+  },
+  {
+    "id": "13025024",
+    "timestamp": "Nov 23, 2016 9:09:29 PM",
+    "topic": "Mobx-state-tree: Opinionated, transactional, MobX-powered state container",
+    "url": "https://github.com/mobxjs/mobx-state-tree",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:20:54 PM"
+  },
+  {
     "id": "13024998",
     "timestamp": "Nov 23, 2016 8:39:26 PM",
     "topic": "Clinton\u0027s lead in the popular vote surpasses 2M",
@@ -38,6 +70,22 @@ var newsArray = [
     "url": "https://github.com/wavebitscientific/functional-fortran",
     "votes": 3,
     "posted": "Nov 23, 2016 7:36:36 PM"
+  },
+  {
+    "id": "13024666",
+    "timestamp": "Nov 23, 2016 9:09:29 PM",
+    "topic": "The Lua VM, on the Web",
+    "url": "http://daurnimator.github.io/lua.vm.js/lua.vm.js.html",
+    "votes": 5,
+    "posted": "Nov 23, 2016 7:32:00 PM"
+  },
+  {
+    "id": "13024651",
+    "timestamp": "Nov 23, 2016 9:09:29 PM",
+    "topic": "Debug React Component Performance with ES7 Annotations",
+    "url": "https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html",
+    "votes": 14,
+    "posted": "Nov 23, 2016 7:30:44 PM"
   },
   {
     "id": "13024547",
@@ -252,6 +300,14 @@ var newsArray = [
     "url": "http://nvidianews.nvidia.com/news/nvidia-teams-with-national-cancer-institute-u-s-department-of-energy-to-create-ai-platform-for-accelerating-cancer-research",
     "votes": 3,
     "posted": "Nov 23, 2016 2:43:54 PM"
+  },
+  {
+    "id": "13022553",
+    "timestamp": "Nov 23, 2016 9:49:32 PM",
+    "topic": "Q\u0026A with Jack Bogle: ‘We’re in the Middle of a Revolution’",
+    "url": "https://www.bloomberg.com/features/2016-jack-bogle-interview/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 2:42:18 PM"
   },
   {
     "id": "13022503",
@@ -8571,187 +8627,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/16/13651776/peter-thiel-white-house-conflict-of-interest-palantir-facebook",
     "votes": 4,
     "posted": "Nov 16, 2016 10:03:37 PM"
-  },
-  {
-    "id": "12971449",
-    "timestamp": "Nov 17, 2016 10:36:27 PM",
-    "topic": "Andrew Wyeth, His Critics, and Small Town Mud",
-    "url": "http://the-easel.com/essays/easel-essay-andrew-wyeth-his-critics-and-small-town-mud/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:58:01 PM"
-  },
-  {
-    "id": "12971395",
-    "timestamp": "Nov 16, 2016 10:54:22 PM",
-    "topic": "Kubernetes Conference Seattle Videos",
-    "url": "https://www.youtube.com/playlist?list\u003dPLj6h78yzYM2PqgIGU1Qmi8nY7dqn9PCr4",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:53:01 PM"
-  },
-  {
-    "id": "12971390",
-    "timestamp": "Nov 17, 2016 7:36:09 PM",
-    "topic": "Square Virtual Terminal",
-    "url": "https://squareup.com/virtual-terminal",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:52:35 PM"
-  },
-  {
-    "id": "12971363",
-    "timestamp": "Nov 16, 2016 10:14:18 PM",
-    "topic": "Is React Fiber ready yet?",
-    "url": "http://isfiberreadyyet.com",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:51:03 PM"
-  },
-  {
-    "id": "12971361",
-    "timestamp": "Nov 16, 2016 10:04:17 PM",
-    "topic": "Google to build 1M square foot building in post-Brexit London",
-    "url": "http://venturebeat.com/2016/11/15/google-to-build-1-million-square-foot-building-in-post-brexit-london/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:50:49 PM"
-  },
-  {
-    "id": "12971347",
-    "timestamp": "Nov 16, 2016 10:24:19 PM",
-    "topic": "Fun Things in Elixir",
-    "url": "https://dev.to/ryanflach/fun-things-in-elixir",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:48:59 PM"
-  },
-  {
-    "id": "12971341",
-    "timestamp": "Nov 16, 2016 10:14:19 PM",
-    "topic": "Google Gets a Seat on the Trump Transition Team",
-    "url": "https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:48:05 PM"
-  },
-  {
-    "id": "12971321",
-    "timestamp": "Nov 16, 2016 10:04:17 PM",
-    "topic": "Things to Keep in Mind Regarding Snapchat\u0027s Upcoming IPO – Mattermark",
-    "url": "https://mattermark.com/things-keep-mind-regarding-snapchats-upcoming-ipo/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:45:48 PM"
-  },
-  {
-    "id": "12971316",
-    "timestamp": "Nov 16, 2016 10:34:20 PM",
-    "topic": "Too Lazy to Skim? Five Useful Tools to Summarize Articles Online",
-    "url": "https://www.linkedin.com/pulse/online-summarizers-overview-yuri-kitin?_mSplash\u003d1",
-    "votes": 5,
-    "posted": "Nov 16, 2016 9:45:18 PM"
-  },
-  {
-    "id": "12971275",
-    "timestamp": "Nov 16, 2016 10:04:17 PM",
-    "topic": "False, Misleading, Clickbait-Y, and Satirical “News” Sources",
-    "url": "https://docs.google.com/document/d/10eA5-mCZLSS4MQY5QGb5ewC3VAL6pLkT53V_81ZyitM/mobilebasic",
-    "votes": 5,
-    "posted": "Nov 16, 2016 9:40:29 PM"
-  },
-  {
-    "id": "12971272",
-    "timestamp": "Nov 16, 2016 10:14:19 PM",
-    "topic": "Skype now lets you make calls without an account",
-    "url": "http://thenextweb.com/microsoft/2016/11/15/skype-now-lets-you-make-calls-without-an-account/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:40:09 PM"
-  },
-  {
-    "id": "12971261",
-    "timestamp": "Nov 16, 2016 10:14:18 PM",
-    "topic": "Atom editor is removing the Shadow DOM",
-    "url": "http://blog.atom.io/2016/11/14/removing-shadow-dom-boundary-from-text-editor-elements.html",
-    "votes": 8,
-    "posted": "Nov 16, 2016 9:38:55 PM"
-  },
-  {
-    "id": "12971241",
-    "timestamp": "Nov 16, 2016 10:14:18 PM",
-    "topic": "From NeXTSTEP to Cocoa: Erik Buck on the Development of Cocoa and Objective-C",
-    "url": "http://www.informit.com/articles/article.aspx?p\u003d1353402",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:37:20 PM"
-  },
-  {
-    "id": "12971152",
-    "timestamp": "Nov 16, 2016 11:24:26 PM",
-    "topic": "New mathematical model shows how our brains make complex decisions",
-    "url": "http://www.sciencealert.com/new-mathematical-model-sheds-light-on-how-our-brains-make-complex-decisions",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:28:27 PM"
-  },
-  {
-    "id": "12971150",
-    "timestamp": "Nov 17, 2016 10:36:27 PM",
-    "topic": "Meeting One\u0027s Madness: Alan Watts and the “age of Environmental Anxiety\"",
-    "url": "http://www.theparisreview.org/blog/2016/11/15/meeting-ones-madness/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:28:21 PM"
-  },
-  {
-    "id": "12971062",
-    "timestamp": "Nov 16, 2016 9:44:15 PM",
-    "topic": "The sales and marketing tactics used by top B2B companies",
-    "url": "https://mattermark.com/sales-marketing-trends-top-50-b2b-companies/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:18:01 PM"
-  },
-  {
-    "id": "12971045",
-    "timestamp": "Nov 16, 2016 9:24:12 PM",
-    "topic": "BuildZoom (a better way to remodel) is hiring in product, growth and engineering",
-    "url": "https://jobs.lever.co/buildzoom",
-    "votes": 1,
-    "posted": "Nov 16, 2016 9:15:50 PM"
-  },
-  {
-    "id": "12971042",
-    "timestamp": "Nov 16, 2016 9:34:14 PM",
-    "topic": "Steve Bannon Suggests There Are Too Many Asian CEOs in Silicon Valley",
-    "url": "http://www.huffingtonpost.com/entry/steve-bannon-disgusted-asian-ceos-silicon-valley_us_582c5d19e4b0e39c1fa71e48",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:15:12 PM"
-  },
-  {
-    "id": "12971024",
-    "timestamp": "Nov 16, 2016 9:34:14 PM",
-    "topic": "Mission Improbable: Hardening Android for Security and Privacy",
-    "url": "https://blog.torproject.org/blog/mission-improbable-hardening-android-security-and-privacy",
-    "votes": 6,
-    "posted": "Nov 16, 2016 9:13:51 PM"
-  },
-  {
-    "id": "12970986",
-    "timestamp": "Nov 16, 2016 9:24:12 PM",
-    "topic": "[Video PoC/Demo Exploit] Nginx (Debian-Based)- Root PrivEsc [CVE-2016-1247]",
-    "url": "https://legalhackers.com/videos/Nginx-Exploit-Deb-Root-PrivEsc-CVE-2016-1247.html",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:09:47 PM"
-  },
-  {
-    "id": "12970975",
-    "timestamp": "Nov 16, 2016 9:54:16 PM",
-    "topic": "Stripe stops supporting Alipay on some accounts (email)",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:08:33 PM"
-  },
-  {
-    "id": "12970964",
-    "timestamp": "Nov 16, 2016 9:54:16 PM",
-    "topic": "Ask HN: How does Quora auto login work?",
-    "votes": 5,
-    "posted": "Nov 16, 2016 9:07:47 PM"
-  },
-  {
-    "id": "12970901",
-    "timestamp": "Nov 16, 2016 9:14:11 PM",
-    "topic": "Gmail – Email Markup",
-    "url": "https://developers.google.com/gmail/markup/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:00:24 PM"
   }
 ];
