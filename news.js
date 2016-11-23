@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13026334",
+    "timestamp": "Nov 23, 2016 11:39:46 PM",
+    "topic": "Cash Ban the Best Thing to Happen to Indian Digital Payments",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-23/cash-ban-the-best-thing-to-happen-to-indian-digital-payments",
+    "votes": 4,
+    "posted": "Nov 23, 2016 11:33:55 PM"
+  },
+  {
+    "id": "13026325",
+    "timestamp": "Nov 23, 2016 11:49:47 PM",
+    "topic": "Palantir discloses $20mm in new funding from a single unidentified backer",
+    "url": "https://twitter.com/danprimack/status/801552167978995713",
+    "votes": 3,
+    "posted": "Nov 23, 2016 11:32:57 PM"
+  },
+  {
+    "id": "13026114",
+    "timestamp": "Nov 23, 2016 11:49:47 PM",
+    "topic": "Python at StackOverflow (an Interview with Martijn Pieters)",
+    "url": "https://talkpython.fm/episodes/show/86/python-at-stackoverflow",
+    "votes": 3,
+    "posted": "Nov 23, 2016 10:59:50 PM"
+  },
+  {
+    "id": "13026089",
+    "timestamp": "Nov 23, 2016 11:09:42 PM",
+    "topic": "Microsoft Solitaire Collection",
+    "url": "https://itunes.apple.com/us/app/microsoft-solitaire-collection/id1103438575?mt\u003d8",
+    "votes": 7,
+    "posted": "Nov 23, 2016 10:56:32 PM"
+  },
+  {
     "id": "13026073",
     "timestamp": "Nov 23, 2016 10:59:41 PM",
     "topic": "Engineer? TechOps? Swiftype is hiring",
@@ -24,6 +56,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 10:08:53 PM"
   },
   {
+    "id": "13025588",
+    "timestamp": "Nov 23, 2016 11:19:43 PM",
+    "topic": "Supercapacitors Batteries charges in seconds without degrading",
+    "url": "http://today.ucf.edu/phone-charges-seconds-ucf-scientists-bring-closer-reality/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 9:28:38 PM"
+  },
+  {
     "id": "13025519",
     "timestamp": "Nov 23, 2016 9:29:31 PM",
     "topic": "Salesforce Research Unveils Breakthroughs in Deep Learning",
@@ -40,6 +80,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 9:15:23 PM"
   },
   {
+    "id": "13025496",
+    "timestamp": "Nov 23, 2016 11:19:43 PM",
+    "topic": "Statistical Mistakes and How to Avoid Them",
+    "url": "http://www.cs.cornell.edu/~asampson/blog/statsmistakes.html",
+    "votes": 4,
+    "posted": "Nov 23, 2016 9:15:12 PM"
+  },
+  {
     "id": "13025495",
     "timestamp": "Nov 23, 2016 9:19:30 PM",
     "topic": "Holding Machine Learning Models Accountable",
@@ -54,6 +102,22 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/23/13728726/telegram-anonymous-blogging-platform-telegraph",
     "votes": 3,
     "posted": "Nov 23, 2016 9:14:24 PM"
+  },
+  {
+    "id": "13025378",
+    "timestamp": "Nov 23, 2016 11:59:48 PM",
+    "topic": "Mark Zuckerberg is the most powerful person on Earth. But is he responsible?",
+    "url": "https://medium.freecodecamp.com/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1#.80xo373xq",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:59:51 PM"
+  },
+  {
+    "id": "13025352",
+    "timestamp": "Nov 23, 2016 11:29:44 PM",
+    "topic": "Qubes OS: like Subgraph but using Xen hypervisor",
+    "url": "https://en.wikipedia.org/wiki/Qubes_OS",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:57:00 PM"
   },
   {
     "id": "13025332",
@@ -78,6 +142,14 @@ var newsArray = [
     "url": "https://blog.freelancersunion.org/2016/10/27/freelanceisntfreepassed/",
     "votes": 4,
     "posted": "Nov 23, 2016 8:39:45 PM"
+  },
+  {
+    "id": "13025175",
+    "timestamp": "Nov 23, 2016 11:19:43 PM",
+    "topic": "Ex Israeli Government Hacker Says Spying on Palestinians Was Too Easy",
+    "url": "https://motherboard.vice.com/read/ex-israeli-government-hacker-unit-8200-spying-on-palestinians-was-too-easy",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:35:59 PM"
   },
   {
     "id": "13025024",
@@ -254,6 +326,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 5:27:37 PM"
   },
   {
+    "id": "13023565",
+    "timestamp": "Nov 23, 2016 11:19:44 PM",
+    "topic": "Trump Proposes an Advocate of Mass Public Surveillance as CIA Chief",
+    "url": "https://www.scientificamerican.com/article/trump-proposes-an-advocate-of-mass-public-surveillance-as-cia-chief/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 5:11:44 PM"
+  },
+  {
     "id": "13023438",
     "timestamp": "Nov 23, 2016 6:39:16 PM",
     "topic": "Mark Zuckerberg is a hypocrite",
@@ -268,6 +348,22 @@ var newsArray = [
     "url": "https://github.com/tony/vcspull",
     "votes": 3,
     "posted": "Nov 23, 2016 4:38:57 PM"
+  },
+  {
+    "id": "13023196",
+    "timestamp": "Nov 23, 2016 11:19:43 PM",
+    "topic": "Most Students Don’t Know When News Is Fake, Stanford Study Finds",
+    "url": "http://www.wsj.com/articles/most-students-dont-know-when-news-is-fake-stanford-study-finds-1479752576",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:21:03 PM"
+  },
+  {
+    "id": "13023138",
+    "timestamp": "Nov 23, 2016 11:19:44 PM",
+    "topic": "Ghost in the Machine Learning: Recommender Systems",
+    "url": "https://medium.com/outsystems-engineering/ghost-in-the-machine-learning-recommender-systems-722f6c687698",
+    "votes": 13,
+    "posted": "Nov 23, 2016 4:12:13 PM"
   },
   {
     "id": "13023108",
@@ -300,6 +396,22 @@ var newsArray = [
     "url": "https://www.theguardian.com/environment/2016/nov/22/nasa-earth-donald-trump-eliminate-climate-change-research",
     "votes": 4,
     "posted": "Nov 23, 2016 3:27:06 PM"
+  },
+  {
+    "id": "13022817",
+    "timestamp": "Nov 23, 2016 11:19:44 PM",
+    "topic": "Google’s DeepMind AI can lip-read TV shows better than a pro",
+    "url": "https://www.newscientist.com/article/2113299-googles-deepmind-ai-can-lip-read-tv-shows-better-than-a-pro/",
+    "votes": 6,
+    "posted": "Nov 23, 2016 3:25:08 PM"
+  },
+  {
+    "id": "13022796",
+    "timestamp": "Nov 23, 2016 11:29:45 PM",
+    "topic": "How Jared Kushner Won Trump the White House",
+    "url": "http://www.forbes.com/sites/stevenbertoni/2016/11/22/exclusive-interview-how-jared-kushner-won-trump-the-white-house/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 3:22:31 PM"
   },
   {
     "id": "13022784",
@@ -453,6 +565,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 1:46:06 PM"
   },
   {
+    "id": "13022148",
+    "timestamp": "Nov 23, 2016 11:29:45 PM",
+    "topic": "Facebook granted licence by Central Bank of Ireland to provide payment services",
+    "url": "http://registers.centralbank.ie/FirmDataPage.aspx?firmReferenceNumber\u003dC148215",
+    "votes": 4,
+    "posted": "Nov 23, 2016 1:36:41 PM"
+  },
+  {
     "id": "13022076",
     "timestamp": "Nov 23, 2016 2:08:52 PM",
     "topic": "Tor phone is antidote to Google “hostility” over Android, says developer",
@@ -505,6 +625,14 @@ var newsArray = [
     "url": "https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.whqlr4tvj",
     "votes": 8,
     "posted": "Nov 23, 2016 1:06:21 PM"
+  },
+  {
+    "id": "13021965",
+    "timestamp": "Nov 23, 2016 11:29:45 PM",
+    "topic": "A spider crawl all room info of airbnb ,include reservation of the room",
+    "url": "https://github.com/plantpark/AirbnbSpider",
+    "votes": 6,
+    "posted": "Nov 23, 2016 1:06:19 PM"
   },
   {
     "id": "13021913",
@@ -569,6 +697,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill",
     "votes": 5,
     "posted": "Nov 23, 2016 12:31:10 PM"
+  },
+  {
+    "id": "13021749",
+    "timestamp": "Nov 23, 2016 11:29:45 PM",
+    "topic": "AI can predict who will be criminal based on facial features",
+    "url": "http://tmblwd.news/Ldmr/RAJA0p1dxy",
+    "votes": 16,
+    "posted": "Nov 23, 2016 12:21:59 PM"
   },
   {
     "id": "13021732",
@@ -746,6 +882,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 8:01:55 AM"
   },
   {
+    "id": "13020676",
+    "timestamp": "Nov 23, 2016 11:39:46 PM",
+    "topic": "PayPal pulls North Carolina plan after transgender bathroom law",
+    "url": "http://www.reuters.com/article/us-north-carolina-transgender-paypal-hld-idUSKCN0X21XR",
+    "votes": 4,
+    "posted": "Nov 23, 2016 7:57:57 AM"
+  },
+  {
     "id": "13020601",
     "timestamp": "Nov 23, 2016 10:48:35 AM",
     "topic": "Microsoft and Linux and Patents and Tweets",
@@ -770,6 +914,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 7:17:25 AM"
   },
   {
+    "id": "13020459",
+    "timestamp": "Nov 23, 2016 11:39:46 PM",
+    "topic": "Fake News Onslaught Targets Pizzeria as Nest of Child-Trafficking",
+    "url": "http://www.nytimes.com/2016/11/21/technology/fact-check-this-pizzeria-is-not-a-child-trafficking-site.html?ref\u003dtechnology",
+    "votes": 3,
+    "posted": "Nov 23, 2016 7:02:32 AM"
+  },
+  {
     "id": "13020358",
     "timestamp": "Nov 23, 2016 7:58:22 AM",
     "topic": "GitPlex – a new Git repository management server doing code review right",
@@ -784,6 +936,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/environment/2016/nov/22/nasa-earth-donald-trump-eliminate-climate-change-research",
     "votes": 4,
     "posted": "Nov 23, 2016 6:36:26 AM"
+  },
+  {
+    "id": "13020284",
+    "timestamp": "Nov 23, 2016 11:39:46 PM",
+    "topic": "James Simons’s Foundation Starts New Institute for Computing, Big Data",
+    "url": "http://www.nytimes.com/2016/11/22/science/flatiron-institute-james-simons-foundation.html",
+    "votes": 4,
+    "posted": "Nov 23, 2016 6:20:38 AM"
   },
   {
     "id": "13020240",
@@ -8437,149 +8597,5 @@ var newsArray = [
     "topic": "Ask HN: Do you still buy/read technical books?",
     "votes": 7,
     "posted": "Nov 17, 2016 12:15:40 AM"
-  },
-  {
-    "id": "12972412",
-    "timestamp": "Nov 17, 2016 6:45:05 AM",
-    "topic": "Reviving a computer system of 25 years ago – Wirth (2014)",
-    "url": "https://www.youtube.com/watch?v\u003dEXY78gPMvl0",
-    "votes": 4,
-    "posted": "Nov 16, 2016 11:58:19 PM"
-  },
-  {
-    "id": "12972403",
-    "timestamp": "Nov 17, 2016 12:44:35 AM",
-    "topic": "Margaret Hamilton and Grace Hopper to receive presidential medals of freedom",
-    "url": "https://www.whitehouse.gov/the-press-office/2016/11/16/president-obama-names-recipients-presidential-medal-freedom",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:57:04 PM"
-  },
-  {
-    "id": "12972388",
-    "timestamp": "Nov 17, 2016 12:14:32 AM",
-    "topic": "Theranos Whistleblower Shook the Company–And His Family",
-    "url": "http://www.wsj.com/articles/theranos-whistleblower-shook-the-companyand-his-family-1479335963",
-    "votes": 7,
-    "posted": "Nov 16, 2016 11:54:41 PM"
-  },
-  {
-    "id": "12972368",
-    "timestamp": "Nov 17, 2016 12:34:34 AM",
-    "topic": "Blood from human teens rejuvenates body and brains of old mice",
-    "url": "https://www.newscientist.com/article/2112829-blood-from-human-teens-rejuvenates-body-and-brains-of-old-mice/",
-    "votes": 5,
-    "posted": "Nov 16, 2016 11:52:17 PM"
-  },
-  {
-    "id": "12972348",
-    "timestamp": "Nov 17, 2016 12:14:32 AM",
-    "topic": "NSA Head Openly Accuses Russia of Using Wikileaks to Get Trump Elected",
-    "url": "http://theslot.jezebel.com/nsa-head-openly-accuses-russia-of-using-wikileaks-to-ge-1789051302",
-    "votes": 5,
-    "posted": "Nov 16, 2016 11:50:12 PM"
-  },
-  {
-    "id": "12972300",
-    "timestamp": "Nov 17, 2016 12:04:31 AM",
-    "topic": "Virtual reality is the new tech frontier, but it\u0027s still a boys\u0027 club",
-    "url": "http://www.recode.net/2016/11/16/13654246/women-engineers-virtual-augmented-reality-artificial-intelligence",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:44:36 PM"
-  },
-  {
-    "id": "12972284",
-    "timestamp": "Nov 17, 2016 2:34:43 AM",
-    "topic": "Oculus Rift vs. HTC Vive: Present Situation",
-    "url": "https://skarredghost.wordpress.com/2016/11/17/oculus-vs-vive-november-2016-update",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:40:41 PM"
-  },
-  {
-    "id": "12972266",
-    "timestamp": "Nov 16, 2016 11:44:29 PM",
-    "topic": "NSA chief: \u0027Nation state\u0027 intervened in presidential election",
-    "url": "http://www.dailykos.com/story/2016/11/16/1600424/-NSA-chief-Nation-state-intervened-in-election-to-achieve-a-specific-effect",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:37:16 PM"
-  },
-  {
-    "id": "12972224",
-    "timestamp": "Nov 16, 2016 11:44:29 PM",
-    "topic": "Just How Correlated Are Silicon Valley Housing Prices and Venture Activity?",
-    "url": "https://mattermark.com/vc-activity-just-might-predict-silicon-valley-housing-prices/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:30:19 PM"
-  },
-  {
-    "id": "12972219",
-    "timestamp": "Nov 16, 2016 11:44:28 PM",
-    "topic": "Snowden: Stop Relying on Facebook for Your News",
-    "url": "http://www.scribblrs.com/snowden-stop-relying-facebook-news/",
-    "votes": 11,
-    "posted": "Nov 16, 2016 11:29:48 PM"
-  },
-  {
-    "id": "12972206",
-    "timestamp": "Nov 20, 2016 7:42:58 PM",
-    "topic": "Sharing Photographs",
-    "url": "https://publicdomainreview.org/collections/sharing-photographs/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:28:34 PM"
-  },
-  {
-    "id": "12972202",
-    "timestamp": "Nov 16, 2016 11:54:30 PM",
-    "topic": "After 36 years of it… it\u0027s mostly just typing",
-    "url": "http://positech.co.uk/cliffsblog/2016/11/15/after-36-years-of-it-its-mostly-just-typing/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 11:28:05 PM"
-  },
-  {
-    "id": "12972188",
-    "timestamp": "Nov 16, 2016 11:44:29 PM",
-    "topic": "Steve Bannon (Trump Advisor) implied that Silicon Valley has too many Asian CEOs",
-    "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
-    "votes": 4,
-    "posted": "Nov 16, 2016 11:26:32 PM"
-  },
-  {
-    "id": "12972185",
-    "timestamp": "Nov 17, 2016 12:24:33 AM",
-    "topic": "Fundraising isn\u0027t predictable",
-    "url": "http://www.aaronkharris.com/fundraising-isnt-predictable",
-    "votes": 10,
-    "posted": "Nov 16, 2016 11:26:02 PM"
-  },
-  {
-    "id": "12972133",
-    "timestamp": "Nov 20, 2016 8:13:01 PM",
-    "topic": "Archeology Gives History a Makeover",
-    "url": "http://www.thedailybeast.com/articles/2016/10/30/how-archeology-gives-history-a-makeover.html",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:19:59 PM"
-  },
-  {
-    "id": "12972106",
-    "timestamp": "Nov 16, 2016 11:44:28 PM",
-    "topic": "Sal Soghoian, Automation Guru at Apple, Job Terminated",
-    "url": "https://macosxautomation.com/about.html",
-    "votes": 9,
-    "posted": "Nov 16, 2016 11:16:39 PM"
-  },
-  {
-    "id": "12972050",
-    "timestamp": "Nov 16, 2016 11:34:27 PM",
-    "topic": "Hackster: A community for learning hardware",
-    "url": "https://www.hackster.io/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:09:58 PM"
-  },
-  {
-    "id": "12972002",
-    "timestamp": "Nov 16, 2016 11:24:25 PM",
-    "topic": "The Spy Who Added Me on LinkedIn",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-15/the-spy-who-added-me-on-linkedin",
-    "votes": 3,
-    "posted": "Nov 16, 2016 11:04:16 PM"
   }
 ];
