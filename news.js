@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13023683",
+    "timestamp": "Nov 23, 2016 5:49:11 PM",
+    "topic": "GuriVR",
+    "url": "https://gurivr.com/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 5:27:37 PM"
+  },
+  {
     "id": "13023309",
     "timestamp": "Nov 23, 2016 4:59:07 PM",
     "topic": "Show HN: vcspull – synchronize your repos",
@@ -354,6 +362,14 @@ var newsArray = [
     "url": "https://www.wired.com/2016/11/oracle-just-bought-dyn-company-brought-internet/",
     "votes": 4,
     "posted": "Nov 23, 2016 11:50:04 AM"
+  },
+  {
+    "id": "13021520",
+    "timestamp": "Nov 23, 2016 5:29:10 PM",
+    "topic": "An ancient Chinese bird kept its feathers, and colors, for 130M years",
+    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/22/this-ancient-chinese-bird-kept-its-feathers-and-colors-for-130-million-years/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 11:24:39 AM"
   },
   {
     "id": "13021500",
@@ -863,6 +879,14 @@ var newsArray = [
     "url": "http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/whos-hiring-whos-firing-checking-in-on-tech-jobs-starting-with-bad-news-from-volkswagen#.WDS2ANrN63I.hackernews",
     "votes": 4,
     "posted": "Nov 22, 2016 10:18:22 PM"
+  },
+  {
+    "id": "13017654",
+    "timestamp": "Nov 23, 2016 5:59:12 PM",
+    "topic": "Pinball Wizards (2013)",
+    "url": "http://the-magazine.org/14/pinball-wizards",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:06:16 PM"
   },
   {
     "id": "13017604",
@@ -8776,139 +8800,5 @@ var newsArray = [
     "url": "https://hackernoon.com/to-be-a-young-black-man-working-in-an-office-full-of-white-people-fcf137d152c8",
     "votes": 5,
     "posted": "Nov 16, 2016 6:02:18 PM"
-  },
-  {
-    "id": "12968884",
-    "timestamp": "Nov 16, 2016 11:34:27 PM",
-    "topic": "New AI Algorithm Taught by Humans Learns Beyond Its Training",
-    "url": "http://news.engineering.utoronto.ca/new-ai-algorithm-taught-humans-learns-beyond-training/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 5:57:33 PM"
-  },
-  {
-    "id": "12968834",
-    "timestamp": "Nov 16, 2016 7:03:25 PM",
-    "topic": "How the U.S. Army’s ‘Phaser’ can wipe out an entire fleet of drones",
-    "url": "http://saintlad.com/u-s-armys-phaser-wipe-out-drones/",
-    "votes": 5,
-    "posted": "Nov 16, 2016 5:52:44 PM"
-  },
-  {
-    "id": "12968795",
-    "timestamp": "Nov 16, 2016 7:34:01 PM",
-    "topic": "More than 1 in 10 tests voided – Theranos lawsuit",
-    "url": "http://www.vanityfair.com/news/2016/11/explosive-new-details-emerge-in-lawsuit-against-theranos",
-    "votes": 3,
-    "posted": "Nov 16, 2016 5:50:03 PM"
-  },
-  {
-    "id": "12968657",
-    "timestamp": "Nov 16, 2016 11:34:27 PM",
-    "topic": "Why Google doesn’t care about hiring top college graduates",
-    "url": "http://qz.com/180247/why-google-doesnt-care-about-hiring-top-college-graduates/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 5:39:30 PM"
-  },
-  {
-    "id": "12968559",
-    "timestamp": "Nov 16, 2016 6:23:21 PM",
-    "topic": "Rust and the Future of Systems Programming",
-    "url": "https://medium.com/mozilla-tech/b75fba746910",
-    "votes": 4,
-    "posted": "Nov 16, 2016 5:31:18 PM"
-  },
-  {
-    "id": "12968544",
-    "timestamp": "Nov 16, 2016 6:03:20 PM",
-    "topic": "Ask HN: What are the simplest ways to pay your engineers outside of US?",
-    "votes": 4,
-    "posted": "Nov 16, 2016 5:30:15 PM"
-  },
-  {
-    "id": "12968428",
-    "timestamp": "Nov 16, 2016 11:34:27 PM",
-    "topic": "Gone in 70 seconds: Linux can be owned by holding Enter key",
-    "url": "http://www.theregister.co.uk/2016/11/16/want_to_pop_linux_shell_hole_enter_for_a_minute/",
-    "votes": 5,
-    "posted": "Nov 16, 2016 5:20:59 PM"
-  },
-  {
-    "id": "12968383",
-    "timestamp": "Nov 16, 2016 9:44:15 PM",
-    "topic": "Web Framework Benchmarks Round 13 is now available",
-    "url": "https://www.techempower.com/benchmarks/#section\u003ddata-r13",
-    "votes": 4,
-    "posted": "Nov 16, 2016 5:17:20 PM"
-  },
-  {
-    "id": "12968310",
-    "timestamp": "Nov 16, 2016 7:03:41 PM",
-    "topic": "Visual Studio Mobile Center",
-    "url": "https://www.visualstudio.com/vs/mobile-center/",
-    "votes": 6,
-    "posted": "Nov 16, 2016 5:11:12 PM"
-  },
-  {
-    "id": "12968308",
-    "timestamp": "Nov 16, 2016 5:13:10 PM",
-    "topic": "GiveCampus (YC S15) is hiring Ruby engineers who care about education",
-    "votes": 1,
-    "posted": "Nov 16, 2016 5:11:08 PM"
-  },
-  {
-    "id": "12968275",
-    "timestamp": "Nov 16, 2016 7:03:41 PM",
-    "topic": "SQL Server 2016 SP1 Released, SQL Server VNext Available for Download",
-    "url": "http://sqlservercode.blogspot.com/2016/11/sql-server-2016-sp1-released-sql-server.html",
-    "votes": 5,
-    "posted": "Nov 16, 2016 5:08:41 PM"
-  },
-  {
-    "id": "12968258",
-    "timestamp": "Nov 16, 2016 6:33:22 PM",
-    "topic": "Melown – The 3D Map Developer\u0027s Library",
-    "url": "https://www.melown.com/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 5:08:01 PM"
-  },
-  {
-    "id": "12968228",
-    "timestamp": "Nov 16, 2016 5:23:17 PM",
-    "topic": "How Casinos Enable Gambling Addicts",
-    "url": "http://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/?single_page\u003dtrue",
-    "votes": 4,
-    "posted": "Nov 16, 2016 5:05:35 PM"
-  },
-  {
-    "id": "12968213",
-    "timestamp": "Nov 16, 2016 5:23:16 PM",
-    "topic": "Think the world’s in a mess? Here are four things you can do about it",
-    "url": "http://theconversation.com/think-the-worlds-in-a-mess-here-are-four-things-you-can-do-about-it-68789",
-    "votes": 4,
-    "posted": "Nov 16, 2016 5:04:40 PM"
-  },
-  {
-    "id": "12968187",
-    "timestamp": "Nov 16, 2016 7:03:41 PM",
-    "topic": "What’s New in the .NET Platform – 8min Overview Video – Connect(); // 2016",
-    "url": "https://channel9.msdn.com/Events/Connect/2016/126",
-    "votes": 7,
-    "posted": "Nov 16, 2016 5:03:07 PM"
-  },
-  {
-    "id": "12968161",
-    "timestamp": "Nov 16, 2016 5:23:16 PM",
-    "topic": "Walk the Earth in VR with Google Earth VR",
-    "url": "https://vr.google.com/earth",
-    "votes": 16,
-    "posted": "Nov 16, 2016 5:00:07 PM"
-  },
-  {
-    "id": "12968147",
-    "timestamp": "Nov 16, 2016 5:23:17 PM",
-    "topic": "This new Samsung SSD is waaaaay faster than yours",
-    "url": "https://www.cnet.com/uk/products/samsung-nvme-ssd-960-evo/preview/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 4:59:10 PM"
   }
 ];
