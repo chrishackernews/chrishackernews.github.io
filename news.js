@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13023309",
+    "timestamp": "Nov 23, 2016 4:59:07 PM",
+    "topic": "Show HN: vcspull – synchronize your repos",
+    "url": "https://github.com/tony/vcspull",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:38:57 PM"
+  },
+  {
+    "id": "13022968",
+    "timestamp": "Nov 23, 2016 4:19:04 PM",
+    "topic": "Want to Know If the Election Was Hacked? Look at the Ballots",
+    "url": "https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba#.tuyhjzxvm",
+    "votes": 9,
+    "posted": "Nov 23, 2016 3:47:22 PM"
+  },
+  {
     "id": "13022826",
     "timestamp": "Nov 23, 2016 3:39:01 PM",
     "topic": "Trump to scrap NASA climate research in crackdown on ‘politicized science’",
     "url": "https://www.theguardian.com/environment/2016/nov/22/nasa-earth-donald-trump-eliminate-climate-change-research",
     "votes": 4,
     "posted": "Nov 23, 2016 3:27:06 PM"
+  },
+  {
+    "id": "13022784",
+    "timestamp": "Nov 23, 2016 4:39:06 PM",
+    "topic": "Hackers Are Using MailChimp to Spread Malware",
+    "url": "https://motherboard.vice.com/read/hackers-are-using-mailchimp-to-spread-malware",
+    "votes": 4,
+    "posted": "Nov 23, 2016 3:20:19 PM"
   },
   {
     "id": "13022764",
@@ -80,12 +104,27 @@ var newsArray = [
     "posted": "Nov 23, 2016 2:26:34 PM"
   },
   {
+    "id": "13022412",
+    "timestamp": "Nov 23, 2016 4:29:05 PM",
+    "topic": "Ask HN: Is it legal to sell FB and Twitter username along with my domain iMUST.do?",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:19:19 PM"
+  },
+  {
     "id": "13022366",
     "timestamp": "Nov 23, 2016 2:38:55 PM",
     "topic": "Pipelines: Your Doorway to Continuous Development",
     "url": "https://medium.com/@BuddyWorks/pipelines-your-doorway-to-continuous-development-43309c843f5a#.gbi2mundi",
     "votes": 10,
     "posted": "Nov 23, 2016 2:11:52 PM"
+  },
+  {
+    "id": "13022353",
+    "timestamp": "Nov 23, 2016 4:39:06 PM",
+    "topic": "Procedural Dungeon Generation: Cellular Automata",
+    "url": "http://blog.jrheard.com/procedural-dungeon-generation-cellular-automata",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:10:26 PM"
   },
   {
     "id": "13022298",
@@ -317,6 +356,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 11:50:04 AM"
   },
   {
+    "id": "13021500",
+    "timestamp": "Nov 23, 2016 4:29:05 PM",
+    "topic": "The hole at the heart of economics: the consent of the governed",
+    "url": "http://www.economist.com/blogs/freeexchange/2016/11/consent-governed",
+    "votes": 9,
+    "posted": "Nov 23, 2016 11:20:10 AM"
+  },
+  {
     "id": "13021218",
     "timestamp": "Nov 23, 2016 10:08:32 AM",
     "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
@@ -451,6 +498,14 @@ var newsArray = [
     "url": "http://www.city-journal.org/html/real-war-science-14782.html",
     "votes": 3,
     "posted": "Nov 23, 2016 4:41:54 AM"
+  },
+  {
+    "id": "13019784",
+    "timestamp": "Nov 23, 2016 4:59:07 PM",
+    "topic": "The Big Little Man from Brooklyn (1968)",
+    "url": "http://www.newyorker.com/magazine/1968/11/16/the-big-little-man-from-brooklyn",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:40:55 AM"
   },
   {
     "id": "13019735",
@@ -8855,149 +8910,5 @@ var newsArray = [
     "url": "https://www.cnet.com/uk/products/samsung-nvme-ssd-960-evo/preview/",
     "votes": 4,
     "posted": "Nov 16, 2016 4:59:10 PM"
-  },
-  {
-    "id": "12968066",
-    "timestamp": "Nov 16, 2016 7:03:42 PM",
-    "topic": "Free local development using the DocumentDB Emulator plus .NET Core support",
-    "url": "https://azure.microsoft.com/en-us/blog/documentdb-emulator-for-local-development-and-dotnet-core-support/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 4:53:38 PM"
-  },
-  {
-    "id": "12968050",
-    "timestamp": "Nov 16, 2016 7:03:42 PM",
-    "topic": "Announcing the Next Generation of Databases and Data Lakes from Microsoft",
-    "url": "https://blogs.technet.microsoft.com/dataplatforminsider/2016/11/16/announcing-the-next-generation-of-databases-and-data-lakes-from-microsoft/",
-    "votes": 5,
-    "posted": "Nov 16, 2016 4:52:35 PM"
-  },
-  {
-    "id": "12968044",
-    "timestamp": "Nov 16, 2016 5:03:09 PM",
-    "topic": "Visual Studio Mobile Center",
-    "url": "https://mobile.azure.com",
-    "votes": 11,
-    "posted": "Nov 16, 2016 4:52:18 PM"
-  },
-  {
-    "id": "12968036",
-    "timestamp": "Nov 16, 2016 11:34:27 PM",
-    "topic": "The Two Americas of 2016",
-    "url": "http://www.nytimes.com/interactive/2016/11/16/us/politics/100000004770186.mobile.html",
-    "votes": 3,
-    "posted": "Nov 16, 2016 4:52:04 PM"
-  },
-  {
-    "id": "12967991",
-    "timestamp": "Nov 16, 2016 6:03:20 PM",
-    "topic": "ES6 is great, until it’s not",
-    "url": "https://medium.com/@sAbakumoff/es6-is-great-until-its-not-f398339d0af6#.6fdcsr17i",
-    "votes": 4,
-    "posted": "Nov 16, 2016 4:49:26 PM"
-  },
-  {
-    "id": "12967975",
-    "timestamp": "Nov 16, 2016 7:03:42 PM",
-    "topic": "Introducing Visual Studio Mobile Center (Preview)",
-    "url": "https://blogs.msdn.microsoft.com/visualstudio/2016/11/16/visual-studio-mobile-center/",
-    "votes": 5,
-    "posted": "Nov 16, 2016 4:48:14 PM"
-  },
-  {
-    "id": "12967935",
-    "timestamp": "Nov 16, 2016 4:53:08 PM",
-    "topic": "Microsoft Announces SQL Server V.Next for Windows and Linux",
-    "url": "https://techcrunch.com/2016/11/16/microsofts-sql-server-for-linux-is-now-available-for-testing/",
-    "votes": 20,
-    "posted": "Nov 16, 2016 4:45:08 PM"
-  },
-  {
-    "id": "12967921",
-    "timestamp": "Nov 16, 2016 4:52:47 PM",
-    "topic": "Google Joins .NET Foundation Technical Steering Group",
-    "url": "https://techcrunch.com/2016/11/16/google-signs-on-to-the-net-foundation-and-samsung-brings-net-support-to-tizen/",
-    "votes": 23,
-    "posted": "Nov 16, 2016 4:44:33 PM"
-  },
-  {
-    "id": "12967901",
-    "timestamp": "Nov 16, 2016 4:52:47 PM",
-    "topic": "Microsoft Visual Studio 2017 Release Candidate",
-    "url": "https://www.visualstudio.com/vs/visual-studio-2017-rc/",
-    "votes": 24,
-    "posted": "Nov 16, 2016 4:42:48 PM"
-  },
-  {
-    "id": "12967898",
-    "timestamp": "Nov 16, 2016 4:53:09 PM",
-    "topic": "Google Cloud to Join .NET Foundation Technical Steering Group",
-    "url": "https://cloudplatform.googleblog.com/2016/11/Google-Cloud-to-join-NET-Foundation-Technical-Steering-Group.html",
-    "votes": 9,
-    "posted": "Nov 16, 2016 4:42:20 PM"
-  },
-  {
-    "id": "12967889",
-    "timestamp": "Nov 16, 2016 7:54:03 PM",
-    "topic": "The Coding Math YouTube channel is awesome and should have more subscribers",
-    "url": "https://www.youtube.com/user/codingmath/videos",
-    "votes": 5,
-    "posted": "Nov 16, 2016 4:41:49 PM"
-  },
-  {
-    "id": "12967886",
-    "timestamp": "Nov 16, 2016 11:34:28 PM",
-    "topic": "Here\u0027s How Facebook Actually Won Trump the Presidency",
-    "url": "https://www.wired.com/2016/11/facebook-won-trump-election-not-just-fake-news/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 4:41:23 PM"
-  },
-  {
-    "id": "12967859",
-    "timestamp": "Nov 16, 2016 11:24:26 PM",
-    "topic": "TechEmpower Framework Benchmarks Round 13",
-    "url": "https://www.techempower.com/blog/2016/11/16/framework-benchmarks-round-13/",
-    "votes": 7,
-    "posted": "Nov 16, 2016 4:39:08 PM"
-  },
-  {
-    "id": "12967847",
-    "timestamp": "Nov 16, 2016 4:53:08 PM",
-    "topic": "Visual Studio for Mac – Preview",
-    "url": "https://www.visualstudio.com/vs/visual-studio-for-mac/",
-    "votes": 20,
-    "posted": "Nov 16, 2016 4:37:52 PM"
-  },
-  {
-    "id": "12967819",
-    "timestamp": "Nov 16, 2016 4:42:46 PM",
-    "topic": "Microsoft joins the Linux Foundation",
-    "url": "https://techcrunch.com/2016/11/16/microsoft-joins-the-linux-foundation/",
-    "votes": 25,
-    "posted": "Nov 16, 2016 4:35:40 PM"
-  },
-  {
-    "id": "12967770",
-    "timestamp": "Nov 16, 2016 4:42:46 PM",
-    "topic": "Microsoft Becomes Linux Foundation Platinum Member",
-    "url": "https://www.linuxfoundation.org/announcements/microsoft-fortifies-commitment-to-open-source-becomes-linux-foundation-platinum",
-    "votes": 30,
-    "posted": "Nov 16, 2016 4:31:35 PM"
-  },
-  {
-    "id": "12967630",
-    "timestamp": "Nov 16, 2016 4:42:46 PM",
-    "topic": "According to Snopes, Fake News Is Not the Problem",
-    "url": "https://backchannel.com/according-to-snopes-fake-news-is-not-the-problem-4ca4852b1ff0#.6sx16urid",
-    "votes": 6,
-    "posted": "Nov 16, 2016 4:17:38 PM"
-  },
-  {
-    "id": "12967623",
-    "timestamp": "Nov 16, 2016 6:03:19 PM",
-    "topic": "Our World Is Going Full ‘Black Mirror’",
-    "url": "https://backchannel.com/our-world-is-going-full-black-mirror-946212a98184#.5qhncp8nz",
-    "votes": 7,
-    "posted": "Nov 16, 2016 4:17:03 PM"
   }
 ];
