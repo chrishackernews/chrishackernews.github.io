@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "13022826",
+    "timestamp": "Nov 23, 2016 3:39:01 PM",
+    "topic": "Trump to scrap NASA climate research in crackdown on ‘politicized science’",
+    "url": "https://www.theguardian.com/environment/2016/nov/22/nasa-earth-donald-trump-eliminate-climate-change-research",
+    "votes": 4,
+    "posted": "Nov 23, 2016 3:27:06 PM"
+  },
+  {
+    "id": "13022764",
+    "timestamp": "Nov 23, 2016 3:18:59 PM",
+    "topic": "Le Tote (YC S13) Is Hiring Full Stack Engineers Disrupt Fashion with Us",
+    "url": "http://grnh.se/5ybu4t1",
+    "votes": 1,
+    "posted": "Nov 23, 2016 3:17:13 PM"
+  },
+  {
+    "id": "13022686",
+    "timestamp": "Nov 23, 2016 3:29:00 PM",
+    "topic": "Shopify’s Frenzy – Sell to the most loyal customers in a new way",
+    "url": "https://getfrenzy.co/",
+    "votes": 6,
+    "posted": "Nov 23, 2016 3:07:18 PM"
+  },
+  {
+    "id": "13022682",
+    "timestamp": "Nov 23, 2016 3:18:59 PM",
+    "topic": "Vue js 2.1 is Here",
+    "url": "https://github.com/vuejs/vue/releases/tag/v2.1.0",
+    "votes": 4,
+    "posted": "Nov 23, 2016 3:06:37 PM"
+  },
+  {
+    "id": "13022663",
+    "timestamp": "Nov 23, 2016 3:08:58 PM",
+    "topic": "Show HN: Zenkit, productivity app of list+Kanban+spreadsheet+calendar",
+    "url": "https://zenkit.com/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 3:02:12 PM"
+  },
+  {
+    "id": "13022649",
+    "timestamp": "Nov 23, 2016 3:29:00 PM",
+    "topic": "Compiled list of Sci Papers found in Java source code",
+    "url": "http://lowlevelbits.org/java-papers/",
+    "votes": 10,
+    "posted": "Nov 23, 2016 2:59:25 PM"
+  },
+  {
+    "id": "13022613",
+    "timestamp": "Nov 23, 2016 3:08:58 PM",
+    "topic": "Google’s AI translation tool seems to have invented its own secret language",
+    "url": "https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/?ncid\u003drss",
+    "votes": 6,
+    "posted": "Nov 23, 2016 2:54:31 PM"
+  },
+  {
+    "id": "13022503",
+    "timestamp": "Nov 23, 2016 3:08:58 PM",
+    "topic": "Israeli firm can steal phone data in seconds",
+    "url": "http://phys.org/news/2016-11-israeli-firm-seconds.html",
+    "votes": 7,
+    "posted": "Nov 23, 2016 2:33:41 PM"
+  },
+  {
     "id": "13022468",
     "timestamp": "Nov 23, 2016 2:38:55 PM",
     "topic": "Twitter accidentally suspends its own CEO\u0027s account",
@@ -30,6 +94,14 @@ var newsArray = [
     "url": "https://medium.com/@datalab/opticon-london-2016-summary-about-the-ab-testing-conference-84c42703c45d",
     "votes": 3,
     "posted": "Nov 23, 2016 1:59:31 PM"
+  },
+  {
+    "id": "13022212",
+    "timestamp": "Nov 23, 2016 3:08:58 PM",
+    "topic": "Show HN: Simple JavaScript Weather Plugin with JQuery Dependencies Removed",
+    "url": "https://a12k.io/reallysimpleweather",
+    "votes": 9,
+    "posted": "Nov 23, 2016 1:46:06 PM"
   },
   {
     "id": "13022076",
@@ -8927,52 +8999,5 @@ var newsArray = [
     "url": "https://backchannel.com/our-world-is-going-full-black-mirror-946212a98184#.5qhncp8nz",
     "votes": 7,
     "posted": "Nov 16, 2016 4:17:03 PM"
-  },
-  {
-    "id": "12967350",
-    "timestamp": "Nov 16, 2016 5:13:15 PM",
-    "topic": "React 15.4",
-    "url": "https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html",
-    "votes": 9,
-    "posted": "Nov 16, 2016 3:54:20 PM"
-  },
-  {
-    "id": "12967274",
-    "timestamp": "Nov 16, 2016 4:02:42 PM",
-    "topic": "GitHub down",
-    "url": "https://status.github.com/#november-16-2016",
-    "votes": 31,
-    "posted": "Nov 16, 2016 3:50:03 PM"
-  },
-  {
-    "id": "12967272",
-    "timestamp": "Nov 16, 2016 4:32:45 PM",
-    "topic": "Ask HN: Can anyone recommend a web development company to fix my webiste?",
-    "votes": 4,
-    "posted": "Nov 16, 2016 3:49:54 PM"
-  },
-  {
-    "id": "12966993",
-    "timestamp": "Nov 16, 2016 4:42:46 PM",
-    "topic": "Welcome to Visual Studio 2017 RC",
-    "url": "https://docs.microsoft.com/en-us/visualstudio/welcome-to-visual-studio",
-    "votes": 5,
-    "posted": "Nov 16, 2016 3:24:25 PM"
-  },
-  {
-    "id": "12966954",
-    "timestamp": "Nov 16, 2016 4:42:46 PM",
-    "topic": "NSA: A “nation-state” used Wikileaks to influence the US election",
-    "url": "http://qz.com/838615/nsa-chief-on-wikileaks-and-the-hacks-affecting-the-us-election-a-conscious-effort-by-a-nation-state/",
-    "votes": 7,
-    "posted": "Nov 16, 2016 3:18:32 PM"
-  },
-  {
-    "id": "12966882",
-    "timestamp": "Nov 16, 2016 4:02:42 PM",
-    "topic": "Facebook Says It Found More Miscalculated Metrics",
-    "url": "http://www.wsj.com/articles/facebook-says-it-found-more-miscalculated-metrics-1479303984",
-    "votes": 12,
-    "posted": "Nov 16, 2016 3:07:18 PM"
   }
 ];
