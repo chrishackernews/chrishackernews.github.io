@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13019405",
+    "timestamp": "Nov 23, 2016 3:48:00 AM",
+    "topic": "Jack Dorsey, Co-Founder and CEO of Twitter, has been Suspended from his own site",
+    "url": "https://twitter.com/nisconi/status/801245635236143104",
+    "votes": 3,
+    "posted": "Nov 23, 2016 3:12:16 AM"
+  },
+  {
+    "id": "13019333",
+    "timestamp": "Nov 23, 2016 3:17:58 AM",
+    "topic": "Statistician calls for audit to address election hacking fears",
+    "url": "http://news.berkeley.edu/2016/11/22/election-hacking-audit/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 2:56:30 AM"
+  },
+  {
+    "id": "13019323",
+    "timestamp": "Nov 23, 2016 3:48:01 AM",
+    "topic": "Obama Can Still Boost Transparency, Accountability Before Trump Takes Office",
+    "url": "https://www.eff.org/deeplinks/2016/11/obama-can-still-boost-transparency-accountability-trump-takes-office",
+    "votes": 4,
+    "posted": "Nov 23, 2016 2:55:11 AM"
+  },
+  {
     "id": "13019257",
     "timestamp": "Nov 23, 2016 2:57:56 AM",
     "topic": "Man dies after Japan speed-eating contest",
@@ -23,12 +47,36 @@ var newsArray = [
     "posted": "Nov 23, 2016 2:40:01 AM"
   },
   {
+    "id": "13019228",
+    "timestamp": "Nov 23, 2016 3:17:58 AM",
+    "topic": "Activists Urge Clinton Campaign to Challenge Election Results in 3 Swing States",
+    "url": "http://nymag.com/daily/intelligencer/2016/11/activists-urge-hillary-clinton-to-challenge-election-results.html?q\u003dHN",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:35:15 AM"
+  },
+  {
     "id": "13019140",
     "timestamp": "Nov 23, 2016 2:47:55 AM",
     "topic": "The FBI Hacked Over 8,000 Computers in 120 Countries Based on One Warrant",
     "url": "http://motherboard.vice.com/read/fbi-hacked-over-8000-computers-in-120-countries-based-on-one-warrant?utm_source\u003dmbtwitter",
     "votes": 8,
     "posted": "Nov 23, 2016 2:14:54 AM"
+  },
+  {
+    "id": "13019108",
+    "timestamp": "Nov 23, 2016 3:17:58 AM",
+    "topic": "Accelerating Eulerian Fluid Simulation with Convolutional Networks by Google",
+    "url": "https://github.com/google/FluidNet",
+    "votes": 8,
+    "posted": "Nov 23, 2016 2:08:37 AM"
+  },
+  {
+    "id": "13018995",
+    "timestamp": "Nov 23, 2016 3:48:01 AM",
+    "topic": "Blood from Old Mice Makes Young Mice Decrepit",
+    "url": "https://www.technologyreview.com/s/602897/blood-from-old-mice-makes-young-mice-decrepit/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 1:43:37 AM"
   },
   {
     "id": "13018851",
@@ -77,6 +125,14 @@ var newsArray = [
     "url": "http://blogs.wsj.com/law/2016/11/21/bitcoin-exchange-extremely-concerned-with-irs-effort-to-identify-users/",
     "votes": 3,
     "posted": "Nov 22, 2016 11:56:36 PM"
+  },
+  {
+    "id": "13018385",
+    "timestamp": "Nov 23, 2016 3:27:59 AM",
+    "topic": "Your Government Wants to Militarize Social Media to Influence Your Beliefs",
+    "url": "https://motherboard.vice.com/read/your-government-wants-to-militarize-social-media-to-influence-your-beliefs",
+    "votes": 6,
+    "posted": "Nov 22, 2016 11:49:52 PM"
   },
   {
     "id": "13018307",
@@ -8682,37 +8738,5 @@ var newsArray = [
     "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom",
     "votes": 3,
     "posted": "Nov 16, 2016 4:28:30 AM"
-  },
-  {
-    "id": "12964191",
-    "timestamp": "Nov 16, 2016 7:51:50 AM",
-    "topic": "Blood from human teens rejuvenates body and brains of old mice",
-    "url": "https://www.newscientist.com/article/2112829-blood-from-human-teens-rejuvenates-body-and-brains-of-old-mice/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 3:57:32 AM"
-  },
-  {
-    "id": "12964052",
-    "timestamp": "Nov 16, 2016 3:31:27 AM",
-    "topic": "Biggest Spike in Traffic Deaths in 50 Years? Blame Apps",
-    "url": "http://www.nytimes.com/2016/11/16/business/tech-distractions-blamed-for-rise-in-traffic-fatalities.html",
-    "votes": 4,
-    "posted": "Nov 16, 2016 3:25:43 AM"
-  },
-  {
-    "id": "12964044",
-    "timestamp": "Nov 16, 2016 4:21:32 AM",
-    "topic": "China\u0027s first aircraft carrier is ready for business",
-    "url": "http://chinapower.csis.org/aircraft-carrier/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 3:24:11 AM"
-  },
-  {
-    "id": "12963998",
-    "timestamp": "Nov 16, 2016 3:41:28 AM",
-    "topic": "Mysterious Winds Cause Rapid Melting of Antarctic Ice",
-    "url": "http://news.nationalgeographic.com/2016/11/foehn-winds-melt-ice-shelves-antarctic-peninsula-larsen-c/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 3:08:56 AM"
   }
 ];
