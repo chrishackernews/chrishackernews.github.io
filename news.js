@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13020240",
+    "timestamp": "Nov 23, 2016 6:58:18 AM",
+    "topic": "Tesla runs an entire island on solar power",
+    "url": "https://www.engadget.com/2016/11/22/tesla-runs-island-on-solar-power/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 6:11:15 AM"
+  },
+  {
+    "id": "13020216",
+    "timestamp": "Nov 23, 2016 6:18:15 AM",
+    "topic": "Able Health (W16) is hiring a data engineer to lead our healthcare data pipeline",
+    "url": "http://ablehealth.com/jobs/product-data-engineer/",
+    "votes": 1,
+    "posted": "Nov 23, 2016 6:07:48 AM"
+  },
+  {
+    "id": "13020185",
+    "timestamp": "Nov 23, 2016 6:58:18 AM",
+    "topic": "How to speed up the Rust compiler some more",
+    "url": "https://blog.mozilla.org/nnethercote/2016/11/23/how-to-speed-up-the-rust-compiler-some-more/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:01:40 AM"
+  },
+  {
     "id": "13019923",
     "timestamp": "Nov 23, 2016 5:18:09 AM",
     "topic": "Female monkeys manipulate males into fighting",
@@ -62,6 +86,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dfT4lDU-QLUY",
     "votes": 6,
     "posted": "Nov 23, 2016 4:00:39 AM"
+  },
+  {
+    "id": "13019462",
+    "timestamp": "Nov 23, 2016 6:38:17 AM",
+    "topic": "A benchmark to compare synchronization techniques for multicore programming",
+    "url": "https://github.com/gramoli/synchrobench",
+    "votes": 4,
+    "posted": "Nov 23, 2016 3:25:08 AM"
   },
   {
     "id": "13019405",
@@ -951,6 +983,14 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/22/magazine/billionaires-vs-the-press-in-the-era-of-trump.html",
     "votes": 4,
     "posted": "Nov 22, 2016 1:00:52 PM"
+  },
+  {
+    "id": "13013436",
+    "timestamp": "Nov 23, 2016 6:08:14 AM",
+    "topic": "A History of the Erlang VM (2011) [pdf]",
+    "url": "http://www.erlang-factory.com/upload/presentations/389/EFSF11-ErlangVM.pdf",
+    "votes": 4,
+    "posted": "Nov 22, 2016 12:57:25 PM"
   },
   {
     "id": "13013434",
@@ -8809,21 +8849,5 @@ var newsArray = [
     "url": "http://qz.com/837237/people-are-getting-sick-of-working-in-the-sharing-economy/",
     "votes": 4,
     "posted": "Nov 16, 2016 7:00:49 AM"
-  },
-  {
-    "id": "12964851",
-    "timestamp": "Nov 16, 2016 8:01:51 AM",
-    "topic": "Clarity Design System for Angular 2",
-    "url": "https://vmware.github.io/clarity/index.html",
-    "votes": 5,
-    "posted": "Nov 16, 2016 6:56:05 AM"
-  },
-  {
-    "id": "12964645",
-    "timestamp": "Nov 16, 2016 6:21:43 AM",
-    "topic": "15-Inch MacBook Pro with Touch Bar Has Non-Removable SSD",
-    "url": "http://www.macrumors.com/2016/11/15/macbook-pro-touch-bar-non-removable-ssd/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 6:02:16 AM"
   }
 ];
