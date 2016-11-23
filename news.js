@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13018851",
+    "timestamp": "Nov 23, 2016 1:47:50 AM",
+    "topic": "Let\u0027s Encrypt Everything",
+    "url": "https://blog.codinghorror.com/lets-encrypt-everything/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 1:13:09 AM"
+  },
+  {
+    "id": "13018770",
+    "timestamp": "Nov 23, 2016 1:57:51 AM",
+    "topic": "Facebook Said to Create Censorship Tool to Get Back into China",
+    "url": "http://www.nytimes.com/2016/11/22/technology/facebook-censorship-tool-china.html",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:59:01 AM"
+  },
+  {
+    "id": "13018763",
+    "timestamp": "Nov 23, 2016 1:57:52 AM",
+    "topic": "Have you read this? never goin\u0027 be president?",
+    "url": "http://nymag.com/daily/intelligencer/2016/11/activists-urge-hillary-clinton-to-challenge-election-results.html?mid\u003dfacebook_nymag",
+    "votes": 4,
+    "posted": "Nov 23, 2016 12:58:01 AM"
+  },
+  {
+    "id": "13018612",
+    "timestamp": "Nov 23, 2016 1:27:49 AM",
+    "topic": "If Your Car Were Emacs",
+    "url": "http://wiki.c2.com/?IfYourCarWereEmacs",
+    "votes": 7,
+    "posted": "Nov 23, 2016 12:31:21 AM"
+  },
+  {
+    "id": "13018528",
+    "timestamp": "Nov 23, 2016 1:07:47 AM",
+    "topic": "The States That College Graduates Are Most Likely to Leave",
+    "url": "http://www.nytimes.com/2016/11/22/upshot/the-states-that-college-graduates-are-most-likely-to-leave.html",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:15:34 AM"
+  },
+  {
     "id": "13018425",
     "timestamp": "Nov 23, 2016 12:07:43 AM",
     "topic": "Coinbase ‘Extremely Concerned’ with IRS Effort to Identify Users",
@@ -14,6 +54,14 @@ var newsArray = [
     "url": "http://spectrum.ieee.org/view-from-the-valley/geek-life/history/silicon-valleys-secret-involves-proximity-stolen-parts-say-atari-alumni",
     "votes": 9,
     "posted": "Nov 22, 2016 11:37:18 PM"
+  },
+  {
+    "id": "13018298",
+    "timestamp": "Nov 23, 2016 1:57:52 AM",
+    "topic": "Facebook Said to Create Censorship Tool to Get Back into China",
+    "url": "http://www.nytimes.com/2016/11/22/technology/facebook-censorship-tool-china.html?smid\u003dtw-share\u0026_r\u003d0",
+    "votes": 7,
+    "posted": "Nov 22, 2016 11:36:13 PM"
   },
   {
     "id": "13018287",
@@ -8651,60 +8699,5 @@ var newsArray = [
     "url": "https://storiesbehindthefog.com/i-gave-back-my-u-s-citizenship-im-going-back-to-serbia-nenad-a42fe00c4f60#.2aswvy6vb",
     "votes": 7,
     "posted": "Nov 16, 2016 2:02:16 AM"
-  },
-  {
-    "id": "12963724",
-    "timestamp": "Nov 16, 2016 3:51:29 AM",
-    "topic": "Introduction to Node and Express",
-    "url": "https://medium.com/javascript-scene/introduction-to-node-express-90c431f9e6fd",
-    "votes": 4,
-    "posted": "Nov 16, 2016 1:55:41 AM"
-  },
-  {
-    "id": "12963708",
-    "timestamp": "Nov 16, 2016 2:01:17 AM",
-    "topic": "UI/Front-End Engineer at ReadWorks (Remote or Brooklyn NY)",
-    "votes": 1,
-    "posted": "Nov 16, 2016 1:52:18 AM"
-  },
-  {
-    "id": "12963694",
-    "timestamp": "Nov 16, 2016 3:51:28 AM",
-    "topic": "Advancing our ambition to democratize artificial intelligence",
-    "url": "http://blogs.microsoft.com/blog/2016/11/15/advancing-ambition-democratize-artificial-intelligence/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 1:49:52 AM"
-  },
-  {
-    "id": "12963647",
-    "timestamp": "Nov 16, 2016 3:51:29 AM",
-    "topic": "Amazon takes counterfeit sellers to court for first time",
-    "url": "http://www.cnbc.com/2016/11/15/amazon-takes-counterfeit-sellers-to-court-for-first-time.html",
-    "votes": 3,
-    "posted": "Nov 16, 2016 1:39:25 AM"
-  },
-  {
-    "id": "12963566",
-    "timestamp": "Nov 16, 2016 7:01:46 AM",
-    "topic": "Stack Exchange\u0027s Performance Dashboard",
-    "url": "http://stackexchange.com/performance",
-    "votes": 3,
-    "posted": "Nov 16, 2016 1:20:22 AM"
-  },
-  {
-    "id": "12963549",
-    "timestamp": "Nov 16, 2016 3:51:29 AM",
-    "topic": "This is why Snapchat didn’t give Spectacles to techies",
-    "url": "https://techcrunch.com/2016/11/15/spectascobles/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 1:15:59 AM"
-  },
-  {
-    "id": "12963532",
-    "timestamp": "Nov 16, 2016 3:51:29 AM",
-    "topic": "Deadmau5 Teaches Electronic Music Production – Official Trailer",
-    "url": "https://www.youtube.com/watch?v\u003ddtj6dDARgfQ",
-    "votes": 3,
-    "posted": "Nov 16, 2016 1:11:34 AM"
   }
 ];
