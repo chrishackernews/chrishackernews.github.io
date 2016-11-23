@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "13019257",
+    "timestamp": "Nov 23, 2016 2:57:56 AM",
+    "topic": "Man dies after Japan speed-eating contest",
+    "url": "http://www.bbc.com/news/world-asia-38073919",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:41:25 AM"
+  },
+  {
+    "id": "13019251",
+    "timestamp": "Nov 23, 2016 2:57:56 AM",
+    "topic": "Why Aren\u0027t Donald Trump\u0027s Epic Conflicts of Interest Illegal?",
+    "url": "http://fortune.com/2016/11/15/donald-trump-conflicts-interest-ethics/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:40:20 AM"
+  },
+  {
+    "id": "13019250",
+    "timestamp": "Nov 23, 2016 2:47:55 AM",
+    "topic": "Shipbob(YC-S14) is looking for a .NET Software engineer",
+    "votes": 1,
+    "posted": "Nov 23, 2016 2:40:01 AM"
+  },
+  {
+    "id": "13019140",
+    "timestamp": "Nov 23, 2016 2:47:55 AM",
+    "topic": "The FBI Hacked Over 8,000 Computers in 120 Countries Based on One Warrant",
+    "url": "http://motherboard.vice.com/read/fbi-hacked-over-8000-computers-in-120-countries-based-on-one-warrant?utm_source\u003dmbtwitter",
+    "votes": 8,
+    "posted": "Nov 23, 2016 2:14:54 AM"
+  },
+  {
     "id": "13018851",
     "timestamp": "Nov 23, 2016 1:47:50 AM",
     "topic": "Let\u0027s Encrypt Everything",
@@ -88,6 +119,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 11:20:52 PM"
   },
   {
+    "id": "13018135",
+    "timestamp": "Nov 23, 2016 2:07:53 AM",
+    "topic": "Show HN: libvcs – pythonically control git, svn and mercurial repos",
+    "url": "https://github.com/tony/libvcs",
+    "votes": 3,
+    "posted": "Nov 22, 2016 11:11:44 PM"
+  },
+  {
     "id": "13018104",
     "timestamp": "Nov 23, 2016 12:07:43 AM",
     "topic": "I taught 30,000 students how to code. I\u0027m offering my course for free, forever",
@@ -172,6 +211,14 @@ var newsArray = [
     "url": "http://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/whos-hiring-whos-firing-checking-in-on-tech-jobs-starting-with-bad-news-from-volkswagen#.WDS2ANrN63I.hackernews",
     "votes": 4,
     "posted": "Nov 22, 2016 10:18:22 PM"
+  },
+  {
+    "id": "13017592",
+    "timestamp": "Nov 23, 2016 2:57:56 AM",
+    "topic": "Telegraph",
+    "url": "http://telegra.ph/",
+    "votes": 7,
+    "posted": "Nov 22, 2016 9:58:51 PM"
   },
   {
     "id": "13017478",
@@ -8667,37 +8714,5 @@ var newsArray = [
     "url": "http://news.nationalgeographic.com/2016/11/foehn-winds-melt-ice-shelves-antarctic-peninsula-larsen-c/",
     "votes": 3,
     "posted": "Nov 16, 2016 3:08:56 AM"
-  },
-  {
-    "id": "12963911",
-    "timestamp": "Nov 16, 2016 10:04:17 PM",
-    "topic": "How Do We Know When a Hunk of Rock Is Actually a Stone Tool?",
-    "url": "http://fivethirtyeight.com/features/how-do-we-know-when-a-hunk-of-rock-is-actually-a-stone-tool/",
-    "votes": 6,
-    "posted": "Nov 16, 2016 2:45:01 AM"
-  },
-  {
-    "id": "12963887",
-    "timestamp": "Nov 16, 2016 3:51:29 AM",
-    "topic": "Mark Zuckerberg Continues to Miss the Point on Facebook and Media",
-    "url": "http://fortune.com/2016/11/14/zuckerberg-facebook-media/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 2:39:40 AM"
-  },
-  {
-    "id": "12963841",
-    "timestamp": "Nov 16, 2016 9:34:14 PM",
-    "topic": "Battling the Gods: Atheism in the Ancient World",
-    "url": "http://newramblerreview.com/book-reviews/classics/imaginings",
-    "votes": 6,
-    "posted": "Nov 16, 2016 2:24:19 AM"
-  },
-  {
-    "id": "12963740",
-    "timestamp": "Nov 16, 2016 2:51:24 AM",
-    "topic": "I\u0027m moving back to Serbia",
-    "url": "https://storiesbehindthefog.com/i-gave-back-my-u-s-citizenship-im-going-back-to-serbia-nenad-a42fe00c4f60#.2aswvy6vb",
-    "votes": 7,
-    "posted": "Nov 16, 2016 2:02:16 AM"
   }
 ];
