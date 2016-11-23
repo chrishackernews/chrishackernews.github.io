@@ -765,6 +765,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 6:39:39 PM"
   },
   {
+    "id": "13015693",
+    "timestamp": "Nov 23, 2016 11:58:41 AM",
+    "topic": "Show HN: Online curl command builder",
+    "url": "http://curl.build",
+    "votes": 5,
+    "posted": "Nov 22, 2016 6:32:52 PM"
+  },
+  {
     "id": "13015647",
     "timestamp": "Nov 22, 2016 9:57:32 PM",
     "topic": "How Jared Kushner Won Trump the White House",
@@ -8802,21 +8810,5 @@ var newsArray = [
     "url": "https://connectevent.microsoft.com/",
     "votes": 9,
     "posted": "Nov 16, 2016 12:04:01 PM"
-  },
-  {
-    "id": "12965883",
-    "timestamp": "Nov 16, 2016 11:44:29 PM",
-    "topic": "Data Scientists Chart the Tragic Rise of Selfie Deaths",
-    "url": "https://www.technologyreview.com/s/602862/data-scientists-chart-the-tragic-rise-of-selfie-deaths/amp/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 11:34:53 AM"
-  },
-  {
-    "id": "12965846",
-    "timestamp": "Nov 16, 2016 1:02:27 PM",
-    "topic": "Apple thinks you’re stupid, sells $300 book of adverts",
-    "url": "http://www.thememo.com/2016/11/16/apple-book-designed-by-apple-in-california-book-buy-apple-book/",
-    "votes": 6,
-    "posted": "Nov 16, 2016 11:25:17 AM"
   }
 ];
