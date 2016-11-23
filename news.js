@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 7:22:45 AM"
   },
   {
+    "id": "13020500",
+    "timestamp": "Nov 23, 2016 8:38:25 AM",
+    "topic": "Show HN: Build a robot with the $9 C.H.I.P. Computer",
+    "url": "https://www.dexterindustries.com/projects/make-a-chip-robot/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 7:17:25 AM"
+  },
+  {
     "id": "13020358",
     "timestamp": "Nov 23, 2016 7:58:22 AM",
     "topic": "GitPlex – a new Git repository management server doing code review right",
@@ -199,6 +207,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 2:08:37 AM"
   },
   {
+    "id": "13019104",
+    "timestamp": "Nov 23, 2016 8:48:26 AM",
+    "topic": "Bigwig Siemens PLM Chairman Responds to DeepChip IC EDA Users",
+    "url": "http://www.deepchip.com/items/0564-02.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:07:57 AM"
+  },
+  {
     "id": "13018995",
     "timestamp": "Nov 23, 2016 3:48:01 AM",
     "topic": "Blood from Old Mice Makes Young Mice Decrepit",
@@ -229,6 +245,14 @@ var newsArray = [
     "url": "http://nymag.com/daily/intelligencer/2016/11/activists-urge-hillary-clinton-to-challenge-election-results.html?mid\u003dfacebook_nymag",
     "votes": 4,
     "posted": "Nov 23, 2016 12:58:01 AM"
+  },
+  {
+    "id": "13018675",
+    "timestamp": "Nov 23, 2016 8:48:26 AM",
+    "topic": "Computer Security Experts Urge Clinton Campaign to Challenge Election Results",
+    "url": "http://nymag.com/daily/intelligencer/2016/11/activists-urge-hillary-clinton-to-challenge-election-results.html",
+    "votes": 25,
+    "posted": "Nov 23, 2016 12:42:31 AM"
   },
   {
     "id": "13018612",
@@ -349,6 +373,14 @@ var newsArray = [
     "url": "http://www.dailymail.co.uk/travel/travel_news/article-3937272/The-world-s-dangerous-countries-mapped-Syria-Afghanistan-Yemen-riskiest-places-visit-Norway-Sweden-Iceland-ranked-safest.html",
     "votes": 3,
     "posted": "Nov 22, 2016 10:56:43 PM"
+  },
+  {
+    "id": "13017967",
+    "timestamp": "Nov 23, 2016 8:58:27 AM",
+    "topic": "Strange Numbers Found in Particle Collisions",
+    "url": "https://www.quantamagazine.org/20161115-strange-numbers-found-in-particle-collisions/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 10:48:19 PM"
   },
   {
     "id": "13017892",
@@ -8801,29 +8833,5 @@ var newsArray = [
     "url": "https://quickdraw.withgoogle.com/",
     "votes": 7,
     "posted": "Nov 16, 2016 9:21:01 AM"
-  },
-  {
-    "id": "12965235",
-    "timestamp": "Nov 16, 2016 9:41:59 AM",
-    "topic": "Twitter Is Banning Multiple Alt-Right Accounts",
-    "url": "http://thenextweb.com/twitter/2016/11/16/twitter-banning-multiple-alt-right-accounts/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 8:54:15 AM"
-  },
-  {
-    "id": "12965209",
-    "timestamp": "Nov 16, 2016 8:51:55 AM",
-    "topic": "MySQL 8.0: JSON Aggregation functions",
-    "url": "https://schlueters.de/blog/archives/183-MySQL-8.0-JSON-Aggregation-functions.html",
-    "votes": 3,
-    "posted": "Nov 16, 2016 8:45:07 AM"
-  },
-  {
-    "id": "12965094",
-    "timestamp": "Nov 17, 2016 4:24:52 AM",
-    "topic": "Former NYTimes editor on policy of matching coverage to predetermined narrative",
-    "url": "http://deadline.com/2016/11/shocked-by-trump-new-york-times-finds-time-for-soul-searching-1201852490/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 8:07:18 AM"
   }
 ];
