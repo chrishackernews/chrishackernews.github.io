@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13019787",
+    "timestamp": "Nov 23, 2016 4:58:07 AM",
+    "topic": "The Real War on Science",
+    "url": "http://www.city-journal.org/html/real-war-science-14782.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:41:54 AM"
+  },
+  {
+    "id": "13019643",
+    "timestamp": "Nov 23, 2016 4:28:04 AM",
+    "topic": "Huge Underground Ice Deposit on Mars Is Bigger Than New Mexico",
+    "url": "http://www.space.com/34811-mars-ice-more-water-than-lake-superior.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:12:00 AM"
+  },
+  {
+    "id": "13019627",
+    "timestamp": "Nov 23, 2016 4:58:07 AM",
+    "topic": "John Cleese on Why Creativity Takes Time",
+    "url": "https://medium.com/@sparkszilla/john-cleese-on-why-creativity-takes-time-d6adee4e3609#.1u3w0a1zy",
+    "votes": 4,
+    "posted": "Nov 23, 2016 4:08:37 AM"
+  },
+  {
+    "id": "13019591",
+    "timestamp": "Nov 23, 2016 4:38:05 AM",
+    "topic": "HD video in 1993: NYC shot at 1080p, 60fps",
+    "url": "https://www.youtube.com/watch?v\u003dfT4lDU-QLUY",
+    "votes": 6,
+    "posted": "Nov 23, 2016 4:00:39 AM"
+  },
+  {
     "id": "13019405",
     "timestamp": "Nov 23, 2016 3:48:00 AM",
     "topic": "Jack Dorsey, Co-Founder and CEO of Twitter, has been Suspended from his own site",
@@ -53,6 +85,14 @@ var newsArray = [
     "url": "http://nymag.com/daily/intelligencer/2016/11/activists-urge-hillary-clinton-to-challenge-election-results.html?q\u003dHN",
     "votes": 3,
     "posted": "Nov 23, 2016 2:35:15 AM"
+  },
+  {
+    "id": "13019176",
+    "timestamp": "Nov 23, 2016 4:48:06 AM",
+    "topic": "Bruce Schneier: The internet era of fun and games is over",
+    "url": "http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/?tw\u003dshare",
+    "votes": 5,
+    "posted": "Nov 23, 2016 2:22:28 AM"
   },
   {
     "id": "13019140",
@@ -167,6 +207,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 11:34:43 PM"
   },
   {
+    "id": "13018267",
+    "timestamp": "Nov 23, 2016 4:18:03 AM",
+    "topic": "Open Source at DigitalOcean: Introducing Go-Qemu and Go-Libvirt",
+    "url": "https://www.digitalocean.com/company/blog/introducing-go-qemu-and-go-libvirt/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 11:32:31 PM"
+  },
+  {
     "id": "13018201",
     "timestamp": "Nov 23, 2016 12:07:43 AM",
     "topic": "0-Shot Translation with Google\u0027s Multilingual Neural Machine Translation System",
@@ -269,12 +317,36 @@ var newsArray = [
     "posted": "Nov 22, 2016 10:18:22 PM"
   },
   {
+    "id": "13017604",
+    "timestamp": "Nov 23, 2016 4:38:05 AM",
+    "topic": "Telegram.org launches Telegraph",
+    "url": "https://telegram.org/blog/instant-view",
+    "votes": 7,
+    "posted": "Nov 22, 2016 10:00:28 PM"
+  },
+  {
     "id": "13017592",
     "timestamp": "Nov 23, 2016 2:57:56 AM",
     "topic": "Telegraph",
     "url": "http://telegra.ph/",
     "votes": 7,
     "posted": "Nov 22, 2016 9:58:51 PM"
+  },
+  {
+    "id": "13017564",
+    "timestamp": "Nov 23, 2016 4:28:04 AM",
+    "topic": "Show HN: Build Amazon Alexa Skills Easily Using Claudia Bot Builder",
+    "url": "https://github.com/claudiajs/example-projects/tree/master/alexa-skill",
+    "votes": 5,
+    "posted": "Nov 22, 2016 9:54:22 PM"
+  },
+  {
+    "id": "13017541",
+    "timestamp": "Nov 23, 2016 4:18:03 AM",
+    "topic": "Island in American Samoa ~100% solar with 5,300+ panels and 60 Tesla Powerpacks",
+    "url": "https://twitter.com/TeslaMotors/status/801063758348980225",
+    "votes": 3,
+    "posted": "Nov 22, 2016 9:51:30 PM"
   },
   {
     "id": "13017478",
@@ -395,6 +467,14 @@ var newsArray = [
     "url": "https://stratechery.com/2016/fake-news/",
     "votes": 5,
     "posted": "Nov 22, 2016 8:04:43 PM"
+  },
+  {
+    "id": "13016490",
+    "timestamp": "Nov 23, 2016 4:48:06 AM",
+    "topic": "Crystal language 0.20.0 released",
+    "url": "https://crystal-lang.org/2016/11/22/crystal-0.20.0-released.html",
+    "votes": 6,
+    "posted": "Nov 22, 2016 7:58:58 PM"
   },
   {
     "id": "13016240",
@@ -8722,21 +8802,5 @@ var newsArray = [
     "url": "http://motherboard.vice.com/read/kids-win-the-right-to-sue-the-us-government-over-climate-change",
     "votes": 3,
     "posted": "Nov 16, 2016 5:28:20 AM"
-  },
-  {
-    "id": "12964354",
-    "timestamp": "Nov 16, 2016 5:41:39 AM",
-    "topic": "Fanless desktop computer",
-    "url": "https://airtop-pc.com/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 4:33:37 AM"
-  },
-  {
-    "id": "12964336",
-    "timestamp": "Nov 16, 2016 5:11:36 AM",
-    "topic": "Richard Branson reveals prototype for supersonic passenger aircraft",
-    "url": "https://www.theguardian.com/business/2016/nov/15/richard-branson-supersonic-flight-virgin-boom",
-    "votes": 3,
-    "posted": "Nov 16, 2016 4:28:30 AM"
   }
 ];
