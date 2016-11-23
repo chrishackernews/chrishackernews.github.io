@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13026073",
+    "timestamp": "Nov 23, 2016 10:59:41 PM",
+    "topic": "Engineer? TechOps? Swiftype is hiring",
+    "url": "https://swiftype.com/jobs",
+    "votes": 1,
+    "posted": "Nov 23, 2016 10:54:21 PM"
+  },
+  {
+    "id": "13025941",
+    "timestamp": "Nov 23, 2016 10:39:39 PM",
+    "topic": "Elm (0.18) for the Front End, Right Now",
+    "url": "http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18",
+    "votes": 5,
+    "posted": "Nov 23, 2016 10:26:21 PM"
+  },
+  {
+    "id": "13025854",
+    "timestamp": "Nov 23, 2016 10:39:39 PM",
+    "topic": "UK Porn websites to be banned from showing some sex acts under proposed law",
+    "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/porn-websites-sites-pages-videos-internet-adult-uk-digital-economy-bill-a7433551.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 10:08:53 PM"
+  },
+  {
     "id": "13025519",
     "timestamp": "Nov 23, 2016 9:29:31 PM",
     "topic": "Salesforce Research Unveils Breakthroughs in Deep Learning",
@@ -8,12 +32,44 @@ var newsArray = [
     "posted": "Nov 23, 2016 9:18:46 PM"
   },
   {
+    "id": "13025497",
+    "timestamp": "Nov 23, 2016 10:09:35 PM",
+    "topic": "World War II – Not remotely believable (2010)",
+    "url": "http://squid314.livejournal.com/275614.html",
+    "votes": 4,
+    "posted": "Nov 23, 2016 9:15:23 PM"
+  },
+  {
     "id": "13025495",
     "timestamp": "Nov 23, 2016 9:19:30 PM",
     "topic": "Holding Machine Learning Models Accountable",
     "url": "https://medium.com/pachyderm-data/hold-your-machine-learning-and-ai-models-accountable-de887177174c#---0-52.en3sp2kbk",
     "votes": 3,
     "posted": "Nov 23, 2016 9:15:07 PM"
+  },
+  {
+    "id": "13025488",
+    "timestamp": "Nov 23, 2016 10:09:35 PM",
+    "topic": "Telegram launches Telegraph, an anonymous blogging platform",
+    "url": "http://www.theverge.com/2016/11/23/13728726/telegram-anonymous-blogging-platform-telegraph",
+    "votes": 3,
+    "posted": "Nov 23, 2016 9:14:24 PM"
+  },
+  {
+    "id": "13025332",
+    "timestamp": "Nov 23, 2016 10:09:35 PM",
+    "topic": "UK Cops Are Trying to Remove Spy Gear Records from the Web",
+    "url": "http://motherboard.vice.com/read/uk-cops-are-trying-to-remove-spy-gear-records-from-the-web",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:54:21 PM"
+  },
+  {
+    "id": "13025209",
+    "timestamp": "Nov 23, 2016 10:19:36 PM",
+    "topic": "Trump’s FCC advisor wants to eliminate most of the FCC",
+    "url": "http://arstechnica.com/tech-policy/2016/11/trumps-fcc-advisor-wants-to-eliminate-most-of-the-fcc/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 8:40:28 PM"
   },
   {
     "id": "13025204",
@@ -95,12 +151,36 @@ var newsArray = [
     "posted": "Nov 23, 2016 7:21:56 PM"
   },
   {
+    "id": "13024475",
+    "timestamp": "Nov 23, 2016 10:29:37 PM",
+    "topic": "Dismay as Alzheimer\u0027s drug fails in clinical trials",
+    "url": "https://www.theguardian.com/society/2016/nov/23/dismay-as-alzheimers-drug-solanezumab-fails-in-clinical-trials",
+    "votes": 4,
+    "posted": "Nov 23, 2016 7:12:33 PM"
+  },
+  {
     "id": "13024352",
     "timestamp": "Nov 23, 2016 8:19:25 PM",
     "topic": "Many LASIK patients may wind up with glare, halos or other visual symptoms",
     "url": "https://www.washingtonpost.com/news/to-your-health/wp/2016/11/23/many-lasik-patients-may-wind-up-with-glare-halos-or-other-visual-symptoms-study-suggests/?hpid\u003dhp_hp-more-top-stories_lasik-1115am%3Ahomepage%2Fstory",
     "votes": 7,
     "posted": "Nov 23, 2016 6:58:10 PM"
+  },
+  {
+    "id": "13024346",
+    "timestamp": "Nov 23, 2016 10:29:38 PM",
+    "topic": "Wired: Trump\u0027s immigration crackdown may spark tech brain drain",
+    "url": "https://www.wired.com/2016/11/trumps-immigration-crackdown-spark-tech-brain-drain/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:57:33 PM"
+  },
+  {
+    "id": "13024308",
+    "timestamp": "Nov 23, 2016 10:29:38 PM",
+    "topic": "Trump Names Two Opponents of Net Neutrality to Oversee FCC Transition Team",
+    "url": "http://gizmodo.com/trump-names-two-opponents-of-net-neutrality-to-oversee-1789231918",
+    "votes": 5,
+    "posted": "Nov 23, 2016 6:52:59 PM"
   },
   {
     "id": "13024139",
@@ -8501,131 +8581,5 @@ var newsArray = [
     "url": "http://www.bloomberg.com/news/articles/2016-11-15/the-spy-who-added-me-on-linkedin",
     "votes": 3,
     "posted": "Nov 16, 2016 11:04:16 PM"
-  },
-  {
-    "id": "12971935",
-    "timestamp": "Nov 16, 2016 11:24:25 PM",
-    "topic": "ReactOS 0.4.3 Released with GOG, XBMC and Python 3 Supported",
-    "url": "https://reactos.org/project-news/reactos-043-released",
-    "votes": 7,
-    "posted": "Nov 16, 2016 10:54:31 PM"
-  },
-  {
-    "id": "12971921",
-    "timestamp": "Nov 16, 2016 11:14:24 PM",
-    "topic": "Trim will renegotiate your Comcast bill while you play Tetris",
-    "url": "http://venturebeat.com/2016/11/16/trims-new-bot-will-renegotiate-your-comcast-bill-while-you-play-tetris/",
-    "votes": 6,
-    "posted": "Nov 16, 2016 10:51:38 PM"
-  },
-  {
-    "id": "12971910",
-    "timestamp": "Nov 16, 2016 11:14:24 PM",
-    "topic": "Ask HN: When will blockchian or something better replace e-mail?",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:50:09 PM"
-  },
-  {
-    "id": "12971877",
-    "timestamp": "Nov 16, 2016 10:54:22 PM",
-    "topic": "The iPhone Is Bigger Than Donald Trump",
-    "url": "https://backchannel.com/the-iphone-is-bigger-than-donald-trump-4be61d9f3ce0#.ila5kmbr1",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:46:42 PM"
-  },
-  {
-    "id": "12971867",
-    "timestamp": "Nov 16, 2016 11:04:23 PM",
-    "topic": "Four Work Habits You Need to Change at Each Stage of Your Career",
-    "url": "https://www.fastcompany.com/3064111/work-smart/four-work-habits-you-need-to-change-at-each-stage-of-your-career",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:45:06 PM"
-  },
-  {
-    "id": "12971865",
-    "timestamp": "Nov 16, 2016 10:54:22 PM",
-    "topic": "Learning Perl 6",
-    "url": "https://www.kickstarter.com/projects/1422827986/learning-perl-6",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:44:54 PM"
-  },
-  {
-    "id": "12971841",
-    "timestamp": "Nov 16, 2016 11:04:23 PM",
-    "topic": "NET Framework – What\u0027s New in C# 7.0",
-    "url": "https://msdn.microsoft.com/magazine/mt790184",
-    "votes": 6,
-    "posted": "Nov 16, 2016 10:41:06 PM"
-  },
-  {
-    "id": "12971821",
-    "timestamp": "Nov 17, 2016 5:45:58 PM",
-    "topic": "Ask HN: First 10 minutes on new MacOS machine?",
-    "votes": 4,
-    "posted": "Nov 16, 2016 10:39:06 PM"
-  },
-  {
-    "id": "12971819",
-    "timestamp": "Nov 16, 2016 11:54:30 PM",
-    "topic": "Show HN: Dave – CLI Personal assistant written in Go",
-    "url": "https://github.com/zuzuleinen/dave",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:38:55 PM"
-  },
-  {
-    "id": "12971800",
-    "timestamp": "Nov 16, 2016 11:14:24 PM",
-    "topic": "Another reason to ditch brain training: A declining mind may make you wiser",
-    "url": "http://arstechnica.com/science/2016/11/another-reason-to-ditch-brain-training-a-declining-mind-may-make-you-wiser/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 10:36:27 PM"
-  },
-  {
-    "id": "12971779",
-    "timestamp": "Nov 16, 2016 11:04:23 PM",
-    "topic": "Twitter suspends \u0027alt-right\u0027 accounts",
-    "url": "http://www.politico.com/blogs/on-media/2016/11/twitter-suspends-alt-right-accounts-231479",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:33:31 PM"
-  },
-  {
-    "id": "12971637",
-    "timestamp": "Nov 16, 2016 11:14:24 PM",
-    "topic": "Ancient ‘Sea Monster’ Found in Antarctica",
-    "url": "https://qubitsnews.com/2016/11/16/ancient-sea-monster-found-in-antarctica/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 10:19:11 PM"
-  },
-  {
-    "id": "12971633",
-    "timestamp": "Nov 17, 2016 6:36:03 PM",
-    "topic": "Azure Bot Service – Intelligent, serverless bot service",
-    "url": "https://azure.microsoft.com/en-us/services/bot-service/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 10:18:48 PM"
-  },
-  {
-    "id": "12971503",
-    "timestamp": "Nov 16, 2016 11:24:26 PM",
-    "topic": "PoisonTap",
-    "url": "https://github.com/samyk/poisontap",
-    "votes": 5,
-    "posted": "Nov 16, 2016 10:04:43 PM"
-  },
-  {
-    "id": "12971500",
-    "timestamp": "Nov 19, 2016 12:39:09 AM",
-    "topic": "Dual-Port 2A USB Chargers Only $1.95",
-    "url": "http://www.eetimes.com/author.asp?doc_id\u003d1330825\u0026section_id\u003d216",
-    "votes": 4,
-    "posted": "Nov 16, 2016 10:04:29 PM"
-  },
-  {
-    "id": "12971493",
-    "timestamp": "Nov 16, 2016 11:14:24 PM",
-    "topic": "A White House position could cost Peter Thiel more than he’s willing to give up",
-    "url": "http://www.theverge.com/2016/11/16/13651776/peter-thiel-white-house-conflict-of-interest-palantir-facebook",
-    "votes": 4,
-    "posted": "Nov 16, 2016 10:03:37 PM"
   }
 ];
