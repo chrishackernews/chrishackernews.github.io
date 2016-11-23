@@ -1,5 +1,61 @@
 var newsArray = [
   {
+    "id": "13018425",
+    "timestamp": "Nov 23, 2016 12:07:43 AM",
+    "topic": "Coinbase ‘Extremely Concerned’ with IRS Effort to Identify Users",
+    "url": "http://blogs.wsj.com/law/2016/11/21/bitcoin-exchange-extremely-concerned-with-irs-effort-to-identify-users/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 11:56:36 PM"
+  },
+  {
+    "id": "13018307",
+    "timestamp": "Nov 23, 2016 12:07:43 AM",
+    "topic": "Silicon Valley’s Secret? Proximity, Stolen Parts, and the Kindness of Strangers",
+    "url": "http://spectrum.ieee.org/view-from-the-valley/geek-life/history/silicon-valleys-secret-involves-proximity-stolen-parts-say-atari-alumni",
+    "votes": 9,
+    "posted": "Nov 22, 2016 11:37:18 PM"
+  },
+  {
+    "id": "13018287",
+    "timestamp": "Nov 23, 2016 12:57:47 AM",
+    "topic": "Smartphone Resin 3D Printers Actually Work",
+    "url": "http://hackaday.com/2016/11/18/3d-printering-smartphone-resin-printers-actually-work/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 11:34:46 PM"
+  },
+  {
+    "id": "13018286",
+    "timestamp": "Nov 23, 2016 12:27:45 AM",
+    "topic": "Elegant 0-day unicorn underscores “serious concerns” about Linux security",
+    "url": "http://arstechnica.com/security/2016/11/elegant-0day-unicorn-underscores-serious-concerns-about-linux-security/",
+    "votes": 3,
+    "posted": "Nov 22, 2016 11:34:43 PM"
+  },
+  {
+    "id": "13018201",
+    "timestamp": "Nov 23, 2016 12:07:43 AM",
+    "topic": "0-Shot Translation with Google\u0027s Multilingual Neural Machine Translation System",
+    "url": "https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html",
+    "votes": 4,
+    "posted": "Nov 22, 2016 11:20:52 PM"
+  },
+  {
+    "id": "13018104",
+    "timestamp": "Nov 23, 2016 12:07:43 AM",
+    "topic": "I taught 30,000 students how to code. I\u0027m offering my course for free, forever",
+    "url": "http://upskillcourses.com/",
+    "votes": 4,
+    "posted": "Nov 22, 2016 11:08:10 PM"
+  },
+  {
+    "id": "13018082",
+    "timestamp": "Nov 23, 2016 12:07:43 AM",
+    "topic": "How We Knew It Was Time to Leave the Cloud",
+    "url": "https://about.gitlab.com/2016/11/10/why-choose-bare-metal/?utm_medium\u003demail\u0026utm_source\u003dmarketo\u0026utm_campaign\u003dsurvey+newsletter\u0026utm_content\u003dnovember+22+2016\u0026mkt_tok\u003deyJpIjoiTkRFellXVTFNemsxTkRabSIsInQiOiJOVzhvd2FYTkpvbjZYd2FvdGRidm1lNTh0WWtOM2Q2YVQ4dWJvcXlqb1FLT0Vrem4rSmhaRHFEMnErVEN4QklORnU4cFdIdzhKa3QxcDh5UDVjUG81VTZZaWxRN05wN3lKTkU3YlhUSWRXVT0ifQ%3D%3D",
+    "votes": 6,
+    "posted": "Nov 22, 2016 11:04:38 PM"
+  },
+  {
     "id": "13018049",
     "timestamp": "Nov 22, 2016 11:07:37 PM",
     "topic": "Algolia Is Hiring Solutions Engineers in SF, NYC, Paris, London and Sydney",
@@ -3507,6 +3563,14 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/Trolley_problem",
     "votes": 3,
     "posted": "Nov 19, 2016 2:42:21 PM"
+  },
+  {
+    "id": "12993436",
+    "timestamp": "Nov 23, 2016 12:17:44 AM",
+    "topic": "BCP38 RFC2827: Defeating Denial of Service Attacks IP Source Address Spoofing",
+    "url": "http://www.bcp38.info/index.php/Main_Page",
+    "votes": 4,
+    "posted": "Nov 19, 2016 2:41:39 PM"
   },
   {
     "id": "12993350",
@@ -8642,84 +8706,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003ddtj6dDARgfQ",
     "votes": 3,
     "posted": "Nov 16, 2016 1:11:34 AM"
-  },
-  {
-    "id": "12963398",
-    "timestamp": "Nov 16, 2016 3:02:37 PM",
-    "topic": "Putting the Rust in Trust: A Path to Rust Verification",
-    "url": "https://robigalia.org/blog/2016/11/15/verfication.html",
-    "votes": 6,
-    "posted": "Nov 16, 2016 12:49:44 AM"
-  },
-  {
-    "id": "12963364",
-    "timestamp": "Nov 16, 2016 1:01:12 AM",
-    "topic": "OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER",
-    "url": "http://openreview.net/pdf?id\u003dB1ckMDqlg",
-    "votes": 3,
-    "posted": "Nov 16, 2016 12:44:36 AM"
-  },
-  {
-    "id": "12963328",
-    "timestamp": "Nov 16, 2016 1:31:15 AM",
-    "topic": "Wikileaks latest insurance files don\u0027t match hashes",
-    "url": "https://www.reddit.com/r/bestof/comments/5d37lj/wikileaks_latest_insurance_files_dont_match_hashes/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 12:40:17 AM"
-  },
-  {
-    "id": "12963261",
-    "timestamp": "Nov 16, 2016 1:11:13 AM",
-    "topic": "Google Gets a Seat on the Trump Transition Team",
-    "url": "https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 12:28:25 AM"
-  },
-  {
-    "id": "12963231",
-    "timestamp": "Nov 16, 2016 12:51:11 AM",
-    "topic": "Found in translation: More accurate, fluent sentences in Google Translate",
-    "url": "https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 12:22:18 AM"
-  },
-  {
-    "id": "12963180",
-    "timestamp": "Nov 16, 2016 5:11:36 AM",
-    "topic": "The interesting life of Cornelius Lanczos(1893-1974)",
-    "url": "https://www.youtube.com/watch?v\u003dPO6xtSxB5Vg",
-    "votes": 3,
-    "posted": "Nov 16, 2016 12:13:05 AM"
-  },
-  {
-    "id": "12963166",
-    "timestamp": "Nov 16, 2016 11:52:09 AM",
-    "topic": "Machine Learning in 60 Lines of Code",
-    "url": "https://medium.com/@corrigan1247/get-a-jump-start-on-machine-learning-with-perceptrons-dded981ffb49",
-    "votes": 5,
-    "posted": "Nov 16, 2016 12:09:47 AM"
-  },
-  {
-    "id": "12963149",
-    "timestamp": "Nov 16, 2016 1:01:12 AM",
-    "topic": "Ask HN: Beginner\u0027s example to running something on GPU?",
-    "votes": 6,
-    "posted": "Nov 16, 2016 12:07:43 AM"
-  },
-  {
-    "id": "12963126",
-    "timestamp": "Nov 16, 2016 3:11:26 AM",
-    "topic": "Amazon QuickSight now generally available",
-    "url": "https://quicksight.aws",
-    "votes": 4,
-    "posted": "Nov 16, 2016 12:03:19 AM"
-  },
-  {
-    "id": "12963106",
-    "timestamp": "Nov 16, 2016 6:11:42 AM",
-    "topic": "Metasploitable 3 released",
-    "url": "https://community.rapid7.com/community/metasploit/blog/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3",
-    "votes": 3,
-    "posted": "Nov 15, 2016 11:59:15 PM"
   }
 ];
