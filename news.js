@@ -1,11 +1,65 @@
 var newsArray = [
   {
+    "id": "13022062",
+    "timestamp": "Nov 23, 2016 1:38:49 PM",
+    "topic": "Show HN: I\u0027m writing an ebook version of the Tao of tmux",
+    "votes": 5,
+    "posted": "Nov 23, 2016 1:23:08 PM"
+  },
+  {
+    "id": "13022001",
+    "timestamp": "Nov 23, 2016 1:48:50 PM",
+    "topic": "Ask HN: Why aren\u0027t websites adopting client certs in lieu of passwords?",
+    "votes": 10,
+    "posted": "Nov 23, 2016 1:13:49 PM"
+  },
+  {
+    "id": "13021971",
+    "timestamp": "Nov 23, 2016 1:48:50 PM",
+    "topic": "Show HN: A DigitalOcean-like support community for your website in 3 minutes",
+    "url": "https://haash.io/support-communities.html",
+    "votes": 12,
+    "posted": "Nov 23, 2016 1:07:06 PM"
+  },
+  {
+    "id": "13021967",
+    "timestamp": "Nov 23, 2016 1:48:50 PM",
+    "topic": "Why Native Apps Really Are Doomed: Native Apps Are Doomed Pt 2",
+    "url": "https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9#.whqlr4tvj",
+    "votes": 8,
+    "posted": "Nov 23, 2016 1:06:21 PM"
+  },
+  {
+    "id": "13021913",
+    "timestamp": "Nov 23, 2016 1:48:50 PM",
+    "topic": "Designing the new Uber App",
+    "url": "https://medium.com/uber-design/designing-the-new-uber-app-16afcc1d3c2e#.xpgeb1ucf",
+    "votes": 7,
+    "posted": "Nov 23, 2016 12:56:17 PM"
+  },
+  {
+    "id": "13021893",
+    "timestamp": "Nov 23, 2016 1:28:48 PM",
+    "topic": "We\u0027re Enabling Display Ads on Select Stack Exchange Sites",
+    "url": "http://meta.stackexchange.com/q/287242",
+    "votes": 4,
+    "posted": "Nov 23, 2016 12:52:36 PM"
+  },
+  {
     "id": "13021845",
     "timestamp": "Nov 23, 2016 12:58:46 PM",
     "topic": "Why is Firefox still not supporting .webp?",
     "url": "https://www.reddit.com/r/firefox/comments/46wxye/why_is_firefox_still_not_supporting_webp/",
     "votes": 5,
     "posted": "Nov 23, 2016 12:43:09 PM"
+  },
+  {
+    "id": "13021821",
+    "timestamp": "Nov 23, 2016 1:38:49 PM",
+    "topic": "What Are the Things Successful Crowdfunding Projects Do Right?",
+    "url": "http://www.iafrikan.com/2016/11/23/what-are-the-things-successful-crowdfunding-projects-do-right/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:38:29 PM"
   },
   {
     "id": "13021732",
@@ -39,6 +93,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 12:12:01 PM"
   },
   {
+    "id": "13021709",
+    "timestamp": "Nov 23, 2016 1:28:48 PM",
+    "topic": "Google will now tell you whether a bar or shop is busy in real-time",
+    "url": "https://www.theguardian.com/technology/2016/nov/22/google-bar-shop-busy-real-time-live-data-black-friday",
+    "votes": 7,
+    "posted": "Nov 23, 2016 12:11:31 PM"
+  },
+  {
     "id": "13021707",
     "timestamp": "Nov 23, 2016 12:48:45 PM",
     "topic": "The developers’ guide to India’s app galaxy",
@@ -61,6 +123,14 @@ var newsArray = [
     "url": "https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0#.ti7v8i4l1",
     "votes": 5,
     "posted": "Nov 23, 2016 11:58:17 AM"
+  },
+  {
+    "id": "13021605",
+    "timestamp": "Nov 23, 2016 1:58:51 PM",
+    "topic": "Oracle Just Bought Dyn, the Company That Brought Down the Internet",
+    "url": "https://www.wired.com/2016/11/oracle-just-bought-dyn-company-brought-internet/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 11:50:04 AM"
   },
   {
     "id": "13021218",
@@ -8841,29 +8911,5 @@ var newsArray = [
     "url": "https://www.linkedin.com/pulse/most-project-managers-ignore-huge-aspect-task-maioli-mackeprang",
     "votes": 4,
     "posted": "Nov 16, 2016 2:03:40 PM"
-  },
-  {
-    "id": "12966351",
-    "timestamp": "Nov 16, 2016 2:42:35 PM",
-    "topic": "Amazon QuickSight Now Generally Available",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2016/11/amazon-quicksight-now-generally-available/",
-    "votes": 9,
-    "posted": "Nov 16, 2016 1:24:41 PM"
-  },
-  {
-    "id": "12966335",
-    "timestamp": "Nov 16, 2016 1:52:31 PM",
-    "topic": "Ibuprofen May Not Be as Safe as You Think",
-    "url": "http://time.com/4568552/ibuprofen-naproxen-inflammation-safety/",
-    "votes": 5,
-    "posted": "Nov 16, 2016 1:22:14 PM"
-  },
-  {
-    "id": "12966268",
-    "timestamp": "Nov 16, 2016 3:02:37 PM",
-    "topic": "Invest in startups – Equity crowdfunding",
-    "url": "https://equity.indiegogo.com/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 1:05:46 PM"
   }
 ];
