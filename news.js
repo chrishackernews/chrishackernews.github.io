@@ -1,10 +1,66 @@
 var newsArray = [
   {
+    "id": "13022468",
+    "timestamp": "Nov 23, 2016 2:38:55 PM",
+    "topic": "Twitter accidentally suspends its own CEO\u0027s account",
+    "url": "http://money.cnn.com/2016/11/23/technology/twitter-jack-dorsey-ceo-founder-account-suspension/index.html",
+    "votes": 7,
+    "posted": "Nov 23, 2016 2:29:24 PM"
+  },
+  {
+    "id": "13022455",
+    "timestamp": "Nov 23, 2016 2:48:56 PM",
+    "topic": "Talking to users",
+    "url": "http://www.defstartup.org/2016/11/23/talking-to-users.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:26:34 PM"
+  },
+  {
+    "id": "13022366",
+    "timestamp": "Nov 23, 2016 2:38:55 PM",
+    "topic": "Pipelines: Your Doorway to Continuous Development",
+    "url": "https://medium.com/@BuddyWorks/pipelines-your-doorway-to-continuous-development-43309c843f5a#.gbi2mundi",
+    "votes": 10,
+    "posted": "Nov 23, 2016 2:11:52 PM"
+  },
+  {
+    "id": "13022298",
+    "timestamp": "Nov 23, 2016 2:38:55 PM",
+    "topic": "Opticon London 2016 – top take-aways from Optimizely\u0027s AB-testing conference",
+    "url": "https://medium.com/@datalab/opticon-london-2016-summary-about-the-ab-testing-conference-84c42703c45d",
+    "votes": 3,
+    "posted": "Nov 23, 2016 1:59:31 PM"
+  },
+  {
+    "id": "13022076",
+    "timestamp": "Nov 23, 2016 2:08:52 PM",
+    "topic": "Tor phone is antidote to Google “hostility” over Android, says developer",
+    "url": "http://arstechnica.com/security/2016/11/tor-phone-prototype-google-hostility-android-open-source/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 1:25:32 PM"
+  },
+  {
     "id": "13022062",
     "timestamp": "Nov 23, 2016 1:38:49 PM",
     "topic": "Show HN: I\u0027m writing an ebook version of the Tao of tmux",
     "votes": 5,
     "posted": "Nov 23, 2016 1:23:08 PM"
+  },
+  {
+    "id": "13022058",
+    "timestamp": "Nov 23, 2016 2:38:55 PM",
+    "topic": "Blockchain is tracking your vomit – and that’s a good thing",
+    "url": "http://www.thememo.com/2016/11/23/blockchain-bitcoin-blockchain-walmart-food-tracking-ibm-blockchain/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 1:22:26 PM"
+  },
+  {
+    "id": "13022055",
+    "timestamp": "Nov 23, 2016 2:08:52 PM",
+    "topic": "Primitive.js – web version of primitive.lol, the brute-force vectorization tool",
+    "url": "https://ondras.github.io/primitive.js/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 1:22:02 PM"
   },
   {
     "id": "13022001",
@@ -46,6 +102,22 @@ var newsArray = [
     "posted": "Nov 23, 2016 12:52:36 PM"
   },
   {
+    "id": "13021869",
+    "timestamp": "Nov 23, 2016 2:28:54 PM",
+    "topic": "The XSS Game by Google",
+    "url": "https://xss-game.appspot.com/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 12:48:21 PM"
+  },
+  {
+    "id": "13021866",
+    "timestamp": "Nov 23, 2016 2:38:55 PM",
+    "topic": "Generate Media Queries for Specific Devices with This Insanely Simple CSS Tool",
+    "url": "https://www.elegantthemes.com/blog/resources/generate-media-queries-for-specific-devices-with-this-insanely-simple-css-tool",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:47:53 PM"
+  },
+  {
     "id": "13021845",
     "timestamp": "Nov 23, 2016 12:58:46 PM",
     "topic": "Why is Firefox still not supporting .webp?",
@@ -60,6 +132,22 @@ var newsArray = [
     "url": "http://www.iafrikan.com/2016/11/23/what-are-the-things-successful-crowdfunding-projects-do-right/",
     "votes": 5,
     "posted": "Nov 23, 2016 12:38:29 PM"
+  },
+  {
+    "id": "13021801",
+    "timestamp": "Nov 23, 2016 2:08:52 PM",
+    "topic": "Secure messaging app Telegram now offers its own anonymous blogging platform",
+    "url": "https://techcrunch.com/2016/11/22/telegram-telegraph/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:33:54 PM"
+  },
+  {
+    "id": "13021785",
+    "timestamp": "Nov 23, 2016 2:08:52 PM",
+    "topic": "UK is about to wield unprecedented surveillance powers – here’s what it means",
+    "url": "http://www.theverge.com/2016/11/23/13718768/uk-surveillance-laws-explained-investigatory-powers-bill",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:31:10 PM"
   },
   {
     "id": "13021732",
@@ -123,6 +211,30 @@ var newsArray = [
     "url": "https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0#.ti7v8i4l1",
     "votes": 5,
     "posted": "Nov 23, 2016 11:58:17 AM"
+  },
+  {
+    "id": "13021640",
+    "timestamp": "Nov 23, 2016 2:08:52 PM",
+    "topic": "Twitter Suspends CEO Jack Dorsey\u0027s Account",
+    "url": "https://www.theguardian.com/technology/2016/nov/23/twitter-suspends-ceo-jack-dorsey-account?CMP\u003dtwt_a-technology_b-gdntech",
+    "votes": 4,
+    "posted": "Nov 23, 2016 11:58:02 AM"
+  },
+  {
+    "id": "13021609",
+    "timestamp": "Nov 23, 2016 2:48:56 PM",
+    "topic": "Your Government Wants to Militarize Social Media to Influence Your Beliefs",
+    "url": "https://motherboard.vice.com/read/your-government-wants-to-militarize-social-media-to-influence-your-beliefs",
+    "votes": 4,
+    "posted": "Nov 23, 2016 11:50:52 AM"
+  },
+  {
+    "id": "13021606",
+    "timestamp": "Nov 23, 2016 2:28:54 PM",
+    "topic": "UK to censor online videos of \u0027non-conventional\u0027 sex acts",
+    "url": "https://www.theguardian.com/technology/2016/nov/23/censor-non-conventional-sex-acts-online-internet-pornography",
+    "votes": 4,
+    "posted": "Nov 23, 2016 11:50:17 AM"
   },
   {
     "id": "13021605",
@@ -792,6 +904,13 @@ var newsArray = [
     "url": "http://www.orphicpixel.com/bizarre-international-idioms/",
     "votes": 4,
     "posted": "Nov 22, 2016 7:30:58 PM"
+  },
+  {
+    "id": "13016237",
+    "timestamp": "Nov 23, 2016 2:28:54 PM",
+    "topic": "Implore HN: Stop making low-effort comments, and downvote low-effort comments",
+    "votes": 6,
+    "posted": "Nov 22, 2016 7:30:30 PM"
   },
   {
     "id": "13016192",
@@ -8855,61 +8974,5 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/facebook-says-it-found-more-miscalculated-metrics-1479303984",
     "votes": 12,
     "posted": "Nov 16, 2016 3:07:18 PM"
-  },
-  {
-    "id": "12966815",
-    "timestamp": "Nov 16, 2016 3:22:39 PM",
-    "topic": "The World in 2076",
-    "url": "https://www.newscientist.com/round-up/world-2076",
-    "votes": 7,
-    "posted": "Nov 16, 2016 2:53:25 PM"
-  },
-  {
-    "id": "12966726",
-    "timestamp": "Nov 16, 2016 11:44:29 PM",
-    "topic": "Confronting Racism in Berlin, One Offensive T-Shirt at a Time",
-    "url": "http://www.nytimes.com/2016/11/17/world/europe/berlin-racism-isaiah-lopaz.html",
-    "votes": 4,
-    "posted": "Nov 16, 2016 2:41:06 PM"
-  },
-  {
-    "id": "12966699",
-    "timestamp": "Nov 16, 2016 3:22:39 PM",
-    "topic": "Twitter suspends alt-right figureheads",
-    "url": "http://www.bbc.com/news/technology-37997864",
-    "votes": 21,
-    "posted": "Nov 16, 2016 2:36:10 PM"
-  },
-  {
-    "id": "12966681",
-    "timestamp": "Nov 16, 2016 11:44:29 PM",
-    "topic": "A Longitudinal Measurement Study of 4chan’s Politically Incorrect Forum",
-    "url": "https://www.benthamsgaze.org/2016/11/16/a-longitudinal-measurement-study-of-4chans-politically-incorrect-forum-and-its-effect-on-the-web/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 2:33:33 PM"
-  },
-  {
-    "id": "12966673",
-    "timestamp": "Nov 16, 2016 3:22:39 PM",
-    "topic": "Meet PoisonTap, the $5 tool that ransacks password-protected computers",
-    "url": "http://arstechnica.com/security/2016/11/meet-poisontap-the-5-tool-that-ransacks-password-protected-computers/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 2:32:13 PM"
-  },
-  {
-    "id": "12966563",
-    "timestamp": "Nov 16, 2016 5:13:16 PM",
-    "topic": "Introducing Datomish, a flexible embedded knowledge store",
-    "url": "https://medium.com/project-tofino/introducing-datomish-a-flexible-embedded-knowledge-store-1d7976bff344",
-    "votes": 5,
-    "posted": "Nov 16, 2016 2:12:46 PM"
-  },
-  {
-    "id": "12966520",
-    "timestamp": "Nov 16, 2016 4:32:45 PM",
-    "topic": "Most project managers ignore a huge aspect of task estimation",
-    "url": "https://www.linkedin.com/pulse/most-project-managers-ignore-huge-aspect-task-maioli-mackeprang",
-    "votes": 4,
-    "posted": "Nov 16, 2016 2:03:40 PM"
   }
 ];
