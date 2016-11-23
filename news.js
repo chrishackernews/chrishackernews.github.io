@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13020890",
+    "timestamp": "Nov 23, 2016 9:58:31 AM",
+    "topic": "Servant leadership",
+    "url": "https://en.wikipedia.org/wiki/Servant_leadership",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:45:42 AM"
+  },
+  {
     "id": "13020523",
     "timestamp": "Nov 23, 2016 7:38:21 AM",
     "topic": "Computer scientists urge Clinton campaign to challenge election results",
@@ -629,6 +637,14 @@ var newsArray = [
     "posted": "Nov 22, 2016 7:15:43 PM"
   },
   {
+    "id": "13016089",
+    "timestamp": "Nov 23, 2016 9:38:30 AM",
+    "topic": "Show HN: Schesign alpha",
+    "url": "https://www.schesign.com/",
+    "votes": 13,
+    "posted": "Nov 22, 2016 7:14:14 PM"
+  },
+  {
     "id": "13016027",
     "timestamp": "Nov 23, 2016 5:38:11 AM",
     "topic": "Grafana Alerting Engine and Rules Guide",
@@ -715,6 +731,14 @@ var newsArray = [
     "url": "http://www.kylejlarson.com/blog/how-to-become-a-ux-designer/",
     "votes": 3,
     "posted": "Nov 22, 2016 6:24:29 PM"
+  },
+  {
+    "id": "13015626",
+    "timestamp": "Nov 23, 2016 9:08:28 AM",
+    "topic": "Show HN: A collection of useful regex patterns",
+    "url": "https://projects.lukehaas.me/regexhub/",
+    "votes": 8,
+    "posted": "Nov 22, 2016 6:24:00 PM"
   },
   {
     "id": "13015615",
@@ -8786,52 +8810,5 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.9i5izevrq",
     "votes": 3,
     "posted": "Nov 16, 2016 10:08:28 AM"
-  },
-  {
-    "id": "12965438",
-    "timestamp": "Nov 16, 2016 3:22:39 PM",
-    "topic": "Ask HN: What programming language to learn for a statistician?",
-    "votes": 3,
-    "posted": "Nov 16, 2016 9:53:08 AM"
-  },
-  {
-    "id": "12965391",
-    "timestamp": "Nov 17, 2016 10:16:24 PM",
-    "topic": "Show HN: I wrote a Haskell program that does my intro logic homework",
-    "url": "https://github.com/JacksonGariety/derivation-machine",
-    "votes": 5,
-    "posted": "Nov 16, 2016 9:43:53 AM"
-  },
-  {
-    "id": "12965348",
-    "timestamp": "Nov 16, 2016 9:41:58 AM",
-    "topic": "Cypress just bought Broadcom\u0027s wifi business and published their datasheets",
-    "url": "http://www.cypress.com/search/all?f[0]\u003dmeta_type%3Atechnical_documents\u0026f[1]\u003dresource_meta_type%3A575\u0026f[2]\u003dfield_related_products%3A110101",
-    "votes": 14,
-    "posted": "Nov 16, 2016 9:30:05 AM"
-  },
-  {
-    "id": "12965319",
-    "timestamp": "Nov 16, 2016 9:41:59 AM",
-    "topic": "Shadows and Blur Effects in Modern UI Design",
-    "url": "https://blogs.adobe.com/creativecloud/xd-essentials-shadows-and-blur-effects-in-modern-ui-design/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 9:22:57 AM"
-  },
-  {
-    "id": "12965314",
-    "timestamp": "Nov 16, 2016 9:41:58 AM",
-    "topic": "I’m Sorry Mr. Zuckerberg, but You Are Wrong",
-    "url": "https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424#.1hsi9bwqp",
-    "votes": 8,
-    "posted": "Nov 16, 2016 9:21:38 AM"
-  },
-  {
-    "id": "12965311",
-    "timestamp": "Nov 16, 2016 9:41:59 AM",
-    "topic": "Google QuickDraw",
-    "url": "https://quickdraw.withgoogle.com/",
-    "votes": 7,
-    "posted": "Nov 16, 2016 9:21:01 AM"
   }
 ];
