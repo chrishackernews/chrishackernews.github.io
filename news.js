@@ -1,5 +1,68 @@
 var newsArray = [
   {
+    "id": "13021845",
+    "timestamp": "Nov 23, 2016 12:58:46 PM",
+    "topic": "Why is Firefox still not supporting .webp?",
+    "url": "https://www.reddit.com/r/firefox/comments/46wxye/why_is_firefox_still_not_supporting_webp/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 12:43:09 PM"
+  },
+  {
+    "id": "13021732",
+    "timestamp": "Nov 23, 2016 12:48:45 PM",
+    "topic": "Jolt – JSON to JSON transformation",
+    "url": "http://bazaarvoice.github.io/jolt/",
+    "votes": 6,
+    "posted": "Nov 23, 2016 12:17:13 PM"
+  },
+  {
+    "id": "13021722",
+    "timestamp": "Nov 23, 2016 12:38:43 PM",
+    "topic": "Ask HN: What free/low-cost static site hosting do you use most?",
+    "votes": 7,
+    "posted": "Nov 23, 2016 12:14:03 PM"
+  },
+  {
+    "id": "13021719",
+    "timestamp": "Nov 23, 2016 12:48:44 PM",
+    "topic": "Tech firms seek to frustrate internet history log law",
+    "url": "http://www.bbc.co.uk/news/technology-38068078",
+    "votes": 4,
+    "posted": "Nov 23, 2016 12:13:34 PM"
+  },
+  {
+    "id": "13021713",
+    "timestamp": "Nov 23, 2016 12:48:44 PM",
+    "topic": "UK government could force ISPs to block porn sites without age verification",
+    "url": "http://www.bbc.co.uk/news/technology-38062660",
+    "votes": 21,
+    "posted": "Nov 23, 2016 12:12:01 PM"
+  },
+  {
+    "id": "13021707",
+    "timestamp": "Nov 23, 2016 12:48:45 PM",
+    "topic": "The developers’ guide to India’s app galaxy",
+    "url": "https://www.techinasia.com/app-developer-guide-infographic",
+    "votes": 4,
+    "posted": "Nov 23, 2016 12:11:23 PM"
+  },
+  {
+    "id": "13021704",
+    "timestamp": "Nov 23, 2016 12:48:44 PM",
+    "topic": "Are You Too Old to Be Brilliant?",
+    "url": "https://keithsawyer.wordpress.com/2016/11/22/are-you-too-old-to-be-brilliant/",
+    "votes": 6,
+    "posted": "Nov 23, 2016 12:11:01 PM"
+  },
+  {
+    "id": "13021642",
+    "timestamp": "Nov 23, 2016 12:48:45 PM",
+    "topic": "Signal for Beginners",
+    "url": "https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0#.ti7v8i4l1",
+    "votes": 5,
+    "posted": "Nov 23, 2016 11:58:17 AM"
+  },
+  {
     "id": "13021218",
     "timestamp": "Nov 23, 2016 10:08:32 AM",
     "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
@@ -1055,6 +1118,14 @@ var newsArray = [
     "url": "https://electrek.co/2016/11/22/elon-musk-right-wing-trump-propaganda-campaign-against-tesla-spacex/",
     "votes": 3,
     "posted": "Nov 22, 2016 2:07:51 PM"
+  },
+  {
+    "id": "13013792",
+    "timestamp": "Nov 23, 2016 12:28:43 PM",
+    "topic": "Show HN: ChiefOnboarding – Simple, Fast and Efficient Employee Onboarding",
+    "url": "https://chiefonboarding.com",
+    "votes": 6,
+    "posted": "Nov 22, 2016 2:05:36 PM"
   },
   {
     "id": "13013778",
@@ -8794,21 +8865,5 @@ var newsArray = [
     "url": "https://equity.indiegogo.com/",
     "votes": 3,
     "posted": "Nov 16, 2016 1:05:46 PM"
-  },
-  {
-    "id": "12966051",
-    "timestamp": "Nov 16, 2016 1:12:28 PM",
-    "topic": "Shazam is always listening – even when it\u0027s been switched \u0027off\u0027",
-    "url": "http://www.theregister.co.uk/2016/11/15/shazam_listening/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 12:12:18 PM"
-  },
-  {
-    "id": "12966015",
-    "timestamp": "Nov 16, 2016 4:12:43 PM",
-    "topic": "Connect(); // 2016",
-    "url": "https://connectevent.microsoft.com/",
-    "votes": 9,
-    "posted": "Nov 16, 2016 12:04:01 PM"
   }
 ];
