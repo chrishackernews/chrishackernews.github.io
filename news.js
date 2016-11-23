@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "13024547",
+    "timestamp": "Nov 23, 2016 7:29:20 PM",
+    "topic": "BillForward (YC S14) Is Hiring Engineers (Full Time Only) – London",
+    "votes": 1,
+    "posted": "Nov 23, 2016 7:21:56 PM"
+  },
+  {
+    "id": "13024139",
+    "timestamp": "Nov 23, 2016 7:29:20 PM",
+    "topic": "A Tesla supercharger was professionally sabotaged just in time for Thanksgiving",
+    "url": "http://insideevs.com/barstow-tesla-supercharger-vandalized-thanksgiving-weekend/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 6:31:49 PM"
+  },
+  {
     "id": "13024003",
     "timestamp": "Nov 23, 2016 6:29:14 PM",
     "topic": "Ask HN: Why should I use Django?",
@@ -77,6 +92,14 @@ var newsArray = [
     "url": "https://github.com/tony/vcspull",
     "votes": 3,
     "posted": "Nov 23, 2016 4:38:57 PM"
+  },
+  {
+    "id": "13023108",
+    "timestamp": "Nov 23, 2016 7:49:22 PM",
+    "topic": "Hacking 27% of the Web via WordPress Auto-Update – Wordfence",
+    "url": "https://www.wordfence.com/blog/2016/11/hacking-27-web-via-wordpress-auto-update/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:07:21 PM"
   },
   {
     "id": "13022968",
@@ -165,6 +188,14 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/22/googles-ai-translation-tool-seems-to-have-invented-its-own-secret-internal-language/?ncid\u003drss",
     "votes": 6,
     "posted": "Nov 23, 2016 2:54:31 PM"
+  },
+  {
+    "id": "13022563",
+    "timestamp": "Nov 23, 2016 7:39:21 PM",
+    "topic": "\u0027CANDLE\u0027 AI Software to Deliver a Decade of Cancer Advances in Just Five Years",
+    "url": "http://nvidianews.nvidia.com/news/nvidia-teams-with-national-cancer-institute-u-s-department-of-energy-to-create-ai-platform-for-accelerating-cancer-research",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:43:54 PM"
   },
   {
     "id": "13022503",
@@ -467,6 +498,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 11:20:10 AM"
   },
   {
+    "id": "13021368",
+    "timestamp": "Nov 23, 2016 7:19:19 PM",
+    "topic": "Open-V: the first RISC-V microcontroller",
+    "url": "http://hackaday.com/2016/11/22/mrisc-v-the-first-open-source-risc-v-microcontroller/",
+    "votes": 5,
+    "posted": "Nov 23, 2016 10:47:24 AM"
+  },
+  {
     "id": "13021218",
     "timestamp": "Nov 23, 2016 10:08:32 AM",
     "topic": "Fullstack Academy (YC S12) is hiring developers who love teaching",
@@ -617,6 +656,14 @@ var newsArray = [
     "url": "http://www.newyorker.com/magazine/1968/11/16/the-big-little-man-from-brooklyn",
     "votes": 3,
     "posted": "Nov 23, 2016 4:40:55 AM"
+  },
+  {
+    "id": "13019767",
+    "timestamp": "Nov 23, 2016 7:29:20 PM",
+    "topic": "The Challenge of Consciousness",
+    "url": "http://www.nybooks.com/daily/2016/11/21/challenge-of-defining-consciousness/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:36:38 AM"
   },
   {
     "id": "13019735",
@@ -1014,6 +1061,14 @@ var newsArray = [
     "url": "https://twitter.com/TeslaMotors/status/801063758348980225",
     "votes": 3,
     "posted": "Nov 22, 2016 9:51:30 PM"
+  },
+  {
+    "id": "13017513",
+    "timestamp": "Nov 23, 2016 7:39:21 PM",
+    "topic": "Show HN: Some of the best HN comments of all-time",
+    "url": "http://www.perfil.med.br/hnqm.html",
+    "votes": 7,
+    "posted": "Nov 22, 2016 9:48:28 PM"
   },
   {
     "id": "13017478",
@@ -8705,83 +8760,5 @@ var newsArray = [
     "url": "https://zerofinancial.com/ZERO1626",
     "votes": 5,
     "posted": "Nov 16, 2016 8:01:56 PM"
-  },
-  {
-    "id": "12970134",
-    "timestamp": "Nov 16, 2016 9:04:10 PM",
-    "topic": "Investigatory Powers Act imminent as peers clear path for UK super-snoop law",
-    "url": "http://arstechnica.co.uk/tech-policy/2016/11/investigatory-powers-act-imminent-peers-clear-path-for-uk-super-snoop-law/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 7:55:45 PM"
-  },
-  {
-    "id": "12970127",
-    "timestamp": "Nov 16, 2016 9:34:14 PM",
-    "topic": "AB inBev is considering a takeover of Coca-Cola",
-    "url": "http://www.cnbc.com/2016/11/14/anheuser-busch-inbev-shares-fall-flat-on-talk-of-a-coca-cola-deal.html",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:55:10 PM"
-  },
-  {
-    "id": "12970071",
-    "timestamp": "Nov 16, 2016 8:44:07 PM",
-    "topic": "Choosing Ember over React in 2016",
-    "url": "https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341#.7vyetlgrb",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:50:18 PM"
-  },
-  {
-    "id": "12970060",
-    "timestamp": "Nov 16, 2016 9:24:13 PM",
-    "topic": "SF deals major blow to Airbnb with tough short-term rental law",
-    "url": "http://www.sfgate.com/news/article/SF-deals-major-blow-to-Airbnb-with-tough-10617319.php",
-    "votes": 3,
-    "posted": "Nov 16, 2016 7:48:52 PM"
-  },
-  {
-    "id": "12969864",
-    "timestamp": "Nov 16, 2016 11:24:26 PM",
-    "topic": "Pluto’s icy, slushy heart",
-    "url": "http://news.mit.edu/2016/new-horizons-water-ice-ocean-pluto-1116",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:30:01 PM"
-  },
-  {
-    "id": "12969826",
-    "timestamp": "Nov 16, 2016 8:04:04 PM",
-    "topic": "Is jQuery still a thing?",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:26:23 PM"
-  },
-  {
-    "id": "12969764",
-    "timestamp": "Nov 16, 2016 7:44:02 PM",
-    "topic": "MENACE: A Reinforcement Learning program built in 1961 using matchboxes",
-    "url": "http://chalkdustmagazine.com/features/menace-machine-educable-noughts-crosses-engine/",
-    "votes": 3,
-    "posted": "Nov 16, 2016 7:22:04 PM"
-  },
-  {
-    "id": "12969696",
-    "timestamp": "Nov 16, 2016 7:44:02 PM",
-    "topic": "I got fired for supporting Trump in Silicon Valley Where do I go from here?",
-    "url": "https://www.quora.com/I-got-fired-for-supporting-Trump-at-a-company-in-Silicon-Valley-Where-do-I-go-from-here-NOT-GRUB-HUB?share\u003d1",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:14:53 PM"
-  },
-  {
-    "id": "12969611",
-    "timestamp": "Nov 16, 2016 8:44:07 PM",
-    "topic": "Microsoft Joins the Linux Foundation as a Platinum Member",
-    "url": "http://venturebeat.com/2016/11/16/microsoft-joins-the-linux-foundation-as-a-platinum-member/",
-    "votes": 4,
-    "posted": "Nov 16, 2016 7:05:55 PM"
-  },
-  {
-    "id": "12969562",
-    "timestamp": "Nov 16, 2016 7:54:03 PM",
-    "topic": "Ask HN: Restarting the YC Podcast – who would be most interesting to listen to?",
-    "votes": 5,
-    "posted": "Nov 16, 2016 7:01:37 PM"
   }
 ];
