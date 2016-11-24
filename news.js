@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13031786",
+    "timestamp": "Nov 24, 2016 7:21:32 PM",
+    "topic": "PINEBOOK ARM Linux Laptop Powered by Allwinner A64 CPU to Sell for $89 and Up",
+    "url": "http://www.cnx-software.com/2016/11/24/pinebook-arm-linux-laptop-powered-by-allwinner-a64-processor-to-sell-for-89-and-up/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 7:15:24 PM"
+  },
+  {
+    "id": "13031619",
+    "timestamp": "Nov 24, 2016 7:31:33 PM",
+    "topic": "Reddit CEO admits to editing user comments amid Pizzagate malarkey",
+    "url": "https://www.cnet.com/news/reddit-ceo-admits-to-editing-user-comments-amid-pizzagate-malarkey/?a\u003d1",
+    "votes": 6,
+    "posted": "Nov 24, 2016 6:49:49 PM"
+  },
+  {
     "id": "13031492",
     "timestamp": "Nov 24, 2016 6:41:29 PM",
     "topic": "Show HN: A free visual guide to the most popular CSS properties",
@@ -952,6 +968,14 @@ var newsArray = [
     "url": "http://gizmodo.com/trump-names-two-opponents-of-net-neutrality-to-oversee-1789231918",
     "votes": 5,
     "posted": "Nov 23, 2016 6:52:59 PM"
+  },
+  {
+    "id": "13024249",
+    "timestamp": "Nov 24, 2016 7:01:31 PM",
+    "topic": "Bali security guard caught planting drugs on tourist",
+    "url": "https://www.youtube.com/watch?v\u003d7ReCiqiMqMQ\u0026feature\u003dyoutu.be",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:46:25 PM"
   },
   {
     "id": "13024139",
@@ -3816,6 +3840,14 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/why-did-ancient-italians-bury-thousands-of-clay-body-parts",
     "votes": 4,
     "posted": "Nov 21, 2016 5:44:36 PM"
+  },
+  {
+    "id": "13006719",
+    "timestamp": "Nov 24, 2016 7:51:35 PM",
+    "topic": "Nasir Shah\u0027s Book of Delights",
+    "url": "http://blogs.bl.uk/asian-and-african/2016/11/nasir-shahs-book-of-delights.html",
+    "votes": 3,
+    "posted": "Nov 21, 2016 5:41:24 PM"
   },
   {
     "id": "13006693",
@@ -8370,61 +8402,5 @@ var newsArray = [
     "url": "https://blitz.com/",
     "votes": 7,
     "posted": "Nov 17, 2016 7:53:22 PM"
-  },
-  {
-    "id": "12980140",
-    "timestamp": "Nov 17, 2016 8:56:15 PM",
-    "topic": "Facebook stops collecting WhatsApp user data in Europe after government pressure",
-    "url": "http://www.theverge.com/2016/11/17/13662804/facebook-stops-collecting-whatsapp-data-government-pressure",
-    "votes": 3,
-    "posted": "Nov 17, 2016 7:43:50 PM"
-  },
-  {
-    "id": "12980029",
-    "timestamp": "Nov 17, 2016 9:06:16 PM",
-    "topic": "An Intro to Integer Programming for Engineers: Simplified Bus Scheduling",
-    "url": "https://blog.remix.com/an-intro-to-integer-programming-for-engineers-simplified-bus-scheduling-bd3d64895e92#.llj20js9f",
-    "votes": 6,
-    "posted": "Nov 17, 2016 7:32:14 PM"
-  },
-  {
-    "id": "12979967",
-    "timestamp": "Nov 17, 2016 7:36:09 PM",
-    "topic": "“Edward Snowden is a fucking idiot” (sic)",
-    "url": "http://gizmodo.com/edward-snowden-is-a-fucking-idiot-1789039598",
-    "votes": 12,
-    "posted": "Nov 17, 2016 7:25:48 PM"
-  },
-  {
-    "id": "12979896",
-    "timestamp": "Nov 18, 2016 12:06:36 AM",
-    "topic": "Your Password Sucks. Sincerely, Edward",
-    "url": "https://www.ymedialabs.com/password-security/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 7:17:31 PM"
-  },
-  {
-    "id": "12979805",
-    "timestamp": "Nov 18, 2016 3:27:57 PM",
-    "topic": "If I Had More Time, I Would Have Written a Shorter Letter (2012)",
-    "url": "http://quoteinvestigator.com/2012/04/28/shorter-letter/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 7:07:58 PM"
-  },
-  {
-    "id": "12979749",
-    "timestamp": "Nov 18, 2016 12:47:41 PM",
-    "topic": "Show HN: Redis-cell, an API rate limiter as a Redis module, written in Rust",
-    "url": "https://github.com/brandur/redis-cell",
-    "votes": 10,
-    "posted": "Nov 17, 2016 7:00:57 PM"
-  },
-  {
-    "id": "12979681",
-    "timestamp": "Nov 17, 2016 7:06:06 PM",
-    "topic": "HTML 5.1 is the gold standard",
-    "url": "https://www.w3.org/blog/2016/11/html-5-1-is-the-gold-standard/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 6:53:09 PM"
   }
 ];
