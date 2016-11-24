@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13028181",
+    "timestamp": "Nov 24, 2016 5:50:21 AM",
+    "topic": "Cratejoy (YC S13) Is Hiring a Senior Product Manager",
+    "url": "https://jobs.lever.co/cratejoy/92961f3b-00de-48c0-a091-2d4c33dfe0f3",
+    "votes": 1,
+    "posted": "Nov 24, 2016 5:45:18 AM"
+  },
+  {
+    "id": "13027984",
+    "timestamp": "Nov 24, 2016 5:40:20 AM",
+    "topic": "Why the fuss about serverless?",
+    "url": "https://medium.com/@swardley/why-the-fuss-about-serverless-4370b1596da0#.lilc7sazx",
+    "votes": 3,
+    "posted": "Nov 24, 2016 5:08:23 AM"
+  },
+  {
+    "id": "13027976",
+    "timestamp": "Nov 24, 2016 5:40:20 AM",
+    "topic": "We Tracked Down a Fake-News Creator in the Suburbs",
+    "url": "http://www.npr.org/sections/alltechconsidered/2016/11/23/503146770/npr-finds-the-head-of-a-covert-fake-news-operation-in-the-suburbs",
+    "votes": 3,
+    "posted": "Nov 24, 2016 5:07:06 AM"
+  },
+  {
+    "id": "13027846",
+    "timestamp": "Nov 24, 2016 5:10:18 AM",
+    "topic": "Jill Stein to file for recount in three states",
+    "url": "http://thehill.com/blogs/blog-briefing-room/news/307404-jill-stein-to-file-for-recount-in-three-states",
+    "votes": 4,
+    "posted": "Nov 24, 2016 4:42:20 AM"
+  },
+  {
     "id": "13027834",
     "timestamp": "Nov 24, 2016 4:50:13 AM",
     "topic": "Personal data for more than 130,000 U.S. Navy sailors hacked",
@@ -30,6 +62,22 @@ var newsArray = [
     "url": "https://github.com/jpmorganchase/quorum",
     "votes": 3,
     "posted": "Nov 24, 2016 4:06:01 AM"
+  },
+  {
+    "id": "13027677",
+    "timestamp": "Nov 24, 2016 5:00:16 AM",
+    "topic": "Google’s DeepMind AI can lip-read TV shows better than a pro",
+    "url": "https://www.newscientist.com/article/2113299-googles-deepmind-ai-can-lip-read-tv-shows-better-than-a-pro/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:00:50 AM"
+  },
+  {
+    "id": "13027672",
+    "timestamp": "Nov 24, 2016 5:10:18 AM",
+    "topic": "Open Source .NET – 2 years later",
+    "url": "http://mattwarren.org/2016/11/23/open-source-net-2-years-later/",
+    "votes": 5,
+    "posted": "Nov 24, 2016 3:59:56 AM"
   },
   {
     "id": "13027612",
@@ -134,6 +182,14 @@ var newsArray = [
     "url": "http://arstechnica.com/science/2016/11/on-fiji-ants-have-learned-to-grow-plants-to-house-their-massive-colonies/",
     "votes": 4,
     "posted": "Nov 24, 2016 1:17:12 AM"
+  },
+  {
+    "id": "13026883",
+    "timestamp": "Nov 24, 2016 5:50:21 AM",
+    "topic": "Obama-era techies weigh staying under Trump",
+    "url": "http://www.politico.com/story/2016/11/obama-trump-tech-silicon-valley-231819",
+    "votes": 4,
+    "posted": "Nov 24, 2016 1:12:38 AM"
   },
   {
     "id": "13026864",
@@ -407,6 +463,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 8:54:21 PM"
   },
   {
+    "id": "13025267",
+    "timestamp": "Nov 24, 2016 5:10:18 AM",
+    "topic": "Hiring at the Biggest Unicorn Companies Shows No Signs of Slowing",
+    "url": "https://mattermark.com/hiring-biggest-unicorn-companies-shows-no-signs-slowing/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:46:37 PM"
+  },
+  {
     "id": "13025210",
     "timestamp": "Nov 24, 2016 4:40:12 AM",
     "topic": "90 age-discrimination suits reflect growing issue for tech",
@@ -590,6 +654,13 @@ var newsArray = [
     "posted": "Nov 23, 2016 6:31:49 PM"
   },
   {
+    "id": "13024109",
+    "timestamp": "Nov 24, 2016 5:20:19 AM",
+    "topic": "Ask HN: Do you write automated tests for your side projects?",
+    "votes": 3,
+    "posted": "Nov 23, 2016 6:26:58 PM"
+  },
+  {
     "id": "13024003",
     "timestamp": "Nov 23, 2016 6:29:14 PM",
     "topic": "Ask HN: Why should I use Django?",
@@ -701,6 +772,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 4:40:23 PM"
   },
   {
+    "id": "13023313",
+    "timestamp": "Nov 24, 2016 5:00:17 AM",
+    "topic": "A distributed pubsub on top of Elixir\u0027s v1.4 new registry",
+    "url": "https://twitter.com/elixirlang/status/798688717804339200",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:39:24 PM"
+  },
+  {
     "id": "13023309",
     "timestamp": "Nov 23, 2016 4:59:07 PM",
     "topic": "Show HN: vcspull – synchronize your repos",
@@ -731,6 +810,14 @@ var newsArray = [
     "url": "https://www.wordfence.com/blog/2016/11/hacking-27-web-via-wordpress-auto-update/",
     "votes": 3,
     "posted": "Nov 23, 2016 4:07:21 PM"
+  },
+  {
+    "id": "13023077",
+    "timestamp": "Nov 24, 2016 5:00:17 AM",
+    "topic": "Why do many web developers hate jQuery?",
+    "url": "https://medium.com/@simonhamp/why-do-many-web-developers-hate-jquery-2c1a6fba0b96#.mdxhykezc",
+    "votes": 3,
+    "posted": "Nov 23, 2016 4:03:32 PM"
   },
   {
     "id": "13022968",
@@ -845,6 +932,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 2:54:31 PM"
   },
   {
+    "id": "13022577",
+    "timestamp": "Nov 24, 2016 5:00:17 AM",
+    "topic": "James Simons’s Foundation Starts New Institute for Computing, Big Data",
+    "url": "http://www.nytimes.com/2016/11/22/science/flatiron-institute-james-simons-foundation.html",
+    "votes": 5,
+    "posted": "Nov 23, 2016 2:47:09 PM"
+  },
+  {
     "id": "13022563",
     "timestamp": "Nov 23, 2016 7:39:21 PM",
     "topic": "\u0027CANDLE\u0027 AI Software to Deliver a Decade of Cancer Advances in Just Five Years",
@@ -930,6 +1025,14 @@ var newsArray = [
     "url": "http://registers.centralbank.ie/FirmDataPage.aspx?firmReferenceNumber\u003dC148215",
     "votes": 4,
     "posted": "Nov 23, 2016 1:36:41 PM"
+  },
+  {
+    "id": "13022124",
+    "timestamp": "Nov 24, 2016 5:10:18 AM",
+    "topic": "Gitlab Handbook",
+    "url": "https://about.gitlab.com/handbook/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 1:31:56 PM"
   },
   {
     "id": "13022076",
@@ -8584,77 +8687,5 @@ var newsArray = [
     "url": "http://www.wsj.com/articles/patients-may-still-get-a-surprise-bill-after-an-in-network-er-visit-study-finds-1479333600",
     "votes": 4,
     "posted": "Nov 17, 2016 6:05:42 AM"
-  },
-  {
-    "id": "12974403",
-    "timestamp": "Nov 17, 2016 6:05:01 AM",
-    "topic": "Introducing Boards in Asana",
-    "url": "https://blog.asana.com/2016/11/introducing-boards/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 5:50:04 AM"
-  },
-  {
-    "id": "12974302",
-    "timestamp": "Nov 17, 2016 6:15:02 AM",
-    "topic": "How journalists and activists can identify and counter physical surveillance",
-    "url": "https://medium.com/@roryireland/how-journalists-and-activists-can-identify-and-counter-physical-surveillance-1ad19b6a8981#.jdztsk9z6",
-    "votes": 3,
-    "posted": "Nov 17, 2016 5:34:32 AM"
-  },
-  {
-    "id": "12974281",
-    "timestamp": "Nov 17, 2016 6:05:01 AM",
-    "topic": "The Lost Civilization of Dial-Up Bulletin Board Systems",
-    "url": "http://www.theatlantic.com/technology/archive/2016/11/the-lost-civilization-of-dial-up-bulletin-board-systems/506465/?single_page\u003dtrue",
-    "votes": 3,
-    "posted": "Nov 17, 2016 5:30:44 AM"
-  },
-  {
-    "id": "12974265",
-    "timestamp": "Nov 17, 2016 6:05:01 AM",
-    "topic": "What New York City Sounded Like in the 1920s",
-    "url": "http://paleofuture.gizmodo.com/what-new-york-city-sounded-like-in-the-1920s-1445950942",
-    "votes": 3,
-    "posted": "Nov 17, 2016 5:28:17 AM"
-  },
-  {
-    "id": "12974240",
-    "timestamp": "Nov 17, 2016 7:35:08 AM",
-    "topic": "You Are Not Paid to Write Code",
-    "url": "http://bravenewgeek.com/you-are-not-paid-to-write-code/",
-    "votes": 8,
-    "posted": "Nov 17, 2016 5:21:17 AM"
-  },
-  {
-    "id": "12974239",
-    "timestamp": "Nov 17, 2016 6:05:01 AM",
-    "topic": "Show HN: Flock, fast and free team messenger",
-    "url": "https://www.flock.co",
-    "votes": 5,
-    "posted": "Nov 17, 2016 5:21:13 AM"
-  },
-  {
-    "id": "12974161",
-    "timestamp": "Nov 17, 2016 6:05:01 AM",
-    "topic": "Theranos CEO Elizabeth Holmes Is a Victim Says VC Tim Draper",
-    "url": "http://www.cnbc.com/2016/11/15/theranos-ceo-elizabeth-holmes-is-a-victim-venture-capitalist-tim-draper-says.html",
-    "votes": 4,
-    "posted": "Nov 17, 2016 5:09:36 AM"
-  },
-  {
-    "id": "12974132",
-    "timestamp": "Nov 17, 2016 6:05:01 AM",
-    "topic": "Make R a Legitimate Part of Your Organization",
-    "url": "https://www.rstudio.com/rviews/2016/11/16/make-r-a-legitimate-part-of-your-organization/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 5:02:48 AM"
-  },
-  {
-    "id": "12974121",
-    "timestamp": "Nov 17, 2016 5:44:59 AM",
-    "topic": "The $5 PoisonTap quickly, completely hijacks even a locked computer’s internet",
-    "url": "https://techcrunch.com/2016/11/16/the-5-poisontap-quickly-completely-hijacks-even-a-locked-computers-internet/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 4:59:53 AM"
   }
 ];
