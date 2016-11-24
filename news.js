@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13028253",
+    "timestamp": "Nov 24, 2016 6:30:24 AM",
+    "topic": "Reddit CEO admits he secretly edited comments from Donald Trump supporters",
+    "url": "https://techcrunch.com/2016/11/23/reddit-huffman-trump/",
+    "votes": 15,
+    "posted": "Nov 24, 2016 6:03:30 AM"
+  },
+  {
     "id": "13028181",
     "timestamp": "Nov 24, 2016 5:50:21 AM",
     "topic": "Cratejoy (YC S13) Is Hiring a Senior Product Manager",
@@ -38,6 +46,14 @@ var newsArray = [
     "url": "http://reuters.com/article/newsOne/idUSKBN13J001",
     "votes": 3,
     "posted": "Nov 24, 2016 4:39:56 AM"
+  },
+  {
+    "id": "13027802",
+    "timestamp": "Nov 24, 2016 6:40:25 AM",
+    "topic": "China’s Firms Strive to Gain a Foothold in U.S. Venture Capital",
+    "url": "http://www.wsj.com/articles/chinas-firms-strive-to-gain-a-foothold-in-u-s-venture-capital-1479924623",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:34:04 AM"
   },
   {
     "id": "13027754",
@@ -8647,45 +8663,5 @@ var newsArray = [
     "url": "http://michaellynn.github.io/2016/10/04/mDMacOS/",
     "votes": 3,
     "posted": "Nov 17, 2016 6:50:53 AM"
-  },
-  {
-    "id": "12974686",
-    "timestamp": "Nov 17, 2016 11:05:24 AM",
-    "topic": "Still Running at 119? Not So Fast",
-    "url": "http://www.nytimes.com/2016/11/20/sports/119-year-old-runner-world-masters-championships.html?smid\u003dfb-share",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:43:29 AM"
-  },
-  {
-    "id": "12974589",
-    "timestamp": "Nov 17, 2016 8:15:11 AM",
-    "topic": "No One Cares About the Security of Your Unlocked Android Phone",
-    "url": "https://hackernoon.com/no-one-cares-about-the-security-of-your-unlocked-android-phone-cd8ad4aae4c5#.xvdmxs2g7",
-    "votes": 5,
-    "posted": "Nov 17, 2016 6:23:22 AM"
-  },
-  {
-    "id": "12974588",
-    "timestamp": "Nov 17, 2016 6:45:04 AM",
-    "topic": "Portable systemd services",
-    "url": "https://lwn.net/Articles/706025/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:22:54 AM"
-  },
-  {
-    "id": "12974560",
-    "timestamp": "Nov 17, 2016 6:26:02 PM",
-    "topic": "Better Docker Images for Big Data Tools",
-    "url": "https://github.com/mustafaakin/big-data-docker",
-    "votes": 5,
-    "posted": "Nov 17, 2016 6:17:04 AM"
-  },
-  {
-    "id": "12974499",
-    "timestamp": "Nov 17, 2016 6:26:02 PM",
-    "topic": "Patients May Still Get a ‘Surprise’ Bill After an In-Network ER Visit",
-    "url": "http://www.wsj.com/articles/patients-may-still-get-a-surprise-bill-after-an-in-network-er-visit-study-finds-1479333600",
-    "votes": 4,
-    "posted": "Nov 17, 2016 6:05:42 AM"
   }
 ];
