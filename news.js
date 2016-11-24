@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13029941",
+    "timestamp": "Nov 24, 2016 2:41:04 PM",
+    "topic": "US auto industry installed 135,000 robots and added 230,000 jobs",
+    "url": "http://robohub.org/us-auto-industry-installed-135000-robots-and-added-230000-jobs/",
+    "votes": 7,
+    "posted": "Nov 24, 2016 1:22:07 PM"
+  },
+  {
     "id": "13029706",
     "timestamp": "Nov 24, 2016 12:40:56 PM",
     "topic": "Authenticity in the Age of the Fake",
@@ -8562,28 +8570,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dx4S38hpgxuM",
     "votes": 3,
     "posted": "Nov 17, 2016 3:03:17 PM"
-  },
-  {
-    "id": "12977142",
-    "timestamp": "Nov 17, 2016 3:15:44 PM",
-    "topic": "Dyson Award for \u0027Extraordinary\u0027 Paper Cycle Helmet",
-    "url": "http://www.thememo.com/2016/11/17/paper-helmet-paper-cycle-helmet-dyson-award-cycling-news/",
-    "votes": 7,
-    "posted": "Nov 17, 2016 2:17:00 PM"
-  },
-  {
-    "id": "12977088",
-    "timestamp": "Nov 17, 2016 5:05:54 PM",
-    "topic": "LinkedIn is now officially blocked in Russia",
-    "url": "https://techcrunch.com/2016/11/17/linkedin-is-now-officially-blocked-in-russia/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 2:08:58 PM"
-  },
-  {
-    "id": "12977004",
-    "timestamp": "Nov 17, 2016 10:16:24 PM",
-    "topic": "Ask HN: Is my project at a disadvantage for being hosted on a GitHub competitor?",
-    "votes": 8,
-    "posted": "Nov 17, 2016 1:54:48 PM"
   }
 ];
