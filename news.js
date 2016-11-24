@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13026606",
+    "timestamp": "Nov 24, 2016 12:59:53 AM",
+    "topic": "Apollo software engineer Margaret H. receives Presidential Medal of Freedom",
+    "url": "http://www.theverge.com/2016/11/23/13734214/apollo-software-engineer-margaret-hamilton-presidential-medal-of-freedom?utm_campaign\u003dtheverge\u0026utm_content\u003dchorus\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter",
+    "votes": 4,
+    "posted": "Nov 24, 2016 12:20:04 AM"
+  },
+  {
+    "id": "13026604",
+    "timestamp": "Nov 24, 2016 12:49:52 AM",
+    "topic": "Face electrodes let you taste and chew in virtual reality",
+    "url": "https://www.newscientist.com/article/2111371-face-electrodes-let-you-taste-and-chew-in-virtual-reality/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 12:19:52 AM"
+  },
+  {
+    "id": "13026427",
+    "timestamp": "Nov 24, 2016 12:29:50 AM",
+    "topic": "Holoportation is now mobile",
+    "url": "https://www.microsoft.com/en-us/research/project/holoportation-3/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 11:50:29 PM"
+  },
+  {
     "id": "13026334",
     "timestamp": "Nov 23, 2016 11:39:46 PM",
     "topic": "Cash Ban the Best Thing to Happen to Indian Digital Payments",
@@ -14,6 +38,14 @@ var newsArray = [
     "url": "https://twitter.com/danprimack/status/801552167978995713",
     "votes": 3,
     "posted": "Nov 23, 2016 11:32:57 PM"
+  },
+  {
+    "id": "13026321",
+    "timestamp": "Nov 24, 2016 12:09:49 AM",
+    "topic": "Bruce Schneier: \u0027The Internet Era of Fun and Games Is Over\u0027",
+    "url": "http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/?tw\u003dshare",
+    "votes": 3,
+    "posted": "Nov 23, 2016 11:32:39 PM"
   },
   {
     "id": "13026114",
@@ -1072,6 +1104,14 @@ var newsArray = [
     "url": "https://twitter.com/nisconi/status/801245635236143104",
     "votes": 3,
     "posted": "Nov 23, 2016 3:12:16 AM"
+  },
+  {
+    "id": "13019334",
+    "timestamp": "Nov 24, 2016 12:59:53 AM",
+    "topic": "How Apple Lost China to Two Unknown Local Smartphone Makers",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-22/how-apple-lost-china-to-two-unknown-local-smartphone-makers",
+    "votes": 3,
+    "posted": "Nov 23, 2016 2:57:19 AM"
   },
   {
     "id": "13019333",
@@ -8518,84 +8558,5 @@ var newsArray = [
     "url": "https://www.weforum.org/press/2016/01/five-million-jobs-by-2020-the-real-challenge-of-the-fourth-industrial-revolution/",
     "votes": 3,
     "posted": "Nov 17, 2016 1:11:09 AM"
-  },
-  {
-    "id": "12972837",
-    "timestamp": "Nov 17, 2016 4:44:54 AM",
-    "topic": "Judge set to toss charges against Backpage.com CEO, cites shield law",
-    "url": "http://www.reuters.com/article/us-usa-backpage-ruling-idUSKBN13B2O7?il\u003d0",
-    "votes": 3,
-    "posted": "Nov 17, 2016 12:56:58 AM"
-  },
-  {
-    "id": "12972754",
-    "timestamp": "Nov 17, 2016 1:24:38 AM",
-    "topic": "Wire’s end-to-end encrypted bot API is coming",
-    "url": "https://medium.com/wire-news/wires-end-to-end-encrypted-bot-api-is-coming-861d04825d1#.sh5s2lxol",
-    "votes": 4,
-    "posted": "Nov 17, 2016 12:45:45 AM"
-  },
-  {
-    "id": "12972744",
-    "timestamp": "Nov 17, 2016 1:34:39 AM",
-    "topic": "Samy Kamkar: PoisonTap – exploiting locked computers over USB",
-    "url": "https://samy.pl/poisontap/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 12:45:02 AM"
-  },
-  {
-    "id": "12972663",
-    "timestamp": "Nov 17, 2016 1:04:36 AM",
-    "topic": "Viral Fake Election News Outperformed Real News on Facebook",
-    "url": "https://www.buzzfeed.com/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook?utm_term\u003d.tn08ADVNX#.hyp4qAowM",
-    "votes": 3,
-    "posted": "Nov 17, 2016 12:34:27 AM"
-  },
-  {
-    "id": "12972662",
-    "timestamp": "Nov 17, 2016 12:34:34 AM",
-    "topic": "Cratejoy (YC S13) Is Hiring Senior UX, PM and Marketing in Austin",
-    "url": "https://jobs.lever.co/cratejoy",
-    "votes": 1,
-    "posted": "Nov 17, 2016 12:34:21 AM"
-  },
-  {
-    "id": "12972604",
-    "timestamp": "Nov 17, 2016 1:04:36 AM",
-    "topic": "Congress to Security Experts: How Do We Deal with the Internet of Shit?",
-    "url": "http://motherboard.vice.com/read/congress-to-security-experts-how-do-we-deal-with-the-internet-of-shit",
-    "votes": 3,
-    "posted": "Nov 17, 2016 12:25:55 AM"
-  },
-  {
-    "id": "12972557",
-    "timestamp": "Nov 17, 2016 12:24:33 AM",
-    "topic": "Announcing iD v2 editor for OpenStreetMap",
-    "url": "https://www.mapbox.com/blog/announcing-id-v2/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 12:19:44 AM"
-  },
-  {
-    "id": "12972554",
-    "timestamp": "Nov 17, 2016 1:04:36 AM",
-    "topic": "PSA: Don’t Mess with the Google",
-    "url": "http://www.dansdeals.com/archives/98444",
-    "votes": 13,
-    "posted": "Nov 17, 2016 12:19:27 AM"
-  },
-  {
-    "id": "12972547",
-    "timestamp": "Nov 17, 2016 6:26:02 PM",
-    "topic": "New, Lower Pricing for the Talos Secure Workstation",
-    "url": "https://www.crowdsupply.com/raptor-computing-systems/talos-secure-workstation/updates/new-lower-pricing",
-    "votes": 3,
-    "posted": "Nov 17, 2016 12:18:42 AM"
-  },
-  {
-    "id": "12972531",
-    "timestamp": "Nov 17, 2016 3:24:47 AM",
-    "topic": "Ask HN: Do you still buy/read technical books?",
-    "votes": 7,
-    "posted": "Nov 17, 2016 12:15:40 AM"
   }
 ];
