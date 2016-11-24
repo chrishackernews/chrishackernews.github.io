@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13028522",
+    "timestamp": "Nov 24, 2016 7:30:30 AM",
+    "topic": "Reddit’s CEO edited comments that criticized him",
+    "url": "http://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments",
+    "votes": 4,
+    "posted": "Nov 24, 2016 7:04:57 AM"
+  },
+  {
+    "id": "13028428",
+    "timestamp": "Nov 24, 2016 7:10:28 AM",
+    "topic": "President Obama to Republicans: I won. Deal with it. (2013)",
+    "url": "https://www.washingtonpost.com/news/the-fix/wp/2013/10/17/president-obama-to-republicans-i-won-deal-with-it/",
+    "votes": 7,
+    "posted": "Nov 24, 2016 6:41:04 AM"
+  },
+  {
     "id": "13028253",
     "timestamp": "Nov 24, 2016 6:30:24 AM",
     "topic": "Reddit CEO admits he secretly edited comments from Donald Trump supporters",
@@ -8,12 +24,27 @@ var newsArray = [
     "posted": "Nov 24, 2016 6:03:30 AM"
   },
   {
+    "id": "13028205",
+    "timestamp": "Nov 24, 2016 7:20:29 AM",
+    "topic": "Ask HN: What are your favorite variants on the “Now You have Two Problems” joke?",
+    "votes": 5,
+    "posted": "Nov 24, 2016 5:50:09 AM"
+  },
+  {
     "id": "13028181",
     "timestamp": "Nov 24, 2016 5:50:21 AM",
     "topic": "Cratejoy (YC S13) Is Hiring a Senior Product Manager",
     "url": "https://jobs.lever.co/cratejoy/92961f3b-00de-48c0-a091-2d4c33dfe0f3",
     "votes": 1,
     "posted": "Nov 24, 2016 5:45:18 AM"
+  },
+  {
+    "id": "13027987",
+    "timestamp": "Nov 24, 2016 7:00:27 AM",
+    "topic": "Blackwater linked figure to run education",
+    "url": "http://www.motherjones.com/politics/2014/01/devos-family-foundations-heritage-americans-prosperity-blackwater",
+    "votes": 3,
+    "posted": "Nov 24, 2016 5:08:32 AM"
   },
   {
     "id": "13027984",
@@ -8631,37 +8662,5 @@ var newsArray = [
     "url": "http://www.abc.net.au/news/2016-11-17/wedge-tailed-eagles-bring-down-drones-in-goldfields/8033056",
     "votes": 3,
     "posted": "Nov 17, 2016 7:52:06 AM"
-  },
-  {
-    "id": "12974946",
-    "timestamp": "Nov 17, 2016 8:05:10 AM",
-    "topic": "The disappearing stick shift: less than 3% of cars sold in the U.S. have manuals",
-    "url": "http://www.latimes.com/business/autos/laautoshow/la-fi-hy-disappearing-stick-shift-20161115-story.html",
-    "votes": 4,
-    "posted": "Nov 17, 2016 7:37:50 AM"
-  },
-  {
-    "id": "12974938",
-    "timestamp": "Nov 17, 2016 8:35:13 AM",
-    "topic": "6,000+ businesses use IBM’s supercomputer ‘Watson’ – here’s why",
-    "url": "http://www.eno8.com/blog/why-6000-businesses-use-ibm-watson/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 7:36:01 AM"
-  },
-  {
-    "id": "12974748",
-    "timestamp": "Nov 17, 2016 8:15:11 AM",
-    "topic": "Two Syntax Styles of xmake.lua",
-    "url": "http://tboox.org/2016/11/15/syntax-style/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 6:55:31 AM"
-  },
-  {
-    "id": "12974726",
-    "timestamp": "Nov 17, 2016 8:15:11 AM",
-    "topic": "M(DM)acOS",
-    "url": "http://michaellynn.github.io/2016/10/04/mDMacOS/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:50:53 AM"
   }
 ];
