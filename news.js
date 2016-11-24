@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13033115",
+    "timestamp": "Nov 24, 2016 11:41:54 PM",
+    "topic": "Heterodox Academy Condemns Professor Watchlist",
+    "url": "http://heterodoxacademy.org/2016/11/24/heterodox-academy-condemns-professor-watchlist/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 11:16:18 PM"
+  },
+  {
+    "id": "13032967",
+    "timestamp": "Nov 24, 2016 11:41:54 PM",
+    "topic": "Strowger Telephone Switch (1891)",
+    "url": "https://en.wikipedia.org/wiki/Strowger_switch",
+    "votes": 6,
+    "posted": "Nov 24, 2016 10:43:13 PM"
+  },
+  {
+    "id": "13032859",
+    "timestamp": "Nov 24, 2016 11:11:51 PM",
+    "topic": "Apollo moon mission coder awarded Presidential Medal of Freedom",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-38076123",
+    "votes": 3,
+    "posted": "Nov 24, 2016 10:25:13 PM"
+  },
+  {
     "id": "13032640",
     "timestamp": "Nov 24, 2016 10:31:48 PM",
     "topic": "Go master Cho wins best-of-three series against Japan-made AI",
@@ -48,6 +72,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 9:14:11 PM"
   },
   {
+    "id": "13032463",
+    "timestamp": "Nov 24, 2016 11:21:52 PM",
+    "topic": "Rogue Bots – System 76",
+    "url": "https://system76.com/specials/roguebots",
+    "votes": 4,
+    "posted": "Nov 24, 2016 9:09:53 PM"
+  },
+  {
     "id": "13032462",
     "timestamp": "Nov 24, 2016 10:11:46 PM",
     "topic": "Microsoft CEO hints at Surface phone with talk of an “ultimate mobile device”",
@@ -80,6 +112,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 8:59:29 PM"
   },
   {
+    "id": "13032264",
+    "timestamp": "Nov 24, 2016 11:01:51 PM",
+    "topic": "Forbidden Spheres",
+    "url": "http://blog.nuclearsecrecy.com/2012/08/29/forbidden-spheres/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 8:33:09 PM"
+  },
+  {
     "id": "13032237",
     "timestamp": "Nov 24, 2016 8:41:39 PM",
     "topic": "Zed Shaw: The End of Coder Influence",
@@ -109,6 +149,22 @@ var newsArray = [
     "url": "http://ijr.com/wildfire/2016/11/731642-edward-snowden-demonstrates-how-easy-it-is-to-hack-a-voting-machine-all-for-just-30/",
     "votes": 4,
     "posted": "Nov 24, 2016 8:19:42 PM"
+  },
+  {
+    "id": "13032012",
+    "timestamp": "Nov 24, 2016 11:41:54 PM",
+    "topic": "The Coconut Crab: No, It\u0027s Not from a Science Fiction Movie",
+    "url": "https://apatheticlemming.blogspot.hr/2009/09/coconut-crab-no-its-not-from-science.html?m\u003d1",
+    "votes": 4,
+    "posted": "Nov 24, 2016 7:45:52 PM"
+  },
+  {
+    "id": "13031852",
+    "timestamp": "Nov 24, 2016 11:41:54 PM",
+    "topic": "Brexiteers Livid About Brexit Fallout in Football Manager 2017",
+    "url": "http://www.kotaku.co.uk/2016/11/24/brexiteers-livid-about-brexit-fallout-in-football-manager-2017",
+    "votes": 4,
+    "posted": "Nov 24, 2016 7:23:37 PM"
   },
   {
     "id": "13031786",
@@ -8228,109 +8284,5 @@ var newsArray = [
     "url": "https://blog.turbo.run/how-google-has-knowingly-enabled-piracy-for-years-and-still-does/",
     "votes": 9,
     "posted": "Nov 17, 2016 11:57:53 PM"
-  },
-  {
-    "id": "12982453",
-    "timestamp": "Nov 18, 2016 12:06:36 AM",
-    "topic": "A brutal chart from Bridgewater explains the rise of Trump",
-    "url": "http://www.businessinsider.com/a-brutal-chart-from-bridgewater-explains-the-rise-of-trump-2016-11",
-    "votes": 6,
-    "posted": "Nov 17, 2016 11:43:14 PM"
-  },
-  {
-    "id": "12982422",
-    "timestamp": "Nov 18, 2016 12:06:36 AM",
-    "topic": "Enzymes from nine organisms combined to create new pathway to use CO2",
-    "url": "http://arstechnica.com/science/2016/11/enzymes-from-nine-organisms-combined-to-create-new-pathway-to-use-co2/",
-    "votes": 9,
-    "posted": "Nov 17, 2016 11:40:05 PM"
-  },
-  {
-    "id": "12982418",
-    "timestamp": "Nov 18, 2016 12:06:35 AM",
-    "topic": "SpaceX plans worldwide satellite Internet with low latency, gigabit speed",
-    "url": "http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/",
-    "votes": 20,
-    "posted": "Nov 17, 2016 11:39:46 PM"
-  },
-  {
-    "id": "12982407",
-    "timestamp": "Nov 18, 2016 6:28:14 PM",
-    "topic": "Unfathomable: The Invention of Modern Deep-Sea Diving",
-    "url": "http://unfathomable.epicmagazine.com",
-    "votes": 4,
-    "posted": "Nov 17, 2016 11:37:44 PM"
-  },
-  {
-    "id": "12982397",
-    "timestamp": "Nov 19, 2016 12:39:09 AM",
-    "topic": "Twitter\u0027s Misbegotten Censorship",
-    "url": "http://www.theatlantic.com/politics/archive/2016/11/twitter-censorship-will-only-empower-the-alt-right/507929/?single_page\u003dtrue",
-    "votes": 8,
-    "posted": "Nov 17, 2016 11:36:20 PM"
-  },
-  {
-    "id": "12982364",
-    "timestamp": "Nov 18, 2016 4:28:03 PM",
-    "topic": "World’s largest music torrent site goes dark after French police seize servers",
-    "url": "http://arstechnica.com/tech-policy/2016/11/worlds-largest-music-torrent-site-goes-dark-after-french-police-seize-servers/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 11:31:33 PM"
-  },
-  {
-    "id": "12982353",
-    "timestamp": "Nov 18, 2016 4:06:55 AM",
-    "topic": "Privacy made simple with Firefox Focus",
-    "url": "https://blog.mozilla.org/blog/2016/11/17/privacy-made-simple-with-firefox-focus/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 11:30:34 PM"
-  },
-  {
-    "id": "12982339",
-    "timestamp": "Nov 18, 2016 2:36:47 AM",
-    "topic": "What.CD Nukes Data After Servers Seized",
-    "url": "https://torrentfreak.com/what-cd-shuts-down-following-reported-raids-in-france-161117/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 11:28:20 PM"
-  },
-  {
-    "id": "12982321",
-    "timestamp": "Nov 18, 2016 12:16:37 AM",
-    "topic": "A History of Hard Drives",
-    "url": "https://www.backblaze.com/blog/history-hard-drives/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 11:25:38 PM"
-  },
-  {
-    "id": "12982312",
-    "timestamp": "Nov 18, 2016 12:16:37 AM",
-    "topic": "Signal: Safety number updates",
-    "url": "https://www.whispersystems.org/blog/safety-number-updates/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 11:25:04 PM"
-  },
-  {
-    "id": "12982309",
-    "timestamp": "Nov 18, 2016 12:06:35 AM",
-    "topic": "ORCA (RISC-V Implementation) Updated",
-    "url": "https://github.com/VectorBlox/orca",
-    "votes": 6,
-    "posted": "Nov 17, 2016 11:24:40 PM"
-  },
-  {
-    "id": "12982285",
-    "timestamp": "Nov 17, 2016 11:36:33 PM",
-    "topic": "Pixel Security",
-    "url": "https://security.googleblog.com/2016/11/pixel-security-better-faster-stronger.html",
-    "votes": 4,
-    "posted": "Nov 17, 2016 11:22:29 PM"
-  },
-  {
-    "id": "12982135",
-    "timestamp": "Nov 18, 2016 12:46:40 AM",
-    "topic": "8m^s, 16-bit “Big Hex Machine” makes computation visual, macro",
-    "url": "https://bighexmachine.github.io",
-    "votes": 8,
-    "posted": "Nov 17, 2016 11:01:00 PM"
   }
 ];
