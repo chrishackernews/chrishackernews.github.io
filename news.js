@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13032640",
+    "timestamp": "Nov 24, 2016 10:31:48 PM",
+    "topic": "Go master Cho wins best-of-three series against Japan-made AI",
+    "url": "http://www.japantimes.co.jp/news/2016/11/24/national/go-master-cho-wins-best-three-series-japan-made-ai/#.WDdQUUnhXqA",
+    "votes": 3,
+    "posted": "Nov 24, 2016 9:43:08 PM"
+  },
+  {
+    "id": "13032619",
+    "timestamp": "Nov 24, 2016 10:51:50 PM",
+    "topic": "Wikipedia Editor Says Site’s Toxic Community Has Him Contemplating Suicide",
+    "url": "http://motherboard.vice.com/read/wikipedia-editor-says-sites-toxic-community-has-him-contemplating-suicide",
+    "votes": 5,
+    "posted": "Nov 24, 2016 9:38:43 PM"
+  },
+  {
+    "id": "13032579",
+    "timestamp": "Nov 24, 2016 10:11:46 PM",
+    "topic": "Of course Zuckerberg wants to bow to Chinese censorship",
+    "url": "https://m.signalvnoise.com/of-course-zuckerberg-wants-to-bow-to-chinese-censorship-de5e7a5fa6c1#.x91roorup",
+    "votes": 5,
+    "posted": "Nov 24, 2016 9:30:53 PM"
+  },
+  {
+    "id": "13032513",
+    "timestamp": "Nov 24, 2016 10:41:49 PM",
+    "topic": "The snarling contempt behind the media\u0027s fake news hysteria",
+    "url": "http://theweek.com/articles/663436/snarling-contempt-behind-medias-fake-news-hysteria",
+    "votes": 4,
+    "posted": "Nov 24, 2016 9:18:51 PM"
+  },
+  {
     "id": "13032487",
     "timestamp": "Nov 24, 2016 9:31:43 PM",
     "topic": "The stability of the bicycle (2006)",
@@ -8,12 +40,36 @@ var newsArray = [
     "posted": "Nov 24, 2016 9:14:20 PM"
   },
   {
+    "id": "13032486",
+    "timestamp": "Nov 24, 2016 10:11:46 PM",
+    "topic": "Toast sandwich",
+    "url": "https://en.wikipedia.org/wiki/Toast_sandwich",
+    "votes": 3,
+    "posted": "Nov 24, 2016 9:14:11 PM"
+  },
+  {
+    "id": "13032462",
+    "timestamp": "Nov 24, 2016 10:11:46 PM",
+    "topic": "Microsoft CEO hints at Surface phone with talk of an “ultimate mobile device”",
+    "url": "http://www.afr.com/technology/technology-companies/microsoft/how-satya-nadella-is-making-microsoft-cool-again-and-taking-on-apple-and-amazon-20161118-gssfb1",
+    "votes": 3,
+    "posted": "Nov 24, 2016 9:09:39 PM"
+  },
+  {
     "id": "13032417",
     "timestamp": "Nov 24, 2016 9:31:42 PM",
     "topic": "Venezuela’s Currency Just Had the Biggest Monthly Collapse Ever",
     "url": "https://www.bloomberg.com/news/articles/2016-11-24/venezuela-s-currency-just-had-the-biggest-monthly-collapse-ever",
     "votes": 3,
     "posted": "Nov 24, 2016 9:01:41 PM"
+  },
+  {
+    "id": "13032408",
+    "timestamp": "Nov 24, 2016 10:11:46 PM",
+    "topic": "Shake Shack Bets Against Peak Burger",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-24/shake-shack-bets-against-peak-burger",
+    "votes": 4,
+    "posted": "Nov 24, 2016 8:59:42 PM"
   },
   {
     "id": "13032405",
@@ -181,6 +237,14 @@ var newsArray = [
     "url": "https://www.linkedin.com/pulse/online-summarizers-overview-yuri-kitin?trk\u003dprof-post",
     "votes": 3,
     "posted": "Nov 24, 2016 4:17:57 PM"
+  },
+  {
+    "id": "13030654",
+    "timestamp": "Nov 24, 2016 10:51:50 PM",
+    "topic": "Barcelona to fine Airbnb and HomeAway €600k for offering \u0027illegal\u0027 accommodation",
+    "url": "http://www.telegraph.co.uk/news/2016/11/24/barcelona-fine-airbnb-homeaway600000-offering-illegal-accommodation/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:06:45 PM"
   },
   {
     "id": "13030603",
@@ -413,12 +477,28 @@ var newsArray = [
     "posted": "Nov 24, 2016 4:21:02 AM"
   },
   {
+    "id": "13027744",
+    "timestamp": "Nov 24, 2016 10:01:45 PM",
+    "topic": "Whose Fake News Gets a Pass? NYT Advocates Internet Censorship",
+    "url": "http://www.commondreams.org/views/2016/11/21/whose-fake-news-gets-pass-nyt-advocates-internet-censorship",
+    "votes": 7,
+    "posted": "Nov 24, 2016 4:18:57 AM"
+  },
+  {
     "id": "13027718",
     "timestamp": "Nov 24, 2016 4:30:10 AM",
     "topic": "MacOS 10.12 Open Source",
     "url": "https://opensource.apple.com/release/os-x-1012.html",
     "votes": 11,
     "posted": "Nov 24, 2016 4:13:06 AM"
+  },
+  {
+    "id": "13027715",
+    "timestamp": "Nov 24, 2016 10:01:45 PM",
+    "topic": "Reddit CEO caught secretly editing other people\u0027s posts",
+    "url": "https://www.reddit.com/r/The_Donald/comments/5ekdy9/the_admins_are_suffering_from_low_energy_have/?st\u003divvs9idp\u0026sh\u003dbefaa8b8",
+    "votes": 9,
+    "posted": "Nov 24, 2016 4:12:41 AM"
   },
   {
     "id": "13027699",
@@ -8252,91 +8332,5 @@ var newsArray = [
     "url": "https://bighexmachine.github.io",
     "votes": 8,
     "posted": "Nov 17, 2016 11:01:00 PM"
-  },
-  {
-    "id": "12981965",
-    "timestamp": "Nov 18, 2016 12:26:38 AM",
-    "topic": "Visiting the Valley and planning my next move in life, thoughts?",
-    "votes": 3,
-    "posted": "Nov 17, 2016 10:42:58 PM"
-  },
-  {
-    "id": "12981942",
-    "timestamp": "Nov 17, 2016 11:26:32 PM",
-    "topic": "“Google can lock your account, forcing you to abandon purchases and credit card”",
-    "url": "https://www.reddit.com/r/Android/comments/5dif8j/psa_google_can_lock_your_account_forcing_you_to/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 10:40:03 PM"
-  },
-  {
-    "id": "12981755",
-    "timestamp": "Nov 17, 2016 10:36:27 PM",
-    "topic": "WHAT.CD servers seized by French police",
-    "url": "https://www.reddit.com/r/trackers/comments/5dguyw/according_to_a_french_news_site_12_whatcd_servers/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 10:22:55 PM"
-  },
-  {
-    "id": "12981750",
-    "timestamp": "Nov 17, 2016 10:36:27 PM",
-    "topic": "What.cd has shut down",
-    "url": "https://twitter.com/whatcd/status/799361263121866752",
-    "votes": 5,
-    "posted": "Nov 17, 2016 10:22:34 PM"
-  },
-  {
-    "id": "12981740",
-    "timestamp": "Nov 18, 2016 7:18:19 PM",
-    "topic": "Ask HN: Structure for Canadian working remote for Bay Area startup?",
-    "votes": 9,
-    "posted": "Nov 17, 2016 10:21:27 PM"
-  },
-  {
-    "id": "12981736",
-    "timestamp": "Nov 17, 2016 10:36:27 PM",
-    "topic": "What.cd closes down",
-    "url": "https://what.cd/",
-    "votes": 18,
-    "posted": "Nov 17, 2016 10:21:18 PM"
-  },
-  {
-    "id": "12981655",
-    "timestamp": "Nov 17, 2016 10:36:26 PM",
-    "topic": "All around the world, nationalists are gaining ground. Why?",
-    "url": "http://www.economist.com/news/international/21710276-all-around-world-nationalists-are-gaining-ground-why-league-nationalists",
-    "votes": 15,
-    "posted": "Nov 17, 2016 10:14:47 PM"
-  },
-  {
-    "id": "12981650",
-    "timestamp": "Nov 17, 2016 11:06:30 PM",
-    "topic": "The North Pole is an insane 36 degrees warmer than normal as winter descends",
-    "url": "https://www.washingtonpost.com/news/energy-environment/wp/2016/11/17/the-north-pole-is-an-insane-36-degrees-warmer-than-normal-as-winter-descends/",
-    "votes": 10,
-    "posted": "Nov 17, 2016 10:14:23 PM"
-  },
-  {
-    "id": "12981632",
-    "timestamp": "Nov 17, 2016 10:26:25 PM",
-    "topic": "Shareholders overwhelmingly approve Tesla Solar City merger",
-    "url": "http://www.cnbc.com/2016/11/17/solarcity-shareholders-vote-on-tesla-merger.html",
-    "votes": 9,
-    "posted": "Nov 17, 2016 10:13:14 PM"
-  },
-  {
-    "id": "12981605",
-    "timestamp": "Nov 17, 2016 10:26:25 PM",
-    "topic": "Shareholders approve Tesla Solarcity acquisition",
-    "url": "https://techcrunch.com/2016/11/17/shareholders-approve-tesla-acquisition-of-solarcity/",
-    "votes": 13,
-    "posted": "Nov 17, 2016 10:11:03 PM"
-  },
-  {
-    "id": "12981599",
-    "timestamp": "Nov 17, 2016 10:16:24 PM",
-    "topic": "Classic IT short jokes collection. Great after a busy day",
-    "url": "https://blog.sysadminsarena.com/classic-it-short-jokes-collection-great-after-a-busy-day-e5869f6076f8#.9rw8j2411",
-    "votes": 4,
-    "posted": "Nov 17, 2016 10:10:16 PM"
   }
 ];
