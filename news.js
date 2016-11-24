@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "13030603",
+    "timestamp": "Nov 24, 2016 4:01:13 PM",
+    "topic": "Show HN: Dply – Free temporary Linux servers",
+    "url": "https://dply.co",
+    "votes": 6,
+    "posted": "Nov 24, 2016 3:57:04 PM"
+  },
+  {
+    "id": "13030596",
+    "timestamp": "Nov 24, 2016 4:11:14 PM",
+    "topic": "Toronto convicts first Airbnb owner over zoning violation",
+    "url": "https://www.thestar.com/business/real_estate/2016/11/23/city-of-toronto-gets-first-zoning-conviction-of-airbnb-era.html",
+    "votes": 3,
+    "posted": "Nov 24, 2016 3:55:59 PM"
+  },
+  {
+    "id": "13030493",
+    "timestamp": "Nov 24, 2016 4:01:13 PM",
+    "topic": "PAL is a tool for injecting secrets into Docker containers",
+    "url": "https://github.com/cloudflare/pal",
+    "votes": 3,
+    "posted": "Nov 24, 2016 3:36:19 PM"
+  },
+  {
+    "id": "13030460",
+    "timestamp": "Nov 24, 2016 4:11:14 PM",
+    "topic": "Senegal to Introduce a New Blockchain Based National Digital Currency",
+    "url": "http://www.iafrikan.com/2016/11/24/senegal-to-introduce-a-new-blockchain-based-national-digital-currency-making-it-only-the-second-country-to-have-a-national-digital-currency/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 3:29:32 PM"
+  },
+  {
+    "id": "13030423",
+    "timestamp": "Nov 24, 2016 4:21:15 PM",
+    "topic": "Consciousness is a recurrent neural network",
+    "votes": 8,
+    "posted": "Nov 24, 2016 3:22:33 PM"
+  },
+  {
     "id": "13030278",
     "timestamp": "Nov 24, 2016 3:21:08 PM",
     "topic": "Firefox 57 scheduled Nov 2017 will support WebExtensions exclusively",
@@ -8388,77 +8427,5 @@ var newsArray = [
     "url": "https://www.techdirt.com/articles/20161113/06093636030/appeals-court-to-cops-if-you-dont-have-time-constitutional-bullshit-you-dont-get-immunity.shtml",
     "votes": 5,
     "posted": "Nov 17, 2016 4:54:39 PM"
-  },
-  {
-    "id": "12978452",
-    "timestamp": "Nov 17, 2016 6:06:00 PM",
-    "topic": "Reinforcement Learning with Unsupervised Auxiliary Tasks (DeepMind)",
-    "url": "https://arxiv.org/abs/1611.05397",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:49:03 PM"
-  },
-  {
-    "id": "12978427",
-    "timestamp": "Nov 17, 2016 5:35:57 PM",
-    "topic": "Show HN: LogRocket – Record and Replay for Redux Apps",
-    "url": "https://logrocket.com",
-    "votes": 12,
-    "posted": "Nov 17, 2016 4:47:07 PM"
-  },
-  {
-    "id": "12978300",
-    "timestamp": "Nov 17, 2016 5:25:56 PM",
-    "topic": "Britain passed the “most extreme surveillance law ever passed in a democracy”",
-    "url": "http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:34:24 PM"
-  },
-  {
-    "id": "12978294",
-    "timestamp": "Nov 17, 2016 7:06:06 PM",
-    "topic": "Director of National Intelligence James Clapper Resigns",
-    "url": "http://www.nbcnews.com/news/us-news/director-national-intelligence-james-clapper-resigns-n685301",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:33:43 PM"
-  },
-  {
-    "id": "12978179",
-    "timestamp": "Nov 17, 2016 5:05:54 PM",
-    "topic": "How Python Makes Working with Data More Difficult in the Long Run",
-    "url": "https://medium.com/@jeffknupp/how-python-makes-working-with-data-more-difficult-in-the-long-run-8da7c8e083fe",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:22:49 PM"
-  },
-  {
-    "id": "12978139",
-    "timestamp": "Nov 17, 2016 4:45:52 PM",
-    "topic": "Learn SQL: 50+ of the Best Online Educational Resources to Learn SQL",
-    "url": "https://hackerlists.com/learn-sql-online/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 4:19:14 PM"
-  },
-  {
-    "id": "12978025",
-    "timestamp": "Nov 17, 2016 4:25:51 PM",
-    "topic": "Google Gets a Seat on the Trump Transition Team",
-    "url": "https://theintercept.com/2016/11/15/google-gets-a-seat-on-the-trump-transition-team/",
-    "votes": 7,
-    "posted": "Nov 17, 2016 4:09:08 PM"
-  },
-  {
-    "id": "12977904",
-    "timestamp": "Nov 17, 2016 4:15:50 PM",
-    "topic": "iPhone secretly sends call history to Apple even when iCloud backup switched off",
-    "url": "https://theintercept.com/2016/11/17/iphones-secretly-send-call-history-to-apple-security-firm-says/",
-    "votes": 12,
-    "posted": "Nov 17, 2016 3:54:30 PM"
-  },
-  {
-    "id": "12977878",
-    "timestamp": "Nov 17, 2016 4:05:49 PM",
-    "topic": "Apple Keeps Constant Log of iPhone Calls in iCloud, Warns Cop Contractor",
-    "url": "http://www.forbes.com/sites/thomasbrewster/2016/11/17/iphone-call-logs-in-icloud-warns-elcomsoft-hackers/#7f66682a2936",
-    "votes": 11,
-    "posted": "Nov 17, 2016 3:52:49 PM"
   }
 ];
