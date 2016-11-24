@@ -8,6 +8,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 12:09:07 PM"
   },
   {
+    "id": "13029414",
+    "timestamp": "Nov 24, 2016 1:41:00 PM",
+    "topic": "Married to someone with Anxiety",
+    "url": "http://medium.com/@SteveWhyley/married-to-someone-with-anxiety-d5bab822ba2d",
+    "votes": 4,
+    "posted": "Nov 24, 2016 10:58:59 AM"
+  },
+  {
     "id": "13029244",
     "timestamp": "Nov 24, 2016 10:50:48 AM",
     "topic": "Saturation of the Inertial Measurement Unit caused Schiaparelli to crash",
@@ -8577,21 +8585,5 @@ var newsArray = [
     "topic": "Ask HN: Is my project at a disadvantage for being hosted on a GitHub competitor?",
     "votes": 8,
     "posted": "Nov 17, 2016 1:54:48 PM"
-  },
-  {
-    "id": "12976719",
-    "timestamp": "Nov 17, 2016 1:35:37 PM",
-    "topic": "Why is airline food so bad?",
-    "url": "http://www.bbc.com/autos/story/20161115-why-is-airline-food-so-bad",
-    "votes": 7,
-    "posted": "Nov 17, 2016 1:13:01 PM"
-  },
-  {
-    "id": "12976642",
-    "timestamp": "Nov 17, 2016 1:35:37 PM",
-    "topic": "The FCC Just Caved in to Republican Demands That It Halt Work on Major Issues",
-    "url": "http://motherboard.vice.com/read/the-fcc-just-caved-in-to-republican-demands-that-it-halt-work-on-major-issues",
-    "votes": 3,
-    "posted": "Nov 17, 2016 1:00:48 PM"
   }
 ];
