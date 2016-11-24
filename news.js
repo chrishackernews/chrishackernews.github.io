@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13027506",
+    "timestamp": "Nov 24, 2016 3:30:05 AM",
+    "topic": "FreeBSD on a MacBook Pro",
+    "url": "https://gist.github.com/mpasternacki/974e29d1e3865e940c53",
+    "votes": 5,
+    "posted": "Nov 24, 2016 3:20:36 AM"
+  },
+  {
+    "id": "13027231",
+    "timestamp": "Nov 24, 2016 3:00:03 AM",
+    "topic": "OK Go\u0027s New Video for \u0027The One Moment\u0027 Is Another Mind-Blower",
+    "url": "http://www.npr.org/sections/allsongs/2016/11/23/503134502/ok-gos-new-video-for-the-one-moment-is-another-mind-blower",
+    "votes": 7,
+    "posted": "Nov 24, 2016 2:27:53 AM"
+  },
+  {
+    "id": "13027213",
+    "timestamp": "Nov 24, 2016 3:40:06 AM",
+    "topic": "Netflix 4k for Win10 Only on Kaby Lake CPUs in Edge",
+    "url": "http://www.theverge.com/2016/11/21/13703152/netflix-4k-pc-windows-support",
+    "votes": 3,
+    "posted": "Nov 24, 2016 2:25:34 AM"
+  },
+  {
+    "id": "13027132",
+    "timestamp": "Nov 24, 2016 3:10:03 AM",
+    "topic": "The sparrow with four sexes",
+    "url": "http://www.nature.com/news/the-sparrow-with-four-sexes-1.21018",
+    "votes": 4,
+    "posted": "Nov 24, 2016 2:13:08 AM"
+  },
+  {
     "id": "13027128",
     "timestamp": "Nov 24, 2016 2:19:59 AM",
     "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
@@ -62,6 +94,14 @@ var newsArray = [
     "url": "https://medium.com/initialized-capital/fascism-and-the-historical-irony-of-facebooks-fake-news-problem-d744b05045fd#.b926mqmgb",
     "votes": 6,
     "posted": "Nov 24, 2016 12:52:07 AM"
+  },
+  {
+    "id": "13026701",
+    "timestamp": "Nov 24, 2016 3:40:06 AM",
+    "topic": "Messaging done right. No phone number. No Email. No sign up required",
+    "url": "https://welcome.dklo.co/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 12:36:58 AM"
   },
   {
     "id": "13026606",
@@ -8502,45 +8542,5 @@ var newsArray = [
     "url": "https://www.plangrid.com/jobs/",
     "votes": 1,
     "posted": "Nov 17, 2016 3:52:53 AM"
-  },
-  {
-    "id": "12973716",
-    "timestamp": "Nov 17, 2016 3:34:48 AM",
-    "topic": "Go fonts",
-    "url": "https://blog.golang.org/go-fonts",
-    "votes": 12,
-    "posted": "Nov 17, 2016 3:26:59 AM"
-  },
-  {
-    "id": "12973663",
-    "timestamp": "Nov 17, 2016 3:44:49 AM",
-    "topic": "The Damage of Social Media",
-    "url": "http://www.travelfordifference.com/damage-social-media/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 3:18:43 AM"
-  },
-  {
-    "id": "12973572",
-    "timestamp": "Nov 17, 2016 3:44:49 AM",
-    "topic": "EU Commission reveals plans for \u0027travel tax\u0027 on British citizens after Brexit",
-    "url": "http://www.independent.co.uk/news/uk/politics/travel-tax-eu-commission-visa-waiver-british-citizens-brexit-a7421626.html",
-    "votes": 3,
-    "posted": "Nov 17, 2016 3:02:38 AM"
-  },
-  {
-    "id": "12973542",
-    "timestamp": "Nov 17, 2016 6:15:02 AM",
-    "topic": "Like by smiling? Facebook acquires emotion detection startup FacioMetrics",
-    "url": "https://techcrunch.com/2016/11/16/facial-gesture-controls/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:58:28 AM"
-  },
-  {
-    "id": "12973535",
-    "timestamp": "Nov 17, 2016 3:14:46 AM",
-    "topic": "Touch Bar MacBook Pro teardown finds some unpleasant surprises",
-    "url": "http://arstechnica.com/apple/2016/11/touch-bar-mbp-teardown-soldered-ssd-cosmetic-speaker-holes-and-more/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:56:42 AM"
   }
 ];
