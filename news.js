@@ -191,6 +191,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 2:25:34 AM"
   },
   {
+    "id": "13027181",
+    "timestamp": "Nov 24, 2016 8:30:34 AM",
+    "topic": "Python Humor",
+    "url": "https://www.python.org/doc/humor/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 2:21:55 AM"
+  },
+  {
     "id": "13027132",
     "timestamp": "Nov 24, 2016 3:10:03 AM",
     "topic": "The sparrow with four sexes",
@@ -8624,43 +8632,5 @@ var newsArray = [
     "url": "http://www.abc.net.au/news/2016-11-17/apple-drops-indigenous-app-creator-warns-of-digital-colonisation/8032904",
     "votes": 3,
     "posted": "Nov 17, 2016 9:07:18 AM"
-  },
-  {
-    "id": "12975282",
-    "timestamp": "Nov 17, 2016 11:45:27 AM",
-    "topic": "Vulnerabilities induced by migrating to 64-bit platforms",
-    "url": "https://blog.acolyer.org/2016/11/17/twice-the-bits-twice-the-trouble-vulnerabilities-induced-by-migrating-to-64-bit-platforms/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 8:45:53 AM"
-  },
-  {
-    "id": "12975192",
-    "timestamp": "Nov 17, 2016 7:06:07 PM",
-    "topic": "Ask HN: Should big tech companies be considered monopolies?",
-    "votes": 8,
-    "posted": "Nov 17, 2016 8:29:16 AM"
-  },
-  {
-    "id": "12975150",
-    "timestamp": "Nov 17, 2016 10:16:24 PM",
-    "topic": "Ask HN: What are your thoughts on /r/whereisassange?",
-    "votes": 9,
-    "posted": "Nov 17, 2016 8:20:54 AM"
-  },
-  {
-    "id": "12975060",
-    "timestamp": "Nov 17, 2016 8:55:14 AM",
-    "topic": "Demand an Audit of the 2016 Presidential Election",
-    "url": "https://www.change.org/p/demand-an-audit-of-the-2016-presidential-election?tk\u003d-7WGliaW9iblPEcFqT0wP4OsJ1eV1GSe3bi6A4LDq10\u0026utm_medium\u003demail\u0026utm_source\u003dsignature_receipt\u0026utm_campaign\u003dnew_signature",
-    "votes": 3,
-    "posted": "Nov 17, 2016 8:03:40 AM"
-  },
-  {
-    "id": "12975008",
-    "timestamp": "Nov 17, 2016 8:55:14 AM",
-    "topic": "Wedge-Tail Eagle Does Battle With Mining Giant\u0027s Drones",
-    "url": "http://www.abc.net.au/news/2016-11-17/wedge-tailed-eagles-bring-down-drones-in-goldfields/8033056",
-    "votes": 3,
-    "posted": "Nov 17, 2016 7:52:06 AM"
   }
 ];
