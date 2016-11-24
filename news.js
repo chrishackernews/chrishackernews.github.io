@@ -8616,21 +8616,5 @@ var newsArray = [
     "topic": "Ask HN: Where is Assange?",
     "votes": 7,
     "posted": "Nov 17, 2016 11:57:52 AM"
-  },
-  {
-    "id": "12976168",
-    "timestamp": "Nov 17, 2016 12:15:31 PM",
-    "topic": "Zfec",
-    "url": "https://tahoe-lafs.org/trac/zfec/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 11:30:38 AM"
-  },
-  {
-    "id": "12976152",
-    "timestamp": "Nov 17, 2016 5:45:58 PM",
-    "topic": "Steve Bannon Suggests There Are Too Many Asian CEOs in Silicon Valley",
-    "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
-    "votes": 5,
-    "posted": "Nov 17, 2016 11:27:46 AM"
   }
 ];
