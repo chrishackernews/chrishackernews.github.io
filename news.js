@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "13029244",
+    "timestamp": "Nov 24, 2016 10:50:48 AM",
+    "topic": "Saturation of the Inertial Measurement Unit caused Schiaparelli to crash",
+    "url": "http://www.esa.int/Our_Activities/Space_Science/ExoMars/Schiaparelli_landing_investigation_makes_progress",
+    "votes": 4,
+    "posted": "Nov 24, 2016 10:23:54 AM"
+  },
+  {
     "id": "13028978",
     "timestamp": "Nov 24, 2016 9:30:39 AM",
     "topic": "Bobby Prince (Composer of Doom, Duke Nukem Soundtrack) Medical Fund",
     "url": "https://www.gofundme.com/bobby-prince-medical-fund-2vs94pg",
     "votes": 3,
     "posted": "Nov 24, 2016 9:10:59 AM"
+  },
+  {
+    "id": "13028893",
+    "timestamp": "Nov 24, 2016 10:40:47 AM",
+    "topic": "Facebook employees reportedly quit over a tool that would censor posts in China",
+    "url": "http://uk.businessinsider.com/facebook-censorship-tool-china-report-2016-11",
+    "votes": 4,
+    "posted": "Nov 24, 2016 8:44:04 AM"
   },
   {
     "id": "13028522",
@@ -197,6 +213,14 @@ var newsArray = [
     "url": "https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/",
     "votes": 3,
     "posted": "Nov 24, 2016 2:55:02 AM"
+  },
+  {
+    "id": "13027335",
+    "timestamp": "Nov 24, 2016 10:40:47 AM",
+    "topic": "Firefox web extensions in 2017",
+    "url": "https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 2:46:14 AM"
   },
   {
     "id": "13027231",
@@ -8608,21 +8632,5 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
     "votes": 5,
     "posted": "Nov 17, 2016 11:27:46 AM"
-  },
-  {
-    "id": "12975715",
-    "timestamp": "Nov 17, 2016 11:45:27 AM",
-    "topic": "Silicon Valley Wake Up Call",
-    "url": "https://medium.com/@justinkan/silicon-valley-wake-up-call-eba3dfaa82c3#.3mp0gfos0",
-    "votes": 3,
-    "posted": "Nov 17, 2016 10:05:39 AM"
-  },
-  {
-    "id": "12975690",
-    "timestamp": "Nov 17, 2016 10:35:22 AM",
-    "topic": "Sal Soghoian Departs Apple",
-    "url": "http://daringfireball.net/linked/2016/11/16/sal-soghoian",
-    "votes": 3,
-    "posted": "Nov 17, 2016 10:00:58 AM"
   }
 ];
