@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13029706",
+    "timestamp": "Nov 24, 2016 12:40:56 PM",
+    "topic": "Authenticity in the Age of the Fake",
+    "url": "http://nautil.us/issue/42/fakes/authenticity-in-the-age-of-the-fake",
+    "votes": 5,
+    "posted": "Nov 24, 2016 12:09:07 PM"
+  },
+  {
     "id": "13029244",
     "timestamp": "Nov 24, 2016 10:50:48 AM",
     "topic": "Saturation of the Inertial Measurement Unit caused Schiaparelli to crash",
@@ -8585,36 +8593,5 @@ var newsArray = [
     "url": "http://motherboard.vice.com/read/the-fcc-just-caved-in-to-republican-demands-that-it-halt-work-on-major-issues",
     "votes": 3,
     "posted": "Nov 17, 2016 1:00:48 PM"
-  },
-  {
-    "id": "12976508",
-    "timestamp": "Nov 18, 2016 3:37:58 PM",
-    "topic": "Show HN: Daily Curated Color Inspiration",
-    "url": "http://color.farm",
-    "votes": 10,
-    "posted": "Nov 17, 2016 12:40:04 PM"
-  },
-  {
-    "id": "12976393",
-    "timestamp": "Nov 17, 2016 1:25:36 PM",
-    "topic": "The mathematics of science’s broken reward system",
-    "url": "http://www.nature.com/news/the-mathematics-of-science-s-broken-reward-system-1.20987",
-    "votes": 7,
-    "posted": "Nov 17, 2016 12:15:42 PM"
-  },
-  {
-    "id": "12976347",
-    "timestamp": "Nov 17, 2016 12:15:30 PM",
-    "topic": "Tesla ‘Easter Egg’ Makes the World’s Fastest Car Even Faster",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-16/tesla-easter-egg-makes-the-world-s-fastest-car-even-faster",
-    "votes": 3,
-    "posted": "Nov 17, 2016 12:06:52 PM"
-  },
-  {
-    "id": "12976296",
-    "timestamp": "Nov 17, 2016 12:35:32 PM",
-    "topic": "Ask HN: Where is Assange?",
-    "votes": 7,
-    "posted": "Nov 17, 2016 11:57:52 AM"
   }
 ];
