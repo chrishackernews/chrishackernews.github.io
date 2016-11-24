@@ -1,5 +1,69 @@
 var newsArray = [
   {
+    "id": "13031027",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "How we structure our work and teams at Basecamp",
+    "url": "https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.lvp8eimw3",
+    "votes": 3,
+    "posted": "Nov 24, 2016 5:14:41 PM"
+  },
+  {
+    "id": "13031009",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "How I Detect Fake News",
+    "url": "https://medium.com/@timoreilly/how-i-detect-fake-news-ebe455d9d4a7#.h8w5ta6rz",
+    "votes": 5,
+    "posted": "Nov 24, 2016 5:12:55 PM"
+  },
+  {
+    "id": "13030992",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "Dutch scientists use color-changing graphene bubbles to create mechanical pixels",
+    "url": "http://www.theverge.com/2016/11/24/13740946/dutch-scientists-use-color-changing-graphene-bubbles-to-create-mechanical-pixels",
+    "votes": 4,
+    "posted": "Nov 24, 2016 5:10:38 PM"
+  },
+  {
+    "id": "13030971",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "Italian or British? Writer solves riddle of spaghetti bolognese",
+    "url": "https://www.theguardian.com/world/2016/nov/24/italian-or-british-writer-solves-riddle-of-spaghetti-bolognese",
+    "votes": 6,
+    "posted": "Nov 24, 2016 5:07:46 PM"
+  },
+  {
+    "id": "13030962",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "The Key to Meaningful Productivity: Being Receptive",
+    "url": "https://www.entrepreneur.com/article/285495",
+    "votes": 6,
+    "posted": "Nov 24, 2016 5:05:52 PM"
+  },
+  {
+    "id": "13030954",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "Web App and REST API with Express, PostgreSQL and Nunjucks on Yarn",
+    "url": "https://www.zaiste.net/2016/10/web_app_rest_api_with_express_postgresql_and_nunjucks_on_yarn/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 5:04:47 PM"
+  },
+  {
+    "id": "13030950",
+    "timestamp": "Nov 24, 2016 5:21:22 PM",
+    "topic": "SpaceX wins NASA contract to launch ocean-surveying satellite",
+    "url": "http://www.theverge.com/2016/11/23/13730092/spacex-nasa-contract-surface-water-ocean-topography-swot",
+    "votes": 8,
+    "posted": "Nov 24, 2016 5:03:56 PM"
+  },
+  {
+    "id": "13030709",
+    "timestamp": "Nov 24, 2016 5:01:20 PM",
+    "topic": "Online Summarizers overview",
+    "url": "https://www.linkedin.com/pulse/online-summarizers-overview-yuri-kitin?trk\u003dprof-post",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:17:57 PM"
+  },
+  {
     "id": "13030603",
     "timestamp": "Nov 24, 2016 4:01:13 PM",
     "topic": "Show HN: Dply – Free temporary Linux servers",
@@ -39,12 +103,28 @@ var newsArray = [
     "posted": "Nov 24, 2016 3:22:33 PM"
   },
   {
+    "id": "13030344",
+    "timestamp": "Nov 24, 2016 5:21:23 PM",
+    "topic": "Software Engineer Cheat Sheet",
+    "url": "https://medium.com/conquering-corporate-america/software-engineer-cheat-sheet-c95477b060c4#.lomu8u6ef",
+    "votes": 6,
+    "posted": "Nov 24, 2016 3:03:39 PM"
+  },
+  {
     "id": "13030278",
     "timestamp": "Nov 24, 2016 3:21:08 PM",
     "topic": "Firefox 57 scheduled Nov 2017 will support WebExtensions exclusively",
     "url": "https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/",
     "votes": 6,
     "posted": "Nov 24, 2016 2:44:18 PM"
+  },
+  {
+    "id": "13030162",
+    "timestamp": "Nov 24, 2016 5:11:21 PM",
+    "topic": "ArangoDB Closes 2.2M Euro Investment Led by Target Partners",
+    "url": "https://www.arangodb.com/2016/11/arangodb-closes-2-2-million-euro-investment-led-target-partners/",
+    "votes": 20,
+    "posted": "Nov 24, 2016 2:18:17 PM"
   },
   {
     "id": "13029941",
@@ -254,6 +334,13 @@ var newsArray = [
     "posted": "Nov 24, 2016 3:34:50 AM"
   },
   {
+    "id": "13027555",
+    "timestamp": "Nov 24, 2016 5:21:23 PM",
+    "topic": "Ask HN: How do you get hired without a programming interview?",
+    "votes": 3,
+    "posted": "Nov 24, 2016 3:33:50 AM"
+  },
+  {
     "id": "13027512",
     "timestamp": "Nov 24, 2016 4:10:08 AM",
     "topic": "Judge blocks Obama overtime rule, putting it in jeopardy",
@@ -388,6 +475,13 @@ var newsArray = [
     "url": "https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/",
     "votes": 3,
     "posted": "Nov 24, 2016 1:06:32 AM"
+  },
+  {
+    "id": "13026841",
+    "timestamp": "Nov 24, 2016 5:31:24 PM",
+    "topic": "How to start using VIM?",
+    "votes": 8,
+    "posted": "Nov 24, 2016 1:03:32 AM"
   },
   {
     "id": "13026837",
@@ -872,6 +966,13 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/startswithabang/2016/11/23/how-physics-falls-apart-if-the-emdrive-works/#1673149e4b0c",
     "votes": 3,
     "posted": "Nov 23, 2016 6:02:23 PM"
+  },
+  {
+    "id": "13023895",
+    "timestamp": "Nov 24, 2016 5:21:23 PM",
+    "topic": "Ask HN: Is AI going to replace web developers?",
+    "votes": 6,
+    "posted": "Nov 23, 2016 5:59:01 PM"
   },
   {
     "id": "13023823",
@@ -8380,52 +8481,5 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls",
     "votes": 5,
     "posted": "Nov 17, 2016 5:53:41 PM"
-  },
-  {
-    "id": "12978961",
-    "timestamp": "Nov 17, 2016 7:06:06 PM",
-    "topic": "Ask HN: What privacy-conserving measures should be taken post-snooper\u0027s charter?",
-    "votes": 3,
-    "posted": "Nov 17, 2016 5:43:09 PM"
-  },
-  {
-    "id": "12978893",
-    "timestamp": "Nov 17, 2016 5:45:58 PM",
-    "topic": "The .blog Bait and Switch",
-    "url": "http://chrisschidle.com/the-dot-blog-bait-and-switch/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 5:35:46 PM"
-  },
-  {
-    "id": "12978725",
-    "timestamp": "Nov 17, 2016 5:35:57 PM",
-    "topic": "Keybase chooses Zcash",
-    "url": "https://keybase.io/blog/keybase-and-zcash",
-    "votes": 17,
-    "posted": "Nov 17, 2016 5:17:27 PM"
-  },
-  {
-    "id": "12978677",
-    "timestamp": "Nov 17, 2016 5:15:55 PM",
-    "topic": "Mux is hiring its first salesperson. Join the team behind Zencoder and Video.js",
-    "url": "https://muxhq.workable.com/jobs/379433",
-    "votes": 1,
-    "posted": "Nov 17, 2016 5:12:25 PM"
-  },
-  {
-    "id": "12978613",
-    "timestamp": "Nov 17, 2016 5:55:59 PM",
-    "topic": "Ukraine\u0027s Top File-Hosting Site Closes Amid Cyberpolice Crackdown",
-    "url": "http://www.rferl.org/a/ukraine-file-hosting-site-ex-ua-cyberpolice-crackdown-fire-sharing/28123869.html",
-    "votes": 3,
-    "posted": "Nov 17, 2016 5:05:04 PM"
-  },
-  {
-    "id": "12978511",
-    "timestamp": "Nov 17, 2016 5:15:55 PM",
-    "topic": "Court to Cops: No Immunity If You \u0027Don\u0027t Have Time Constitutional Bullshit\u0027",
-    "url": "https://www.techdirt.com/articles/20161113/06093636030/appeals-court-to-cops-if-you-dont-have-time-constitutional-bullshit-you-dont-get-immunity.shtml",
-    "votes": 5,
-    "posted": "Nov 17, 2016 4:54:39 PM"
   }
 ];
