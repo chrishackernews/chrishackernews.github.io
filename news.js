@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13031492",
+    "timestamp": "Nov 24, 2016 6:41:29 PM",
+    "topic": "Show HN: A free visual guide to the most popular CSS properties",
+    "url": "http://cssreference.io/#hn",
+    "votes": 4,
+    "posted": "Nov 24, 2016 6:32:41 PM"
+  },
+  {
+    "id": "13031338",
+    "timestamp": "Nov 24, 2016 6:41:29 PM",
+    "topic": "Ideas for Startups (2005)",
+    "url": "http://paulgraham.com/ideas.html",
+    "votes": 7,
+    "posted": "Nov 24, 2016 6:09:13 PM"
+  },
+  {
+    "id": "13031336",
+    "timestamp": "Nov 24, 2016 6:11:27 PM",
+    "topic": "BuildZoom (a better way to remodel) is hiring in product, growth and engineering",
+    "url": "https://jobs.lever.co/buildzoom",
+    "votes": 1,
+    "posted": "Nov 24, 2016 6:08:49 PM"
+  },
+  {
+    "id": "13031247",
+    "timestamp": "Nov 24, 2016 6:11:27 PM",
+    "topic": "Electron considered harmful",
+    "url": "https://drewdevault.com/2016/11/24/Electron-considered-harmful.html",
+    "votes": 6,
+    "posted": "Nov 24, 2016 5:50:16 PM"
+  },
+  {
+    "id": "13031155",
+    "timestamp": "Nov 24, 2016 6:01:26 PM",
+    "topic": "Why I don\u0027t like smartcards, HSMs, YubiKeys, etc.",
+    "url": "https://www.devever.net/~hl/smartcards",
+    "votes": 4,
+    "posted": "Nov 24, 2016 5:33:14 PM"
+  },
+  {
     "id": "13031027",
     "timestamp": "Nov 24, 2016 5:21:22 PM",
     "topic": "How we structure our work and teams at Basecamp",
@@ -8386,100 +8426,5 @@ var newsArray = [
     "url": "https://www.w3.org/blog/2016/11/html-5-1-is-the-gold-standard/",
     "votes": 4,
     "posted": "Nov 17, 2016 6:53:09 PM"
-  },
-  {
-    "id": "12979614",
-    "timestamp": "Nov 17, 2016 7:06:06 PM",
-    "topic": "How \u0027Minority Report\u0027 Trapped Us in a World of Bad Interfaces",
-    "url": "https://theawl.com/how-minority-report-trapped-us-in-a-world-of-bad-interfaces-d8d2d2af41da#.rwihipewn",
-    "votes": 5,
-    "posted": "Nov 17, 2016 6:45:38 PM"
-  },
-  {
-    "id": "12979489",
-    "timestamp": "Nov 17, 2016 7:06:06 PM",
-    "topic": "Show HN: SiteZen – Complete Web Design, Hosting and Domain Name for $50 a Month",
-    "url": "https://sitezen.co",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:33:41 PM"
-  },
-  {
-    "id": "12979424",
-    "timestamp": "Nov 17, 2016 6:46:04 PM",
-    "topic": "Trump administration will ban lobbyists",
-    "url": "https://www.washingtonpost.com/news/powerpost/wp/2016/11/16/trump-administration-will-ban-lobbyists-enact-five-year-lobbying-ban-after-leaving-government/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 6:27:06 PM"
-  },
-  {
-    "id": "12979401",
-    "timestamp": "Nov 17, 2016 6:46:04 PM",
-    "topic": "The Joy of Linux Desktop Environments",
-    "url": "https://medium.com/@steven_ovadia/the-joy-of-linux-desktop-environments-365d6cc8de72",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:25:22 PM"
-  },
-  {
-    "id": "12979394",
-    "timestamp": "Nov 17, 2016 10:26:25 PM",
-    "topic": "Apple could make iPhones in U.S.",
-    "url": "http://asia.nikkei.com/Business/AC/Apple-could-make-iPhones-in-US-in-future-sources",
-    "votes": 6,
-    "posted": "Nov 17, 2016 6:24:40 PM"
-  },
-  {
-    "id": "12979383",
-    "timestamp": "Nov 17, 2016 7:06:06 PM",
-    "topic": "Ask HN: What simple tools or products made you loads of money?",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:23:43 PM"
-  },
-  {
-    "id": "12979312",
-    "timestamp": "Nov 17, 2016 6:46:04 PM",
-    "topic": "Sand\u0027s End",
-    "url": "http://www.theverge.com/2016/11/17/13660014/miami-beach-sand-erosion-nourishment-climate-change",
-    "votes": 3,
-    "posted": "Nov 17, 2016 6:16:58 PM"
-  },
-  {
-    "id": "12979278",
-    "timestamp": "Nov 17, 2016 7:16:07 PM",
-    "topic": "Kubernetes Helm just shipped a stable 2.0",
-    "url": "https://deis.com/blog/2016/helm-is-now-stable/",
-    "votes": 9,
-    "posted": "Nov 17, 2016 6:14:24 PM"
-  },
-  {
-    "id": "12979270",
-    "timestamp": "Nov 18, 2016 8:57:20 AM",
-    "topic": "Show HN: Video conferencing web app with positioned audio",
-    "url": "https://inthelocus.com",
-    "votes": 5,
-    "posted": "Nov 17, 2016 6:13:13 PM"
-  },
-  {
-    "id": "12979195",
-    "timestamp": "Nov 17, 2016 6:16:00 PM",
-    "topic": "Apple\u0027s new storage technology reversed",
-    "url": "http://ramtin-amin.fr/#nvmepcie",
-    "votes": 4,
-    "posted": "Nov 17, 2016 6:05:06 PM"
-  },
-  {
-    "id": "12979108",
-    "timestamp": "Nov 17, 2016 8:26:13 PM",
-    "topic": "The Monkey and the Apple (2016)",
-    "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html",
-    "votes": 5,
-    "posted": "Nov 17, 2016 5:56:56 PM"
-  },
-  {
-    "id": "12979074",
-    "timestamp": "Nov 17, 2016 6:16:01 PM",
-    "topic": "Why Catholics Built Secret Astronomical Features into Churches",
-    "url": "http://www.atlasobscura.com/articles/catholics-built-secret-astronomical-features-into-churches-to-help-save-souls",
-    "votes": 5,
-    "posted": "Nov 17, 2016 5:53:41 PM"
   }
 ];
