@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13027128",
+    "timestamp": "Nov 24, 2016 2:19:59 AM",
+    "topic": "Strikingly (YC W13) is hiring in our Shanghai office",
+    "url": "http://www.strikingly.com/s/careers?utm_source\u003dhn\u0026utm_content\u003dsh",
+    "votes": 1,
+    "posted": "Nov 24, 2016 2:12:54 AM"
+  },
+  {
+    "id": "13027049",
+    "timestamp": "Nov 24, 2016 2:09:59 AM",
+    "topic": "A New Way to Think about Game Controllers: The New Steam Controller API",
+    "url": "http://boilingsteam.com/steam-dev-days-2016-the-steam-controller-api/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 1:54:31 AM"
+  },
+  {
     "id": "13027031",
     "timestamp": "Nov 24, 2016 1:59:58 AM",
     "topic": "Reddit CEO admits to altering user comments that were critical of him",
@@ -14,6 +30,14 @@ var newsArray = [
     "url": "http://arstechnica.com/science/2016/11/on-fiji-ants-have-learned-to-grow-plants-to-house-their-massive-colonies/",
     "votes": 4,
     "posted": "Nov 24, 2016 1:17:12 AM"
+  },
+  {
+    "id": "13026855",
+    "timestamp": "Nov 24, 2016 2:50:02 AM",
+    "topic": "Trump says he talked to Apple\u0027s CEO",
+    "url": "http://finance.yahoo.com/news/trump-says-talked-apples-ceo-165355358.html",
+    "votes": 3,
+    "posted": "Nov 24, 2016 1:06:56 AM"
   },
   {
     "id": "13026837",
@@ -8518,77 +8542,5 @@ var newsArray = [
     "url": "http://arstechnica.com/apple/2016/11/touch-bar-mbp-teardown-soldered-ssd-cosmetic-speaker-holes-and-more/",
     "votes": 3,
     "posted": "Nov 17, 2016 2:56:42 AM"
-  },
-  {
-    "id": "12973436",
-    "timestamp": "Nov 17, 2016 4:34:53 AM",
-    "topic": "USGS Estimates 20B Barrels of Oil in Texas’ Wolfcamp Shale Formation",
-    "url": "https://www.usgs.gov/news/usgs-estimates-20-billion-barrels-oil-texas-wolfcamp-shale-formation",
-    "votes": 5,
-    "posted": "Nov 17, 2016 2:38:42 AM"
-  },
-  {
-    "id": "12973344",
-    "timestamp": "Nov 17, 2016 3:04:46 AM",
-    "topic": "GridDB vs. Cassandra Benchmarks pitting the two found within",
-    "url": "https://www.griddb.net/en/blog/griddb-and-cassandra-ycsb-benchmarks/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 2:23:23 AM"
-  },
-  {
-    "id": "12973338",
-    "timestamp": "Nov 17, 2016 3:24:47 AM",
-    "topic": "Sybil – a fast and simple NoSQL OLAP",
-    "url": "https://github.com/logv/sybil",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:22:03 AM"
-  },
-  {
-    "id": "12973326",
-    "timestamp": "Nov 17, 2016 2:54:45 AM",
-    "topic": "Mexican pyramid has two more inside",
-    "url": "https://www.theguardian.com/world/2016/nov/17/mexican-pyramid-has-two-more-inside-scientists-discover",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:19:43 AM"
-  },
-  {
-    "id": "12973323",
-    "timestamp": "Nov 19, 2016 9:11:01 PM",
-    "topic": "On vagueness, or, when is a heap of sand not a heap of sand?",
-    "url": "https://aeon.co/ideas/on-vagueness-when-is-a-heap-of-sand-not-a-heap-of-sand",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:18:50 AM"
-  },
-  {
-    "id": "12973299",
-    "timestamp": "Nov 17, 2016 2:54:45 AM",
-    "topic": "Newsgate 2016",
-    "url": "https://sharylattkisson.com/newsgate-2016/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:14:39 AM"
-  },
-  {
-    "id": "12973292",
-    "timestamp": "Nov 17, 2016 2:54:45 AM",
-    "topic": "China Tells Trump That Climate Change Is No Hoax It Invented",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-16/china-tells-trump-that-climate-change-is-no-hoax-it-invented",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:13:12 AM"
-  },
-  {
-    "id": "12973264",
-    "timestamp": "Nov 17, 2016 4:14:51 AM",
-    "topic": "Tesla ‘Easter Egg’ Makes the World’s Fastest Car Even Faster",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-16/tesla-easter-egg-makes-the-world-s-fastest-car-even-faster",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:09:15 AM"
-  },
-  {
-    "id": "12973223",
-    "timestamp": "Nov 17, 2016 2:24:42 AM",
-    "topic": "SpaceX FCC Application for 4,425 Internet Satellites",
-    "url": "http://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/swr031b.hts?q_set\u003dV_SITE_ANTENNA_FREQ.file_numberC/File+Number/%3D/SATLOA2016111500118\u0026prepare\u003d\u0026column\u003dV_SITE_ANTENNA_FREQ.file_numberC/File+Number",
-    "votes": 3,
-    "posted": "Nov 17, 2016 2:01:09 AM"
   }
 ];
