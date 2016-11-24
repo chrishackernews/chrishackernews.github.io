@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13028978",
+    "timestamp": "Nov 24, 2016 9:30:39 AM",
+    "topic": "Bobby Prince (Composer of Doom, Duke Nukem Soundtrack) Medical Fund",
+    "url": "https://www.gofundme.com/bobby-prince-medical-fund-2vs94pg",
+    "votes": 3,
+    "posted": "Nov 24, 2016 9:10:59 AM"
+  },
+  {
     "id": "13028522",
     "timestamp": "Nov 24, 2016 7:30:30 AM",
     "topic": "Reddit’s CEO edited comments that criticized him",
     "url": "http://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments",
     "votes": 4,
     "posted": "Nov 24, 2016 7:04:57 AM"
+  },
+  {
+    "id": "13028440",
+    "timestamp": "Nov 24, 2016 9:50:41 AM",
+    "topic": "The Curse of the Modern Office",
+    "url": "http://www.lowtechmagazine.com/2016/11/the-curse-of-the-modern-office.html",
+    "votes": 4,
+    "posted": "Nov 24, 2016 6:42:51 AM"
+  },
+  {
+    "id": "13028438",
+    "timestamp": "Nov 24, 2016 9:50:41 AM",
+    "topic": "The consent of the governed: The hole at the heart of economics",
+    "url": "http://www.economist.com/blogs/freeexchange/2016/11/consent-governed?fsrc\u003dscn/fb/te/bl/ed/theconsentofthegovernedtheholeattheheartofeconomics",
+    "votes": 3,
+    "posted": "Nov 24, 2016 6:42:31 AM"
   },
   {
     "id": "13028428",
@@ -8600,37 +8624,5 @@ var newsArray = [
     "url": "http://daringfireball.net/linked/2016/11/16/sal-soghoian",
     "votes": 3,
     "posted": "Nov 17, 2016 10:00:58 AM"
-  },
-  {
-    "id": "12975587",
-    "timestamp": "Nov 17, 2016 10:45:23 AM",
-    "topic": "The Monkey and the Apple",
-    "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html",
-    "votes": 3,
-    "posted": "Nov 17, 2016 9:41:38 AM"
-  },
-  {
-    "id": "12975548",
-    "timestamp": "Nov 17, 2016 1:45:38 PM",
-    "topic": "A Hackerrank for sysadmins, devops, SREs",
-    "url": "https://blog.sysadminsarena.com/not-only-coders-are-hard-to-recruit-54c74ba9f742#.a2w0dd852",
-    "votes": 5,
-    "posted": "Nov 17, 2016 9:33:23 AM"
-  },
-  {
-    "id": "12975506",
-    "timestamp": "Nov 17, 2016 10:05:19 AM",
-    "topic": "Basic Mach-O binary parser",
-    "url": "https://github.com/afrighetto/Mach-O/blob/master/main.c",
-    "votes": 4,
-    "posted": "Nov 17, 2016 9:25:00 AM"
-  },
-  {
-    "id": "12975411",
-    "timestamp": "Nov 17, 2016 9:45:18 AM",
-    "topic": "Apple rejection of Indigenous app described as symptom of \u0027digital colonisation\u0027",
-    "url": "http://www.abc.net.au/news/2016-11-17/apple-drops-indigenous-app-creator-warns-of-digital-colonisation/8032904",
-    "votes": 3,
-    "posted": "Nov 17, 2016 9:07:18 AM"
   }
 ];
