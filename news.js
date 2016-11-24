@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13032487",
+    "timestamp": "Nov 24, 2016 9:31:43 PM",
+    "topic": "The stability of the bicycle (2006)",
+    "url": "http://scitation.aip.org/content/aip/magazine/physicstoday/article/59/9/10.1063/1.2364246",
+    "votes": 3,
+    "posted": "Nov 24, 2016 9:14:20 PM"
+  },
+  {
+    "id": "13032417",
+    "timestamp": "Nov 24, 2016 9:31:42 PM",
+    "topic": "Venezuela’s Currency Just Had the Biggest Monthly Collapse Ever",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-24/venezuela-s-currency-just-had-the-biggest-monthly-collapse-ever",
+    "votes": 3,
+    "posted": "Nov 24, 2016 9:01:41 PM"
+  },
+  {
+    "id": "13032405",
+    "timestamp": "Nov 24, 2016 9:41:43 PM",
+    "topic": "Myanmars war on the rohingya",
+    "url": "http://www.nytimes.com/2016/11/21/opinion/myanmars-war-on-the-rohingya.html?_r\u003d0",
+    "votes": 5,
+    "posted": "Nov 24, 2016 8:59:29 PM"
+  },
+  {
     "id": "13032237",
     "timestamp": "Nov 24, 2016 8:41:39 PM",
     "topic": "Zed Shaw: The End of Coder Influence",
@@ -21,6 +45,14 @@ var newsArray = [
     "topic": "Ask HN: Does it matter to be the first on the market?",
     "votes": 5,
     "posted": "Nov 24, 2016 8:20:13 PM"
+  },
+  {
+    "id": "13032199",
+    "timestamp": "Nov 24, 2016 9:01:40 PM",
+    "topic": "Edward Snowden Demonstrates How Easy It Is to Hack a Voting Machine",
+    "url": "http://ijr.com/wildfire/2016/11/731642-edward-snowden-demonstrates-how-easy-it-is-to-hack-a-voting-machine-all-for-just-30/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 8:19:42 PM"
   },
   {
     "id": "13031786",
@@ -8306,108 +8338,5 @@ var newsArray = [
     "url": "https://blog.sysadminsarena.com/classic-it-short-jokes-collection-great-after-a-busy-day-e5869f6076f8#.9rw8j2411",
     "votes": 4,
     "posted": "Nov 17, 2016 10:10:16 PM"
-  },
-  {
-    "id": "12981392",
-    "timestamp": "Nov 17, 2016 9:56:21 PM",
-    "topic": "The risks of becoming “Default Alive”",
-    "url": "https://hajak.se/the-danger-of-being-default-alive-6a9afee2f05e#.epail4h8x",
-    "votes": 3,
-    "posted": "Nov 17, 2016 9:48:55 PM"
-  },
-  {
-    "id": "12981389",
-    "timestamp": "Nov 18, 2016 8:17:17 AM",
-    "topic": "Opus Codec: royalty-free, better quality and lower latency than Vorbis/AAC/MP3",
-    "url": "http://www.opus-codec.org/comparison/",
-    "votes": 6,
-    "posted": "Nov 17, 2016 9:48:45 PM"
-  },
-  {
-    "id": "12981289",
-    "timestamp": "Nov 17, 2016 9:56:21 PM",
-    "topic": "Just Started the Hawaii iOS Developer Meetup",
-    "url": "https://davidneely.wordpress.com/2016/11/17/just-started-the-hawaii-ios-developer-meetup/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 9:38:49 PM"
-  },
-  {
-    "id": "12981181",
-    "timestamp": "Nov 17, 2016 9:36:19 PM",
-    "topic": "8M GitHub profiles were leaked from GeekedIn\u0027s MongoDB",
-    "url": "https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/",
-    "votes": 12,
-    "posted": "Nov 17, 2016 9:28:45 PM"
-  },
-  {
-    "id": "12981169",
-    "timestamp": "Nov 18, 2016 12:36:39 AM",
-    "topic": "Yellowstone Park accident victim dissolved in boiling acidic pool",
-    "url": "http://www.bbc.com/news/world-us-canada-38018209",
-    "votes": 5,
-    "posted": "Nov 17, 2016 9:27:10 PM"
-  },
-  {
-    "id": "12981152",
-    "timestamp": "Nov 17, 2016 9:56:21 PM",
-    "topic": "“Suck it up, Buttercup”",
-    "url": "http://www.csmonitor.com/USA/2016/1116/Iowa-bill-named-Suck-it-up-Buttercup-seeks-to-stop-student-coddling",
-    "votes": 7,
-    "posted": "Nov 17, 2016 9:26:04 PM"
-  },
-  {
-    "id": "12981119",
-    "timestamp": "Nov 18, 2016 4:46:59 AM",
-    "topic": "In two weeks, it will be easier for Uncle Sam to search your computer",
-    "url": "http://arstechnica.com/tech-policy/2016/11/judges-getting-new-powers-to-expand-electronic-surveillance-state/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 9:22:22 PM"
-  },
-  {
-    "id": "12981114",
-    "timestamp": "Nov 17, 2016 9:26:19 PM",
-    "topic": "Auro Robotics (YC S15) Is Hiring Software Engineer – Santa Clara,California",
-    "url": "https://jobs.lever.co/aurobots?lever-source\u003dYC",
-    "votes": 1,
-    "posted": "Nov 17, 2016 9:21:43 PM"
-  },
-  {
-    "id": "12981060",
-    "timestamp": "Nov 17, 2016 9:36:20 PM",
-    "topic": "Carmakers Plot a Future Without Google and Apple",
-    "url": "http://www.forbes.com/sites/bertelschmitt/2016/11/17/carmakers-plot-a-future-without-google-and-apple/#540d4c631079",
-    "votes": 4,
-    "posted": "Nov 17, 2016 9:15:59 PM"
-  },
-  {
-    "id": "12981055",
-    "timestamp": "Nov 17, 2016 9:26:19 PM",
-    "topic": "In 63 days Trump will inherit mass surveillance from Obama",
-    "url": "http://unplugthensa.org",
-    "votes": 13,
-    "posted": "Nov 17, 2016 9:15:15 PM"
-  },
-  {
-    "id": "12980932",
-    "timestamp": "Nov 17, 2016 10:46:28 PM",
-    "topic": "Ask HN: What book did you read in 2016 that was so good you gifted it to others?",
-    "votes": 8,
-    "posted": "Nov 17, 2016 9:04:34 PM"
-  },
-  {
-    "id": "12980888",
-    "timestamp": "Nov 17, 2016 9:16:18 PM",
-    "topic": "Half of US F-15s Need Overhauls or Retirement",
-    "url": "http://www.defenseone.com/technology/2016/11/decision-time-half-americas-f-15s-need-overhauls-or-retirement/133206/?oref\u003dsite-defenseone-flyin-sailthru",
-    "votes": 3,
-    "posted": "Nov 17, 2016 9:00:37 PM"
-  },
-  {
-    "id": "12980857",
-    "timestamp": "Nov 17, 2016 9:16:18 PM",
-    "topic": "Welcome Aaron, Gustaf, Lyle, Immad and Marcus",
-    "url": "http://ycblog.ycombinator.com/welcome-aaron-gustaf-lyle-immad-and-marcus",
-    "votes": 7,
-    "posted": "Nov 17, 2016 8:56:13 PM"
   }
 ];
