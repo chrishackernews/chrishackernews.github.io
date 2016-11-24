@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13030278",
+    "timestamp": "Nov 24, 2016 3:21:08 PM",
+    "topic": "Firefox 57 scheduled Nov 2017 will support WebExtensions exclusively",
+    "url": "https://blog.mozilla.org/addons/2016/11/23/add-ons-in-2017/",
+    "votes": 6,
+    "posted": "Nov 24, 2016 2:44:18 PM"
+  },
+  {
     "id": "13029941",
     "timestamp": "Nov 24, 2016 2:41:04 PM",
     "topic": "US auto industry installed 135,000 robots and added 230,000 jobs",
@@ -8452,123 +8460,5 @@ var newsArray = [
     "url": "http://www.forbes.com/sites/thomasbrewster/2016/11/17/iphone-call-logs-in-icloud-warns-elcomsoft-hackers/#7f66682a2936",
     "votes": 11,
     "posted": "Nov 17, 2016 3:52:49 PM"
-  },
-  {
-    "id": "12977860",
-    "timestamp": "Nov 17, 2016 5:35:57 PM",
-    "topic": "Ask HN: How do you stay focused while it\u0027s compiling?",
-    "votes": 5,
-    "posted": "Nov 17, 2016 3:50:13 PM"
-  },
-  {
-    "id": "12977846",
-    "timestamp": "Nov 18, 2016 7:18:19 PM",
-    "topic": "Show HN: Ava – an app to make conversations accessible for the deaf/hoh",
-    "url": "http://www.ava.me",
-    "votes": 7,
-    "posted": "Nov 17, 2016 3:48:45 PM"
-  },
-  {
-    "id": "12977789",
-    "timestamp": "Nov 17, 2016 3:55:48 PM",
-    "topic": "Proposal to Twitter. I want to pay for my account",
-    "url": "https://twitter.com/tomas_dobrotka/status/799260630423310336",
-    "votes": 8,
-    "posted": "Nov 17, 2016 3:41:20 PM"
-  },
-  {
-    "id": "12977719",
-    "timestamp": "Nov 17, 2016 3:45:47 PM",
-    "topic": "Introducing Firefox Focus – a free, fast and easy to use private browser for iOS",
-    "url": "https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/",
-    "votes": 10,
-    "posted": "Nov 17, 2016 3:33:23 PM"
-  },
-  {
-    "id": "12977718",
-    "timestamp": "Nov 17, 2016 3:55:49 PM",
-    "topic": "Using technology to stop Trump",
-    "url": "https://medium.com/@andymoon/how-we-can-fight-back-c1c3605c57ad#.t87ydzmoz",
-    "votes": 3,
-    "posted": "Nov 17, 2016 3:33:11 PM"
-  },
-  {
-    "id": "12977713",
-    "timestamp": "Nov 17, 2016 3:55:48 PM",
-    "topic": "Parsing malformed JSON",
-    "url": "https://peteris.rocks/blog/parsing-malformed-json/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 3:32:36 PM"
-  },
-  {
-    "id": "12977668",
-    "timestamp": "Nov 17, 2016 3:35:45 PM",
-    "topic": "12.1 kills ram allocation 8gb for non PRO version?",
-    "url": "https://forum.parallels.com/threads/12-1-kills-ram-allocation-8gb-for-non-pro-version.338853/",
-    "votes": 13,
-    "posted": "Nov 17, 2016 3:26:13 PM"
-  },
-  {
-    "id": "12977662",
-    "timestamp": "Nov 17, 2016 3:45:47 PM",
-    "topic": "The U.S. Census Bureau Gave Up Names of Japanese-Americans in WW II",
-    "url": "https://www.scientificamerican.com/article/confirmed-the-us-census-b/",
-    "votes": 7,
-    "posted": "Nov 17, 2016 3:25:40 PM"
-  },
-  {
-    "id": "12977642",
-    "timestamp": "Nov 17, 2016 3:45:47 PM",
-    "topic": "How Gamification Creates Engagement",
-    "url": "https://getbadges.io/blog/why-gamification-works-part-2-engagement",
-    "votes": 7,
-    "posted": "Nov 17, 2016 3:23:22 PM"
-  },
-  {
-    "id": "12977633",
-    "timestamp": "Nov 17, 2016 3:35:46 PM",
-    "topic": "You Are Still Crying Wolf",
-    "url": "http://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 3:22:17 PM"
-  },
-  {
-    "id": "12977612",
-    "timestamp": "Nov 17, 2016 3:55:48 PM",
-    "topic": "iPhone sends call logs to Apple servers even when iCloud backup switched off",
-    "url": "https://9to5mac.com/2016/11/17/elcomsoft-iphone-call-logs-icloud-drive/",
-    "votes": 7,
-    "posted": "Nov 17, 2016 3:18:39 PM"
-  },
-  {
-    "id": "12977591",
-    "timestamp": "Nov 17, 2016 3:55:48 PM",
-    "topic": "Baidu’s self-driving cars begin public test in China",
-    "url": "https://techcrunch.com/2016/11/17/baidus-self-driving-cars-begin-public-test-in-wuzhen-china/",
-    "votes": 6,
-    "posted": "Nov 17, 2016 3:16:06 PM"
-  },
-  {
-    "id": "12977572",
-    "timestamp": "Nov 17, 2016 5:55:59 PM",
-    "topic": "Ask HN:Any way to measure how much I speak?",
-    "votes": 4,
-    "posted": "Nov 17, 2016 3:14:03 PM"
-  },
-  {
-    "id": "12977556",
-    "timestamp": "Nov 17, 2016 3:35:46 PM",
-    "topic": "Facebook fake news writer: Trump supporters lapped up stuff I completely made up",
-    "url": "https://www.washingtonpost.com/news/the-intersect/wp/2016/11/17/facebook-fake-news-writer-i-think-donald-trump-is-in-the-white-house-because-of-me/",
-    "votes": 9,
-    "posted": "Nov 17, 2016 3:12:11 PM"
-  },
-  {
-    "id": "12977484",
-    "timestamp": "Nov 17, 2016 3:55:49 PM",
-    "topic": "What Can We Expect from the Internet in 2020? Ilya Grigorik",
-    "url": "https://www.youtube.com/watch?v\u003dx4S38hpgxuM",
-    "votes": 3,
-    "posted": "Nov 17, 2016 3:03:17 PM"
   }
 ];
