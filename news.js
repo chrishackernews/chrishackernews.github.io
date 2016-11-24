@@ -1,5 +1,28 @@
 var newsArray = [
   {
+    "id": "13032237",
+    "timestamp": "Nov 24, 2016 8:41:39 PM",
+    "topic": "Zed Shaw: The End of Coder Influence",
+    "url": "https://zedshaw.com/2016/11/24/the-end-of-coder-influence/",
+    "votes": 10,
+    "posted": "Nov 24, 2016 8:27:02 PM"
+  },
+  {
+    "id": "13032210",
+    "timestamp": "Nov 24, 2016 8:31:38 PM",
+    "topic": "Why squared error?",
+    "url": "http://www.benkuhn.net/squared",
+    "votes": 3,
+    "posted": "Nov 24, 2016 8:22:16 PM"
+  },
+  {
+    "id": "13032202",
+    "timestamp": "Nov 24, 2016 8:31:38 PM",
+    "topic": "Ask HN: Does it matter to be the first on the market?",
+    "votes": 5,
+    "posted": "Nov 24, 2016 8:20:13 PM"
+  },
+  {
     "id": "13031786",
     "timestamp": "Nov 24, 2016 7:21:32 PM",
     "topic": "PINEBOOK ARM Linux Laptop Powered by Allwinner A64 CPU to Sell for $89 and Up",
@@ -62,6 +85,14 @@ var newsArray = [
     "url": "https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.lvp8eimw3",
     "votes": 3,
     "posted": "Nov 24, 2016 5:14:41 PM"
+  },
+  {
+    "id": "13031012",
+    "timestamp": "Nov 24, 2016 8:31:38 PM",
+    "topic": "Android N Encryption",
+    "url": "https://blog.cryptographyengineering.com/2016/11/24/android-n-encryption/",
+    "votes": 6,
+    "posted": "Nov 24, 2016 5:13:15 PM"
   },
   {
     "id": "13031009",
@@ -157,6 +188,14 @@ var newsArray = [
     "topic": "Consciousness is a recurrent neural network",
     "votes": 8,
     "posted": "Nov 24, 2016 3:22:33 PM"
+  },
+  {
+    "id": "13030384",
+    "timestamp": "Nov 24, 2016 8:51:39 PM",
+    "topic": "Show HN: RediSQL a redis module with SQL capabilities",
+    "url": "http://github.com/siscia/rediSQL/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 3:13:19 PM"
   },
   {
     "id": "13030344",
@@ -1970,6 +2009,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 1:43:37 AM"
   },
   {
+    "id": "13018978",
+    "timestamp": "Nov 24, 2016 8:51:39 PM",
+    "topic": "Astral Travels with Jack London",
+    "url": "http://publicdomainreview.org/2016/11/22/astral-travels-with-jack-london/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 1:40:27 AM"
+  },
+  {
     "id": "13018851",
     "timestamp": "Nov 23, 2016 1:47:50 AM",
     "topic": "Let\u0027s Encrypt Everything",
@@ -3382,6 +3429,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dXKu_SEDAykw",
     "votes": 5,
     "posted": "Nov 22, 2016 12:49:11 AM"
+  },
+  {
+    "id": "13010341",
+    "timestamp": "Nov 24, 2016 8:21:37 PM",
+    "topic": "Man\u0027s Best Fiend",
+    "url": "http://www.historytoday.com/tyler-d-parry/man’s-best-fiend",
+    "votes": 3,
+    "posted": "Nov 22, 2016 12:40:41 AM"
   },
   {
     "id": "13010337",
@@ -8354,53 +8409,5 @@ var newsArray = [
     "url": "http://ycblog.ycombinator.com/welcome-aaron-gustaf-lyle-immad-and-marcus",
     "votes": 7,
     "posted": "Nov 17, 2016 8:56:13 PM"
-  },
-  {
-    "id": "12980648",
-    "timestamp": "Nov 17, 2016 8:56:15 PM",
-    "topic": "Global warming: The state of the climate in 2016",
-    "url": "http://www.economist.com/blogs/graphicdetail/2016/11/global-warming?fsrc\u003dscn/tw/te/bl/ed/globalwarmingthestateoftheclimatein2016",
-    "votes": 8,
-    "posted": "Nov 17, 2016 8:33:32 PM"
-  },
-  {
-    "id": "12980500",
-    "timestamp": "Nov 17, 2016 8:46:14 PM",
-    "topic": "Patent application by USC: Fasting condition as dietary treatment of diabetes",
-    "url": "https://www.google.com/patents/US20150004280",
-    "votes": 4,
-    "posted": "Nov 17, 2016 8:17:57 PM"
-  },
-  {
-    "id": "12980466",
-    "timestamp": "Nov 18, 2016 4:28:03 PM",
-    "topic": "Inside the world of Australian opal miners who live underground",
-    "url": "https://www.washingtonpost.com/news/in-sight/wp/2016/11/16/inside-the-world-of-australian-opal-miners-who-live-underground/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 8:14:49 PM"
-  },
-  {
-    "id": "12980440",
-    "timestamp": "Nov 17, 2016 8:26:12 PM",
-    "topic": "U.S. chicken prices may have been artificially inflated for years",
-    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/17/internal-document-supports-argument-that-u-s-chicken-prices-have-been-artificially-inflated-for-years/",
-    "votes": 8,
-    "posted": "Nov 17, 2016 8:12:33 PM"
-  },
-  {
-    "id": "12980380",
-    "timestamp": "Nov 17, 2016 8:26:13 PM",
-    "topic": "Do not change Linux files using Windows apps and tools",
-    "url": "https://blogs.msdn.microsoft.com/commandline/2016/11/17/do-not-change-linux-files-using-windows-apps-and-tools/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 8:07:20 PM"
-  },
-  {
-    "id": "12980236",
-    "timestamp": "Nov 17, 2016 9:56:21 PM",
-    "topic": "Udacity Blitz: On-Demand Software from Udacity Grads",
-    "url": "https://blitz.com/",
-    "votes": 7,
-    "posted": "Nov 17, 2016 7:53:22 PM"
   }
 ];
