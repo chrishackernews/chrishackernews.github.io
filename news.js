@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13027031",
+    "timestamp": "Nov 24, 2016 1:59:58 AM",
+    "topic": "Reddit CEO admits to altering user comments that were critical of him",
+    "url": "https://www.reddit.com/r/The_Donald/comments/5ekdy9/the_admins_are_suffering_from_low_energy_have/dad5sf1/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 1:50:34 AM"
+  },
+  {
+    "id": "13026903",
+    "timestamp": "Nov 24, 2016 1:59:58 AM",
+    "topic": "On Fiji, ants have learned to grow plants to house their massive colonies",
+    "url": "http://arstechnica.com/science/2016/11/on-fiji-ants-have-learned-to-grow-plants-to-house-their-massive-colonies/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 1:17:12 AM"
+  },
+  {
+    "id": "13026837",
+    "timestamp": "Nov 24, 2016 1:29:55 AM",
+    "topic": "Skyscanner acquired by Ctrip for $1.7B",
+    "url": "http://ir.ctrip.com/phoenix.zhtml?c\u003d148903\u0026p\u003dirol-newsArticle\u0026ID\u003d2225618",
+    "votes": 7,
+    "posted": "Nov 24, 2016 1:02:39 AM"
+  },
+  {
+    "id": "13026802",
+    "timestamp": "Nov 24, 2016 1:19:55 AM",
+    "topic": "With Clinton out of the way, fake news writers are going after Elon Musk",
+    "url": "http://qz.com/844425/fake-news-is-the-newest-strategy-for-taking-down-elon-musk-tesla-tsla-and-solarcity/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 12:56:11 AM"
+  },
+  {
+    "id": "13026778",
+    "timestamp": "Nov 24, 2016 1:29:55 AM",
+    "topic": "Fascism and the Historical Irony of Facebook’s “Fake News” Problem",
+    "url": "https://medium.com/initialized-capital/fascism-and-the-historical-irony-of-facebooks-fake-news-problem-d744b05045fd#.b926mqmgb",
+    "votes": 6,
+    "posted": "Nov 24, 2016 12:52:07 AM"
+  },
+  {
     "id": "13026606",
     "timestamp": "Nov 24, 2016 12:59:53 AM",
     "topic": "Apollo software engineer Margaret H. receives Presidential Medal of Freedom",
@@ -14,6 +54,22 @@ var newsArray = [
     "url": "https://www.newscientist.com/article/2111371-face-electrodes-let-you-taste-and-chew-in-virtual-reality/",
     "votes": 3,
     "posted": "Nov 24, 2016 12:19:52 AM"
+  },
+  {
+    "id": "13026547",
+    "timestamp": "Nov 24, 2016 1:39:56 AM",
+    "topic": "Prominent liberal writers receive govt hacking warning from Google",
+    "url": "https://twitter.com/paulkrugman/status/801473411943923712?",
+    "votes": 4,
+    "posted": "Nov 24, 2016 12:12:06 AM"
+  },
+  {
+    "id": "13026467",
+    "timestamp": "Nov 24, 2016 1:39:56 AM",
+    "topic": "AI winter",
+    "url": "https://en.wikipedia.org/wiki/AI_winter",
+    "votes": 6,
+    "posted": "Nov 23, 2016 11:56:16 PM"
   },
   {
     "id": "13026427",
@@ -224,6 +280,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 7:41:42 PM"
   },
   {
+    "id": "13024719",
+    "timestamp": "Nov 24, 2016 1:09:54 AM",
+    "topic": "The Unfixable Bug",
+    "url": "http://www.ilikebigbits.com/blog/2016/11/22/the-unfixable-bug",
+    "votes": 3,
+    "posted": "Nov 23, 2016 7:39:34 PM"
+  },
+  {
     "id": "13024702",
     "timestamp": "Nov 23, 2016 8:19:24 PM",
     "topic": "Show HN: Functional programming for modern Fortran",
@@ -246,6 +310,14 @@ var newsArray = [
     "url": "https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html",
     "votes": 14,
     "posted": "Nov 23, 2016 7:30:44 PM"
+  },
+  {
+    "id": "13024615",
+    "timestamp": "Nov 24, 2016 1:09:54 AM",
+    "topic": "Firestorm: An Open Source Forum in Phoenix from ElixirSips/DailyDrip",
+    "url": "https://twitter.com/dailydripcom/status/801482197312147460",
+    "votes": 11,
+    "posted": "Nov 23, 2016 7:27:45 PM"
   },
   {
     "id": "13024547",
@@ -8518,45 +8590,5 @@ var newsArray = [
     "url": "http://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/swr031b.hts?q_set\u003dV_SITE_ANTENNA_FREQ.file_numberC/File+Number/%3D/SATLOA2016111500118\u0026prepare\u003d\u0026column\u003dV_SITE_ANTENNA_FREQ.file_numberC/File+Number",
     "votes": 3,
     "posted": "Nov 17, 2016 2:01:09 AM"
-  },
-  {
-    "id": "12973203",
-    "timestamp": "Nov 17, 2016 2:14:42 AM",
-    "topic": "Why Wikipedia is Dying",
-    "url": "https://medium.com/@andrewjho/why-wikipedia-is-dying-f2e5604df62f#.uwtahyxqf",
-    "votes": 3,
-    "posted": "Nov 17, 2016 1:56:29 AM"
-  },
-  {
-    "id": "12973181",
-    "timestamp": "Nov 17, 2016 2:04:41 AM",
-    "topic": "Site requests bank logins for online purchases",
-    "url": "https://lolware.net/2016/11/17/requesting_bank_login.html",
-    "votes": 5,
-    "posted": "Nov 17, 2016 1:52:28 AM"
-  },
-  {
-    "id": "12973176",
-    "timestamp": "Nov 17, 2016 4:54:55 AM",
-    "topic": "14 Year Old Builds Communication Device for Brain-Injured Friend",
-    "url": "http://makezine.com/2016/11/16/14-year-old-builds-communication-device-brain-injured-friend/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 1:51:37 AM"
-  },
-  {
-    "id": "12973057",
-    "timestamp": "Nov 17, 2016 3:44:49 AM",
-    "topic": "15kb of CSS is all you’ll ever need ️",
-    "url": "https://medium.com/@philipardeljan/15kb-of-css-is-all-youll-ever-need-%EF%B8%8F-634da7258338#.s7ejsmt0l",
-    "votes": 4,
-    "posted": "Nov 17, 2016 1:32:41 AM"
-  },
-  {
-    "id": "12972931",
-    "timestamp": "Nov 17, 2016 2:04:41 AM",
-    "topic": "5M jobs will be lost by 2020",
-    "url": "https://www.weforum.org/press/2016/01/five-million-jobs-by-2020-the-real-challenge-of-the-fourth-industrial-revolution/",
-    "votes": 3,
-    "posted": "Nov 17, 2016 1:11:09 AM"
   }
 ];
