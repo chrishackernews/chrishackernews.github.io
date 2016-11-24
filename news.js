@@ -1,11 +1,83 @@
 var newsArray = [
   {
+    "id": "13027834",
+    "timestamp": "Nov 24, 2016 4:50:13 AM",
+    "topic": "Personal data for more than 130,000 U.S. Navy sailors hacked",
+    "url": "http://reuters.com/article/newsOne/idUSKBN13J001",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:39:56 AM"
+  },
+  {
+    "id": "13027754",
+    "timestamp": "Nov 24, 2016 4:30:10 AM",
+    "topic": "The CEO of Reddit confessed to modifying posts from Trump supporters",
+    "url": "https://www.yahoo.com/news/ceo-reddit-confessed-modifying-posts-022041192.html",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:21:02 AM"
+  },
+  {
+    "id": "13027718",
+    "timestamp": "Nov 24, 2016 4:30:10 AM",
+    "topic": "MacOS 10.12 Open Source",
+    "url": "https://opensource.apple.com/release/os-x-1012.html",
+    "votes": 11,
+    "posted": "Nov 24, 2016 4:13:06 AM"
+  },
+  {
+    "id": "13027699",
+    "timestamp": "Nov 24, 2016 4:20:09 AM",
+    "topic": "JP Morgan released its implementation of a permissioned version of Ethereum",
+    "url": "https://github.com/jpmorganchase/quorum",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:06:01 AM"
+  },
+  {
+    "id": "13027612",
+    "timestamp": "Nov 24, 2016 4:20:09 AM",
+    "topic": "Fake News May Not Be Protected Speech",
+    "url": "https://www.bloomberg.com/view/articles/2016-11-23/fake-news-may-not-be-protected-speech",
+    "votes": 3,
+    "posted": "Nov 24, 2016 3:46:47 AM"
+  },
+  {
+    "id": "13027561",
+    "timestamp": "Nov 24, 2016 4:00:08 AM",
+    "topic": "Hotel chain faces legal action over claims of \u0027masking\u0027 TripAdvisor complaints",
+    "url": "http://www.abc.net.au/news/2016-11-24/meriton-faces-legal-action-over-masking-tripadvisor-claims/8053954",
+    "votes": 3,
+    "posted": "Nov 24, 2016 3:34:50 AM"
+  },
+  {
+    "id": "13027512",
+    "timestamp": "Nov 24, 2016 4:10:08 AM",
+    "topic": "Judge blocks Obama overtime rule, putting it in jeopardy",
+    "url": "http://thehill.com/policy/finance/307295-judge-blocks-obama-overtime-rule",
+    "votes": 3,
+    "posted": "Nov 24, 2016 3:22:00 AM"
+  },
+  {
     "id": "13027506",
     "timestamp": "Nov 24, 2016 3:30:05 AM",
     "topic": "FreeBSD on a MacBook Pro",
     "url": "https://gist.github.com/mpasternacki/974e29d1e3865e940c53",
     "votes": 5,
     "posted": "Nov 24, 2016 3:20:36 AM"
+  },
+  {
+    "id": "13027481",
+    "timestamp": "Nov 24, 2016 4:50:13 AM",
+    "topic": "A Rebuttal for Python 3",
+    "url": "https://eev.ee/blog/2016/11/23/a-rebuttal-for-python-3/",
+    "votes": 5,
+    "posted": "Nov 24, 2016 3:15:05 AM"
+  },
+  {
+    "id": "13027392",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "cURL Security Audit",
+    "url": "https://daniel.haxx.se/blog/2016/11/23/curl-security-audit/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 2:55:02 AM"
   },
   {
     "id": "13027231",
@@ -64,12 +136,28 @@ var newsArray = [
     "posted": "Nov 24, 2016 1:17:12 AM"
   },
   {
+    "id": "13026864",
+    "timestamp": "Nov 24, 2016 4:30:11 AM",
+    "topic": "How Spark, Scala, and Functional Programming Made Hard Problems Easy at Barclays",
+    "url": "https://blog.cloudera.com/blog/2015/08/how-apache-spark-scala-and-functional-programming-made-hard-problems-easy-at-barclays/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 1:09:07 AM"
+  },
+  {
     "id": "13026855",
     "timestamp": "Nov 24, 2016 2:50:02 AM",
     "topic": "Trump says he talked to Apple\u0027s CEO",
     "url": "http://finance.yahoo.com/news/trump-says-talked-apples-ceo-165355358.html",
     "votes": 3,
     "posted": "Nov 24, 2016 1:06:56 AM"
+  },
+  {
+    "id": "13026851",
+    "timestamp": "Nov 24, 2016 4:30:11 AM",
+    "topic": "A Visual Explanation of SQL Joins",
+    "url": "https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/",
+    "votes": 3,
+    "posted": "Nov 24, 2016 1:06:32 AM"
   },
   {
     "id": "13026837",
@@ -168,12 +256,28 @@ var newsArray = [
     "posted": "Nov 23, 2016 11:32:39 PM"
   },
   {
+    "id": "13026308",
+    "timestamp": "Nov 24, 2016 4:30:10 AM",
+    "topic": "Polymorphism, subtyping and type inference in MLsub",
+    "url": "http://lambda-the-ultimate.org/node/5393",
+    "votes": 3,
+    "posted": "Nov 23, 2016 11:30:08 PM"
+  },
+  {
     "id": "13026114",
     "timestamp": "Nov 23, 2016 11:49:47 PM",
     "topic": "Python at StackOverflow (an Interview with Martijn Pieters)",
     "url": "https://talkpython.fm/episodes/show/86/python-at-stackoverflow",
     "votes": 3,
     "posted": "Nov 23, 2016 10:59:50 PM"
+  },
+  {
+    "id": "13026100",
+    "timestamp": "Nov 24, 2016 4:30:11 AM",
+    "topic": "Twitter needs a drastic plan to save itself. Here it is",
+    "url": "http://www.slate.com/articles/technology/bitwise/2016/01/twitter_needs_a_drastic_plan_to_save_itself_here_it_is.html",
+    "votes": 3,
+    "posted": "Nov 23, 2016 10:57:47 PM"
   },
   {
     "id": "13026089",
@@ -200,12 +304,27 @@ var newsArray = [
     "posted": "Nov 23, 2016 10:26:21 PM"
   },
   {
+    "id": "13025855",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "Deep Learning with Tensorflow Course by Big Data University",
+    "url": "https://bigdatauniversity.com/courses/deep-learning-tensorflow/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 10:08:53 PM"
+  },
+  {
     "id": "13025854",
     "timestamp": "Nov 23, 2016 10:39:39 PM",
     "topic": "UK Porn websites to be banned from showing some sex acts under proposed law",
     "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/porn-websites-sites-pages-videos-internet-adult-uk-digital-economy-bill-a7433551.html",
     "votes": 3,
     "posted": "Nov 23, 2016 10:08:53 PM"
+  },
+  {
+    "id": "13025763",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "Ask HN: What are you hacking on this weekend?",
+    "votes": 7,
+    "posted": "Nov 23, 2016 9:53:26 PM"
   },
   {
     "id": "13025588",
@@ -256,6 +375,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 9:14:24 PM"
   },
   {
+    "id": "13025446",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "How IT Companies Can Get Through the AdWords Valley of Death",
+    "url": "http://kraftblick.com/blog/how-it-companies-targeting-western-markets-can-get-through-the-adwords-valley-of-death/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 9:08:20 PM"
+  },
+  {
     "id": "13025378",
     "timestamp": "Nov 23, 2016 11:59:48 PM",
     "topic": "Mark Zuckerberg is the most powerful person on Earth. But is he responsible?",
@@ -278,6 +405,14 @@ var newsArray = [
     "url": "http://motherboard.vice.com/read/uk-cops-are-trying-to-remove-spy-gear-records-from-the-web",
     "votes": 4,
     "posted": "Nov 23, 2016 8:54:21 PM"
+  },
+  {
+    "id": "13025210",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "90 age-discrimination suits reflect growing issue for tech",
+    "url": "http://www.usatoday.com/story/tech/news/2016/11/22/90-age-discrimination-suits-reflect-growing-issue-tech/93110594/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:40:34 PM"
   },
   {
     "id": "13025209",
@@ -336,6 +471,22 @@ var newsArray = [
     "posted": "Nov 23, 2016 8:12:14 PM"
   },
   {
+    "id": "13024902",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "One warrant used to target thousands of child porn suspects in 120 countries",
+    "url": "http://arstechnica.com/tech-policy/2016/11/one-warrant-used-to-target-thousands-of-child-porn-suspects-in-120-countries/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:04:06 PM"
+  },
+  {
+    "id": "13024754",
+    "timestamp": "Nov 24, 2016 4:40:12 AM",
+    "topic": "On the internet, there is only Alice",
+    "url": "http://eccentric-authentication.org/blog/2016/11/18/on-the-internet-there-is-only-alice/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 7:44:36 PM"
+  },
+  {
     "id": "13024736",
     "timestamp": "Nov 23, 2016 8:19:25 PM",
     "topic": "On Thanksgiving Week, Native Americans Are Being Tear-Gassed in North Dakota",
@@ -366,6 +517,14 @@ var newsArray = [
     "url": "http://daurnimator.github.io/lua.vm.js/lua.vm.js.html",
     "votes": 5,
     "posted": "Nov 23, 2016 7:32:00 PM"
+  },
+  {
+    "id": "13024660",
+    "timestamp": "Nov 24, 2016 4:20:09 AM",
+    "topic": "Why women make noise during sex",
+    "url": "http://www.ua-magazine.com/why-women-make-noise-during-sex/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 7:31:30 PM"
   },
   {
     "id": "13024651",
@@ -478,6 +637,14 @@ var newsArray = [
     "posted": "Nov 23, 2016 5:48:46 PM"
   },
   {
+    "id": "13023804",
+    "timestamp": "Nov 24, 2016 4:50:16 AM",
+    "topic": "Building a fault-tolerant Telegram bot",
+    "url": "https://medium.com/@zhebrak/building-a-fault-tolerant-telegram-bot-ec9054a07b8c",
+    "votes": 3,
+    "posted": "Nov 23, 2016 5:45:43 PM"
+  },
+  {
     "id": "13023787",
     "timestamp": "Nov 23, 2016 6:29:14 PM",
     "topic": "Vote what you want the Webpack team to focus on",
@@ -486,12 +653,28 @@ var newsArray = [
     "posted": "Nov 23, 2016 5:43:36 PM"
   },
   {
+    "id": "13023745",
+    "timestamp": "Nov 24, 2016 4:50:15 AM",
+    "topic": "This is your brain on JS",
+    "url": "https://codeandtalk.com/v/empirejs-2016/tara-lindhal-this-is-your-brain-on-js",
+    "votes": 3,
+    "posted": "Nov 23, 2016 5:38:09 PM"
+  },
+  {
     "id": "13023683",
     "timestamp": "Nov 23, 2016 5:49:11 PM",
     "topic": "GuriVR",
     "url": "https://gurivr.com/",
     "votes": 3,
     "posted": "Nov 23, 2016 5:27:37 PM"
+  },
+  {
+    "id": "13023629",
+    "timestamp": "Nov 24, 2016 4:50:16 AM",
+    "topic": "Amazon declares war on Ticketmaster with new ticketing service",
+    "url": "http://consequenceofsound.net/2016/11/amazon-declares-war-on-ticketmaster-with-new-ticketing-service/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 5:19:16 PM"
   },
   {
     "id": "13023565",
@@ -508,6 +691,14 @@ var newsArray = [
     "url": "http://www.10zenmonkeys.com/2016/11/22/mark-zuckerberg-is-a-hypocrite/",
     "votes": 18,
     "posted": "Nov 23, 2016 4:55:59 PM"
+  },
+  {
+    "id": "13023323",
+    "timestamp": "Nov 24, 2016 4:50:15 AM",
+    "topic": "Enhancing webcams with canvas.captureStream()",
+    "url": "https://blog.mozilla.org/webrtc/enhancing-webcam-using-capturestream/",
+    "votes": 4,
+    "posted": "Nov 23, 2016 4:40:23 PM"
   },
   {
     "id": "13023309",
@@ -8465,82 +8656,5 @@ var newsArray = [
     "url": "https://techcrunch.com/2016/11/16/the-5-poisontap-quickly-completely-hijacks-even-a-locked-computers-internet/",
     "votes": 4,
     "posted": "Nov 17, 2016 4:59:53 AM"
-  },
-  {
-    "id": "12974073",
-    "timestamp": "Nov 17, 2016 11:26:32 PM",
-    "topic": "Ask HN: Scientist missing in Honduras, can anyone help?",
-    "votes": 12,
-    "posted": "Nov 17, 2016 4:49:49 AM"
-  },
-  {
-    "id": "12974055",
-    "timestamp": "Nov 17, 2016 5:04:56 AM",
-    "topic": "Ask HN: How do I make my HOA to make their online payment page secure?",
-    "votes": 4,
-    "posted": "Nov 17, 2016 4:46:13 AM"
-  },
-  {
-    "id": "12974051",
-    "timestamp": "Nov 17, 2016 5:55:00 AM",
-    "topic": "Insomnia Progress Report 1",
-    "url": "https://insomnia.rest/blog/progress-report-1/",
-    "votes": 4,
-    "posted": "Nov 17, 2016 4:45:24 AM"
-  },
-  {
-    "id": "12973993",
-    "timestamp": "Nov 17, 2016 5:04:56 AM",
-    "topic": "Place recognition with WiFi fingerprints using Autoencoders and Neural Networks",
-    "url": "https://github.com/aqibsaeed/Place-Recognition-using-Autoencoders-and-NN",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:31:55 AM"
-  },
-  {
-    "id": "12973979",
-    "timestamp": "Nov 17, 2016 5:44:59 AM",
-    "topic": "Ask HN: How much do Uber drivers really make?",
-    "votes": 7,
-    "posted": "Nov 17, 2016 4:29:08 AM"
-  },
-  {
-    "id": "12973967",
-    "timestamp": "Nov 17, 2016 4:44:54 AM",
-    "topic": "Todoist uses machine learning to predict your task due dates",
-    "url": "http://blog.todoist.com/2016/11/16/todoist-smart-schedule",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:25:17 AM"
-  },
-  {
-    "id": "12973964",
-    "timestamp": "Nov 17, 2016 5:04:56 AM",
-    "topic": "Algorithmic fitting of japanese candy",
-    "url": "https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy",
-    "votes": 3,
-    "posted": "Nov 17, 2016 4:23:47 AM"
-  },
-  {
-    "id": "12973939",
-    "timestamp": "Nov 17, 2016 4:54:55 AM",
-    "topic": "Twitter Suspends Prominent Alt-Right Accounts",
-    "url": "http://www.npr.org/sections/thetwo-way/2016/11/16/502349250/twitter-suspends-prominent-alt-right-accounts",
-    "votes": 6,
-    "posted": "Nov 17, 2016 4:17:09 AM"
-  },
-  {
-    "id": "12973878",
-    "timestamp": "Nov 17, 2016 8:55:14 AM",
-    "topic": "Microsoft Joins the Linux Foundation as a Platinum Member",
-    "url": "http://venturebeat.com/2016/11/16/microsoft-joins-the-linux-foundation-as-a-platinum-member/",
-    "votes": 5,
-    "posted": "Nov 17, 2016 4:03:32 AM"
-  },
-  {
-    "id": "12973852",
-    "timestamp": "Nov 17, 2016 3:54:50 AM",
-    "topic": "PlanGrid (YC W12) Is Hiring Full Stack, Front End, Security and More",
-    "url": "https://www.plangrid.com/jobs/",
-    "votes": 1,
-    "posted": "Nov 17, 2016 3:52:53 AM"
   }
 ];
