@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13034783",
+    "timestamp": "Nov 25, 2016 8:42:41 AM",
+    "topic": "Finland set to become first country to ban coal use for energy",
+    "url": "https://www.newscientist.com/article/2113827-finland-set-to-become-first-country-to-ban-coal-use-for-energy/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 7:51:02 AM"
+  },
+  {
+    "id": "13034747",
+    "timestamp": "Nov 25, 2016 8:42:42 AM",
+    "topic": "Everyone who can now see your entire internet history, including the taxman",
+    "url": "http://www.independent.co.uk/life-style/gadgets-and-tech/news/investigatory-powers-bill-act-snoopers-charter-browsing-history-what-does-it-mean-a7436251.html",
+    "votes": 5,
+    "posted": "Nov 25, 2016 7:37:23 AM"
+  },
+  {
     "id": "13034668",
     "timestamp": "Nov 25, 2016 7:42:36 AM",
     "topic": "Don\u0027t build private clouds",
@@ -8073,29 +8089,5 @@ var newsArray = [
     "url": "https://www.wikipediap2p.org/",
     "votes": 5,
     "posted": "Nov 18, 2016 8:56:54 AM"
-  },
-  {
-    "id": "12985074",
-    "timestamp": "Nov 18, 2016 8:57:20 AM",
-    "topic": "Kaspersky OS",
-    "url": "https://eugene.kaspersky.com/2016/11/15/finally-our-own-os-oh-yes/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 8:42:39 AM"
-  },
-  {
-    "id": "12985041",
-    "timestamp": "Nov 18, 2016 9:27:22 AM",
-    "topic": "Dreaming in Reverse Engineering",
-    "url": "https://sweetcode.io/dreaming-reverse-engineering/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 8:33:47 AM"
-  },
-  {
-    "id": "12985032",
-    "timestamp": "Nov 18, 2016 8:47:19 AM",
-    "topic": "China’s Happy to Take U.S. Tech Immigrants That Trump Blocks",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-18/china-s-happy-to-take-u-s-tech-immigrants-that-trump-blocks",
-    "votes": 6,
-    "posted": "Nov 18, 2016 8:32:16 AM"
   }
 ];
