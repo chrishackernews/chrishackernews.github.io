@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13035241",
+    "timestamp": "Nov 25, 2016 11:02:53 AM",
+    "topic": "Germany’s Chinese investment problem: China has a plan. The EU doesn\u0027t",
+    "url": "http://www.politico.eu/article/germanys-chinese-investment-problem-sigmar-gabriel-eu/",
+    "votes": 8,
+    "posted": "Nov 25, 2016 10:00:49 AM"
+  },
+  {
     "id": "13035114",
     "timestamp": "Nov 25, 2016 10:52:53 AM",
     "topic": "UK: Your entire internet history to be viewable by many agencies",
@@ -115,6 +123,14 @@ var newsArray = [
     "topic": "Ask HN: What text editor do you use and why is it your editor of choice?",
     "votes": 4,
     "posted": "Nov 25, 2016 4:15:15 AM"
+  },
+  {
+    "id": "13034165",
+    "timestamp": "Nov 25, 2016 11:12:54 AM",
+    "topic": "In China, WeChat wants to kill app stores",
+    "url": "https://www.techinasia.com/wechat-mini-apps-are-coming-to-kill-apps",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:07:19 AM"
   },
   {
     "id": "13034116",
@@ -1426,6 +1442,14 @@ var newsArray = [
     "url": "https://blog.freelancersunion.org/2016/10/27/freelanceisntfreepassed/",
     "votes": 4,
     "posted": "Nov 23, 2016 8:39:45 PM"
+  },
+  {
+    "id": "13025190",
+    "timestamp": "Nov 25, 2016 11:52:57 AM",
+    "topic": "Fedora 25 Released",
+    "url": "https://lists.fedoraproject.org/archives/list/announce@lists.fedoraproject.org/thread/FG5BBVWKJBRZUDGN7RXPFVLHLWELWF3P/",
+    "votes": 3,
+    "posted": "Nov 23, 2016 8:38:05 PM"
   },
   {
     "id": "13025175",
@@ -7921,92 +7945,5 @@ var newsArray = [
     "url": "https://medium.com/@AlexDevero/6-quick-proven-tips-to-help-you-learn-javascript-1f27fabf006#.bmrmieawv",
     "votes": 3,
     "posted": "Nov 18, 2016 11:57:19 AM"
-  },
-  {
-    "id": "12985838",
-    "timestamp": "Nov 18, 2016 12:37:39 PM",
-    "topic": "Front-end Front is a place where front-end developers",
-    "url": "https://frontendfront.com",
-    "votes": 5,
-    "posted": "Nov 18, 2016 11:51:07 AM"
-  },
-  {
-    "id": "12985768",
-    "timestamp": "Nov 18, 2016 11:47:34 AM",
-    "topic": "The strange psychology of stress and burnout",
-    "url": "http://www.bbc.com/capital/story/20161116-stress-is-good-for-you-until-it-isnt?ocid\u003dglobal_capital_rss",
-    "votes": 5,
-    "posted": "Nov 18, 2016 11:34:02 AM"
-  },
-  {
-    "id": "12985753",
-    "timestamp": "Nov 18, 2016 11:37:32 AM",
-    "topic": "Gigster (on demand software development) is hiring in engineering and sales",
-    "url": "https://jobs.lever.co/gigster",
-    "votes": 1,
-    "posted": "Nov 18, 2016 11:30:11 AM"
-  },
-  {
-    "id": "12985728",
-    "timestamp": "Nov 18, 2016 12:27:38 PM",
-    "topic": "Silicon Valley Helped Create Trump, and That’s Bad for It",
-    "url": "http://mobile.nytimes.com/2016/11/18/opinion/silicon-valley-helped-create-trump-and-thats-bad-for-it.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:25:02 AM"
-  },
-  {
-    "id": "12985724",
-    "timestamp": "Nov 18, 2016 11:57:36 AM",
-    "topic": "Automated Pro-Trump Bots Overwhelmed Pro-Clinton Messages",
-    "url": "http://www.nytimes.com/2016/11/18/technology/automated-pro-trump-bots-overwhelmed-pro-clinton-messages-researchers-say.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:24:16 AM"
-  },
-  {
-    "id": "12985721",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "Ask HN: Plain, unstyled html to clean, well design page",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:22:23 AM"
-  },
-  {
-    "id": "12985703",
-    "timestamp": "Nov 18, 2016 11:57:36 AM",
-    "topic": "Twitter User Replaces Word \u0027White\u0027 with \u0027Black,\u0027 Gets Banned",
-    "url": "http://www.informationliberation.com/?id\u003d55863",
-    "votes": 6,
-    "posted": "Nov 18, 2016 11:18:07 AM"
-  },
-  {
-    "id": "12985689",
-    "timestamp": "Nov 18, 2016 4:18:02 PM",
-    "topic": "Should You Review Requirements and Design Documents?",
-    "url": "http://www.daedtech.com/review-requirements-design-documents/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:15:42 AM"
-  },
-  {
-    "id": "12985645",
-    "timestamp": "Nov 18, 2016 11:37:32 AM",
-    "topic": "Which Windows laptop could replace a MacBook Pro?",
-    "url": "https://www.theguardian.com/technology/askjack/2016/nov/17/which-windows-laptop-could-replace-apple-macbook-pro",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:04:39 AM"
-  },
-  {
-    "id": "12985644",
-    "timestamp": "Nov 18, 2016 11:47:34 AM",
-    "topic": "Clickclickclick.click",
-    "url": "https://clickclickclick.click",
-    "votes": 5,
-    "posted": "Nov 18, 2016 11:04:30 AM"
-  },
-  {
-    "id": "12985590",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "A Magnetized Needle and a Steady Hand",
-    "url": "http://nullprogram.com/blog/2016/11/17/",
-    "votes": 7,
-    "posted": "Nov 18, 2016 10:53:10 AM"
   }
 ];
