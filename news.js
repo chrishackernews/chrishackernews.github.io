@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13039981",
+    "timestamp": "Nov 25, 2016 10:54:15 PM",
+    "topic": "META II: A Syntax-Oriented Compiler Writing Language by D. V. Schorre (1964) [pdf]",
+    "url": "http://www.ibm-1401.info/Meta-II-schorre.pdf",
+    "votes": 4,
+    "posted": "Nov 25, 2016 10:28:11 PM"
+  },
+  {
     "id": "13039606",
     "timestamp": "Nov 25, 2016 9:44:00 PM",
     "topic": "I can’t just stand by and watch Mark Zuckerberg destroy the internet",
     "url": "https://medium.freecodecamp.com/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1#.56198o9b0",
     "votes": 3,
     "posted": "Nov 25, 2016 9:30:41 PM"
+  },
+  {
+    "id": "13039512",
+    "timestamp": "Nov 25, 2016 10:04:01 PM",
+    "topic": "Show HN: Impact Investment Funds – Growth-Enabled P2P Lending Donation Funds",
+    "url": "https://p2p-microlending-blog.zidisha.org/2016/11/24/introducing-impact-investment-funds/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 9:14:17 PM"
+  },
+  {
+    "id": "13039336",
+    "timestamp": "Nov 25, 2016 10:54:15 PM",
+    "topic": "\u0027Millennium\u0027 is full of gratitude for the staggering advances of 1,000 years",
+    "url": "http://www.csmonitor.com/Books/Book-Reviews/2016/1124/Millennium-is-full-of-gratitude-for-the-staggering-advances-of-1-000-years",
+    "votes": 3,
+    "posted": "Nov 25, 2016 8:46:35 PM"
   },
   {
     "id": "13039272",
@@ -7739,76 +7763,5 @@ var newsArray = [
     "url": "https://angel.co/piinpoint/jobs/",
     "votes": 1,
     "posted": "Nov 18, 2016 10:55:29 PM"
-  },
-  {
-    "id": "12990389",
-    "timestamp": "Nov 19, 2016 3:50:21 PM",
-    "topic": "Drilling into the Chicxulub Crater, Ground Zero of the Dinosaur Extinction",
-    "url": "http://www.nytimes.com/2016/11/18/science/chicxulub-crater-dinosaur-extinction.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dmini-moth\u0026region\u003dtop-stories-below\u0026WT.nav\u003dtop-stories-below",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:52:36 PM"
-  },
-  {
-    "id": "12990339",
-    "timestamp": "Nov 18, 2016 10:58:56 PM",
-    "topic": "China using CRISPR for Cancer on Live Humans",
-    "url": "https://www.wired.com/2016/11/china-used-crispr-fight-cancer-real-live-human/?mbid\u003dsocial_fb",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:45:38 PM"
-  },
-  {
-    "id": "12990311",
-    "timestamp": "Nov 18, 2016 10:48:54 PM",
-    "topic": "A Mirai Botnet infection in real time",
-    "url": "https://storify.com/yurisagalov/rob-graham",
-    "votes": 4,
-    "posted": "Nov 18, 2016 10:41:12 PM"
-  },
-  {
-    "id": "12990234",
-    "timestamp": "Nov 18, 2016 11:59:03 PM",
-    "topic": "Robot Goes Rogue at Shenzhen Fair, Injures Bystander",
-    "url": "http://www.sixthtone.com/news/robot-goes-rogue-shenzhen-fair-injures-bystander",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:28:45 PM"
-  },
-  {
-    "id": "12990180",
-    "timestamp": "Nov 19, 2016 12:49:10 AM",
-    "topic": "How the Cult of “Fact-Checking” Helped Trump Win",
-    "url": "https://medium.com/@mtracey/how-the-cult-of-fact-checking-helped-trump-win-bc51f7b69f49#.x4bb2uywu",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:20:42 PM"
-  },
-  {
-    "id": "12990179",
-    "timestamp": "Nov 18, 2016 10:58:56 PM",
-    "topic": "Net neutrality: Battles are being won, but the war\u0027s still raging",
-    "url": "http://www.digitaljournal.com/tech-and-science/technology/net-neutrality-battles-are-being-won-but-the-war-s-still-raging/article/479907",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:20:36 PM"
-  },
-  {
-    "id": "12990116",
-    "timestamp": "Nov 18, 2016 11:59:03 PM",
-    "topic": "Pro-Trump bots overwhelmed pro-Clinton messages, researchers say",
-    "url": "http://www.sfgate.com/business/article/Pro-Trump-bots-overwhelmed-pro-Clinton-messages-10623221.php",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:12:18 PM"
-  },
-  {
-    "id": "12990111",
-    "timestamp": "Nov 18, 2016 10:38:54 PM",
-    "topic": "Ask HN: Books you would recommended for starting out in product management?",
-    "votes": 4,
-    "posted": "Nov 18, 2016 10:11:32 PM"
-  },
-  {
-    "id": "12990073",
-    "timestamp": "Nov 18, 2016 10:28:47 PM",
-    "topic": "Tell Trump How to Make America Great",
-    "url": "https://apply.ptt.gov/yourstory/",
-    "votes": 7,
-    "posted": "Nov 18, 2016 10:06:00 PM"
   }
 ];
