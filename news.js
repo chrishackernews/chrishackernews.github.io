@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13036716",
+    "timestamp": "Nov 25, 2016 3:03:13 PM",
+    "topic": "Geocities Cage at the Exodus Datacenter",
+    "url": "http://www.detritus.org/mike/gc/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 2:52:23 PM"
+  },
+  {
+    "id": "13036686",
+    "timestamp": "Nov 25, 2016 3:03:13 PM",
+    "topic": "Tired of typing in Slack? Use Webspeech recognition API to chat hands-free",
+    "url": "https://github.com/crackleware/slack-webspeech",
+    "votes": 3,
+    "posted": "Nov 25, 2016 2:46:29 PM"
+  },
+  {
     "id": "13036648",
     "timestamp": "Nov 25, 2016 2:53:12 PM",
     "topic": "Of course Zuckerberg wants to bow to Chinese censorship",
@@ -22,6 +38,14 @@ var newsArray = [
     "url": "http://matrixmultiplication.xyz/",
     "votes": 9,
     "posted": "Nov 25, 2016 1:57:50 PM"
+  },
+  {
+    "id": "13036377",
+    "timestamp": "Nov 25, 2016 3:13:14 PM",
+    "topic": "Satellites Confirm Sinking of San Francisco\u0027s Millennium Tower, and more",
+    "url": "http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Satellites_confirm_sinking_of_San_Francisco_tower",
+    "votes": 3,
+    "posted": "Nov 25, 2016 1:56:07 PM"
   },
   {
     "id": "13036347",
@@ -7882,69 +7906,5 @@ var newsArray = [
     "url": "https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important",
     "votes": 4,
     "posted": "Nov 18, 2016 3:54:15 PM"
-  },
-  {
-    "id": "12987102",
-    "timestamp": "Nov 18, 2016 4:08:00 PM",
-    "topic": "Life hacks for software developers: how to find a job with relocation to Europe",
-    "url": "http://relocateme.eu/blog/life-hacks-for-software-developers-how-to-find-a-job-with-relocation-to-europe/",
-    "votes": 12,
-    "posted": "Nov 18, 2016 3:52:16 PM"
-  },
-  {
-    "id": "12987058",
-    "timestamp": "Nov 18, 2016 4:18:02 PM",
-    "topic": "Global Trumpism",
-    "url": "https://www.foreignaffairs.com/articles/2016-11-15/global-trumpism",
-    "votes": 3,
-    "posted": "Nov 18, 2016 3:46:57 PM"
-  },
-  {
-    "id": "12987050",
-    "timestamp": "Nov 18, 2016 4:18:02 PM",
-    "topic": "With More Than 100,000 Farmers Registered, WeFarm Has Raised $1.6 Mln Seed Round",
-    "url": "http://www.iafrikan.com/2016/11/18/wefarm-raises-1-6-million-seed-round-led-by-localglobe-and-surpasses-100-000-farmers-registered-milestone/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 3:45:19 PM"
-  },
-  {
-    "id": "12987037",
-    "timestamp": "Nov 18, 2016 4:08:01 PM",
-    "topic": "Ransomware developers ask for help with CryptoAPI from security researcher",
-    "url": "http://www.bleepingcomputer.com/news/security/ransomware-developer-asks-security-researcher-for-help-in-fixing-broken-crypto/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:42:47 PM"
-  },
-  {
-    "id": "12987010",
-    "timestamp": "Nov 20, 2016 8:51:59 AM",
-    "topic": "Walmart Tackles Food Safety with Test of Blockchain Technology",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-18/wal-mart-tackles-food-safety-with-test-of-blockchain-technology",
-    "votes": 3,
-    "posted": "Nov 18, 2016 3:37:59 PM"
-  },
-  {
-    "id": "12986937",
-    "timestamp": "Nov 18, 2016 9:38:36 PM",
-    "topic": "Microsoft ️ Linux? Microsoft ️ Running Its Windows\u0027 SQL Server Software on Linux",
-    "url": "http://www.theregister.co.uk/2016/11/18/microsoft_running_windows_apps_on_linux/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:26:39 PM"
-  },
-  {
-    "id": "12986840",
-    "timestamp": "Nov 18, 2016 5:48:10 PM",
-    "topic": "How to start a company with no free time",
-    "url": "https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:10:58 PM"
-  },
-  {
-    "id": "12986759",
-    "timestamp": "Nov 18, 2016 8:08:23 PM",
-    "topic": "How I stopped the RSI pain that almost destroyed my programming career",
-    "url": "https://codewithoutrules.com/2016/11/18/rsi-solution/",
-    "votes": 9,
-    "posted": "Nov 18, 2016 2:59:32 PM"
   }
 ];
