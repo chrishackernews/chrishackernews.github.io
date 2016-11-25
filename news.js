@@ -1,5 +1,85 @@
 var newsArray = [
   {
+    "id": "13037490",
+    "timestamp": "Nov 25, 2016 4:53:23 PM",
+    "topic": "Donald Trump to dismantle net neutrality",
+    "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/10/how-donald-trump-will-dismantle-obamas-internet-legacy/?can_id\u003dd26c32e547189d21bd09e079aac85a20\u0026email_referrer\u003dbreaking-trump-to-dismantle-net-neutrality-6\u0026email_subject\u003dbreaking-trump-to-dismantle-net-neutrality\u0026link_id\u003d4\u0026source\u003demail-breaking-trump-to-dismantle-net-neutrality-6",
+    "votes": 3,
+    "posted": "Nov 25, 2016 4:48:59 PM"
+  },
+  {
+    "id": "13037214",
+    "timestamp": "Nov 25, 2016 4:23:20 PM",
+    "topic": "History is Written by the Losers",
+    "url": "http://scholars-stage.blogspot.com/2016/11/history-is-written-by-losers.html?m\u003d1\u0026utm_source\u003dpocket\u0026utm_medium\u003demail\u0026utm_campaign\u003dpockethits",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:10:56 PM"
+  },
+  {
+    "id": "13037202",
+    "timestamp": "Nov 25, 2016 4:23:20 PM",
+    "topic": "“Netflix tax” may be coming soon to your bill",
+    "url": "http://www.cbsnews.com/news/netflix-tax-streaming-services-soon-coming-to-your-bill/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:08:39 PM"
+  },
+  {
+    "id": "13037164",
+    "timestamp": "Nov 25, 2016 4:33:21 PM",
+    "topic": "Married to someone with Anxiety",
+    "url": "https://psiloveyou.xyz/married-to-someone-with-anxiety-d5bab822ba2d",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:03:21 PM"
+  },
+  {
+    "id": "13037063",
+    "timestamp": "Nov 25, 2016 4:13:19 PM",
+    "topic": "Speech-to-Text-WaveNet: End-to-end sentence level English speech recognition",
+    "url": "https://github.com/buriburisuri/speech-to-text-wavenet",
+    "votes": 7,
+    "posted": "Nov 25, 2016 3:51:52 PM"
+  },
+  {
+    "id": "13037039",
+    "timestamp": "Nov 25, 2016 4:13:19 PM",
+    "topic": "Google launches its own festival to bring together music and technology",
+    "url": "https://goodfest.good.is/",
+    "votes": 8,
+    "posted": "Nov 25, 2016 3:49:07 PM"
+  },
+  {
+    "id": "13037024",
+    "timestamp": "Nov 25, 2016 4:23:20 PM",
+    "topic": "Amazon makes good on its promise to delete “incentivized” reviews",
+    "url": "https://techcrunch.com/2016/11/23/amazon-made-good-on-its-promise-to-delete-incentivized-reviews/",
+    "votes": 8,
+    "posted": "Nov 25, 2016 3:46:57 PM"
+  },
+  {
+    "id": "13036942",
+    "timestamp": "Nov 25, 2016 4:43:22 PM",
+    "topic": "Buy Nothing Day",
+    "url": "https://en.wikipedia.org/wiki/Buy_Nothing_Day",
+    "votes": 4,
+    "posted": "Nov 25, 2016 3:32:47 PM"
+  },
+  {
+    "id": "13036914",
+    "timestamp": "Nov 25, 2016 4:43:22 PM",
+    "topic": "[Meta] Can We Take “Learn Python the Hard Way” Off the Sidebar?",
+    "url": "https://www.reddit.com/r/Python/comments/40s6dm/meta_can_we_take_learn_python_the_hard_way_off/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 3:29:07 PM"
+  },
+  {
+    "id": "13036890",
+    "timestamp": "Nov 25, 2016 4:03:18 PM",
+    "topic": "Deleting the golang subreddit",
+    "url": "https://groups.google.com/forum/m/#!topic/golang-nuts/XoOhzUClDPs",
+    "votes": 7,
+    "posted": "Nov 25, 2016 3:24:42 PM"
+  },
+  {
     "id": "13036716",
     "timestamp": "Nov 25, 2016 3:03:13 PM",
     "topic": "Geocities Cage at the Exodus Datacenter",
@@ -30,6 +110,13 @@ var newsArray = [
     "url": "https://www.infinityschool.co.uk/",
     "votes": 3,
     "posted": "Nov 25, 2016 2:39:40 PM"
+  },
+  {
+    "id": "13036615",
+    "timestamp": "Nov 25, 2016 4:03:18 PM",
+    "topic": "Accord has gone live Call now to someone who disagrees with you about Brexit",
+    "votes": 5,
+    "posted": "Nov 25, 2016 2:35:21 PM"
   },
   {
     "id": "13036386",
@@ -112,6 +199,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 12:59:36 PM"
   },
   {
+    "id": "13036084",
+    "timestamp": "Nov 25, 2016 4:33:21 PM",
+    "topic": "Microsoft shares Windows 10 telemetry data with third parties",
+    "url": "http://betanews.com/2016/11/24/microsoft-shares-windows-10-telemetry-data-with-third-parties/",
+    "votes": 6,
+    "posted": "Nov 25, 2016 12:58:36 PM"
+  },
+  {
     "id": "13035996",
     "timestamp": "Nov 25, 2016 1:13:03 PM",
     "topic": "Repeal the New Surveillance Laws (Investigatory Powers Act)",
@@ -126,6 +221,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers",
     "votes": 10,
     "posted": "Nov 25, 2016 12:11:25 PM"
+  },
+  {
+    "id": "13035760",
+    "timestamp": "Nov 25, 2016 4:03:18 PM",
+    "topic": "/r/golang subreddit deletion proposal",
+    "url": "https://groups.google.com/d/msg/golang-nuts/XoOhzUClDPs/jgSWxng7CAAJ",
+    "votes": 9,
+    "posted": "Nov 25, 2016 11:44:02 AM"
   },
   {
     "id": "13035487",
@@ -150,6 +253,14 @@ var newsArray = [
     "url": "http://www.belfasttelegraph.co.uk/technology/your-entire-internet-history-to-be-viewable-by-psni-taxman-dwp-and-food-standards-agency-and-other-government-bodies-within-weeks-35242522.html",
     "votes": 6,
     "posted": "Nov 25, 2016 9:35:56 AM"
+  },
+  {
+    "id": "13035027",
+    "timestamp": "Nov 25, 2016 4:03:18 PM",
+    "topic": "Proposal to delete the r/golang subreddit",
+    "url": "https://groups.google.com/forum/m/#!msg/golang-nuts/XoOhzUClDPs/jgSWxng7CAAJ",
+    "votes": 12,
+    "posted": "Nov 25, 2016 9:10:57 AM"
   },
   {
     "id": "13035020",
@@ -7813,98 +7924,5 @@ var newsArray = [
     "url": "http://homepages.cwi.nl/~steven/enquire.html",
     "votes": 4,
     "posted": "Nov 18, 2016 4:57:20 PM"
-  },
-  {
-    "id": "12987537",
-    "timestamp": "Nov 18, 2016 6:08:12 PM",
-    "topic": "How to start a company with no free time",
-    "url": "https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a?_hsenc\u003dp2ANqtz-8XF6JxEsNsoDkX4Nh1vXUm7BW13ZDeL7A8zh7qXhZCq8kkP9GI97HtMDxtAlRVUJkRIoriVRO23_Q7xZxTjQ5EqbOiXg\u0026_hsmi\u003d37851568#.aoxnxfl7o",
-    "votes": 6,
-    "posted": "Nov 18, 2016 4:50:02 PM"
-  },
-  {
-    "id": "12987520",
-    "timestamp": "Nov 19, 2016 12:20:05 PM",
-    "topic": "Show HN: Try Swift without a mac! 150+ Online Exercises",
-    "url": "https://www.weheartswift.com/online-exercises/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 4:47:27 PM"
-  },
-  {
-    "id": "12987491",
-    "timestamp": "Nov 20, 2016 6:42:52 PM",
-    "topic": "Ask HN: What does the more intensive work in Rails/similar look like?",
-    "votes": 5,
-    "posted": "Nov 18, 2016 4:44:28 PM"
-  },
-  {
-    "id": "12987461",
-    "timestamp": "Nov 18, 2016 5:58:11 PM",
-    "topic": "Show HN: Code2flow – easy flowcharts with no mouse, no dragging and no hassle",
-    "url": "https://code2flow.com",
-    "votes": 12,
-    "posted": "Nov 18, 2016 4:40:44 PM"
-  },
-  {
-    "id": "12987446",
-    "timestamp": "Nov 19, 2016 12:09:05 AM",
-    "topic": "Why Silicon Valley May Warm to Trump",
-    "url": "http://www.theatlantic.com/technology/archive/2016/11/what-trump-means-for-silicon-valley/508091/?utm_source\u003datlgp\u0026amp;single_page\u003dtrue",
-    "votes": 7,
-    "posted": "Nov 18, 2016 4:38:55 PM"
-  },
-  {
-    "id": "12987384",
-    "timestamp": "Nov 18, 2016 10:28:47 PM",
-    "topic": "Show HN: Use AWS ECR and Hyper.sh to run a Hubot bot for less than $3 per month",
-    "url": "https://hyper.sh/howto/how-to-use-hyper.sh-and-ecr-to-run-a-hubot-for-3-dollars-per-month.html",
-    "votes": 8,
-    "posted": "Nov 18, 2016 4:30:47 PM"
-  },
-  {
-    "id": "12987380",
-    "timestamp": "Nov 18, 2016 5:08:07 PM",
-    "topic": "Ultraprecise measurements in XXL",
-    "url": "http://news.fnal.gov/2016/11/ultraprecise-measurements-xxl/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 4:30:07 PM"
-  },
-  {
-    "id": "12987211",
-    "timestamp": "Nov 19, 2016 9:41:03 PM",
-    "topic": "Ask HN: What do you keep at/on/in your desk?",
-    "votes": 7,
-    "posted": "Nov 18, 2016 4:07:52 PM"
-  },
-  {
-    "id": "12987177",
-    "timestamp": "Nov 20, 2016 3:51:37 AM",
-    "topic": "Ask HN: How many of the startups here use Microsoft Stack?",
-    "votes": 5,
-    "posted": "Nov 18, 2016 4:03:03 PM"
-  },
-  {
-    "id": "12987123",
-    "timestamp": "Nov 18, 2016 4:08:01 PM",
-    "topic": "Manifesto for Responsible Software Development",
-    "url": "http://manifesto.responsiblesoftware.org/",
-    "votes": 7,
-    "posted": "Nov 18, 2016 3:56:08 PM"
-  },
-  {
-    "id": "12987115",
-    "timestamp": "Nov 18, 2016 4:08:01 PM",
-    "topic": "Uber Restaurant Guide",
-    "url": "https://www.uber.com/info/restaurant-guide/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:55:05 PM"
-  },
-  {
-    "id": "12987110",
-    "timestamp": "Nov 18, 2016 4:28:03 PM",
-    "topic": "Clear Acceptance Criteria and Why It’s Important",
-    "url": "https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:54:15 PM"
   }
 ];
