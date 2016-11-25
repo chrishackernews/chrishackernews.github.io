@@ -47,6 +47,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 5:24:07 PM"
   },
   {
+    "id": "13037741",
+    "timestamp": "Nov 25, 2016 7:43:44 PM",
+    "topic": "Trump says he talked to Tim Cook about building iPhones in the US",
+    "url": "http://www.theverge.com/2016/11/23/13732082/trump-tim-cook-phone-call-apple-manufacturing",
+    "votes": 3,
+    "posted": "Nov 25, 2016 5:21:48 PM"
+  },
+  {
     "id": "13037654",
     "timestamp": "Nov 25, 2016 5:33:27 PM",
     "topic": "Stripe has raised $150M more at a $9B valuation",
@@ -189,6 +197,14 @@ var newsArray = [
     "url": "https://www.reddit.com/r/Python/comments/40s6dm/meta_can_we_take_learn_python_the_hard_way_off/",
     "votes": 4,
     "posted": "Nov 25, 2016 3:29:07 PM"
+  },
+  {
+    "id": "13036910",
+    "timestamp": "Nov 25, 2016 7:53:45 PM",
+    "topic": "Uganda is shutting down schools funded by Mark Zuckerberg, Bill Gates",
+    "url": "http://www.cnn.com/2016/11/25/africa/uganda-schools-zuckerberg-gates/index.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 3:28:36 PM"
   },
   {
     "id": "13036890",
@@ -688,6 +704,14 @@ var newsArray = [
     "url": "https://www.helpnetsecurity.com/2016/11/23/internet-freedom-decreasing/",
     "votes": 5,
     "posted": "Nov 25, 2016 12:28:34 AM"
+  },
+  {
+    "id": "13033408",
+    "timestamp": "Nov 25, 2016 7:03:41 PM",
+    "topic": "My Life with Tourette’s Syndrome",
+    "url": "http://www.nytimes.com/2016/11/23/opinion/my-life-with-tourettes-syndrome.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 12:19:52 AM"
   },
   {
     "id": "13033347",
@@ -1832,6 +1856,14 @@ var newsArray = [
     "url": "https://medium.freecodecamp.com/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1#.80xo373xq",
     "votes": 4,
     "posted": "Nov 23, 2016 8:59:51 PM"
+  },
+  {
+    "id": "13025361",
+    "timestamp": "Nov 25, 2016 7:43:44 PM",
+    "topic": "The Passion of Martin Scorsese",
+    "url": "http://www.nytimes.com/2016/11/27/magazine/the-passion-of-martin-scorsese.html",
+    "votes": 4,
+    "posted": "Nov 23, 2016 8:58:20 PM"
   },
   {
     "id": "13025352",
@@ -7834,101 +7866,5 @@ var newsArray = [
     "topic": "Ask HN: Chrome extension to verify credibility of articles",
     "votes": 3,
     "posted": "Nov 18, 2016 8:05:36 PM"
-  },
-  {
-    "id": "12989093",
-    "timestamp": "Nov 18, 2016 8:28:25 PM",
-    "topic": "China clarifies for Trump: Global warming is not a Chinese hoax",
-    "url": "http://www.vox.com/energy-and-environment/2016/11/16/13655058/trump-global-warming-hoax-china",
-    "votes": 4,
-    "posted": "Nov 18, 2016 7:48:45 PM"
-  },
-  {
-    "id": "12989074",
-    "timestamp": "Nov 18, 2016 8:28:25 PM",
-    "topic": "IRS Demands Identities of All US Coinbase Traders Over Three Year Period",
-    "url": "https://motherboard.vice.com/en_ca/read/irs-demands-identities-of-all-coinbase-traders-over-two-year-period",
-    "votes": 5,
-    "posted": "Nov 18, 2016 7:46:28 PM"
-  },
-  {
-    "id": "12989068",
-    "timestamp": "Nov 18, 2016 8:48:27 PM",
-    "topic": "Two guys create massive VR robot ride in Brooklyn warehouse",
-    "url": "https://www.youtube.com/watch?v\u003dBsahjcrF1QI",
-    "votes": 3,
-    "posted": "Nov 18, 2016 7:46:02 PM"
-  },
-  {
-    "id": "12988970",
-    "timestamp": "Nov 18, 2016 7:38:20 PM",
-    "topic": "OneSignal Is Hiring a Technical Account Manager",
-    "url": "http://jobs.onesignal.com/apply/Iu0Ong/Technical-Account-Manager",
-    "votes": 1,
-    "posted": "Nov 18, 2016 7:35:00 PM"
-  },
-  {
-    "id": "12988916",
-    "timestamp": "Nov 18, 2016 8:08:23 PM",
-    "topic": "Incoming CIA director: Strong encryption in personal communications a red flag",
-    "url": "http://www.wsj.com/articles/time-for-a-rigorous-national-debate-about-surveillance-1451856106",
-    "votes": 26,
-    "posted": "Nov 18, 2016 7:27:09 PM"
-  },
-  {
-    "id": "12988905",
-    "timestamp": "Nov 19, 2016 12:09:05 AM",
-    "topic": "Will Donald Trump send the marijuana industry up in smoke?",
-    "url": "http://finance.yahoo.com/news/will-donald-trump-send-the-marijuana-industry-up-in-smoke-232828404.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 7:26:08 PM"
-  },
-  {
-    "id": "12988865",
-    "timestamp": "Nov 18, 2016 11:39:00 PM",
-    "topic": "Automatic Racial Discrimination via Artificial Intelligence",
-    "url": "https://arxiv.org/abs/1611.04135",
-    "votes": 5,
-    "posted": "Nov 18, 2016 7:22:24 PM"
-  },
-  {
-    "id": "12988843",
-    "timestamp": "Nov 19, 2016 12:09:05 AM",
-    "topic": "How the Trump Campaign Used Facebook Ads to Win the Election",
-    "url": "https://medium.com/@MedicalReport/how-the-trump-campaign-built-an-identity-database-and-used-facebook-ads-to-win-the-election-4ff7d24269ac#.1wmilha2n",
-    "votes": 3,
-    "posted": "Nov 18, 2016 7:20:21 PM"
-  },
-  {
-    "id": "12988803",
-    "timestamp": "Nov 18, 2016 7:58:22 PM",
-    "topic": "The monkey and the apple (Steve Yegge blog post)",
-    "url": "http://steve-yegge.blogspot.com/2016/11/the-monkey-and-apple.html?m\u003d1",
-    "votes": 7,
-    "posted": "Nov 18, 2016 7:15:57 PM"
-  },
-  {
-    "id": "12988789",
-    "timestamp": "Nov 18, 2016 7:38:21 PM",
-    "topic": "It\u0027s time: Edward Snowden just issued a call to his former colleagues on Twitter",
-    "url": "http://uk.businessinsider.com/edward-snowden-issued-a-cryptic-warning-on-twitter-2016-8",
-    "votes": 4,
-    "posted": "Nov 18, 2016 7:15:02 PM"
-  },
-  {
-    "id": "12988696",
-    "timestamp": "Nov 18, 2016 7:18:18 PM",
-    "topic": "Constexpr-8cc: Compile-time C Compile",
-    "url": "https://github.com/kw-udon/constexpr-8cc",
-    "votes": 3,
-    "posted": "Nov 18, 2016 7:06:06 PM"
-  },
-  {
-    "id": "12988630",
-    "timestamp": "Nov 18, 2016 7:28:20 PM",
-    "topic": "Trump’s CIA Director Wants to Return to a Pre-Snowden World",
-    "url": "http://www.theatlantic.com/technology/archive/2016/11/trumps-cia-director-wants-to-return-to-a-pre-snowden-world/508136/?single_page\u003dtrue",
-    "votes": 9,
-    "posted": "Nov 18, 2016 6:57:20 PM"
   }
 ];
