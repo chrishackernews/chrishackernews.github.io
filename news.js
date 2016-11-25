@@ -1,11 +1,50 @@
 var newsArray = [
   {
+    "id": "13040227",
+    "timestamp": "Nov 25, 2016 11:54:27 PM",
+    "topic": "5 Common Server Setups for Your Web Application",
+    "url": "https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application?utm_source\u003dCustomerio\u0026utm_medium\u003dEmail_Internal\u0026utm_campaign\u003dEmail5.1_ActivateAccount_5CommonServerSetupMistakes\u0026mkt_tok\u003deyJpIjoiWmprNU16RTFNVE14TnpNeCIsInQiOiJGYVVMSER0NUloRUVVTjJaOHFOR01VXC9YaFVpQlwvUHk4N0d2OCtRMDE4c21SdlNDVkZyb1NkZWlPbjg4VEs1T2h0OWVrMVl6QU9hMHF6dkhjXC9OT1Y5V0s0ODNwRUNtd0haS3pDTkdyMUdTMD0ifQ%3D%3D",
+    "votes": 4,
+    "posted": "Nov 25, 2016 11:12:53 PM"
+  },
+  {
+    "id": "13040104",
+    "timestamp": "Nov 25, 2016 11:24:24 PM",
+    "topic": "Is Jimmy Wales Wikipedia founder rich – money or life",
+    "url": "https://www.quora.com/Is-Jimmy-Wales-rich?share\u003d1",
+    "votes": 4,
+    "posted": "Nov 25, 2016 10:47:39 PM"
+  },
+  {
+    "id": "13040088",
+    "timestamp": "Nov 25, 2016 11:54:27 PM",
+    "topic": "Ask HN: How many of you have paid for sublime text?",
+    "votes": 6,
+    "posted": "Nov 25, 2016 10:45:11 PM"
+  },
+  {
+    "id": "13040040",
+    "timestamp": "Nov 25, 2016 11:14:22 PM",
+    "topic": "Please Don\u0027t Learn to Code from Stock Photos",
+    "url": "http://codepen.io/chriscoyier/post/code-in-stock-photos",
+    "votes": 3,
+    "posted": "Nov 25, 2016 10:38:06 PM"
+  },
+  {
     "id": "13039981",
     "timestamp": "Nov 25, 2016 10:54:15 PM",
     "topic": "META II: A Syntax-Oriented Compiler Writing Language by D. V. Schorre (1964) [pdf]",
     "url": "http://www.ibm-1401.info/Meta-II-schorre.pdf",
     "votes": 4,
     "posted": "Nov 25, 2016 10:28:11 PM"
+  },
+  {
+    "id": "13039810",
+    "timestamp": "Nov 25, 2016 11:14:22 PM",
+    "topic": "History of the Iranian/Saudi proxy wars",
+    "url": "http://www.nytimes.com/2016/11/20/world/middleeast/iran-saudi-proxy-war.html",
+    "votes": 3,
+    "posted": "Nov 25, 2016 10:04:03 PM"
   },
   {
     "id": "13039606",
@@ -7684,84 +7723,5 @@ var newsArray = [
     "url": "https://paperworks.io",
     "votes": 4,
     "posted": "Nov 18, 2016 11:57:05 PM"
-  },
-  {
-    "id": "12990740",
-    "timestamp": "Nov 19, 2016 12:49:10 AM",
-    "topic": "Omnidirectional Belts",
-    "url": "https://www.youtube.com/watch?list\u003dPLKfWL8IXgKBte4TfD53pLaHONfSYCX0RH\u0026v\u003dtqLYhhV7u7Y",
-    "votes": 5,
-    "posted": "Nov 18, 2016 11:53:29 PM"
-  },
-  {
-    "id": "12990722",
-    "timestamp": "Nov 19, 2016 12:09:04 AM",
-    "topic": "World’s First Photonic Neural Network Unveiled",
-    "url": "https://www.technologyreview.com/s/602938/worlds-first-photonic-neural-network-unveiled/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:50:13 PM"
-  },
-  {
-    "id": "12990718",
-    "timestamp": "Nov 19, 2016 12:09:04 AM",
-    "topic": "Trump University Settles Fraud Claims for $25M",
-    "url": "http://www.bloomberg.com/politics/articles/2016-11-18/trump-university-settles-fraud-claims-for-25-million",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:48:58 PM"
-  },
-  {
-    "id": "12990709",
-    "timestamp": "Nov 19, 2016 1:29:13 AM",
-    "topic": "Frequentists should more often consider using Bayesian methods",
-    "url": "http://thestatsgeek.com/2016/11/18/frequentists-should-more-often-consider-using-bayesian-methods/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 11:47:19 PM"
-  },
-  {
-    "id": "12990612",
-    "timestamp": "Nov 19, 2016 12:19:06 AM",
-    "topic": "Show HN: Get a great domain by translating your keyword into 30+ languages",
-    "votes": 4,
-    "posted": "Nov 18, 2016 11:29:14 PM"
-  },
-  {
-    "id": "12990556",
-    "timestamp": "Nov 18, 2016 11:59:03 PM",
-    "topic": "Trump Presidency – Indian students unsure about pursuing US higher education",
-    "url": "http://economictimes.indiatimes.com/news/politics-and-nation/donald-trumps-rhetoric-leaves-indian-students-unsure-about-pursuing-higher-education-in-us/articleshow/55484871.cms",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:19:26 PM"
-  },
-  {
-    "id": "12990488",
-    "timestamp": "Nov 18, 2016 11:49:01 PM",
-    "topic": "NLP and Machine Learning with small data sets (CNNs)",
-    "url": "https://quid.com/feed/how-quid-uses-deep-learning-with-small-data",
-    "votes": 4,
-    "posted": "Nov 18, 2016 11:06:25 PM"
-  },
-  {
-    "id": "12990460",
-    "timestamp": "Nov 18, 2016 11:08:57 PM",
-    "topic": "Too racist for US District Court in 1986, now he\u0027s set to be US Attorney General",
-    "url": "https://theintercept.com/2016/11/18/career-racist-jeff-sessions-is-donald-trumps-pick-for-attorney-general/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:02:13 PM"
-  },
-  {
-    "id": "12990454",
-    "timestamp": "Nov 18, 2016 11:59:03 PM",
-    "topic": "Markets Sent a Strong Signal on Trump - Then Changed Their Minds",
-    "url": "http://www.nytimes.com/2016/11/19/upshot/markets-sent-a-strong-signal-on-trump-then-changed-their-minds.html?_r\u003d0",
-    "votes": 4,
-    "posted": "Nov 18, 2016 11:01:40 PM"
-  },
-  {
-    "id": "12990410",
-    "timestamp": "Nov 18, 2016 10:58:56 PM",
-    "topic": "PiinPoint (YC W14) Is Hiring in Spatial Statistics/Data Science (Waterloo,CA)",
-    "url": "https://angel.co/piinpoint/jobs/",
-    "votes": 1,
-    "posted": "Nov 18, 2016 10:55:29 PM"
   }
 ];
