@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13034420",
+    "timestamp": "Nov 25, 2016 6:42:30 AM",
+    "topic": "Google warns journalists and professors: Your account is under attack",
+    "url": "http://arstechnica.com/security/2016/11/google-warns-journalists-and-professors-your-account-is-under-attack/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 5:31:36 AM"
+  },
+  {
+    "id": "13034365",
+    "timestamp": "Nov 25, 2016 6:22:29 AM",
+    "topic": "Economists are prone to fads, and the latest is machine learning",
+    "url": "http://www.economist.com/news/finance-and-economics/21710800-big-data-have-led-latest-craze-economic-research-economists-are-prone",
+    "votes": 3,
+    "posted": "Nov 25, 2016 5:10:01 AM"
+  },
+  {
+    "id": "13034293",
+    "timestamp": "Nov 25, 2016 6:02:27 AM",
+    "topic": "Did the CEO of Reddit Pierce Section 230 of the Communications Decency Act?",
+    "url": "http://associatesmind.com/2016/11/24/did-the-ceo-of-reddit-pierce-section-230/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 4:45:30 AM"
+  },
+  {
     "id": "13034254",
     "timestamp": "Nov 25, 2016 5:02:21 AM",
     "topic": "Overheated Arctic sign of climate change \u0027vicious circle\u0027",
@@ -14,6 +38,13 @@ var newsArray = [
     "url": "https://github.com/ElemeFE/restc",
     "votes": 3,
     "posted": "Nov 25, 2016 4:24:57 AM"
+  },
+  {
+    "id": "13034201",
+    "timestamp": "Nov 25, 2016 6:42:30 AM",
+    "topic": "Ask HN: What text editor do you use and why is it your editor of choice?",
+    "votes": 4,
+    "posted": "Nov 25, 2016 4:15:15 AM"
   },
   {
     "id": "13034116",
@@ -412,6 +443,13 @@ var newsArray = [
     "url": "http://ijr.com/wildfire/2016/11/731642-edward-snowden-demonstrates-how-easy-it-is-to-hack-a-voting-machine-all-for-just-30/",
     "votes": 4,
     "posted": "Nov 24, 2016 8:19:42 PM"
+  },
+  {
+    "id": "13032139",
+    "timestamp": "Nov 25, 2016 6:32:29 AM",
+    "topic": "Alone on Thanksgiving? Eat at My House",
+    "votes": 6,
+    "posted": "Nov 24, 2016 8:08:13 PM"
   },
   {
     "id": "13032012",
@@ -8044,53 +8082,5 @@ var newsArray = [
     "url": "http://blog.calsoftinc.com/industry_insights/kubernetes-founders-create-company-heptio-to-bring-kubernetes-and-containers-to-the-enterprise",
     "votes": 4,
     "posted": "Nov 18, 2016 6:54:43 AM"
-  },
-  {
-    "id": "12984592",
-    "timestamp": "Nov 18, 2016 7:17:11 AM",
-    "topic": "NSA SKIDROWE program",
-    "url": "https://theintercept.com/document/2016/11/16/skidrowe-program/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 6:30:01 AM"
-  },
-  {
-    "id": "12984588",
-    "timestamp": "Nov 18, 2016 8:17:17 AM",
-    "topic": "Jay W. Forrester Dies at 98; a Pioneer in Computer Models",
-    "url": "http://www.nytimes.com/2016/11/18/technology/jay-forrester-dead.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 6:28:48 AM"
-  },
-  {
-    "id": "12984572",
-    "timestamp": "Nov 18, 2016 7:27:13 AM",
-    "topic": "Lazarus 1.6.2 – Released",
-    "url": "http://forum.lazarus.freepascal.org/index.php/topic,34807.0.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 6:23:54 AM"
-  },
-  {
-    "id": "12984547",
-    "timestamp": "Nov 18, 2016 7:07:10 AM",
-    "topic": "The Trump effect? Apple \u0027could start building iPhones in the US\u0027",
-    "url": "http://www.dailymail.co.uk/news/article-3947626/The-Trump-effect-Apple-looking-assembling-iPhones-outsourcing-abroad.html?ito\u003dsocial-facebook",
-    "votes": 3,
-    "posted": "Nov 18, 2016 6:17:41 AM"
-  },
-  {
-    "id": "12984507",
-    "timestamp": "Nov 18, 2016 7:17:11 AM",
-    "topic": "GL4ES, a GL 1.5 to GL ES 1.1 translation",
-    "url": "https://github.com/ptitSeb/gl4es",
-    "votes": 3,
-    "posted": "Nov 18, 2016 6:03:20 AM"
-  },
-  {
-    "id": "12984488",
-    "timestamp": "Nov 18, 2016 7:27:13 AM",
-    "topic": "North Korea Had No Idea What Their Hostages Were Signaling in This Photo",
-    "url": "http://www.atlasobscura.com/articles/north-korean-officials-had-no-idea-what-their-hostages-were-signaling-in-this-photo",
-    "votes": 4,
-    "posted": "Nov 18, 2016 6:00:07 AM"
   }
 ];
