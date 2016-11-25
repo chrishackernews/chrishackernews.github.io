@@ -1,11 +1,91 @@
 var newsArray = [
   {
+    "id": "13037761",
+    "timestamp": "Nov 25, 2016 5:33:27 PM",
+    "topic": "Show HN: OneDrive for Business Now Part of Unified Cloud Storage API -CloudRail",
+    "url": "https://cloudrail.com/onedrive-for-business-comes-to-the-unified-cloud-storage-api/",
+    "votes": 6,
+    "posted": "Nov 25, 2016 5:24:07 PM"
+  },
+  {
+    "id": "13037654",
+    "timestamp": "Nov 25, 2016 5:33:27 PM",
+    "topic": "Stripe has raised $150M more at a $9B valuation",
+    "url": "http://www.recode.net/2016/11/25/13746264/stripe-9-billion-valuation-150-million-funding-series-d",
+    "votes": 3,
+    "posted": "Nov 25, 2016 5:12:08 PM"
+  },
+  {
+    "id": "13037650",
+    "timestamp": "Nov 25, 2016 5:23:26 PM",
+    "topic": "Introduction to Python for Computational Science and Engineering [pdf]",
+    "url": "http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf",
+    "votes": 4,
+    "posted": "Nov 25, 2016 5:11:58 PM"
+  },
+  {
+    "id": "13037588",
+    "timestamp": "Nov 25, 2016 5:13:25 PM",
+    "topic": "Russian propaganda effort helped spread ‘fake news’ during election, experts say",
+    "url": "https://www.washingtonpost.com/business/economy/russian-propaganda-effort-helped-spread-fake-news-during-election-experts-say/2016/11/24/793903b6-8a40-4ca9-b712-716af66098fe_story.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 5:01:00 PM"
+  },
+  {
+    "id": "13037562",
+    "timestamp": "Nov 25, 2016 5:03:24 PM",
+    "topic": "VLC Media Player previews 360-degree video support",
+    "url": "http://www.softwarecrew.com/2016/11/vlc-media-player-previews-360-degree-video-support/#.WDhfbpTz3gY.hackernews",
+    "votes": 3,
+    "posted": "Nov 25, 2016 4:57:49 PM"
+  },
+  {
     "id": "13037490",
     "timestamp": "Nov 25, 2016 4:53:23 PM",
     "topic": "Donald Trump to dismantle net neutrality",
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2016/11/10/how-donald-trump-will-dismantle-obamas-internet-legacy/?can_id\u003dd26c32e547189d21bd09e079aac85a20\u0026email_referrer\u003dbreaking-trump-to-dismantle-net-neutrality-6\u0026email_subject\u003dbreaking-trump-to-dismantle-net-neutrality\u0026link_id\u003d4\u0026source\u003demail-breaking-trump-to-dismantle-net-neutrality-6",
     "votes": 3,
     "posted": "Nov 25, 2016 4:48:59 PM"
+  },
+  {
+    "id": "13037491",
+    "timestamp": "Nov 25, 2016 5:03:24 PM",
+    "topic": "Google DeepMind AI destroys human expert in lip reading competition",
+    "url": "http://www.techrepublic.com/article/google-deepmind-ai-destroys-human-expert-in-lip-reading-competition/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 4:48:59 PM"
+  },
+  {
+    "id": "13037455",
+    "timestamp": "Nov 25, 2016 5:03:24 PM",
+    "topic": "Mars Ice Deposit Holds as Much Water as Lake Superior",
+    "url": "http://www.jpl.nasa.gov/news/news.php?feature\u003d6680",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:45:02 PM"
+  },
+  {
+    "id": "13037454",
+    "timestamp": "Nov 25, 2016 5:23:26 PM",
+    "topic": "GPU glitches in 2016 MacBook Pro models",
+    "url": "https://9to5mac.com/2016/11/25/2016-macbook-pro-gpu-problems-glitches/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:45:01 PM"
+  },
+  {
+    "id": "13037442",
+    "timestamp": "Nov 25, 2016 5:23:26 PM",
+    "topic": "Why pledge(2) … or, how I learned to love web application sandboxing",
+    "url": "https://learnbchs.org/pledge.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 4:43:07 PM"
+  },
+  {
+    "id": "13037433",
+    "timestamp": "Nov 25, 2016 5:03:24 PM",
+    "topic": "Android Malware Used to Hack and Steal a Tesla Car",
+    "url": "http://www.bleepingcomputer.com/news/security/android-malware-used-to-hack-and-steal-a-tesla-car/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:42:42 PM"
   },
   {
     "id": "13037214",
@@ -213,6 +293,14 @@ var newsArray = [
     "url": "https://petition.parliament.uk/petitions/173199",
     "votes": 5,
     "posted": "Nov 25, 2016 12:40:01 PM"
+  },
+  {
+    "id": "13035974",
+    "timestamp": "Nov 25, 2016 5:13:25 PM",
+    "topic": "Show HN: Integer Snake – Connect squares with the same number in them",
+    "url": "http://www.integersnake.com",
+    "votes": 4,
+    "posted": "Nov 25, 2016 12:36:12 PM"
   },
   {
     "id": "13035876",
@@ -1038,6 +1126,14 @@ var newsArray = [
     "url": "https://www.thestar.com/business/real_estate/2016/11/23/city-of-toronto-gets-first-zoning-conviction-of-airbnb-era.html",
     "votes": 3,
     "posted": "Nov 24, 2016 3:55:59 PM"
+  },
+  {
+    "id": "13030525",
+    "timestamp": "Nov 25, 2016 5:13:25 PM",
+    "topic": "An interactive matrix multiplication calculator for educational purposes",
+    "url": "http://matrixmultiplication.xyz",
+    "votes": 5,
+    "posted": "Nov 24, 2016 3:42:55 PM"
   },
   {
     "id": "13030493",
@@ -3072,6 +3168,13 @@ var newsArray = [
     "url": "https://www.quantamagazine.org/20161115-strange-numbers-found-in-particle-collisions/",
     "votes": 3,
     "posted": "Nov 22, 2016 10:48:19 PM"
+  },
+  {
+    "id": "13017936",
+    "timestamp": "Nov 25, 2016 5:03:24 PM",
+    "topic": "Ask HN: How do you handle divorce as a startup owner?",
+    "votes": 11,
+    "posted": "Nov 22, 2016 10:44:14 PM"
   },
   {
     "id": "13017892",
@@ -7844,85 +7947,5 @@ var newsArray = [
     "url": "https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.ioi9ez4k2",
     "votes": 3,
     "posted": "Nov 18, 2016 6:17:08 PM"
-  },
-  {
-    "id": "12987946",
-    "timestamp": "Nov 19, 2016 12:09:05 AM",
-    "topic": "Facing Immigration Crackdown, Silicon Valley Rethinks Its Dreams",
-    "url": "http://www.bloomberg.com/news/articles/2016-11-17/facing-immigration-crackdown-silicon-valley-rethinks-its-dreams",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:35:18 PM"
-  },
-  {
-    "id": "12987942",
-    "timestamp": "Nov 19, 2016 12:09:04 AM",
-    "topic": "National Security Agency Said to Use Manhattan Tower as Listening Post",
-    "url": "http://www.nytimes.com/2016/11/18/nyregion/national-security-agency-said-to-use-manhattan-tower-as-listening-post.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 5:34:38 PM"
-  },
-  {
-    "id": "12987927",
-    "timestamp": "Nov 18, 2016 7:28:20 PM",
-    "topic": "Compile-time C Compiler implemented as C++14 constant expressions",
-    "url": "https://github.com/kw-udon/constexpr-8cc#constexpr-8cc-compile-time-c-compiler-",
-    "votes": 8,
-    "posted": "Nov 18, 2016 5:33:32 PM"
-  },
-  {
-    "id": "12987900",
-    "timestamp": "Nov 18, 2016 5:48:10 PM",
-    "topic": "Google reverses its ‘digital death sentence’ for Pixel phone resellers",
-    "url": "https://techcrunch.com/2016/11/18/google-reverses-its-digital-death-sentence-for-pixel-phone-resellers/",
-    "votes": 6,
-    "posted": "Nov 18, 2016 5:30:05 PM"
-  },
-  {
-    "id": "12987807",
-    "timestamp": "Nov 19, 2016 12:09:05 AM",
-    "topic": "Turkey’s Free Press Withers as Erdogan Jails 120 Journalists",
-    "url": "http://www.nytimes.com/2016/11/18/world/europe/turkey-press-erdogan-coup.html",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:20:28 PM"
-  },
-  {
-    "id": "12987701",
-    "timestamp": "Nov 18, 2016 6:08:12 PM",
-    "topic": "This is what Apple should tell you when you lose your iPhone",
-    "url": "https://hackernoon.com/this-is-what-apple-should-tell-you-when-you-lose-your-iphone-8f07cf73cf82#.j5n1lsqmv",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:09:01 PM"
-  },
-  {
-    "id": "12987699",
-    "timestamp": "Nov 18, 2016 5:28:08 PM",
-    "topic": "Office Depot Diagnosing Computers with Nonexistent Viruses to Meet Sales Goals",
-    "url": "https://consumerist.com/2016/11/16/office-depot-allegedly-diagnosing-computers-with-nonexistent-viruses-to-meet-sales-goals/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 5:08:36 PM"
-  },
-  {
-    "id": "12987683",
-    "timestamp": "Nov 18, 2016 6:08:12 PM",
-    "topic": "Gosubc: a C89 compiler written in Go",
-    "url": "https://github.com/qeedquan/gosubc",
-    "votes": 9,
-    "posted": "Nov 18, 2016 5:07:21 PM"
-  },
-  {
-    "id": "12987635",
-    "timestamp": "Nov 18, 2016 5:58:11 PM",
-    "topic": "IBM rolls out new cloud data services and features on Bluemix",
-    "url": "http://www.zdnet.com/article/ibm-rolls-out-new-cloud-data-services-and-features-on-bluemix/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 5:00:45 PM"
-  },
-  {
-    "id": "12987608",
-    "timestamp": "Nov 19, 2016 5:30:31 PM",
-    "topic": "Enquire: Everything you wanted to know about your C Compiler and Machine (1993)",
-    "url": "http://homepages.cwi.nl/~steven/enquire.html",
-    "votes": 4,
-    "posted": "Nov 18, 2016 4:57:20 PM"
   }
 ];
