@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13033693",
+    "timestamp": "Nov 25, 2016 1:42:04 AM",
+    "topic": "IBM to pay more than $30m in compensation for Australian census fail",
+    "url": "http://www.abc.net.au/news/2016-11-25/ibm-to-pay-over-$30m-in-compensation-for-census-fail/8057240",
+    "votes": 4,
+    "posted": "Nov 25, 2016 1:27:41 AM"
+  },
+  {
+    "id": "13033689",
+    "timestamp": "Nov 25, 2016 1:52:04 AM",
+    "topic": "Theranos and David Boies Cut Legal Ties",
+    "url": "http://www.wsj.com/articles/theranos-and-david-boies-cut-legal-ties-1479514351",
+    "votes": 11,
+    "posted": "Nov 25, 2016 1:27:13 AM"
+  },
+  {
+    "id": "13033470",
+    "timestamp": "Nov 25, 2016 1:02:01 AM",
+    "topic": "How to get started with DJing",
+    "url": "https://medium.com/@asantash/how-to-get-started-with-djing-495c275be5e4#.2ajfzv1c4",
+    "votes": 4,
+    "posted": "Nov 25, 2016 12:36:54 AM"
+  },
+  {
     "id": "13033347",
     "timestamp": "Nov 25, 2016 12:52:00 AM",
     "topic": "Making a Man of the Mad Monk",
@@ -78,6 +102,14 @@ var newsArray = [
     "url": "http://www.bbc.co.uk/news/world-us-canada-38076123",
     "votes": 3,
     "posted": "Nov 24, 2016 10:25:13 PM"
+  },
+  {
+    "id": "13032732",
+    "timestamp": "Nov 25, 2016 1:52:05 AM",
+    "topic": "Patagonia donating 100% of Black Friday sales to environment organizations",
+    "url": "https://www.patagonia.com/100-percent-for-the-planet.html",
+    "votes": 4,
+    "posted": "Nov 24, 2016 10:01:33 PM"
   },
   {
     "id": "13032640",
@@ -8237,61 +8269,5 @@ var newsArray = [
     "url": "http://www.publicbooks.org//artmedia/the-intrusion-artist",
     "votes": 3,
     "posted": "Nov 18, 2016 1:52:56 AM"
-  },
-  {
-    "id": "12983331",
-    "timestamp": "Nov 18, 2016 1:56:44 AM",
-    "topic": "#open-rethinkdb meeting notes #3 – November 15",
-    "url": "https://docs.google.com/document/d/13TsZoWckcvJpprpL1zU54xsf0Zqm8mfmLkCHZcZbTMI/edit",
-    "votes": 4,
-    "posted": "Nov 18, 2016 1:48:45 AM"
-  },
-  {
-    "id": "12983308",
-    "timestamp": "Nov 18, 2016 7:38:21 PM",
-    "topic": "A Conversation with Dan Ariely About What Shapes Our Motivations",
-    "url": "https://blog.longreads.com/2016/11/17/a-conversation-with-dan-ariely-on-what-shapes-our-motivations/?utm_content\u003dbuffer6608a\u0026utm_medium\u003dsocial\u0026utm_source\u003dtwitter.com\u0026utm_campaign\u003dbuffer",
-    "votes": 5,
-    "posted": "Nov 18, 2016 1:45:31 AM"
-  },
-  {
-    "id": "12983222",
-    "timestamp": "Nov 18, 2016 3:27:57 PM",
-    "topic": "The Genius and the Laborer: The Troubled Friendship of Leo Tolstoy and Maxim Gorky",
-    "url": "http://www.laphamsquarterly.org/roundtable/genius-and-laborer",
-    "votes": 3,
-    "posted": "Nov 18, 2016 1:27:27 AM"
-  },
-  {
-    "id": "12983096",
-    "timestamp": "Nov 18, 2016 4:28:03 PM",
-    "topic": "How we structure our work and teams at Basecamp",
-    "url": "https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.2ii2en90c",
-    "votes": 5,
-    "posted": "Nov 18, 2016 1:08:18 AM"
-  },
-  {
-    "id": "12983076",
-    "timestamp": "Nov 18, 2016 1:56:45 AM",
-    "topic": "Why Twitter\u0027s Alt-Right Banning Campaign Is Alt-Right\u0027s Best Recruitment Tool",
-    "url": "https://www.techdirt.com/articles/20161117/09343936070/why-twitters-alt-right-banning-campaign-will-become-alt-rights-best-recruitment-tool.shtml",
-    "votes": 3,
-    "posted": "Nov 18, 2016 1:04:39 AM"
-  },
-  {
-    "id": "12983027",
-    "timestamp": "Nov 18, 2016 4:06:55 AM",
-    "topic": "Digital nomads social network",
-    "url": "http://www.social-nomads.com",
-    "votes": 3,
-    "posted": "Nov 18, 2016 12:56:43 AM"
-  },
-  {
-    "id": "12983013",
-    "timestamp": "Nov 18, 2016 1:16:42 AM",
-    "topic": "Google Think Tank Launches New Weapon in Fight Against ISIS",
-    "url": "http://www.nbcnews.com/news/us-news/google-think-tank-launches-new-weapon-fight-against-isis-n682036",
-    "votes": 3,
-    "posted": "Nov 18, 2016 12:55:09 AM"
   }
 ];
