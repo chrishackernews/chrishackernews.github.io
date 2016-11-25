@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13035876",
+    "timestamp": "Nov 25, 2016 12:43:00 PM",
+    "topic": "How Can I Protect Myself from (UK) Government Snoopers?",
+    "url": "https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers",
+    "votes": 10,
+    "posted": "Nov 25, 2016 12:11:25 PM"
+  },
+  {
     "id": "13035241",
     "timestamp": "Nov 25, 2016 11:02:53 AM",
     "topic": "Germany’s Chinese investment problem: China has a plan. The EU doesn\u0027t",
@@ -354,6 +362,14 @@ var newsArray = [
     "url": "http://www.intellexer.com/sdk_overview.html",
     "votes": 3,
     "posted": "Nov 24, 2016 10:55:04 PM"
+  },
+  {
+    "id": "13033021",
+    "timestamp": "Nov 25, 2016 12:22:59 PM",
+    "topic": "Do what you love (and pay the bills)",
+    "url": "https://medium.com/@stef/do-what-you-love-and-pay-the-bills-b713cccf89a1#.pk5i4mdgj",
+    "votes": 3,
+    "posted": "Nov 24, 2016 10:54:48 PM"
   },
   {
     "id": "13032967",
@@ -7865,85 +7881,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/checkpoint/wp/2016/11/16/hezbollah-has-u-s-armored-personnel-carriers-but-how-did-they-get-them/",
     "votes": 3,
     "posted": "Nov 18, 2016 1:10:45 PM"
-  },
-  {
-    "id": "12986060",
-    "timestamp": "Nov 18, 2016 1:17:45 PM",
-    "topic": "Microsoft Replaces Command Prompt with PowerShell in Latest Windows 10 Build",
-    "url": "http://news.softpedia.com/news/microsoft-replaces-command-prompt-with-powershell-in-latest-windows-10-build-510328.shtml",
-    "votes": 5,
-    "posted": "Nov 18, 2016 12:42:55 PM"
-  },
-  {
-    "id": "12986049",
-    "timestamp": "Nov 18, 2016 3:27:57 PM",
-    "topic": "New Metallica album “HARDWIRED…TO SELF-DESTRUCT” is out",
-    "url": "https://www.youtube.com/playlist?list\u003dPLJvQXRgtxlumAHceNRk3cx3P7MZVUCdBl",
-    "votes": 5,
-    "posted": "Nov 18, 2016 12:39:58 PM"
-  },
-  {
-    "id": "12985995",
-    "timestamp": "Nov 19, 2016 12:29:07 AM",
-    "topic": "Talk at Princeton High About Privacy Takes a Controversial Turn",
-    "url": "https://planetprinceton.com/2016/11/17/talk-at-princeton-high-about-digital-privacy-takes-a-controversial-turn-principal-apologizes/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 12:28:40 PM"
-  },
-  {
-    "id": "12985978",
-    "timestamp": "Nov 18, 2016 12:37:39 PM",
-    "topic": "Having-a-work-spouse-makes-you-happier",
-    "url": "http://www.bbc.com/capital/story/20161106-having-a-work-spouse-makes-you-happier",
-    "votes": 5,
-    "posted": "Nov 18, 2016 12:24:33 PM"
-  },
-  {
-    "id": "12985974",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "So I bought a surveillance camera",
-    "url": "https://twitter.com/ErrataRob/status/799556482719162368",
-    "votes": 3,
-    "posted": "Nov 18, 2016 12:23:09 PM"
-  },
-  {
-    "id": "12985965",
-    "timestamp": "Nov 19, 2016 12:29:07 AM",
-    "topic": "IRS Seeks Transaction Records of All Coinbase Users Over Two Years",
-    "url": "https://goldsilverbitcoin.com/irs-seeks-transaction-records-of-all-coinbase-users/",
-    "votes": 6,
-    "posted": "Nov 18, 2016 12:20:48 PM"
-  },
-  {
-    "id": "12985963",
-    "timestamp": "Nov 18, 2016 1:07:43 PM",
-    "topic": "Volkswagen plans 30,000 job cuts worldwide",
-    "url": "http://www.bbc.com/news/business",
-    "votes": 4,
-    "posted": "Nov 18, 2016 12:20:36 PM"
-  },
-  {
-    "id": "12985880",
-    "timestamp": "Nov 18, 2016 12:07:37 PM",
-    "topic": "A love letter to s7 Scheme",
-    "url": "http://carloscarrasco.com/a-love-letter-to-s7-scheme.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 12:00:29 PM"
-  },
-  {
-    "id": "12985866",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "Stephen Hawking has figured out exactly how much time humans have left on earth",
-    "url": "http://www.techly.com.au/2016/11/18/stephen-hawking-has-figured-out-exactly-how-much-time-humans-have-left-on-earth/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:58:46 AM"
-  },
-  {
-    "id": "12985862",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "6 Quick and Proven Tips to Help You Learn JavaScript",
-    "url": "https://medium.com/@AlexDevero/6-quick-proven-tips-to-help-you-learn-javascript-1f27fabf006#.bmrmieawv",
-    "votes": 3,
-    "posted": "Nov 18, 2016 11:57:19 AM"
   }
 ];
