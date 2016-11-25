@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13034116",
+    "timestamp": "Nov 25, 2016 4:12:16 AM",
+    "topic": "Neural Net Trained on Mugshots Predicts Criminals",
+    "url": "https://www.technologyreview.com/s/602955/neural-network-learns-to-identify-criminals-by-their-faces",
+    "votes": 3,
+    "posted": "Nov 25, 2016 3:52:37 AM"
+  },
+  {
+    "id": "13034097",
+    "timestamp": "Nov 25, 2016 4:02:15 AM",
+    "topic": "Russian propaganda effort helped spread ‘fake news’ during election",
+    "url": "https://www.washingtonpost.com/business/economy/russian-propaganda-effort-helped-spread-fake-news-during-election-experts-say/2016/11/24/793903b6-8a40-4ca9-b712-716af66098fe_story.html?utm_source\u003ddigg",
+    "votes": 4,
+    "posted": "Nov 25, 2016 3:46:34 AM"
+  },
+  {
+    "id": "13034052",
+    "timestamp": "Nov 25, 2016 4:02:15 AM",
+    "topic": "Engelbart\u0027s Law",
+    "url": "https://en.wikipedia.org/wiki/Engelbart%27s_Law",
+    "votes": 3,
+    "posted": "Nov 25, 2016 3:32:41 AM"
+  },
+  {
+    "id": "13033881",
+    "timestamp": "Nov 25, 2016 4:12:16 AM",
+    "topic": "Inside Hammercoin: The Bitcoin-Fueled RPG Experiment",
+    "url": "http://mego.cl/2016/11/24/hammercoin.html",
+    "votes": 3,
+    "posted": "Nov 25, 2016 2:35:50 AM"
+  },
+  {
     "id": "13033875",
     "timestamp": "Nov 25, 2016 3:02:10 AM",
     "topic": "Ask HN: What are you thankful for?",
@@ -37,6 +69,14 @@ var newsArray = [
     "url": "https://www.bloomberg.com/news/articles/2016-11-24/china-about-to-start-35-billion-of-silk-road-plan-in-pakistan",
     "votes": 4,
     "posted": "Nov 25, 2016 1:33:33 AM"
+  },
+  {
+    "id": "13033706",
+    "timestamp": "Nov 25, 2016 4:12:17 AM",
+    "topic": "Obama-era techies weigh staying under Trump",
+    "url": "http://www.politico.com/story/2016/11/obama-trump-tech-silicon-valley-231819",
+    "votes": 3,
+    "posted": "Nov 25, 2016 1:32:34 AM"
   },
   {
     "id": "13033693",
@@ -8060,125 +8100,5 @@ var newsArray = [
     "url": "https://github.com/flightaware/Tcl-bounties",
     "votes": 3,
     "posted": "Nov 18, 2016 4:56:54 AM"
-  },
-  {
-    "id": "12984156",
-    "timestamp": "Nov 18, 2016 5:07:01 AM",
-    "topic": "In under 24 hours, two people will die unless we get drones out to Joshua Tree",
-    "url": "https://twitter.com/emblem21CEO/status/799458786792439808",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:50:08 AM"
-  },
-  {
-    "id": "12984135",
-    "timestamp": "Nov 18, 2016 5:47:04 AM",
-    "topic": "The Josephus Problem",
-    "url": "https://www.youtube.com/watch?v\u003duCsD3ZGzMgE",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:45:35 AM"
-  },
-  {
-    "id": "12984121",
-    "timestamp": "Nov 18, 2016 5:07:01 AM",
-    "topic": "20B bbl of oil found in Texas\u0027 Permian Basin",
-    "url": "https://www.theguardian.com/environment/2016/nov/17/untapped-oil-texas-permian-basin-900-billion",
-    "votes": 4,
-    "posted": "Nov 18, 2016 4:43:26 AM"
-  },
-  {
-    "id": "12984100",
-    "timestamp": "Nov 18, 2016 7:47:14 AM",
-    "topic": "Show HN: NYTimesArchive – Python Wrapper for the New York Times Archive API",
-    "url": "https://github.com/davidcox143/nytimesarchive/blob/master/README.md",
-    "votes": 6,
-    "posted": "Nov 18, 2016 4:38:47 AM"
-  },
-  {
-    "id": "12984093",
-    "timestamp": "Nov 18, 2016 5:07:01 AM",
-    "topic": "Fake News on Facebook? In Foreign Elections, That’s Not New",
-    "url": "http://www.nytimes.com/2016/11/18/technology/fake-news-on-facebook-in-foreign-elections-thats-not-new.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003db-lede-package-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
-    "votes": 4,
-    "posted": "Nov 18, 2016 4:37:12 AM"
-  },
-  {
-    "id": "12984077",
-    "timestamp": "Nov 18, 2016 5:07:00 AM",
-    "topic": "Domino raises $10.5M in funding for collaborative, reproducible data science",
-    "url": "https://blog.dominodatalab.com/domino-raises-10-5m-in-funding-for-collaborative-reproducible-data-science/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:34:04 AM"
-  },
-  {
-    "id": "12984023",
-    "timestamp": "Nov 18, 2016 4:36:58 AM",
-    "topic": "Chinese scientists use gene-editing techniques (CRISPR-Cas9) in humans",
-    "url": "http://www.cnn.com/2016/11/15/health/china-human-gene-testing-crispr-cas9/index.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:20:57 AM"
-  },
-  {
-    "id": "12984006",
-    "timestamp": "Nov 18, 2016 4:16:56 AM",
-    "topic": "Facebook Exaggerated Key Ad Metrics",
-    "url": "http://nypost.com/2016/11/17/facebooks-ad-metric-problem-is-becoming-zuckerbergs-headache/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:14:23 AM"
-  },
-  {
-    "id": "12983998",
-    "timestamp": "Nov 18, 2016 4:16:55 AM",
-    "topic": "Gusto is hiring a Site Reliability Engineer in SF to help us scale",
-    "url": "https://boards.greenhouse.io/gusto/jobs/33667",
-    "votes": 1,
-    "posted": "Nov 18, 2016 4:11:35 AM"
-  },
-  {
-    "id": "12983982",
-    "timestamp": "Nov 18, 2016 4:57:00 AM",
-    "topic": "Fake News on Facebook? In Foreign Elections, That’s Not New",
-    "url": "http://www.nytimes.com/2016/11/18/technology/fake-news-on-facebook-in-foreign-elections-thats-not-new.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:06:54 AM"
-  },
-  {
-    "id": "12983965",
-    "timestamp": "Nov 18, 2016 4:26:57 AM",
-    "topic": "OpenAI and Microsoft",
-    "url": "https://openai.com/blog/openai-and-microsoft/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:01:45 AM"
-  },
-  {
-    "id": "12983963",
-    "timestamp": "Nov 18, 2016 4:36:58 AM",
-    "topic": "One Behavior Separates the Successful from the Average",
-    "url": "https://medium.com/the-mission/one-behavior-separates-the-successful-from-the-average-936f7ff04793#.l8otxkroa",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:00:43 AM"
-  },
-  {
-    "id": "12983961",
-    "timestamp": "Nov 18, 2016 5:58:11 PM",
-    "topic": "Priceonomics Idea Tester",
-    "url": "https://priceonomics.com/priceonomics-idea-tester/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:59:56 AM"
-  },
-  {
-    "id": "12983939",
-    "timestamp": "Nov 18, 2016 4:06:54 AM",
-    "topic": "Tech Companies, Fix These Technical Issues Before It’s Too Late",
-    "url": "https://www.eff.org/deeplinks/2016/11/tech-companies-fix-these-technical-issues-its-too-late",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:54:09 AM"
-  },
-  {
-    "id": "12983934",
-    "timestamp": "Nov 18, 2016 4:16:55 AM",
-    "topic": "Introducing code reviews to a team – Part 1",
-    "url": "http://www.depthinfinity.com/2016/03/introducing-code-reviews-to-a-team-part-1/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:52:48 AM"
   }
 ];
