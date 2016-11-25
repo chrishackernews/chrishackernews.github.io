@@ -1,5 +1,36 @@
 var newsArray = [
   {
+    "id": "13034668",
+    "timestamp": "Nov 25, 2016 7:42:36 AM",
+    "topic": "Don\u0027t build private clouds",
+    "url": "https://m.subbu.org/dont-build-private-clouds-9a54b3d30c8b",
+    "votes": 3,
+    "posted": "Nov 25, 2016 7:06:59 AM"
+  },
+  {
+    "id": "13034660",
+    "timestamp": "Nov 25, 2016 7:42:36 AM",
+    "topic": "You may be higher up the global wealth pyramid than you think",
+    "url": "http://www.economist.com/news/business-and-finance/21710771-new-analysis-how-worlds-wealth-distributed-you-may-be-higher-up?fsrc\u003dscn/tw/te/bl/ed/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 7:02:33 AM"
+  },
+  {
+    "id": "13034550",
+    "timestamp": "Nov 25, 2016 7:32:35 AM",
+    "topic": "Rust Standard Hash Table Could Go Quadratic",
+    "url": "http://accidentallyquadratic.tumblr.com/post/153545455987/rust-hash-iteration-reinsertion",
+    "votes": 3,
+    "posted": "Nov 25, 2016 6:19:07 AM"
+  },
+  {
+    "id": "13034546",
+    "timestamp": "Nov 25, 2016 7:42:36 AM",
+    "topic": "Ask HN: Is there anything worth purchasing on Black Friday/Cyber Monday?",
+    "votes": 5,
+    "posted": "Nov 25, 2016 6:18:15 AM"
+  },
+  {
     "id": "13034420",
     "timestamp": "Nov 25, 2016 6:42:30 AM",
     "topic": "Google warns journalists and professors: Your account is under attack",
@@ -294,6 +325,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 10:25:13 PM"
   },
   {
+    "id": "13032808",
+    "timestamp": "Nov 25, 2016 7:42:36 AM",
+    "topic": "Faster Population Counts Using AVX2 Instructions",
+    "url": "https://arxiv.org/abs/1611.07612",
+    "votes": 3,
+    "posted": "Nov 24, 2016 10:13:45 PM"
+  },
+  {
     "id": "13032732",
     "timestamp": "Nov 25, 2016 1:52:05 AM",
     "topic": "Patagonia donating 100% of Black Friday sales to environment organizations",
@@ -414,6 +453,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 8:33:09 PM"
   },
   {
+    "id": "13032244",
+    "timestamp": "Nov 25, 2016 7:12:33 AM",
+    "topic": "The Devil\u0027s Hair Dryer: The Case Against Leaf Blowers",
+    "url": "http://www.citylab.com/navigator/2016/11/the-case-against-neighbors-with-leaf-blowers/506324/?utm_source\u003dSFFB",
+    "votes": 3,
+    "posted": "Nov 24, 2016 8:28:43 PM"
+  },
+  {
     "id": "13032237",
     "timestamp": "Nov 24, 2016 8:41:39 PM",
     "topic": "Zed Shaw: The End of Coder Influence",
@@ -450,6 +497,14 @@ var newsArray = [
     "topic": "Alone on Thanksgiving? Eat at My House",
     "votes": 6,
     "posted": "Nov 24, 2016 8:08:13 PM"
+  },
+  {
+    "id": "13032107",
+    "timestamp": "Nov 25, 2016 7:02:32 AM",
+    "topic": "The Pleasures of Eating (1989)",
+    "url": "http://www.ecoliteracy.org/article/wendell-berry-pleasures-eating",
+    "votes": 3,
+    "posted": "Nov 24, 2016 8:01:39 PM"
   },
   {
     "id": "13032012",
@@ -8042,45 +8097,5 @@ var newsArray = [
     "url": "https://www.bloomberg.com/news/articles/2016-11-18/china-s-happy-to-take-u-s-tech-immigrants-that-trump-blocks",
     "votes": 6,
     "posted": "Nov 18, 2016 8:32:16 AM"
-  },
-  {
-    "id": "12984831",
-    "timestamp": "Nov 18, 2016 7:47:14 AM",
-    "topic": "Captain401 (YC S15) is hiring engineers to help more businesses offer a 401(k)",
-    "url": "https://captain401.com/careers",
-    "votes": 1,
-    "posted": "Nov 18, 2016 7:39:21 AM"
-  },
-  {
-    "id": "12984797",
-    "timestamp": "Nov 18, 2016 11:57:36 AM",
-    "topic": "Tesla and SolarCity shareholders approve $2.6B merger",
-    "url": "http://arstechnica.com/business/2016/11/tesla-and-solarcity-shareholders-approve-2-6-billion-merger/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 7:29:59 AM"
-  },
-  {
-    "id": "12984734",
-    "timestamp": "Nov 18, 2016 3:17:56 PM",
-    "topic": "Obama Reckons with a Trump Presidency",
-    "url": "http://www.newyorker.com/magazine/2016/11/28/obama-reckons-with-a-trump-presidency",
-    "votes": 4,
-    "posted": "Nov 18, 2016 7:14:01 AM"
-  },
-  {
-    "id": "12984709",
-    "timestamp": "Nov 18, 2016 7:57:15 AM",
-    "topic": "Koto.js – a D3.js charting framework written in ES6",
-    "url": "http://kotojs.org/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 7:06:39 AM"
-  },
-  {
-    "id": "12984668",
-    "timestamp": "Nov 18, 2016 7:17:11 AM",
-    "topic": "Kubernetes Founders Launched Startup Heptio to Bring Containers to Enterprise",
-    "url": "http://blog.calsoftinc.com/industry_insights/kubernetes-founders-create-company-heptio-to-bring-kubernetes-and-containers-to-the-enterprise",
-    "votes": 4,
-    "posted": "Nov 18, 2016 6:54:43 AM"
   }
 ];
