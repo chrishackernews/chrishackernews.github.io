@@ -1,11 +1,42 @@
 var newsArray = [
   {
+    "id": "13033875",
+    "timestamp": "Nov 25, 2016 3:02:10 AM",
+    "topic": "Ask HN: What are you thankful for?",
+    "votes": 4,
+    "posted": "Nov 25, 2016 2:34:43 AM"
+  },
+  {
     "id": "13033849",
     "timestamp": "Nov 25, 2016 2:52:09 AM",
     "topic": "Asking for a raise – and getting it",
     "url": "http://devcareermastery.com/asking-for-a-raise-and-getting-it/",
     "votes": 3,
     "posted": "Nov 25, 2016 2:26:53 AM"
+  },
+  {
+    "id": "13033836",
+    "timestamp": "Nov 25, 2016 3:02:11 AM",
+    "topic": "The KGB\u0027s Middle East Files: Leaking Thousands of Documents",
+    "url": "http://www.ynetnews.com/articles/0,7340,L-4869986,00.html",
+    "votes": 3,
+    "posted": "Nov 25, 2016 2:20:22 AM"
+  },
+  {
+    "id": "13033725",
+    "timestamp": "Nov 25, 2016 3:32:13 AM",
+    "topic": "Matrix Multiplication",
+    "url": "http://matrixmultiplication.xyz/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 1:37:00 AM"
+  },
+  {
+    "id": "13033707",
+    "timestamp": "Nov 25, 2016 3:52:14 AM",
+    "topic": "China About to Start $35B of Silk Road Plan in Pakistan",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-24/china-about-to-start-35-billion-of-silk-road-plan-in-pakistan",
+    "votes": 4,
+    "posted": "Nov 25, 2016 1:33:33 AM"
   },
   {
     "id": "13033693",
@@ -8149,69 +8180,5 @@ var newsArray = [
     "url": "http://www.depthinfinity.com/2016/03/introducing-code-reviews-to-a-team-part-1/",
     "votes": 4,
     "posted": "Nov 18, 2016 3:52:48 AM"
-  },
-  {
-    "id": "12983874",
-    "timestamp": "Nov 18, 2016 4:16:56 AM",
-    "topic": "Police are using software to predict crime. Is it biased against minorities?",
-    "url": "https://www.washingtonpost.com/local/public-safety/police-are-using-software-to-predict-crime-is-it-a-holy-grail-or-biased-against-minorities/2016/11/17/525a6649-0472-440a-aae1-b283aa8e5de8_story.html",
-    "votes": 4,
-    "posted": "Nov 18, 2016 3:37:11 AM"
-  },
-  {
-    "id": "12983841",
-    "timestamp": "Nov 18, 2016 4:16:56 AM",
-    "topic": "Why the World Needs WikiLeaks",
-    "url": "http://www.nytimes.com/2016/11/17/opinion/why-the-world-needs-wikileaks.html",
-    "votes": 6,
-    "posted": "Nov 18, 2016 3:30:42 AM"
-  },
-  {
-    "id": "12983827",
-    "timestamp": "Nov 18, 2016 4:06:54 AM",
-    "topic": "Automated Inference on Criminality Using Face Images",
-    "url": "https://arxiv.org/abs/1611.04135",
-    "votes": 5,
-    "posted": "Nov 18, 2016 3:27:53 AM"
-  },
-  {
-    "id": "12983801",
-    "timestamp": "Nov 18, 2016 8:17:17 AM",
-    "topic": "Why Power Women Are Micro-Dosing LSD at Work",
-    "url": "http://www.marieclaire.com/culture/news/a23669/power-women-microdosing-lsd/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 3:22:55 AM"
-  },
-  {
-    "id": "12983798",
-    "timestamp": "Nov 18, 2016 3:56:54 AM",
-    "topic": "Clones: If Apple doesn’t want to innovate the desktop Mac, it should let others",
-    "url": "https://9to5mac.com/2016/11/17/apples-future-in-the-desktop-computer-business/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 3:22:11 AM"
-  },
-  {
-    "id": "12983759",
-    "timestamp": "Nov 18, 2016 3:56:53 AM",
-    "topic": "Launch of new Galileo navigation quartet",
-    "url": "http://www.esa.int/Our_Activities/Navigation/Galileo/Launching_Galileo/Launch_of_new_Galileo_navigation_quartet",
-    "votes": 3,
-    "posted": "Nov 18, 2016 3:11:01 AM"
-  },
-  {
-    "id": "12983740",
-    "timestamp": "Nov 18, 2016 3:26:51 AM",
-    "topic": "Jay W. Forrester Dies at 98; a Pioneer in Computer Models",
-    "url": "http://mobile.nytimes.com/2016/11/18/technology/jay-forrester-dead.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 3:05:17 AM"
-  },
-  {
-    "id": "12983669",
-    "timestamp": "Nov 18, 2016 4:16:56 AM",
-    "topic": "How Russia Pulled Off the Biggest Election Hack in U.S. History",
-    "url": "http://www.esquire.com/news-politics/a49791/russian-dnc-emails-hacked/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:52:53 AM"
   }
 ];
