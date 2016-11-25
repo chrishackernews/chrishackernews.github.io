@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13033849",
+    "timestamp": "Nov 25, 2016 2:52:09 AM",
+    "topic": "Asking for a raise – and getting it",
+    "url": "http://devcareermastery.com/asking-for-a-raise-and-getting-it/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 2:26:53 AM"
+  },
+  {
     "id": "13033693",
     "timestamp": "Nov 25, 2016 1:42:04 AM",
     "topic": "IBM to pay more than $30m in compensation for Australian census fail",
@@ -200,6 +208,14 @@ var newsArray = [
     "posted": "Nov 24, 2016 8:59:29 PM"
   },
   {
+    "id": "13032357",
+    "timestamp": "Nov 25, 2016 2:52:10 AM",
+    "topic": "Show HN: Redis compressed values module using Zstandard",
+    "url": "https://github.com/chadnickbok/redis-zstd-module",
+    "votes": 6,
+    "posted": "Nov 24, 2016 8:49:47 PM"
+  },
+  {
     "id": "13032264",
     "timestamp": "Nov 24, 2016 11:01:51 PM",
     "topic": "Forbidden Spheres",
@@ -389,6 +405,13 @@ var newsArray = [
     "url": "http://www.telegraph.co.uk/news/2016/11/24/barcelona-fine-airbnb-homeaway600000-offering-illegal-accommodation/",
     "votes": 3,
     "posted": "Nov 24, 2016 4:06:45 PM"
+  },
+  {
+    "id": "13030639",
+    "timestamp": "Nov 25, 2016 2:12:06 AM",
+    "topic": "Ask HN: What\u0027s it like coming back to Windows from OS X?",
+    "votes": 3,
+    "posted": "Nov 24, 2016 4:03:42 PM"
   },
   {
     "id": "13030603",
@@ -8190,84 +8213,5 @@ var newsArray = [
     "url": "http://www.esquire.com/news-politics/a49791/russian-dnc-emails-hacked/",
     "votes": 3,
     "posted": "Nov 18, 2016 2:52:53 AM"
-  },
-  {
-    "id": "12983584",
-    "timestamp": "Nov 18, 2016 3:47:59 PM",
-    "topic": "An Alarm Designer on How to Annoy People in the Most Effective Ways",
-    "url": "http://www.atlasobscura.com/articles/an-alarm-designer-on-how-to-annoy-people-in-the-most-effective-ways",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:33:08 AM"
-  },
-  {
-    "id": "12983571",
-    "timestamp": "Nov 18, 2016 6:57:09 AM",
-    "topic": "Microsoft to Retire DataMarket in March 2017",
-    "url": "https://social.msdn.microsoft.com/Forums/en-US/1005630f-a6da-4b00-ad4e-adfc968d9416/azure-datamarket-to-retire-on-march-31-2017?forum\u003dDataMarket",
-    "votes": 5,
-    "posted": "Nov 18, 2016 2:29:19 AM"
-  },
-  {
-    "id": "12983554",
-    "timestamp": "Nov 18, 2016 3:26:51 AM",
-    "topic": "Trump offers retired Lt. Gen. Michael Flynn the job of national security adviser",
-    "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/11/17/trump-offers-retired-lt-gen-michael-flynn-the-job-of-national-security-adviser-a-person-close-to-the-transition-says/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 2:26:49 AM"
-  },
-  {
-    "id": "12983551",
-    "timestamp": "Nov 18, 2016 7:47:14 AM",
-    "topic": "Everything you need to know about pointers in C",
-    "url": "http://boredzo.org/pointers/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 2:26:05 AM"
-  },
-  {
-    "id": "12983509",
-    "timestamp": "Nov 18, 2016 4:26:57 AM",
-    "topic": "New Way of Transforming CO2 Is More Efficient Than What Plants Do",
-    "url": "http://www.popularmechanics.com/science/energy/a23938/fix-carbon-dioxide-useful-products/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:20:15 AM"
-  },
-  {
-    "id": "12983507",
-    "timestamp": "Nov 18, 2016 2:46:48 AM",
-    "topic": "Decrypting TLS Browser Traffic with Wireshark – The Easy Way",
-    "url": "https://jimshaver.net/2015/02/11/decrypting-tls-browser-traffic-with-wireshark-the-easy-way/",
-    "votes": 6,
-    "posted": "Nov 18, 2016 2:19:50 AM"
-  },
-  {
-    "id": "12983505",
-    "timestamp": "Nov 18, 2016 2:37:52 PM",
-    "topic": "Ask HN: How to structure coaching/mentoring for best results",
-    "votes": 6,
-    "posted": "Nov 18, 2016 2:19:40 AM"
-  },
-  {
-    "id": "12983495",
-    "timestamp": "Nov 18, 2016 3:16:50 AM",
-    "topic": "Navy identifies mystery plane over Denver; Its mission still a secret",
-    "url": "http://www.thedenverchannel.com/news/local-news/navy-identifies-mystery-plane-over-denver-its-mission-still-a-secret",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:17:06 AM"
-  },
-  {
-    "id": "12983417",
-    "timestamp": "Nov 19, 2016 9:51:04 PM",
-    "topic": "Who Will Command the Robot Armies?",
-    "url": "http://idlewords.com/talks/robot_armies.htm",
-    "votes": 14,
-    "posted": "Nov 18, 2016 2:05:04 AM"
-  },
-  {
-    "id": "12983347",
-    "timestamp": "Nov 19, 2016 6:30:36 PM",
-    "topic": "The Intrusion Artist: Robert Bresson",
-    "url": "http://www.publicbooks.org//artmedia/the-intrusion-artist",
-    "votes": 3,
-    "posted": "Nov 18, 2016 1:52:56 AM"
   }
 ];
