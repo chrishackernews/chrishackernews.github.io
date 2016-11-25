@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13036648",
+    "timestamp": "Nov 25, 2016 2:53:12 PM",
+    "topic": "Of course Zuckerberg wants to bow to Chinese censorship",
+    "url": "https://m.signalvnoise.com/of-course-zuckerberg-wants-to-bow-to-chinese-censorship-de5e7a5fa6c1#.cnsseo5yc",
+    "votes": 8,
+    "posted": "Nov 25, 2016 2:39:57 PM"
+  },
+  {
+    "id": "13036644",
+    "timestamp": "Nov 25, 2016 2:53:12 PM",
+    "topic": "Show HN: Infinity School - Learning through making and discovery",
+    "url": "https://www.infinityschool.co.uk/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 2:39:40 PM"
+  },
+  {
+    "id": "13036386",
+    "timestamp": "Nov 25, 2016 2:33:10 PM",
+    "topic": "Matrix Multiplication",
+    "url": "http://matrixmultiplication.xyz/",
+    "votes": 9,
+    "posted": "Nov 25, 2016 1:57:50 PM"
+  },
+  {
+    "id": "13036347",
+    "timestamp": "Nov 25, 2016 2:13:08 PM",
+    "topic": "Tron-like bikes leave behind trails of neon lights in fantastic video",
+    "url": "http://www.designfaves.com/2016/11/tron-like-bikes-leave-behind-trails-of-neon-lights-in-fantastic-video",
+    "votes": 4,
+    "posted": "Nov 25, 2016 1:49:55 PM"
+  },
+  {
+    "id": "13036344",
+    "timestamp": "Nov 25, 2016 2:03:07 PM",
+    "topic": "“Your program is stupid. It doesn\u0027t work,” my wife told me (2010)",
+    "url": "http://stevehanov.ca/blog/index.php?id\u003d101",
+    "votes": 3,
+    "posted": "Nov 25, 2016 1:49:33 PM"
+  },
+  {
     "id": "13036320",
     "timestamp": "Nov 25, 2016 1:53:06 PM",
     "topic": "Publishing ASP.NET Core 1.1 applications to Azure using Git deploy",
@@ -14,6 +54,14 @@ var newsArray = [
     "url": "https://channel9.msdn.com/Events/Connect/2016/149",
     "votes": 6,
     "posted": "Nov 25, 2016 1:24:43 PM"
+  },
+  {
+    "id": "13036208",
+    "timestamp": "Nov 25, 2016 2:03:07 PM",
+    "topic": "A simple tv show tracker for your terminal",
+    "url": "https://github.com/hiquest/tvcl",
+    "votes": 3,
+    "posted": "Nov 25, 2016 1:21:59 PM"
   },
   {
     "id": "13036115",
@@ -166,6 +214,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 6:18:15 AM"
   },
   {
+    "id": "13034499",
+    "timestamp": "Nov 25, 2016 2:03:07 PM",
+    "topic": "Insanity with Elixir, Phoenix and PostgreSQL",
+    "url": "http://www.brightball.com/articles/insanity-with-elixir-phoenix-postgresql",
+    "votes": 4,
+    "posted": "Nov 25, 2016 5:59:47 AM"
+  },
+  {
     "id": "13034420",
     "timestamp": "Nov 25, 2016 6:42:30 AM",
     "topic": "Google warns journalists and professors: Your account is under attack",
@@ -204,6 +260,14 @@ var newsArray = [
     "url": "https://github.com/ElemeFE/restc",
     "votes": 3,
     "posted": "Nov 25, 2016 4:24:57 AM"
+  },
+  {
+    "id": "13034209",
+    "timestamp": "Nov 25, 2016 2:03:08 PM",
+    "topic": "American Somoa island now powered almost entirely by solar energy",
+    "url": "https://www.washingtonpost.com/news/energy-environment/wp/2016/11/24/this-island-is-now-powered-almost-entirely-by-solar-energy",
+    "votes": 5,
+    "posted": "Nov 25, 2016 4:18:00 AM"
   },
   {
     "id": "13034201",
@@ -800,6 +864,14 @@ var newsArray = [
     "url": "https://www.linkedin.com/pulse/online-summarizers-overview-yuri-kitin?trk\u003dprof-post",
     "votes": 3,
     "posted": "Nov 24, 2016 4:17:57 PM"
+  },
+  {
+    "id": "13030705",
+    "timestamp": "Nov 25, 2016 2:53:12 PM",
+    "topic": "Show HN: Marketplacestack.com – Tools for online marketplaces",
+    "url": "http://marketplacestack.com",
+    "votes": 4,
+    "posted": "Nov 24, 2016 4:16:49 PM"
   },
   {
     "id": "13030654",
@@ -7874,61 +7946,5 @@ var newsArray = [
     "url": "https://codewithoutrules.com/2016/11/18/rsi-solution/",
     "votes": 9,
     "posted": "Nov 18, 2016 2:59:32 PM"
-  },
-  {
-    "id": "12986688",
-    "timestamp": "Nov 18, 2016 4:48:05 PM",
-    "topic": "MacBook Pro 15“ Touch Bar Teardown",
-    "url": "https://www.ifixit.com/Teardown/MacBook+Pro+15-Inch+Touch+Bar+Teardown/73395",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:49:23 PM"
-  },
-  {
-    "id": "12986649",
-    "timestamp": "Nov 18, 2016 2:57:54 PM",
-    "topic": "The unlikely origin story of Google Analytics, 1996–2005-ish",
-    "url": "https://urchin.biz/urchin-software-corp-89a1f5292999",
-    "votes": 5,
-    "posted": "Nov 18, 2016 2:42:25 PM"
-  },
-  {
-    "id": "12986611",
-    "timestamp": "Nov 19, 2016 12:19:07 AM",
-    "topic": "Chrome Extension which warns against fake news and Satire in FB",
-    "url": "https://chrome.google.com/webstore/detail/news-guardian/iinonikkakojeckpagjdodleifjdaeae",
-    "votes": 4,
-    "posted": "Nov 18, 2016 2:37:03 PM"
-  },
-  {
-    "id": "12986597",
-    "timestamp": "Nov 18, 2016 2:57:55 PM",
-    "topic": "Apple admits to iPhone ‘touch disease,’ blames users and offers $149 fix",
-    "url": "http://www.siliconbeat.com/2016/11/17/apple-admits-iphone-touch-disease-blames-users-offers-149-fix/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 2:34:02 PM"
-  },
-  {
-    "id": "12986513",
-    "timestamp": "Nov 18, 2016 2:27:51 PM",
-    "topic": "[Tesla] Solar Roof Cheaper Than Regular Roof BEFORE Solar Energy",
-    "url": "https://electrek.co/2016/11/17/tesla-solar-roof-cost-less-than-regular-roof-even-before-energy-production-elon-musk/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:21:10 PM"
-  },
-  {
-    "id": "12986492",
-    "timestamp": "Nov 18, 2016 5:38:09 PM",
-    "topic": "Why did we redesign Thunderbird?",
-    "url": "http://monterail.com/blog/2016/the-power-of-email-clients-why-did-we-redesign-thunderbird/?utm_campaign\u003dThunderbird\u0026utm_medium\u003dsocial\u0026utm_source\u003dhackernews",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:18:16 PM"
-  },
-  {
-    "id": "12986433",
-    "timestamp": "Nov 18, 2016 2:17:50 PM",
-    "topic": "Gmail Backup Software",
-    "url": "https://github.com/gaubert/gmvault",
-    "votes": 3,
-    "posted": "Nov 18, 2016 2:07:15 PM"
   }
 ];
