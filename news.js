@@ -1,5 +1,45 @@
 var newsArray = [
   {
+    "id": "13033347",
+    "timestamp": "Nov 25, 2016 12:52:00 AM",
+    "topic": "Making a Man of the Mad Monk",
+    "url": "https://lareviewofbooks.org/article/making-man-mad-monk/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 12:04:32 AM"
+  },
+  {
+    "id": "13033318",
+    "timestamp": "Nov 25, 2016 12:31:59 AM",
+    "topic": "Intel Unveils Strategy for State-Of-the-Art Artificial Intelligence",
+    "url": "https://newsroom.intel.com/news-releases/intel-ai-day-news-release/",
+    "votes": 5,
+    "posted": "Nov 24, 2016 11:57:50 PM"
+  },
+  {
+    "id": "13033299",
+    "timestamp": "Nov 25, 2016 12:11:57 AM",
+    "topic": "Joe Armstrong Interviews Alan Kay [video]",
+    "url": "https://www.youtube.com/watch?v\u003dfhOHn9TClXY",
+    "votes": 6,
+    "posted": "Nov 24, 2016 11:52:06 PM"
+  },
+  {
+    "id": "13033290",
+    "timestamp": "Nov 25, 2016 12:21:58 AM",
+    "topic": "Hieronymus Bosch\u0027s Medieval Painting Comes to Life in an Animation",
+    "url": "http://www.openculture.com/2016/11/hieronymus-boschs-medieval-painting-the-garden-of-earthly-delights-comes-to-life-in-a-gigantic-modern-animation.html",
+    "votes": 3,
+    "posted": "Nov 24, 2016 11:50:54 PM"
+  },
+  {
+    "id": "13033243",
+    "timestamp": "Nov 25, 2016 12:11:57 AM",
+    "topic": "Cassandra is not row level consistent",
+    "url": "http://datanerds.io/post/cassandra-no-row-consistency/",
+    "votes": 4,
+    "posted": "Nov 24, 2016 11:39:10 PM"
+  },
+  {
     "id": "13033115",
     "timestamp": "Nov 24, 2016 11:41:54 PM",
     "topic": "Heterodox Academy Condemns Professor Watchlist",
@@ -8,12 +48,28 @@ var newsArray = [
     "posted": "Nov 24, 2016 11:16:18 PM"
   },
   {
+    "id": "13033067",
+    "timestamp": "Nov 25, 2016 12:21:58 AM",
+    "topic": "Inside a Moneymaking Machine Like No Other",
+    "url": "https://www.bloomberg.com/news/articles/2016-11-21/how-renaissance-s-medallion-fund-became-finance-s-blackest-box?cmpid%253D\u003dsocialflow-twitter-hedgebrief",
+    "votes": 3,
+    "posted": "Nov 24, 2016 11:05:39 PM"
+  },
+  {
     "id": "13032967",
     "timestamp": "Nov 24, 2016 11:41:54 PM",
     "topic": "Strowger Telephone Switch (1891)",
     "url": "https://en.wikipedia.org/wiki/Strowger_switch",
     "votes": 6,
     "posted": "Nov 24, 2016 10:43:13 PM"
+  },
+  {
+    "id": "13032920",
+    "timestamp": "Nov 25, 2016 12:11:57 AM",
+    "topic": "Venezuela’s PdVSA Misses $404M Payments on Bonds",
+    "url": "http://www.wsj.com/articles/venezuelas-pdvsa-misses-404-million-payments-on-bonds-1479768989",
+    "votes": 4,
+    "posted": "Nov 24, 2016 10:33:19 PM"
   },
   {
     "id": "13032859",
@@ -8237,52 +8293,5 @@ var newsArray = [
     "url": "http://www.nbcnews.com/news/us-news/google-think-tank-launches-new-weapon-fight-against-isis-n682036",
     "votes": 3,
     "posted": "Nov 18, 2016 12:55:09 AM"
-  },
-  {
-    "id": "12982982",
-    "timestamp": "Nov 18, 2016 5:28:08 PM",
-    "topic": "Creating the Philosopher\u0027s Stone: The Medieval Science of Color and Alchemy",
-    "url": "http://www.forbes.com/sites/drsarahbond/2016/11/16/creating-the-philosophers-stone-the-medieval-science-of-color-and-alchemy/#5ecde6e14f1f",
-    "votes": 5,
-    "posted": "Nov 18, 2016 12:51:29 AM"
-  },
-  {
-    "id": "12982895",
-    "timestamp": "Nov 18, 2016 12:46:40 AM",
-    "topic": "SimplyInsured (YC W13) Is Hiring Software Engineers to Change Healthcare",
-    "url": "https://simplyinsured.com/jobs",
-    "votes": 1,
-    "posted": "Nov 18, 2016 12:39:13 AM"
-  },
-  {
-    "id": "12982831",
-    "timestamp": "Nov 18, 2016 12:56:40 AM",
-    "topic": "Ask HN: What\u0027s your go-to back end for simple projects?",
-    "votes": 5,
-    "posted": "Nov 18, 2016 12:32:11 AM"
-  },
-  {
-    "id": "12982811",
-    "timestamp": "Nov 19, 2016 12:39:09 AM",
-    "topic": "Some genetic disorders may be caused by defects we couldn’t detect",
-    "url": "http://arstechnica.com/science/2016/11/some-genetic-disorders-may-be-caused-by-defects-we-couldnt-detect/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 12:30:31 AM"
-  },
-  {
-    "id": "12982738",
-    "timestamp": "Nov 18, 2016 12:36:39 AM",
-    "topic": "Airbnb expands to experiences",
-    "url": "http://airbnb.com/new",
-    "votes": 10,
-    "posted": "Nov 18, 2016 12:20:41 AM"
-  },
-  {
-    "id": "12982559",
-    "timestamp": "Nov 18, 2016 3:36:52 AM",
-    "topic": "How Google has knowingly enabled piracy for years, and still does",
-    "url": "https://blog.turbo.run/how-google-has-knowingly-enabled-piracy-for-years-and-still-does/",
-    "votes": 9,
-    "posted": "Nov 17, 2016 11:57:53 PM"
   }
 ];
