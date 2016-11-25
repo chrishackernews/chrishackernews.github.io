@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13035114",
+    "timestamp": "Nov 25, 2016 10:52:53 AM",
+    "topic": "UK: Your entire internet history to be viewable by many agencies",
+    "url": "http://www.belfasttelegraph.co.uk/technology/your-entire-internet-history-to-be-viewable-by-psni-taxman-dwp-and-food-standards-agency-and-other-government-bodies-within-weeks-35242522.html",
+    "votes": 6,
+    "posted": "Nov 25, 2016 9:35:56 AM"
+  },
+  {
     "id": "13034936",
     "timestamp": "Nov 25, 2016 9:22:46 AM",
     "topic": "Data is being send to Google every time you execute a command with brew",
@@ -8000,85 +8008,5 @@ var newsArray = [
     "url": "http://nullprogram.com/blog/2016/11/17/",
     "votes": 7,
     "posted": "Nov 18, 2016 10:53:10 AM"
-  },
-  {
-    "id": "12985584",
-    "timestamp": "Nov 18, 2016 1:07:43 PM",
-    "topic": "Weekly Inspiration for Designers #77",
-    "url": "https://medium.muz.li/weekly-inspiration-for-designers-77-c6561015893e#.vcqcoq2ve",
-    "votes": 5,
-    "posted": "Nov 18, 2016 10:51:45 AM"
-  },
-  {
-    "id": "12985583",
-    "timestamp": "Nov 18, 2016 11:47:34 AM",
-    "topic": "Open Sourcing the Microsoft JDBC Driver and Maven Support",
-    "url": "https://blogs.msdn.microsoft.com/jdbcteam/2016/11/17/open-source-jdbc-maven/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 10:51:37 AM"
-  },
-  {
-    "id": "12985527",
-    "timestamp": "Nov 18, 2016 10:57:29 AM",
-    "topic": "RIP Apple MacBook",
-    "url": "https://sheep.horse/2016/11/rip_apple_macbook.html",
-    "votes": 6,
-    "posted": "Nov 18, 2016 10:37:15 AM"
-  },
-  {
-    "id": "12985526",
-    "timestamp": "Nov 18, 2016 2:17:50 PM",
-    "topic": "Touch Bar MacBook Pro teardown finds some unpleasant surprises",
-    "url": "http://arstechnica.com/apple/2016/11/touch-bar-mbp-teardown-soldered-ssd-cosmetic-speaker-holes-and-more/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 10:37:13 AM"
-  },
-  {
-    "id": "12985525",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "DIY Kubernetes cluster with x86 stick-pcs",
-    "url": "https://hackernoon.com/diy-kubernetes-cluster-with-x86-stick-pcs-b0b6b879f8a7#.vdx36xv73",
-    "votes": 5,
-    "posted": "Nov 18, 2016 10:36:46 AM"
-  },
-  {
-    "id": "12985517",
-    "timestamp": "Nov 18, 2016 3:37:58 PM",
-    "topic": "Cancer girl, 14, is cryogenically frozen",
-    "url": "http://www.telegraph.co.uk/news/2016/11/18/cancer-girl-14-is-cryogenically-frozen-after-telling-judge-she-w/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 10:35:04 AM"
-  },
-  {
-    "id": "12985509",
-    "timestamp": "Nov 18, 2016 11:57:36 AM",
-    "topic": "Side-Project",
-    "url": "http://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg",
-    "votes": 6,
-    "posted": "Nov 18, 2016 10:33:07 AM"
-  },
-  {
-    "id": "12985503",
-    "timestamp": "Nov 18, 2016 11:07:30 AM",
-    "topic": "IA Writer 4",
-    "url": "https://ia.net/writer/updates/ia-writer-4",
-    "votes": 6,
-    "posted": "Nov 18, 2016 10:29:58 AM"
-  },
-  {
-    "id": "12985480",
-    "timestamp": "Nov 18, 2016 3:17:56 PM",
-    "topic": "Updating my plane’s very old GPS data in a very modern way",
-    "url": "http://dmitry.gr/index.php?r\u003d05.Projects\u0026proj\u003d21.%20KLN89",
-    "votes": 4,
-    "posted": "Nov 18, 2016 10:25:48 AM"
-  },
-  {
-    "id": "12985397",
-    "timestamp": "Nov 18, 2016 10:47:28 AM",
-    "topic": "Rocket Berlin lays off 75% of staff in surprise workforce reduction",
-    "url": "https://translate.google.com/translate?sl\u003dauto\u0026tl\u003den\u0026js\u003dy\u0026prev\u003d_t\u0026hl\u003den\u0026ie\u003dUTF-8\u0026u\u003dhttp%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Funternehmen%2Frocket-internet-baut-in-berlin-massiv-personal-ab-a-1121905.html\u0026edit-text\u003d\u0026act\u003durl",
-    "votes": 3,
-    "posted": "Nov 18, 2016 10:07:32 AM"
   }
 ];
