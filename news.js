@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "13039606",
+    "timestamp": "Nov 25, 2016 9:44:00 PM",
+    "topic": "I can’t just stand by and watch Mark Zuckerberg destroy the internet",
+    "url": "https://medium.freecodecamp.com/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1#.56198o9b0",
+    "votes": 3,
+    "posted": "Nov 25, 2016 9:30:41 PM"
+  },
+  {
+    "id": "13039272",
+    "timestamp": "Nov 25, 2016 9:23:58 PM",
+    "topic": "The Thin Gene",
+    "url": "http://www.nytimes.com/2016/11/25/opinion/sunday/the-thin-gene.html?action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003dopinion-c-col-right-region\u0026region\u003dopinion-c-col-right-region\u0026WT.nav\u003dopinion-c-col-right-region",
+    "votes": 4,
+    "posted": "Nov 25, 2016 8:38:09 PM"
+  },
+  {
     "id": "13039227",
     "timestamp": "Nov 25, 2016 8:43:48 PM",
     "topic": "Tesla received fraction of the subsidies the Big 3 and oil industry have received",
     "url": "https://electrek.co/2016/11/25/tesla-subsidies-big-three-oil-industry/",
     "votes": 4,
     "posted": "Nov 25, 2016 8:29:41 PM"
+  },
+  {
+    "id": "13039195",
+    "timestamp": "Nov 25, 2016 9:54:01 PM",
+    "topic": "A Startup Trying to Help Its Workers While Fighting Regulations",
+    "url": "https://www.buzzfeed.com/carolineodonovan/this-startup-is-trying-to-help-its-workers-while-fighting-re?utm_term\u003d.savEEGbNWq",
+    "votes": 3,
+    "posted": "Nov 25, 2016 8:25:27 PM"
+  },
+  {
+    "id": "13039173",
+    "timestamp": "Nov 25, 2016 9:23:59 PM",
+    "topic": "NY explorers find 1872 shipwreck of rare Great Lakes vessel",
+    "url": "http://www.ksby.com/story/33791574/ny-explorers-find-1872-shipwreck-of-rare-great-lakes-vessel",
+    "votes": 4,
+    "posted": "Nov 25, 2016 8:22:37 PM"
   },
   {
     "id": "13038990",
@@ -7778,45 +7810,5 @@ var newsArray = [
     "url": "https://apply.ptt.gov/yourstory/",
     "votes": 7,
     "posted": "Nov 18, 2016 10:06:00 PM"
-  },
-  {
-    "id": "12989971",
-    "timestamp": "Nov 19, 2016 5:09:32 AM",
-    "topic": "IRS to Coinbase: please identify active US traders between 2013 and 2015",
-    "url": "http://arstechnica.com/tech-policy/2016/11/irs-to-coinbase-please-identify-active-us-traders-between-2013-and-2015/",
-    "votes": 10,
-    "posted": "Nov 18, 2016 9:50:55 PM"
-  },
-  {
-    "id": "12989954",
-    "timestamp": "Nov 18, 2016 11:29:00 PM",
-    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
-    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#.6cjs8pcmm",
-    "votes": 4,
-    "posted": "Nov 18, 2016 9:48:14 PM"
-  },
-  {
-    "id": "12989901",
-    "timestamp": "Nov 18, 2016 10:08:45 PM",
-    "topic": "The Non-Technical Guide to Machine Learning and Artificial Intelligence",
-    "url": "https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0#.a8xlu9uin",
-    "votes": 4,
-    "posted": "Nov 18, 2016 9:40:32 PM"
-  },
-  {
-    "id": "12989729",
-    "timestamp": "Nov 18, 2016 9:48:42 PM",
-    "topic": "New drug dispenser may turn human beings into chemical weapons",
-    "url": "http://www.economist.com/news/science-and-technology/21710243-new-drug-dispenser-may-turn-human-beings-chemical-weapons-biter-bit",
-    "votes": 4,
-    "posted": "Nov 18, 2016 9:13:39 PM"
-  },
-  {
-    "id": "12989646",
-    "timestamp": "Nov 18, 2016 9:58:44 PM",
-    "topic": "Ground Up Review of NN Architecture Used for Google\u0027s Neural Machine Translation",
-    "url": "http://smerity.com/articles/2016/google_nmt_arch.html",
-    "votes": 4,
-    "posted": "Nov 18, 2016 9:02:28 PM"
   }
 ];
