@@ -1,11 +1,67 @@
 var newsArray = [
   {
+    "id": "13036320",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "Publishing ASP.NET Core 1.1 applications to Azure using Git deploy",
+    "url": "http://www.hanselman.com/blog/PublishingASPNETCore11ApplicationsToAzureUsingGitDeploy.aspx",
+    "votes": 6,
+    "posted": "Nov 25, 2016 1:43:52 PM"
+  },
+  {
+    "id": "13036228",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "Visual Studio 2017 improvements for C# [video]",
+    "url": "https://channel9.msdn.com/Events/Connect/2016/149",
+    "votes": 6,
+    "posted": "Nov 25, 2016 1:24:43 PM"
+  },
+  {
+    "id": "13036115",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "The 13 impossible crises that humanity now faces",
+    "url": "https://www.theguardian.com/commentisfree/2016/nov/25/13-crises-we-face-trump-soil-loss-global-collapse",
+    "votes": 3,
+    "posted": "Nov 25, 2016 1:05:17 PM"
+  },
+  {
+    "id": "13036095",
+    "timestamp": "Nov 25, 2016 1:13:03 PM",
+    "topic": "Distributed Jamming with Sonic Pi and Erlang (Code Mesh Keynote)",
+    "url": "https://www.youtube.com/watch?v\u003d4SUdnOUKGmo",
+    "votes": 4,
+    "posted": "Nov 25, 2016 1:01:12 PM"
+  },
+  {
+    "id": "13036087",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "Does Google\u0027s Hiring Process Put Off Talented Applicants?",
+    "url": "https://shkspr.mobi/blog/2016/11/does-googles-hiring-process-put-off-talented-applicants/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 12:59:36 PM"
+  },
+  {
+    "id": "13035996",
+    "timestamp": "Nov 25, 2016 1:13:03 PM",
+    "topic": "Repeal the New Surveillance Laws (Investigatory Powers Act)",
+    "url": "https://petition.parliament.uk/petitions/173199",
+    "votes": 5,
+    "posted": "Nov 25, 2016 12:40:01 PM"
+  },
+  {
     "id": "13035876",
     "timestamp": "Nov 25, 2016 12:43:00 PM",
     "topic": "How Can I Protect Myself from (UK) Government Snoopers?",
     "url": "https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers",
     "votes": 10,
     "posted": "Nov 25, 2016 12:11:25 PM"
+  },
+  {
+    "id": "13035487",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "Tutorial: Metacompilers Part 1",
+    "url": "http://www.bayfronttechnologies.com/mc_tutorial.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 10:48:46 AM"
   },
   {
     "id": "13035241",
@@ -24,6 +80,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 9:35:56 AM"
   },
   {
+    "id": "13035020",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "Perl 6 is biased towards mutators being really simple. That’s a good thing",
+    "url": "https://6guts.wordpress.com/2016/11/25/perl-6-is-biased-towards-mutators-being-really-simple-thats-a-good-thing/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 9:07:24 AM"
+  },
+  {
     "id": "13034936",
     "timestamp": "Nov 25, 2016 9:22:46 AM",
     "topic": "Data is being send to Google every time you execute a command with brew",
@@ -37,6 +101,22 @@ var newsArray = [
     "topic": "Ask HN: Node vs. .NET Core",
     "votes": 5,
     "posted": "Nov 25, 2016 8:24:05 AM"
+  },
+  {
+    "id": "13034794",
+    "timestamp": "Nov 25, 2016 1:53:06 PM",
+    "topic": "Outraged by the election? It could be because you moralize rationality",
+    "url": "http://arstechnica.com/science/2016/11/outraged-by-the-election-it-could-be-because-you-moralize-rationality/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 7:54:41 AM"
+  },
+  {
+    "id": "13034792",
+    "timestamp": "Nov 25, 2016 1:33:04 PM",
+    "topic": "How the Trump Campaign Built an Identity Database and Used Facebook Ads",
+    "url": "https://medium.com/@MedicalReport/how-the-trump-campaign-built-an-identity-database-and-used-facebook-ads-to-win-the-election-4ff7d24269ac#.wfi8m5s7z",
+    "votes": 4,
+    "posted": "Nov 25, 2016 7:53:41 AM"
   },
   {
     "id": "13034783",
@@ -7850,36 +7930,5 @@ var newsArray = [
     "url": "https://github.com/gaubert/gmvault",
     "votes": 3,
     "posted": "Nov 18, 2016 2:07:15 PM"
-  },
-  {
-    "id": "12986349",
-    "timestamp": "Nov 18, 2016 2:47:54 PM",
-    "topic": "Ask HN: Rules of thumb to test feasibility of Machine learning applications?",
-    "votes": 3,
-    "posted": "Nov 18, 2016 1:49:12 PM"
-  },
-  {
-    "id": "12986272",
-    "timestamp": "Nov 18, 2016 2:17:50 PM",
-    "topic": "Xiaomi Mi Mix review–This is what the future of smartphones looks like",
-    "url": "http://arstechnica.com/gadgets/2016/11/xiaomi-mi-mix-review-this-is-what-the-future-of-smartphones-looks-like/",
-    "votes": 6,
-    "posted": "Nov 18, 2016 1:34:00 PM"
-  },
-  {
-    "id": "12986249",
-    "timestamp": "Nov 19, 2016 4:20:24 PM",
-    "topic": "What Math Do You Need for Physics?",
-    "url": "https://www.math.columbia.edu/~woit/wordpress/?p\u003d8940",
-    "votes": 3,
-    "posted": "Nov 18, 2016 1:27:13 PM"
-  },
-  {
-    "id": "12986173",
-    "timestamp": "Nov 18, 2016 7:08:18 PM",
-    "topic": "Hezbollah has U.S. armored personnel carriers. But how did they get them?",
-    "url": "https://www.washingtonpost.com/news/checkpoint/wp/2016/11/16/hezbollah-has-u-s-armored-personnel-carriers-but-how-did-they-get-them/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 1:10:45 PM"
   }
 ];
