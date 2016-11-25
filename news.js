@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13039227",
+    "timestamp": "Nov 25, 2016 8:43:48 PM",
+    "topic": "Tesla received fraction of the subsidies the Big 3 and oil industry have received",
+    "url": "https://electrek.co/2016/11/25/tesla-subsidies-big-three-oil-industry/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 8:29:41 PM"
+  },
+  {
+    "id": "13038990",
+    "timestamp": "Nov 25, 2016 8:33:48 PM",
+    "topic": "Tesla Shock Means Global Gasoline Demand Has All but Peaked",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-22/the-tesla-shock-global-gasoline-consumption-has-all-but-peaked",
+    "votes": 9,
+    "posted": "Nov 25, 2016 7:53:15 PM"
+  },
+  {
     "id": "13038276",
     "timestamp": "Nov 25, 2016 6:43:39 PM",
     "topic": "Has a Startup Found the Secret to Farming the Elusive Truffle?",
@@ -37,6 +53,14 @@ var newsArray = [
     "url": "https://www.dnsleaktest.com/what-is-transparent-dns-proxy.html",
     "votes": 5,
     "posted": "Nov 25, 2016 5:36:13 PM"
+  },
+  {
+    "id": "13037810",
+    "timestamp": "Nov 25, 2016 8:43:49 PM",
+    "topic": "What if jobs are not the solution but the problem?",
+    "url": "https://aeon.co/essays/what-if-jobs-are-not-the-solution-but-the-problem",
+    "votes": 4,
+    "posted": "Nov 25, 2016 5:30:05 PM"
   },
   {
     "id": "13037761",
@@ -157,6 +181,13 @@ var newsArray = [
     "url": "https://psiloveyou.xyz/married-to-someone-with-anxiety-d5bab822ba2d",
     "votes": 5,
     "posted": "Nov 25, 2016 4:03:21 PM"
+  },
+  {
+    "id": "13037087",
+    "timestamp": "Nov 25, 2016 8:13:46 PM",
+    "topic": "Ask HN: What would it take to convince a tech cofounder to join your startup?",
+    "votes": 3,
+    "posted": "Nov 25, 2016 3:54:39 PM"
   },
   {
     "id": "13037063",
@@ -7787,84 +7818,5 @@ var newsArray = [
     "url": "http://smerity.com/articles/2016/google_nmt_arch.html",
     "votes": 4,
     "posted": "Nov 18, 2016 9:02:28 PM"
-  },
-  {
-    "id": "12989574",
-    "timestamp": "Nov 18, 2016 9:18:35 PM",
-    "topic": "The End of Identity Liberalism",
-    "url": "http://www.nytimes.com/2016/11/20/opinion/sunday/the-end-of-identity-liberalism.html",
-    "votes": 5,
-    "posted": "Nov 18, 2016 8:52:38 PM"
-  },
-  {
-    "id": "12989510",
-    "timestamp": "Nov 18, 2016 9:48:42 PM",
-    "topic": "Lessons Learned Earning a Master’s Degree While Working Full-Time",
-    "url": "https://stories.jotform.com/lessons-learned-earning-a-masters-degree-while-working-full-time-3afe2d27535a#.d3rwmplml",
-    "votes": 3,
-    "posted": "Nov 18, 2016 8:44:08 PM"
-  },
-  {
-    "id": "12989489",
-    "timestamp": "Nov 19, 2016 12:09:05 AM",
-    "topic": "China Used Crispr to Fight Cancer in a Real, Live Human",
-    "url": "https://www.wired.com/2016/11/china-used-crispr-fight-cancer-real-live-human/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 8:41:40 PM"
-  },
-  {
-    "id": "12989442",
-    "timestamp": "Nov 20, 2016 1:01:22 AM",
-    "topic": "Show HN: WordPress Product Demos SaaS",
-    "url": "https://wpdemo.cloud/",
-    "votes": 10,
-    "posted": "Nov 18, 2016 8:34:21 PM"
-  },
-  {
-    "id": "12989431",
-    "timestamp": "Nov 19, 2016 4:50:26 PM",
-    "topic": "A Working-Class Hero, Part 1",
-    "url": "http://www.filfre.net/2016/11/a-working-class-hero-part-1/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 8:31:58 PM"
-  },
-  {
-    "id": "12989357",
-    "timestamp": "Nov 18, 2016 8:58:33 PM",
-    "topic": "New CIA director thinks Snowden should be killed",
-    "url": "http://www.washingtonexaminer.com/lawmaker-traitor-snowden-deserves-death-penalty/article/2583023",
-    "votes": 9,
-    "posted": "Nov 18, 2016 8:23:23 PM"
-  },
-  {
-    "id": "12989278",
-    "timestamp": "Nov 18, 2016 8:28:25 PM",
-    "topic": "What Test Engineers Do at Google: Building Test Infrastructure",
-    "url": "https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html",
-    "votes": 3,
-    "posted": "Nov 18, 2016 8:12:31 PM"
-  },
-  {
-    "id": "12989249",
-    "timestamp": "Nov 18, 2016 11:59:03 PM",
-    "topic": "Bruce Schneier: \u0027The Internet Era of Fun and Games Is Over\u0027",
-    "url": "http://www.dailydot.com/layer8/bruce-schneier-internet-of-things/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 8:10:02 PM"
-  },
-  {
-    "id": "12989243",
-    "timestamp": "Nov 18, 2016 8:28:25 PM",
-    "topic": "Best chrome extension for css ever",
-    "url": "http://tachyons.io/xray/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 8:09:22 PM"
-  },
-  {
-    "id": "12989221",
-    "timestamp": "Nov 18, 2016 11:18:59 PM",
-    "topic": "Ask HN: Chrome extension to verify credibility of articles",
-    "votes": 3,
-    "posted": "Nov 18, 2016 8:05:36 PM"
   }
 ];
