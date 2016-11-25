@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13034254",
+    "timestamp": "Nov 25, 2016 5:02:21 AM",
+    "topic": "Overheated Arctic sign of climate change \u0027vicious circle\u0027",
+    "url": "http://phys.org/news/2016-11-overheated-arctic-climate-vicious-circle.html",
+    "votes": 3,
+    "posted": "Nov 25, 2016 4:33:12 AM"
+  },
+  {
+    "id": "13034233",
+    "timestamp": "Nov 25, 2016 5:02:21 AM",
+    "topic": "Restc – A server-side middleware to visualize REST requests",
+    "url": "https://github.com/ElemeFE/restc",
+    "votes": 3,
+    "posted": "Nov 25, 2016 4:24:57 AM"
+  },
+  {
     "id": "13034116",
     "timestamp": "Nov 25, 2016 4:12:16 AM",
     "topic": "Neural Net Trained on Mugshots Predicts Criminals",
@@ -8,12 +24,28 @@ var newsArray = [
     "posted": "Nov 25, 2016 3:52:37 AM"
   },
   {
+    "id": "13034099",
+    "timestamp": "Nov 25, 2016 5:02:21 AM",
+    "topic": "Bloggers: Read this before moving to https",
+    "url": "https://jjude.com/cost-of-https/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 3:47:07 AM"
+  },
+  {
     "id": "13034097",
     "timestamp": "Nov 25, 2016 4:02:15 AM",
     "topic": "Russian propaganda effort helped spread ‘fake news’ during election",
     "url": "https://www.washingtonpost.com/business/economy/russian-propaganda-effort-helped-spread-fake-news-during-election-experts-say/2016/11/24/793903b6-8a40-4ca9-b712-716af66098fe_story.html?utm_source\u003ddigg",
     "votes": 4,
     "posted": "Nov 25, 2016 3:46:34 AM"
+  },
+  {
+    "id": "13034086",
+    "timestamp": "Nov 25, 2016 5:02:21 AM",
+    "topic": "Tesla hires HoloLens designer, 2nd Microsoft employee from the AR program",
+    "url": "https://electrek.co/2016/11/24/tesla-augmented-reality-hololens-designer-microsoft/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 3:44:36 AM"
   },
   {
     "id": "13034052",
@@ -95,12 +127,36 @@ var newsArray = [
     "posted": "Nov 25, 2016 1:27:13 AM"
   },
   {
+    "id": "13033660",
+    "timestamp": "Nov 25, 2016 5:22:23 AM",
+    "topic": "DevOps: Before/As it happens (Monitoring)",
+    "url": "https://medium.com/axial-engineering/devops-before-as-it-happens-monitoring-62087c529a65?source\u003dlinkShare-ce303763af1d-1480033070",
+    "votes": 4,
+    "posted": "Nov 25, 2016 1:17:59 AM"
+  },
+  {
+    "id": "13033585",
+    "timestamp": "Nov 25, 2016 5:12:22 AM",
+    "topic": "An adopted boy found his biological family thanks to Google Earth 25 years later",
+    "url": "https://www.youtube.com/watch?v\u003d38iahxZCAQU",
+    "votes": 3,
+    "posted": "Nov 25, 2016 1:01:07 AM"
+  },
+  {
     "id": "13033470",
     "timestamp": "Nov 25, 2016 1:02:01 AM",
     "topic": "How to get started with DJing",
     "url": "https://medium.com/@asantash/how-to-get-started-with-djing-495c275be5e4#.2ajfzv1c4",
     "votes": 4,
     "posted": "Nov 25, 2016 12:36:54 AM"
+  },
+  {
+    "id": "13033435",
+    "timestamp": "Nov 25, 2016 5:12:22 AM",
+    "topic": "Internet freedom around the world keeps decreasing",
+    "url": "https://www.helpnetsecurity.com/2016/11/23/internet-freedom-decreasing/",
+    "votes": 5,
+    "posted": "Nov 25, 2016 12:28:34 AM"
   },
   {
     "id": "13033347",
@@ -117,6 +173,14 @@ var newsArray = [
     "url": "https://newsroom.intel.com/news-releases/intel-ai-day-news-release/",
     "votes": 5,
     "posted": "Nov 24, 2016 11:57:50 PM"
+  },
+  {
+    "id": "13033306",
+    "timestamp": "Nov 25, 2016 5:12:22 AM",
+    "topic": "New Models of Evolution Updates Darwin’s Work",
+    "url": "https://edgylabs.com/2016/11/24/models-of-evolution-updates-darwin/",
+    "votes": 5,
+    "posted": "Nov 24, 2016 11:54:00 PM"
   },
   {
     "id": "13033299",
@@ -151,12 +215,28 @@ var newsArray = [
     "posted": "Nov 24, 2016 11:16:18 PM"
   },
   {
+    "id": "13033111",
+    "timestamp": "Nov 25, 2016 5:32:24 AM",
+    "topic": "Mouse lifespan, heart health extended by common chemical",
+    "url": "http://arstechnica.com/science/2016/11/mouse-lifespan-heart-health-extended-by-common-chemical/",
+    "votes": 5,
+    "posted": "Nov 24, 2016 11:15:25 PM"
+  },
+  {
     "id": "13033067",
     "timestamp": "Nov 25, 2016 12:21:58 AM",
     "topic": "Inside a Moneymaking Machine Like No Other",
     "url": "https://www.bloomberg.com/news/articles/2016-11-21/how-renaissance-s-medallion-fund-became-finance-s-blackest-box?cmpid%253D\u003dsocialflow-twitter-hedgebrief",
     "votes": 3,
     "posted": "Nov 24, 2016 11:05:39 PM"
+  },
+  {
+    "id": "13033023",
+    "timestamp": "Nov 25, 2016 5:52:26 AM",
+    "topic": "Show HN: C++/.Net SDK for different natural language processing tasks",
+    "url": "http://www.intellexer.com/sdk_overview.html",
+    "votes": 3,
+    "posted": "Nov 24, 2016 10:55:04 PM"
   },
   {
     "id": "13032967",
@@ -285,6 +365,14 @@ var newsArray = [
     "url": "https://github.com/chadnickbok/redis-zstd-module",
     "votes": 6,
     "posted": "Nov 24, 2016 8:49:47 PM"
+  },
+  {
+    "id": "13032300",
+    "timestamp": "Nov 25, 2016 5:52:26 AM",
+    "topic": "True AI is both logically possible and utterly implausible",
+    "url": "https://aeon.co/essays/true-ai-is-both-logically-possible-and-utterly-implausible",
+    "votes": 4,
+    "posted": "Nov 24, 2016 8:40:27 PM"
   },
   {
     "id": "13032264",
@@ -8004,101 +8092,5 @@ var newsArray = [
     "url": "http://www.atlasobscura.com/articles/north-korean-officials-had-no-idea-what-their-hostages-were-signaling-in-this-photo",
     "votes": 4,
     "posted": "Nov 18, 2016 6:00:07 AM"
-  },
-  {
-    "id": "12984454",
-    "timestamp": "Nov 18, 2016 6:47:09 AM",
-    "topic": "A deep learning approach to colorizing images, specifically for Pokemon.",
-    "url": "https://github.com/cameronfabbri/Colorful-Image-Colorization",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:50:27 AM"
-  },
-  {
-    "id": "12984455",
-    "timestamp": "Nov 18, 2016 6:27:07 AM",
-    "topic": "Google, an Obama ally, may face policy setbacks under Trump",
-    "url": "http://www.reuters.com/article/us-usa-trump-google-analysis-idUSKBN13C2XK?utm_campaign\u003dtrueAnthem:+Trending+Content\u0026utm_content\u003d582e61d104d3016d6d9e6a82\u0026utm_medium\u003dtrueAnthem\u0026utm_source\u003dtwitter",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:50:27 AM"
-  },
-  {
-    "id": "12984433",
-    "timestamp": "Nov 18, 2016 5:57:05 AM",
-    "topic": "The reason Silicon Valley beat out Boston for VC dominance",
-    "url": "https://hbr.org/2016/11/the-reason-silicon-valley-beat-out-boston-for-vc-dominance",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:45:56 AM"
-  },
-  {
-    "id": "12984426",
-    "timestamp": "Nov 18, 2016 6:07:06 AM",
-    "topic": "Stephen Hawking warns humans may have only 1,000 years left on Earth",
-    "url": "https://www.engadget.com/2016/11/17/stephen-hawking-warns-humans-may-have-only-1-000-years-left-on-e/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:44:01 AM"
-  },
-  {
-    "id": "12984404",
-    "timestamp": "Nov 21, 2016 6:23:53 AM",
-    "topic": "Show HN: Reverse Engineer your app online to see API tokens and secrets",
-    "url": "https://android.fallible.co",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:39:44 AM"
-  },
-  {
-    "id": "12984383",
-    "timestamp": "Nov 18, 2016 7:17:11 AM",
-    "topic": "GNU Health",
-    "url": "http://health.gnu.org/",
-    "votes": 4,
-    "posted": "Nov 18, 2016 5:35:28 AM"
-  },
-  {
-    "id": "12984337",
-    "timestamp": "Nov 18, 2016 7:17:12 AM",
-    "topic": "Miami beach has run out of sand",
-    "url": "http://www.theverge.com/2016/11/17/13660014/miami-beach-sand-erosion-nourishment-climate-change",
-    "votes": 8,
-    "posted": "Nov 18, 2016 5:25:28 AM"
-  },
-  {
-    "id": "12984335",
-    "timestamp": "Nov 18, 2016 6:07:06 AM",
-    "topic": "Real or not? USC study finds many political tweets come from fake accounts",
-    "url": "http://news.usc.edu/110565/rigged-usc-study-finds-many-political-tweets-come-from-fake-accounts/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 5:24:30 AM"
-  },
-  {
-    "id": "12984319",
-    "timestamp": "Nov 18, 2016 7:17:12 AM",
-    "topic": "NASA realizes SLS and Orion are too expensive, opens door to competitors",
-    "url": "http://arstechnica.com/science/2016/11/nasa-realizes-sls-and-orion-are-too-expensive-opens-door-to-competitors/",
-    "votes": 3,
-    "posted": "Nov 18, 2016 5:19:58 AM"
-  },
-  {
-    "id": "12984234",
-    "timestamp": "Nov 18, 2016 5:37:03 AM",
-    "topic": "Elon Musk Says His Smart Solar Roof Could Cost Less Than Regular Roof",
-    "url": "http://gizmodo.com/elon-musk-says-his-smart-solar-roof-could-cost-less-tha-1789121778",
-    "votes": 6,
-    "posted": "Nov 18, 2016 5:04:34 AM"
-  },
-  {
-    "id": "12984224",
-    "timestamp": "Nov 18, 2016 5:37:03 AM",
-    "topic": "Amazon is expanding Prime Video service to over 200 nations",
-    "url": "http://mashable.com/2016/11/18/amazon-global-expansion-grand-tour-200-nations",
-    "votes": 5,
-    "posted": "Nov 18, 2016 5:02:37 AM"
-  },
-  {
-    "id": "12984191",
-    "timestamp": "Nov 18, 2016 5:37:03 AM",
-    "topic": "Bounty program for improvements to Tcl and certain Tcl packages",
-    "url": "https://github.com/flightaware/Tcl-bounties",
-    "votes": 3,
-    "posted": "Nov 18, 2016 4:56:54 AM"
   }
 ];
