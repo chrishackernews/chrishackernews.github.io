@@ -1,5 +1,44 @@
 var newsArray = [
   {
+    "id": "13038276",
+    "timestamp": "Nov 25, 2016 6:43:39 PM",
+    "topic": "Has a Startup Found the Secret to Farming the Elusive Truffle?",
+    "url": "http://www.nytimes.com/2016/11/24/business/has-a-start-up-found-the-secret-to-farming-the-elusive-truffle.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 6:24:42 PM"
+  },
+  {
+    "id": "13038267",
+    "timestamp": "Nov 25, 2016 6:53:40 PM",
+    "topic": "Shopify is processing over $260,000 per minute right now",
+    "url": "https://incoming.shopify.com/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 6:23:58 PM"
+  },
+  {
+    "id": "13038204",
+    "timestamp": "Nov 25, 2016 6:43:39 PM",
+    "topic": "CNN accidentally broadcast 30 minutes of hardcore porn last night",
+    "url": "http://thenextweb.com/shareables/2016/11/25/cnn-hardcore-porn/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 6:16:24 PM"
+  },
+  {
+    "id": "13038114",
+    "timestamp": "Nov 25, 2016 6:23:38 PM",
+    "topic": "Ask HN: What\u0027s your dev machine setup?",
+    "votes": 10,
+    "posted": "Nov 25, 2016 6:05:58 PM"
+  },
+  {
+    "id": "13037858",
+    "timestamp": "Nov 25, 2016 6:23:37 PM",
+    "topic": "DNS Leak: No, your DNS settings most likely have no effect",
+    "url": "https://www.dnsleaktest.com/what-is-transparent-dns-proxy.html",
+    "votes": 5,
+    "posted": "Nov 25, 2016 5:36:13 PM"
+  },
+  {
     "id": "13037761",
     "timestamp": "Nov 25, 2016 5:33:27 PM",
     "topic": "Show HN: OneDrive for Business Now Part of Unified Cloud Storage API -CloudRail",
@@ -7891,61 +7930,5 @@ var newsArray = [
     "url": "http://www.theatlantic.com/technology/archive/2016/11/trumps-cia-director-wants-to-return-to-a-pre-snowden-world/508136/?single_page\u003dtrue",
     "votes": 9,
     "posted": "Nov 18, 2016 6:57:20 PM"
-  },
-  {
-    "id": "12988594",
-    "timestamp": "Nov 19, 2016 5:29:34 AM",
-    "topic": "How complex systems fail",
-    "url": "http://muratbuffalo.blogspot.com/2016/11/how-complex-systems-fail.html",
-    "votes": 7,
-    "posted": "Nov 18, 2016 6:53:37 PM"
-  },
-  {
-    "id": "12988442",
-    "timestamp": "Nov 18, 2016 7:48:22 PM",
-    "topic": "Peter Thiel\u0027s \u0027Plum List\u0027 to Screen and \u0027fast-track\u0027 Talent for Trump",
-    "url": "http://www.dailymail.co.uk/news/article-3949670/Peter-Thiel-created-secret-database-called-Plum-List-screen-fast-track-talent-shown-loyalty-Trump-come-outside-Beltway.html",
-    "votes": 6,
-    "posted": "Nov 18, 2016 6:37:08 PM"
-  },
-  {
-    "id": "12988389",
-    "timestamp": "Nov 18, 2016 6:58:16 PM",
-    "topic": "Non-citizen voting likely changed outcomes of 2008 US elections",
-    "url": "http://www.sciencedirect.com/science/article/pii/S0261379414000973",
-    "votes": 5,
-    "posted": "Nov 18, 2016 6:30:27 PM"
-  },
-  {
-    "id": "12988380",
-    "timestamp": "Nov 18, 2016 6:48:15 PM",
-    "topic": "New Features in C# 7.0",
-    "url": "https://channel9.msdn.com/Events/Connect/2016/105",
-    "votes": 5,
-    "posted": "Nov 18, 2016 6:29:48 PM"
-  },
-  {
-    "id": "12988342",
-    "timestamp": "Nov 18, 2016 7:48:22 PM",
-    "topic": "Apple\u0027s Chip Choices May Leave Some iPhone Users in Slow Lane",
-    "url": "https://www.bloomberg.com/news/articles/2016-11-18/apple-chip-choices-may-leave-some-iphone-users-in-slow-lane",
-    "votes": 6,
-    "posted": "Nov 18, 2016 6:25:40 PM"
-  },
-  {
-    "id": "12988339",
-    "timestamp": "Nov 18, 2016 9:48:43 PM",
-    "topic": "Bannon suggests having too many Asian tech CEOs undermines ‘civic society’",
-    "url": "http://www.theverge.com/2016/11/16/13653490/steve-bannon-trump-presidency-chief-strategist-breitbart-tech-visa",
-    "votes": 5,
-    "posted": "Nov 18, 2016 6:25:02 PM"
-  },
-  {
-    "id": "12988289",
-    "timestamp": "Nov 18, 2016 6:38:14 PM",
-    "topic": "ICQ: 20 Years Is No Limit",
-    "url": "https://medium.com/@Dimitryophoto/icq-20-years-is-no-limit-8734e1eea8ea#.ioi9ez4k2",
-    "votes": 3,
-    "posted": "Nov 18, 2016 6:17:08 PM"
   }
 ];
