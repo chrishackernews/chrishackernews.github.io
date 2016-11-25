@@ -1,5 +1,20 @@
 var newsArray = [
   {
+    "id": "13034936",
+    "timestamp": "Nov 25, 2016 9:22:46 AM",
+    "topic": "Data is being send to Google every time you execute a command with brew",
+    "url": "https://tobiastom.name/notes/7a79eed0",
+    "votes": 12,
+    "posted": "Nov 25, 2016 8:37:08 AM"
+  },
+  {
+    "id": "13034904",
+    "timestamp": "Nov 25, 2016 9:42:47 AM",
+    "topic": "Ask HN: Node vs. .NET Core",
+    "votes": 5,
+    "posted": "Nov 25, 2016 8:24:05 AM"
+  },
+  {
     "id": "13034783",
     "timestamp": "Nov 25, 2016 8:42:41 AM",
     "topic": "Finland set to become first country to ban coal use for energy",
@@ -8065,29 +8080,5 @@ var newsArray = [
     "url": "https://translate.google.com/translate?sl\u003dauto\u0026tl\u003den\u0026js\u003dy\u0026prev\u003d_t\u0026hl\u003den\u0026ie\u003dUTF-8\u0026u\u003dhttp%3A%2F%2Fwww.spiegel.de%2Fwirtschaft%2Funternehmen%2Frocket-internet-baut-in-berlin-massiv-personal-ab-a-1121905.html\u0026edit-text\u003d\u0026act\u003durl",
     "votes": 3,
     "posted": "Nov 18, 2016 10:07:32 AM"
-  },
-  {
-    "id": "12985334",
-    "timestamp": "Nov 18, 2016 12:37:40 PM",
-    "topic": "Capitol Hill Babysitting Co-Op",
-    "url": "https://en.wikipedia.org/wiki/Capitol_Hill_Babysitting_Co-op",
-    "votes": 5,
-    "posted": "Nov 18, 2016 9:52:13 AM"
-  },
-  {
-    "id": "12985192",
-    "timestamp": "Nov 18, 2016 10:07:25 AM",
-    "topic": "Volkswagen Set to Slash Up to 30,000 Jobs",
-    "url": "http://www.wsj.com/articles/volkswagen-set-to-slash-up-to-30-000-jobs-1479455462",
-    "votes": 3,
-    "posted": "Nov 18, 2016 9:15:22 AM"
-  },
-  {
-    "id": "12985114",
-    "timestamp": "Nov 18, 2016 9:27:22 AM",
-    "topic": "WikipediaP2P",
-    "url": "https://www.wikipediap2p.org/",
-    "votes": 5,
-    "posted": "Nov 18, 2016 8:56:54 AM"
   }
 ];
