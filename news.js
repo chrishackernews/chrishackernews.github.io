@@ -1,11 +1,27 @@
 var newsArray = [
   {
+    "id": "13042061",
+    "timestamp": "Nov 26, 2016 7:55:06 AM",
+    "topic": "Inside a Fake News Sausage Factory: ‘This Is All About Income’",
+    "url": "http://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-clinton-georgia.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003da-lede-package-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
+    "votes": 4,
+    "posted": "Nov 26, 2016 7:25:32 AM"
+  },
+  {
     "id": "13041886",
     "timestamp": "Nov 26, 2016 6:45:01 AM",
     "topic": "Cuba\u0027s Fidel Castro dies aged 90",
     "url": "http://www.bbc.com/news/world-latin-america-38114953",
     "votes": 17,
     "posted": "Nov 26, 2016 6:32:38 AM"
+  },
+  {
+    "id": "13041735",
+    "timestamp": "Nov 26, 2016 7:25:04 AM",
+    "topic": "Show HN: Image Effects with CSS",
+    "url": "http://bennettfeely.com/image-effects/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:35:58 AM"
   },
   {
     "id": "13041730",
@@ -86,6 +102,13 @@ var newsArray = [
     "url": "http://openvault.wgbh.org/catalog/V_D9DC82D997454711A71B586E17D23119",
     "votes": 4,
     "posted": "Nov 26, 2016 3:01:05 AM"
+  },
+  {
+    "id": "13041276",
+    "timestamp": "Nov 26, 2016 7:45:06 AM",
+    "topic": "Ask HN: Best sites for finance, hedge funds, private equity?",
+    "votes": 6,
+    "posted": "Nov 26, 2016 3:00:00 AM"
   },
   {
     "id": "13041262",
@@ -7573,37 +7596,5 @@ var newsArray = [
     "url": "https://medium.com/self-driving-cars/autonomous-shipping-containers-a35943fe53a3#.ld4vwngwb",
     "votes": 3,
     "posted": "Nov 19, 2016 8:20:37 AM"
-  },
-  {
-    "id": "12992400",
-    "timestamp": "Nov 19, 2016 7:59:44 AM",
-    "topic": "Mark Zuckerburg – Dead at 32 – Denies Facebook Has Problem with Fake News",
-    "url": "http://www.theshovel.com.au/2016/11/17/mark-zuckerburg-dead-at-32-denies-facebook-has-problem-with-fake-news/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 7:52:16 AM"
-  },
-  {
-    "id": "12992348",
-    "timestamp": "Nov 19, 2016 8:19:46 AM",
-    "topic": "John Horton Conway: the world’s most charismatic mathematician (2015)",
-    "url": "https://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world",
-    "votes": 5,
-    "posted": "Nov 19, 2016 7:28:55 AM"
-  },
-  {
-    "id": "12992298",
-    "timestamp": "Nov 19, 2016 8:49:49 AM",
-    "topic": "Learning to reinforcement learn",
-    "url": "https://arxiv.org/abs/1611.05763",
-    "votes": 5,
-    "posted": "Nov 19, 2016 7:00:13 AM"
-  },
-  {
-    "id": "12992289",
-    "timestamp": "Nov 19, 2016 8:19:46 AM",
-    "topic": "Digg: Making the Switch from Node.js to Golang",
-    "url": "http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang",
-    "votes": 4,
-    "posted": "Nov 19, 2016 6:55:16 AM"
   }
 ];
