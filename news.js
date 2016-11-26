@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13044864",
+    "timestamp": "Nov 26, 2016 7:16:08 PM",
+    "topic": "O\u0027Reilly Discounts Every EBook by 50%",
+    "url": "https://news.slashdot.org/story/16/11/26/0240226/oreilly-discounts-every-ebook-by-50",
+    "votes": 4,
+    "posted": "Nov 26, 2016 6:42:37 PM"
+  },
+  {
     "id": "13044658",
     "timestamp": "Nov 26, 2016 6:36:05 PM",
     "topic": "Clean up your existence",
@@ -2954,6 +2962,14 @@ var newsArray = [
     "url": "http://gizmodo.com/trump-names-two-opponents-of-net-neutrality-to-oversee-1789231918",
     "votes": 5,
     "posted": "Nov 23, 2016 6:52:59 PM"
+  },
+  {
+    "id": "13024306",
+    "timestamp": "Nov 26, 2016 7:16:08 PM",
+    "topic": "Saturday mornings with J. L. Austin",
+    "url": "https://aeon.co/essays/how-the-thought-acts-of-the-oxford-don-j-l-austin-live-on",
+    "votes": 4,
+    "posted": "Nov 23, 2016 6:52:33 PM"
   },
   {
     "id": "13024249",
@@ -7558,13 +7574,5 @@ var newsArray = [
     "url": "http://www.telegraph.co.uk/technology/2016/11/17/humans-will-bully-robot-cars-mercedes-chief-warns/",
     "votes": 3,
     "posted": "Nov 19, 2016 7:41:08 PM"
-  },
-  {
-    "id": "12994704",
-    "timestamp": "Nov 19, 2016 7:20:40 PM",
-    "topic": "It’s 2016, why is video conferencing still terrible?",
-    "url": "https://medium.com/@chris_82106/https-medium-com-chris-82106-its-2016-why-is-video-conferencing-still-terrible-1b8802032aae#.rcalpw337",
-    "votes": 3,
-    "posted": "Nov 19, 2016 7:13:17 PM"
   }
 ];
