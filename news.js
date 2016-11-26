@@ -32,6 +32,14 @@ var newsArray = [
     "posted": "Nov 26, 2016 2:39:22 AM"
   },
   {
+    "id": "13041143",
+    "timestamp": "Nov 26, 2016 4:14:49 AM",
+    "topic": "Super Mario Bros. 3 – Wrong Warp",
+    "url": "https://www.youtube.com/watch?v\u003dfxZuzos7Auk",
+    "votes": 3,
+    "posted": "Nov 26, 2016 2:16:36 AM"
+  },
+  {
     "id": "13040948",
     "timestamp": "Nov 26, 2016 2:34:41 AM",
     "topic": "No, Russian Agents Are Not Behind Every Piece of Fake News You See",
@@ -7566,68 +7574,5 @@ var newsArray = [
     "url": "http://plantuml.com/",
     "votes": 3,
     "posted": "Nov 19, 2016 5:17:16 AM"
-  },
-  {
-    "id": "12991986",
-    "timestamp": "Nov 19, 2016 5:29:34 AM",
-    "topic": "Blender Project: Miyazaki Tribute",
-    "url": "https://www.blender.org/user-stories/miyazaki-tribute/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 4:53:30 AM"
-  },
-  {
-    "id": "12991957",
-    "timestamp": "Nov 19, 2016 4:59:30 AM",
-    "topic": "Trump’s fake-news presidency",
-    "url": "https://www.washingtonpost.com/opinions/trumps-fake-news-presidency/2016/11/18/72cc7b14-ad96-11e6-977a-1030f822fc35_story.html",
-    "votes": 8,
-    "posted": "Nov 19, 2016 4:42:24 AM"
-  },
-  {
-    "id": "12991922",
-    "timestamp": "Nov 20, 2016 2:31:30 AM",
-    "topic": "Silicon Valley Helped Create Trump, and That’s Bad for It",
-    "url": "http://nytimes.com/2016/11/18/opinion/silicon-valley-helped-create-trump-and-thats-bad-for-it.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 4:31:27 AM"
-  },
-  {
-    "id": "12991910",
-    "timestamp": "Nov 19, 2016 8:19:46 AM",
-    "topic": "Structure-Based ASCII Art Generation [pdf]",
-    "url": "http://www.cse.cuhk.edu.hk/~ttwong/papers/asciiart/asciiart.pdf",
-    "votes": 3,
-    "posted": "Nov 19, 2016 4:28:24 AM"
-  },
-  {
-    "id": "12991899",
-    "timestamp": "Nov 19, 2016 7:30:41 PM",
-    "topic": "AI learns things humans didn\u0027t teach it",
-    "url": "https://www.google.com/amp/futurism.com/ai-learns-things-that-humans-didnt-teach-it/amp/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 4:23:57 AM"
-  },
-  {
-    "id": "12991887",
-    "timestamp": "Nov 19, 2016 10:01:05 PM",
-    "topic": "Smart people need more time alone, according to this study",
-    "url": "https://www.indy100.com/article/study-finds-intelligent-people-need-more-time-alone-to-be-happy-7423191",
-    "votes": 3,
-    "posted": "Nov 19, 2016 4:18:37 AM"
-  },
-  {
-    "id": "12991827",
-    "timestamp": "Nov 20, 2016 3:41:36 AM",
-    "topic": "Ask HN: What is your method of submitting a project to Product Hunt",
-    "votes": 5,
-    "posted": "Nov 19, 2016 4:01:34 AM"
-  },
-  {
-    "id": "12991806",
-    "timestamp": "Nov 19, 2016 4:29:28 AM",
-    "topic": "Overton Window",
-    "url": "https://en.wikipedia.org/wiki/Overton_window",
-    "votes": 4,
-    "posted": "Nov 19, 2016 3:56:55 AM"
   }
 ];
