@@ -7611,37 +7611,5 @@ var newsArray = [
     "url": "http://www.independent.co.uk/voices/city-university-tabloid-ban-sun-mail-express-peak-censorship-a7425156.html",
     "votes": 4,
     "posted": "Nov 19, 2016 11:05:01 AM"
-  },
-  {
-    "id": "12992691",
-    "timestamp": "Nov 19, 2016 5:30:31 PM",
-    "topic": "Play pictionary against an AI",
-    "url": "https://quickdraw.withgoogle.com/#",
-    "votes": 3,
-    "posted": "Nov 19, 2016 10:25:23 AM"
-  },
-  {
-    "id": "12992672",
-    "timestamp": "Nov 19, 2016 11:09:59 AM",
-    "topic": "Extreme surveillance\u0027 becomes UK law with barely a whimper",
-    "url": "https://www.theguardian.com/world/2016/nov/19/extreme-surveillance-becomes-uk-law-with-barely-a-whimper",
-    "votes": 5,
-    "posted": "Nov 19, 2016 10:13:07 AM"
-  },
-  {
-    "id": "12992660",
-    "timestamp": "Nov 19, 2016 5:30:31 PM",
-    "topic": "Elasticsearch: Adventures in scaling a multitenant platform",
-    "url": "http://www.bigeng.io/elasticsearch-scaling-multitenant/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 10:08:32 AM"
-  },
-  {
-    "id": "12992634",
-    "timestamp": "Nov 19, 2016 1:20:09 PM",
-    "topic": "What are the 10 algorithms every CS student must implement at least once?",
-    "url": "https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life/answer/Soham-Mehta-1?ref\u003dfb_page\u0026amp;share\u003d1",
-    "votes": 3,
-    "posted": "Nov 19, 2016 9:57:15 AM"
   }
 ];
