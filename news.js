@@ -1,5 +1,37 @@
 var newsArray = [
   {
+    "id": "13041361",
+    "timestamp": "Nov 26, 2016 3:54:47 AM",
+    "topic": "Debian putting everything on the /usr",
+    "url": "http://www.theregister.co.uk/2016/11/24/debian_testing_merged_codeusrcode/?mt\u003d1480127476882",
+    "votes": 4,
+    "posted": "Nov 26, 2016 3:31:30 AM"
+  },
+  {
+    "id": "13041287",
+    "timestamp": "Nov 26, 2016 3:24:45 AM",
+    "topic": "The Machine That Changed the World: Interview with Alan Kay (1990)",
+    "url": "http://openvault.wgbh.org/catalog/V_D9DC82D997454711A71B586E17D23119",
+    "votes": 4,
+    "posted": "Nov 26, 2016 3:01:05 AM"
+  },
+  {
+    "id": "13041262",
+    "timestamp": "Nov 26, 2016 3:44:46 AM",
+    "topic": "Before saying \u0027I do,\u0027 more millennials say \u0027prenup\u0027",
+    "url": "http://www.cnbc.com/2016/11/25/before-saying-i-do-more-millennials-say-prenup.html",
+    "votes": 4,
+    "posted": "Nov 26, 2016 2:53:47 AM"
+  },
+  {
+    "id": "13041219",
+    "timestamp": "Nov 26, 2016 3:54:47 AM",
+    "topic": "Deepest water found 1000km down, a third of way to Earth’s core",
+    "url": "https://www.newscientist.com/article/mg23231014-700-deepest-water-found-1000km-down-a-third-of-way-to-earths-core/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 2:39:22 AM"
+  },
+  {
     "id": "13040948",
     "timestamp": "Nov 26, 2016 2:34:41 AM",
     "topic": "No, Russian Agents Are Not Behind Every Piece of Fake News You See",
@@ -22,6 +54,14 @@ var newsArray = [
     "url": "https://points.datasociety.net/fake-news-is-not-the-problem-f00ec8cdfcb#.n616r44gm",
     "votes": 3,
     "posted": "Nov 26, 2016 1:07:38 AM"
+  },
+  {
+    "id": "13040791",
+    "timestamp": "Nov 26, 2016 3:54:47 AM",
+    "topic": "How to reduce timber waste: put your logs through a CT scanner",
+    "url": "http://www.treehugger.com/green-jobs/how-reduce-timber-waste-put-your-logs-through-ct-scanner.html?utm_source\u003dfeedburner\u0026utm_medium\u003dfeed\u0026utm_campaign\u003dFeed%3A+treehuggersite+%28Treehugger%29",
+    "votes": 3,
+    "posted": "Nov 26, 2016 12:52:16 AM"
   },
   {
     "id": "13040769",
@@ -7589,61 +7629,5 @@ var newsArray = [
     "url": "https://en.wikipedia.org/wiki/Overton_window",
     "votes": 4,
     "posted": "Nov 19, 2016 3:56:55 AM"
-  },
-  {
-    "id": "12991788",
-    "timestamp": "Nov 19, 2016 5:29:34 AM",
-    "topic": "Stop Wasting Time: Pair Programming Rocks",
-    "url": "https://medium.com/javascript-scene/stop-wasting-time-pair-programming-rocks-4a99604cb09d",
-    "votes": 4,
-    "posted": "Nov 19, 2016 3:51:32 AM"
-  },
-  {
-    "id": "12991764",
-    "timestamp": "Nov 19, 2016 5:39:35 AM",
-    "topic": "Three Powerful Conversations Managers Must Have to Develop Their People",
-    "url": "http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 3:47:10 AM"
-  },
-  {
-    "id": "12991724",
-    "timestamp": "Nov 20, 2016 2:31:29 AM",
-    "topic": "Data Wrangling Westworld",
-    "url": "https://blog.modeanalytics.com/data-mining-westworld/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 3:36:46 AM"
-  },
-  {
-    "id": "12991581",
-    "timestamp": "Nov 19, 2016 3:09:22 AM",
-    "topic": "Why Don\u0027t Computer Scientists Learn Math?",
-    "url": "http://research.microsoft.com/en-us/um/people/lamport/tla/math-knowledge.html",
-    "votes": 5,
-    "posted": "Nov 19, 2016 3:01:10 AM"
-  },
-  {
-    "id": "12991576",
-    "timestamp": "Nov 19, 2016 8:29:47 AM",
-    "topic": "Announcing the new Streamup – live streaming music community",
-    "url": "https://medium.com/@streamup/announcing-the-new-streamup-tada-190a8822627f#.31433cn7h",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:59:28 AM"
-  },
-  {
-    "id": "12991571",
-    "timestamp": "Nov 21, 2016 9:15:14 PM",
-    "topic": "Windows 10 informs Chrome and Firefox users that Edge is ‘safer’",
-    "url": "http://venturebeat.com/2016/11/18/windows-10-informs-chrome-and-firefox-users-that-edge-is-safer/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 2:57:52 AM"
-  },
-  {
-    "id": "12991569",
-    "timestamp": "Nov 19, 2016 8:10:44 PM",
-    "topic": "Cohort – A New Professional Social Graph",
-    "url": "https://medium.com/@EamonLeonard/cohort-a-new-professional-social-graph-1596ad6ca6ea#.an7c65vjb",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:57:42 AM"
   }
 ];
