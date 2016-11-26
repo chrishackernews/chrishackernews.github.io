@@ -32,6 +32,14 @@ var newsArray = [
     "posted": "Nov 26, 2016 12:40:53 PM"
   },
   {
+    "id": "13042905",
+    "timestamp": "Nov 26, 2016 2:15:36 PM",
+    "topic": "Acquiring administrative access to Azure\u0027s RedHat Update infrastructure",
+    "url": "http://ianduffy.ie/blog/2016/11/26/azure-bug-bounty-pwning-red-hat-enterprise-linux/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 11:53:39 AM"
+  },
+  {
     "id": "13042674",
     "timestamp": "Nov 26, 2016 11:45:24 AM",
     "topic": "SQL transaction isolation levels explained",
@@ -244,6 +252,14 @@ var newsArray = [
     "topic": "Ask HN: Best sites for finance, hedge funds, private equity?",
     "votes": 6,
     "posted": "Nov 26, 2016 3:00:00 AM"
+  },
+  {
+    "id": "13041264",
+    "timestamp": "Nov 26, 2016 2:25:36 PM",
+    "topic": "Show HN: Realtime Black Friday Dashboard",
+    "url": "https://blackfriday.semantics3.com/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 2:54:16 AM"
   },
   {
     "id": "13041262",
@@ -522,6 +538,14 @@ var newsArray = [
     "url": "http://www.ksby.com/story/33791574/ny-explorers-find-1872-shipwreck-of-rare-great-lakes-vessel",
     "votes": 4,
     "posted": "Nov 25, 2016 8:22:37 PM"
+  },
+  {
+    "id": "13039153",
+    "timestamp": "Nov 26, 2016 2:35:37 PM",
+    "topic": "Show HN: Straw Poll – a basic, real-time polling app, for thumbing up or down",
+    "url": "https://github.com/mjhea0/straw-poll",
+    "votes": 4,
+    "posted": "Nov 25, 2016 8:19:24 PM"
   },
   {
     "id": "13038990",
@@ -943,6 +967,13 @@ var newsArray = [
     "url": "https://groups.google.com/d/msg/golang-nuts/XoOhzUClDPs/jgSWxng7CAAJ",
     "votes": 9,
     "posted": "Nov 25, 2016 11:44:02 AM"
+  },
+  {
+    "id": "13035692",
+    "timestamp": "Nov 26, 2016 2:25:37 PM",
+    "topic": "Ask HN: Is there any other cheap/free analytics tool other than Googles?",
+    "votes": 4,
+    "posted": "Nov 25, 2016 11:30:21 AM"
   },
   {
     "id": "13035487",
@@ -1781,6 +1812,14 @@ var newsArray = [
     "url": "https://www.thestar.com/business/real_estate/2016/11/23/city-of-toronto-gets-first-zoning-conviction-of-airbnb-era.html",
     "votes": 3,
     "posted": "Nov 24, 2016 3:55:59 PM"
+  },
+  {
+    "id": "13030556",
+    "timestamp": "Nov 26, 2016 2:35:38 PM",
+    "topic": "Show HN: Write.as – anonymous / pseudonymous blogging",
+    "url": "https://write.as",
+    "votes": 9,
+    "posted": "Nov 24, 2016 3:47:50 PM"
   },
   {
     "id": "13030525",
@@ -7496,69 +7535,5 @@ var newsArray = [
     "url": "https://www.gnu.org/software/octave/",
     "votes": 4,
     "posted": "Nov 19, 2016 3:05:04 PM"
-  },
-  {
-    "id": "12993464",
-    "timestamp": "Nov 19, 2016 6:40:37 PM",
-    "topic": "Google’s iron grip on Android (2013)",
-    "url": "http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-controlling-open-source-by-any-means-necessary/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:49:14 PM"
-  },
-  {
-    "id": "12993442",
-    "timestamp": "Nov 19, 2016 3:30:20 PM",
-    "topic": "The trolley problem (Relevant to autopilot mode in cars)",
-    "url": "https://en.wikipedia.org/wiki/Trolley_problem",
-    "votes": 3,
-    "posted": "Nov 19, 2016 2:42:21 PM"
-  },
-  {
-    "id": "12993436",
-    "timestamp": "Nov 23, 2016 12:17:44 AM",
-    "topic": "BCP38 RFC2827: Defeating Denial of Service Attacks IP Source Address Spoofing",
-    "url": "http://www.bcp38.info/index.php/Main_Page",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:41:39 PM"
-  },
-  {
-    "id": "12993350",
-    "timestamp": "Nov 19, 2016 3:10:18 PM",
-    "topic": "Exploratory Haskell (2015)",
-    "url": "http://www.parsonsmatt.org/2015/12/09/exploratory_haskell.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 2:20:21 PM"
-  },
-  {
-    "id": "12993344",
-    "timestamp": "Nov 19, 2016 4:50:26 PM",
-    "topic": "Go 1.8 toolchain improvements",
-    "url": "https://dave.cheney.net/2016/11/19/go-1-8-toolchain-improvements",
-    "votes": 6,
-    "posted": "Nov 19, 2016 2:18:23 PM"
-  },
-  {
-    "id": "12993303",
-    "timestamp": "Nov 19, 2016 4:00:22 PM",
-    "topic": "We Have a Bad News Problem, Not a Fake News Problem",
-    "url": "http://www.snopes.com/2016/11/17/we-have-a-bad-news-problem-not-a-fake-news-problem/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 2:04:18 PM"
-  },
-  {
-    "id": "12993290",
-    "timestamp": "Nov 19, 2016 6:20:35 PM",
-    "topic": "Why bcrypt is not optimally secure",
-    "url": "http://security.stackexchange.com/questions/4781/do-any-security-experts-recommend-bcrypt-for-password-storage#answer-6415",
-    "votes": 3,
-    "posted": "Nov 19, 2016 1:59:14 PM"
-  },
-  {
-    "id": "12993289",
-    "timestamp": "Nov 19, 2016 3:30:19 PM",
-    "topic": "Antarcticans Database Project",
-    "url": "http://www.coolantarctica.com/Community/Antarcticans-database-project.php",
-    "votes": 5,
-    "posted": "Nov 19, 2016 1:59:12 PM"
   }
 ];
