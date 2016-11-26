@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13040867",
+    "timestamp": "Nov 26, 2016 1:44:37 AM",
+    "topic": "Fake news is not the only problem",
+    "url": "https://points.datasociety.net/fake-news-is-not-the-problem-f00ec8cdfcb#.n616r44gm",
+    "votes": 3,
+    "posted": "Nov 26, 2016 1:07:38 AM"
+  },
+  {
+    "id": "13040769",
+    "timestamp": "Nov 26, 2016 1:24:36 AM",
+    "topic": "The CNN porn scare is how fake news spreads",
+    "url": "http://www.theverge.com/2016/11/25/13748226/cnn-accidentally-airs-porn-fake-news-boston",
+    "votes": 9,
+    "posted": "Nov 26, 2016 12:48:35 AM"
+  },
+  {
     "id": "13040737",
     "timestamp": "Nov 26, 2016 12:54:33 AM",
     "topic": "The Russian “Firehose of Falsehood” Propaganda Model",
@@ -14,6 +30,14 @@ var newsArray = [
     "url": "http://99percentinvisible.org/article/railway-market-urban-train-track-doubles-shopping-alley-thailand/",
     "votes": 3,
     "posted": "Nov 26, 2016 12:36:47 AM"
+  },
+  {
+    "id": "13040595",
+    "timestamp": "Nov 26, 2016 1:04:34 AM",
+    "topic": "Inside a Fake News Factory: ‘This Is All About Income’",
+    "url": "http://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-clinton-georgia.html",
+    "votes": 5,
+    "posted": "Nov 26, 2016 12:17:07 AM"
   },
   {
     "id": "13040395",
@@ -77,6 +101,14 @@ var newsArray = [
     "url": "http://codepen.io/chriscoyier/post/code-in-stock-photos",
     "votes": 3,
     "posted": "Nov 25, 2016 10:38:06 PM"
+  },
+  {
+    "id": "13040035",
+    "timestamp": "Nov 26, 2016 1:14:35 AM",
+    "topic": "Facebook must stop presenting a newsfeed which isn\u0027t composed of real journalism",
+    "url": "https://www.arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news",
+    "votes": 7,
+    "posted": "Nov 25, 2016 10:37:28 PM"
   },
   {
     "id": "13039981",
@@ -902,6 +934,13 @@ var newsArray = [
     "url": "http://www.nytimes.com/2016/11/23/opinion/my-life-with-tourettes-syndrome.html",
     "votes": 4,
     "posted": "Nov 25, 2016 12:19:52 AM"
+  },
+  {
+    "id": "13033355",
+    "timestamp": "Nov 26, 2016 1:04:34 AM",
+    "topic": "Ask HN: SaaS plans: One without encrypted data at rest, and one with. How to?",
+    "votes": 4,
+    "posted": "Nov 25, 2016 12:05:55 AM"
   },
   {
     "id": "13033347",
@@ -3936,11 +3975,27 @@ var newsArray = [
     "posted": "Nov 22, 2016 5:11:40 PM"
   },
   {
+    "id": "13014961",
+    "timestamp": "Nov 26, 2016 1:44:37 AM",
+    "topic": "What\u0027s New in IntelliJ IDEA 2016.3",
+    "url": "https://www.jetbrains.com/idea/whatsnew/#v2016-3",
+    "votes": 4,
+    "posted": "Nov 22, 2016 5:04:12 PM"
+  },
+  {
     "id": "13014900",
     "timestamp": "Nov 22, 2016 5:57:06 PM",
     "topic": "Ask HN: What are the bibles of Computer Science?",
     "votes": 4,
     "posted": "Nov 22, 2016 4:57:35 PM"
+  },
+  {
+    "id": "13014845",
+    "timestamp": "Nov 26, 2016 1:44:37 AM",
+    "topic": "Encrypting Secrets for CloudFormation",
+    "url": "https://kangaroobox.com/2016/11/22/encrypting-secrets-for-cloudformation.html",
+    "votes": 3,
+    "posted": "Nov 22, 2016 4:47:29 PM"
   },
   {
     "id": "13014819",
@@ -3989,6 +4044,14 @@ var newsArray = [
     "url": "http://blog.davidecoppola.com/2016/11/qt-network-and-json-example-simple-hacker-news-reader/",
     "votes": 3,
     "posted": "Nov 22, 2016 4:00:10 PM"
+  },
+  {
+    "id": "13014541",
+    "timestamp": "Nov 26, 2016 1:44:37 AM",
+    "topic": "Show HN: Serverless Dashboard – A Desktop App for the Serverless Framework",
+    "url": "https://github.com/serverless/dashboard",
+    "votes": 4,
+    "posted": "Nov 22, 2016 4:00:07 PM"
   },
   {
     "id": "13014537",
@@ -7621,100 +7684,5 @@ var newsArray = [
     "url": "http://arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news/",
     "votes": 5,
     "posted": "Nov 19, 2016 2:12:33 AM"
-  },
-  {
-    "id": "12991295",
-    "timestamp": "Nov 19, 2016 5:30:31 PM",
-    "topic": "Glacially Slow IP Over QR Code Tunnel",
-    "url": "http://seiferteric.com/?p\u003d356",
-    "votes": 6,
-    "posted": "Nov 19, 2016 1:52:02 AM"
-  },
-  {
-    "id": "12991293",
-    "timestamp": "Nov 19, 2016 2:49:20 AM",
-    "topic": "UN Report: Robots Will Replace Two-Thirds of All Workers in the Developing World [pdf]",
-    "url": "http://unctad.org/en/PublicationsLibrary/presspb2016d6_en.pdf",
-    "votes": 4,
-    "posted": "Nov 19, 2016 1:51:50 AM"
-  },
-  {
-    "id": "12991292",
-    "timestamp": "Nov 19, 2016 2:39:19 AM",
-    "topic": "Michigan State University employee and student records hacked",
-    "url": "http://www.lansingstatejournal.com/story/news/local/2016/11/18/msu-names-and-social-security-numbers-accessed-data-breach/94086880/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 1:51:36 AM"
-  },
-  {
-    "id": "12991259",
-    "timestamp": "Nov 19, 2016 2:29:18 AM",
-    "topic": "FiB: Fake news detector built in a hackathon by a Princeton student team",
-    "url": "https://devpost.com/software/fib",
-    "votes": 4,
-    "posted": "Nov 19, 2016 1:45:01 AM"
-  },
-  {
-    "id": "12991253",
-    "timestamp": "Nov 19, 2016 3:59:25 AM",
-    "topic": "Show HN: ContactOut – Find Anyone\u0027s  Email and Phone#",
-    "url": "http://contactout.io/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 1:44:02 AM"
-  },
-  {
-    "id": "12991208",
-    "timestamp": "Nov 19, 2016 8:59:50 AM",
-    "topic": "Building web applications on top of encrypted data using Mylar (2016) [pdf]",
-    "url": "https://people.csail.mit.edu/nickolai/papers/popa-mylar-2016-08-29.pdf",
-    "votes": 5,
-    "posted": "Nov 19, 2016 1:38:23 AM"
-  },
-  {
-    "id": "12991190",
-    "timestamp": "Nov 19, 2016 1:49:15 AM",
-    "topic": "The artic is 36 degrees F warmer than normal",
-    "url": "http://www.pbs.org/wgbh/nova/next/earth/the-arctic-is-36-degrees-f-warmer-than-normal/?utm_medium\u003dnovasocial\u0026utm_campaign\u003dnova_next\u0026linkId\u003d31327062",
-    "votes": 4,
-    "posted": "Nov 19, 2016 1:34:14 AM"
-  },
-  {
-    "id": "12991139",
-    "timestamp": "Nov 19, 2016 1:29:14 AM",
-    "topic": "Donald Trump Agrees to Pay $25M in Trump University Settlement",
-    "url": "http://nytimes.com/2016/11/19/us/politics/trump-university.html",
-    "votes": 5,
-    "posted": "Nov 19, 2016 1:22:04 AM"
-  },
-  {
-    "id": "12991114",
-    "timestamp": "Nov 19, 2016 4:39:29 AM",
-    "topic": "Can someone please critique my developer resume after startup layoff?",
-    "votes": 5,
-    "posted": "Nov 19, 2016 1:15:41 AM"
-  },
-  {
-    "id": "12991092",
-    "timestamp": "Nov 19, 2016 1:39:14 AM",
-    "topic": "The North Pole is an insane 20C warmer than normal as winter descends",
-    "url": "http://www.smh.com.au/environment/weather/the-north-pole-is-an-insane-20c-warmer-than-normal-as-winter-descends-20161117-gss3bg.html",
-    "votes": 6,
-    "posted": "Nov 19, 2016 1:09:13 AM"
-  },
-  {
-    "id": "12991035",
-    "timestamp": "Nov 19, 2016 1:19:12 AM",
-    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
-    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#.wkh03tvg4",
-    "votes": 3,
-    "posted": "Nov 19, 2016 1:00:15 AM"
-  },
-  {
-    "id": "12991010",
-    "timestamp": "Nov 19, 2016 1:09:12 AM",
-    "topic": "Facebook Sucks at Machine Learning",
-    "url": "http://blog.eladgil.com/2016/11/facebook-must-really-suck-at-machine.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:55:02 AM"
   }
 ];
