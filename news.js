@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13042674",
+    "timestamp": "Nov 26, 2016 11:45:24 AM",
+    "topic": "SQL transaction isolation levels explained",
+    "url": "https://elliot.land/sql-transaction-isolation-levels-explained",
+    "votes": 4,
+    "posted": "Nov 26, 2016 10:21:28 AM"
+  },
+  {
     "id": "13042537",
     "timestamp": "Nov 26, 2016 9:45:16 AM",
     "topic": "AMD\u0027s new Zen-based $499 CPU beats Intel\u0027s $999 CPU",
@@ -7563,53 +7571,5 @@ var newsArray = [
     "url": "https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/",
     "votes": 12,
     "posted": "Nov 19, 2016 12:40:31 PM"
-  },
-  {
-    "id": "12992874",
-    "timestamp": "Nov 19, 2016 5:20:30 PM",
-    "topic": "Best Data Science Courses at Imarticus",
-    "url": "http://imarticus.org/best-data-science-courses-imarticus",
-    "votes": 3,
-    "posted": "Nov 19, 2016 11:52:09 AM"
-  },
-  {
-    "id": "12992778",
-    "timestamp": "Nov 20, 2016 2:31:29 AM",
-    "topic": "An Excerpt from They Thought They Were Free the Germans, 1933-45",
-    "url": "http://www.press.uchicago.edu/Misc/Chicago/511928.html",
-    "votes": 6,
-    "posted": "Nov 19, 2016 11:12:31 AM"
-  },
-  {
-    "id": "12992777",
-    "timestamp": "Nov 19, 2016 11:50:03 AM",
-    "topic": "This is a graph of total global sea ice. The red line is this year",
-    "url": "https://twitter.com/billmckibben/status/799783145356886016",
-    "votes": 4,
-    "posted": "Nov 19, 2016 11:12:04 AM"
-  },
-  {
-    "id": "12992775",
-    "timestamp": "Nov 19, 2016 2:50:17 PM",
-    "topic": "Inside Racket Seminar 6 – Sam Tobin-Hochstadt on Match",
-    "url": "https://www.youtube.com/watch?v\u003dIikGK8XP5_Q",
-    "votes": 3,
-    "posted": "Nov 19, 2016 11:10:43 AM"
-  },
-  {
-    "id": "12992762",
-    "timestamp": "Nov 19, 2016 4:50:26 PM",
-    "topic": "Confessions of a Google Spammer",
-    "url": "https://readthink.com/confessions-of-a-google-spammer-4f2e0c3e9869#.yskwscj4t",
-    "votes": 3,
-    "posted": "Nov 19, 2016 11:05:17 AM"
-  },
-  {
-    "id": "12992761",
-    "timestamp": "Nov 20, 2016 2:51:31 AM",
-    "topic": "When student journos start banning newspapers we know we\u0027ve hit peak censorship",
-    "url": "http://www.independent.co.uk/voices/city-university-tabloid-ban-sun-mail-express-peak-censorship-a7425156.html",
-    "votes": 4,
-    "posted": "Nov 19, 2016 11:05:01 AM"
   }
 ];
