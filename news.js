@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13044658",
+    "timestamp": "Nov 26, 2016 6:36:05 PM",
+    "topic": "Clean up your existence",
+    "url": "https://deseat.me/",
+    "votes": 11,
+    "posted": "Nov 26, 2016 6:11:36 PM"
+  },
+  {
+    "id": "13044551",
+    "timestamp": "Nov 26, 2016 6:05:57 PM",
+    "topic": "I don’t belong in tech",
+    "url": "https://medium.com/@saronyitbarek/i-dont-belong-in-tech-3d73d8fd6f34",
+    "votes": 4,
+    "posted": "Nov 26, 2016 5:52:43 PM"
+  },
+  {
+    "id": "13044529",
+    "timestamp": "Nov 26, 2016 6:15:57 PM",
+    "topic": "The Need to Read",
+    "url": "http://www.wsj.com/articles/the-need-to-read-1480083086",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:48:35 PM"
+  },
+  {
     "id": "13044262",
     "timestamp": "Nov 26, 2016 5:15:52 PM",
     "topic": "The New Haxe Target: HashLink InDepth – Part 1",
@@ -1036,6 +1060,14 @@ var newsArray = [
     "topic": "Accord has gone live Call now to someone who disagrees with you about Brexit",
     "votes": 5,
     "posted": "Nov 25, 2016 2:35:21 PM"
+  },
+  {
+    "id": "13036604",
+    "timestamp": "Nov 26, 2016 6:26:04 PM",
+    "topic": "Which Language Uses the Most Sounds?",
+    "url": "http://www.nytimes.com/2016/11/25/world/what-in-the-world/click-languages-taa-xoon-xoo-botswana.html",
+    "votes": 4,
+    "posted": "Nov 25, 2016 2:34:04 PM"
   },
   {
     "id": "13036386",
@@ -7534,75 +7566,5 @@ var newsArray = [
     "url": "https://medium.com/@chris_82106/https-medium-com-chris-82106-its-2016-why-is-video-conferencing-still-terrible-1b8802032aae#.rcalpw337",
     "votes": 3,
     "posted": "Nov 19, 2016 7:13:17 PM"
-  },
-  {
-    "id": "12994503",
-    "timestamp": "Nov 20, 2016 3:41:35 AM",
-    "topic": "Ask HN: Where do you look for jobs?",
-    "votes": 10,
-    "posted": "Nov 19, 2016 6:41:54 PM"
-  },
-  {
-    "id": "12994487",
-    "timestamp": "Nov 20, 2016 3:41:36 AM",
-    "topic": "Ask HN: Where can I find a list of flagged HN submissions?",
-    "votes": 6,
-    "posted": "Nov 19, 2016 6:38:35 PM"
-  },
-  {
-    "id": "12994482",
-    "timestamp": "Nov 20, 2016 3:41:35 AM",
-    "topic": "250 GB/day of logs with Graylog: The good, the bad and the ugly",
-    "url": "https://thehftguy.wordpress.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 6:37:43 PM"
-  },
-  {
-    "id": "12994455",
-    "timestamp": "Nov 19, 2016 10:11:06 PM",
-    "topic": "Alien life could be so advanced it becomes indistinguishable from physics",
-    "url": "http://nautil.us/issue/42/fakes/is-physical-law-an-alien-intelligence",
-    "votes": 4,
-    "posted": "Nov 19, 2016 6:34:29 PM"
-  },
-  {
-    "id": "12994447",
-    "timestamp": "Nov 19, 2016 7:20:40 PM",
-    "topic": "New MacBook Pros have non-upgradeable SSDs, seemingly under-sized batteries",
-    "url": "https://9to5mac.com/2016/11/15/2016-macbook-pro-non-removable-ssd-small-batteries/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 6:33:32 PM"
-  },
-  {
-    "id": "12994400",
-    "timestamp": "Nov 19, 2016 8:00:43 PM",
-    "topic": "It\u0027s official: NASA\u0027s peer-reviewed EM Drive paper has finally been published",
-    "url": "http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published",
-    "votes": 4,
-    "posted": "Nov 19, 2016 6:24:08 PM"
-  },
-  {
-    "id": "12994329",
-    "timestamp": "Nov 20, 2016 2:31:29 AM",
-    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
-    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#.y3uj8jdat",
-    "votes": 7,
-    "posted": "Nov 19, 2016 6:07:41 PM"
-  },
-  {
-    "id": "12994304",
-    "timestamp": "Nov 19, 2016 8:50:59 PM",
-    "topic": "Show HN: Commit – Tech News for Activist Coders",
-    "url": "https://commit.ws/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 6:02:25 PM"
-  },
-  {
-    "id": "12994291",
-    "timestamp": "Nov 19, 2016 6:30:36 PM",
-    "topic": "The Real Secret to Asian American Success Wasn\u0027t Education",
-    "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/19/the-real-secret-to-asian-american-success-was-not-education/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 6:00:14 PM"
   }
 ];
