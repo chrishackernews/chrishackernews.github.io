@@ -1,11 +1,35 @@
 var newsArray = [
   {
+    "id": "13043025",
+    "timestamp": "Nov 26, 2016 12:55:30 PM",
+    "topic": "Fidel Castro survived at least eight assassination plots by the CIA",
+    "url": "http://www.bloomberg.com/news/articles/2016-11-26/fidel-castro-who-turned-cuba-into-communist-outpost-dies-at-90?cmpid\u003dsocialflow-twitter-business\u0026utm_content\u003dbusiness\u0026utm_campaign\u003dsocialflow-organic\u0026utm_source\u003dtwitter\u0026utm_medium\u003dsocial",
+    "votes": 8,
+    "posted": "Nov 26, 2016 12:40:53 PM"
+  },
+  {
     "id": "13042674",
     "timestamp": "Nov 26, 2016 11:45:24 AM",
     "topic": "SQL transaction isolation levels explained",
     "url": "https://elliot.land/sql-transaction-isolation-levels-explained",
     "votes": 4,
     "posted": "Nov 26, 2016 10:21:28 AM"
+  },
+  {
+    "id": "13042625",
+    "timestamp": "Nov 26, 2016 12:15:26 PM",
+    "topic": "Lenovo to launch K6 power on 29th November",
+    "url": "https://thetechgraph.com/2016/11/26/lenovo-launch-k6-power-29th-november/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 9:58:28 AM"
+  },
+  {
+    "id": "13042553",
+    "timestamp": "Nov 26, 2016 12:05:25 PM",
+    "topic": "How the Trump Campaign Built an Identity Database and Used Facebook Ads",
+    "url": "https://medium.com/@MedicalReport/how-the-trump-campaign-built-an-identity-database-and-used-facebook-ads-to-win-the-election-4ff7d24269ac#.pwn7eopry",
+    "votes": 3,
+    "posted": "Nov 26, 2016 9:38:09 AM"
   },
   {
     "id": "13042537",
@@ -1372,6 +1396,13 @@ var newsArray = [
     "posted": "Nov 24, 2016 10:01:33 PM"
   },
   {
+    "id": "13032659",
+    "timestamp": "Nov 26, 2016 12:35:28 PM",
+    "topic": "Ask HN: Topics to learn to become a Robotics/AI “engineer”",
+    "votes": 5,
+    "posted": "Nov 24, 2016 9:46:33 PM"
+  },
+  {
     "id": "13032640",
     "timestamp": "Nov 24, 2016 10:31:48 PM",
     "topic": "Go master Cho wins best-of-three series against Japan-made AI",
@@ -1608,6 +1639,13 @@ var newsArray = [
     "url": "https://www.devever.net/~hl/smartcards",
     "votes": 4,
     "posted": "Nov 24, 2016 5:33:14 PM"
+  },
+  {
+    "id": "13031141",
+    "timestamp": "Nov 26, 2016 12:35:28 PM",
+    "topic": "Ask HN: Any deals for books, courses that you can recommend?",
+    "votes": 5,
+    "posted": "Nov 24, 2016 5:31:57 PM"
   },
   {
     "id": "13031027",
@@ -2068,6 +2106,13 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/21/13703152/netflix-4k-pc-windows-support",
     "votes": 3,
     "posted": "Nov 24, 2016 2:25:34 AM"
+  },
+  {
+    "id": "13027207",
+    "timestamp": "Nov 26, 2016 12:35:29 PM",
+    "topic": "Ask HN: How to escape the rat race?",
+    "votes": 4,
+    "posted": "Nov 24, 2016 2:24:48 AM"
   },
   {
     "id": "13027181",
@@ -7547,29 +7592,5 @@ var newsArray = [
     "url": "https://qubitsnews.com/2016/11/19/geologists-discover-how-a-tectonic-plate-sank/",
     "votes": 3,
     "posted": "Nov 19, 2016 12:58:53 PM"
-  },
-  {
-    "id": "12993054",
-    "timestamp": "Nov 19, 2016 5:20:30 PM",
-    "topic": "World’s First Photonic Neural Network Unveiled",
-    "url": "https://www.technologyreview.com/s/602938/worlds-first-photonic-neural-network-unveiled/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 12:49:11 PM"
-  },
-  {
-    "id": "12993029",
-    "timestamp": "Nov 19, 2016 2:50:16 PM",
-    "topic": "Obama bans new oil drilling in Arctic Ocean",
-    "url": "http://www.bbc.com/news/world-us-canada-38034518",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:42:56 PM"
-  },
-  {
-    "id": "12993021",
-    "timestamp": "Nov 19, 2016 5:20:29 PM",
-    "topic": "Google Cloud is 50% cheaper than AWS",
-    "url": "https://thehftguy.wordpress.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/",
-    "votes": 12,
-    "posted": "Nov 19, 2016 12:40:31 PM"
   }
 ];
