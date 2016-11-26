@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13042537",
+    "timestamp": "Nov 26, 2016 9:45:16 AM",
+    "topic": "AMD\u0027s new Zen-based $499 CPU beats Intel\u0027s $999 CPU",
+    "url": "http://www.tweaktown.com/news/55126/amds-new-zen-based-499-cpu-beats-intels-999/index.html",
+    "votes": 10,
+    "posted": "Nov 26, 2016 9:34:14 AM"
+  },
+  {
+    "id": "13042445",
+    "timestamp": "Nov 26, 2016 9:45:16 AM",
+    "topic": "Show HN: Alter – convert text/code to an image",
+    "url": "http://alter.cf",
+    "votes": 4,
+    "posted": "Nov 26, 2016 9:07:41 AM"
+  },
+  {
+    "id": "13042309",
+    "timestamp": "Nov 26, 2016 9:35:15 AM",
+    "topic": "Microsoft Bets on FPGAs for Cloud, ML and AI",
+    "url": "https://www.wired.com/2016/09/microsoft-bets-future-chip-reprogram-fly/?mbid\u003dsocial_twitter",
+    "votes": 3,
+    "posted": "Nov 26, 2016 8:29:52 AM"
+  },
+  {
     "id": "13042199",
     "timestamp": "Nov 26, 2016 8:55:12 AM",
     "topic": "Mulle-Objc: A New Objective-C Compiler and Runtime",
@@ -32,6 +56,14 @@ var newsArray = [
     "posted": "Nov 26, 2016 7:18:23 AM"
   },
   {
+    "id": "13041973",
+    "timestamp": "Nov 26, 2016 9:05:13 AM",
+    "topic": "How I Detect Fake News",
+    "url": "https://medium.com/@timoreilly/how-i-detect-fake-news-ebe455d9d4a7",
+    "votes": 3,
+    "posted": "Nov 26, 2016 7:00:46 AM"
+  },
+  {
     "id": "13041912",
     "timestamp": "Nov 26, 2016 8:35:10 AM",
     "topic": "Top Books on Amazon Based on Number of HN Users Linking Them in Comments",
@@ -46,6 +78,13 @@ var newsArray = [
     "url": "http://www.bbc.com/news/world-latin-america-38114953",
     "votes": 17,
     "posted": "Nov 26, 2016 6:32:38 AM"
+  },
+  {
+    "id": "13041771",
+    "timestamp": "Nov 26, 2016 9:05:13 AM",
+    "topic": "Ask HN: What is your preferred way to shop laptops?",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:47:00 AM"
   },
   {
     "id": "13041735",
@@ -7604,37 +7643,5 @@ var newsArray = [
     "url": "https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life/answer/Soham-Mehta-1?ref\u003dfb_page\u0026amp;share\u003d1",
     "votes": 3,
     "posted": "Nov 19, 2016 9:57:15 AM"
-  },
-  {
-    "id": "12992623",
-    "timestamp": "Nov 19, 2016 11:30:01 AM",
-    "topic": "New Tesla Full Self Driving Video",
-    "url": "https://www.tesla.com/en_GB/videos/autopilot-self-driving-hardware-neighborhood-short",
-    "votes": 15,
-    "posted": "Nov 19, 2016 9:53:25 AM"
-  },
-  {
-    "id": "12992549",
-    "timestamp": "Nov 19, 2016 11:40:02 AM",
-    "topic": "NASA\u0027s peer-reviewed EM Drive paper published – and the drive appears to work",
-    "url": "http://www.sciencealert.com/it-s-official-nasa-s-peer-reviewed-em-drive-paper-has-finally-been-published",
-    "votes": 6,
-    "posted": "Nov 19, 2016 9:09:43 AM"
-  },
-  {
-    "id": "12992536",
-    "timestamp": "Nov 19, 2016 11:20:00 AM",
-    "topic": "Measurement of Impulsive Thrust from a Closed Radio-Frequency Cavity in Vacuum",
-    "url": "http://arc.aiaa.org/doi/10.2514/1.B36120",
-    "votes": 6,
-    "posted": "Nov 19, 2016 9:03:13 AM"
-  },
-  {
-    "id": "12992521",
-    "timestamp": "Nov 19, 2016 9:19:52 AM",
-    "topic": "This researcher programmed bots to fight racism on Twitter. It worked",
-    "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/17/this-researcher-programmed-bots-to-fight-racism-on-twitter-it-worked/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 8:57:00 AM"
   }
 ];
