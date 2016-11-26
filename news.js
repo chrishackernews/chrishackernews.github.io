@@ -1,5 +1,13 @@
 var newsArray = [
   {
+    "id": "13041886",
+    "timestamp": "Nov 26, 2016 6:45:01 AM",
+    "topic": "Cuba\u0027s Fidel Castro dies aged 90",
+    "url": "http://www.bbc.com/news/world-latin-america-38114953",
+    "votes": 17,
+    "posted": "Nov 26, 2016 6:32:38 AM"
+  },
+  {
     "id": "13041730",
     "timestamp": "Nov 26, 2016 5:54:57 AM",
     "topic": "Wells Fargo says customers gave up right to sue by having signatures forged",
@@ -7597,37 +7605,5 @@ var newsArray = [
     "url": "http://blog.digg.com/post/141552444676/making-the-switch-from-nodejs-to-golang",
     "votes": 4,
     "posted": "Nov 19, 2016 6:55:16 AM"
-  },
-  {
-    "id": "12992249",
-    "timestamp": "Nov 19, 2016 7:30:41 PM",
-    "topic": "Making Machines That Make Music",
-    "url": "https://www.youtube.com/watch?v\u003dZvSSeuzN_b4",
-    "votes": 3,
-    "posted": "Nov 19, 2016 6:32:27 AM"
-  },
-  {
-    "id": "12992240",
-    "timestamp": "Nov 19, 2016 1:30:10 PM",
-    "topic": "Tails: Call for testing: 3.0~alpha1",
-    "url": "https://tails.boum.org/news/test_3.0-alpha1/index.en.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 6:28:52 AM"
-  },
-  {
-    "id": "12992208",
-    "timestamp": "Nov 19, 2016 7:49:44 AM",
-    "topic": "NASA under Trump",
-    "url": "http://www.planetary.org/blogs/casey-dreier/2016/1118-nasa-under-trump.html",
-    "votes": 5,
-    "posted": "Nov 19, 2016 6:19:17 AM"
-  },
-  {
-    "id": "12992145",
-    "timestamp": "Nov 19, 2016 5:59:36 AM",
-    "topic": "Streak (YC S11) Hiring a Senior Back End Engineer",
-    "url": "https://www.streak.com/careers#BackendTechLead",
-    "votes": 1,
-    "posted": "Nov 19, 2016 5:55:37 AM"
   }
 ];
