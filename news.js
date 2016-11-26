@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13040948",
+    "timestamp": "Nov 26, 2016 2:34:41 AM",
+    "topic": "No, Russian Agents Are Not Behind Every Piece of Fake News You See",
+    "url": "http://fortune.com/2016/11/25/russian-fake-news/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 1:28:26 AM"
+  },
+  {
+    "id": "13040930",
+    "timestamp": "Nov 26, 2016 2:34:41 AM",
+    "topic": "Our Favorite Narrative Cliche: A World Filled with Idiots",
+    "url": "http://www.davidbrin.com/idiotplot.html",
+    "votes": 3,
+    "posted": "Nov 26, 2016 1:24:18 AM"
+  },
+  {
     "id": "13040867",
     "timestamp": "Nov 26, 2016 1:44:37 AM",
     "topic": "Fake news is not the only problem",
@@ -119,6 +135,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 10:28:11 PM"
   },
   {
+    "id": "13039878",
+    "timestamp": "Nov 26, 2016 2:24:41 AM",
+    "topic": "Arctic ice melt could trigger uncontrollable climate change at global level",
+    "url": "https://www.theguardian.com/environment/2016/nov/25/arctic-ice-melt-trigger-uncontrollable-climate-change-global-level",
+    "votes": 3,
+    "posted": "Nov 25, 2016 10:14:38 PM"
+  },
+  {
     "id": "13039810",
     "timestamp": "Nov 25, 2016 11:14:22 PM",
     "topic": "History of the Iranian/Saudi proxy wars",
@@ -141,6 +165,14 @@ var newsArray = [
     "url": "https://p2p-microlending-blog.zidisha.org/2016/11/24/introducing-impact-investment-funds/",
     "votes": 5,
     "posted": "Nov 25, 2016 9:14:17 PM"
+  },
+  {
+    "id": "13039422",
+    "timestamp": "Nov 26, 2016 2:34:42 AM",
+    "topic": "Germany planning to ′massively′ limit privacy rights",
+    "url": "http://www.dw.com/en/germany-planning-to-massively-limit-privacy-rights/a-36529692",
+    "votes": 4,
+    "posted": "Nov 25, 2016 9:00:02 PM"
   },
   {
     "id": "13039336",
@@ -7613,76 +7645,5 @@ var newsArray = [
     "url": "https://medium.com/@EamonLeonard/cohort-a-new-professional-social-graph-1596ad6ca6ea#.an7c65vjb",
     "votes": 4,
     "posted": "Nov 19, 2016 2:57:42 AM"
-  },
-  {
-    "id": "12991533",
-    "timestamp": "Nov 19, 2016 4:19:27 AM",
-    "topic": "Navy SEAL Mental Toughness Techniques",
-    "url": "https://betterhumans.coach.me/bulletproof-mind-6-secrets-of-mental-toughness-from-the-navy-seals-836154bec989",
-    "votes": 5,
-    "posted": "Nov 19, 2016 2:47:31 AM"
-  },
-  {
-    "id": "12991524",
-    "timestamp": "Nov 19, 2016 3:09:22 AM",
-    "topic": "Grace Hopper and Margaret Hamilton Awarded Presidential Medal of Freedom",
-    "url": "https://techcrunch.com/2016/11/17/grace-hopper-and-margaret-hamilton-awarded-presidential-medal-of-freedom-for-computing-advances/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:45:14 AM"
-  },
-  {
-    "id": "12991490",
-    "timestamp": "Nov 19, 2016 2:39:19 AM",
-    "topic": "Upcall, an on-demand API Callforce, is hiring an Operations Manager",
-    "votes": 1,
-    "posted": "Nov 19, 2016 2:37:05 AM"
-  },
-  {
-    "id": "12991482",
-    "timestamp": "Nov 19, 2016 4:19:27 AM",
-    "topic": "Senators Want FCC to Crack Down on ‘Harmful Zero-Rating Offerings’",
-    "url": "https://morningconsult.com/2016/11/18/senators-call-fcc-crack-harmful-zero-rating-offerings/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 2:35:19 AM"
-  },
-  {
-    "id": "12991470",
-    "timestamp": "Nov 19, 2016 7:00:38 PM",
-    "topic": "National Security Agency Said to Use Manhattan Tower as Listening Post",
-    "url": "http://www.nytimes.com/2016/11/18/nyregion/national-security-agency-said-to-use-manhattan-tower-as-listening-post.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 2:32:31 AM"
-  },
-  {
-    "id": "12991458",
-    "timestamp": "Nov 19, 2016 8:59:50 AM",
-    "topic": "ServiceWorker\u0027s Link leads to botnet-like persistent JavaScript worker",
-    "url": "https://bugs.chromium.org/p/chromium/issues/detail?id\u003d662443",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:28:13 AM"
-  },
-  {
-    "id": "12991431",
-    "timestamp": "Nov 19, 2016 6:00:34 PM",
-    "topic": "Q and A: The future of artificial intelligence",
-    "url": "http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:20:00 AM"
-  },
-  {
-    "id": "12991406",
-    "timestamp": "Nov 19, 2016 4:49:30 AM",
-    "topic": "United Will Not Allow Lowest-Fare Passengers to Use Overhead Bins",
-    "url": "http://www.huffingtonpost.com/entry/united-carry-on_us_582b3a6be4b02d21bbcab640",
-    "votes": 4,
-    "posted": "Nov 19, 2016 2:14:18 AM"
-  },
-  {
-    "id": "12991398",
-    "timestamp": "Nov 19, 2016 3:19:22 AM",
-    "topic": "It’s time to get rid of the Facebook “news feed,” because it’s not news",
-    "url": "http://arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 2:12:33 AM"
   }
 ];
