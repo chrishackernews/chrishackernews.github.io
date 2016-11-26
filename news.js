@@ -1,5 +1,21 @@
 var newsArray = [
   {
+    "id": "13043761",
+    "timestamp": "Nov 26, 2016 4:15:47 PM",
+    "topic": "Breitbart news site blocked by ad exchange",
+    "url": "http://www.bbc.com/news/technology-38076579",
+    "votes": 4,
+    "posted": "Nov 26, 2016 3:52:52 PM"
+  },
+  {
+    "id": "13043650",
+    "timestamp": "Nov 26, 2016 4:15:47 PM",
+    "topic": "Cards Against Humanity is digging a hole in the earth",
+    "url": "https://holidayhole.com/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 3:36:29 PM"
+  },
+  {
     "id": "13043592",
     "timestamp": "Nov 26, 2016 3:35:43 PM",
     "topic": "Ask HN: Remote workers, what headphone/mic combo do you use for video calls?",
@@ -109,6 +125,14 @@ var newsArray = [
     "url": "http://www.bloomberg.com/news/articles/2016-11-26/fidel-castro-who-turned-cuba-into-communist-outpost-dies-at-90?cmpid\u003dsocialflow-twitter-business\u0026utm_content\u003dbusiness\u0026utm_campaign\u003dsocialflow-organic\u0026utm_source\u003dtwitter\u0026utm_medium\u003dsocial",
     "votes": 8,
     "posted": "Nov 26, 2016 12:40:53 PM"
+  },
+  {
+    "id": "13042980",
+    "timestamp": "Nov 26, 2016 4:35:48 PM",
+    "topic": "I can’t just stand by and watch Mark Zuckerberg destroy the internet",
+    "url": "https://medium.freecodecamp.com/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1#.b6jhwqd7v",
+    "votes": 3,
+    "posted": "Nov 26, 2016 12:24:57 PM"
   },
   {
     "id": "13042905",
@@ -1993,6 +2017,14 @@ var newsArray = [
     "url": "https://www.arangodb.com/2016/11/arangodb-closes-2-2-million-euro-investment-led-target-partners/",
     "votes": 20,
     "posted": "Nov 24, 2016 2:18:17 PM"
+  },
+  {
+    "id": "13029999",
+    "timestamp": "Nov 26, 2016 4:25:48 PM",
+    "topic": "Show HN: Inception.js – Websites within websites",
+    "url": "https://github.com/jongomez/inception.js",
+    "votes": 6,
+    "posted": "Nov 24, 2016 1:41:42 PM"
   },
   {
     "id": "13029941",
@@ -7549,45 +7581,5 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dNH-qIKOoKgA",
     "votes": 3,
     "posted": "Nov 19, 2016 5:00:54 PM"
-  },
-  {
-    "id": "12993862",
-    "timestamp": "Nov 19, 2016 5:10:28 PM",
-    "topic": "Heavy Screen Time Rewires Young Brains, for Better and Worse",
-    "url": "http://www.npr.org/sections/health-shots/2016/11/19/502610055/heavy-screen-time-rewires-young-brains-for-better-and-worse",
-    "votes": 3,
-    "posted": "Nov 19, 2016 4:30:48 PM"
-  },
-  {
-    "id": "12993803",
-    "timestamp": "Nov 21, 2016 11:24:18 AM",
-    "topic": "The IRS Believes All Bitcoin Users Are Tax Cheats",
-    "url": "https://www.cato.org/blog",
-    "votes": 6,
-    "posted": "Nov 19, 2016 4:15:50 PM"
-  },
-  {
-    "id": "12993759",
-    "timestamp": "Nov 19, 2016 5:20:29 PM",
-    "topic": "Your Startup Is About to Fail. Here Are 20 Reasons Why:",
-    "url": "https://medium.com/the-mission/your-startup-is-about-to-fail-here-are-20-reasons-why-26d18a2077bf#.dqcip8j76",
-    "votes": 4,
-    "posted": "Nov 19, 2016 4:06:08 PM"
-  },
-  {
-    "id": "12993720",
-    "timestamp": "Nov 19, 2016 5:30:31 PM",
-    "topic": "60 Minutes Goes to Sweden to Film Peaceful Refugees, Gets Assaulted by Refugees",
-    "url": "https://theamericanrevenant.com/2016/11/18/60-minutes-goes-to-sweden-to-show-how-peaceful-refugees-are-entire-crew-gets-assaulted-by-refugees/",
-    "votes": 5,
-    "posted": "Nov 19, 2016 3:57:52 PM"
-  },
-  {
-    "id": "12993718",
-    "timestamp": "Nov 19, 2016 4:10:23 PM",
-    "topic": "Introducing Custom Elements",
-    "url": "https://webkit.org/blog/7027/introducing-custom-elements/",
-    "votes": 7,
-    "posted": "Nov 19, 2016 3:57:30 PM"
   }
 ];
