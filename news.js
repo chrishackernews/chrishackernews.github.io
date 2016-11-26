@@ -1,5 +1,29 @@
 var newsArray = [
   {
+    "id": "13043055",
+    "timestamp": "Nov 26, 2016 1:05:31 PM",
+    "topic": "The Only Entrepreneurship Lesson You Need (with Do/Don’t Reading List)",
+    "url": "https://medium.com/startup-grind/the-only-entrepreneurship-lesson-reading-list-you-need-105d9e3bcf5a#.8fessbxhw",
+    "votes": 3,
+    "posted": "Nov 26, 2016 12:53:24 PM"
+  },
+  {
+    "id": "13043052",
+    "timestamp": "Nov 26, 2016 1:05:31 PM",
+    "topic": "BRAIN DUMP OF a WANTREPRENEUR",
+    "url": "https://medium.com/swlh/https-medium-com-anamtahirali-brain-dump-of-a-broke-wantrepreneur-149cb7ca0853#.yddkgzp59",
+    "votes": 5,
+    "posted": "Nov 26, 2016 12:51:42 PM"
+  },
+  {
+    "id": "13043035",
+    "timestamp": "Nov 26, 2016 1:05:31 PM",
+    "topic": "Small Businesses Lament There Are Too Few Mexicans in U.S",
+    "url": "http://www.wsj.com/articles/small-businesses-lament-there-are-too-few-mexicans-in-u-s-not-too-many-1480005020",
+    "votes": 8,
+    "posted": "Nov 26, 2016 12:45:31 PM"
+  },
+  {
     "id": "13043025",
     "timestamp": "Nov 26, 2016 12:55:30 PM",
     "topic": "Fidel Castro survived at least eight assassination plots by the CIA",
@@ -7536,61 +7560,5 @@ var newsArray = [
     "url": "http://www.coolantarctica.com/Community/Antarcticans-database-project.php",
     "votes": 5,
     "posted": "Nov 19, 2016 1:59:12 PM"
-  },
-  {
-    "id": "12993258",
-    "timestamp": "Nov 19, 2016 5:20:30 PM",
-    "topic": "Android OS Now Available as an Amazon Machine Image",
-    "url": "https://medium.com/@Genymotion/android-os-now-available-as-an-amazon-machine-image-72748130436b#.xxiouodep",
-    "votes": 4,
-    "posted": "Nov 19, 2016 1:50:13 PM"
-  },
-  {
-    "id": "12993248",
-    "timestamp": "Nov 19, 2016 6:20:35 PM",
-    "topic": "How Amazon Web Services (AWS) Achieved an $11.5B Run Rate by Working Backwards",
-    "url": "https://hitenism.com/amazon-working-backwards/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 1:47:52 PM"
-  },
-  {
-    "id": "12993212",
-    "timestamp": "Nov 19, 2016 4:30:25 PM",
-    "topic": "It’s time to get rid of the Facebook “news feed,” because it’s not news",
-    "url": "http://arstechnica.com/staff/2016/11/its-time-to-get-rid-of-the-facebook-news-feed-because-its-not-news/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 1:35:07 PM"
-  },
-  {
-    "id": "12993183",
-    "timestamp": "Nov 20, 2016 2:31:29 AM",
-    "topic": "Air Defense Network of the Warsaw Pact",
-    "url": "https://www.google.com/maps/d/u/0/viewer?mid\u003d1YEk08dihkpwcnZ3HOuAA9UzP21o\u0026shorturl\u003d1\u0026ll\u003d58.15572120289618%2C91.766924697876\u0026z\u003d3",
-    "votes": 3,
-    "posted": "Nov 19, 2016 1:25:04 PM"
-  },
-  {
-    "id": "12993144",
-    "timestamp": "Nov 19, 2016 1:50:12 PM",
-    "topic": "Switching to Ubuntu from Apple",
-    "url": "http://support.system76.com/articles/switch/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 1:16:11 PM"
-  },
-  {
-    "id": "12993142",
-    "timestamp": "Nov 19, 2016 2:30:15 PM",
-    "topic": "Ex-WWII tanks still used as paddock bashers on Australian farms",
-    "url": "http://www.abc.net.au/news/2016-11-19/tinkering-with-tanks-and-preserving-australian-farming-history/8017194",
-    "votes": 3,
-    "posted": "Nov 19, 2016 1:15:06 PM"
-  },
-  {
-    "id": "12993079",
-    "timestamp": "Nov 19, 2016 3:20:19 PM",
-    "topic": "How a tectonic plate sank",
-    "url": "https://qubitsnews.com/2016/11/19/geologists-discover-how-a-tectonic-plate-sank/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:58:53 PM"
   }
 ];
