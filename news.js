@@ -1,11 +1,59 @@
 var newsArray = [
   {
+    "id": "13040737",
+    "timestamp": "Nov 26, 2016 12:54:33 AM",
+    "topic": "The Russian “Firehose of Falsehood” Propaganda Model",
+    "url": "http://www.rand.org/pubs/perspectives/PE198.html",
+    "votes": 13,
+    "posted": "Nov 26, 2016 12:41:44 AM"
+  },
+  {
+    "id": "13040706",
+    "timestamp": "Nov 26, 2016 12:44:32 AM",
+    "topic": "Urban Train Track Doubles as Shopping Alley in Thailand",
+    "url": "http://99percentinvisible.org/article/railway-market-urban-train-track-doubles-shopping-alley-thailand/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 12:36:47 AM"
+  },
+  {
+    "id": "13040395",
+    "timestamp": "Nov 26, 2016 12:54:33 AM",
+    "topic": "Peter Thiel taps a principal at Founders Fund for Trump’s transition team",
+    "url": "https://techcrunch.com/2016/11/25/peter-thiel-taps-a-principal-at-founders-fund-for-trumps-transition-team/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 11:46:19 PM"
+  },
+  {
+    "id": "13040313",
+    "timestamp": "Nov 26, 2016 12:14:28 AM",
+    "topic": "Anti-homeless spikes:Sleeping rough opened my eyes to the city’s barbed cruelty",
+    "url": "https://www.theguardian.com/society/2015/feb/18/defensive-architecture-keeps-poverty-undeen-and-makes-us-more-hostile",
+    "votes": 5,
+    "posted": "Nov 25, 2016 11:29:02 PM"
+  },
+  {
     "id": "13040227",
     "timestamp": "Nov 25, 2016 11:54:27 PM",
     "topic": "5 Common Server Setups for Your Web Application",
     "url": "https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application?utm_source\u003dCustomerio\u0026utm_medium\u003dEmail_Internal\u0026utm_campaign\u003dEmail5.1_ActivateAccount_5CommonServerSetupMistakes\u0026mkt_tok\u003deyJpIjoiWmprNU16RTFNVE14TnpNeCIsInQiOiJGYVVMSER0NUloRUVVTjJaOHFOR01VXC9YaFVpQlwvUHk4N0d2OCtRMDE4c21SdlNDVkZyb1NkZWlPbjg4VEs1T2h0OWVrMVl6QU9hMHF6dkhjXC9OT1Y5V0s0ODNwRUNtd0haS3pDTkdyMUdTMD0ifQ%3D%3D",
     "votes": 4,
     "posted": "Nov 25, 2016 11:12:53 PM"
+  },
+  {
+    "id": "13040122",
+    "timestamp": "Nov 26, 2016 12:14:29 AM",
+    "topic": "How to Get Started with Deep Learning in Python (Keras Tutorial)",
+    "url": "https://elitedatascience.com/keras-tutorial-deep-learning-in-python",
+    "votes": 14,
+    "posted": "Nov 25, 2016 10:52:15 PM"
+  },
+  {
+    "id": "13040111",
+    "timestamp": "Nov 26, 2016 12:14:28 AM",
+    "topic": "Vim :smile",
+    "url": "https://github.com/vim/vim/commit/86e179dbe75010e9545e1a2fcc92a15d57bf27fd",
+    "votes": 6,
+    "posted": "Nov 25, 2016 10:49:08 PM"
   },
   {
     "id": "13040104",
@@ -174,6 +222,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 5:21:48 PM"
   },
   {
+    "id": "13037739",
+    "timestamp": "Nov 26, 2016 12:54:33 AM",
+    "topic": "Get all 5 aws certified with Cloud Academy sub at $1/month",
+    "url": "https://cloudacademy.com/pricing/plan/professional/checkout/?code\u003ddevopsgooglereddit",
+    "votes": 3,
+    "posted": "Nov 25, 2016 5:21:24 PM"
+  },
+  {
     "id": "13037654",
     "timestamp": "Nov 25, 2016 5:33:27 PM",
     "topic": "Stripe has raised $150M more at a $9B valuation",
@@ -220,6 +276,14 @@ var newsArray = [
     "url": "http://www.techrepublic.com/article/google-deepmind-ai-destroys-human-expert-in-lip-reading-competition/",
     "votes": 4,
     "posted": "Nov 25, 2016 4:48:59 PM"
+  },
+  {
+    "id": "13037474",
+    "timestamp": "Nov 26, 2016 12:54:33 AM",
+    "topic": "Software Architecture for Developers Books 1 and 2 Free",
+    "url": "https://twitter.com/simonbrown/status/800340593507438593",
+    "votes": 6,
+    "posted": "Nov 25, 2016 4:47:11 PM"
   },
   {
     "id": "13037455",
@@ -7652,76 +7716,5 @@ var newsArray = [
     "url": "http://blog.eladgil.com/2016/11/facebook-must-really-suck-at-machine.html",
     "votes": 3,
     "posted": "Nov 19, 2016 12:55:02 AM"
-  },
-  {
-    "id": "12990998",
-    "timestamp": "Nov 19, 2016 2:39:19 AM",
-    "topic": "The lessons that changed my life.",
-    "url": "https://sivers.org/kimo",
-    "votes": 5,
-    "posted": "Nov 19, 2016 12:51:15 AM"
-  },
-  {
-    "id": "12990994",
-    "timestamp": "Nov 19, 2016 1:29:13 AM",
-    "topic": "Cursing Linked to Higher F*#@%$* Intelligence",
-    "url": "http://losangeles.cbslocal.com/2016/11/17/is-cursing-bad-or-good-for-you/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:49:20 AM"
-  },
-  {
-    "id": "12990992",
-    "timestamp": "Nov 19, 2016 2:49:20 AM",
-    "topic": "React Server-Side Rendering in Node.js at Pinterest",
-    "url": "https://engineering.pinterest.com/blog/how-we-switched-our-template-rendering-engine-react",
-    "votes": 7,
-    "posted": "Nov 19, 2016 12:49:01 AM"
-  },
-  {
-    "id": "12990981",
-    "timestamp": "Nov 19, 2016 5:29:34 AM",
-    "topic": "China Presses Tech Firms to Police the Internet",
-    "url": "http://www.wsj.com/articles/china-presses-tech-firms-to-police-the-internet-1479467851",
-    "votes": 4,
-    "posted": "Nov 19, 2016 12:46:45 AM"
-  },
-  {
-    "id": "12990902",
-    "timestamp": "Nov 19, 2016 4:19:27 AM",
-    "topic": "Ask HN: 6502 or Z80?",
-    "votes": 5,
-    "posted": "Nov 19, 2016 12:28:09 AM"
-  },
-  {
-    "id": "12990828",
-    "timestamp": "Nov 19, 2016 12:39:09 AM",
-    "topic": "Stephen Colbert Goes Off on Oxford Dictionaries’ Word of the Year",
-    "url": "http://www.huffingtonpost.com/entry/stephen-colbert-post-truth_us_582ed0b5e4b030997bbed536",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:09:34 AM"
-  },
-  {
-    "id": "12990811",
-    "timestamp": "Nov 19, 2016 12:39:08 AM",
-    "topic": "AI beating humans? Not in my lifetime, says Google’s cloud chief",
-    "url": "https://www.airsassociation.org/services-new/airs-knowledge-network-n/blog/entry/ai-beating-humans-not-in-my-lifetime-says-google-s-cloud-chief",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:04:56 AM"
-  },
-  {
-    "id": "12990791",
-    "timestamp": "Nov 19, 2016 12:59:11 AM",
-    "topic": "The Beta Marriage: How Millennials Approach \u0027I Do\u0027",
-    "url": "http://time.com/3024606/millennials-marriage-sex-relationships-hook-ups/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 12:02:05 AM"
-  },
-  {
-    "id": "12990764",
-    "timestamp": "Nov 19, 2016 2:29:18 AM",
-    "topic": "Show HN: Paperworks.io – All your receipts, invoices, and payments in one place",
-    "url": "https://paperworks.io",
-    "votes": 4,
-    "posted": "Nov 18, 2016 11:57:05 PM"
   }
 ];
