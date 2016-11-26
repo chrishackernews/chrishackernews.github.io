@@ -1,11 +1,75 @@
 var newsArray = [
   {
+    "id": "13041730",
+    "timestamp": "Nov 26, 2016 5:54:57 AM",
+    "topic": "Wells Fargo says customers gave up right to sue by having signatures forged",
+    "url": "http://boingboing.net/2016/11/25/wells-fargo-says-that-its-cust.html",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:33:46 AM"
+  },
+  {
+    "id": "13041705",
+    "timestamp": "Nov 26, 2016 5:44:56 AM",
+    "topic": "Auto Safety Regulators Seek a Driver Mode to Block Apps",
+    "url": "http://mobile.nytimes.com/2016/11/22/business/auto-safety-regulators-seek-a-driver-mode-to-block-apps.html",
+    "votes": 5,
+    "posted": "Nov 26, 2016 5:25:10 AM"
+  },
+  {
+    "id": "13041679",
+    "timestamp": "Nov 26, 2016 5:54:58 AM",
+    "topic": "How We’ve Built a Remote Company Culture to Be Grateful For",
+    "url": "https://www.groovehq.com/blog/a-remote-culture-to-be-grateful-for",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:12:07 AM"
+  },
+  {
+    "id": "13041658",
+    "timestamp": "Nov 26, 2016 5:54:58 AM",
+    "topic": "Trump Defeated Republicans as Much or More Than Democrats",
+    "url": "http://www.cnbc.com/2016/11/25/trump-defeated-republicans-as-much-or-more-than-democrats.html",
+    "votes": 4,
+    "posted": "Nov 26, 2016 5:03:36 AM"
+  },
+  {
+    "id": "13041656",
+    "timestamp": "Nov 26, 2016 5:54:58 AM",
+    "topic": "Delete yourself from the internet by pressing this button",
+    "url": "http://thenextweb.com/apps/2016/11/24/delete-internet/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:03:01 AM"
+  },
+  {
+    "id": "13041567",
+    "timestamp": "Nov 26, 2016 5:54:58 AM",
+    "topic": "Groovy – An Open Source Success Story",
+    "url": "https://www.sitepoint.com/groovy-open-source-success-story/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 4:30:28 AM"
+  },
+  {
+    "id": "13041538",
+    "timestamp": "Nov 26, 2016 5:54:57 AM",
+    "topic": "Lessons Learned from Shenzhen I/O",
+    "url": "https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io",
+    "votes": 7,
+    "posted": "Nov 26, 2016 4:24:31 AM"
+  },
+  {
     "id": "13041361",
     "timestamp": "Nov 26, 2016 3:54:47 AM",
     "topic": "Debian putting everything on the /usr",
     "url": "http://www.theregister.co.uk/2016/11/24/debian_testing_merged_codeusrcode/?mt\u003d1480127476882",
     "votes": 4,
     "posted": "Nov 26, 2016 3:31:30 AM"
+  },
+  {
+    "id": "13041344",
+    "timestamp": "Nov 26, 2016 5:44:56 AM",
+    "topic": "Some thoughts on the supposed evidence of MI, PA, and WI election irregularities",
+    "url": "http://electionupdates.caltech.edu/2016/11/24/some-thoughts-about-the-reports-of-supposed-evidence-of-election-irregularities-in-mi-pa-and-wi/",
+    "votes": 5,
+    "posted": "Nov 26, 2016 3:22:07 AM"
   },
   {
     "id": "13041287",
@@ -38,6 +102,13 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dfxZuzos7Auk",
     "votes": 3,
     "posted": "Nov 26, 2016 2:16:36 AM"
+  },
+  {
+    "id": "13040962",
+    "timestamp": "Nov 26, 2016 5:24:55 AM",
+    "topic": "Ask HN: Anyone else getting calendar spam?",
+    "votes": 7,
+    "posted": "Nov 26, 2016 1:30:48 AM"
   },
   {
     "id": "13040948",
@@ -269,6 +340,14 @@ var newsArray = [
     "url": "http://www.bloomberg.com/news/articles/2016-11-22/the-tesla-shock-global-gasoline-consumption-has-all-but-peaked",
     "votes": 9,
     "posted": "Nov 25, 2016 7:53:15 PM"
+  },
+  {
+    "id": "13038912",
+    "timestamp": "Nov 26, 2016 5:44:56 AM",
+    "topic": "Lab-made diamonds: It’s a giant scam, but you’re still going to buy one",
+    "url": "http://iwantwhatitsworth.com/blog/diamond-foundry-lab-made-diamonds-scam/",
+    "votes": 3,
+    "posted": "Nov 25, 2016 7:41:32 PM"
   },
   {
     "id": "13038276",
@@ -7550,29 +7629,5 @@ var newsArray = [
     "url": "https://www.streak.com/careers#BackendTechLead",
     "votes": 1,
     "posted": "Nov 19, 2016 5:55:37 AM"
-  },
-  {
-    "id": "12992102",
-    "timestamp": "Nov 20, 2016 2:31:30 AM",
-    "topic": "Steve Bannon blasted in letter by 685 Harvard Business School women",
-    "url": "http://money.cnn.com/2016/11/18/technology/steve-bannon-harvard-business-school/index.html",
-    "votes": 4,
-    "posted": "Nov 19, 2016 5:38:12 AM"
-  },
-  {
-    "id": "12992050",
-    "timestamp": "Nov 19, 2016 11:20:00 AM",
-    "topic": "Tesla Vision Demonstration (Autopilot Full Self-Driving Hardware)",
-    "url": "https://www.tesla.com/videos/autopilot-self-driving-hardware-neighborhood-long",
-    "votes": 8,
-    "posted": "Nov 19, 2016 5:19:55 AM"
-  },
-  {
-    "id": "12992047",
-    "timestamp": "Nov 19, 2016 1:40:11 PM",
-    "topic": "PlantUML: Easily create UML Diagrams from simple textual description",
-    "url": "http://plantuml.com/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 5:17:16 AM"
   }
 ];
