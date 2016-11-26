@@ -1,5 +1,68 @@
 var newsArray = [
   {
+    "id": "13044262",
+    "timestamp": "Nov 26, 2016 5:15:52 PM",
+    "topic": "The New Haxe Target: HashLink InDepth – Part 1",
+    "url": "http://haxe.org/blog/hashlink-indepth",
+    "votes": 3,
+    "posted": "Nov 26, 2016 5:05:29 PM"
+  },
+  {
+    "id": "13044238",
+    "timestamp": "Nov 26, 2016 5:15:51 PM",
+    "topic": "WebODM – Generate maps, point clouds and textured 3D models from drone images",
+    "url": "https://github.com/OpenDroneMap/WebODM",
+    "votes": 4,
+    "posted": "Nov 26, 2016 5:00:25 PM"
+  },
+  {
+    "id": "13044221",
+    "timestamp": "Nov 26, 2016 5:15:52 PM",
+    "topic": "Typed, modular macros for OCaml",
+    "url": "https://oliviernicole.github.io/about_macros.html",
+    "votes": 3,
+    "posted": "Nov 26, 2016 4:57:53 PM"
+  },
+  {
+    "id": "13044214",
+    "timestamp": "Nov 26, 2016 5:15:52 PM",
+    "topic": "Strymonas library – optimal stream processing using staging",
+    "url": "https://strymonas.github.io/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 4:56:53 PM"
+  },
+  {
+    "id": "13044165",
+    "timestamp": "Nov 26, 2016 5:15:52 PM",
+    "topic": "Spreadsheet Programming with User Defined Types and Functions [pdf]",
+    "url": "http://homepages.inf.ed.ac.uk/dts/students/williams/report.pdf",
+    "votes": 3,
+    "posted": "Nov 26, 2016 4:51:32 PM"
+  },
+  {
+    "id": "13044005",
+    "timestamp": "Nov 26, 2016 5:15:52 PM",
+    "topic": "Zapcc – a faster C++ compiler",
+    "url": "http://baptiste-wicht.com/posts/2016/11/zapcc-a-faster-c%2B%2B-compiler.html",
+    "votes": 3,
+    "posted": "Nov 26, 2016 4:30:25 PM"
+  },
+  {
+    "id": "13043958",
+    "timestamp": "Nov 26, 2016 5:25:53 PM",
+    "topic": "Ask HN: What projects are you currently working on?",
+    "votes": 8,
+    "posted": "Nov 26, 2016 4:24:16 PM"
+  },
+  {
+    "id": "13043807",
+    "timestamp": "Nov 26, 2016 5:15:52 PM",
+    "topic": "A Simple Explanation of How Shares Move Around the Securities Settlement System",
+    "url": "https://gendal.me/2014/01/05/a-simple-explanation-of-how-shares-move-around-the-securities-settlement-system/",
+    "votes": 3,
+    "posted": "Nov 26, 2016 3:59:11 PM"
+  },
+  {
     "id": "13043761",
     "timestamp": "Nov 26, 2016 4:15:47 PM",
     "topic": "Breitbart news site blocked by ad exchange",
@@ -93,6 +156,14 @@ var newsArray = [
     "url": "https://www.theguardian.com/education/2016/nov/26/the-non-western-books-that-every-student-should-read",
     "votes": 6,
     "posted": "Nov 26, 2016 1:02:09 PM"
+  },
+  {
+    "id": "13043087",
+    "timestamp": "Nov 26, 2016 5:25:53 PM",
+    "topic": "The most flexible synthesizer is DIY, Raspberry PI",
+    "url": "http://hackaday.com/2016/11/26/the-most-flexible-synthesizer-is-diy-raspberry-pi/",
+    "votes": 8,
+    "posted": "Nov 26, 2016 1:00:11 PM"
   },
   {
     "id": "13043055",
@@ -7533,53 +7604,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/wonk/wp/2016/11/19/the-real-secret-to-asian-american-success-was-not-education/",
     "votes": 3,
     "posted": "Nov 19, 2016 6:00:14 PM"
-  },
-  {
-    "id": "12994262",
-    "timestamp": "Nov 19, 2016 6:20:35 PM",
-    "topic": "Why Stoicism is one of the best mind-hacks ever devised",
-    "url": "https://aeon.co/essays/why-stoicism-is-one-of-the-best-mind-hacks-ever-devised?utm_source\u003dTheAtlantic\u0026utm_campaign\u003dWeek1-TheAtlantic-Swap\u0026utm_medium\u003dsocial",
-    "votes": 9,
-    "posted": "Nov 19, 2016 5:55:47 PM"
-  },
-  {
-    "id": "12994218",
-    "timestamp": "Nov 20, 2016 3:42:36 PM",
-    "topic": "On teaching mathematics, by V.I. Arnold (1997)",
-    "url": "http://pauli.uni-muenster.de/~munsteg/arnold.html",
-    "votes": 4,
-    "posted": "Nov 19, 2016 5:46:10 PM"
-  },
-  {
-    "id": "12994132",
-    "timestamp": "Nov 19, 2016 5:50:33 PM",
-    "topic": "DeepLearningKit: Open source framework for Apple platforms using Swift",
-    "url": "http://deeplearningkit.org",
-    "votes": 6,
-    "posted": "Nov 19, 2016 5:25:33 PM"
-  },
-  {
-    "id": "12994122",
-    "timestamp": "Nov 20, 2016 2:31:29 AM",
-    "topic": "How a Serial Con Man Fooled Silicon Valley and Took an NFL Star\u0027s Millions",
-    "url": "http://www.inc.com/salvador-rodriguez/eren-niazi-patrick-willis.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 5:23:50 PM"
-  },
-  {
-    "id": "12994108",
-    "timestamp": "Nov 20, 2016 2:31:30 AM",
-    "topic": "How Twitter CEO, Jack Dorsey, Restricted Advertising for Trump’s Campaign",
-    "url": "https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff#",
-    "votes": 5,
-    "posted": "Nov 19, 2016 5:20:46 PM"
-  },
-  {
-    "id": "12994004",
-    "timestamp": "Nov 19, 2016 5:30:31 PM",
-    "topic": "Introduction to Swift Intermediate Language – Alex Blewitt",
-    "url": "https://www.youtube.com/watch?v\u003dNH-qIKOoKgA",
-    "votes": 3,
-    "posted": "Nov 19, 2016 5:00:54 PM"
   }
 ];
