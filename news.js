@@ -1,11 +1,43 @@
 var newsArray = [
   {
+    "id": "13042199",
+    "timestamp": "Nov 26, 2016 8:55:12 AM",
+    "topic": "Mulle-Objc: A New Objective-C Compiler and Runtime",
+    "url": "https://mulle-objc.github.io",
+    "votes": 4,
+    "posted": "Nov 26, 2016 7:57:57 AM"
+  },
+  {
+    "id": "13042177",
+    "timestamp": "Nov 26, 2016 8:35:10 AM",
+    "topic": "A first look at Facebook’s high-resolution population maps",
+    "url": "http://blogs.worldbank.org/opendata/first-look-facebook-s-high-resolution-population-maps",
+    "votes": 3,
+    "posted": "Nov 26, 2016 7:51:42 AM"
+  },
+  {
     "id": "13042061",
     "timestamp": "Nov 26, 2016 7:55:06 AM",
     "topic": "Inside a Fake News Sausage Factory: ‘This Is All About Income’",
     "url": "http://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-clinton-georgia.html?hp\u0026action\u003dclick\u0026pgtype\u003dHomepage\u0026clickSource\u003dstory-heading\u0026module\u003da-lede-package-region\u0026region\u003dtop-news\u0026WT.nav\u003dtop-news",
     "votes": 4,
     "posted": "Nov 26, 2016 7:25:32 AM"
+  },
+  {
+    "id": "13042026",
+    "timestamp": "Nov 26, 2016 8:35:10 AM",
+    "topic": "Marc Andreessen: “We Are Biased Toward People Who Never Give Up.”",
+    "url": "https://www.gsb.stanford.edu/insights/marc-andreessen-we-are-biased-toward-people-who-never-give",
+    "votes": 4,
+    "posted": "Nov 26, 2016 7:18:23 AM"
+  },
+  {
+    "id": "13041912",
+    "timestamp": "Nov 26, 2016 8:35:10 AM",
+    "topic": "Top Books on Amazon Based on Number of HN Users Linking Them in Comments",
+    "url": "http://ramiro.org/vis/hn-most-linked-books-unique-users/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 6:40:22 AM"
   },
   {
     "id": "13041886",
@@ -62,6 +94,14 @@ var newsArray = [
     "url": "http://thenextweb.com/apps/2016/11/24/delete-internet/",
     "votes": 3,
     "posted": "Nov 26, 2016 5:03:01 AM"
+  },
+  {
+    "id": "13041579",
+    "timestamp": "Nov 26, 2016 8:45:11 AM",
+    "topic": "JSON hijacking for the modern web",
+    "url": "http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html",
+    "votes": 3,
+    "posted": "Nov 26, 2016 4:33:31 AM"
   },
   {
     "id": "13041567",
@@ -206,6 +246,14 @@ var newsArray = [
     "posted": "Nov 26, 2016 12:17:07 AM"
   },
   {
+    "id": "13040502",
+    "timestamp": "Nov 26, 2016 8:25:09 AM",
+    "topic": "The AI Singularity Is Not Nigh",
+    "url": "https://medium.com/@abarisser/the-ai-singularity-is-not-nigh-35ce2d67d6ee#.s69ybxj85",
+    "votes": 4,
+    "posted": "Nov 26, 2016 12:03:52 AM"
+  },
+  {
     "id": "13040395",
     "timestamp": "Nov 26, 2016 12:54:33 AM",
     "topic": "Peter Thiel taps a principal at Founders Fund for Trump’s transition team",
@@ -285,6 +333,14 @@ var newsArray = [
     "posted": "Nov 25, 2016 10:28:11 PM"
   },
   {
+    "id": "13039928",
+    "timestamp": "Nov 26, 2016 8:45:11 AM",
+    "topic": "AWS Well-Architected Framework [pdf]",
+    "url": "http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf",
+    "votes": 4,
+    "posted": "Nov 25, 2016 10:21:34 PM"
+  },
+  {
     "id": "13039878",
     "timestamp": "Nov 26, 2016 2:24:41 AM",
     "topic": "Arctic ice melt could trigger uncontrollable climate change at global level",
@@ -323,6 +379,14 @@ var newsArray = [
     "url": "http://www.dw.com/en/germany-planning-to-massively-limit-privacy-rights/a-36529692",
     "votes": 4,
     "posted": "Nov 25, 2016 9:00:02 PM"
+  },
+  {
+    "id": "13039364",
+    "timestamp": "Nov 26, 2016 8:35:10 AM",
+    "topic": "Show HN: JSON-Splora, a gui for editing, visualizing, and manipulating JSON data",
+    "url": "https://github.com/wellsjo/JSON-Splora",
+    "votes": 6,
+    "posted": "Nov 25, 2016 8:51:30 PM"
   },
   {
     "id": "13039336",
@@ -7572,29 +7636,5 @@ var newsArray = [
     "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/17/this-researcher-programmed-bots-to-fight-racism-on-twitter-it-worked/",
     "votes": 5,
     "posted": "Nov 19, 2016 8:57:00 AM"
-  },
-  {
-    "id": "12992497",
-    "timestamp": "Nov 19, 2016 9:09:51 AM",
-    "topic": "The Rise and Fall of the Open Source Mobile (2014)",
-    "url": "https://relay70.metatron.ai/the-rise-and-fall-of-the-open-source-mobile/",
-    "votes": 3,
-    "posted": "Nov 19, 2016 8:41:52 AM"
-  },
-  {
-    "id": "12992461",
-    "timestamp": "Nov 19, 2016 10:59:58 AM",
-    "topic": "Chomsky: The U.S. behaves nothing like a democracy (2013)",
-    "url": "http://www.salon.com/2013/08/17/chomsky_the_u_s_behaves_nothing_like_a_democracy/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 8:26:16 AM"
-  },
-  {
-    "id": "12992448",
-    "timestamp": "Nov 19, 2016 8:39:48 AM",
-    "topic": "Autonomous Shipping Containers – Self-Driving Cars – Medium",
-    "url": "https://medium.com/self-driving-cars/autonomous-shipping-containers-a35943fe53a3#.ld4vwngwb",
-    "votes": 3,
-    "posted": "Nov 19, 2016 8:20:37 AM"
   }
 ];
