@@ -1,5 +1,84 @@
 var newsArray = [
   {
+    "id": "13043592",
+    "timestamp": "Nov 26, 2016 3:35:43 PM",
+    "topic": "Ask HN: Remote workers, what headphone/mic combo do you use for video calls?",
+    "votes": 10,
+    "posted": "Nov 26, 2016 3:25:32 PM"
+  },
+  {
+    "id": "13043559",
+    "timestamp": "Nov 26, 2016 3:35:43 PM",
+    "topic": "Solving a Mystery Behind the Deadly ‘Tsunami of Molasses’ of 1919",
+    "url": "http://www.nytimes.com/2016/11/26/science/boston-molasses-flood-science.html",
+    "votes": 4,
+    "posted": "Nov 26, 2016 3:14:40 PM"
+  },
+  {
+    "id": "13043536",
+    "timestamp": "Nov 26, 2016 3:35:43 PM",
+    "topic": "Symbiosis of Docker and Perl",
+    "url": "https://codeandtalk.com/v/yapc-eu-2016/miroslav-tynovsky-symbiosis-of-docker-and-perl-yapceurope-2016",
+    "votes": 6,
+    "posted": "Nov 26, 2016 3:08:48 PM"
+  },
+  {
+    "id": "13043505",
+    "timestamp": "Nov 26, 2016 3:05:40 PM",
+    "topic": "How to avoid the UK’s new online surveillance powers",
+    "url": "http://www.theverge.com/2016/11/25/13746042/uk-surveillance-bill-private-browsing-online",
+    "votes": 3,
+    "posted": "Nov 26, 2016 2:59:02 PM"
+  },
+  {
+    "id": "13043461",
+    "timestamp": "Nov 26, 2016 3:35:43 PM",
+    "topic": "Python Release 2.7.12",
+    "url": "https://www.python.org/downloads/release/python-2712/",
+    "votes": 6,
+    "posted": "Nov 26, 2016 2:45:01 PM"
+  },
+  {
+    "id": "13043432",
+    "timestamp": "Nov 26, 2016 3:25:42 PM",
+    "topic": "Counting Castro\u0027s Victims (2005)",
+    "url": "http://www.wsj.com/articles/SB113590852154334404",
+    "votes": 3,
+    "posted": "Nov 26, 2016 2:38:17 PM"
+  },
+  {
+    "id": "13043423",
+    "timestamp": "Nov 26, 2016 3:25:42 PM",
+    "topic": "Don\u0027t Lower Corporate Taxes. Abolish Them",
+    "url": "https://www.bloomberg.com/view/articles/2016-11-25/don-t-just-lower-corporate-taxes-abolish-them?cmpid\u003dsocialflow-facebook-view\u0026utm_campaign\u003dsocialflow-organic\u0026utm_content\u003dview\u0026utm_medium\u003dsocial\u0026utm_source\u003dfacebook",
+    "votes": 8,
+    "posted": "Nov 26, 2016 2:35:17 PM"
+  },
+  {
+    "id": "13043422",
+    "timestamp": "Nov 26, 2016 3:35:43 PM",
+    "topic": "A Week with the New Macbook Pro with Touch Pad",
+    "url": "https://medium.com/@housecor/a-week-with-the-new-macbook-pro-with-touch-pad-126eebb89ac",
+    "votes": 4,
+    "posted": "Nov 26, 2016 2:34:53 PM"
+  },
+  {
+    "id": "13043349",
+    "timestamp": "Nov 26, 2016 3:05:40 PM",
+    "topic": "Intel preferentially offers two customers Skylake Xeon CPUs",
+    "url": "https://semiaccurate.com/2016/11/17/intel-preferentially-offers-two-customers-skylake-xeon-cpus/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 2:16:59 PM"
+  },
+  {
+    "id": "13043091",
+    "timestamp": "Nov 26, 2016 3:55:45 PM",
+    "topic": "The non-western books that every student should read",
+    "url": "https://www.theguardian.com/education/2016/nov/26/the-non-western-books-that-every-student-should-read",
+    "votes": 6,
+    "posted": "Nov 26, 2016 1:02:09 PM"
+  },
+  {
     "id": "13043055",
     "timestamp": "Nov 26, 2016 1:05:31 PM",
     "topic": "The Only Entrepreneurship Lesson You Need (with Do/Don’t Reading List)",
@@ -102,6 +181,13 @@ var newsArray = [
     "url": "http://blogs.worldbank.org/opendata/first-look-facebook-s-high-resolution-population-maps",
     "votes": 3,
     "posted": "Nov 26, 2016 7:51:42 AM"
+  },
+  {
+    "id": "13042161",
+    "timestamp": "Nov 26, 2016 3:55:45 PM",
+    "topic": "Ask HN: At what age did you use a computer for the first time?",
+    "votes": 4,
+    "posted": "Nov 26, 2016 7:48:08 AM"
   },
   {
     "id": "13042061",
@@ -284,6 +370,14 @@ var newsArray = [
     "url": "https://www.youtube.com/watch?v\u003dfxZuzos7Auk",
     "votes": 3,
     "posted": "Nov 26, 2016 2:16:36 AM"
+  },
+  {
+    "id": "13041014",
+    "timestamp": "Nov 26, 2016 3:35:43 PM",
+    "topic": "Show HN: Starterpacks – discover hobbies and more with community created packs",
+    "url": "https://www.getstarterpacks.com/",
+    "votes": 4,
+    "posted": "Nov 26, 2016 1:43:59 AM"
   },
   {
     "id": "13040962",
@@ -1014,6 +1108,14 @@ var newsArray = [
     "url": "https://6guts.wordpress.com/2016/11/25/perl-6-is-biased-towards-mutators-being-really-simple-thats-a-good-thing/",
     "votes": 4,
     "posted": "Nov 25, 2016 9:07:24 AM"
+  },
+  {
+    "id": "13034969",
+    "timestamp": "Nov 26, 2016 3:45:44 PM",
+    "topic": "Show HN: Unhoard emails you a selection of your things from Pocket once a week",
+    "url": "https://www.unhoard.io/",
+    "votes": 4,
+    "posted": "Nov 25, 2016 8:47:10 AM"
   },
   {
     "id": "13034936",
@@ -1765,6 +1867,14 @@ var newsArray = [
     "url": "http://www.theverge.com/2016/11/23/13730092/spacex-nasa-contract-surface-water-ocean-topography-swot",
     "votes": 8,
     "posted": "Nov 24, 2016 5:03:56 PM"
+  },
+  {
+    "id": "13030837",
+    "timestamp": "Nov 26, 2016 3:45:44 PM",
+    "topic": "Show HN: Cycle-accurate Nintendo NES emulator in ~1000 lines of code",
+    "url": "https://github.com/AndreaOrru/LaiNES.git",
+    "votes": 18,
+    "posted": "Nov 24, 2016 4:39:24 PM"
   },
   {
     "id": "13030709",
@@ -7479,61 +7589,5 @@ var newsArray = [
     "url": "https://webkit.org/blog/7027/introducing-custom-elements/",
     "votes": 7,
     "posted": "Nov 19, 2016 3:57:30 PM"
-  },
-  {
-    "id": "12993709",
-    "timestamp": "Nov 19, 2016 4:30:25 PM",
-    "topic": "Dropbox doesn\u0027t write change logs for their builds, but expects feedback",
-    "url": "https://www.dropboxforum.com/t5/Desktop-client-builds/Beta-Build-15-3-19/m-p/194282#M3484",
-    "votes": 5,
-    "posted": "Nov 19, 2016 3:54:51 PM"
-  },
-  {
-    "id": "12993699",
-    "timestamp": "Nov 20, 2016 2:31:29 AM",
-    "topic": "What I Discovered About Trump/Clinton from Analyzing 4M Facebook Posts",
-    "url": "https://shift.newco.co/what-i-discovered-about-trump-and-clinton-from-analyzing-4-million-facebook-posts-922a4381fd2f",
-    "votes": 3,
-    "posted": "Nov 19, 2016 3:51:37 PM"
-  },
-  {
-    "id": "12993610",
-    "timestamp": "Nov 19, 2016 11:01:11 PM",
-    "topic": "63 days to make these 5 changes to protect your users before Trump is sworn in",
-    "url": "https://boingboing.net/2016/11/18/tech-companies-you-have-63-da.html",
-    "votes": 3,
-    "posted": "Nov 19, 2016 3:28:54 PM"
-  },
-  {
-    "id": "12993594",
-    "timestamp": "Nov 19, 2016 3:40:20 PM",
-    "topic": "Show HN: Tensorflow implementation of Conditional PixelCNN",
-    "url": "https://github.com/anantzoid/Conditional-PixelCNN-decoder",
-    "votes": 4,
-    "posted": "Nov 19, 2016 3:24:39 PM"
-  },
-  {
-    "id": "12993593",
-    "timestamp": "Nov 19, 2016 6:40:37 PM",
-    "topic": "Firefox 51 to Enable WebGL 2, FLAC Audio, Skia Content Rendering on Linux",
-    "url": "https://www.phoronix.com/scan.php?page\u003dnews_item\u0026px\u003dFirefox-51-Beta",
-    "votes": 5,
-    "posted": "Nov 19, 2016 3:24:38 PM"
-  },
-  {
-    "id": "12993549",
-    "timestamp": "Nov 19, 2016 4:10:23 PM",
-    "topic": "NIH Scientists Identify Potent Antibody That Neutralizes Nearly All HIV Strains",
-    "url": "https://www.niaid.nih.gov/news-events/nih-scientists-identify-potent-antibody-neutralizes-nearly-all-hiv-strains",
-    "votes": 4,
-    "posted": "Nov 19, 2016 3:13:27 PM"
-  },
-  {
-    "id": "12993521",
-    "timestamp": "Nov 19, 2016 3:50:21 PM",
-    "topic": "New GNU Octave website",
-    "url": "https://www.gnu.org/software/octave/",
-    "votes": 4,
-    "posted": "Nov 19, 2016 3:05:04 PM"
   }
 ];
